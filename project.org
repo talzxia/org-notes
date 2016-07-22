@@ -1,0 +1,21 @@
+#+STARTUP: showall
+#+STARTUP: hidestars
+#+FILETAGS: proj 
+#+COLUMNS: %38ITEM(Details) %TAGS(Contest) %7TODO(To Do） %5Effort(Time){:} %6 CLOCKSUM{Total}
+
+* TODO 项目 1
+- State "TODO"       from ""           [2016-06-21 Tue 15:24]
+* TODO GTD 
+学习 gtd 作为一个项目，因内容多复杂。
+
+finished.org 
+
+#+STARTUP: hidestars
+
+project.org
+
+#+STARTUP: showall
+#+STARTUP: hidestars
+#+FILETAGS: proj 
+#+COLUMNS: %38ITEM(Details) $TAGS(Context) %7TODO(To Do) %5Effort(Time){:} %6CLOCKSUM{Total}
+
