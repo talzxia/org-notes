@@ -61,3 +61,11 @@
    - State "DONE"       from "STARTED"    [2016-07-22 Fri 20:43]
    CLOCK: [2016-07-22 Fri 20:25]--[2016-07-22 Fri 20:43] =>  0:18
    :END:
+** DONE 学习查找替换
+   CLOSED: [2016-07-23 Sat 16:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-23 Sat 16:59]
+   CLOCK: [2016-07-23 Sat 16:45]--[2016-07-23 Sat 16:59] =>  0:14
+   :END:
+:s/old/new/g
+Is a woman in a blue cap cheeful? No, a woman in a blue cap is sad.
