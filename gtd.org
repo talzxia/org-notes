@@ -8,7 +8,11 @@
    CLOCK: [2016-07-20 Wed 20:29]--[2016-07-20 Wed 20:34] =>  0:05
    :END:
 
-** TODO [#B] 试用子龙山人的配置，好用
+** DONE [#B] 试用子龙山人的配置，好用
+   CLOSED: [2016-07-24 Sun 10:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-24 Sun 10:48]
+   :END:
 
 ** DONE [#B] test
    CLOSED: [2016-07-21 四 04:17]
@@ -156,10 +160,26 @@
    - State "DONE"       from "STARTED"    [2016-07-24 Sun 06:48]
    :END:
 
+** DONE [#B] 清理清扫准备工作20分钟
+   CLOSED: [2016-07-24 Sun 08:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-24 Sun 08:43]
+   :END:
+
+** DONE [#B] relaxing and listen Englis song
+   CLOSED: [2016-07-24 Sun 10:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-24 Sun 10:48]
+   CLOCK: [2016-07-24 Sun 10:17]--[2016-07-24 Sun 10:48] =>  0:31
+   :END:
+
+
 * Cocos2D-X
 
-** STARTED [#A] 制定下学期工作目标
+** DONE [#A] 制定下学期工作目标
+   CLOSED: [2016-07-24 Sun 10:48]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-24 Sun 10:48]
    CLOCK: [2016-07-21 Thu 09:36]--[2016-07-21 Thu 09:55] =>  0:19
    :END:
 

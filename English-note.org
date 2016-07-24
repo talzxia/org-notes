@@ -1,9 +1,15 @@
-** listen
-*** DONE listen
+* listen
+** DONE listen
     CLOSED: [2016-07-22 Fri 21:11]
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2016-07-22 Fri 21:11]
     CLOCK: [2016-07-22 Fri 20:52]--[2016-07-22 Fri 21:11] =>  0:19
+    :END:
+** DONE listen 英语发音unit one
+    CLOSED: [2016-07-24 Sun 11:12]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-24 Sun 11:12]
+    CLOCK: [2016-07-24 Sun 10:50]--[2016-07-24 Sun 11:12] =>  0:22
     :END:
 ** words
 
@@ -119,6 +125,405 @@
 
  Literacy is traditionally understood as the ability to read and write. The term's meaning has been expanded to include the ability to use language, numbers, images and other means to understand and use the dominant symbol systems of a culture. The concept of literacy is expanding in OECD countries to include skills to access knowledge through technology and ability to assess complex contexts.Literacy represents the lifelong, intellectual process of gaining meaning from a critical interpretation of written or printed text. The key to all literacy is reading development, a progression of skills that begins with the ability to understand spoken words and decode written words, and culminates in the deep understanding of text. Reading development involves a range of complex language underpinnings including awareness of speech sounds (phonology), spelling patterns (orthography), word meaning (semantics), grammar (syntax) and patterns of word formation (morphology), all of which provide a necessary platform for reading fluency and comprehension. Once these skills are acquired, the reader can attain full language literacy, which includes the abilities to apply to printed material critical analysis, inference and synthesis; to write with accuracy and coherence; and to use information and insights from text as the basis for informed decisions and creative thought. The inability to do so is called illiteracy or analphabetism.The United Nations Educational, Scientific and Cultural Organization (UNESCO) defines literacy as the "ability to identify, understand, interpret, create, communicate and compute, using printed and written materials associated with varying contexts. Literacy involves a continuum of learning in enabling individuals to achieve their goals, to develop their knowledge and potential, and to participate fully in their community and wider society".
  来源于：维基百科
+
+
+** DONE Lesson one
+   CLOSED: [2016-07-24 Sun 21:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-24 Sun 21:39]
+   - State "STARTED"    from "DONE"       [2016-07-24 Sun 21:38]
+   - State "DONE"       from "WAITING"    [2016-07-24 Sun 21:38]
+   - State "SOMEDAY"    from "WAITING"    [2016-07-24 Sun 21:38]
+   - State "DONE"       from "STARTED"    [2016-07-24 Sun 21:37]
+   CLOCK: [2016-07-24 Sun 21:04]--[2016-07-24 Sun 21:39] =>  0:35
+   :END:
+*** text
+a man
+a woman
+a boy
+a girl
+a monkey
+a giraffe
+
+to walk
+to sit
+to run
+to eat
+to drink
+to stand
+
+a plate
+a bird
+a fish
+a helicopter
+a tree
+a flower
+
+The monkey is sitting down.
+The woman is lying down
+The boy is sitting down
+The monkey is standing
+
+The girl is standing
+the woman is walking
+The giraffe is walking.
+The boy is running.
+The woman is standing.
+The girl is running.
+
+The plate is flying.
+The fish is swimming.
+The man is swimming
+The bird is flying.
+The helicopter is flying.
+The man is flying
+
+The girl is drinking.
+The man is drinking.
+The monkey is eating.
+The bird is drinking.
+The boy is eating.
+The man is eating.
+
+The girl is running.
+The monkey is walking
+The boy is running.
+The bear is lying down.
+The girl is walking.
+The giraffe is walking.
+
+Is the bear swimming? Yes, the bear is swimming.
+Is the boy walking? Yes, the boy is walking.
+Is the man walking? Yes, the man is walking.
+Is the giraffe eating? Yes, the giraffe is eating.
+Is the woman drinking? Yes, the woman is drinking.
+Is the bird eating? Yes, the bird is eating.
+
+Is the fish flying? No, the fish is swimming.
+Is the giraffe running? No, the giraffe is standing.
+Is the bear eating? No, the bear is swimming.
+Is the monkey walking? No,the monkey is sitting down.
+Is the girl standing up? No, the girl is sitting down.
+Is the bird running? No, the bird is flying.
+
+
+** DONE Lesson two 97.9%
+   CLOSED: [2016-07-24 Sun 21:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-24 Sun 21:04]
+   CLOCK: [2016-07-24 Sun 20:38]--[2016-07-24 Sun 21:04] =>  0:26
+   :END:
+*** text
+black
+red
+blue
+white
+green
+
+a horse
+a banana
+a car
+a dress
+a bag
+an orange
+
+big
+small
+short
+a man and a woman
+a boy and a girl
+long
+
+a white horse
+blue sky
+a green tree
+a black car
+a white plate
+a red bag
+
+a short yellow dress
+a big red bag
+a long black dress
+a short yellow dress
+a small yellow car
+a long white car
+
+a small green tree
+a big tree
+a blue bag
+a small black horse
+a blue dress
+
+a small pink bag
+a black bag
+a pink flower
+blue sky
+pink dress
+A boy is eating a yellow banana.
+
+The black monkey is walking.
+a yellow flower
+a long white dress
+a white flower
+The white bear is swimming.
+The white plate is flying.
+
+Is the bag red? Yes, the bag is red.
+Is the dress blue? Yes, the dress is blue.
+Is the car black? Yes, the car is black.
+Is the banana yellow? Yes, the banana is yellow.
+Is the tree green? Yes, the tree is green.
+Is the bear white?  Yes, the bear is white.
+
+Is the black dress long? No, it's short.
+Is the long dress white? No, it's black.
+Is the plate big? No, it is small.
+Is the green tree big? No, it is small.
+Is the plate small? No, it is big.
+Is the tree small? No, it is big.
+
+
+** DONE Lesson three 97.4%
+   CLOSED: [2016-07-24 Sun 16:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-24 Sun 16:07]
+   CLOCK: [2016-07-24 Sun 15:32]--[2016-07-24 Sun 16:07] =>  0:35
+   :END:
+*** text
+water
+grass
+stone
+sand
+an umbrella
+a glass
+
+over
+under
+behind
+in front of
+with
+without
+
+on the left
+on the right
+around
+between
+in
+on
+
+The man is sitting under a tree.
+A man is over the water.
+The man is between the women.
+The woman is between the men.
+The man is over the grass.
+The man is standing under a blue umbrella.
+
+A girl is on the griaffe.
+The woman is lying on the grass.
+A big stone is on the grass.
+A woman in red
+A woman is on a big stone.
+The woman is sitting on the sand.
+
+a man in the water
+The woman and man are in the shop.
+water in a glass.
+The woman and the man are in the shop.
+A flower in a glass.
+The boy and the girl are sitting in a car.
+The woman and the man are in a resgtaurant.
+
+A woman with a white bear.
+a girl without an orange
+a woman without an umbrella.
+a woman with an umbrella.
+a girl with an orange.
+Flowers are around the water.
+
+The woman without a glass is on the right.
+The man with a glass is on the left.
+The woman with the bananas is on the right.
+a man in front of a car.
+The boy without bananas is on the left.
+A man behind a car.
+
+Is the woman with bananas? Yes, she is with bananas.
+Is the girl standing between the man and the woman? Yes, the girl is standing between the man and
+the woman.
+Are the boys behind a tree? Yes, they are behind a tree.
+Are the oranges on a plate? Yes, the oranges are on a plate.
+Are the boys sitting in front of a tree? Yes, the boys are sitting in front of a
+tree.
+Are the oranges around a plate? Yes, the oranges are around a plate.
+
+Is the woman wearing green? No, she is wearing red.
+Are the women in the water? No, they are lying on the sand.
+Is the woman lying? No, she is sitting on a stone.
+Is the monkey under the water? No, the bird is over the water.
+Is the man with a glass on the right? No, he is on the left.
+Is the woman with a bag? No, she is under a big umbrella.
+
+
+** DONE Lesson four 98%
+   CLOSED: [2016-07-24 Sun 10:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-24 Sun 10:14]
+   CLOCK: [2016-07-24 Sun 09:43]--[2016-07-24 Sun 10:14] =>  0:31
+   :END:
+*** text
+I
+you
+she
+he
+It
+they
+
+to read
+to write
+to draw
+to speak
+to look
+to listen
+
+a book
+a television
+a piece of paper
+a computer
+a clock
+a telephone
+
+She is looking
+He is looking.
+They are speaking
+He is speaking.
+She is reading.
+
+He is drawing.
+She is drawing.
+She is listening
+He is writing.
+They are writing.
+She is listening and then speaking.
+She is drawing.
+It is listening.
+
+They are holding some books.
+They are holding a big piece of paper.
+She is sitting on some books.
+She is holding a small clock.
+She is holding a big clock.
+He is holding a piece of paper.
+
+He is with a telephone and a computer.
+He is with a computer.
+It's in the computer.
+She is with a bag.
+He is with a telephone.
+An old telephone
+
+He is looking at the computer.
+He is looking at the clock.
+They are sitting under a tree  reading books.
+He is drawing on a piece of paper.
+He is speaking on the telephone.
+She is listening to a shell.
+
+Is the clock in the book? Yes, it is in the book.
+Is he drawing on a piece of paper? Yes, he is drawing on a piece of paper.
+Is the computer on  top of the books? Yes, the computer is on  top of the
+books.
+Is the woman in red holding a piece of paper? Yes, she is holding a piece of
+paper.
+Are they speaking on the telephone? Yes, they are speaking on the telephone.
+Is he looking at the computer? Yes, he is looking at the computer.
+
+Is the boy lying on the sand? No, he is speaking on the telephone.
+Is she sitting in the grass? No, she is drawing.
+Is he holding a book? No, he is holding a piece of paper.
+Is the boy reading a book? No, he is sitting in front of the television.
+Is she running? No, she is writing.
+Are they speaking with a flower? No, they are speaking on the telephone.
+
+** DONE Lesson five 97.2%
+   CLOSED: [2016-07-24 Sun 09:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-24 Sun 09:34]
+   CLOCK: [2016-07-24 Sun 08:44]--[2016-07-24 Sun 09:34] =>  0:50
+   :END:
+*** text
+a woman
+a woman with long hair
+a woman with long black hair and a dog
+a dog
+A man is taking a photograph of a dog and a woman with long balck hair.
+She is sitting with a dog.
+
+The woman with short black hair is drinking.
+The woman with short black hair and the woman with long white hair are sitting
+on a bench.
+a woman with short black hair
+a bottle of Coca Cola.
+The woman with long white hair is sitting down.
+a woman with long white hair
+
+A man wearing glasses is sitting under a tree and reading a newpaper.
+A man wearing glasses is sitting down.
+a man wearing glasses
+a newspaper
+A man wearing glaases is sitting down and reading.
+glass
+
+a beard
+a man with a camera
+The man with the camer is sitting down.
+a camera
+a man with a long beard
+a beard
+The man with the long beard is sitting down.
+
+The girl with black hair is sitting with the girl with white hair.
+a woman
+The woman with a green umbrella is standing.
+The girl with black hair is sitting down.
+The girl with white hair is drinking.
+a woman with a green umbrella.
+
+A woman with black hair
+The woman with a red and yellow flower in her balck hair.
+a girl
+The woman with a small bule umbrella and red and yellow flower in her balck
+hair.
+A girl with long white hair is sitting on a horse.
+a girl with long white hair
+
+a man with a small black beard
+a shawl
+The man with a small balck beard is sitting down.
+a woman in a pink shawl
+a man with a small black beard
+The man with a small black beard is sitting with the woman in a pink shawl.
+The woman in a pink shawl is sitting down.
+
+A bicycle
+A white plate is in front of the man with the black beard.
+A man with a black beard is wearing a yellow cap.
+A boy with white hair
+a cap
+The boy with white hair is on a bicycle.
+
+a woman
+a house
+a red house
+a red house on the water
+a fan
+a woman with a fan
+
+a woman with black hair
+The woman with short white hari is writing.
+A woman is writing.
+A woman with short white hair in red.
+The woman with black hair is writing.
+a woman with short white hair.
 
 ** DONE Lesson six 99.1% good
    CLOSED: [2016-07-24 Sun 05:37]

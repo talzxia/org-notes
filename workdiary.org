@@ -5305,9 +5305,16 @@ CLOSED: [2016-07-17 Sun 15:43]
 :LOGBOOK:
 CLOCK: [2016-07-15 Fri 03:49]--[2016-07-15 Fri 05:33] =>  1:44
 :END:
-*** TODO first learn English<2016-07-21 Thu 04:00-05:30 +1d>
+*** CANCELLED first learn English<2016-07-25 Mon 04:00-05:30>
+CLOSED: [2016-07-24 Sun 17:08]
 :PROPERTIES:
-:LAST_REPEAT: [2016-07-20 Wed 03:39]
+:LAST_REPEAT: [2016-07-23 Sat 02:40]
+:END:
+:LOGBOOK:
+- State "SOMEDAY"    from "WAITING"    [2016-07-24 Sun 17:08]
+- State "DONE"       from "STARTED"    [2016-07-24 Sun 17:08]
+- State "DONE"       from "STARTED"    [2016-07-23 Sat 02:40]
+- State "DONE"       from "STARTED"    [2016-07-23 Sat 02:40]
 :END:
 - State "DONE"       from "TODO"       [2016-07-20 Wed 03:39]
 - State "DONE"       from "TODO"       [2016-07-19 Tue 05:57]
@@ -5334,15 +5341,23 @@ CLOCK: [2016-07-15 Fri 08:35]--[2016-07-15 Fri 09:30] =>  0:55
 学生发言
 教师李倩发言
 马副院长代院长致词
-*** TODO second test spacemacs<2016-07-17 Sun +1d> 
+*** DONE second test spacemacs<2016-07-18 Mon>
+CLOSED: [2016-07-24 Sun 17:07]
 :PROPERTIES:
 :LAST_REPEAT: [2016-07-19 Tue 11:52]
 :END:
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2016-07-24 Sun 17:07]
+:END:
 - State "DONE"       from "TODO"       [2016-07-19 Tue 11:52]
 - State "DONE"       from "TODO"       [2016-07-18 Mon 10:15]
-*** TODO third learn spacemacs tutor<2016-07-22 Fri +1d> 
+*** DONE third learn spacemacs tutor<2016-07-22 Fri>
+CLOSED: [2016-07-24 Sun 17:07]
 :PROPERTIES:
 :LAST_REPEAT: [2016-07-18 Mon 10:15]
+:END:
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2016-07-24 Sun 17:07]
 :END:
 - State "DONE"       from "TODO"       [2016-07-18 Mon 10:15]
 - State "DONE"       from "TODO"       [2016-07-15 Fri 18:43]
@@ -5369,9 +5384,13 @@ Typeing a capital A automatically appends text to the end of the line.aaaa
 3. Typeing a capital R enters Replace mode until <QSC> is pressed to exit.
 
 
-*** TODO listen English and notes the times and 内容<2016-07-19 Tue +1d> 
+*** DONE listen English and notes the times and 内容<2016-07-19 Tue>
+CLOSED: [2016-07-24 Sun 17:07]
 :PROPERTIES:
 :LAST_REPEAT: [2016-07-17 Sun 20:29]
+:END:
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2016-07-24 Sun 17:07]
 :END:
 - State "DONE"       from "TODO"       [2016-07-17 Sun 20:29]
 - State "DONE"       from "TODO"       [2016-07-17 Sun 15:44]
