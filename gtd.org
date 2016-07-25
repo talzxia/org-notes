@@ -173,6 +173,21 @@
    CLOCK: [2016-07-24 Sun 10:17]--[2016-07-24 Sun 10:48] =>  0:31
    :END:
 
+** STARTED [#B] 安装brew
+   :LOGBOOK:
+   CLOCK: [2016-07-25 Mon 10:36]
+   :END:
+第一步出现错误，Warning:Improper use of the sudo command could lead date loss or
+the deletion of important system files. Please double-check your typing when
+using sudo. Type "man sudo" for more information.
+
+To proceed, enter your password, or type Ctrl-C to abort
+输入用户密码，后执行。
+后又同意xcode协议。
+执行：man sudo后继续安装
+但停在了克隆。
+执行uninstall,重新安装
+成功。
 
 * Cocos2D-X
 
