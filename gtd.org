@@ -173,9 +173,12 @@
    CLOCK: [2016-07-24 Sun 10:17]--[2016-07-24 Sun 10:48] =>  0:31
    :END:
 
-** STARTED [#B] 安装brew
+** DONE [#B] 安装brew
+   CLOSED: [2016-07-25 Mon 12:00]
    :LOGBOOK:
-   CLOCK: [2016-07-25 Mon 10:36]
+   - State "DONE"       from "STARTED"    [2016-07-25 Mon 12:00]
+   CLOCK: [2016-07-25 Mon 10:36]--[2016-07-25 Mon 12:00] =>  1:24
+
    :END:
 第一步出现错误，Warning:Improper use of the sudo command could lead date loss or
 the deletion of important system files. Please double-check your typing when
@@ -185,9 +188,25 @@ To proceed, enter your password, or type Ctrl-C to abort
 输入用户密码，后执行。
 后又同意xcode协议。
 执行：man sudo后继续安装
-但停在了克隆。
+ 但停在了克隆。
 执行uninstall,重新安装
 成功。
+
+** DONE [#B] 重新安装子龙山人配置
+   CLOSED: [2016-07-25 Mon 12:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-25 Mon 12:01]
+   CLOCK: [2016-07-25 Mon 12:00]--[2016-07-25 Mon 12:56] =>  0:56
+   :END:
+字号不起作用了。其它正常
+
+** DONE [#B] 下午到中心医院
+   CLOSED: [2016-07-25 Mon 18:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-25 Mon 18:15]
+   CLOCK: [2016-07-25 Mon 15:00]--[2016-07-25 Mon 16:30] =>  0:01
+   :END:
+检查结果不理想。先住院，由刘奇及家人决定。
 
 * Cocos2D-X
 

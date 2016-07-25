@@ -302,6 +302,12 @@ Is the tree small? No, it is big.
    - State "DONE"       from "STARTED"    [2016-07-24 Sun 16:07]
    CLOCK: [2016-07-24 Sun 15:32]--[2016-07-24 Sun 16:07] =>  0:35
    :END:
+*** DONE 复习98.3
+    CLOSED: [2016-07-25 Mon 18:35]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-25 Mon 18:35]
+    CLOCK: [2016-07-25 Mon 18:17]--[2016-07-25 Mon 18:35] =>  0:18
+    :END:
 *** text
 water
 grass
@@ -383,6 +389,12 @@ Is the woman with a bag? No, she is under a big umbrella.
    - State "DONE"       from "STARTED"    [2016-07-24 Sun 10:14]
    CLOCK: [2016-07-24 Sun 09:43]--[2016-07-24 Sun 10:14] =>  0:31
    :END:
+*** DONE 复习98.3%
+    CLOSED: [2016-07-25 Mon 20:37]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-25 Mon 20:37]
+    CLOCK: [2016-07-25 Mon 20:20]--[2016-07-25 Mon 20:37] =>  0:17
+    :END:
 *** text
 I
 you
@@ -463,6 +475,12 @@ Are they speaking with a flower? No, they are speaking on the telephone.
    - State "DONE"       from "STARTED"    [2016-07-24 Sun 09:34]
    CLOCK: [2016-07-24 Sun 08:44]--[2016-07-24 Sun 09:34] =>  0:50
    :END:
+*** DONE learn97.7%
+    CLOSED: [2016-07-25 Mon 21:01]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-25 Mon 21:01]
+    CLOCK: [2016-07-25 Mon 20:41]--[2016-07-25 Mon 21:01] =>  0:20
+    :END:
 *** text
 a woman
 a woman with long hair
@@ -3898,14 +3916,20 @@ adj. 无聊的；令人厌烦的
 v. 钻孔；使厌烦；挖空（bore 的 ing 形式）
 n. (Boring)人名；(英、瑞典)博林
 96.9%
-** STARTED Lesson thirty one
+** DONE Lesson thirty one
+   CLOSED: [2016-07-25 Mon 17:33]
    :LOGBOOK:
-   CLOCK: [2016-07-25 Mon 07:50]
+   - State "DONE"       from "STARTED"    [2016-07-25 Mon 17:33]
    - State "STARTED"    from "DONE"       [2016-07-25 Mon 07:50]
    - State "DONE"       from "STARTED"    [2016-07-25 Mon 06:46]
    CLOCK: [2016-07-25 Mon 05:53]--[2016-07-25 Mon 06:46] =>  0:53
    :END:
-
+*** DONE 复习 95.0%
+    CLOSED: [2016-07-25 Mon 18:10]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-25 Mon 18:10]
+    CLOCK: [2016-07-25 Mon 17:34]--[2016-07-25 Mon 18:10] =>  0:36
+    :END:
 registration
  英  [redʒɪ'streɪʃ(ə)n]   美  ['rɛdʒɪ'streʃən]
 n. 登记；注册；挂号
