@@ -31,9 +31,73 @@
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2016-07-23 Sat 02:46]
     :END:
-* 2016-07-24 Sunday
+*** 2016-07-26 Tuesday
 
-** STARTED <2016-07-24 Sun 03:47> 到达办公室开始学习工作
-   :LOGBOOK:
-   CLOCK: [2016-07-24 Sun 03:48]--[2016-07-24 Sun 03:52] =>  0:04
-   :END:
+*** DONE 复习英语 lesson five 96.6%
+    CLOSED: [2016-07-26 Tue 11:51]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-26 Tue 11:51]
+    CLOCK: [2016-07-26 Tue 11:28]--[2016-07-26 Tue 11:51] =>  0:23
+    - State "STARTED"    from "WAITING"    [2016-07-26 Tue 11:28]
+    - State "WAITING"    from "DONE"       [2016-07-26 Tue 09:17]
+    - State "DONE"       from "STARTED"    [2016-07-26 Tue 09:17]
+    CLOCK: [2016-07-26 Tue 09:16]--[2016-07-26 Tue 09:17] =>  0:01
+    :END:
+
+*** DONE vim学习<2016-07-26 Tue>
+    CLOSED: [2016-07-26 Tue 09:09]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-26 Tue 09:09]
+    :END:
+***  清理清扫20分钟<2016-07-26 Tue>
+*** DONE <2016-07-26 Tue 03:00>get up and go office begin learning
+    CLOSED: [2016-07-26 Tue 04:29]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-26 Tue 04:29]
+    - State "STARTED"    from "DONE"       [2016-07-26 Tue 04:28]
+    - State "DONE"       from "STARTED"    [2016-07-26 Tue 04:27]
+    CLOCK: [2016-07-26 Tue 03:23]--[2016-07-26 Tue 04:00] =>  0:37
+    :END:
+*** 2016-07-27 Wednesday
+
+*** DONE <2016-07-27 Wed 05:00> begin learn and work
+    CLOSED: [2016-07-27 Wed 06:14]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-27 Wed 06:14]
+    CLOCK: [2016-07-27 Wed 05:01]--[2016-07-27 Wed 05:03] =>  0:02
+    :END:
+*** DONE 朗读《道德经》30节
+    CLOSED: [2016-07-27 Wed 06:13]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-27 Wed 06:13]
+    CLOCK: [2016-07-27 Wed 05:57]--[2016-07-27 Wed 06:13] =>  0:16
+    :END:
+*** DONE 到济南给孩子定房子
+    CLOSED: [2016-07-27 Wed 14:25]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-27 Wed 14:25]
+    CLOCK: [2016-07-27 Wed 06:14]--[2016-07-27 Wed 14:25] =>  8:11
+    :END:
+*** DONE begin learn and work
+    CLOSED: [2016-07-28 Thu 05:24]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-28 Thu 05:24]
+    CLOCK: [2016-07-28 Thu 04:02]--[2016-07-28 Thu 04:04] =>  0:02
+    :END:
+*** 2016-07-28 Thursday
+
+**** DONE clean and relax
+     CLOSED: [2016-07-28 Thu 06:51]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-07-28 Thu 06:51]
+     CLOCK: [2016-07-28 Thu 06:13]--[2016-07-28 Thu 06:51] =>  0:38
+     :END:
+
+*** 2016-07-24 Sunday
+
+**** DONE <2016-07-24 Sun 03:47> 到达办公室开始学习工作
+     CLOSED: [2016-07-27 Wed 06:13]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-07-27 Wed 06:13]
+     CLOCK: [2016-07-24 Sun 03:48]--[2016-07-24 Sun 03:52] =>  0:04
+     :END:

@@ -5395,9 +5395,13 @@ CLOSED: [2016-07-24 Sun 17:07]
 - State "DONE"       from "TODO"       [2016-07-17 Sun 20:29]
 - State "DONE"       from "TODO"       [2016-07-17 Sun 15:44]
 - State "DONE"       from "TODO"       [2016-07-15 Fri 20:44]
-*** TODO writing keep 30 minutes more<2016-07-16 Sat +1d> 
+*** DONE writing keep 30 minutes more<2016-07-16 Sat>
+CLOSED: [2016-07-26 Tue 18:53]
 :PROPERTIES:
 :LAST_REPEAT: [2016-07-17 Sun 20:29]
+:END:
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2016-07-26 Tue 18:53]
 :END:
 - State "DONE"       from "TODO"       [2016-07-17 Sun 20:29]
 *** TODO review and think<2016-07-16 Sat>--<2016-07-17 Sun +1d>  
