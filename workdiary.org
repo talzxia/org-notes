@@ -53,7 +53,7 @@ footnote.el'包相反,Org-mode 中的
 l 这样的一次性文件上的. o-rg-mode 中注脚的基本语法类似于'footnote.el'中的语法,即,要在段落中定义一个注脚
 ,它需要顶格(不能有缩进)以方括号作为注脚的标记. 如果你需要在注脚内分段,使用 LaTeX 语法'\par'. 要定义注脚引用,只需要简单的在文本中用方括号做一个标记. 例如
    #+BEGIN_SRC org
-     ,The Org homepage[fn:1] now looks a lot better than it used to.
+     ,The Org homepage"[fn:1]" now looks a lot better than it used to.
      ,...
      ,[fn:1] The link is: http://orgmode.org
    #+END_SRC

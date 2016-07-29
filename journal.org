@@ -92,6 +92,37 @@
      - State "DONE"       from "STARTED"    [2016-07-28 Thu 06:51]
      CLOCK: [2016-07-28 Thu 06:13]--[2016-07-28 Thu 06:51] =>  0:38
      :END:
+** DONE learn spacemacs
+   CLOSED: [2016-07-26 Tue 16:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-26 Tue 16:31]
+   :END:
+** DONE 复制和粘贴剩余文本
+   CLOSED: [2016-07-29 Fri 15:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-29 Fri 15:09]
+   CLOCK: [2016-07-29 Fri 15:03]--[2016-07-29 Fri 15:09] =>  0:06
+   :END:
+map V :w^M:!ispell % ^M:e!^M^M
+
+第二个^M使你在拼写检查完之后无须敲回车就可以到vi中.
+(译注, 在我的系统里,没有ispell,只有spell,我用它替换了ispell,工作的不错;还有,
+^M不是两个字符,而是一个字符,通过^V^M敲进去的;另外,我个人认为第二个^M还是不要
+的好,因为直接回到vi后你就无法看到拼写检查的结果了)
+ 移动
+** DONE 练习一遍
+   CLOSED: [2016-07-22 Fri 20:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-22 Fri 20:43]
+   CLOCK: [2016-07-22 Fri 20:25]--[2016-07-22 Fri 20:43] =>  0:18
+   :END:
+** DONE 学习查找替换
+   CLOSED: [2016-07-23 Sat 16:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-23 Sat 16:59]
+   CLOCK: [2016-07-23 Sat 16:45]--[2016-07-23 Sat 16:59] =>  0:14
+   :END:
+** DONE vim FAQ
 
 *** 2016-07-24 Sunday
 
