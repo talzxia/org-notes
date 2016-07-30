@@ -92,6 +92,16 @@
      - State "DONE"       from "STARTED"    [2016-07-28 Thu 06:51]
      CLOCK: [2016-07-28 Thu 06:13]--[2016-07-28 Thu 06:51] =>  0:38
      :END:
+*** 2016-07-30 Saturday
+
+**** DONE relax and brow
+     CLOSED: [2016-07-30 Sat 07:21]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-07-30 Sat 07:21]
+     CLOCK: [2016-07-30 Sat 06:03]--[2016-07-30 Sat 07:21] =>  1:18
+     :END:
+浏览了系列图书：有关程序、英语学习的等。
+
 ** DONE learn spacemacs
    CLOSED: [2016-07-26 Tue 16:31]
    :LOGBOOK:
