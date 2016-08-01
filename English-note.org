@@ -8548,3 +8548,20 @@ fast after rain.
    - State "DONE"       from "STARTED"    [2016-08-01 Mon 09:15]
    CLOCK: [2016-08-01 Mon 08:56]--[2016-08-01 Mon 09:15] =>  0:19
    :END:
+** DONE Review twenty nine 96%
+   CLOSED: [2016-08-01 Mon 11:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-01 Mon 11:00]
+   CLOCK: [2016-08-01 Mon 10:21]--[2016-08-01 Mon 11:00] =>  0:39
+   :END:
+** DONE Review thirty 93.9%
+   CLOSED: [2016-08-01 Mon 19:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-01 Mon 19:27]
+   CLOCK: [2016-08-01 Mon 18:46]--[2016-08-01 Mon 19:27] =>  0:41
+   - State "STARTED"    from "DONE"       [2016-08-01 Mon 18:46]
+   - State "DONE"       from "WAITING"    [2016-08-01 Mon 18:46]
+   - State "DONE"       from "STARTED"    [2016-08-01 Mon 17:32]
+   CLOCK: [2016-08-01 Mon 17:13]--[2016-08-01 Mon 17:32] =>  0:19
+   :END:
+three pargraph
