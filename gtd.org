@@ -255,6 +255,21 @@ To proceed, enter your password, or type Ctrl-C to abort
    - State "DONE"       from "STARTED"    [2016-07-29 Fri 20:09]
    :END:
 
+** DONE [#B] test
+   CLOSED: [2016-08-02 Tue 07:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-02 Tue 07:04]
+   CLOCK: [2016-08-02 Tue 07:03]--[2016-08-02 Tue 07:04] =>  0:01
+   :END:
+
+** DONE [#B] learn spacemacs
+   CLOSED: [2016-08-02 Tue 20:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-02 Tue 20:07]
+   CLOCK: [2016-08-02 Tue 19:12]--[2016-08-02 Tue 20:07] =>  0:55
+   :END:
+
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

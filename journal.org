@@ -144,7 +144,6 @@ map V :w^M:!ispell % ^M:e!^M^M
      :END:
 ** 2016-08 August
 *** 2016-08-01 Monday
-
 **** DONE begin learning and working
      CLOSED: [2016-08-01 Mon 05:32]
      :LOGBOOK:
@@ -226,3 +225,17 @@ paragraph 是以空白行為區格。
 另還有一些 vim 的特殊按鍵，但這得留待最後才來講述，否則各位恐怕會頭昏眼花了。
 
 前單元	次單元	目　錄
+
+*** 2016-08-02 星期二
+
+**** DONE begin learning and working
+     CLOSED: [2016-08-02 Tue 05:13]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-08-02 Tue 05:13]
+     CLOCK: [2016-08-02 二 05:02]--[2016-08-02 Tue 05:13] =>  0:11
+
+     :END:
+重装spacemacs
+载入出现文件目录错误，重新安装ya...解决
+还有一错误ispell
+用M-x install package 两遍排队错误
