@@ -108,7 +108,44 @@
   有读写能力的
   识字的
   学者
- 短语
+ cument]]
+ - [[#philosophy][Philosophy]]
+ - [[#basic-orientation][Basic orientatelve 97.5%ion]]
+   - [[#terms][Terms]]
+     - [[#modes-vs-states][Mode      from "STARTED"    [2016-08-06 六 21:12]
+   CLOCK: [2016-08-06 六 20:52]--[2016-08-06 六 21:12] =>  0:20
+   :END:s vs. States]]
+     - [[#layers][Layers]]
+     - [[#transient-states][Transient-states]]
+   - [[#keybinding-conventions][Keybinding conventions]]
+   - [[#running-commands][Running commands]]
+   - [[#buffer-and-window-management][Buffer and window management]]
+     - [[#buffers][Buffers]]
+       - [[#special-buffers][Special buffers]]
+     - [[#windows][Windows]]
+   - [[#files][Files]]
+   - [[#the-help-system][The Help System]]
+   - [[#exploring][Exploring]]
+ - [[#customization][Customization]]
+   - [[#the-spacemacs-file][The .spacemacs file]]
+   - [[#emacs-lisp][Emacs Lisp]]
+     - [[#variables][Variables]]
+     - [[#keybindings][Keybindings]]
+     - [[#functions][Functions]]
+   - [[#activating-a-layer][Activating a Layer]]
+   - [[#creating-a-layer][Creating a Layer]]
+   - [[#installing-a-single-package][Installing a single package]]
+   - [[#loading-packages][Loading packages]]
+   - [[#uninstalling-a-package][Uninstalling a package]]
+   - [[#common-tweaks][Common tweaks]]
+     - [[#changing-the-escape-key][Changing the escape key]]
+     - [[#changing-the-colorscheme][Changing the colorscheme]]
+     - [[#nohlsearch][Nohlsearch]]
+     - [[#sessions][Sessions]]
+     - [[#navigating-using-visual-lines][Navigating using visual lines]]
+ - [[#other-useful-links][Other useful links]]
+
+短语
  Literate programming 文学编程
  Literate programming 文学编程
  Literate programming 文学化编程
@@ -8530,19 +8567,31 @@ People swim in the sea in the south, because in the south the sea is warm.
 The small river flows fast.
 
 The tourist is holding a compass in his right hand, a map in his left.
+
 All tourists bring with them a compass when they go into the woods.
+
 The tourist is finding the path in the mountains by his compass.
+
 In the south it rains half the year.
+
 In the north half the year it is day, and half it is night.
+
 The compass needle points north.
 
 Where does the compass needle point? The compass needle points north.
+
 Where is the ship going? The ship is going from the east to the west.
+
 How does the moon move wax? The moon waxes slowly.
+
 *** How do yellow leaves fall? Yellow leaves fall slowy.
+
 Where is the boy looking? He's looking at the stars.
+
 How do mushrooms in the forest grow after rain? Mushrooms in the forest grow
+
 fast after rain.
+
 ** DONE Review twenty severn 96.6%
    CLOSED: [2016-08-01 Mon 06:41]
    :LOGBOOK:
@@ -12670,4 +12719,81 @@ www.ebigear.com
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-05 Fri 08:49]
    CLOCK: [2016-08-05 Fri 08:26]--[2016-08-05 Fri 08:49] =>  0:23
+   :END:
+** DONE Review three 97.2%
+   CLOSED: [2016-08-06 Sat 10:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-06 Sat 10:51]
+   - State "STARTED"    from "DONE"       [2016-08-06 Sat 10:51]
+   - State "DONE"       from "STARTED"    [2016-08-06 Sat 10:50]
+    CLOCK: [2016-07-29 Fri 08:53]--[2016-07-29 Fri 09:11] =>  0:18
+   :END:
+** DONE Review four 98.3%
+   CLOSED: [2016-08-06 六 11:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-06 六 11:24]
+   CLOCK: [2016-08-06 六 11:09]--[2016-08-06 六 11:24] =>  0:15
+   :END:
+** DONE Review five 97.2%
+   CLOSED: [2016-08-06 六 11:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-06 六 11:51]
+   CLOCK: [2016-08-06 六 11:30]--[2016-08-06 六 11:51] =>  0:21
+   :END:
+** DONE Review six 97.3%
+   CLOSED: [2016-08-06 六 13:06]
+:LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-06 六 13:06]
+   CLOCK: [2016-08-06 六 12:50]--[2016-08-06 六 13:06] =>  0:16
+   :END:
+** DONE Review Fourty
+   CLOSED: [2016-08-06 六 16:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-06 六 16:31]
+   :END:
+** DONE Fourty one 91.6%
+   CLOSED: [2016-08-06 六 18:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-06 六 18:37]
+   :END:
+** DONE Review e 95.9% igh 95.9%t 95.9%
+   CLOSED: [2016-08-06 六 21:15]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-08-06 六 21:15]
+   - State "SOMEDAY"    from "WAITING"    [2016-08-06 六 21:14]
+   - State "DONE"       from "STARTED"    [2016-08-06 六 21:12]
+   CLOCK: [2016-08-06 六 20:52]--[2016-08-06 六 21:12] =>  0:20
+   :END:
+** DONE Review nine 95.9%
+   CLOSED: [2016-08-06 六 21:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-06 六 21:17]
+   - State "STARTED"    from "DONE"       [2016-08-06 六 21:17]
+   - State "DONE"       from "WAITING"    [2016-08-06 六 21:17]
+   - State "DONE"       from "WAITING"    [2016-08-06 六 21:16]
+   - State "DONE"       from "STARTED"    [2016-08-06 六 21:14]
+   :END:
+** DONE Review eight 96.8%
+   CLOSED: [2016-08-06 六 21:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-06 六 21:38]
+   CLOCK: [2016-08-06 六 21:18]--[2016-08-06 六 21:38] =>  0:20
+   :END:
+** DONE Review Fourty one 95.2%
+   CLOSED: [2016-08-07 Sun 05:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-07 Sun 05:58]
+   CLOCK: [2016-08-07 Sun 05:26]--[2016-08-07 Sun 05:58] =>  0:32
+   :END:
+** DONE Review eleven 98.6%
+   CLOSED: [2016-08-07 Sun 06:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:34]
+   CLOCK: [2016-08-07 Sun 06:14]--[2016-08-07 Sun 06:34] =>  0:20
+   :END:
+** DONE Review twelve 97.5%
+   CLOSED: [2016-08-07 Sun 06:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:59]
+   CLOCK: [2016-08-07 Sun 06:38]--[2016-08-07 Sun 06:59] =>  0:21
    :END:
