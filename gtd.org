@@ -269,8 +269,10 @@ To proceed, enter your password, or type Ctrl-C to abort
    CLOCK: [2016-08-02 Tue 19:12]--[2016-08-02 Tue 20:07] =>  0:55
    :END:
 
-** STARTED [#B] has a cup of tea
+** DONE [#B] has a cup of tea
+   CLOSED: [2016-08-09 二 06:35]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-09 二 06:35]
    CLOCK: [2016-08-03 Wed 08:43]--[2016-08-03 Wed 09:45] =>  1:02
    :END:
 
@@ -333,6 +335,42 @@ To proceed, enter your password, or type Ctrl-C to abort
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-08 Mon 17:06]
    CLOCK: [2016-08-08 Mon 16:05]--[2016-08-08 Mon 17:06] =>  1:01
+   :END:
+
+** DONE [#B] 朗读《道德经》20小节
+   CLOSED: [2016-08-09 二 06:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-09 二 06:31]
+   CLOCK: [2016-08-09 二 06:18]--[2016-08-09 二 06:31] =>  0:13
+   :END:
+
+** DONE [#B] Relax and listen English songs
+   CLOSED: [2016-08-09 二 07:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-09 二 07:06]
+   CLOCK: [2016-08-09 二 06:36]--[2016-08-09 二 07:06] =>  0:30
+   :END:
+
+** DONE [#B] relax and listen Engilsh songs.
+   CLOSED: [2016-08-10 三 01:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-10 三 01:59]
+   CLOCK: [2016-08-09 二 20:32]--[2016-08-09 二 22:51] =>  2:19
+   CLOCK: [2016-08-09 二 20:31]--[2016-08-09 二 20:32] =>  0:01
+   :END:
+
+** DONE [#B] relax
+   CLOSED: [2016-08-10 三 04:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-10 三 04:00]
+   CLOCK: [2016-08-10 三 03:31]--[2016-08-10 三 04:00] =>  0:29
+   :END:
+
+** DONE [#B] 重装spacemacs
+   CLOSED: [2016-08-10 三 06:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-10 三 06:31]
+   CLOCK: [2016-08-10 三 05:30]--[2016-08-10 三 06:31] =>  1:01
    :END:
 
 * Cocos2D-X
