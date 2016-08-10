@@ -1384,44 +1384,7 @@ In order to take out a loan, you need a passport.
   有读写能力的
   识字的
   学者
- cument]]
- - [[#philosophy][Philosophy]]
- - [[#basic-orientation][Basic orientatelve 97.5%ion]]
-   - [[#terms][Terms]]
-     - [[# modes-vs-states][Mode      from "STARTED"    [2016-08-06 六 21:12]
-   CLOCK: [2016-08-06 六 20:52]--[2016-08-06 六 21:12] =>  0:20
-   :END:s vs. States]]
-     - [[#layers][Layers]]
-     - [[#transient-states][Transient-states]]
-   - [[#keybinding-conventions][Keybinding conventions]]
-   - [[#running-commands][Running commands]]
-   - [[#buffer-and-window-management][Buffer and window management]]
-     - [[#buffers][Buffers]]
-       - [[#special-buffers][Special buffers]]
-     - [[#windows][Windows]]
-   - [[#files][Files]]
-   - [[#the-help-system][The Help System]]
-   - [[#exploring][Exploring]]
- - [[#customization][Customization]]
-   - [[#the-spacemacs-file][The .spacemacs file]]
-   - [[#emacs-lisp][Emacs Lisp]]
-     - [[#variables][Variables]]
-     - [[#keybindings][Keybindings]]
-     - [[#functions][Functions]]
-   - [[#activating-a-layer][Activating a Layer]]
-   - [[#creating-a-layer][Creating a Layer]]
-   - [[#installing-a-single-package][Installing a single package]]
-   - [[#loading-packages][Loading packages]]
-   - [[#uninstalling-a-package][Uninstalling a package]]
-   - [[#common-tweaks][Common tweaks]]
-     - [[#changing-the-escape-key][Changing the escape key]]
-     - [[#changing-the-colorscheme][Changing the colorscheme]]
-     - [[#nohlsearch][Nohlsearch]]
-     - [[#sessions][Sessions]]
-     - [[#navigating-using-visual-lines][Navigating using visual lines]]
- - [[#other-useful-links][Other useful links]]
-
-短语
+ 短语
  Literate programming 文学编程
  Literate programming 文学编程
  Literate programming 文学化编程
@@ -17141,3 +17104,27 @@ Elderly people have elevated blood pressure more often than teenagers.
 Elderly people die more often than young people.
 
 Children get sick more often than adults.
+** DONE Review ninteen 97.2%
+   CLOSED: [2016-08-10 Wed 07:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-10 Wed 07:00]
+   CLOCK: [2016-08-10 Wed 06:41]--[2016-08-10 Wed 07:00] =>  0:19
+   :END:
+** DONE Review twenty 96.9%
+   CLOSED: [2016-08-10 Wed 15:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-10 Wed 15:29]
+   CLOCK: [2016-08-10 Wed 15:06]--[2016-08-10 Wed 15:29] =>  0:23
+   :END:
+** DONE Review twenty one 97.7%
+   CLOSED: [2016-08-10 Wed 15:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-10 Wed 15:56]
+   CLOCK: [2016-08-10 Wed 15:31]--[2016-08-10 Wed 15:56] =>  0:25
+   :END:
+** DONE Review tyenty two
+   CLOSED: [2016-08-10 三 21:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-10 三 21:25]
+   CLOCK: [2016-08-10 三 21:17]--[2016-08-10 三 21:25] =>  0:08
+   :END:

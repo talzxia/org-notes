@@ -115,7 +115,7 @@
 ** DONE [#B] lesson 16 97.3%
    CLOSED: [2016-07-21 Thu 18:13]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-21 Thu 18:13]
+   - State  "DONE"       from "STARTED"    [2016-07-21 Thu 18:13]
    CLOCK: [2016-07-21 Thu 17:56]--[2016-07-21 Thu 18:13] =>  0:17
    :END:
 
@@ -315,13 +315,18 @@ To proceed, enter your password, or type Ctrl-C to abort
    - State "DONE"       from "STARTED"    [2016-08-08 Mon 07:04]
    :END:
 
-** TODO [#B] 政协协商活动
-   SCHEDULED: <2016-08-10 三>
+** DONE [#B] 政协协商活动
+   CLOSED: [2016-08-10 Wed 15:03] SCHEDULED: <2016-08-10 三>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-10 Wed 15:03]
+   CLOCK: [2016-08-10 Wed 07:34]--[2016-08-10 Wed 15:03] =>  7:29
+   :END:
 1.岱岳区青春创业园电子商务
 2.新泰市物流产业园
 3.需发言
 8:20 在政协前集合。
-
+谭副主席原科委主任，管委主任。
+无收获，以后此类活动少参加。浪费时间、金钱。
 ** DONE [#B] 编制2106下半年耗材预算
    CLOSED: [2016-08-08 一 11:10]
    :LOGBOOK:
@@ -372,6 +377,29 @@ To proceed, enter your password, or type Ctrl-C to abort
    - State "DONE"       from "STARTED"    [2016-08-10 三 06:31]
    CLOCK: [2016-08-10 三 05:30]--[2016-08-10 三 06:31] =>  1:01
    :END:
+
+** DONE [#B] relax and listen English songs
+   CLOSED: [2016-08-10 Wed 16:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-10 Wed 16:55]
+   CLOCK: [2016-08-10 Wed 15:59]--[2016-08-10 Wed 16:55] =>  0:56
+   :END:
+
+** DONE [#B] 喜事预备，请四邻
+   CLOSED: [2016-08-10 三 21:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-10 三 21:06]
+   CLOCK: [2016-08-10 三 18:05]--[2016-08-10 三 21:06] =>  0:01
+   - State "STARTED"    from "DONE"       [2016-08-10 三 21:04]
+   - State "DONE"       from "WAITING"    [2016-08-10 三 21:04]
+   - State "SOMEDAY"    from "WAITING"    [2016-08-10 三 21:04]
+   - State "WAITING"    from "DONE"       [2016-08-10 三 21:04]
+   - State "DONE"       from "STARTED"    [2016-08-10 三 21:04]
+   :END:
+薛院长
+张书记、夫人
+苏主席、老公
+刘院及夫人
 
 * Cocos2D-X
 
