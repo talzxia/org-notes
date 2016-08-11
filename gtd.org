@@ -401,6 +401,27 @@ To proceed, enter your password, or type Ctrl-C to abort
 苏主席、老公
 刘院及夫人
 
+** DONE [#B] 买扑克
+   CLOSED: [2016-08-11 四 17:35] DEADLINE: <2016-08-11 四 18:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-11 四 17:35]
+   CLOCK: [2016-08-11 四 16:54]--[2016-08-11 四 17:35] =>  0:41
+   :END:
+
+** STARTED [#B] 换一角钱
+   DEADLINE: <2016-08-15 一>
+已让建行赵经理预约，完成后电话回复
+方案二：找张振文，明天打电话。
+** STARTED [#B] 找家政打扫卫生
+   DEADLINE: <2016-08-12 五>
+已预约农大家政一家，光擦玻璃1.8元一平，近360.
+已委托田拖找第二家。<2016-08-11 四 21:12>
+** DONE [#B] 带茶
+   CLOSED: [2016-08-11 四 16:52] DEADLINE: <2016-08-12 五 16:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-11 四 16:52]
+   :END:
+已把茶叶放到车里
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

@@ -464,3 +464,19 @@ http://link.zhihu.com/?target=http%3A//www.cnblogs.com/zhuweisky/p/4811408.html
      :LOGBOOK:
      - State "DONE"       from "STARTED"    [2016-08-09 Tue 14:56]
      :END:
+*** 2016-08-11 星期四
+
+**** DONE arrived office and begin learning
+     CLOSED: [2016-08-11 四 03:59]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-08-11 四 03:59]
+     :END:
+
+**** DONE 友杰到家商谈事情
+     CLOSED: [2016-08-11 四 21:49]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-08-11 四 21:49]
+     CLOCK: [2016-08-11 四 19:43]--[2016-08-11 四 21:00] =>  1:17
+     - State "STARTED"    from "DONE"       [2016-08-11 四 21:43]
+     :END:
+     - State "DONE"       from "STARTED"    [2016-08-11 四 21:43]
