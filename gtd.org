@@ -412,16 +412,69 @@ To proceed, enter your password, or type Ctrl-C to abort
    DEADLINE: <2016-08-15 一>
 已让建行赵经理预约，完成后电话回复
 方案二：找张振文，明天打电话。
-** STARTED [#B] 找家政打扫卫生
-   DEADLINE: <2016-08-12 五>
+已给张振文打电话。
+建行赵经理已给准备好，周日到建行高科技园分理处拿<2016-08-13 Sat>
+** DONE [#B] 找家政打扫卫生
+   CLOSED: [2016-08-13 Sat 14:03] DEADLINE: <2016-08-12 五>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-13 Sat 14:03]
+   :END:
 已预约农大家政一家，光擦玻璃1.8元一平，近360.
 已委托田拖找第二家。<2016-08-11 四 21:12>
+最后找的农大中介。今天8：00开始打扫。<2016-08-13 Sat>
+家政两人已从7：40开始清扫。
+至11：20结束。280元。only clean up the window.
+
+<2016-08-13 Sat 07:40-12:00>
+
+<2016-08-13 Sat 09:00>送孩子购物
 ** DONE [#B] 带茶
    CLOSED: [2016-08-11 四 16:52] DEADLINE: <2016-08-12 五 16:00>
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-11 四 16:52]
    :END:
 已把茶叶放到车里
+
+** DONE [#B] 取消明瑞酒店预定
+   CLOSED: [2016-08-12 五 09:42] DEADLINE: <2016-08-12 五 12:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-12 五 09:42]
+   :END:
+已完成，预留两桌，一大一小江枫。
+** DONE [#B] clean and put in order
+   CLOSED: [2016-08-12 五 06:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-12 五 06:32]
+   CLOCK: [2016-08-12 五 06:15]--[2016-08-12 五 06:32] =>  0:17
+   :END:
+
+** DONE [#B] chrome and relax
+   CLOSED: [2016-08-12 五 07:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-12 五 07:06]
+   CLOCK: [2016-08-12 五 06:34]--[2016-08-12 五 07:06] =>  0:32
+   :END:
+朗读《道德经》20小节
+
+** DONE [#B] 提水去
+   CLOSED: [2016-08-12 五 10:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-12 五 10:57]
+   CLOCK: [2016-08-12 五 09:53]--[2016-08-12 五 10:57] =>  1:04
+   - State "STARTED"    from "DONE"       [2016-08-12 五 09:53]
+   - State "DONE"       from "WAITING"    [2016-08-12 五 09:53]
+   - State "WAITING"    from "DONE"       [2016-08-12 五 09:53]
+   - State "DONE"       from "STARTED"    [2016-08-12 五 09:52]
+   :END:
+
+** DONE [#B] relax and brow
+   CLOSED: [2016-08-13 Sat 11:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-13 Sat 11:09]
+   CLOCK: [2016-08-13 Sat 10:51]--[2016-08-13 Sat 11:09] =>  0:18
+   :END:
+go home <2016-08-13 Sat 11:09>
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
