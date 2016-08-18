@@ -408,13 +408,10 @@ To proceed, enter your password, or type Ctrl-C to abort
    CLOCK: [2016-08-11 四 16:54]--[2016-08-11 四 17:35] =>  0:41
    :END:
 
-** DONE [#B] 换一角钱
-   CLOSED: [2016-08-14 Sun 16:02] DEADLINE: <2016-08-15 一>
+** STARTED [#B] 换一角钱
+   DEADLINE: <2016-08-15 一>
    :PROPERTIES:
    :ID:       9D3C6C44-FDFB-4E59-AB69-D44ADAEDC9C2
-   :END:
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-14 Sun 16:02]
    :END:
 已让建行赵经理预约，完成后电话回复
 方案二：找张振文，明天打电话。
@@ -481,33 +478,24 @@ To proceed, enter your password, or type Ctrl-C to abort
    :END:
 go home <2016-08-13 Sat 11:09>
 
-** DONE [#B] 买两盆木本花木
-   CLOSED: [2016-08-17 三 16:48] DEADLINE: <2016-08-15 一>
+** TODO [#B] 买两盆木本花木
+   DEADLINE: <2016-08-15 一>
    :PROPERTIES:
    :ID:       FDF8D84D-59BE-46F6-8C65-C838CD8C1DE7
    :END:
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-17 三 16:48]
-   :END:
 
-** DONE [#B] 到海通证券查询
-   CLOSED: [2016-08-15 一 12:26] DEADLINE: <2016-08-15 一 12:00>
+** TODO [#B] 到海通证券查询
+   DEADLINE: <2016-08-15 一 12:00>
    :PROPERTIES:
    :ID:       6E3A3E03-34DA-42B2-876A-B9AE29DF515D
    :END:
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-15 一 12:26]
-   :END:
 
-** DONE [#B] 填表并写出说明周一上交
-   CLOSED: [2016-08-15 一 15:45] DEADLINE: <2016-08-15 一 11:00>
+** TODO [#B] 填表并写出说明周一上交
+   DEADLINE: <2016-08-15 一 11:00>
    :PROPERTIES:
    :ID:       DA1B2B0B-6939-4CBE-BFA1-95C6B0A4775F
    :END:
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-15 一 15:45]
-   :END:
-基金查不出来。
+
 ** DONE [#B] relax
    CLOSED: [2016-08-14 日 06:18]
    :PROPERTIES:
@@ -516,96 +504,6 @@ go home <2016-08-13 Sat 11:09>
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-14 日 06:18]
    CLOCK: [2016-08-14 日 05:48]--[2016-08-14 日 06:18] =>  0:30
-   :END:
-
-** DONE [#B]relaxing
-   CLOSED: [2016-08-14 日 10:20]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-14 日 10:20]
-   CLOCK: [2016-08-14 日 09:58]--[2016-08-14 日 10:20] =>  0:22
-   :END:
-
-** DONE [#B] make purchase
-   CLOSED: [2016-08-14 日 14:12]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-14 日 14:12]
-   CLOCK: [2016-08-14 日 10:59]--[2016-08-14 日 14:12] =>  3:13
-   :END:
-
-** STARTED [#B] relaxing
-   :LOGBOOK:
-   - State "STARTED"    from "DONE"       [2016-08-14 日 15:22]
-   - State "DONE"       from "STARTED"    [2016-08-14 日 15:22]
-   :END:
-
-** DONE [#B]review week month and year
-   CLOSED: [2016-08-14 Sun 21:13]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-14 Sun 21:13]
-   CLOCK: [2016-08-14 Sun 20:12]--[2016-08-14 Sun 21:13] =>  1:01
-   :END:
-并对English.org进行了编辑
-
-** DONE [#B] relax and browser news
-   CLOSED: [2016-08-15 Mon 05:40]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-15 Mon 05:40]
-   CLOCK: [2016-08-15 Mon 05:12]--[2016-08-15 Mon 05:40] =>  0:28
-   - State "STARTED"    from "DONE"       [2016-08-15 Mon 05:12]
-   - State "DONE"       from "STARTED"    [2016-08-15 Mon 05:12]
-   :END:
-
-** DONE [#B] Read loudly and clearly
-   CLOSED: [2016-08-15 Mon 06:45]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-15 Mon 06:45]
-   CLOCK: [2016-08-15 Mon 06:24]--[2016-08-15 Mon 06:45] =>  0:21
-   :END:
-跑稀？蜂蜜的问题？
-以后身体需求也要正确处理。
-
-** DONE [#B] 办理查询
-   CLOSED: [2016-08-15 一 12:26]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-15 一 12:26]
-   CLOCK: [2016-08-15 一 09:13]--[2016-08-15 一 12:26] =>  3:13
-   :END:
-
-** DONE [#B] relax
-   CLOSED: [2016-08-15 一 17:51]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-15 一 17:51]
-   CLOCK: [2016-08-15 一 17:23]--[2016-08-15 一 17:51] =>  0:28
-   :END:
-go home
-
-** DONE [#B] 17日上午十点三楼干部会议
-   CLOSED: [2016-08-17 三 16:48] DEADLINE: <2016-08-17 三 09:30>
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-17 三 16:48]
-   :END:
-
-** DONE [#B] relaxing
-   CLOSED: [2016-08-16 二 19:26]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-16 二 19:26]
-   CLOCK: [2016-08-16 二 19:13]--[2016-08-16 二 19:26] =>  0:13
-   :END:
-
-** DONE [#B] 送向东
-   CLOSED: [2016-08-17 三 16:48] DEADLINE: <2016-08-17 三 06:30>
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-17 三 16:48]
-   :END:
-
-** DONE [#B] relax and browse
-   CLOSED: [2016-08-19 五 06:12]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-19 五 06:12]
-   CLOCK: [2016-08-19 五 05:48]--[2016-08-19 五 06:12] =>  0:24
-   - State "STARTED"    from "DONE"       [2016-08-19 五 05:48]
-   - State "DONE"       from "WAITING"    [2016-08-19 五 05:48]
-   - State "DONE"       from "STARTED"    [2016-08-19 五 05:48]
    :END:
 
 * Cocos2D-X

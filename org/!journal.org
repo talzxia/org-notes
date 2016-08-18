@@ -1,6 +1,6 @@
 
 * 2016
- ** 2016-08 八月
+** 2016-08 八月
 *** 2016-08-02 星期二
 
 **** DONE begin learning and working
@@ -75,7 +75,7 @@
      :END:
 3850 characters
 ***** 人理想的生活状态：
- 工作愉快，生活品味--生活幸福，工作愉快
+ 工作愉快，生活品味
  外在需求随时达成
  内在高度满意满足
 
@@ -224,7 +224,7 @@
 为了更好地掌握最新知识，开始学习英语，从2015年10月开始，已历时半年以上。相当于学
 前水平，小学一年级不到。
 还不会说，一个一年级的学生可以与人无障碍交流，自己还达不到。
-按自己学习中文的历程来学习英语，不求快，不功利，乐在其中。
+按自己学习中文的历程来说英语，不求快，不功利，乐在其中。
 随学随用，阅读英语原版手册，纯英文软件的使用，用英语记简单的笔记。
 可以大大提高程序开发语言的学习实践效率。
 
@@ -417,36 +417,19 @@ Emacs有强大的定制功能，可以完全根据个人的习惯、喜好来把
 著作权归作者所有，转载请联系作者获得授权。
 
 我基本没有使用过vim，因此只针对Emacs的情况来说。其实最初是想针对
-为什么有的程序员极度推崇 Vim 和 Emacs，却对 IDE 嗤之以鼻？?? - 编程这个问题进行
-回答的，
+为什么有的程序员极度推崇 Vim 和 Emacs，却对 IDE 嗤之以鼻？?? - 编程这个问题进行回答的，
+但是第一，我并不会对任何IDE或使用IDE的人“嗤之以鼻”，其次我也不认为一个认真的Emacs用户会对IDE嗤之以鼻，因此就没法回答这个以“为什么”开头的问题了。后来发现我想说的内容针对现在这个问题更合适，所以就发到这里来啦。
 
-但是第一，我并不会对任何IDE或使用IDE的人“嗤之以鼻”，其次我也不认为一个认真的
-Emacs用户会对IDE嗤之以鼻，因此就没法回答这个以“为什么”开头的问题了。后来发现我
-想说的内容针对现在这个问题更合适，所以就发到这里来啦。
+先说说Emacs和IDE比较的问题。Emacs不是一个简单的文本编辑器，能做到事情远远超过IDE。如果只用Emacs来编写代码，那么相当于拿了一把瑞士军刀却只用它的主刀片。
 
-
-先说说Emacs和IDE比较的问题。Emacs不是一个简单的文本编辑器，能做到事情远远超过IDE。
-如果只用Emacs来编写代码，那么相当于拿了一把瑞士军刀却只用它的主刀片。
-
-
-说说我自己吧，以前我用Eclipse写J2EE软件，后来用Textmate写RoR软件；用Word写文档，
-还要一个工具来画UML图，导出成图片后再插入Word文档。到了Mac上以后改用Pages，流程
-还是差不多。用Evernote记笔记，用过一些GTD的软件来做任务管理，尝试过几次写博客，
-都是在浏览器里直接编辑的那种。
-
+说说我自己吧，以前我用Eclipse写J2EE软件，后来用Textmate写RoR软件；用Word写文档，还要一个工具来画UML图，导出成图片后再插入Word文档。到了Mac上以后改用Pages，流程还是差不多。用Evernote记笔记，用过一些GTD的软件来做任务管理，尝试过几次写博客，都是在浏览器里直接编辑的那种。
 
 目前这些任务都在Emacs里完成啦：
 
-+ RoR的代码自然在Emacs里完成，前两个月刚在Emacs里配了Android的开发环境开始学习
-  Android。iOS的软件还是用xCode，主要因为目前基本不做iOS的开发，只是偶尔看看别人
-  的代码，做些小修改，因此暂时没有在Emacs里配开发环境。
-+ 技术文档用org-mode写，然后导出成PDF；UML图用PlantUML画，在org-mode里一气呵成，
-  再也不用在不同软件间倒来倒去了。而且可以在文档里插入带语法高亮的源代码，这一点
-  我现在也不知道怎么在Word或Pages来实现。
-+ Evernote的编辑功能实在太弱，又不支持Markdown，因此目前正在逐渐用org-mode来代替。
-  用了deft插件，搜索笔记非常方便。
-+ 博客的话用jekyll，自然也是在Emacs里用Markdown写，然后再发布到github上。这个答
-  案就是在Emacs里写的，稍后只要做下```git push```就可以发布到我的博客上去了。
++ RoR的代码自然在Emacs里完成，前两个月刚在Emacs里配了Android的开发环境开始学习Android。iOS的软件还是用xCode，主要因为目前基本不做iOS的开发，只是偶尔看看别人的代码，做些小修改，因此暂时没有在Emacs里配开发环境。
++ 技术文档用org-mode写，然后导出成PDF；UML图用PlantUML画，在org-mode里一气呵成，再也不用在不同软件间倒来倒去了。而且可以在文档里插入带语法高亮的源代码，这一点我现在也不知道怎么在Word或Pages来实现。
++ Evernote的编辑功能实在太弱，又不支持Markdown，因此目前正在逐渐用org-mode来代替。用了deft插件，搜索笔记非常方便。
++ 博客的话用jekyll，自然也是在Emacs里用Markdown写，然后再发布到github上。这个答案就是在Emacs里写的，稍后只要做下```git push```就可以发布到我的博客上去了。
 + 任务管理也是用org-mode，接下去准备尝试把日程管理也从Calendar切换到org-mode来。
 
 所有这些任务都有一个共同点，就是他们都有很多文字输入和编辑工作。如果象以前那样要
@@ -555,97 +538,3 @@ It is very hot.
 
 **** evening in a reastaurant celebrate something and eat dinner.
 at the party attend tiantuo.gaozongwei family sunxiaodong's family
-
-**** DONE go home and eat breakfast
-     CLOSED: [2016-08-14 日 07:07]
-     :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-08-14 日 07:07]
-     :END:
-
-**** DONE arrive office
-     CLOSED: [2016-08-14 日 08:46]
-     :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-08-14 日 08:46]
-     :END:
-clean and get to order
-The weather is very hot.
-
-**** DONE arrive office and learning
-     CLOSED: [2016-08-14 日 14:13]
-     :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-08-14 日 14:13]
-     :END:
-*** 2016-08-15 Monday
-
-**** DONE arrive office and begin learning
-     CLOSED: [2016-08-15 Mon 04:04]
-     :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-08-15 Mon 04:04]
-     :END:
-
-**** arrive office and begin learning
-*** 2016-08-16 星期二
-
-**** arrived office and begin learning
-<2016-08-16 二 04:16>
-every lesson learn three times?
-Done is better than profact.
-Facebook
-
-**** DONE browers and search
-     CLOSED: [2016-08-16 二 05:56]
-     :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-08-16 二 05:56]
-     CLOCK: [2016-08-16 二 05:19]--[2016-08-16 二 05:56] =>  0:02
-     :END:
-Done it is better than profact.
-** 2016-08 八月
-*** 2016-08-16 星期二
-
-**** arrived office and begin work
-
-**** DONE 陪同夫人孩子购物
-     CLOSED: [2016-08-16 二  17:47]
-     :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-08-16 二 18:03]
-     CLOCK: [2016-08-16 二 14:02]--[2016-08-16 二 17:47] =>  3:45
-     :END:
-
-累啊，在车里休息了一会。
-*** 2016-08-17 星期三
-
-**** DONE arrive office and begin work
-     CLOSED: [2016-08-17 三 05:13]
-     :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-08-17 三 05:13]
-     :END:
-It is raining heavyly
-Tommow my daughter will marry and wedding.
-*** 2016-08-18 星期四
-
-**** DONE my daughter is married.
-     CLOSED: [2016-08-18 四 17:31]
-     :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-08-18 四 17:31]
-     CLOCK: [2016-08-18 四 04:46]--[2016-08-18 四 17:31] => 12:45
-     :END:
-
-**** DONE go home and relax
-     CLOSED: [2016-08-18 四 21:03]
-     :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-08-18 四 21:03]
-     :END:
-*** 2016-08-19 星期五
-
-**** DONE arrive office and begin work and learn
-     CLOSED: [2016-08-19 五 04:52]
-     :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-08-19 五 04:52]
-     :END:
-
-**** DONE 朗读《道德经》20余节
-     CLOSED: [2016-08-19 五 07:03]
-     :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-08-19 五 07:03]
-     CLOCK: [2016-08-19 五 06:48]--[2016-08-19 五 07:03] =>  0:15
-     :END:
