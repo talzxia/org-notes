@@ -547,12 +547,12 @@ Is it autumn? No, it is winter: a monkey is sitting down in the snow.
 Is it summer? No, it is winter: a woman is running in the snow.
 
 
-* DONE learn six 97.4%
-  CLOSED: [2016-07-26 Tue 15:27]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-26 Tue 15:27]
-  CLOCK: [2016-07-26 Tue 15:10]--[2016-07-26 Tue 15:27] =>  0:17
-  :END:
+** DONE learn six 97.4%
+   CLOSED: [2016-07-26 Tue 15:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-26 Tue 15:27]
+   CLOCK: [2016-07-26 Tue 15:10]--[2016-07-26 Tue 15:27] =>  0:17
+   :END:
 
 * DONE Lesson seven 97.7%
   CLOSED: [2016-07-24 Sun 04:36]
@@ -560,6 +560,13 @@ Is it summer? No, it is winter: a woman is running in the snow.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 04:36]
   CLOCK: [2016-07-24 Sun 03:52]--[2016-07-24 Sun 04:36] =>  0:44
   :END:
+** DONE Review 99.1%
+   CLOSED: [2016-08-19 五 20:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 20:56]
+   CLOCK: [2016-08-19 五 20:41]--[2016-08-19 五 20:56] =>  0:15
+   :END:
+
 ** text
 hot
 clean
@@ -637,6 +644,14 @@ Hot green tea? No, cold red juice.
   - State "DONE"       from "STARTED"    [2016-07-23 Sat 16:43]
   CLOCK: [2016-07-23 Sat 16:03]--[2016-07-23 Sat 16:43] =>  0:40
   :END:
+** DONE Review 98.4%
+   CLOSED: [2016-08-19 五 21:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 21:15]
+   CLOCK: [2016-08-19 五 20:58]--[2016-08-19 五 21:15] =>  0:17
+   :END:
+
+
 ** text
 trousers
 a scarf
@@ -2830,6 +2845,20 @@ Is the child working? No, he can't work. He is still very small.
 
 * DONE twenty six
   DEADLINE: <2016-07-11 Mon 10:43>
+** DONE Review twenty six 95.2%
+  CLOSED: [2016-08-12 五 08:55]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-12 五 08:55]
+  CLOCK: [2016-08-12 五 08:19]--[2016-08-12 五 08:55] =>  0:36
+  :END:
+** DONE Review twenty six 95.7%
+   CLOSED: [2018-04-06 Fri 00:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-30 Sat 21:28]
+   CLOCK: [2016-07-30 Sat 21:11]--[2016-07-30 Sat 21:28] =>  0:17
+   CLOCK: [2016-07-30 Sat 16:03]--[2016-07-30 Sat 16:20] =>  0:17
+   :END:
+
 ** text
 a tour guide
 a group
@@ -7115,13 +7144,6 @@ family likes this clothing.
    :END:
 有点累了，精力不继。效果打折。
  :END:
-* DONE Review twenty six 95.7%
-  CLOSED: [2018-04-06 Fri 00:00]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-30 Sat 21:28]
-  CLOCK: [2016-07-30 Sat 21:11]--[2016-07-30 Sat 21:28] =>  0:17
-  CLOCK: [2016-07-30 Sat 16:03]--[2016-07-30 Sat 16:20] =>  0:17
-  :END:
 * DONE thirty six 95.7%
   CLOSED: [2016-07-31 Sun 03:49]
   :LOGBOOK:
@@ -17444,6 +17466,12 @@ People are buying jewelry wtih a discount.
   - State "DONE"       from "STARTED"    [2016-08-11 四 21:41]
   CLOCK: [2016-08-11 四 21:14]--[2016-08-11 四 21:41] =>  0:27
   :END:
+** DONE Review 92.5%
+   CLOSED: [2016-08-19 五 20:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 20:39]
+   CLOCK: [2016-08-19 五 20:10]--[2016-08-19 五 20:39] =>  0:29
+   :END:
 ** text
 *** legs
 英  [leg]   美  [lɛɡ]
@@ -18676,12 +18704,6 @@ Only the chairman's strong control was able to impart some sense of seriousness 
 
 
 
-* DONE Review twenty six 95.2%
-  CLOSED: [2016-08-12 五 08:55]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-12 五 08:55]
-  CLOCK: [2016-08-12 五 08:19]--[2016-08-12 五 08:55] =>  0:36
-  :END:
 * DONE Review twenty seven 95.7%
   CLOSED: [2016-08-12 五 14:38]
   :LOGBOOK:
@@ -20114,6 +20136,20 @@ amming
   - State "DONE"       from "STARTED"    [2016-08-13 Sat 06:11]
   CLOCK: [2016-08-13 Sat 05:28]--[2016-08-13 Sat 06:11] =>  0:43
   :END:
+** DONE Review 92.6%
+   CLOSED: [2016-08-19 五 09:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 09:36]
+   CLOCK: [2016-08-19 五 08:57]--[2016-08-19 五 09:36] =>  0:39
+   :END:
+** DONE Review 95%
+   CLOSED: [2016-08-19 五 18:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 18:49]
+   CLOCK: [2016-08-19 五 16:21]--[2016-08-19 五 18:49] =>  2:28
+
+   :END:
+
 ** text
 ** a sculptor
 sculptor
