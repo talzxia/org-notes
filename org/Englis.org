@@ -279,6 +279,12 @@ Is the woman with a bag? No, she is under a big umbrella.
    - State "DONE"       from "STARTED"    [2016-07-25 Mon 20:37]
    CLOCK: [2016-07-25 Mon 20:20]--[2016-07-25 Mon 20:37] =>  0:17
    :END:
+** DONE Review 98.7%
+   CLOSED: [2016-08-17 三 06:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-17 三 06:06]
+   CLOCK: [2016-08-17 三 05:49]--[2016-08-17 三 06:06] =>  0:17
+   :END:
 ** text
 I
 you
@@ -359,11 +365,33 @@ Are they speaking with a flower? No, they are speaking on the telephone.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 09:34]
   CLOCK: [2016-07-24 Sun 08:44]--[2016-07-24 Sun 09:34] =>  0:50
   :END:
+** DONE Review 95.8%-->97.6%
+   CLOSED: [2016-08-18 四 20:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-18 四 20:34]
+   CLOCK: [2016-08-18 四 20:15]--[2016-08-18 四 20:34] =>  0:19
+   - State "STARTED"    from "DONE"       [2016-08-18 四 20:14]
+   - State "DONE"       from "WAITING"    [2016-08-18 四 20:14]
+   - State "DONE"       from "STARTED"    [2016-08-18 四 19:07]
+   CLOCK: [2016-08-18 四 18:28]--[2016-08-18 四 19:07] =>  0:39
+   :END:
+** DONE Review 96.7%
+   CLOSED: [2016-08-18 四 20:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-18 四 20:53]
+   CLOCK: [2016-08-18 四 20:34]--[2016-08-18 四 20:53] =>  0:19
+   :END:
 ** DONE learn97.7%
    CLOSED: [2016-07-25 Mon 21:01]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-07-25 Mon 21:01]
    CLOCK: [2016-07-25 Mon 20:41]--[2016-07-25 Mon 21:01] =>  0:20
+   :END:
+** DONE Review 97.8%
+   CLOSED: [2016-08-19 五 05:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 05:41]
+   CLOCK: [2016-08-19 五 05:23]--[2016-08-19 五 05:41] =>  0:18
    :END:
 ** text
 a woman
@@ -519,12 +547,12 @@ Is it autumn? No, it is winter: a monkey is sitting down in the snow.
 Is it summer? No, it is winter: a woman is running in the snow.
 
 
-* DONE learn six 97.4%
-  CLOSED: [2016-07-26 Tue 15:27]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-26 Tue 15:27]
-  CLOCK: [2016-07-26 Tue 15:10]--[2016-07-26 Tue 15:27] =>  0:17
-  :END:
+** DONE learn six 97.4%
+   CLOSED: [2016-07-26 Tue 15:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-26 Tue 15:27]
+   CLOCK: [2016-07-26 Tue 15:10]--[2016-07-26 Tue 15:27] =>  0:17
+   :END:
 
 * DONE Lesson seven 97.7%
   CLOSED: [2016-07-24 Sun 04:36]
@@ -532,6 +560,13 @@ Is it summer? No, it is winter: a woman is running in the snow.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 04:36]
   CLOCK: [2016-07-24 Sun 03:52]--[2016-07-24 Sun 04:36] =>  0:44
   :END:
+** DONE Review 99.1%
+   CLOSED: [2016-08-19 五 20:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 20:56]
+   CLOCK: [2016-08-19 五 20:41]--[2016-08-19 五 20:56] =>  0:15
+   :END:
+
 ** text
 hot
 clean
@@ -609,6 +644,118 @@ Hot green tea? No, cold red juice.
   - State "DONE"       from "STARTED"    [2016-07-23 Sat 16:43]
   CLOCK: [2016-07-23 Sat 16:03]--[2016-07-23 Sat 16:43] =>  0:40
   :END:
+** DONE Review 98.4%
+   CLOSED: [2016-08-19 五 21:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 21:15]
+   CLOCK: [2016-08-19 五 20:58]--[2016-08-19 五 21:15] =>  0:17
+   :END:
+** DONE Review 99.1%
+   CLOSED: [2016-08-20 六 05:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-20 六 05:47]
+   CLOCK: [2016-08-20 六 05:29]--[2016-08-20 六 05:47] =>  0:18
+   :END:
+** DONE Review Eight 98.8% very good
+   CLOSED: [2016-07-26 Tue 18:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-26 Tue 18:08]
+   CLOCK: [2016-07-26 Tue 17:49]--[2016-07-26 Tue 18:08] =>  0:19
+   :END:
+** DONE Review eight 96.8%
+   CLOSED: [2016-08-06 六 21:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-06 六 21:38]
+   CLOCK: [2016-08-06 六 21:18]--[2016-08-06 六 21:38] =>  0:20
+   :END:
+
+
+
+** lesson eighteen
+ to have
+ to have not
+ to put on
+ to take off
+ to try on
+ to wear
+ The girl has a toys.
+ The woman does‘nt ant toys.
+ The boy doesn't have a bicycle.
+ The boy has a bicycle.
+ The girl has a boys.
+ The man doesn't have a bicycle.
+ The girl has a flower.
+ The boy doesn't have a flower.
+ The girl has parents.
+ The girl has a grandma and grandad.
+ The girl has a yellow dress.
+ The girl has a brother.
+ The girl has an apple.
+ The girl has a big dog.
+
+ The boy doesn't have a helicopter or a giraffe.
+ The giraffe hasn't got any money.
+ The boy doesn't have long hair.
+ The boy doesn't have a sister.
+ The boy doesn't have a dress.
+ The boy doesn't have a dog.
+
+ The litter girl wants to try on a skirt.
+ The man is trying on some shoes.
+ The man is trying on a shirt.
+ The woman is trying on a shirt
+ The girl is trying on a skirt in front of the mirror.
+ The girl is trying on some shoes.
+ sweater
+  英  ['swetə]   美  ['swɛtɚ]
+ n. 毛线衣，运动衫；大量出汗的人，发汗剂
+
+ The girl is taking off a green sweater.
+ The girl is taking off a balck-and-white dress.
+ The man is putting on some gloves.
+ The woman is putting on some gloves.
+ The woman is putting on boots.
+ The man is taking off a shirt.
+
+ The boy isn't wearing a dress.
+ moustache
+  英  [mə'stɑːʃ]   美  [mə'stɑʃ]
+ n. 小胡子；髭；触须
+ n. (Moustache)人名；(法)穆斯塔什
+ Grandad has a moustache and a beard
+ beard
+  英  [bɪəd]   美  [bɪrd]
+ vt. 公然反对；抓…的胡须
+ n. 胡须；颌毛
+ vi. 充当掩护；充当男随员
+ n. (Beard)人名；(英)比尔德
+ The girl wears a dress.
+ The giraffe does not wear clothes.
+ Grandma wears glasses.
+ The woman wears shoes.
+
+ The man doesn't have any money. He can't buy anything.
+ The family has a big new house.
+ The woman is putting on a  white dress for the wedding.
+ Girls like to wear short skirts.
+ The man has a lot of money. He can buy a car.
+ The girl has a new pink bag.
+
+ Do women wear skirts? Yes, they wear skirts.
+ Do men wear skirts? Yes, they wear skirts sometimes.
+ Does grandma wear glasses? Yes,  grandma wears glasses.
+ Do they wear gloves in winter? Yes, they wear gloves in winter.
+ Do they wear swimsuits in summer? Yes, they wear swimsuits in summer.
+ Has the boy got a bicycle? Yes, he has  a bicycle.
+
+ What is the girl taking off? She is taking off a black-and-white dress.
+ Has the dog got any money? No, it has not got any money.
+ Has the dog got any clothes? No, it has not got any clothes.
+ Who is trying on the skirt? The girl in front of the mirror is trying on the skirt.
+ Who has a beard? Grandad has a beard.
+ Is the woman putting on shoes or gloves? She is putting on gloves.
+ 95.4%
+
 ** text
 trousers
 a scarf
@@ -1343,7 +1490,7 @@ They like to swim.
 The girl like to sing.
 The man likes the woman.
 
-kdkd
+
 * DONE Lesson fivteen
 :LOGBOOK:
    CLOCK: [2016-07-21 Thu 18:16]--[2016-07-21 Thu 19:23] =>  1:07
@@ -1889,90 +2036,6 @@ a bus stop
 Are they brother and sister? No, they are husband and wife.
 Who is waiting at the window? The dog is waiting at the window.
 98.7%
-* lesson eighteen
-to have
-to have not
-to put on
-to take off
-to try on
-to wear
-The girl has a toys.
-The woman does‘nt ant toys.
-The boy doesn't have a bicycle.
-The boy has a bicycle.
-The girl has a boys.
-The man doesn't have a bicycle.
-The girl has a flower.
-The boy doesn't have a flower.
-The girl has parents.
-The girl has a grandma and grandad.
-The girl has a yellow dress.
-The girl has a brother.
-The girl has an apple.
-The girl has a big dog.
-
-The boy doesn't have a helicopter or a giraffe.
-The giraffe hasn't got any money.
-The boy doesn't have long hair.
-The boy doesn't have a sister.
-The boy doesn't have a dress.
-The boy doesn't have a dog.
-
-The litter girl wants to try on a skirt.
-The man is trying on some shoes.
-The man is trying on a shirt.
-The woman is trying on a shirt
-The girl is trying on a skirt in front of the mirror.
-The girl is trying on some shoes.
-sweater
- 英  ['swetə]   美  ['swɛtɚ]
-n. 毛线衣，运动衫；大量出汗的人，发汗剂
-
-The girl is taking off a green sweater.
-The girl is taking off a balck-and-white dress.
-The man is putting on some gloves.
-The woman is putting on some gloves.
-The woman is putting on boots.
-The man is taking off a shirt.
-
-The boy isn't wearing a dress.
-moustache
- 英  [mə'stɑːʃ]   美  [mə'stɑʃ]
-n. 小胡子；髭；触须
-n. (Moustache)人名；(法)穆斯塔什
-Grandad has a moustache and a beard
-beard
- 英  [bɪəd]   美  [bɪrd]
-vt. 公然反对；抓…的胡须
-n. 胡须；颌毛
-vi. 充当掩护；充当男随员
-n. (Beard)人名；(英)比尔德
-The girl wears a dress.
-The giraffe does not wear clothes.
-Grandma wears glasses.
-The woman wears shoes.
-
-The man doesn't have any money. He can't buy anything.
-The family has a big new house.
-The woman is putting on a  white dress for the wedding.
-Girls like to wear short skirts.
-The man has a lot of money. He can buy a car.
-The girl has a new pink bag.
-
-Do women wear skirts? Yes, they wear skirts.
-Do men wear skirts? Yes, they wear skirts sometimes.
-Does grandma wear glasses? Yes,  grandma wears glasses.
-Do they wear gloves in winter? Yes, they wear gloves in winter.
-Do they wear swimsuits in summer? Yes, they wear swimsuits in summer.
-Has the boy got a bicycle? Yes, he has  a bicycle.
-
-What is the girl taking off? She is taking off a black-and-white dress.
-Has the dog got any money? No, it has not got any money.
-Has the dog got any clothes? No, it has not got any clothes.
-Who is trying on the skirt? The girl in front of the mirror is trying on the skirt.
-Who has a beard? Grandad has a beard.
-Is the woman putting on shoes or gloves? She is putting on gloves.
-95.4%
 * lesson nineteen<2016-07-07 Thu>
 :LOGBOOK:
 CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
@@ -2278,6 +2341,23 @@ Bucky couch 布凯氏滤线器床
 ****
 * DONE lesson twenty two
   CLOSED: [2016-07-08 Fri 17:17]
+
+* DONE Review twenty two 93.6%
+  CLOSED: [2016-08-11 四 04:13]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-11 四 04:13]
+  CLOCK: [2016-08-11 四 04:02]--[2016-08-11 四 04:13] =>  0:11
+  - State "STARTED"    from "DONE"       [2016-08-11 四 04:02]
+  - State "DONE"       from "STARTED"    [2016-08-10 三 21:25]
+  CLOCK: [2016-08-10 三 21:17]--[2016-08-10 三 21:25] =>  0:08
+  :END:
+* DONE Review twenty two 95.2%
+  CLOSED: [2016-07-29 Fri 20:53]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-07-29 Fri 20:53]
+  CLOCK: [2016-07-29 Fri 20:36]--[2016-07-29 Fri 20:53] =>  0:17
+  :END:
+
 ** text
 an artist
 a secretary
@@ -2785,6 +2865,20 @@ Is the child working? No, he can't work. He is still very small.
 
 * DONE twenty six
   DEADLINE: <2016-07-11 Mon 10:43>
+** DONE Review twenty six 95.2%
+  CLOSED: [2016-08-12 五 08:55]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-12 五 08:55]
+  CLOCK: [2016-08-12 五 08:19]--[2016-08-12 五 08:55] =>  0:36
+  :END:
+** DONE Review twenty six 95.7%
+   CLOSED: [2018-04-06 Fri 00:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-30 Sat 21:28]
+   CLOCK: [2016-07-30 Sat 21:11]--[2016-07-30 Sat 21:28] =>  0:17
+   CLOCK: [2016-07-30 Sat 16:03]--[2016-07-30 Sat 16:20] =>  0:17
+   :END:
+
 ** text
 a tour guide
 a group
@@ -3226,6 +3320,14 @@ Eleanor's work among the women will, I trust, bear fruit.
 
 
 * lesson twenty nine
+* DONE Review twenty nine 96.3%
+  CLOSED: [2016-08-13 六 16:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-13 六 16:24]
+   CLOCK: [2016-08-13 六 15:44]--[2016-08-13 六 16:24] =>  0:40
+   :END:
+better
+
 ** text
 Who is drinking from the puddle? The horse.
 Who is singing and playing the guitar? The musicias.
@@ -4622,12 +4724,6 @@ The man is lying on the soft couch because he's watching television.
 前者的每一个字母各代表一个步骤，即预习(Preview)、提问(Question)、阅读(Read)、笔
 记(Write)、背诵(Recite)、复习(Review),是一种行之有效地与速读结合的阅读学习方法；
 后者是美国芝加哥大学教育研究所的哥特．莫斯博士发明的一种学习方法，旨在强化个人...
-* DONE Review Eight 98.8% very good
-  CLOSED: [2016-07-26 Tue 18:08]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-26 Tue 18:08]
-  CLOCK: [2016-07-26 Tue 17:49]--[2016-07-26 Tue 18:08] =>  0:19
-  :END:
 * DONE Review Nine 99.0% very good
   CLOSED: [2016-07-26 Tue 18:29]
   :LOGBOOK:
@@ -6365,12 +6461,6 @@ how to bake tasty pies.
   - State "DONE"       from "STARTED"    [2016-07-29 Fri 20:35]
   CLOCK: [2016-07-29 Fri 20:12]--[2016-07-29 Fri 20:35] =>  0:23
   :END:
-* DONE Review twenty two 95.2%
-  CLOSED: [2016-07-29 Fri 20:53]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-29 Fri 20:53]
-  CLOCK: [2016-07-29 Fri 20:36]--[2016-07-29 Fri 20:53] =>  0:17
-  :END:
 * DONE thirty five 95%
   CLOSED: [2016-07-30 Sat 06:02]
   :LOGBOOK:
@@ -7068,13 +7158,6 @@ family likes this clothing.
    :END:
 有点累了，精力不继。效果打折。
  :END:
-* DONE Review twenty six 95.7%
-  CLOSED: [2018-04-06 Fri 00:00]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-30 Sat 21:28]
-  CLOCK: [2016-07-30 Sat 21:11]--[2016-07-30 Sat 21:28] =>  0:17
-  CLOCK: [2016-07-30 Sat 16:03]--[2016-07-30 Sat 16:20] =>  0:17
-  :END:
 * DONE thirty six 95.7%
   CLOSED: [2016-07-31 Sun 03:49]
   :LOGBOOK:
@@ -12883,12 +12966,6 @@ www.ebigear.com
   - State "DONE"       from "WAITING"    [2016-08-06 六 21:16]
   - State "DONE"       from "STARTED"    [2016-08-06 六 21:14]
   :END:
-* DONE Review eight 96.8%
-  CLOSED: [2016-08-06 六 21:38]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-06 六 21:38]
-  CLOCK: [2016-08-06 六 21:18]--[2016-08-06 六 21:38] =>  0:20
-  :END:
 * DONE Review Fourty one 95.2%
   CLOSED: [2016-08-07 Sun 05:58]
   :LOGBOOK:
@@ -15990,15 +16067,6 @@ Children get sick more often than adults.
   - State "DONE"       from "STARTED"    [2016-08-10 Wed 15:56]
   CLOCK: [2016-08-10 Wed 15:31]--[2016-08-10 Wed 15:56] =>  0:25
   :END:
-* DONE Review twenty two 93.6%
-  CLOSED: [2016-08-11 四 04:13]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-11 四 04:13]
-  CLOCK: [2016-08-11 四 04:02]--[2016-08-11 四 04:13] =>  0:11
-  - State "STARTED"    from "DONE"       [2016-08-11 四 04:02]
-  - State "DONE"       from "STARTED"    [2016-08-10 三 21:25]
-  CLOCK: [2016-08-10 三 21:17]--[2016-08-10 三 21:25] =>  0:08
-  :END:
 * DONE Fourty six 95.5%
   CLOSED: [2016-08-11 四 09:58]
   :LOGBOOK:
@@ -16009,6 +16077,14 @@ Children get sick more often than adults.
   CLOCK: [2016-08-11 四 04:15]--[2016-08-11 四 04:57] =>  0:42
   CLOCK: [2016-08-11 四 04:01]--[2016-08-11 四 04:02] =>  0:01
   :END:
+* DONE Review fourty six 96.6%
+  CLOSED: [2016-08-11 四 18:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-11 四 18:46]
+   CLOCK: [2016-08-11 四 18:16]--[2016-08-11 四 18:46] =>  0:30
+   :END:
+不错
+
 ** text
 *** a bracelet
 英  [ˈbreɪslət]  美  [ˈbreslɪt]
@@ -17392,19 +17468,27 @@ People are buying jewelry wtih a discount.
    CLOCK: [2016-08-11 四 17:49]--[2016-08-11 四 18:13] =>  0:24
    :END:
 比较流畅。
-* DONE Review fourty six 96.6%
-  CLOSED: [2016-08-11 四 18:46]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-11 四 18:46]
-   CLOCK: [2016-08-11 四 18:16]--[2016-08-11 四 18:46] =>  0:30
-   :END:
-不错
 * DONE Fourty seven
   CLOSED: [2016-08-11 四 21:41]
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-08-11 四 21:41]
   CLOCK: [2016-08-11 四 21:14]--[2016-08-11 四 21:41] =>  0:27
   :END:
+** DONE Review 92.5%
+   CLOSED: [2016-08-19 五 20:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 20:39]
+   CLOCK: [2016-08-19 五 20:10]--[2016-08-19 五 20:39] =>  0:29
+   :END:
+** DONE Review 96.9%
+   CLOSED: [2016-08-20 六 05:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-20 六 05:18]
+   - State "MEETING"    from "CANCELLED"  [2016-08-20 六 05:18]
+   - State "SOMEDAY"    from "WAITING"    [2016-08-20 六 05:17]
+   - State "DONE"       from "STARTED"    [2016-08-20 六 05:17]
+   CLOCK: [2016-08-20 六 04:52]--[2016-08-20 六 05:17] =>  0:25
+   :END:
 ** text
 *** legs
 英  [leg]   美  [lɛɡ]
@@ -18637,12 +18721,6 @@ Only the chairman's strong control was able to impart some sense of seriousness 
 
 
 
-* DONE Review twenty six 95.2%
-  CLOSED: [2016-08-12 五 08:55]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-12 五 08:55]
-  CLOCK: [2016-08-12 五 08:19]--[2016-08-12 五 08:55] =>  0:36
-  :END:
 * DONE Review twenty seven 95.7%
   CLOSED: [2016-08-12 五 14:38]
   :LOGBOOK:
@@ -20075,6 +20153,20 @@ amming
   - State "DONE"       from "STARTED"    [2016-08-13 Sat 06:11]
   CLOCK: [2016-08-13 Sat 05:28]--[2016-08-13 Sat 06:11] =>  0:43
   :END:
+** DONE Review 92.6%
+   CLOSED: [2016-08-19 五 09:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 09:36]
+   CLOCK: [2016-08-19 五 08:57]--[2016-08-19 五 09:36] =>  0:39
+   :END:
+** DONE Review 95%
+   CLOSED: [2016-08-19 五 18:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 18:49]
+   CLOCK: [2016-08-19 五 16:21]--[2016-08-19 五 18:49] =>  2:28
+
+   :END:
+
 ** text
 ** a sculptor
 sculptor
@@ -21225,13 +21317,6 @@ If they dance in the theater, it's ballet.
    CLOCK: [2016-08-13 Sat 14:18]--[2016-08-13 Sat 14:39] =>  0:21
    :END:
 good
-* DONE Review twenty nine 96.3%
-  CLOSED: [2016-08-13 六 16:24]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-13 六 16:24]
-   CLOCK: [2016-08-13 六 15:44]--[2016-08-13 六 16:24] =>  0:40
-   :END:
-better
 * DONE Fourty nine 96.3%
   CLOSED: [2016-08-14 日 06:43]
   :PROPERTIES:
@@ -21246,6 +21331,12 @@ GBOOK:
   - State "DONE"       from "STARTED"    [2016-08-14 日 05:29]
   CLOCK: [2016-08-14 日 04:26]--[2016-08-14 日 05:29] =>  1:03
   :END:
+** DONE Review 94.7%
+   CLOSED: [2016-08-19 五 05:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 05:20]
+   CLOCK: [2016-08-19 五 04:54]--[2016-08-19 五 05:20] =>  0:26
+   :END:
 ** text
 *** a capital
 英  ['kæpɪt(ə)l]   美  ['kæpɪtl]
@@ -22154,6 +22245,12 @@ there.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-16 二 19:08]
    CLOCK: [2016-08-16 二 18:45]--[2016-08-16 二 19:08] =>  0:23
+   :END:
+** DONE Review 96.7%
+   CLOSED: [2016-08-17 三 05:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-17 三 05:43]
+   CLOCK: [2016-08-17 三 05:14]--[2016-08-17 三 05:43] =>  0:29
    :END:
 * DONE Review Thirty one 95.3%->94.9%
   CLOSED: [2016-08-15 Mon 06:18]

@@ -1,0 +1,134 @@
+* Lisp-Fire Rules
+
+Lisp编程的五条基本规则：
+
+** Law of car
+
+　　The primitive car is defined only for non­empty lists.
+
+** Law of cdr:
+
+　　The primitive cdr is defined only for non­empty lists. The cdr of any nonempty list is always another list.
+
+** Law of cons:
+
+　　The primitive cons takes two arguments. The second argument to cons must be a list. The result is a list.
+
+** The Law of Null?
+
+　　The primitive null? is defined only for lists.
+
+** The Law of Eq?
+
+　　The primitive eq? takes two arguments. Each must be a non-numeric atom.
+
+
+
+这五条规则描述了Lisp基本编程法则。Lisp是一种函数式编程语言，car, cdr, cons,
+null?, eq? 就是Lisp下五个最基本的函数，这五条规则实际上描述了这五个函数的基本用
+法以及返回的结果。
+
+
+在Lisp中有两个基本的概念：一个时atom，另一个是list。它们是Lisp下两种基本的数据结
+构，atom可以是一个字符，也可以是一个字符序列。list当然就是一个列表，列表中的每一
+个元素都可以是一个atom或者一个列表。这里就可以看到Lisp中一个很重要的概念：递归。
+显然，list是一种递归的数据结构，atom可以看作是list递归结束的“条件”。
+
+* Lisp-Ten Commandments
+这十条戒律因该说是在进行Lisp编程时，需要引起格外注意的地方，否则便有可能引入错误。
+很有意思呢。。不太好翻译，还是英文原文表达的简洁易懂一些。所以摘录如下：
+
+** 第一戒：
+
+ When recurring a list of atom, lat, ask two questions about it: (lat? l) and else.
+
+ When recurring on a number, n, ask two questions about it: (zero? n) and else.
+
+ When recurring on a list of S-expressions, l, ask three question about it: (null? l), (atom? ( car l)), and else.
+
+** 第二戒：
+
+ Use cons to build lists.
+
+** 第三戒：
+
+ When building a list, describe the first typical element, and then cons it onto the natu­ral recursion.
+
+** 第四戒：
+
+ Always change at least one argument while recurring.
+
+ When recurring on a list of atoms, lat, use (cdr lat).
+
+ When recurring on a num­ber, n, use (sub1 n).
+
+ When recurring on a list of S-expressions, l, use (carl) and (cdr l) if neither (null? l) nor (atom? (carl)) are true.
+
+** 第五戒：
+
+ When building a value with + ,always use 0 for the value of the terminating line, for adding 0 does not change the value of an addition.
+
+ When building a value with x, always use 1 for the value of the terminating line, for multiplying by 1 does not change the value of a multiplication.
+
+ When building a value with cons, always consider () for the value of the terminating line.
+
+** 第六戒：
+
+ Simplify only after the function is correct.
+
+** 第七戒：
+
+ Recur on the subparts that are of the same nature:
+ • On the sublists of a list.
+ • On the subexpressions of an arithmetic expression.
+
+** 第八戒：
+
+ Use help functions to abstract from representation.
+
+** 第九戒：
+
+ Abstract common patterns with a new function.
+
+** 第十戒：
+
+ Build functions to collect more than one value at a time.
+
+* Ruby
+
+  差不多每十五年左右，就会出现更优秀的语言。C++取代了C,至少对大规模应用程序开发
+  来说是这样的，那些人追求性能对了又渴望数据类型。现在C++逐渐被Java所取代，而毫
+  无疑问Java会在7年之后被更好的语言取代————我说的是它彻底干掉C++的7年以后，显然
+  它还没做到这一点，这主要归功于微软拖慢了Jave占领桌面的进程。不过在服务器端，
+  C++已经出局了。
+    Perl的命运也差不多。因为有一种叫Ruby的新语言终于被翻译成英文了。没错，这是日
+  本人的作品，这让人大跌眼镜，毕竟日本是以硬件制造而非软件开发闻名于世的。所有人
+  都在琢磨为什么（日本不擅长软件），不过我觉得肯定和打字有关。我完全无法想象他们
+  是怎么运用一门有超过10万字符的语言做到快速打字的。
+  不过Emacs在几年前终于开始支持多字节字符，所以我估计现在他们打字应该打得很快了
+  吧。【没错，他们的确是有Emacs————其实Mule(Emacs的多字节扩展)主要就是由日本人开
+  发的，而且完成得非常漂亮。】
+  总之，Ruby对Perl充分实行了拿来主义。Ruby的作者Matz(我没记错的话，他的本名是松
+  本行弘，不过通常都自称"Matz")甚至可能有点借鉴过头了，连一些不好的东西也拿了过
+  来。好在不多，只有一点点而已。
+
+  基本上Ruby照搬了Perl的字符串处理和Unix集成，语法完全一样，只此一点，Perl的精华
+  就全都有了。这可以说是开了个去芜存菁的好头。
+
+  接着Matz从Lisp那里吸收了列表处理的精华，从Smalltalk那里拿来了OO,迭代器则是取自
+  CLU，基本上各个语言里的优点都吸收进来了。
+
+  所有的这些东西被完美的糅合在一起，你压根注意不到斧凿的痕迹。我学Ruby比之前接触
+  过的三四十种语言都快；我有8年的Perl经验，可我用了3天Ruby就觉得比Perl更顺手了。
+  Ruby具备出色的一致性，一眼就能猜到它是怎样工作的，而且基本上能猜个八九不离十。
+  它非常漂亮，充满乐趣，同时又兼具实用性。
+
+  假如把编程语言比作自行车的话，那么Awk就是粉色小童车，前面有个白色的篮子，把手
+  上还有些穗子，Perl则是沙滩自行车（记得它们以前有多酷吗？天哪！），Ruby则是价值
+  7500美元的钛架山地车。Perl到Ruby的飞跃和C++到Jave是一样的，而且没有附带任何缺
+  点，因为Ruby是Perl优点的超集，而Jave去掉了一些人们想要的东西，却又没提供真正的
+  替代方案。
+
+  后面我还会聊到Ruby，只要有灵感。比如读一读_Why先生的Ruby 指南，那本书让我大开
+  眼界。真的，推荐你也读一下，非常棒。虽然那种思维不是我能理解的，但是那本书实在
+  太好玩、太犀利了，而且完全以Ruby为主题。好吧，也不全是，反正你读一下就明白了。
