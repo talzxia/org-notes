@@ -1038,18 +1038,18 @@ dancing.
    - State "DONE"       from "STARTED"    [2016-08-21 Sun 14:13]
    CLOCK: [2016-08-21 Sun 13:51]--[2016-08-21 Sun 14:13] =>  0:22
    :END:
-* DONE Review twelve 97.5%
-  CLOSED: [2016-08-07 Sun 06:59]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:59]
-  CLOCK: [2016-08-07 Sun 06:38]--[2016-08-07 Sun 06:59] =>  0:21
-  :END:
-* DONE Review eleven and twelve
-  CLOSED: [2016-07-28 Thu 06:12]
-   - State "DONE"       from "STARTED"    [2016-07-28 Thu 06:13]
-:LOGBOOK:
-   CLOCK: [2016-07-28 Thu 05:24]--[2016-07-28 Thu 06:13] =>  0:49
+** DONE Review twelve 97.5%
+   CLOSED: [2016-08-07 Sun 06:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:59]
+   CLOCK: [2016-08-07 Sun 06:38]--[2016-08-07 Sun 06:59] =>  0:21
    :END:
+** DONE Review eleven and twelve
+   CLOSED: [2016-07-28 Thu 06:12]
+    - State "DONE"       from "STARTED"    [2016-07-28 Thu 06:13]
+ :LOGBOOK:
+    CLOCK: [2016-07-28 Thu 05:24]--[2016-07-28 Thu 06:13] =>  0:49
+    :END:
 
 
 ** text
@@ -1083,7 +1083,7 @@ Grandma is holding her granddaughter.
 Grandma and grandad with grandchildren
 Sister is sitting on her brother.
 Sister is holding her little brother.
-There brothers are reading a book.
+The brothers are reading a book.
 Sister is sitting behind her brother.
 The sisters are reading a book.
 
@@ -1245,6 +1245,24 @@ they do not have a home.
   - State "DONE"       from "STARTED"    [2016-07-21 Thu 22:01]
   CLOCK: [2016-07-21 Thu 21:13]--[2016-07-21 Thu 22:01] =>  0:48
   :END:
+* DONE Review fourteen 97.4%
+  CLOSED: [2016-08-08 一 20:19]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-08 一 20:19]
+  CLOCK: [2016-08-08 一 20:00]--[2016-08-08 一 20:19] =>  0:19
+  :END:
+* DONE Review fourteen 96.8%
+  CLOSED: [2016-07-28 Thu 10:35]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-07-28 Thu 10:35]
+  CLOCK: [2016-07-28 Thu 10:15]--[2016-07-28 Thu 10:35] =>  0:20
+  :END:
+** DONE Review fourteen 97.7%
+   CLOSED: [2016-08-22 一 15:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-22 一 15:47]
+   CLOCK: [2016-08-22 一 15:27]--[2016-08-22 一 15:47] =>  0:20
+   :END:
 ** text
 a mobile phone
 dishes
@@ -1540,7 +1558,12 @@ The man likes the woman.
 :LOGBOOK:
    CLOCK: [2016-07-21 Thu 18:16]--[2016-07-21 Thu 19:23] =>  1:07
    :END:
-
+** DONE Review 97.3%
+   CLOSED: [2016-08-22 一 21:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-22 一 21:09]
+   CLOCK: [2016-08-22 一 20:52]--[2016-08-22 一 21:09] =>  0:17
+   :END:
 
 ** text
 *** salt
@@ -2000,12 +2023,18 @@ on the telephone because they do not have a telephone.
 Why are these girls not working and instead spending time at the
 beach? They are spending time at the beach because they are on
 holiday.
-* DONE 复习lesson thirty 98.7%
-  CLOSED: [2016-07-22 Fri 06:05]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-22 Fri 06:05]
-  CLOCK: [2016-07-22 Fri 05:13]--[2016-07-22 Fri 06:04] =>  0:51
-  :END:
+** DONE 复习lesson thirty 98.7%
+   CLOSED: [2016-07-22 Fri 06:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-22 Fri 06:05]
+   CLOCK: [2016-07-22 Fri 05:13]--[2016-07-22 Fri 06:04] =>  0:51
+   :END:
+** DONE Review 97.6%
+   CLOSED: [2016-08-22 一 15:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-22 一 15:22]
+   CLOCK: [2016-08-22 一 15:02]--[2016-08-22 一 15:22] =>  0:20
+   :END:
 ** text
 grown-ups
 a child
@@ -2081,10 +2110,11 @@ a bus stop
 Are they brother and sister? No, they are husband and wife.
 Who is waiting at the window? The dog is waiting at the window.
 98.7%
-* lesson nineteen<2016-07-07 Thu>
+* lesson ninteen<2016-07-07 Thu>
 :LOGBOOK:
 CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
 :END:
+e
 a cheek
 an ear
 an eye
@@ -2162,6 +2192,13 @@ Are the child's feet big or small? His feet are small.
 96.9%
 * DONE lesson twenty
   CLOSED: [2016-07-07 Thu 20:39]
+* DONE Review twenty 96.9%
+  CLOSED: [2016-08-10 Wed 15:29]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-10 Wed 15:29]
+  CLOCK: [2016-08-10 Wed 15:06]--[2016-08-10 Wed 15:29] =>  0:23
+  :END:
+
 a policeman
 a teacher
 a cooker
@@ -2232,6 +2269,13 @@ Is teaching children a teacher's job or a waiter's job? It is a teacher's job.
 96.5%
 * DONE lesson twenty one
   CLOSED: [2016-07-08 Fri 06:01]
+* DONE Review twenty one 97.7%
+  CLOSED: [2016-08-10 Wed 15:56]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-10 Wed 15:56]
+  CLOCK: [2016-08-10 Wed 15:31]--[2016-08-10 Wed 15:56] =>  0:25
+  :END:
+
 ** text
 
 The policeman is wearing a blue cap.
@@ -5841,12 +5885,6 @@ The book isn't on the table, so the man is looking for it in the cabinet.
   CLOCK: [2016-07-28 Thu 09:57]--[2016-07-28 Thu 10:15] =>  0:18
   :END:
 
-* DONE Review fourteen 96.8%
-  CLOSED: [2016-07-28 Thu 10:35]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-28 Thu 10:35]
-  CLOCK: [2016-07-28 Thu 10:15]--[2016-07-28 Thu 10:35] =>  0:20
-  :END:
 * DONE Review 33
   CLOSED: [2016-07-28 Thu 11:35]
   :LOGBOOK:
@@ -13068,6 +13106,12 @@ www.ebigear.com
   - State "DONE"       from "STARTED"    [2016-08-08 Mon 06:25]
   CLOCK: [2016-08-08 Mon 05:02]--[2016-08-08 Mon 06:25] =>  1:23
   :END:
+** DONE Review 94.8%
+   CLOSED: [2016-08-23 二 05:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-23 二 05:44]
+   CLOCK: [2016-08-23 二 05:02]--[2016-08-23 二 05:44] =>  0:42
+   :END:
 ** text
 *** a credit card
 
@@ -14634,12 +14678,6 @@ In order to open an account, you need to go to the bank.
   - State "DONE"       from "STARTED"    [2016-08-08 一 16:01]
   CLOCK: [2016-08-08 一 15:43]--[2016-08-08 一 16:01] =>  0:18
   :END:
-* DONE Review fourteen 97.4%
-  CLOSED: [2016-08-08 一 20:19]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-08 一 20:19]
-  CLOCK: [2016-08-08 一 20:00]--[2016-08-08 一 20:19] =>  0:19
-  :END:
 * DONE Review fifteen 98.1%
   CLOSED: [2016-08-08 一 20:42]
   :LOGBOOK:
@@ -14655,6 +14693,13 @@ In order to open an account, you need to go to the bank.
   - State "DONE"       from "STARTED"    [2016-08-09 二 06:17]
   CLOCK: [2016-08-09 二 05:19]--[2016-08-09 二 06:17] =>  0:58
   :END:
+** DONE Review 94%
+   CLOSED: [2016-08-23 二 04:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-23 二 04:36]
+   CLOCK: [2016-08-23 二 04:00]--[2016-08-23 二 04:36] =>  0:36
+   :END:
+
 ** text
 *** text
 
@@ -15539,6 +15584,18 @@ The woman has a stomachache.
   - State "DONE"       from "STARTED"    [2016-08-10 三 03:30]
   CLOCK: [2016-08-10 三 02:01]--[2016-08-10 三 03:30] =>  1:29
   :END:
+** DONE Review 95.4%
+   CLOSED: [2016-08-22 一 05:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-22 一 05:43]
+   CLOCK: [2016-08-22 一 05:17]--[2016-08-22 一 05:43] =>  0:26
+   :END:
+** DONE Review 96.9%
+   CLOSED: [2016-08-22 一 21:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-22 一 21:32]
+   CLOCK: [2016-08-22 一 21:11]--[2016-08-22 一 21:32] =>  0:21
+   :END:
 ** text
 *** elderly people
 *** a child
@@ -16121,24 +16178,6 @@ Elderly people have elevated blood pressure more often than teenagers.
 Elderly people die more often than young people.
 
 Children get sick more often than adults.
-* DONE Review ninteen 97.2%
-  CLOSED: [2016-08-10 Wed 07:00]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-10 Wed 07:00]
-  CLOCK: [2016-08-10 Wed 06:41]--[2016-08-10 Wed 07:00] =>  0:19
-  :END:
-* DONE Review twenty 96.9%
-  CLOSED: [2016-08-10 Wed 15:29]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-10 Wed 15:29]
-  CLOCK: [2016-08-10 Wed 15:06]--[2016-08-10 Wed 15:29] =>  0:23
-  :END:
-* DONE Review twenty one 97.7%
-  CLOSED: [2016-08-10 Wed 15:56]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-10 Wed 15:56]
-  CLOCK: [2016-08-10 Wed 15:31]--[2016-08-10 Wed 15:56] =>  0:25
-  :END:
 * DONE Fourty six 95.5%
   CLOSED: [2016-08-11 四 09:58]
   :LOGBOOK:
@@ -16168,6 +16207,12 @@ Children get sick more often than adults.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-21 Sun 17:30]
    CLOCK: [2016-08-21 Sun 16:58]--[2016-08-21 Sun 17:30] =>  0:32
+   :END:
+** DONE Review 96.5%
+   CLOSED: [2016-08-22 一 04:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-22 一 04:56]
+   CLOCK: [2016-08-22 一 04:26]--[2016-08-22 一 04:56] =>  0:30
    :END:
 ** text
 *** a bracelet
