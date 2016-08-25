@@ -861,6 +861,58 @@ begin learn Elisp and Ruby
      :LOGBOOK:
      - State "DONE"       from "STARTED"    [2016-08-23 二 13:55]
      :END:
+*** 2016-08-24 星期三
+
+**** DONE arrive office and begin work and learn
+     CLOSED: [2016-08-24 三 04:35]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-08-24 三 04:35]
+     :END:
+
+**** DONE begin work
+     CLOSED: [2016-08-24 Wed 08:00]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-08-24 Wed 08:00]
+     :END:
+
+**** DONE arrive office and begin work
+     CLOSED: [2016-08-24 三 14:01]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-08-24 三 14:01]
+     :END:
+*** 2016-08-25 星期四
+
+**** DONE arrive office and begin work and learn
+     CLOSED: [2016-08-25 四 03:07]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-08-25 四 03:07]
+     :END:
+
+**** DONE 李玲来访
+     CLOSED: [2016-08-25 四 11:15]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-08-25 四 11:15]
+     CLOCK: [2016-08-25 四 9:20]--[2016-08-25 四 10:15] =>  0:55
+     :END:
+
+**** DONE 企业来访
+     CLOSED: [2016-08-25 四 11:18]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-08-25 四 11:18]
+     CLOCK: [2016-08-25 四 10:17]--[2016-08-25 四 11:18] =>  1:01
+     :END:
+
+**** DONE arrive office and begin work
+     CLOSED: [2016-08-25 Thu 14:49]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-08-25 Thu 14:49]
+     :END:
+
+**** DONE going to home
+     CLOSED: [2016-08-25 Thu 21:04]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-08-25 Thu 21:04]
+     :END:
 
 * 2016-08-23 星期二
 

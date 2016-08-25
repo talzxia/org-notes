@@ -776,6 +776,113 @@ arrvie office begin work
    CLOCK: [2016-08-23 二 13:56]--[2016-08-23 二 14:56] =>  1:00
    :END:
 
+** DONE [#B] relax and clean up
+   CLOSED: [2016-08-24 三 05:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-24 三 05:21]
+   CLOCK: [2016-08-24 三 05:15]--[2016-08-24 三 05:21] =>  0:06
+   :END:
+
+** DONE [#B] read aloud 《道德经》 20节
+   CLOSED: [2016-08-24 三 06:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-24 三 06:28]
+   CLOCK: [2016-08-24 三 06:18]--[2016-08-24 三 06:28] =>  0:10
+   :END:
+
+** DONE [#B] 早锻炼<2016-08-24 三 06:30>
+   CLOSED: [2016-08-24 Wed 09:39]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-08-24 Wed 09:39]
+   :END:
+
+** DONE [#B] evening walk half an hour<2016-08-24 三 21:20>
+   CLOSED: [2016-08-24 三 21:16]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-08-24 三 21:16]
+   :END:
+
+** DONE [#B] 处理杂务
+   CLOSED: [2016-08-24 Wed 09:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-24 Wed 09:37]
+   CLOCK: [2016-08-24 Wed 08:00]--[2016-08-24 Wed 09:37] =>  1:37
+   - State "STARTED"    from "DONE"       [2016-08-24 Wed 09:33]
+   - State "DONE"       from "STARTED"    [2016-08-24 Wed 09:33]
+   :END:
+
+** DONE [#B] relax and browse
+   CLOSED: [2016-08-24 三 15:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-24 三 15:32]
+   CLOCK: [2016-08-24 三 14:59]--[2016-08-24 三 15:32] =>  0:33
+   :END:
+
+** DONE [#B]relax and listen to music
+   CLOSED: [2016-08-25 四 06:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-25 四 06:38]
+   CLOCK: [2016-08-25 四 05:35]--[2016-08-25 四 06:38] =>  1:03
+   :END:
+
+** DONE [#B]处理交通违章
+   CLOSED: [2016-08-25 四 09:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-25 四 09:16]
+   CLOCK: [2016-08-25 四 08:09]--[2016-08-25 四 09:16] =>  1:07
+   :END:
+
+** DONE [#B] 讨论spacemacs应用
+   CLOSED: [2016-08-25 Thu 16:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-25 Thu 16:22]
+   CLOCK: [2016-08-25 Thu 15:40]--[2016-08-25 Thu 16:22] =>  0:42
+   :END:
+
+** TODO [#B]早锻炼
+   DEADLINE: <2016-08-25 Thu 06:20 +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2016-08-25 Thu 21:01]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-08-25 Thu 21:01]
+   - State "DONE"       from "TODO"       [2016-08-25 Thu 21:01]
+   - State "DONE"       from "STARTED"    [2016-08-25 Thu 21:01]
+   - State "DONE"       from "TODO"       [2016-08-25 Thu 21:00]
+   - State "DONE"       from "STARTED"    [2016-08-25 Thu 21:00]
+   :END:
+
+** TODO [#B]晚走步
+   DEADLINE: <2016-08-25 Thu 9:20 +1d>
+
+** TODO [#B]每天用笔书写半小时
+   DEADLINE: <2016-08-26 Fri +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2016-08-25 Thu 21:04]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-08-25 Thu 21:04]
+   :END:
+
+** TODO [#B]每天学习英语一小时以上
+   DEADLINE: <2016-08-26 Fri +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2016-08-25 Thu 21:04]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-08-25 Thu 21:04]
+   :END:
+
+** TODO [#B]坚持每天学习新知识及技术一小时
+   DEADLINE: <2016-08-26 Fri +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2016-08-25 Thu 21:05]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-08-25 Thu 21:05]
+   :END:
+
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

@@ -83,11 +83,11 @@ Is the bird running? No, the bird is flying.
    - State "DONE"       from "STARTED"    [2016-08-16 二 13:53]
    CLOCK: [2016-08-16 二 13:40]--[2016-08-16 二 13:53] =>  0:13
    :END:
-* 复习98.7%                                                             :one:
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-25 Mon 05:38]
-  CLOCK: [2016-07-25 Mon 05:24]--[2016-07-25 Mon 05:38] =>  0:14
-  :END:
+** 复习98.7%                                                            :one:
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-25 Mon 05:38]
+   CLOCK: [2016-07-25 Mon 05:24]--[2016-07-25 Mon 05:38] =>  0:14
+   :END:
 * DONE Lesson two 97.9%                                                 :two:
   CLOSED: [2016-07-24 Sun 21:04]
   :LOGBOOK:
@@ -169,12 +169,12 @@ Is the tree small? No, it is big.
    - State "DONE"       from "STARTED"    [2016-08-16 二 18:00]
    CLOCK: [2016-08-16 二 17:47]--[2016-08-16 二 18:00] =>  0:13
    :END:
-* DONE 复习98.9%
-  CLOSED: [2016-07-25 Mon 05:52]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-25 Mon 05:52]
-  CLOCK: [2016-07-25 Mon 05:39]--[2016-07-25 Mon 05:52] =>  0:13
-  :END:
+** DONE 复习98.9%
+   CLOSED: [2016-07-25 Mon 05:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-25 Mon 05:52]
+   CLOCK: [2016-07-25 Mon 05:39]--[2016-07-25 Mon 05:52] =>  0:13
+   :END:
 * DONE Lesson three 97.4%                                             :three:
   CLOSED: [2016-07-24 Sun 16:07]
   :LOGBOOK:
@@ -567,6 +567,16 @@ Is it summer? No, it is winter: a woman is running in the snow.
    CLOCK: [2016-08-19 五 20:41]--[2016-08-19 五 20:56] =>  0:15
    :END:
 
+** DONE Review Seven 97.7%
+   CLOSED: [2016-07-26 Tue 15:48]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-26 Tue 15:48]
+    CLOCK: [2016-07-26 Tue 15:32]--[2016-07-26 Tue 15:48] =>  0:16
+    :END:
+ 前者的每一个字母各代表一个步骤，即预习(Preview)、提问(Question)、阅读(Read)、笔
+ 记(Write)、背诵(Recite)、复习(Review),是一种行之有效地与速读结合的阅读学习方法；
+ 后者是美国芝加哥大学教育研究所的哥特．莫斯博士发明的一种学习方法，旨在强化个人...
+
 ** text
 hot
 clean
@@ -671,168 +681,6 @@ Hot green tea? No, cold red juice.
 
 
 
-** lesson eighteen
- to have
- to have not
- to put on
- to take off
- to try on
- to wear
- The girl has a toys.
- The woman does‘nt ant toys.
- The boy doesn't have a bicycle.
- The boy has a bicycle.
- The girl has a boys.
- The man doesn't have a bicycle.
- The girl has a flower.
- The boy doesn't have a flower.
- The girl has parents.
- The girl has a grandma and grandad.
- The girl has a yellow dress.
- The girl has a brother.
- The girl has an apple.
- The girl has a big dog.
-
- The boy doesn't have a helicopter or a giraffe.
- The giraffe hasn't got any money.
- The boy doesn't have long hair.
- The boy doesn't have a sister.
- The boy doesn't have a dress.
- The boy doesn't have a dog.
-
- The litter girl wants to try on a skirt.
- The man is trying on some shoes.
- The man is trying on a shirt.
- The woman is trying on a shirt
- The girl is trying on a skirt in front of the mirror.
- The girl is trying on some shoes.
- sweater
-  英  ['swetə]   美  ['swɛtɚ]
- n. 毛线衣，运动衫；大量出汗的人，发汗剂
-
- The girl is taking off a green sweater.
- The girl is taking off a balck-and-white dress.
- The man is putting on some gloves.
- The woman is putting on some gloves.
- The woman is putting on boots.
- The man is taking off a shirt.
-
- The boy isn't wearing a dress.
- moustache
-  英  [mə'stɑːʃ]   美  [mə'stɑʃ]
- n. 小胡子；髭；触须
- n. (Moustache)人名；(法)穆斯塔什
- Grandad has a moustache and a beard
- beard
-  英  [bɪəd]   美  [bɪrd]
- vt. 公然反对；抓…的胡须
- n. 胡须；颌毛
- vi. 充当掩护；充当男随员
- n. (Beard)人名；(英)比尔德
- The girl wears a dress.
- The giraffe does not wear clothes.
- Grandma wears glasses.
- The woman wears shoes.
-
- The man doesn't have any money. He can't buy anything.
- The family has a big new house.
- The woman is putting on a  white dress for the wedding.
- Girls like to wear short skirts.
- The man has a lot of money. He can buy a car.
- The girl has a new pink bag.
-
- Do women wear skirts? Yes, they wear skirts.
- Do men wear skirts? Yes, they wear skirts sometimes.
- Does grandma wear glasses? Yes,  grandma wears glasses.
- Do they wear gloves in winter? Yes, they wear gloves in winter.
- Do they wear swimsuits in summer? Yes, they wear swimsuits in summer.
- Has the boy got a bicycle? Yes, he has  a bicycle.
-
- What is the girl taking off? She is taking off a black-and-white dress.
- Has the dog got any money? No, it has not got any money.
- Has the dog got any clothes? No, it has not got any clothes.
- Who is trying on the skirt? The girl in front of the mirror is trying on the skirt.
- Who has a beard? Grandad has a beard.
- Is the woman putting on shoes or gloves? She is putting on gloves.
- 95.4%
-
-** text
-trousers
-a scarf
-a skirt
-a cap
-a shirt
-a swimsuit
-
-grey
-white
-brown
-blue
-pink
-violet
-
-young
-old
-big
-slim
-cheerful
-sad
-
-a big man
-a slim woman
-cheerful women
-a sad old woman
-a cheeful old man with a girl
-a cheerful old man in green
-
-a grey bear
-a white bear
-a brown bear
-a brown horse
-a white bag
-a grey car
-
-a violet umbrella
-a woman in a violet dress
-a pink bird
-a pink flower
-a boy with blue flowers
-an old blue car
-
-a young woman in a violet swimsuit
-wet swimsuits
-a girl in a pink cap
-a girl in a brown cap
-a young woman in a pink scarf
-a cheerful old man in green
-
-a young woman in white trousers
-a young woman in a long brown skirt
-a young woman in a short blue skirt
-a young woman in black trousers
-a man in a blue shirt
-a man in a pink shirt
-
-Is the big woman cheerful? Yes, the big woman is cheerful.
-Is the big young man with a woman in blue water cheerful? Yes, the big young man
-with a woman in blue water is cheerful.
-Is the big old woman in a blue swimsuit cheerful? Yes, the big old woman in a blue
-swimsuit is cheerful.
-Is the old man with a dog cheerful? Yes, the old man with a dog is cheerful.
-Is the old man in the black cap cheerful? Yes, the old man in the black cap is
-cheerful.
-Is the big woman sad? Yes, the big woman is sad.
-
-Is the wet girl wearing a grey dress? No, the wet girl is wearing a black
-swimsuit.
-Is the old woman with flowers wearing a red skirt? No, the old woman with
-flowers is wearing a yellow cap.
-Is the man in a black cap? No, the man is in a blue cap.
-Is the woman in a green shirt and a green scarf? No, the woman is in a pink
-swimsuit and a pink skirt.
-An old white car? No, a pink old car.
-A red flower? No, a grey bird.
-
 * DONE Lesson nine 97.6%
   CLOSED: [2016-07-23 Sat 16:01]
    :LOGBOOK:
@@ -921,6 +769,22 @@ on a stool.
 Are there few shirts in the wardrobe? No, there are a lot of shirts in the
 wardrobe.
 Are the men standing around  a table? No, they are sitting around the a table.
+
+** DONE Review Nine 99.0% very good
+   CLOSED: [2016-07-26 Tue 18:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-26 Tue 18:29]
+   CLOCK: [2016-07-26 Tue 18:09]--[2016-07-26 Tue 18:29] =>  0:20
+   :END:
+** DONE Review nine 95.9%
+   CLOSED: [2016-08-06 六 21:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-06 六 21:17]
+   - State "STARTED"    from "DONE"       [2016-08-06 六 21:17]
+   - State "DONE"       from "WAITING"    [2016-08-06 六 21:17]
+   - State "DONE"       from "WAITING"    [2016-08-06 六 21:16]
+   - State "DONE"       from "STARTED"    [2016-08-06 六 21:14]
+   :END:
 
 * DONE Lesson ten 97.9%
   CLOSED: [2016-07-23 Sat 05:54]
@@ -1220,6 +1084,8 @@ Is the man sitting on the floor? The dog is sitting on the floor.
    - State "DONE"       from "STARTED"    [2016-08-21 Sun 16:57]
    CLOCK: [2016-08-21 Sun 15:08]--[2016-08-21 Sun 16:57] =>  1:49
    :END:
+
+
 中间一小时拜访杜科长、大姐家。
 Why does the giraffe like to eat leaves from tall trees? It like to do
 so because it has a long neck.
@@ -1239,24 +1105,226 @@ taking photos of it because it is beautiful.
 
 Why are people sleeping on the grass? They are sleeping here because
 they do not have a home.
+** Lesson thirteen
+ This elderly man is wearing glasses. he is hugging a large white dog
+ around the  neck and laughing.
+ This is a view of the desert. A group of people are travelling on
+ camels. Three camels are lying in the sand, and two are standing.
+ These young people are also travelling across the desert. They like to
+ travel on fourwheelers.
+ This is a small, beautiful money. It is eating for lunch. In front of
+ it are two plates of food.
+ It is a summer's day in the countryside. There is a horse standing
+ under the tree. It is relaxing.
+ It is a sunny day. The sportsmen are relaxing at a table in the
+ café. One of them is drinking water from a bottle.
+ The elderly man is sitting on a stool under the tree. His white cap is
+ lying on the grass.
+ A knife and a fork are lying on a napkin, the napkin is lying on a
+ white tablecloth, and the tablecloth is lying on a table.
+ This is a restaurant. The young man is paying the waiter in
+ cash. There is a cup of coffee in front of him.
+ The girl with glasses is drawing. There is a fish and beautiful sea
+ plants in the picture. Two girl are looking at her work.
+ The young man is taking a phone of the girl with long black
+ hair. There is a small white dog sitting on the girl's lap.
+ lap :n. 一圈；膝盖；下摆；山坳
+ vt. 使重叠；拍打；包围
+ vi. 重叠；轻拍；围住
+ Two girls are sitting on a bench in the park. They are wearing white
+ pants. One of them is holding an umbrella.
+ The customer who is standing in front of the mirror wants to buy a
+ skirt.
+ The turtle is an animal that moves very slowly.
+ The woman who is sitting to the left of the boy is a teacher.
+ The cactus is a plant that is able to live in the desert.
+ A seagull is a bird that lives at the sea.
+ Rome is a city that tourists like very much.
+ When there is good weather outside the window in the house is open.
+ When a person is ill，he goes to the doctor.
+ Many customers come to the big shop when there is a sale.
+ When there is a trffice jam, the policemen have a lot of work.
+ When it is raining, people open their umbrellas.
+ When the parents work，the child plays with his grandmother.
+
+ The man is turning off the television, because he does not want to
+ watch it any longer.
+ The tourists are travelling on the ship, becasue they do not like to
+ fly on airplanes.
+ The waiter is taking away the chicken, because the woman does not like
+ it.
+ The woman is drinking water, because she does not want to drink wine.
+ The man is drink wine, because he likes it.
+ The boy is turning off the computer, because he does not want to play
+ any longer.
+
+ The spectators are going to the theatre in order to watch the
+ performance.
+ The woman is not drinking wine in order to drive the car well.
+ The man is turning on the television in order to watch an interesting
+ programme.
+ The actors are going to the theatre in order to perform on stage.
+ The boy is turning on the computer in order to play.
+ The customers are going to the shop at the time of sale in order to
+ buy cheap goods.
+
+ The woman does not like the chicken, although it tastes good.
+ The boy is turning on the computer, although his parents would rather
+ him not.
+ The woman wants to buy a new dress, even though she has many dresses.
+ The girl likes to walk in the forest, though it is raining.
+ The woman is drinking water, although she likes wine.
+ The girl is not happy, even though today is her birthday.
+
+ Today is the little boy's birthday. He is holding a present in his
+ hands. He likes this holiday very much.
+ There is a beautiful, tan saleswoman behind the counter in the small
+ shop. There is only one customer in the shop, and he is looking at
+ wine and fruits.
+ The weather is rainy. The boy is looking out of the window. He is
+ bored, and wants to walk and play outside.
+ This is a bus stop. A man is sitting on the bench and reading the
+ newpaper. He is waiting for the bus.
+ The woman is standing by the sea. She is neither bathing nor
+ tanning. She is looking at the sea and waiting for a ship.
+ Two women in the park are looking at the big grey bird. One woman is
+ holding an orange. She wants to feed the bird.
+
+ Two cheerful girls are walking in the autumn park. They like to play
+ with the beautiful yellow leaves.
+ This is a young woman in blue. She has long hair and beautiful
+ blue eyes. She is holding a white cup.
+ This is a large brown bear. It is getting out of the water, and the
+ lake and the mountains are behind him.
+ The bride and groom are celebrating their wedding on the beach at the
+ sea. The groom is holding the bride in his arms. She is wearing a long
+ white dress and has flowers in her hand.
+ This is a large, beautiful, red and white house. Next to the house is
+ a table and four chairs. There are small trees growing across from the
+ house.
+ The man wants to give flowers to the woman in the beautiful dress. He
+ is holding them behind his back, and she is looking at him and
+ laughing.
+
+ Why does the giraffe like to eat leaves from tall tree? It likes to do
+ so because it has a long neck.
+ Why are there many tourists taking photos of the square? They are
+ taking photos of it because it is beautiful.
+ Why are the girls sleeping during the lesson? They are sleeping
+ because the lesson is boring.
+ Why are people  sleeping on the grass? They are sleeping here
+ because they do not have a home.
+ Why are the swans not talking on the telephone? They are not talking
+ on the telephone because they do not have a telephone.
+ Why are these girls not working and instead spending time at the
+ beach? They are spending time at the beach because they are on
+ holiday.
+** DONE 复习lesson thirty 98.7%
+   CLOSED: [2016-07-22 Fri 06:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-22 Fri 06:05]
+   CLOCK: [2016-07-22 Fri 05:13]--[2016-07-22 Fri 06:04] =>  0:51
+   :END:
+** DONE Review 97.6%
+   CLOSED: [2016-08-22 一 15:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-22 一 15:22]
+   CLOCK: [2016-08-22 一 15:02]--[2016-08-22 一 15:22] =>  0:20
+   :END:
+** text
+grown-ups
+a child
+bride and groom
+a wedding
+children
+husband and wife
+
+to live
+to meet
+to walk
+to wait
+to kiss
+to sing
+
+The bride and groom are dancing.
+A cheerful wedding
+The wife is kissing her husband.
+Wedding outdoors
+Ther grown-ups are dancing.
+The children are dancing.
+
+The child is crying.
+The child is sleeping.
+The child is playing.
+The grown-ups are playing with the children.
+The childern are playing.
+The family lives in a big house.
+
+The man is waiting.
+The dog is waiting by the window.
+Father meets his son.
+The people have no home. They live outdoors.
+Grandma and grandad are walking.
+Father meets his daughter
+
+There are a lot of people at the wedding.
+Mother is kissing her son.
+Brother and sister are walking.
+Mother is kissing her daughter.
+The man is singing.
+The woman is singing.
+
+There aren't any children at the wedding. There are a bride and a groom at the
+wedding.
+The husband and kissing her wife.
+The husband and wife are walking.
+The grown-up is kissing the child.
+Mother and father are walking with their child.
+The child is kissing a little dog.
+
+The boy is waiting for the bus.
+The children are singing.
+The wife is waiting for her husband by the window.
+Are the children talking to each other? Yes, the children are talking to each other.
+The people are singing.
+The grown-ups are waiting for the bus.
+
+Are the parents walking with their child? Yes, the parents are walking with
+their child.
+Are there a lot of children at the table? Yes, there are a lot of children at
+the tabble.
+Is the man kissing the brid? Yes, the man is kissing the brid.
+Does he live in London? No, he lives in Paris.
+Is this a wedding car? Yes, this is a wedding car.
+Are the children kissing their father? Yes, the children are kissing their
+father.
+
+What are they waiting for? They are waiting for the bus.
+Is the granddaughter hugging her grandad? No, she is hugging her grandma.
+Is the mother meeting her son? No, the father is meeting her son.
+a bus stop
+Are they brother and sister? No, they are husband and wife.
+Who is waiting at the window? The dog is waiting at the window.
+98.7%
+
 * DONE lesson fourteen 98.3
   CLOSED: [2016-07-21 Thu 22:01]
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-07-21 Thu 22:01]
   CLOCK: [2016-07-21 Thu 21:13]--[2016-07-21 Thu 22:01] =>  0:48
   :END:
-* DONE Review fourteen 97.4%
-  CLOSED: [2016-08-08 一 20:19]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-08 一 20:19]
-  CLOCK: [2016-08-08 一 20:00]--[2016-08-08 一 20:19] =>  0:19
-  :END:
-* DONE Review fourteen 96.8%
-  CLOSED: [2016-07-28 Thu 10:35]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-28 Thu 10:35]
-  CLOCK: [2016-07-28 Thu 10:15]--[2016-07-28 Thu 10:35] =>  0:20
-  :END:
+** DONE Review fourteen 97.4%
+   CLOSED: [2016-08-08 一 20:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-08 一 20:19]
+   CLOCK: [2016-08-08 一 20:00]--[2016-08-08 一 20:19] =>  0:19
+   :END:
+** DONE Review fourteen 96.8%
+   CLOSED: [2016-07-28 Thu 10:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-28 Thu 10:35]
+   CLOCK: [2016-07-28 Thu 10:15]--[2016-07-28 Thu 10:35] =>  0:20
+   :END:
 ** DONE Review fourteen 97.7%
    CLOSED: [2016-08-22 一 15:47]
    :LOGBOOK:
@@ -1399,162 +1467,7 @@ He dried off the towel.
 他拧干了毛巾。
 She twisted a wet towel and dried her face.
 她拧干一块温毛巾擦脸。
-* Lesson Sixteen
-*** words
-
-menu
- 英  ['menjuː]   美  ['mɛnju]
-n. 菜单
-饭菜
- 柯林斯英汉双解大词典  21 世纪大英汉词典
-
-menu /ˈmɛnjuː/  CET4 TEM4
-N-COUNT In a restaurant or café or at a formal meal, the menu is a list of the meals and drinks that are available. 菜单
-例：
-A waiter offered him the menu.
-一个侍者给他送上了菜单。
-N-COUNT A menu is the food that you serve at a meal. 饭菜
-例：
-Try out the menu on a few friends.
-请几个朋友来尝尝这道菜。
-N-COUNT On a computer screen, a menu is a list of choices. Each choice represents something that you can do using the computer. (电脑屏幕上的) 菜单
-例：
-Hold down the shift key and press F7 to display the print menu.
-按住键的同时按下键，以显示打印菜单。
-网络释义 专业释义 英英释义
-
- 菜单
- 菜单
- 选单
- 菜单键
-短语
-Menu Bar 菜单栏
-Menu Bar 菜单条
-Menu Bar 功能表列
-Menu Bar 主菜单
-context Menu 上下文菜单
-  更多结果
-词组短语 同近义词
-
-menu item [计]菜单项
-menu bar n. [计]菜单栏
-main menu 主菜单；主选单；炙单
-shortcut menu [计]快捷菜单
-drop-down menu 下拉式菜单
-  更多词组短语
-双语例句 原声例句 权威例句
-
-Let us see what is on the menu today.
-让我们看看今天的菜单上有些什么菜。
-It provides an event handler for each menu option.
-它为每一个菜单选项提供事件处理程序。
-www.ibm.com
-Since her eyes now see only large shapes and shadows, I had to read the menu for both of us.
-由于她现在的视力只能看到大致的形状和模糊的影子, 我得为我俩读菜单。
-www.ebigear.com
- 更多双语例句
-百科
-
-Menu
-
-In a restaurant, a menu is a presentation of food and beverage offerings. A menu may be à la carte – which guests use to choose from a list of options – or table d'hôte, in which case a pre-established sequence of courses is served.
-来源于：维基百科
-
-a menu
-a napkin
-
-A napkin is a square of cloth or paper that you use when you eating to
-protect your clothes, or to wipe your mouth or hands.
-a tablecloth
-a tray
-
-A tray is a flat piece of wood, plastic, or metel, which usually has
-raised edges and which is used for carrying things, especially food
-and drinks.
-
-a bill
-
-A bill is a written statement of money that you owe for goods or
-serices.
-
-a waiter
-
-A waiter is a man who works in a restaurant, serving people food and
-drink.
-
-to take away
-
-If you take away from someone, you remove it from them, so that they
-no longer possess it or have it with them.
-
-to taste
-
-Taste is one of the five senses that people have. When you have food
-or krink in your mouth, youir sense of taste makes it possible for you
-to recognize what it is.
-
-to pour
-to like
-to bring
-to order
-
-a spoon
-a knife
-a fork
-a cup
-a wineglass
-*** text
-They are sitting ta the table in a restaturant.
-The wife orders chicken with potatoes.
-They read the munu.
-The husband and wife go to a restaurant.
-The husband orders meat.
-The waiter brings the menu.
-
-There is water in the bottle.
-The waiter brings a  tray.
-The waiter pours out some wine.
-There is wine in the bottle.
-He is pouring some wine into a glass.
-There are plates and bottles on the tray.
-
-The fork is on the left of the plate.
-There are napkins near the plates.
-The knife and spoon are on the right of the plate.
-A clean white tablecloth is on the table.
-There are plates on the tablecloth.
-There is a wineglass behind the plate.
-
-He likes meat.
-The wife is pouring water into the glass, she does not want wine.
-He says to his wife, " I like meat very much".
-The husband is tasting the meat.
-The husband is drinking wine, he does not want water.
-The husband and wife are hungry.
-
-The wife tasting the chicken.
-The waiter brings cups of coffee.
-The waiter takes the chicken away.
-She looks at the menu.
-She does not like the chicken. The chicken is cold.
-The wife puts sugar into hot coffee.
-
-The husband looks at the bill.
-The waiter brings the bill.
-He pays the waiter.
-The wife drinks coffee with sugar.
-The waiter takes the dirty dishes away.
-The husband drinks coffe without sugar.
-
-The girl likes icecream.
-The man likes spaghetti.
-It likes to dance.
-They like to swim.
-The girl like to sing.
-The man likes the woman.
-
-
-* DONE Lesson fivteen
+* DONE Lesson fifteen
 :LOGBOOK:
    CLOCK: [2016-07-21 Thu 18:16]--[2016-07-21 Thu 19:23] =>  1:07
    :END:
@@ -1563,6 +1476,24 @@ The man likes the woman.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-22 一 21:09]
    CLOCK: [2016-08-22 一 20:52]--[2016-08-22 一 21:09] =>  0:17
+   :END:
+** DONE Review fifteen 96.8%
+   CLOSED: [2016-07-28 Thu 16:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-28 Thu 16:19]
+   CLOCK: [2016-07-28 Thu 15:58]--[2016-07-28 Thu 16:19] =>  0:21
+   :END:
+** DONE Review fifteen 96.5%
+   CLOSED: [2016-08-23 二 20:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-23 二 20:26]
+   CLOCK: [2016-08-23 二 20:07]--[2016-08-23 二 20:26] =>  0:19
+   :END:
+** DONE Review fifteen 98.1%
+   CLOSED: [2016-08-08 一 20:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-08 一 20:42]
+   CLOCK: [2016-08-08 一 20:21]--[2016-08-08 一 20:42] =>  0:21
    :END:
 
 ** text
@@ -1764,7 +1695,202 @@ Does the boy want a pear? No, the boy wants meat.
 97.8%
 
 ** words
+
+* Lesson Sixteen
+** DONE Review 97.2%
+   CLOSED: [2016-08-24 三 05:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-24 三 05:43]
+   CLOCK: [2016-08-24 三 05:27]--[2016-08-24 三 05:43] =>  0:16
+   :END:
+
+*** words
+
+menu
+ 英  ['menjuː]   美  ['mɛnju]
+n. 菜单
+饭菜
+ 柯林斯英汉双解大词典  21 世纪大英汉词典
+
+menu /ˈmɛnjuː/  CET4 TEM4
+N-COUNT In a restaurant or café or at a formal meal, the menu is a list of the meals and drinks that are available. 菜单
+例：
+A waiter offered him the menu.
+一个侍者给他送上了菜单。
+N-COUNT A menu is the food that you serve at a meal. 饭菜
+例：
+Try out the menu on a few friends.
+请几个朋友来尝尝这道菜。
+N-COUNT On a computer screen, a menu is a list of choices. Each choice represents something that you can do using the computer. (电脑屏幕上的) 菜单
+例：
+Hold down the shift key and press F7 to display the print menu.
+按住键的同时按下键，以显示打印菜单。
+网络释义 专业释义 英英释义
+
+ 菜单
+ 菜单
+ 选单
+ 菜单键
+短语
+Menu Bar 菜单栏
+Menu Bar 菜单条
+Menu Bar 功能表列
+Menu Bar 主菜单
+context Menu 上下文菜单
+  更多结果
+词组短语 同近义词
+
+menu item [计]菜单项
+menu bar n. [计]菜单栏
+main menu 主菜单；主选单；炙单
+shortcut menu [计]快捷菜单
+drop-down menu 下拉式菜单
+  更多词组短语
+双语例句 原声例句 权威例句
+
+Let us see what is on the menu today.
+让我们看看今天的菜单上有些什么菜。
+It provides an event handler for each menu option.
+它为每一个菜单选项提供事件处理程序。
+www.ibm.com
+Since her eyes now see only large shapes and shadows, I had to read the menu for both of us.
+由于她现在的视力只能看到大致的形状和模糊的影子, 我得为我俩读菜单。
+www.ebigear.com
+ 更多双语例句
+百科
+
+Menu
+
+In a restaurant, a menu is a presentation of food and beverage offerings. A menu may be à la carte – which guests use to choose from a list of options – or table d'hôte, in which case a pre-established sequence of courses is served.
+来源于：维基百科
+
+a menu
+a napkin
+
+A napkin is a square of cloth or paper that you use when you eating to
+protect your clothes, or to wipe your mouth or hands.
+a tablecloth
+a tray
+
+A tray is a flat piece of wood, plastic, or metel, which usually has
+raised edges and which is used for carrying things, especially food
+and drinks.
+
+a bill
+
+A bill is a written statement of money that you owe for goods or
+serices.
+
+a waiter
+
+A waiter is a man who works in a restaurant, serving people food and
+drink.
+
+to take away
+
+If you take away from someone, you remove it from them, so that they
+no longer possess it or have it with them.
+
+to taste
+
+Taste is one of the five senses that people have. When you have food
+or krink in your mouth, youir sense of taste makes it possible for you
+to recognize what it is.
+
+to pour
+to like
+to bring
+to order
+
+a spoon
+a knife
+a fork
+a cup
+a wineglass
+*** text
+They are sitting at the table in a restaturant.
+The wife orders chicken with potatoes.
+They read the munu.
+The husband and wife go to a restaurant.
+The husband orders meat.
+The waiter brings the menu.
+
+There is water in the bottle.
+The waiter brings a  tray.
+The waiter pours out some wine.
+There is wine in the bottle.
+He is pouring some wine into a glass.
+There are plates and bottles on the tray.
+
+The fork is on the left of the plate.
+There are napkins near the plates.
+The knife and spoon are on the right of the plate.
+A clean white tablecloth is on the table.
+There are plates on the tablecloth.
+There is a wineglass behind the plate.
+
+He likes meat.
+The wife is pouring water into the glass, she does not want wine.
+He says to his wife, " I like meat very much".
+The husband is tasting the meat.
+The husband is drinking wine, he does not want water.
+The husband and wife are hungry.
+
+The wife tasting the chicken.
+The waiter brings cups of coffee.
+The waiter takes the chicken away.
+She looks at the menu.
+She does not like the chicken. The chicken is cold.
+The wife puts sugar into hot coffee.
+
+The husband looks at the bill.
+The waiter brings the bill.
+He pays the waiter.
+The wife drinks coffee with sugar.
+The waiter takes the dirty dishes away.
+The husband drinks coffe without sugar.
+
+The girl likes icecream.
+The man likes spaghetti.
+It likes to dance.
+They like to swim.
+The girl like to sing.
+The man likes the woman.
+
+** DONE Review sixteen 97.5%
+   CLOSED: [2016-08-09 Tue 11:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-09 Tue 11:53]
+   CLOCK: [2016-08-09 Tue 11:36]--[2016-08-09 Tue 11:53] =>  0:17
+   :END:
+** DONE Review sixteen 96.4%
+   CLOSED: [2016-07-29 Fri 09:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-29 Fri 09:11]
+   CLOCK: [2016-07-29 Fri 08:53]--[2016-07-29 Fri 09:11] =>  0:18
+   :END:
+
 * Lesson seventeen<2016-06-22 Wed 06:19>
+** DONE Review seventeen 97.6%
+   CLOSED: [2016-08-09 Tue 15:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-09 Tue 15:15]
+   CLOCK: [2016-08-09 Tue 14:57]--[2016-08-09 Tue 15:15] =>  0:18
+   :END:
+** DONE Review seventeen 96.8%
+   CLOSED: [2016-07-29 Fri 09:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-29 Fri 09:52]
+   CLOCK: [2016-07-29 Fri 09:21]--[2016-07-29 Fri 09:52] =>  0:31
+   :END:
+
+** DONE Review 96.1%
+   CLOSED: [2016-08-24 三 14:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-24 三 14:40]
+   CLOCK: [2016-08-24 三 14:10]--[2016-08-24 三 14:40] =>  0:30
+   :END:
+** text
 a customer
 sale
 price
@@ -1908,210 +2034,184 @@ Neck
 The neck is the part of the body, on many terrestrial or secondarily aquatic vertebrates, that distinguishes the head from the torso or trunk. The adjective (from Latin) signifying "of the neck" is cervical (though in non-technical contexts, this is more frequently used to describe the cervix).
 来源于：维基百科
 
-* Lesson<2016-06-21 Tue>
-* Lesson thirteen
-This elderly man is wearing glasses. he is hugging a large white dog
-around the  neck and laughing.
-This is a view of the desert. A group of people are travelling on
-camels. Three camels are lying in the sand, and two are standing.
-These young people are also travelling across the desert. They like to
-travel on fourwheelers.
-This is a small, beautiful money. It is eating for lunch. In front of
-it are two plates of food.
-It is a summer's day in the countryside. There is a horse standing
-under the tree. It is relaxing.
-It is a sunny day. The sportsmen are relaxing at a table in the
-café. One of them is drinking water from a bottle.
-The elderly man is sitting on a stool under the tree. His white cap is
-lying on the grass.
-A knife and a fork are lying on a napkin, the napkin is lying on a
-white tablecloth, and the tablecloth is lying on a table.
-This is a restaurant. The young man is paying the waiter in
-cash. There is a cup of coffee in front of him.
-The girl with glasses is drawing. There is a fish and beautiful sea
-plants in the picture. Two girl are looking at her work.
-The young man is taking a phone of the girl with long black
-hair. There is a small white dog sitting on the girl's lap.
-lap :n. 一圈；膝盖；下摆；山坳
-vt. 使重叠；拍打；包围
-vi. 重叠；轻拍；围住
-Two girls are sitting on a bench in the park. They are wearing white
-pants. One of them is holding an umbrella.
-The customer who is standing in front of the mirror wants to buy a
-skirt.
-The turtle is an animal that moves very slowly.
-The woman who is sitting to the left of the boy is a teacher.
-The cactus is a plant that is able to live in the desert.
-A seagull is a bird that lives at the sea.
-Rome is a city that tourists like very much.
-When there is good weather outside the window in the house is open.
-When a person is ill，he goes to the doctor.
-Many customers come to the big shop when there is a sale.
-When there is a trffice jam, the policemen have a lot of work.
-When it is raining, people open their umbrellas.
-When the parents work，the child plays with his grandmother.
-
-The man is turning off the television, because he does not want to
-watch it any longer.
-The tourists are travelling on the ship, becasue they do not like to
-fly on airplanes.
-The waiter is taking away the chicken, because the woman does not like
-it.
-The woman is drinking water, because she does not want to drink wine.
-The man is drink wine, because he likes it.
-The boy is turning off the computer, because he does not want to play
-any longer.
-
-The spectators are going to the theatre in order to watch the
-performance.
-The woman is not drinking wine in order to drive the car well.
-The man is turning on the television in order to watch an interesting
-programme.
-The actors are going to the theatre in order to perform on stage.
-The boy is turning on the computer in order to play.
-The customers are going to the shop at the time of sale in order to
-buy cheap goods.
-
-The woman does not like the chicken, although it tastes good.
-The boy is turning on the computer, although his parents would rather
-him not.
-The woman wants to buy a new dress, even though she has many dresses.
-The girl likes to walk in the forest, though it is raining.
-The woman is drinking water, although she likes wine.
-The girl is not happy, even though today is her birthday.
-
-Today is the little boy's birthday. He is holding a present in his
-hands. He likes this holiday very much.
-There is a beautiful, tan saleswoman behind the counter in the small
-shop. There is only one customer in the shop, and he is looking at
-wine and fruits.
-The weather is rainy. The boy is looking out of the window. He is
-bored, and wants to walk and play outside.
-This is a bus stop. A man is sitting on the bench and reading the
-newpaper. He is waiting for the bus.
-The woman is standing by the sea. She is neither bathing nor
-tanning. She is looking at the sea and waiting for a ship.
-Two women in the park are looking at the big grey bird. One woman is
-holding an orange. She wants to feed the bird.
-
-Two cheerful girls are walking in the autumn park. They like to play
-with the beautiful yellow leaves.
-This is a young woman in blue. She has long hair and beautiful
-blue eyes. She is holding a white cup.
-This is a large brown bear. It is getting out of the water, and the
-lake and the mountains are behind him.
-The bride and groom are celebrating their wedding on the beach at the
-sea. The groom is holding the bride in his arms. She is wearing a long
-white dress and has flowers in her hand.
-This is a large, beautiful, red and white house. Next to the house is
-a table and four chairs. There are small trees growing across from the
-house.
-The man wants to give flowers to the woman in the beautiful dress. He
-is holding them behind his back, and she is looking at him and
-laughing.
-
-Why does the giraffe like to eat leaves from tall tree? It likes to do
-so because it has a long neck.
-Why are there many tourists taking photos of the square? They are
-taking photos of it because it is beautiful.
-Why are the girls sleeping during the lesson? They are sleeping
-because the lesson is boring.
-Why are people  sleeping on the grass? They are sleeping here
-because they do not have a home.
-Why are the swans not talking on the telephone? They are not talking
-on the telephone because they do not have a telephone.
-Why are these girls not working and instead spending time at the
-beach? They are spending time at the beach because they are on
-holiday.
-** DONE 复习lesson thirty 98.7%
-   CLOSED: [2016-07-22 Fri 06:05]
+* lesson eighteen
+** DONE Review 97.2%
+   CLOSED: [2016-08-25 四 03:44]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-22 Fri 06:05]
-   CLOCK: [2016-07-22 Fri 05:13]--[2016-07-22 Fri 06:04] =>  0:51
-   :END:
-** DONE Review 97.6%
-   CLOSED: [2016-08-22 一 15:22]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-22 一 15:22]
-   CLOCK: [2016-08-22 一 15:02]--[2016-08-22 一 15:22] =>  0:20
-   :END:
+   - State "DONE"       from "STARTED"    [2016-08-25 四 03:44]
+   CLOCK: [2016-08-25 四 03:15]--[2016-08-25 四 03:44] =>  0:29
+
+:END:
 ** text
-grown-ups
-a child
-bride and groom
-a wedding
-children
-husband and wife
+to have
+to have not
+to put on
+to take off
+to try on
+to wear
+The girl has a toys.
+The woman does‘nt have toys.
+The boy doesn't have a bicycle.
+The boy has a bicycle.
+The girl has a boys.
+The man doesn't have a bicycle.
+The girl has a flower.
+The boy doesn't have a flower.
+The girl has parents.
+The girl has a grandma and grandad.
+The girl has a yellow dress.
+The girl has a brother.
+The girl has an apple.
+The girl has a big dog.
 
-to live
-to meet
-to walk
-to wait
-to kiss
-to sing
+The boy doesn't have a helicopter or a giraffe.
+The giraffe hasn't got any money.
+The boy doesn't have long hair.
+The boy doesn't have a sister.
+The boy doesn't have a dress.
+The boy doesn't have a dog.
 
-The bride and groom are dancing.
-A cheerful wedding
-The wife is kissing her husband.
-Wedding outdoors
-Ther grown-ups are dancing.
-The children are dancing.
+The litter girl wants to try on a skirt.
+The man is trying on some shoes.
+The man is trying on a shirt.
+The woman is trying on a shirt
+The girl is trying on a skirt in front of the mirror.
+The girl is trying on some shoes.
+*** sweater
+  英  ['swetə]   美  ['swɛtɚ]
+ n. 毛线衣，运动衫；大量出汗的人，发汗剂
 
-The child is crying.
-The child is sleeping.
-The child is playing.
-The grown-ups are playing with the children.
-The childern are playing.
-The family lives in a big house.
+ The girl is taking off a green sweater.
+ The girl is taking off a balck-and-white dress.
+ The man is putting on some gloves.
+ The woman is putting on some gloves.
+ The woman is putting on boots.
+ The man is taking off a shirt.
 
-The man is waiting.
-The dog is waiting by the window.
-Father meets his son.
-The people have no home. They live outdoors.
-Grandma and grandad are walking.
-Father meets his daughter
+ The boy isn't wearing a dress.
+*** moustache
+  英  [mə'stɑːʃ]   美  [mə'stɑʃ]
+ n. 小胡子；髭；触须
+ n. (Moustache)人名；(法)穆斯塔什
+ Grandad has a moustache and a beard
+ beard
+  英  [bɪəd]   美  [bɪrd]
+ vt. 公然反对；抓…的胡须
+ n. 胡须；颌毛
+ vi. 充当掩护；充当男随员
+ n. (Beard)人名；(英)比尔德
 
-There are a lot of people at the wedding.
-Mother is kissing her son.
-Brother and sister are walking.
-Mother is kissing her daughter.
-The man is singing.
-The woman is singing.
+The girl wears a dress.
+ The giraffe does not wear clothes.
+ Grandma wears glasses.
+ The woman wears shoes.
 
-There aren't any children at the wedding. There are a bride and a groom at the
-wedding.
-The husband and kissing her wife.
-The husband and wife are walking.
-The grown-up is kissing the child.
-Mother and father are walking with their child.
-The child is kissing a little dog.
+ The man doesn't have any money. He can't buy anything.
+ The family has a big new house.
+ The woman is putting on a  white dress for the wedding.
+ Girls like to wear short skirts.
+ The man has a lot of money. He can buy a car.
+ The girl has a new pink bag.
 
-The boy is waiting for the bus.
-The children are singing.
-The wife is waiting for her husband by the window.
-Are the children talking to each other? Yes, the children are talking to each other.
-The people are singing.
-The grown-ups are waiting for the bus.
+ Do women wear skirts? Yes, they wear skirts.
+ Do men wear skirts? Yes, they wear skirts sometimes.
+ Does grandma wear glasses? Yes,  grandma wears glasses.
+ Do they wear gloves in winter? Yes, they wear gloves in winter.
+ Do they wear swimsuits in summer? Yes, they wear swimsuits in summer.
+ Has the boy got a bicycle? Yes, he has  a bicycle.
 
-Are the parents walking with their child? Yes, the parents are walking with
-their child.
-Are there a lot of children at the table? Yes, there are a lot of children at
-the tabble.
-Is the man kissing the brid? Yes, the man is kissing the brid.
-Does he live in London? No, he lives in Paris.
-Is this a wedding car? Yes, this is a wedding car.
-Are the children kissing their father? Yes, the children are kissing their
-father.
+ What is the girl taking off? She is taking off a black-and-white dress.
+ Has the dog got any money? No, it has not got any money.
+ Has the dog got any clothes? No, it has not got any clothes.
+ Who is trying on the skirt? The girl in front of the mirror is trying on the skirt.
+ Who has a beard? Grandad has a beard.
+ Is the woman putting on shoes or gloves? She is putting on gloves.
+ 95.4%
 
-What are they waiting for? They are waiting for the bus.
-Is the granddaughter hugging her grandad? No, she is hugging her grandma.
-Is the mother meeting her son? No, the father is meeting her son.
-a bus stop
-Are they brother and sister? No, they are husband and wife.
-Who is waiting at the window? The dog is waiting at the window.
-98.7%
+** text
+trousers
+a scarf
+a skirt
+a cap
+a shirt
+a swimsuit
+
+grey
+white
+brown
+blue
+pink
+violet
+
+young
+old
+big
+slim
+cheerful
+sad
+
+a big man
+a slim woman
+cheerful women
+a sad old woman
+a cheeful old man with a girl
+a cheerful old man in green
+
+a grey bear
+a white bear
+a brown bear
+a brown horse
+a white bag
+a grey car
+
+a violet umbrella
+a woman in a violet dress
+a pink bird
+a pink flower
+a boy with blue flowers
+an old blue car
+
+a young woman in a violet swimsuit
+wet swimsuits
+a girl in a pink cap
+a girl in a brown cap
+a young woman in a pink scarf
+a cheerful old man in green
+
+a young woman in white trousers
+a young woman in a long brown skirt
+a young woman in a short blue skirt
+a young woman in black trousers
+a man in a blue shirt
+a man in a pink shirt
+
+Is the big woman cheerful? Yes, the big woman is cheerful.
+Is the big young man with a woman in blue water cheerful? Yes, the big young man
+with a woman in blue water is cheerful.
+Is the big old woman in a blue swimsuit cheerful? Yes, the big old woman in a blue
+swimsuit is cheerful.
+Is the old man with a dog cheerful? Yes, the old man with a dog is cheerful.
+Is the old man in the black cap cheerful? Yes, the old man in the black cap is
+cheerful.
+Is the big woman sad? Yes, the big woman is sad.
+
+Is the wet girl wearing a grey dress? No, the wet girl is wearing a black
+swimsuit.
+Is the old woman with flowers wearing a red skirt? No, the old woman with
+flowers is wearing a yellow cap.
+Is the man in a black cap? No, the man is in a blue cap.
+Is the woman in a green shirt and a green scarf? No, the woman is in a pink
+swimsuit and a pink skirt.
+An old white car? No, a pink old car.
+A red flower? No, a grey bird.
+
+
 * lesson ninteen<2016-07-07 Thu>
+** DONE Review 96.7%
+   CLOSED: [2016-08-25 Thu 15:20]
 :LOGBOOK:
+- State "DONE"       from "STARTED"    [2016-08-25 Thu 15:20]
+CLOCK: [2016-08-25 Thu 14:55]--[2016-08-25 Thu 15:20] =>  0:25
 CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
 :END:
 e
@@ -2192,89 +2292,95 @@ Are the child's feet big or small? His feet are small.
 96.9%
 * DONE lesson twenty
   CLOSED: [2016-07-07 Thu 20:39]
-* DONE Review twenty 96.9%
-  CLOSED: [2016-08-10 Wed 15:29]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-10 Wed 15:29]
-  CLOCK: [2016-08-10 Wed 15:06]--[2016-08-10 Wed 15:29] =>  0:23
-  :END:
+** DONE Review twenty 96.9%
+   CLOSED: [2016-08-10 Wed 15:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-10 Wed 15:29]
+   CLOCK: [2016-08-10 Wed 15:06]--[2016-08-10 Wed 15:29] =>  0:23
+   :END:
+** DONE Review 96.8%
+   CLOSED: [2016-08-25 Thu 20:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-25 Thu 20:44]
+   :END:
 
-a policeman
-a teacher
-a cooker
-a builder
-a docter
+** text
+ a policeman
+ a teacher
+ a cooker
+ a builder
+ a docter
 
-to teach
-to cook
-to drive
-to jump
-to treat
+ to teach
+ to cook
+ to drive
+ to jump
+ to treat
 
-a hospital
-a patient
-a school
-a schoolboy
-a stadium
-a lesson
+ a hospital
+ a patient
+ a school
+ a schoolboy
+ a stadium
+ a lesson
 
-The builders are building a house.
-The cook is cooking food.
-The dirver is driving a car.
-The policeman is running with a dog.
-The doctor is treating a patient.
-The teacher is giving a lesson.
+ The builders are building a house.
+ The cook is cooking food.
+ The dirver is driving a car.
+ The policeman is running with a dog.
+ The doctor is treating a patient.
+ The teacher is giving a lesson.
 
-The shop assistant works in a shop.
-The cook works in a reastaurant.
-The policeman works outdoors.
-The waiter works also in a reastaurant.
-The doctors work in a hospital.
-The teacher works in a school.
+ The shop assistant works in a shop.
+ The cook works in a reastaurant.
+ The policeman works outdoors.
+ The waiter works also in a reastaurant.
+ The doctors work in a hospital.
+ The teacher works in a school.
 
-The waiter's job is to bring food.
-The teacher's job is to teach children.
-The cook's job is to cook food.
-The builder's job is to build houses.
-The doctor's job is to treat patients.
-The driver's job is to drive a car.
+ The waiter's job is to bring food.
+ The teacher's job is to teach children.
+ The cook's job is to cook food.
+ The builder's job is to build houses.
+ The doctor's job is to treat patients.
+ The driver's job is to drive a car.
 
-The schoolchildren are listening to the teacher.
-The shop assistant is speaking to the customer.
-This ia a sportsman. He is running.
-The sportsman is jumping at the stadium.
-The policeman is riding a horse through the street.
-The teachers are sitting at the table.
+ The schoolchildren are listening to the teacher.
+ The shop assistant is speaking to the customer.
+ This ia a sportsman. He is running.
+ The sportsman is jumping at the stadium.
+ The policeman is riding a horse through the street.
+ The teachers are sitting at the table.
 
-There are a lot of people in the restaurant.
-There are a lot of schoolchildren in the school.
-There is a lot of food on the cook's table.
-There are a lot of patients in the hospital.
-There policeman has a lot of work outdoors.
-There are a lot of sportsmen at the stadium.
+ There are a lot of people in the restaurant.
+ There are a lot of schoolchildren in the school.
+ There is a lot of food on the cook's table.
+ There are a lot of patients in the hospital.
+ There policeman has a lot of work outdoors.
+ There are a lot of sportsmen at the stadium.
 
-Where does the teacher work? He works in a school.
-Where does the shop assistant work? He works in a shop.
-Where does the builder work? He works outdoors.
-Where does the policeman work? He works outdoors too.
-Where does the waiter work? He works in a restaurant too.
-Where does the cooker wrok? He works in a restaurant.
+ Where does the teacher work? He works in a school.
+ Where does the shop assistant work? He works in a shop.
+ Where does the builder work? He works outdoors.
+ Where does the policeman work? He works outdoors too.
+ Where does the waiter work? He works in a restaurant too.
+ Where does the cooker wrok? He works in a restaurant.
 
-Is eating a job? No, it is not a job.
-Is drinking coffee a job? No, it is not a job.
-Is treating patients a sportsman's job or a doctor's job? It is a doctor's job.
-Is building houses a shop assistant's job or a builder's job? It is a builder's job.
-Is sleeping a job? No, it is not a job.
-Is teaching children a teacher's job or a waiter's job? It is a teacher's job.
-96.5%
+ Is eating a job? No, it is not a job.
+ Is drinking coffee a job? No, it is not a job.
+ Is treating patients a sportsman's job or a doctor's job? It is a doctor's job.
+ Is building houses a shop assistant's job or a builder's job? It is a builder's job.
+ Is sleeping a job? No, it is not a job.
+ Is teaching children a teacher's job or a waiter's job? It is a teacher's job.
+ 96.5%
 * DONE lesson twenty one
   CLOSED: [2016-07-08 Fri 06:01]
-* DONE Review twenty one 97.7%
-  CLOSED: [2016-08-10 Wed 15:56]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-10 Wed 15:56]
-  CLOCK: [2016-08-10 Wed 15:31]--[2016-08-10 Wed 15:56] =>  0:25
-  :END:
+** DONE Review twenty one 97.7%
+   CLOSED: [2016-08-10 Wed 15:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-10 Wed 15:56]
+   CLOCK: [2016-08-10 Wed 15:31]--[2016-08-10 Wed 15:56] =>  0:25
+   :END:
 
 ** text
 
@@ -2431,21 +2537,21 @@ Bucky couch 布凯氏滤线器床
 * DONE lesson twenty two
   CLOSED: [2016-07-08 Fri 17:17]
 
-* DONE Review twenty two 93.6%
-  CLOSED: [2016-08-11 四 04:13]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-11 四 04:13]
-  CLOCK: [2016-08-11 四 04:02]--[2016-08-11 四 04:13] =>  0:11
-  - State "STARTED"    from "DONE"       [2016-08-11 四 04:02]
-  - State "DONE"       from "STARTED"    [2016-08-10 三 21:25]
-  CLOCK: [2016-08-10 三 21:17]--[2016-08-10 三 21:25] =>  0:08
-  :END:
-* DONE Review twenty two 95.2%
-  CLOSED: [2016-07-29 Fri 20:53]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-29 Fri 20:53]
-  CLOCK: [2016-07-29 Fri 20:36]--[2016-07-29 Fri 20:53] =>  0:17
-  :END:
+** DONE Review twenty two 93.6%
+   CLOSED: [2016-08-11 四 04:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-11 四 04:13]
+   CLOCK: [2016-08-11 四 04:02]--[2016-08-11 四 04:13] =>  0:11
+   - State "STARTED"    from "DONE"       [2016-08-11 四 04:02]
+   - State "DONE"       from "STARTED"    [2016-08-10 三 21:25]
+   CLOCK: [2016-08-10 三 21:17]--[2016-08-10 三 21:25] =>  0:08
+   :END:
+** DONE Review twenty two 95.2%
+   CLOSED: [2016-07-29 Fri 20:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-29 Fri 20:53]
+   CLOCK: [2016-07-29 Fri 20:36]--[2016-07-29 Fri 20:53] =>  0:17
+   :END:
 
 ** text
 an artist
@@ -2523,20 +2629,20 @@ The photographer has interesting work.
 **** 94.6%
 * DONE lesson twenty three
   CLOSED: [2016-07-09 Sat 04:35]
-* DONE Review twenty three 97.1%
-  CLOSED: [2016-08-11 四 15:28]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-11 四 15:28]
-  CLOCK: [2016-08-11 四 15:08]--[2016-08-11 四 15:28] =>  0:20
-  :END:
-* DONE review twenty three 94.9%
-  CLOSED: [2016-07-30 Sat 10:51]
+** DONE Review twenty three 97.1%
+   CLOSED: [2016-08-11 四 15:28]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-30 Sat 10:51]
-   CLOCK: [2016-07-30 Sat 10:30]--[2016-07-30 Sat 10:51] =>  0:21
+   - State "DONE"       from "STARTED"    [2016-08-11 四 15:28]
+   CLOCK: [2016-08-11 四 15:08]--[2016-08-11 四 15:28] =>  0:20
    :END:
-有点累了，精力不继。效果打折。
- :END:
+** DONE review twenty three 94.9%
+   CLOSED: [2016-07-30 Sat 10:51]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-07-30 Sat 10:51]
+    CLOCK: [2016-07-30 Sat 10:30]--[2016-07-30 Sat 10:51] =>  0:21
+    :END:
+ 有点累了，精力不继。效果打折。
+  :END:
 
 ** text
 countryside
@@ -2731,18 +2837,18 @@ They detoured around the traffic jam by heading south.
 *** words
 * DONE twenty four
   DEADLINE: <2016-07-10 Sun 05:56>
-* DONE Review twenty four 96.8%
-  CLOSED: [2016-08-11 四 15:53]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-11 四 15:53]
-  CLOCK: [2016-08-11 四 15:31]--[2016-08-11 四 15:53] =>  0:22
-  :END:
-* DONE Review twenty four 96.4%
-  CLOSED: [2016-07-30 Sat 11:25]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-30 Sat 11:25]
-  CLOCK: [2016-07-30 Sat 11:02]--[2016-07-30 Sat 11:25] =>  0:23
-  :END:
+** DONE Review twenty four 96.8%
+   CLOSED: [2016-08-11 四 15:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-11 四 15:53]
+   CLOCK: [2016-08-11 四 15:31]--[2016-08-11 四 15:53] =>  0:22
+   :END:
+** DONE Review twenty four 96.4%
+   CLOSED: [2016-07-30 Sat 11:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-30 Sat 11:25]
+   CLOCK: [2016-07-30 Sat 11:02]--[2016-07-30 Sat 11:25] =>  0:23
+   :END:
 
 ** text
 underground
@@ -3202,12 +3308,12 @@ The boat beached on a mud flat.
 :LOGBOOK:
 CLOCK: [2016-07-12 Tue 03:01]--[2016-07-12 Tue 04:48] =>  1:47
 :END:
-* DONE Review twenty seven 95.7%
-  CLOSED: [2016-08-12 五 14:38]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-12 五 14:38]
-  CLOCK: [2016-08-12 五 14:09]--[2016-08-12 五 14:38] =>  0:29
-  :END:
+** DONE Review twenty seven 95.7%
+   CLOSED: [2016-08-12 五 14:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-12 五 14:38]
+   CLOCK: [2016-08-12 五 14:09]--[2016-08-12 五 14:38] =>  0:29
+   :END:
 
 
 ** text
@@ -3468,13 +3574,13 @@ Eleanor's work among the women will, I trust, bear fruit.
 
 
 * lesson twenty nine
-* DONE Review twenty nine 96.3%
-  CLOSED: [2016-08-13 六 16:24]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-13 六 16:24]
-   CLOCK: [2016-08-13 六 15:44]--[2016-08-13 六 16:24] =>  0:40
-   :END:
-better
+** DONE Review twenty nine 96.3%
+   CLOSED: [2016-08-13 六 16:24]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-08-13 六 16:24]
+    CLOCK: [2016-08-13 六 15:44]--[2016-08-13 六 16:24] =>  0:40
+    :END:
+ better
 
 ** text
 Who is drinking from the puddle? The horse.
@@ -4063,23 +4169,23 @@ adj. 无聊的；令人厌烦的
 v. 钻孔；使厌烦；挖空（bore 的 ing 形式）
 n. (Boring)人名；(英、瑞典)博林
 96.9%
-* DONE Review thirty 95.8% -->96.9%
-  CLOSED: [2016-08-14 Sun 20:09]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-14 Sun 20:09]
-  CLOCK: [2016-08-14 Sun 20:08]--[2016-08-14 Sun 20:09] =>  0:01
-  - State "STARTED"    from "DONE"       [2016-08-14 Sun 20:08]
-  - State "DONE"       from "STARTED"    [2016-08-14 Sun 20:07]
-  - State "STARTED"    from "DONE"       [2016-08-14 Sun 20:07]
-  - State "DONE"       from "STARTED"    [2016-08-14 日 15:18]
-  CLOCK: [2016-08-14 日 14:14]--[2016-08-14 日 15:18] =>  1:04
-  - State "STARTED"    from "DONE"       [2016-08-14 日 14:14]
-  - State "DONE"       from "STARTED"    [2016-08-14 日 10:56]
-  CLOCK: [2016-08-14 日 10:21]--[2016-08-14 日 10:56] =>  0:35
-  - State "STARTED"    from "DONE"       [2016-08-14 日 10:21]
-  - State "DONE"       from "STARTED"    [2016-08-14 日 09:56]
-  CLOCK: [2016-08-14 日 08:47]--[2016-08-14 日 09:56] =>  1:09
-  :END:
+** DONE Review thirty 95.8% -->96.9%
+   CLOSED: [2016-08-14 Sun 20:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-14 Sun 20:09]
+   CLOCK: [2016-08-14 Sun 20:08]--[2016-08-14 Sun 20:09] =>  0:01
+   - State "STARTED"    from "DONE"       [2016-08-14 Sun 20:08]
+   - State "DONE"       from "STARTED"    [2016-08-14 Sun 20:07]
+   - State "STARTED"    from "DONE"       [2016-08-14 Sun 20:07]
+   - State "DONE"       from "STARTED"    [2016-08-14 日 15:18]
+   CLOCK: [2016-08-14 日 14:14]--[2016-08-14 日 15:18] =>  1:04
+   - State "STARTED"    from "DONE"       [2016-08-14 日 14:14]
+   - State "DONE"       from "STARTED"    [2016-08-14 日 10:56]
+   CLOCK: [2016-08-14 日 10:21]--[2016-08-14 日 10:56] =>  0:35
+   - State "STARTED"    from "DONE"       [2016-08-14 日 10:21]
+   - State "DONE"       from "STARTED"    [2016-08-14 日 09:56]
+   CLOCK: [2016-08-14 日 08:47]--[2016-08-14 日 09:56] =>  1:09
+   :END:
 
 ** across
   英  [ə'krɒs]   美  [ə'krɔs]
@@ -4771,15 +4877,15 @@ Behind the recepation desk stands a receptionist.
 The man is saying to the receptionist: I have reserved a room.
 The receptionist is giving the man and the woman forms.
 
-* DONE Review Thirty two 96.5%
-  CLOSED: [2016-08-15 一 16:45]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-15 一 16:45]
-  CLOCK: [2016-08-15 一 15:47]--[2016-08-15 一 16:45] =>  0:58
-  - State "STARTED"    from "DONE"       [2016-08-15 一 15:47]
-  - State "DONE"       from "STARTED"    [2016-08-15 一 09:12]
-  CLOCK: [2016-08-15 一 09:04]--[2016-08-15 一 09:12] =>  0:08
-  :END:
+** DONE Review Thirty two 96.5%
+   CLOSED: [2016-08-15 一 16:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-15 一 16:45]
+   CLOCK: [2016-08-15 一 15:47]--[2016-08-15 一 16:45] =>  0:58
+   - State "STARTED"    from "DONE"       [2016-08-15 一 15:47]
+   - State "DONE"       from "STARTED"    [2016-08-15 一 09:12]
+   CLOCK: [2016-08-15 一 09:04]--[2016-08-15 一 09:12] =>  0:08
+   :END:
 
 * DONE section six 96.2%
   CLOSED: [2016-07-26 Tue 10:27]
@@ -4863,27 +4969,6 @@ The girl is taking a shower because she's dirty.
 The boy is smiling because he likes the hotel.
 The woman is going up in the elevator because has a heavy suitcase.
 The man is lying on the soft couch because he's watching television.
-* DONE Review Seven 97.7%
-  CLOSED: [2016-07-26 Tue 15:48]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-26 Tue 15:48]
-   CLOCK: [2016-07-26 Tue 15:32]--[2016-07-26 Tue 15:48] =>  0:16
-   :END:
-前者的每一个字母各代表一个步骤，即预习(Preview)、提问(Question)、阅读(Read)、笔
-记(Write)、背诵(Recite)、复习(Review),是一种行之有效地与速读结合的阅读学习方法；
-后者是美国芝加哥大学教育研究所的哥特．莫斯博士发明的一种学习方法，旨在强化个人...
-* DONE Review Nine 99.0% very good
-  CLOSED: [2016-07-26 Tue 18:29]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-26 Tue 18:29]
-  CLOCK: [2016-07-26 Tue 18:09]--[2016-07-26 Tue 18:29] =>  0:20
-  :END:
-* DONE Review Ten 99.1% better
-  CLOSED: [2016-07-26 Tue 18:52]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-26 Tue 18:52]
-  CLOCK: [2016-07-26 Tue 18:30]--[2016-07-26 Tue 18:52] =>  0:22
-  :END:
 * DONE Review Thirty two 97.1%
   CLOSED: [2016-07-26 Tue 21:36]
   :LOGBOOK:
@@ -5897,12 +5982,6 @@ The book isn't on the table, so the man is looking for it in the cabinet.
   - State "DONE"       from "STARTED"    [2016-07-28 Thu 15:00]
   CLOCK: [2016-07-28 Thu 14:45]--[2016-07-28 Thu 15:00] =>  0:15
   :END:
-* DONE Review fifteen 96.8%
-  CLOSED: [2016-07-28 Thu 16:19]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-28 Thu 16:19]
-  CLOCK: [2016-07-28 Thu 15:58]--[2016-07-28 Thu 16:19] =>  0:21
-  :END:
 * DONE thirty four
 
   CLOSED: [2016-07-29 Fri 06:53]
@@ -6555,18 +6634,6 @@ Does the man know how to bake pies? No, he doesn't know hot to bake pies.
 Does the chef know how to cook? Yes, he prepares very tasty food.
 Does the grandma know how to bake tasty pies with cabaage? Yes, grandma knows
 how to bake tasty pies.
-* DONE Review sixteen 96.4%
-  CLOSED: [2016-07-29 Fri 09:11]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-29 Fri 09:11]
-  CLOCK: [2016-07-29 Fri 08:53]--[2016-07-29 Fri 09:11] =>  0:18
-  :END:
-* DONE Review seventeen 96.8%
-  CLOSED: [2016-07-29 Fri 09:52]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-29 Fri 09:52]
-  CLOCK: [2016-07-29 Fri 09:21]--[2016-07-29 Fri 09:52] =>  0:31
-  :END:
 * DONE Review eithteen 97.9%
   CLOSED: [2016-07-29 Fri 10:18]
   :LOGBOOK:
@@ -13073,15 +13140,6 @@ www.ebigear.com
   - State "DONE"       from "STARTED"    [2016-08-06 六 21:12]
   CLOCK: [2016-08-06 六 20:52]--[2016-08-06 六 21:12] =>  0:20
   :END:
-* DONE Review nine 95.9%
-  CLOSED: [2016-08-06 六 21:17]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-06 六 21:17]
-  - State "STARTED"    from "DONE"       [2016-08-06 六 21:17]
-  - State "DONE"       from "WAITING"    [2016-08-06 六 21:17]
-  - State "DONE"       from "WAITING"    [2016-08-06 六 21:16]
-  - State "DONE"       from "STARTED"    [2016-08-06 六 21:14]
-  :END:
 * DONE Review Fourty one 95.2%
   CLOSED: [2016-08-07 Sun 05:58]
   :LOGBOOK:
@@ -13107,10 +13165,16 @@ www.ebigear.com
   CLOCK: [2016-08-08 Mon 05:02]--[2016-08-08 Mon 06:25] =>  1:23
   :END:
 ** DONE Review 94.8%
-   CLOSED: [2016-08-23 二 05:44]
+   CLOSED: [2016-08-23 二 5:44]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-23 二 05:44]
    CLOCK: [2016-08-23 二 05:02]--[2016-08-23 二 05:44] =>  0:42
+   :END:
+** DONE Review 96%
+   CLOSED: [2016-08-24 三 05:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-24 三 05:15]
+   CLOCK: [2016-08-24 三 04:40]--[2016-08-24 三 05:15] =>  0:35
    :END:
 ** text
 *** a credit card
@@ -14678,12 +14742,6 @@ In order to open an account, you need to go to the bank.
   - State "DONE"       from "STARTED"    [2016-08-08 一 16:01]
   CLOCK: [2016-08-08 一 15:43]--[2016-08-08 一 16:01] =>  0:18
   :END:
-* DONE Review fifteen 98.1%
-  CLOSED: [2016-08-08 一 20:42]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-08 一 20:42]
-  CLOCK: [2016-08-08 一 20:21]--[2016-08-08 一 20:42] =>  0:21
-  :END:
 * DONE Fourty four 96%
   CLOSED: [2016-08-09 Tue 11:33]
   :LOGBOOK:
@@ -14699,7 +14757,12 @@ In order to open an account, you need to go to the bank.
    - State "DONE"       from "STARTED"    [2016-08-23 二 04:36]
    CLOCK: [2016-08-23 二 04:00]--[2016-08-23 二 04:36] =>  0:36
    :END:
-
+** DONE Review 95.3%
+   CLOSED: [2016-08-23 二 20:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-23 二 20:59]
+   CLOCK: [2016-08-23 二 20:32]--[2016-08-23 二 20:59] =>  0:27
+   :END:
 ** text
 *** text
 
@@ -15554,18 +15617,6 @@ The man has a headache.
 The grandmother's eyes hurt.
 
 The woman has a stomachache.
-* DONE Review sixteen 97.5%
-  CLOSED: [2016-08-09 Tue 11:53]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-09 Tue 11:53]
-  CLOCK: [2016-08-09 Tue 11:36]--[2016-08-09 Tue 11:53] =>  0:17
-  :END:
-* DONE Review seventeen 97.6%
-  CLOSED: [2016-08-09 Tue 15:15]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-09 Tue 15:15]
-  CLOCK: [2016-08-09 Tue 14:57]--[2016-08-09 Tue 15:15] =>  0:18
-  :END:
 * DONE Review eithteen 97.3%
   CLOSED: [2016-08-09 Tue 15:38]
   :LOGBOOK:
@@ -22370,3 +22421,101 @@ pillow
 clock
 computer
 s
+* DONE Fourty two 96.3%
+  CLOSED: [2016-08-25 四 05:34]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-25 四 05:34]
+  CLOCK: [2016-08-25 四 04:20]--[2016-08-25 四 05:34] =>  1:14
+  :END:
+** text
+a calendar
+a day
+the year
+the seasons
+a month
+a week
+
+a hand
+an hour
+a minute
+a second
+time
+a clock
+
+to finish
+to last
+to begin
+to move
+to conduct
+to start
+
+You may talk on the phone at home.
+You may not
+you may
+You may cross the street when the light is green.
+You may not speak on the phone in the theatre.
+You may not cross the street when the light is red.
+
+a holiday
+the school year
+a workday
+a weekend
+free time
+vacation
+
+One hour is sixty minutes.
+The second hand shows seconds.
+A clock shows the time.
+One minutes is sixty seconds.
+The minute hand shows minutes.
+The hour hand shows hours.
+
+In a week there are seven days.
+On the calendar there are weeks.
+The minute hand moves fast.
+The hour hand moves slowly.
+In a week there are five workdays and a two-day weekend.
+Clock hands move.
+
+When the spring ends, the summer begins.
+There are twelve months in a year.
+When the fall begins, it often rains.
+On the calendar there is a month.
+Winter, spring, summer and fall are seasons of the year.
+When the fall ends, the winter begins.
+
+The class begins at nine o'clock and ends at nine forty-five.
+A lecture at the university lasts one hour and thirty minutes
+Winter vacation in school lasts two weeks, and summer vacation - three months.
+The woman is looking for holidays in the calendar.
+The school year lasts nine months.
+A class in school lasts forty five minutes.
+
+The summer is a hot season.
+The day begins in the morning.
+On the calendar it's spring, but there's snow on the street.
+The day ends in the evening.
+The year begins in the winter.
+The winter is a cold season.
+
+When the weekend ends, a new week begins.
+When a lecture ends, a break begins.
+When it's boring, time goes slowly.
+When the work week ends, the weekend begins.
+When it's fun, times goes fast.
+When the holidays begin, everyone relaxes.
+
+During working hours you may not talk on the phone.
+In your free time you may talk on the phone.
+When vacation begins, students have a lot of free time.
+The woman likes to shop in her free time.
+During work time you may not drink coffee and lie in the couch, but in your free
+time you may.
+The student likes to spend free time at the computer.
+
+It's boring for students to listen to the lecture.
+Women like to shop. It's fun for them to make purchases.
+The student is sleeping in the lecture. He's bored.
+Men like to talk about sports, but it's boring for women.
+It's fun for children to play with a ball.
+Men don't like to shop. It's boring for them in stores.
