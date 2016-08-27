@@ -84,9 +84,16 @@ Is the bird running? No, the bird is flying.
    CLOCK: [2016-08-16 二 13:40]--[2016-08-16 二 13:53] =>  0:13
    :END:
 ** 复习98.7%                                                            :one:
+
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-07-25 Mon 05:38]
    CLOCK: [2016-07-25 Mon 05:24]--[2016-07-25 Mon 05:38] =>  0:14
+   :END:
+** DONE Review <2016-08-26 五 06:41> 99.4%
+   CLOSED: [2016-08-26 五 06:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-26 五 06:56]
+   CLOCK: [2016-08-26 五 06:42]--[2016-08-26 五 06:56] =>  0:14
    :END:
 * DONE Lesson two 97.9%                                                 :two:
   CLOSED: [2016-07-24 Sun 21:04]
@@ -94,6 +101,12 @@ Is the bird running? No, the bird is flying.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 21:04]
   CLOCK: [2016-07-24 Sun 20:38]--[2016-07-24 Sun 21:04] =>  0:26
   :END:
+** DONE Review <2016-08-26 Fri 14:25> 98.9%
+   CLOSED: [2016-08-26 Fri 14:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-26 Fri 14:39]
+   CLOCK: [2016-08-26 Fri 14:25]--[2016-08-26 Fri 14:39] =>  0:14
+   :END:
 ** text
 black
 red
@@ -181,6 +194,12 @@ Is the tree small? No, it is big.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 16:07]
   CLOCK: [2016-07-24 Sun 15:32]--[2016-07-24 Sun 16:07] =>  0:35
   :END:
+** DONE Review <2016-08-26 Fri 14:41> 98.5%
+   CLOSED: [2016-08-26 Fri 14:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-26 Fri 14:59]
+   CLOCK: [2016-08-26 Fri 14:41]--[2016-08-26 Fri 14:59] =>  0:18
+   :END:
 ** DONE 复习98.3
    CLOSED: [2016-07-25 Mon 18:35]
    :LOGBOOK:
@@ -284,6 +303,12 @@ Is the woman with a bag? No, she is under a big umbrella.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-17 三 06:06]
    CLOCK: [2016-08-17 三 05:49]--[2016-08-17 三 06:06] =>  0:17
+   :END:
+** DONE Review <2016-08-26 五 16:12> 96.1%
+   CLOSED: [2016-08-26 五 21:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-26 五 21:41]
+   CLOCK: [2016-08-26 五 16:12]--[2016-08-26 五 21:41] =>  5:29
    :END:
 ** text
 I
@@ -393,6 +418,12 @@ Are they speaking with a flower? No, they are speaking on the telephone.
    - State "DONE"       from "STARTED"    [2016-08-19 五 05:41]
    CLOCK: [2016-08-19 五 05:23]--[2016-08-19 五 05:41] =>  0:18
    :END:
+** DONE Review <2016-08-27 六 16:12> 98%
+   CLOSED: [2016-08-27 六 16:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-27 六 16:31]
+   CLOCK: [2016-08-27 六 16:13]--[2016-08-27 六 16:31] =>  0:18
+   :END:
 ** text
 a woman
 a woman with long hair
@@ -474,6 +505,12 @@ a woman with short white hair.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 05:37]
   CLOCK: [2016-07-24 Sun 04:52]--[2016-07-24 Sun 05:37] =>  0:45
   :END:
+** DONE Review <2016-08-27 六 16:34> 98%
+   CLOSED: [2016-08-27 六 16:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-27 六 16:51]
+   CLOCK: [2016-08-27 六 16:34]--[2016-08-27 六 16:51] =>  0:17
+   :END:
 ** text
 autumn
 spring
@@ -577,6 +614,12 @@ Is it summer? No, it is winter: a woman is running in the snow.
  记(Write)、背诵(Recite)、复习(Review),是一种行之有效地与速读结合的阅读学习方法；
  后者是美国芝加哥大学教育研究所的哥特．莫斯博士发明的一种学习方法，旨在强化个人...
 
+** DONE Review <2016-08-27 六 19:20> 98%
+   CLOSED: [2016-08-27 六 19:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-27 六 19:36]
+   CLOCK: [2016-08-27 六 19:20]--[2016-08-27 六 19:36] =>  0:16
+   :END:
 ** text
 hot
 clean
@@ -909,12 +952,20 @@ dancing.
    CLOCK: [2016-08-07 Sun 06:38]--[2016-08-07 Sun 06:59] =>  0:21
    :END:
 ** DONE Review eleven and twelve
+
    CLOSED: [2016-07-28 Thu 06:12]
     - State "DONE"       from "STARTED"    [2016-07-28 Thu 06:13]
  :LOGBOOK:
     CLOCK: [2016-07-28 Thu 05:24]--[2016-07-28 Thu 06:13] =>  0:49
     :END:
 
+
+* DONE Review eleven 98.6%
+  CLOSED: [2016-08-07 Sun 06:34]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:34]
+  CLOCK: [2016-08-07 Sun 06:14]--[2016-08-07 Sun 06:34] =>  0:20
+  :END:
 
 ** text
 son
@@ -2382,6 +2433,12 @@ Are the child's feet big or small? His feet are small.
    CLOCK: [2016-08-10 Wed 15:31]--[2016-08-10 Wed 15:56] =>  0:25
    :END:
 
+** DONE Review 96.1%
+   CLOSED: [2016-08-26 五 04:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-26 五 04:21]
+   CLOCK: [2016-08-26 五 03:53]--[2016-08-26 五 04:21] =>  0:28
+   :END:
 ** text
 
 The policeman is wearing a blue cap.
@@ -12319,12 +12376,96 @@ What lays eggs? Chickens lay eggs.
   :END:
 
 
-* DONE Fourty 93.2%->97.4%
+* DONE Forty  93.2%->97.4%
   CLOSED: [2016-08-04 Thu 05:07]
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-08-04 Thu 05:07]
   CLOCK: [2016-08-04 Thu 03:48]--[2016-08-04 Thu 05:07] =>  1:19
   :END:
+** DONE Review Forty
+   CLOSED: [2016-08-06 六 16:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-06 六 16:31]
+   :END:
+** DONE Review 96.2%
+   CLOSED: [2016-08-26 五 06:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-26 五 06:25]
+   CLOCK: [2016-08-26 五 05:48]--[2016-08-26 五 06:25] =>  0:37
+   :END:
+* DONE Review forty 95.1%
+  CLOSED: [2016-08-05 Fri 06:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-05 Fri 06:19]
+   CLOCK: [2016-08-05 Fri 05:42]--[2016-08-05 Fri 06:19] =>  0:37
+   :END:
+
+rag
+
+英  [ræg]   美  [ræɡ]
+n. 破布；碎屑
+vt. 戏弄；责骂
+vi. 变破碎；穿着讲究
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+rag /ræɡ/  CET4 TEM4
+N-VAR A rag is a piece of old cloth which you can use to clean or wipe things. 抹布
+例：
+He was wiping his hands on an oily rag.
+他正用一块油腻腻的抹布擦手。
+N-PLURAL Rags are old torn clothes. 破烂衣服
+例：
+There were men, women, and small children, some dressed in rags.
+有男人、女人和孩子，其中一些人穿着破烂的衣服。
+N-COUNT People refer to a newspaper as a rag when they have a poor opinion of it. 质量低劣的报纸
+例：
+"This man Tom works for a local rag," he said.
+“那个叫汤姆的人为当地一家小报干活，”他说。
+V-T If someone rags you, they tease you in a friendly way. (善意地) 揶揄
+例：
+"They always rag me about my car," he says.
+“他们总拿我的汽车取笑我，”他说。
+N a boisterous practical joke, esp one on a fellow student (对同学的)恶作剧; 玩笑
+N a period, usually a week, in which various events are organized to raise money for charity, including a procession of decorated floats and tableaux (英国大学的)慈善筹款周; 慈善筹款期
+N (as modifier) 慈善筹款周的; 慈善筹款期的
+例：
+rag day
+N a piece of ragtime music 一首拉格泰姆音乐
+V to compose or perform in ragtime 谱写拉格泰姆音乐; 演奏拉格泰姆音乐
+N a roofing slate that is rough on one side 屋顶石板
+网络释义 专业释义 英英释义
+
+ 破布
+ 抹布
+ 碎布
+ 烂报
+短语
+rag mart 爱佳乐
+rag mart 碎布市场
+rag mart 爱家乐
+cotton rag 碎棉布
+cotton rag 棉擦布
+  更多结果
+词组短语 同近义词
+
+in rags 穿着破衣，衣衫褴褛
+from rags to riches 由穷致富
+red rag 斗牛用的红布；激怒人的东西
+rag doll 布洋娃娃；碎布制玩偶
+rag trade 服装业
+  更多词组短语
+双语例句 原声例句 权威例句
+
+The ragged man drags a waggon of rag fragments.
+那个衣衫褴褛的人拉著一货车破布碎片.
+big5.cri.cn
+The witch that came To wash the steps with pail and rag Was once the beauty Abishag, The picture pride of Hollywood.
+向我们走来的女巫,提着水桶和抹布擦洗台阶,她曾经像亚比沙一样美，好莱坞里最值得骄傲的记忆。
+v.163.com
+The ragged man drags a wangon of rag fragments.
+那个衣衫褴褛的人拉着一货车破布碎片.
+www.ebigear.com
+
 ** text
 
 
@@ -13018,78 +13159,6 @@ washing machine.
   - State "DONE"       from "STARTED"    [2016-08-04 四 15:09]
   CLOCK: [2016-08-04 四 14:39]--[2016-08-04 四 15:09] =>  0:30
   :END:
-* DONE Review fourty 95.1%
-  CLOSED: [2016-08-05 Fri 06:19]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-05 Fri 06:19]
-   CLOCK: [2016-08-05 Fri 05:42]--[2016-08-05 Fri 06:19] =>  0:37
-   :END:
-
-rag
-
-英  [ræg]   美  [ræɡ]
-n. 破布；碎屑
-vt. 戏弄；责骂
-vi. 变破碎；穿着讲究
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-rag /ræɡ/  CET4 TEM4
-N-VAR A rag is a piece of old cloth which you can use to clean or wipe things. 抹布
-例：
-He was wiping his hands on an oily rag.
-他正用一块油腻腻的抹布擦手。
-N-PLURAL Rags are old torn clothes. 破烂衣服
-例：
-There were men, women, and small children, some dressed in rags.
-有男人、女人和孩子，其中一些人穿着破烂的衣服。
-N-COUNT People refer to a newspaper as a rag when they have a poor opinion of it. 质量低劣的报纸
-例：
-"This man Tom works for a local rag," he said.
-“那个叫汤姆的人为当地一家小报干活，”他说。
-V-T If someone rags you, they tease you in a friendly way. (善意地) 揶揄
-例：
-"They always rag me about my car," he says.
-“他们总拿我的汽车取笑我，”他说。
-N a boisterous practical joke, esp one on a fellow student (对同学的)恶作剧; 玩笑
-N a period, usually a week, in which various events are organized to raise money for charity, including a procession of decorated floats and tableaux (英国大学的)慈善筹款周; 慈善筹款期
-N (as modifier) 慈善筹款周的; 慈善筹款期的
-例：
-rag day
-N a piece of ragtime music 一首拉格泰姆音乐
-V to compose or perform in ragtime 谱写拉格泰姆音乐; 演奏拉格泰姆音乐
-N a roofing slate that is rough on one side 屋顶石板
-网络释义 专业释义 英英释义
-
- 破布
- 抹布
- 碎布
- 烂报
-短语
-rag mart 爱佳乐
-rag mart 碎布市场
-rag mart 爱家乐
-cotton rag 碎棉布
-cotton rag 棉擦布
-  更多结果
-词组短语 同近义词
-
-in rags 穿着破衣，衣衫褴褛
-from rags to riches 由穷致富
-red rag 斗牛用的红布；激怒人的东西
-rag doll 布洋娃娃；碎布制玩偶
-rag trade 服装业
-  更多词组短语
-双语例句 原声例句 权威例句
-
-The ragged man drags a waggon of rag fragments.
-那个衣衫褴褛的人拉著一货车破布碎片.
-big5.cri.cn
-The witch that came To wash the steps with pail and rag Was once the beauty Abishag, The picture pride of Hollywood.
-向我们走来的女巫,提着水桶和抹布擦洗台阶,她曾经像亚比沙一样美，好莱坞里最值得骄傲的记忆。
-v.163.com
-The ragged man drags a wangon of rag fragments.
-那个衣衫褴褛的人拉着一货车破布碎片.
-www.ebigear.com
 * DONE Review thirty nine 97.3%
   CLOSED: [2016-08-05 Fri 08:49]
   :LOGBOOK:
@@ -13122,37 +13191,143 @@ www.ebigear.com
    - State "DONE"       from "STARTED"    [2016-08-06 六 13:06]
    CLOCK: [2016-08-06 六 12:50]--[2016-08-06 六 13:06] =>  0:16
    :END:
-* DONE Review Fourty
-  CLOSED: [2016-08-06 六 16:31]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-06 六 16:31]
-  :END:
-* DONE Fourty one 91.6%
+* DONE Forty one 91.6%
   CLOSED: [2016-08-06 六 18:37]
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-08-06 六 18:37]
   :END:
-* DONE Review e 95.9% igh 95.9%t 95.9%
-  CLOSED: [2016-08-06 六 21:15]
+** DONE Review e 95.9% igh 95.9%t 95.9%
+   CLOSED: [2016-08-06 六 21:15]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-08-06 六 21:15]
+   - State "SOMEDAY"    from "WAITING"    [2016-08-06 六 21:14]
+   - State "DONE"       from "STARTED"    [2016-08-06 六 21:12]
+   CLOCK: [2016-08-06 六 20:52]--[2016-08-06 六 21:12] =>  0:20
+   :END:
+** DONE Review Forty one 95.2%
+   CLOSED: [2016-08-07 Sun 05:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-07 Sun 05:58]
+   CLOCK: [2016-08-07 Sun 05:26]--[2016-08-07 Sun 05:58] =>  0:32
+   :END:
+** DONE Review 95.6%
+   CLOSED: [2016-08-26 五 05:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-26 五 05:05]
+   CLOCK: [2016-08-26 五 04:33]--[2016-08-26 五 05:05] =>  0:32
+   :END:
+** DONE Review <2016-08-27 六 19:41> 95.4%
+   CLOSED: [2016-08-27 六 20:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-27 六 20:10]
+   CLOCK: [2016-08-27 六 19:41]--[2016-08-27 六 20:10] =>  0:29
+   :END:
+* DONE Forty two 96.3%
+  CLOSED: [2016-08-25 四 05:34]
   :LOGBOOK:
-  - State "DONE"       from "WAITING"    [2016-08-06 六 21:15]
-  - State "SOMEDAY"    from "WAITING"    [2016-08-06 六 21:14]
-  - State "DONE"       from "STARTED"    [2016-08-06 六 21:12]
-  CLOCK: [2016-08-06 六 20:52]--[2016-08-06 六 21:12] =>  0:20
+  - State "DONE"       from "STARTED"    [2016-08-25 四 05:34]
+  CLOCK: [2016-08-25 四 04:20]--[2016-08-25 四 05:34] =>  1:14
   :END:
-* DONE Review Fourty one 95.2%
-  CLOSED: [2016-08-07 Sun 05:58]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-07 Sun 05:58]
-  CLOCK: [2016-08-07 Sun 05:26]--[2016-08-07 Sun 05:58] =>  0:32
-  :END:
-* DONE Review eleven 98.6%
-  CLOSED: [2016-08-07 Sun 06:34]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:34]
-  CLOCK: [2016-08-07 Sun 06:14]--[2016-08-07 Sun 06:34] =>  0:20
-  :END:
-* DONE Fourty three 94.5%
+** DONE Review <2016-08-27 六 20:55> 95.9%
+   CLOSED: [2016-08-27 六 21:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-27 六 21:26]
+   CLOCK: [2016-08-27 六 20:55]--[2016-08-27 六 21:26] =>  0:31
+   :END:
+** text
+a calendar
+a day
+the year
+the seasons
+a month
+a week
+
+a hand
+an hour
+a minute
+a second
+time
+a clock
+
+to finish
+to last
+to begin
+to move
+to conduct
+to start
+
+You may talk on the phone at home.
+You may not
+you may
+You may cross the street when the light is green.
+You may not speak on the phone in the theatre.
+You may not cross the street when the light is red.
+
+a holiday
+the school year
+a workday
+a weekend
+free time
+vacation
+
+One hour is sixty minutes.
+The second hand shows seconds.
+A clock shows the time.
+One minutes is sixty seconds.
+The minute hand shows minutes.
+The hour hand shows hours.
+
+In a week there are seven days.
+On the calendar there are weeks.
+The minute hand moves fast.
+The hour hand moves slowly.
+In a week there are five workdays and a two-day weekend.
+Clock hands move.
+
+When the spring ends, the summer begins.
+There are twelve months in a year.
+When the fall begins, it often rains.
+On the calendar there is a month.
+Winter, spring, summer and fall are seasons of the year.
+When the fall ends, the winter begins.
+
+The class begins at nine o'clock and ends at nine forty-five.
+A lecture at the university lasts one hour and thirty minutes
+Winter vacation in school lasts two weeks, and summer vacation - three months.
+The woman is looking for holidays in the calendar.
+The school year lasts nine months.
+A class in school lasts forty five minutes.
+
+The summer is a hot season.
+The day begins in the morning.
+On the calendar it's spring, but there's snow on the street.
+The day ends in the evening.
+The year begins in the winter.
+The winter is a cold season.
+
+When the weekend ends, a new week begins.
+When a lecture ends, a break begins.
+When it's boring, time goes slowly.
+When the work week ends, the weekend begins.
+When it's fun, times goes fast.
+When the holidays begin, everyone relaxes.
+
+During working hours you may not talk on the phone.
+In your free time you may talk on the phone.
+When vacation begins, students have a lot of free time.
+The woman likes to shop in her free time.
+During work time you may not drink coffee and lie in the couch, but in your free
+time you may.
+The student likes to spend free time at the computer.
+
+It's boring for students to listen to the lecture.
+Women like to shop. It's fun for them to make purchases.
+The student is sleeping in the lecture. He's bored.
+Men like to talk about sports, but it's boring for women.
+It's fun for children to play with a ball.
+Men don't like to shop. It's boring for them in stores.
+
+* DONE Forty three 94.5%
   CLOSED: [2016-08-08 一 15:39]
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-08-08 一 15:39]
@@ -14742,7 +14917,7 @@ In order to open an account, you need to go to the bank.
   - State "DONE"       from "STARTED"    [2016-08-08 一 16:01]
   CLOCK: [2016-08-08 一 15:43]--[2016-08-08 一 16:01] =>  0:18
   :END:
-* DONE Fourty four 96%
+* DONE Forty four 96%
   CLOSED: [2016-08-09 Tue 11:33]
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-08-09 Tue 11:33]
@@ -15623,13 +15798,13 @@ The woman has a stomachache.
   - State "DONE"       from "STARTED"    [2016-08-09 Tue 15:38]
   CLOCK: [2016-08-09 Tue 15:17]--[2016-08-09 Tue 15:38] =>  0:21
   :END:
-* DONE Review Lesson Fourty four 94.9%
+* DONE Review Lesson Forty four 94.9%
   CLOSED: [2016-08-09 Tue 16:12]
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-08-09 Tue 16:12]
   CLOCK: [2016-08-09 Tue 15:42]--[2016-08-09 Tue 16:12] =>  0:30
   :END:
-* DONE Fourty five 96.3%
+* DONE Forty five 96.3%
   CLOSED: [2016-08-10 三 03:30]
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-08-10 三 03:30]
@@ -16229,7 +16404,7 @@ Elderly people have elevated blood pressure more often than teenagers.
 Elderly people die more often than young people.
 
 Children get sick more often than adults.
-* DONE Fourty six 95.5%
+* DONE Forty six 95.5%
   CLOSED: [2016-08-11 四 09:58]
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-08-11 四 09:58]
@@ -16239,7 +16414,7 @@ Children get sick more often than adults.
   CLOCK: [2016-08-11 四 04:15]--[2016-08-11 四 04:57] =>  0:42
   CLOCK: [2016-08-11 四 04:01]--[2016-08-11 四 04:02] =>  0:01
   :END:
-* DONE Review fourty six 96.6%
+* DONE Review forty six 96.6%
   CLOSED: [2016-08-11 四 18:46]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-11 四 18:46]
@@ -17629,7 +17804,7 @@ loves her.
 
 Why are there so many people in the jewelry store? In the store there's a sale.
 People are buying jewelry wtih a discount.
-* DONE Fourty seven
+* DONE Forty seven
   CLOSED: [2016-08-11 四 21:41]
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-08-11 四 21:41]
@@ -20304,7 +20479,7 @@ amming
 
 
 
-* DONE Lesson Fourty eitht 94.8%
+* DONE Lesson Forty eitht 94.8%
   CLOSED: [2016-08-13 Sat 10:42]
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-08-13 Sat 10:42]
@@ -21470,7 +21645,7 @@ If there are many paintings in a room, it's a museum.
 
 If they dance in the theater, it's ballet.
 
-* DONE Fourty nine 96.3%
+* DONE Forty nine 96.3%
   CLOSED: [2016-08-14 日 06:43]
   :PROPERTIES:
   :ID:       DB27537D-BBC3-4E24-9E15-F09216FFA302
@@ -22222,7 +22397,7 @@ A child shouldn't drive a car.
 
 A child should help his parents.
 
-** DONE Review Fourty nine 95.3%
+** DONE Review Forty nine 95.3%
    CLOSED: [2016-08-16  95.3%Tue 00:00]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-15 Mon 05:03]
@@ -22421,101 +22596,3 @@ pillow
 clock
 computer
 s
-* DONE Fourty two 96.3%
-  CLOSED: [2016-08-25 四 05:34]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-25 四 05:34]
-  CLOCK: [2016-08-25 四 04:20]--[2016-08-25 四 05:34] =>  1:14
-  :END:
-** text
-a calendar
-a day
-the year
-the seasons
-a month
-a week
-
-a hand
-an hour
-a minute
-a second
-time
-a clock
-
-to finish
-to last
-to begin
-to move
-to conduct
-to start
-
-You may talk on the phone at home.
-You may not
-you may
-You may cross the street when the light is green.
-You may not speak on the phone in the theatre.
-You may not cross the street when the light is red.
-
-a holiday
-the school year
-a workday
-a weekend
-free time
-vacation
-
-One hour is sixty minutes.
-The second hand shows seconds.
-A clock shows the time.
-One minutes is sixty seconds.
-The minute hand shows minutes.
-The hour hand shows hours.
-
-In a week there are seven days.
-On the calendar there are weeks.
-The minute hand moves fast.
-The hour hand moves slowly.
-In a week there are five workdays and a two-day weekend.
-Clock hands move.
-
-When the spring ends, the summer begins.
-There are twelve months in a year.
-When the fall begins, it often rains.
-On the calendar there is a month.
-Winter, spring, summer and fall are seasons of the year.
-When the fall ends, the winter begins.
-
-The class begins at nine o'clock and ends at nine forty-five.
-A lecture at the university lasts one hour and thirty minutes
-Winter vacation in school lasts two weeks, and summer vacation - three months.
-The woman is looking for holidays in the calendar.
-The school year lasts nine months.
-A class in school lasts forty five minutes.
-
-The summer is a hot season.
-The day begins in the morning.
-On the calendar it's spring, but there's snow on the street.
-The day ends in the evening.
-The year begins in the winter.
-The winter is a cold season.
-
-When the weekend ends, a new week begins.
-When a lecture ends, a break begins.
-When it's boring, time goes slowly.
-When the work week ends, the weekend begins.
-When it's fun, times goes fast.
-When the holidays begin, everyone relaxes.
-
-During working hours you may not talk on the phone.
-In your free time you may talk on the phone.
-When vacation begins, students have a lot of free time.
-The woman likes to shop in her free time.
-During work time you may not drink coffee and lie in the couch, but in your free
-time you may.
-The student likes to spend free time at the computer.
-
-It's boring for students to listen to the lecture.
-Women like to shop. It's fun for them to make purchases.
-The student is sleeping in the lecture. He's bored.
-Men like to talk about sports, but it's boring for women.
-It's fun for children to play with a ball.
-Men don't like to shop. It's boring for them in stores.

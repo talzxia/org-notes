@@ -840,11 +840,14 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]早锻炼
-   DEADLINE: <2016-08-25 Thu 06:20 +1d>
+   DEADLINE: <2016-08-28 日 06:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-08-25 Thu 21:01]
+   :LAST_REPEAT: [2016-08-27 六 15:36]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-08-27 六 15:36]
+   - State "DONE"       from "TODO"       [2016-08-26 五 07:02]
+   - State "DONE"       from "TODO"       [2016-08-25 四 21:19]
    - State "DONE"       from "TODO"       [2016-08-25 Thu 21:01]
    - State "DONE"       from "TODO"       [2016-08-25 Thu 21:01]
    - State "DONE"       from "STARTED"    [2016-08-25 Thu 21:01]
@@ -853,35 +856,72 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]晚走步
-   DEADLINE: <2016-08-25 Thu 9:20 +1d>
+   DEADLINE: <2016-08-27 六 21:20 +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2016-08-26 五 21:42]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-08-26 五 21:42]
+   - State "DONE"       from "TODO"       [2016-08-26 五 07:42]
+   :END:
 
-** TODO [#B]每天用笔书写半小时
+** WAITING [#B]每天用笔书写半小时
    DEADLINE: <2016-08-26 Fri +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2016-08-25 Thu 21:04]
    :END:
    :LOGBOOK:
+   - State "WAITING"    from "TODO"       [2016-08-26 五 21:44] \\
+     no fished
    - State "DONE"       from "TODO"       [2016-08-25 Thu 21:04]
    :END:
 
 ** TODO [#B]每天学习英语一小时以上
-   DEADLINE: <2016-08-26 Fri +1d>
+   DEADLINE: <2016-08-27 六 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-08-25 Thu 21:04]
+   :LAST_REPEAT: [2016-08-26 五 21:43]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-08-26 五 21:43]
    - State "DONE"       from "TODO"       [2016-08-25 Thu 21:04]
    :END:
 
 ** TODO [#B]坚持每天学习新知识及技术一小时
-   DEADLINE: <2016-08-26 Fri +1d>
+   DEADLINE: <2016-08-28 日 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-08-25 Thu 21:05]
+   :LAST_REPEAT: [2016-08-26 五 21:44]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-08-26 五 21:44]
+   - State "DONE"       from "TODO"       [2016-08-26 五 21:44]
    - State "DONE"       from "TODO"       [2016-08-25 Thu 21:05]
    :END:
 
+** DONE [#B] 拜访领导
+   CLOSED: [2016-08-26 五 11:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-26 五 11:11]
+   CLOCK: [2016-08-26 五 9:05]--[2016-08-26 五 10:11] =>  0:06
+   :END:
+五院长、刘洪东夫妇
+宋来生、张永
+谭毅
+陈茂周、张丽
+
+** DONE [#B] 校企合作商谈
+   CLOSED: [2016-08-26 Fri 11:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-26 Fri 11:49]
+   CLOCK: [2016-08-26 Fri 10:18]--[2016-08-26 Fri 11:49] =>  1:31
+   :END:
+泰盈科技尹经理
+
+** DONE [#B]relax and listen to music
+   CLOSED: [2016-08-27 六 19:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-27 六 19:19]
+   CLOCK: [2016-08-27 六 16:53]--[2016-08-27 六 19:19] =>  2:26
+   :END:
 
 * Cocos2D-X
 
