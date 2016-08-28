@@ -723,7 +723,12 @@ Hot green tea? No, cold red juice.
    :END:
 
 
-
+** DONE Review <2016-08-28 日 10:38> 98.2%
+   CLOSED: [2016-08-28 日 10:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-28 日 10:55]
+   CLOCK: [2016-08-28 日 10:38]--[2016-08-28 日 10:55] =>  0:17
+   :END:
 * DONE Lesson nine 97.6%
   CLOSED: [2016-07-23 Sat 16:01]
    :LOGBOOK:
@@ -828,7 +833,12 @@ Are the men standing around  a table? No, they are sitting around the a table.
    - State "DONE"       from "WAITING"    [2016-08-06 六 21:16]
    - State "DONE"       from "STARTED"    [2016-08-06 六 21:14]
    :END:
-
+** DONE Review <2016-08-28 日 11:43> 96.7%
+   CLOSED: [2016-08-28 日 14:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-28 日 14:36]
+   CLOCK: [2016-08-28 日 11:44]--[2016-08-28 日 14:36] =>  2:52
+   :END:
 * DONE Lesson ten 97.9%
   CLOSED: [2016-07-23 Sat 05:54]
   :LOGBOOK:
@@ -840,6 +850,12 @@ Are the men standing around  a table? No, they are sitting around the a table.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-21 Sun 10:25]
    CLOCK: [2016-08-21 Sun 10:04]--[2016-08-21 Sun 10:25] =>  0:21
+   :END:
+** DONE Review <2016-08-28 日 15:15> 97.6%
+   CLOSED: [2016-08-28 日 15:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-28 日 15:34]
+   CLOCK: [2016-08-28 日 15:15]--[2016-08-28 日 15:34] =>  0:19
    :END:
 ** text
 a shop
@@ -960,12 +976,13 @@ dancing.
     :END:
 
 
-* DONE Review eleven 98.6%
-  CLOSED: [2016-08-07 Sun 06:34]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:34]
-  CLOCK: [2016-08-07 Sun 06:14]--[2016-08-07 Sun 06:34] =>  0:20
-  :END:
+** TODO Review eleven 98.6%
+   :LOGBOOK:
+   - State "MEETING"    from "CANCELLED"  [2016-08-28 日 10:36]
+   - State "SOMEDAY"    from "WAITING"    [2016-08-28 日 10:35]
+   - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:34]
+   CLOCK: [2016-08-07 Sun 06:14]--[2016-08-07 Sun 06:34] =>  0:20
+   :END:
 
 ** text
 son
@@ -13233,6 +13250,12 @@ washing machine.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-27 六 21:26]
    CLOCK: [2016-08-27 六 20:55]--[2016-08-27 六 21:26] =>  0:31
+   :END:
+** DONE Review and write<2016-08-28 日 04:30> 96%
+   CLOSED: [2016-08-28 日 06:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-28 日 06:08]
+   CLOCK: [2016-08-28 日 04:30]--[2016-08-28 日 06:08] =>  1:38
    :END:
 ** text
 a calendar
