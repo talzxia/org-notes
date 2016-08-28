@@ -949,6 +949,13 @@ dancing.
    - State "DONE"       from "STARTED"    [2016-08-21 Sun 10:46]
    CLOCK: [2016-08-21 Sun 10:27]--[2016-08-21 Sun 10:46] =>  0:19
    :END:
+** DONE Review<2016-08-28 日 16:05>98.5%
+   CLOSED: [2016-08-28 日 18:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-28 日 18:33]
+   CLOCK: [2016-08-28 日 18:05]--[2016-08-28 日 18:33] =>  0:28
+   :END:
+
 * DONE Lesson twelve 98.4%
   CLOSED: [2016-07-22 Fri 20:25]
   :LOGBOOK:
@@ -13239,6 +13246,12 @@ washing machine.
    - State "DONE"       from "STARTED"    [2016-08-27 六 20:10]
    CLOCK: [2016-08-27 六 19:41]--[2016-08-27 六 20:10] =>  0:29
    :END:
+** DONE Review <2016-08-28 日 20:36> 96%
+   CLOSED: [2016-08-28 日 21:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-28 日 21:01]
+   CLOCK: [2016-08-28 日 20:36]--[2016-08-28 日 21:01] =>  0:25
+   :END:
 * DONE Forty two 96.3%
   CLOSED: [2016-08-25 四 05:34]
   :LOGBOOK:
@@ -13256,6 +13269,12 @@ washing machine.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-28 日 06:08]
    CLOCK: [2016-08-28 日 04:30]--[2016-08-28 日 06:08] =>  1:38
+   :END:
+** DONE Review <2016-08-28 日 18:38>97.7%
+   CLOSED: [2016-08-28 日 19:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-28 日 19:04]
+   CLOCK: [2016-08-28 日 18:38]--[2016-08-28 日 19:04] =>  0:26
    :END:
 ** text
 a calendar

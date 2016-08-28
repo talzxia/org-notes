@@ -909,16 +909,17 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]坚持每天学习新知识及技术一小时
-   DEADLINE: <2016-08-28 日 +1d>
+   DEADLINE: <2016-08-29 一 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-08-26 五 21:44]
+   :LAST_REPEAT: [2016-08-28 日 18:35]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-08-28 日 18:35]
    - State "DONE"       from "TODO"       [2016-08-26 五 21:44]
    - State "DONE"       from "TODO"       [2016-08-26 五 21:44]
    - State "DONE"       from "TODO"       [2016-08-25 Thu 21:05]
    :END:
-
+安装新版3.1moddle在线课程系统————>Mac bookpro
 ** DONE [#B] 拜访领导
    CLOSED: [2016-08-26 五 11:11]
    :LOGBOOK:
@@ -1075,6 +1076,14 @@ Award），这个奖项是由世界科幻协会（World Science Fiction Society�
 柴静制作的抗霾纪录片《穹顶之下》，有这样一句意味深长的话：空气对每个人都是平等的。
 
 对不起，这句话，错了！
+
+** DONE [#B] 检查学生晚自习
+   CLOSED: [2016-08-28 日 19:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-28 日 19:10]
+   CLOCK: [2016-08-28 日 19:05]--[2016-08-28 日 19:10] =>  0:05
+   :END:
+走廊灯坏两层，为安全学生未上晚自习
 
 * Cocos2D-X
 
