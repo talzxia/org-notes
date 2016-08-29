@@ -840,9 +840,9 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]早锻炼
-   DEADLINE: <2016-08-29 一 06:20 +1d>
+   DEADLINE: <2016-08-30 Tue 06:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-08-28 日 07:13]
+   :LAST_REPEAT: [2016-08-29 Mon 16:33]
    :END:
    :LOGBOOK:
    - State "DONE"       from "TODO"       [2016-08-28 日 07:13]
@@ -1084,6 +1084,47 @@ Award），这个奖项是由世界科幻协会（World Science Fiction Society�
    CLOCK: [2016-08-28 日 19:05]--[2016-08-28 日 19:10] =>  0:05
    :END:
 走廊灯坏两层，为安全学生未上晚自习
+
+** WAITING [#B] 招开系办公会议
+   DEADLINE: <2016-08-29 一 11:30>
+   :LOGBOOK:
+   - State "WAITING"    from "TODO"       [2016-08-29 Mon 16:34] \\
+     tomorow
+   :END:
+1.迎新准备工作
+2.管理工作提升
+3.干部及教师内涵提升
+
+** DONE [#B] relax and listen music
+   CLOSED: [2016-08-29 Mon 06:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-29 Mon 06:03]
+   CLOCK: [2016-08-29 Mon 05:17]--[2016-08-29 Mon 06:03] =>  0:46
+   :END:
+
+** DONE [#B] a lecture
+   CLOSED: [2016-08-29 Mon 20:27] DEADLINE: <2016-08-29 Mon 19:40> SCHEDULED: <2016-08-29 Mon 19:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-29 Mon 20:27]
+ CLOCK: [2016-08-29 Mon 19:10]--[2016-08-29 Mon 20:03] =>  0:53
+:END:
+本次课效果较差，尚有两个班未讲，不能讲最差。说话的多。
+不上晚自习，有多少话非要在课上讲？
+让不愿学的自动退出，真有两个同学退出。
+过了青春期，仍然以自我为中心。
+有主人命，没有主人才！
+*** Geting Things Done(GTD)
+
+*** Hack Done is better than prefact.
+
+*** 工具的意义
+
+** DONE [#B] relax and listen music
+   CLOSED: [2016-08-29 Mon 20:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-29 Mon 20:57]
+   CLOCK: [2016-08-29 Mon 20:35]--[2016-08-29 Mon 20:57] =>  0:22
+   :END:
 
 * Cocos2D-X
 

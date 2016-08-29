@@ -962,6 +962,12 @@ dancing.
   - State "DONE"       from "STARTED"    [2016-07-22 Fri 20:25]
   CLOCK: [2016-07-22 Fri 19:22]--[2016-07-22 Fri 20:25] =>  1:03
   :END:
+** DONE Review <2016-08-29 Mon 18:45>97.9%
+   CLOSED: [2016-08-29 Mon 19:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-29 Mon 19:05]
+   CLOCK: [2016-08-29 Mon 18:45]--[2016-08-29 Mon 19:05] =>  0:20
+   :END:
 ** DONE Review 97.7%
    CLOSED: [2016-08-21 Sun 14:13]
    :LOGBOOK:
@@ -1306,6 +1312,12 @@ they do not have a home.
    - State "DONE"       from "STARTED"    [2016-08-22 一 15:22]
    CLOCK: [2016-08-22 一 15:02]--[2016-08-22 一 15:22] =>  0:20
    :END:
+** DONE Review <2016-08-29 Mon 20:09> 97.9%
+   CLOSED: [2016-08-29 Mon 20:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-29 Mon 20:26]
+   CLOCK: [2016-08-29 Mon 20:09]--[2016-08-29 Mon 20:26] =>  0:17
+   :END:
 ** text
 grown-ups
 a child
@@ -1405,6 +1417,12 @@ Who is waiting at the window? The dog is waiting at the window.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-22 一 15:47]
    CLOCK: [2016-08-22 一 15:27]--[2016-08-22 一 15:47] =>  0:20
+   :END:
+** DONE Review <2016-08-29 Mon 20:59> 98%
+   CLOSED: [2016-08-29 Mon 21:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-29 Mon 21:18]
+   CLOCK: [2016-08-29 Mon 20:59]--[2016-08-29 Mon 21:18] =>  0:19
    :END:
 ** text
 a mobile phone
@@ -13252,6 +13270,43 @@ washing machine.
    - State "DONE"       from "STARTED"    [2016-08-28 日 21:01]
    CLOCK: [2016-08-28 日 20:36]--[2016-08-28 日 21:01] =>  0:25
    :END:
+** DONE Review <2016-08-29 Mon 04:47> 97.7%
+   CLOSED: [2016-08-29 Mon 05:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-29 Mon 05:14]
+   CLOCK: [2016-08-29 Mon 04:00]--[2016-08-29 Mon 05:14] =>  1:14
+   :END:
+** DONE Review <2016-08-29 Mon 16:39> 96.3%
+   CLOSED: [2016-08-29 Mon 17:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-29 Mon 17:16]
+   CLOCK: [2016-08-29 Mon 16:39]--[2016-08-29 Mon 17:16] =>  0:37
+   :END:
+** text
+The teacher is dictating, and the pupils are writing in notebooks with pens.
+The pupils can't draw a horse, this is a complex assignment.
+The professor is dictating and, the students are  writing on the borard with chalk.
+The pupils are drawing a house. This is a simple assignment.
+The pupil counts how many apples are lying on the table.
+
+To learn at a university is complex.
+To drive a car is complex.
+To play with toys is simple.
+To play on stage is complex.
+To read a book is simple.
+To learn at school is simple.
+
+Who studies in school, and who at a university? Pupils study in school, and students study at a university.
+Who gives grades, and who gets grades? A teacher gives grades, and students
+get grades.
+Where does the pupil answer? The pupil answers at the board.
+Who dictes, and who writes? A teacher dictates, and pupils write.
+Who draws with a regular, and who with a colored pencil? A boy draws with a
+regular, and the girl draws with a colored pencil.
+Where does the teacher write the assignment? The teacher writes the assignment
+on the board.
+
+
 * DONE Forty two 96.3%
   CLOSED: [2016-08-25 四 05:34]
   :LOGBOOK:
