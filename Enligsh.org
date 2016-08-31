@@ -1641,7 +1641,12 @@ sugar content 糖含量
 sugar cane 甘蔗
 cane sugar n. 蔗糖
 reducing sugar 还原糖
-*** cheese
+*** DONE cheese
+    CLOSED: [2016-08-30 二 10:59]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-08-30 二 10:59]
+    CLOCK: [2016-08-30 二 10:31]--[2016-08-30 二 10:59] =>  0:28
+    :END:
 英  [tʃiːz]  美  [tʃiz]
 n. [食品] 奶酪；干酪；要人
 vt. 停止
@@ -1788,7 +1793,12 @@ Does the boy want a pear? No, the boy wants meat.
 97.8%
 
 ** words
-
+** DONE Review <2016-08-30 二 10:10> 96.5%
+   CLOSED: [2016-08-30 二 10:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-30 二 10:58]
+   CLOCK: [2016-08-30 二 10:10]--[2016-08-30 二 10:31] =>  0:21
+   :END:
 * Lesson Sixteen
 ** DONE Review 97.2%
    CLOSED: [2016-08-24 三 05:43]
@@ -1963,6 +1973,93 @@ The man likes the woman.
    CLOCK: [2016-07-29 Fri 08:53]--[2016-07-29 Fri 09:11] =>  0:18
    :END:
 
+*** DONE text <2016-08-31 三 05:39>
+    CLOSED: [2016-08-31 三 06:44]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-08-31 三 06:44]
+    CLOCK: [2016-08-31 三 05:39]--[2016-08-31 三 06:44] =>  1:05
+    :END:
+** DONE write 97.6%
+   CLOSED: [2016-08-31 三 14:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-31 三 14:43]
+   CLOCK: [2016-08-31 三 14:18]--[2016-08-31 三 14:43] =>  0:25
+   - State "STARTED"    from "DONE"       [2016-08-31 三 14:18]
+   - State "DONE"       from "WAITING"    [2016-08-31 三 14:18]
+   - State "DONE"       from "STARTED"    [2016-08-31 三 08:50]
+   CLOCK: [2016-08-31 三 08:23]--[2016-08-31 三 08:50] =>  0:27
+   :END:
+a tablecloth
+a menu
+a napkin
+a tray
+a bill
+a waiter
+
+to bring
+to pour
+to order
+to taste
+to drink
+
+wine
+a knife
+a spoon
+a cup
+a fork
+a wineglass
+
+The husband and wife go to a restaurant.
+They are sitting at the table in a restaurant.
+The wife orders chicken with potatoes.
+The husband orders meat.
+They read the menu.
+The waiter brings the menu.
+
+The waiter brings a tray.
+The waiter pours out some wine.
+He is pouring some wine into a glass.
+There is wine in the bottle.
+There are plates and bottle on the tray.
+There is water in the bottle.
+
+A clean white tablecloth is on the table.
+The knife and spoon are on the right of the plate.
+The fork is on the left of the plate.
+There is a wineglass behind the plate.
+There are plates on the tablecloth.
+There are napkins near the plates.
+
+He likes meat.
+The husband is drinking wine, he does not want water.
+He says to his wife,"I like meat very much".
+The wife is pouring water into the glass, she does not want wine.
+The husband is tasting the meat.
+The husband and wife are hungry.
+
+The waiter takes the chicken away.
+The wife puts sugar into hot coffee.
+She looks at the menu.
+The wife is tasting the chicken.
+She does not like the chicken. The chicken is cold.
+The waiter brings cups of coffee.
+
+The waiter brings the bill.
+The waiter takes the dirty dishes away.
+The wife drinks coffee with sugar.
+The husband drinks coffee without sugar.
+He pays the waiter.
+The husband looks at the bill.
+
+The girl likes to sing.
+The man likes spaghetti.
+They like to swim.
+The girl likes icecream.
+The man likes the woman.
+It likes to dance.
+
+
+
 * Lesson seventeen<2016-06-22 Wed 06:19>
 ** DONE Review seventeen 97.6%
    CLOSED: [2016-08-09 Tue 15:15]
@@ -1982,6 +2079,12 @@ The man likes the woman.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-24 三 14:40]
    CLOCK: [2016-08-24 三 14:10]--[2016-08-24 三 14:40] =>  0:30
+   :END:
+** DONE Review <2016-08-31 Wed 17:01>98.1%
+   CLOSED: [2016-08-31 Wed 17:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-31 Wed 17:20]
+   CLOCK: [2016-08-31 Wed 17:01]--[2016-08-31 Wed 17:20] =>  0:19
    :END:
 ** text
 a customer
@@ -2135,6 +2238,18 @@ The neck is the part of the body, on many terrestrial or secondarily aquatic ver
    CLOCK: [2016-08-25 四 03:15]--[2016-08-25 四 03:44] =>  0:29
 
 :END:
+** DONE Review <2016-08-31 Wed 21:15> 96%
+   CLOSED: [2016-08-31 Wed 21:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-31 Wed 21:38]
+   CLOCK: [2016-08-31 Wed 21:16]--[2016-08-31 Wed 21:38] =>  0:22
+   :END:
+** DONE Review<2016-08-31 Wed 21:42> 97.5%
+   CLOSED: [2016-08-31 Wed 22:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-31 Wed 22:03]
+   CLOCK: [2016-08-31 Wed 21:42]--[2016-08-31 Wed 22:03] =>  0:21
+   :END:
 ** text
 to have
 to have not
@@ -13283,6 +13398,62 @@ washing machine.
    CLOCK: [2016-08-29 Mon 16:39]--[2016-08-29 Mon 17:16] =>  0:37
    :END:
 ** text
+a pen
+a pencil
+chalk
+a notebook
+a board
+an assignment
+
+to learn
+to dictate
+to count
+go give a lecture
+to explain
+to give a grade
+
+a university
+a student
+a prefessor
+a school
+a pupil
+a teacher
+
+an auditorium
+a lesson
+a recess
+a classroom
+a break
+
+colored peneils
+a simple assignment
+a complex assignment
+a small class
+a big auditorium
+a regular pencil
+
+The boy draws a picture on white paper with colored pencils.
+The girl draws a house with a regular pencil.
+The teacher checks the assignment and gives a grade.
+The teacher writes on the board with chalk.
+The teacher asks, and the pupil answers the question from his seat.
+The pupils write in notebooks with pens.
+
+The pupils go to school in order to learn.
+The students learn in an auditorium.
+The pupil learns at school.
+The students go to the university in order to learn.
+The pupils learn in a class.
+The student learns at a university.
+
+After every class there's a recess.
+After every lecture there's a break.
+The teacher is explaining a complex assignment in class.
+The professor is giving the students an interesting lecture.
+During recess pupils relax, play and eat.
+In lecture students listen and write in notebooks.
+
+
 The teacher is dictating, and the pupils are writing in notebooks with pens.
 The pupils can't draw a horse, this is a complex assignment.
 The professor is dictating and, the students are  writing on the borard with chalk.
@@ -13305,7 +13476,519 @@ Who draws with a regular, and who with a colored pencil? A boy draws with a
 regular, and the girl draws with a colored pencil.
 Where does the teacher write the assignment? The teacher writes the assignment
 on the board.
+*** DONE words<2016-08-30 Tue 05:11>98%
+    CLOSED: [2016-08-30 Tue 06:37]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-08-30 Tue 06:37]
+    CLOCK: [2016-08-30 Tue 05:32]--[2016-08-30 Tue 06:37] =>  1:05
+    :END:
+**** school
 
+英  [skuːl]   美  [skul]
+n. 学校；学院；学派；鱼群
+vt. 教育
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+school /skuːl/  CET4 TEM4
+N-VAR A school is a place where children are educated. You usually refer to this place as school when you are talking about the time that children spend there and the activities that they do there. 学校
+例：
+...a boy who was in my class at school.
+…上学时我班上的一个男孩。
+例：
+Even the good students say homework is what they most dislike about school.
+就连好学生也说家庭作业是他们最讨厌学校的一点。
+例：
+...a school built in the Sixties.
+…一所建于六十年代的学校。
+N-COUNT-COLL A school is the students or staff at a school. 全校师生
+例：
+Deirdre, the whole school's going to hate you.
+迪尔德丽，全校师生都要恨你了。
+N-COUNT/N-IN-NAMES A privately-run place where a particular skill or subject is taught can be referred to as a school. 私立专科学校
+例：
+...a riding school.
+…一所私立骑术学校。
+N-VAR/N-IN-NAMES A university, college, or university department specializing in a particular type of subject can be referred to as a school. 学院; 系
+例：
+...a lecturer in the school of veterinary medicine at the University of Pennsylvania.
+…宾夕法尼亚大学兽医学系的一名讲师。
+N-UNCOUNT School is used to refer to college. 大学
+例：
+Jack eventually graduated from school, got married, and got his first real job.
+杰克终于大学毕了业，结了婚，找到了第一份真正的工作。
+N-COUNT-COLL A particular school of writers, artists, or thinkers is a group of them whose work, opinions, or theories are similar. 学派; 流派
+例：
+...the Chicago school of economists.
+…芝加哥经济学派。
+V-T If you school someone in something, you train or educate them to have a certain skill, type of behaviour, or way of thinking. 训练; 教育
+例：
+Many mothers schooled their daughters in the myth of female inferiority.
+许多母亲用男尊女卑的错误观念教育女儿。
+N-COUNT a group of porpoises or similar aquatic animals that swim together 鱼群; 水生动物群
+V-I to form such a group (鱼、水生动物)成群
+→ see also schooling , boarding school , grade school , graduate school , grammar school , high school , nursery school , prep school , primary school , private school , public school , state school
+网络释义 专业释义 英英释义
+
+ 学校
+ 学派
+ School!!
+ 学院
+短语
+High School 高中
+High School 中学
+High School 高级中学
+High School 公立中等学校
+after school 放学后
+  更多结果
+词组短语 同近义词 同根词
+
+in school 在求学
+at school 在学校；在上课；在求学
+high school 中学
+go to school v. 上学
+middle school n. 中学
+  更多词组短语
+双语例句 原声例句 权威例句
+
+He gave his books to the school.
+他把他的藏书捐赠给了学校。
+He transferred his son to another school.
+他将儿子转学到另一所学校。
+He mixes well with other children in the school.
+他在学校里与其他孩子能很好相处。
+ 更多双语例句
+百科
+
+School
+
+A school is an institution designed for the teaching of students (or "pupils")
+under the direction of teachers. Most countries have systems of formal
+education, which is commonly compulsory.[citation needed] In these systems,
+students progress through a series of schools. The names for these schools vary
+by country (discussed in the Regional section below) but generally include
+primary school for young children and secondary school for teenagers who have
+completed primary education. An institution where higher education is taught, is
+commonly called a university college or university.In addition to these core
+schools, students in a given country may also attend schools before and after
+primary and secondary education. Kindergarten or pre-school provide some
+schooling to very young children (typically ages 3–5). University, vocational
+school, college or seminary may be available after secondary school. A school
+may also be dedicated to one particular field, such as a school of economics or
+a school of dance. Alternative schools may provide nontraditional curriculum and
+methods.There are also non-government schools, called private schools. Private
+schools may be required when the government does not supply adequate, or special
+education. Other private schools can also be religious, such as Christian
+schools, hawzas, yeshivas, and others; or schools that have a higher standard of
+education or seek to foster other personal achievements. Schools for adults
+include institutions of corporate training, Military education and training and
+business schools.In homeschooling and online schools, teaching and learning take
+place outside of a traditional school building.
+
+**** university
+英  [juːnɪ'vɜːsɪtɪ]  美  [,junɪ'vɝsəti]
+n. 大学；综合性大学；大学校舍
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+university /ˌjuːnɪˈvɜːsɪtɪ/  CET4 TEM4
+N-VAR/N-IN-NAMES A university is an institution where students study for degrees and where academic research is done. 大学
+例：
+Offenbacker earned an education degree at the University of Washington and taught elementary school.
+奥芬巴克在华盛顿大学获得了教育学位，教了小学。
+例：
+She goes to Duke University.
+她上杜克大学。
+网络释义 专业释义 英英释义
+
+ 大学
+ 上大学
+ 高校
+ 综合性大学
+短语
+Northwestern University 西北大学
+Northwestern University 美国西北大学
+Northwestern University 美国
+Northwestern University 东南大学
+Stanford University 史丹佛大学
+  更多结果
+词组短语 同近义词
+
+normal university 师范大学
+university student 大学生
+beijing university 北京大学
+tsinghua university 清华大学
+peking university 北京大学
+  更多词组短语
+双语例句 原声例句 权威例句
+
+He teaches Esperanto at that university.
+他在那所大学教世界语。
+She buddied up with a student from another university.
+她与来自另一大学的一名学生交朋友。
+The student left the university to go out into the world and find himself.
+这个学生离开了大学进入社会去发现自己的才能所在。
+ 更多双语例句
+百科
+
+University
+
+A university (Latin: universitas, "a whole") is an institution of higher (or tertiary) education and research which grants academic degrees in a variety of subjects and provides both undergraduate education and postgraduate education. The word "university" is derived from the Latin universitas magistrorum et scholarium, which roughly means "community of teachers and scholars."
+来源于：维基百科
+
+**** complex
+英  ['kɒmpleks]  美  [kəm'plɛks; 'kɑm,plɛks]
+adj. 复杂的；合成的
+n. 复合体；综合设施
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+complex    CET4 TEM4
+ADJ Something that is complex has many different parts, and is therefore often difficult to understand. 复杂的
+例：
+...in-depth coverage of today's complex issues.
+…对当今复杂问题的深入报道。
+例：
+...a complex system of voting.
+…一套复杂的选举体制。
+N-COUNT A complex is a group of buildings designed for a particular purpose, or one large building divided into several smaller areas. 建筑群
+例：
+...a low-cost apartment complex.
+…一个低价公寓楼群。
+网络释义 专业释义 英英释义
+
+ 情结
+ 复杂
+ 复合
+ 络合物
+短语
+complex number 复数
+complex number 复数 (数学)
+complex number 复数值
+complex number 复素数
+complex analysis 复分析
+  更多结果
+词组短语 同近义词 同根词
+
+complex system 复杂系统
+complex structure 复合结构；复结构；复数结构
+complex function 复值函数
+metal complex 金属络合物，金属络合盐；金属复合物
+petrochemical complex 石油化工总厂；石油化工（总）公司
+  更多词组短语
+双语例句 原声例句 权威例句
+
+Not complex at all.
+一点都不复杂。
+article.yeeyan.org
+Can they grapple with the complex situation?
+他们能处理复杂的局面吗?
+This project involves a lot of complex technical problems.
+这个方案牵涉到许多复杂的技术问题。
+ 更多双语例句
+百科
+
+CoMPLEX
+
+The UCL Faculty of Mathematical and Physical Sciences is one of the 10 constituent faculties of University College London (UCL). The Faculty, the UCL Faculty of Engineering Sciences and the UCL Faculty of the Built Envirornment (The Bartlett) together form the UCL School of the Built Environment, Engineering and Mathematical and Physical Sciences.
+来源于：维基百科
+
+**** simple
+英  ['sɪmp(ə)l]   美  ['sɪmpl]
+adj. 简单的；单纯的；天真的
+n. 笨蛋；愚蠢的行为；出身低微者
+n. (Simple)人名；(法)桑普勒
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+simple /ˈsɪmpəl/  CET4 TEM4
+ADJ If you describe something as simple, you mean that it is not complicated, and is therefore easy to understand. 简单的; 简明的
+例：
+...simple pictures and diagrams.
+…简明的图片和图表。
+例：
+...pages of simple advice on filling in your tax form.
+…几页有关填写纳税表格的简单建议。
+ADV 简单地
+例：
+When applying for a visa extension state simply and clearly the reasons why you need an extension.
+申请签证续签时，简单明了地陈述你需要延期的理由。
+ADJ If you describe people or things as simple, you mean that they have all the basic or necessary things they require, but nothing extra. 简朴的; 朴素的
+例：
+He ate a simple dinner of rice and beans.
+他吃了一顿米饭加豆子的简单晚餐。
+例：
+...the simple pleasures of childhood.
+…童年纯朴的快乐。
+ADV 简朴地; 朴素地
+例：
+The living room is furnished simply with white wicker furniture and blue-and-white fabrics.
+起居室朴素地摆放着白柳条家具和蓝白相间的织物。
+ADJ If a problem is simple or if its solution is simple, the problem can be solved easily. 好办的; 易解决的
+例：
+Some puzzles look difficult but are actually quite simple.
+有些谜看似很难，但实际上相当容易解开。
+ADJ A simple task is easy to do. 容易的; 简易的
+例：
+The job itself had been simple enough.
+这工作本身一直就相当容易。
+ADV 简易地; 容易地
+例：
+We can do things that were not possible before, and they can be done simply.
+我们现在可以做以前不可能的事情，而且可以轻而易举地做成。
+ADJ You use simple to emphasize that the thing you are referring to is the only important or relevant reason for something. 纯粹的; 完全的
+例：
+His refusal to talk was simple stubbornness.
+他拒绝交谈只是出于固执。
+ADJ In grammar, simple tenses are ones which are formed without an auxiliary verb "be," for example,"I dressed and went for a walk" and "This tastes nice." Simple verb groups are used especially to refer to completed actions, regular actions, and situations. Compare . 简单的 (时态或动词词组)
+→ see also simply
+网络释义 专业释义 英英释义
+
+ 简单
+ SIMPLE
+ SIP for Instant Messaging and Presence Leveraging Extensions
+ SIMPLE
+短语
+Simple Plan 简单计划
+Simple Plan 简单计划
+Simple Plan 简单计划乐队
+Simple Plan 简单计划合唱团
+Simple系列 Simple series
+  更多结果
+词组短语 同近义词 同根词
+
+simple structure 简单结构；静定结构
+simple and easy 简易明了
+simple life 简单生活
+simple things 简单事情；单纯的事；小事情；平常事
+simple english 简单英语
+  更多词组短语
+双语例句 原声例句 权威例句
+
+It all boils down to one simple fact.
+归结起来是一个简单的事实。
+In his case a simple surgical operation is indicated.
+他的病情表明需要做一次简单的外科手术。
+The problem is by no means as simple as we first thought.
+问题决不像我们当初想象的那么单纯。
+
+**** pupil
+英  ['pjuːpɪl; -p(ə)l]   美  [pjupl]
+n. 学生；[解剖] 瞳孔；未成年人
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+pupil /ˈpjuːpəl/  CET4
+N-COUNT A pupil of a painter, musician, or other expert is someone who studies under that expert and learns his or her skills. (画家、音乐家等的) 弟子
+例：
+After his education, Goldschmidt became a pupil of the composer Franz Schreker.
+上完学后，戈尔德施密特成了作曲家弗朗兹·施雷克的弟子。
+N-COUNT The pupils of a school are the children who go to it. 学生
+例：
+...schools with over 1,000 pupils.
+…有1000多名学生的学校。
+N-COUNT The pupils of your eyes are the small, round, black holes in the centre of them. 瞳孔
+例：
+The sick man's pupils were dilated.
+病人的瞳孔放大了。
+网络释义 专业释义 英英释义
+
+ 小学生
+ 瞳孔
+ 瞳孔
+ 学生
+短语
+pupil function 瞳函数
+pupil function 瞳孔函数
+pupil function 光瞳函数
+pupil function 瞳函数的
+emergent pupil 出射光瞳
+  更多结果
+词组短语 同近义词 同根词
+
+exit pupil 出射光瞳；后透光孔
+pupil dilation 瞳孔扩张；瞳孔放大
+双语例句 原声例句 权威例句
+
+The pupil divided the pencils by colour.
+这名小学生按颜色把铅笔分类。
+The heavy bag weighted the pupil to one side.
+沉重的书包压得那小学生歪向一边。
+The pupil could add and subtract but hadn't learned to divide.
+这名小学生能做加法和减法，但还没学会做除法。
+ 更多双语例句
+百科
+
+Pupil
+
+The pupil is a hole located in the center of the iris of the eye that allows light to strike the retina. It appears black because light rays entering the pupil are either absorbed by the tissues inside the eye directly, or absorbed after diffuse reflections within the eye that mostly miss exiting the narrow pupil.In humans the pupil is round, but other species, such as some cats, have vertical slit pupils, goats have horizontally oriented pupils, and some catfish have annular types. In optical terms, the anatomical pupil is the eye's aperture and the iris is the aperture stop. The image of the pupil as seen from outside the eye is the entrance pupil, which does not exactly correspond to the location and size of the physical pupil because it is magnified by the cornea. On the inner edge lies a prominent structure, the collarette, marking the junction of the embryonic pupillary membrane covering the embryonic pupil.
+来源于：维基百科
+
+**** student
+英  ['stjuːd(ə)nt]  美  ['studnt]
+n. 学生；学者
+n. (Student)人名；(德)施图登特
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+student /ˈstjuːdənt/  CET4 TEM4
+N-COUNT A student is a person who is studying at an elementary school, secondary school, college, or university. 学生
+例：
+Warren's eldest son is an art student.
+沃伦的长子是一名学艺术的学生。
+→ see also graduate student
+N-COUNT Someone who is a student of a particular subject is interested in the subject and spends time learning about it. 学者
+例：
+...a passionate student of history and an expert on nineteenth century prime ministers.
+…一位热衷历史的学者和一个研究19世纪首相们的专家。
+网络释义 专业释义 英英释义
+
+ 学生
+ 学生
+ 大学生
+ 职业
+短语
+Microsoft Student Microsoft Student
+Microsoft Student Microsoft Student
+Microsoft Student 微软学生
+student body 学生
+student body 全体学生
+  更多结果
+词组短语 同近义词 同根词
+
+college student 大学生
+university student 大学生
+graduate student n. 研究生；毕业生
+good student 好学生
+foreign student 外国学生，外籍学生；留学生
+  更多词组短语
+双语例句 原声例句 权威例句
+
+The student trotted out his knowledge.
+这个学生炫耀他的知识。
+She buddied up with a student from another university.
+她与来自另一大学的一名学生交朋友。
+The student left the university to go out into the world and find himself.
+这个学生离开了大学进入社会去发现自己的才能所在。
+ 更多双语例句
+百科
+
+Student
+
+A student (also pupil) is a learner, or someone who attends an educational institution. In some nations, the English term (or its cognate in another language) is reserved for those who attend university, while a schoolchild under the age of eighteen is called a pupil in English (or an equivalent in other languages), although in the United States and in Australia a person enrolled in grades K–12 is often called a student. In its widest use, student is used for anyone who is learning, including mid-career adults who are taking vocational education or returning to university, or younger researchers or artists learning from a more experienced (and usually older) colleague and mentor.
+来源于：维基百科
+
+**** grade
+英  [greɪd]   美  [ɡred]
+n. 年级；等级；成绩；级别；阶段
+vt. 评分；把…分等级
+vi. 分等级；逐渐变化
+n. (Grade)人名；(英)格雷德；(法、德、西、葡、塞、瑞典)格拉德
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+grade /ɡreɪd/  CET4 TEM4
+V-T If something is graded, its quality is judged, and it is often given a number or a name that indicates how good or bad it is. 将…分等级; 给…评分
+例：
+Dust masks are graded according to the protection they offer.
+防尘面具根据其提供的防护而分级。
+例：
+Hampshire College does not grade the students' work.
+汉普郡学院不对学生们的作业评分。
+N-COUNT The grade of a product is its quality, especially when this has been officially judged. 质量等级
+例：
+...a good grade of plywood.
+…高品质的胶合板。
+COMB in ADJ Grade is also a combining form. 也用于组合式构词
+例：
+...weapons-grade plutonium.
+…武器级钚。
+N-COUNT Your grade in an examination or piece of written work is the mark you get, usually in the form of a letter or number, that indicates your level of achievement. (用字母或数字表示的) 成绩
+例：
+What grade are you hoping to get?
+你希望得到什么样的成绩？
+N-COUNT Your grade in a company or organization is your level of importance or your rank. (职员的) 等级
+例：
+Staff turnover is particularly high among junior grades.
+员工流动率在级别低的职员中特别高。
+N-COUNT In the United States, a grade is a group of classes in which all the children are of a similar age. When you are six years old you go into the first grade and you leave school after the twelfth grade. (美国学校中的) 年级
+例：
+Mr. White teaches first grade in south Georgia.
+怀特先生在佐治亚州南部教一年级。
+N-COUNT A grade is a slope. 斜坡
+例：
+She drove up a steep grade and then began the long descent into the desert.
+她驾车爬上一个陡坡，然后开始长长的下坡进入沙漠。
+N-COUNT Someone's grade is their military rank. 军衔
+例：
+I was a naval officer, lieutenant junior grade.
+我曾是名海军军官，中尉军衔。
+PHRASE If someone makes the grade, they succeed, especially by reaching a particular standard. 成功
+例：
+She had a strong desire to be a dancer but failed to make the grade.
+她渴望成为一名舞蹈家但没有成功。
+网络释义 专业释义 英英释义
+
+ 特级
+ 等级
+ 年级
+ 成绩平均积点
+短语
+Kiddy Grade 银河战警
+Kiddy Grade 天使特警
+Kiddy Grade 银河战警
+Kiddy Grade 美女讨伐二人组
+Twelfth grade 十二年级
+  更多结果
+词组短语 同近义词 同根词
+
+high grade 高品位；高级的
+top grade 优级，最高级
+low grade 低级的；低质量的
+first grade 一年级；第一级；一等品
+at grade 在同一水平面上；同一平面
+  更多词组短语
+双语例句 原声例句 权威例句
+
+I am one grade below him.
+我比他低一年级。
+The clever boy jumped the fifth grade in school.
+那个聪明的男孩跳过了小学五年级。
+The parents want their child to skip to the second grade.
+这家父母希望他们孩子能跳级到二年级。
+
+**** assignment
+英  [ə'saɪnm(ə)nt]   美  [ə'saɪnmənt]
+n. 分配；任务；作业；功课
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+assignment /əˈsaɪnmənt/  CET4 TEM4
+N-COUNT An assignment is a task or piece of work that you are given to do, especially as part of your job or studies. 任务; 作业
+例：
+The assessment for the course involves written assignments and practical tests.
+这门课程的评估包括各种书面作业和实践测试。
+网络释义 专业释义 英英释义
+
+ 任务
+ 作业
+ 分配
+ 赋值
+短语
+assignment right 转让权
+assignment right 顶让权
+assignment right 让渡权
+assignment right 转让权;顶让权
+pole assignment 极点配置
+  更多结果
+词组短语 同近义词 同根词
+
+assignment problem 指派问题；分配问题；分派问题；配置问题
+pole assignment 极点配置
+assignment method 转让方法；指定分配方法
+school assignment 学生作业；课题
+channel assignment 信道分配；通道分配；信道指配
+  更多词组短语
+双语例句 原声例句 权威例句
+
+I begged off that assignment.
+我恳求免除分派的那个任务。
+Your assignment is to dissect the poem.
+你的任务是仔细评论这首诗。
+He has just come off a difficult assignment.
+他刚刚结束了一项艰巨任务。
 
 * DONE Forty two 96.3%
   CLOSED: [2016-08-25 四 05:34]

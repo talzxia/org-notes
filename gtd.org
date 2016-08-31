@@ -840,11 +840,13 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]早锻炼
-   DEADLINE: <2016-08-30 Tue 06:20 +1d>
+   DEADLINE: <2016-09-01 四 06:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-08-29 Mon 16:33]
+   :LAST_REPEAT: [2016-08-31 三 08:01]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-31 三 08:01]
+   - State "CANCELLED"  from "TODO"       [2016-08-30 二 09:01]
    - State "DONE"       from "TODO"       [2016-08-28 日 07:13]
    - State "DONE"       from "TODO"       [2016-08-27 六 15:36]
    - State "DONE"       from "TODO"       [2016-08-26 五 07:02]
@@ -897,11 +899,13 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]每天学习英语一小时以上
-   DEADLINE: <2016-08-29 一 +1d>
+   DEADLINE: <2016-08-31 Wed +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-08-28 日 07:08]
+   :LAST_REPEAT: [2016-08-31 Wed 16:50]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-08-31 Wed 16:50]
+   - State "DONE"       from "TODO"       [2016-08-31 三 05:35]
    - State "DONE"       from "TODO"       [2016-08-28 日 07:08]
    - State "DONE"       from "TODO"       [2016-08-28 日 07:07]
    - State "DONE"       from "TODO"       [2016-08-26 五 21:43]
@@ -909,11 +913,13 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]坚持每天学习新知识及技术一小时
-   DEADLINE: <2016-08-29 一 +1d>
+   DEADLINE: <2016-08-31 Wed +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-08-28 日 18:35]
+   :LAST_REPEAT: [2016-08-31 Wed 16:50]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-08-31 Wed 16:50]
+   - State "DONE"       from "TODO"       [2016-08-31 三 05:35]
    - State "DONE"       from "TODO"       [2016-08-28 日 18:35]
    - State "DONE"       from "TODO"       [2016-08-26 五 21:44]
    - State "DONE"       from "TODO"       [2016-08-26 五 21:44]
@@ -1085,9 +1091,10 @@ Award），这个奖项是由世界科幻协会（World Science Fiction Society�
    :END:
 走廊灯坏两层，为安全学生未上晚自习
 
-** WAITING [#B] 招开系办公会议
-   DEADLINE: <2016-08-29 一 11:30>
+** DONE [#B] 招开系办公会议
+   CLOSED: [2016-08-31 Wed 16:50] DEADLINE: <2016-08-29 一 11:30>
    :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-08-31 Wed 16:50]
    - State "WAITING"    from "TODO"       [2016-08-29 Mon 16:34] \\
      tomorow
    :END:
@@ -1125,6 +1132,82 @@ Award），这个奖项是由世界科幻协会（World Science Fiction Society�
    - State "DONE"       from "STARTED"    [2016-08-29 Mon 20:57]
    CLOCK: [2016-08-29 Mon 20:35]--[2016-08-29 Mon 20:57] =>  0:22
    :END:
+
+** DONE [#B] check teaching and learning
+   CLOSED: [2016-08-30 二 10:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-30 二 10:05]
+   CLOCK: [2016-08-30 二 09:05]--[2016-08-30 二 10:05] =>  1:00
+   :END:
+
+** DONE [#B] go home
+   CLOSED: [2016-08-30 二 11:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-30 二 11:33]
+   :END:
+
+** DONE [#B] meeting
+   CLOSED: [2016-08-31 三 05:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-31 三 05:33]
+   CLOCK: [2016-08-30 二 15:39]--[2016-08-30 二 17:50] =>  2:11
+   :END:
+third floor begin 16:00
+
+** DONE [#B] clean up
+   CLOSED: [2016-08-31 三 08:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-31 三 08:19]
+   CLOCK: [2016-08-31 三 08:02]--[2016-08-31 三 08:19] =>  0:17
+   :END:
+
+** DONE [#B]meeting
+   CLOSED: [2016-08-31 三 11:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-31 三 11:38]
+   CLOCK: [2016-08-31 三 08:50]--[2016-08-31 三 11:38] =>  2:48
+   :END:
+
+*** 迎新会议
+刘洪东副院长主持
+新生报到改方式了、计算机注册
+已缴费的和未缴费的流程
+上报注册入学的计划数。
+系里办公会议：
+
+**** 传达迎新安排
+制订本系方案：简单易行
+要求：教师、学生全部带胸牌，并登记。
+
+**** 教学准备安排
+
+**** 管理提升要求
+
+**** 考勤要求
+
+**** 周五下午开全体会。
+
+** DONE [#B] 系内管理提升
+   CLOSED: [2016-08-31 Wed 16:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-31 Wed 16:43]
+   CLOCK: [2016-08-31 Wed 14:50]--[2016-08-31 Wed 16:43] =>  1:53
+   :END:
+全面践行GTD时间管理
+给陈书记安装配置完成spacemacs并开始使用。
+1. install brew
+2. install mac emacs
+3. install spacemacs zilongshanren
+4. install source code pro
+5. 字体验证
+6. 修改界面：miterioso
+7. 设置黑色背景：(set-background-color "black")
+8. 产生：org-notes/get.org notes等文件
+9. install mac latex
+
+
+
+
 
 * Cocos2D-X
 
