@@ -840,11 +840,12 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]早锻炼
-   DEADLINE: <2016-09-01 四 06:20 +1d>
+   DEADLINE: <2016-09-02 Fri 06:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-08-31 三 08:01]
+   :LAST_REPEAT: [2016-09-01 Thu 06:33]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-09-01 Thu 06:33]
    - State "DONE"       from "STARTED"    [2016-08-31 三 08:01]
    - State "CANCELLED"  from "TODO"       [2016-08-30 二 09:01]
    - State "DONE"       from "TODO"       [2016-08-28 日 07:13]
@@ -899,11 +900,13 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]每天学习英语一小时以上
-   DEADLINE: <2016-08-31 Wed +1d>
+   DEADLINE: <2016-09-02 Fri +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-08-31 Wed 16:50]
+   :LAST_REPEAT: [2016-09-01 Thu 14:11]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-09-01 Thu 14:11]
+   - State "DONE"       from "TODO"       [2016-09-01 Thu 14:10]
    - State "DONE"       from "TODO"       [2016-08-31 Wed 16:50]
    - State "DONE"       from "TODO"       [2016-08-31 三 05:35]
    - State "DONE"       from "TODO"       [2016-08-28 日 07:08]
@@ -913,11 +916,13 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]坚持每天学习新知识及技术一小时
-   DEADLINE: <2016-08-31 Wed +1d>
+   DEADLINE: <2016-09-02 Fri +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-08-31 Wed 16:50]
+   :LAST_REPEAT: [2016-09-01 Thu 14:11]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-09-01 Thu 14:11]
+   - State "DONE"       from "TODO"       [2016-09-01 Thu 14:11]
    - State "DONE"       from "TODO"       [2016-08-31 Wed 16:50]
    - State "DONE"       from "TODO"       [2016-08-31 三 05:35]
    - State "DONE"       from "TODO"       [2016-08-28 日 18:35]
@@ -1205,9 +1210,39 @@ third floor begin 16:00
 8. 产生：org-notes/get.org notes等文件
 9. install mac latex
 
+** DONE [#B]  order the English.org
+   CLOSED: [2016-09-01 Thu 05:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-01 Thu 05:20]
+   CLOCK: [2016-09-01 Thu 04:45]--[2016-09-01 Thu 05:20] =>  0:35
+   :END:
 
+** DONE [#B]browse and relax
+   CLOSED: [2016-09-01 Thu 06:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-01 Thu 06:33]
+   CLOCK: [2016-09-01 Thu 06:10]--[2016-09-01 Thu 06:33] =>  0:23
+   :END:
 
+** DONE [#B] install spacemacs for liqian
+   CLOSED: [2016-09-01 Thu 09:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-01 Thu 09:27]
+   CLOCK: [2016-09-01 Thu 08:01]--[2016-09-01 Thu 09:27] =>  1:26
+   :END:
 
+** WAITING [#B] install spacemacs for wangshubin
+   :LOGBOOK:
+   - State "WAITING"    from "STARTED"    [2016-09-01 Thu 10:41]
+   CLOCK: [2016-09-01 Thu 09:28]--[2016-09-01 Thu 10:43] =>  1:15
+   :END:
+
+** DONE [#B] relax and listen music
+   CLOSED: [2016-09-01 Thu 21:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-01 Thu 21:33]
+   CLOCK: [2016-09-01 Thu 20:48]--[2016-09-01 Thu 21:33] =>  0:45
+   :END:
 
 * Cocos2D-X
 

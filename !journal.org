@@ -1697,3 +1697,30 @@ CLOSED: [2016-08-23 二 08:14]
      :LOGBOOK:
      - State "DONE"       from "STARTED"    [2016-08-23 二 03:57]
      :END:
+** 2016-09 September
+*** 2016-09-01 Thursday
+
+**** DONE arrive office and begin working and learning
+     CLOSED: [2016-09-01 Thu 04:09]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-01 Thu 04:09]
+     :END:
+
+**** DONE arrive office and clean up
+     CLOSED: [2016-09-01 Thu 07:48]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-01 Thu 07:48]
+     CLOCK: [2016-09-01 Thu 07:34]--[2016-09-01 Thu 07:48] =>  0:14
+     :END:
+
+**** DONE arrive office and begin working
+     CLOSED: [2016-09-01 Thu 14:10]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-01 Thu 14:10]
+     :END:
+
+**** DONE arrive office begin to learn
+     CLOSED: [2016-09-01 Thu 19:00]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-01 Thu 19:00]
+     :END:
