@@ -1,3 +1,5 @@
+#+BEGIN_SRC org
+
 * DONE Lesson one                                                       :one:
   CLOSED: [2016-07-24 Sun 21:39]
   :LOGBOOK:
@@ -113,6 +115,20 @@ Is the bird running? No, the bird is flying.
    - State "DONE"       from "STARTED"    [2016-08-26 Fri 14:39]
    CLOCK: [2016-08-26 Fri 14:25]--[2016-08-26 Fri 14:39] =>  0:14
    :END:
+** DONE Review <2016-09-02 Fri 15:33>98.2%
+   CLOSED: [2016-09-02 Fri 21:18]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-09-02 Fri 21:18]
+   - State "SOMEDAY"    from "WAITING"    [2016-09-02 Fri 21:17]
+   - State "DONE"       from "STARTED"    [2016-09-02 Fri 21:17]
+   CLOCK: [2016-09-02 Fri 15:33]--[2016-09-02 Fri 21:17] =>  5:44
+   :END:
+** DONE Review <2016-09-03 Sat 03:41> 99.2%
+   CLOSED: [2016-09-03 Sat 03:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-03 Sat 03:55]
+   CLOCK: [2016-09-03 Sat 03:41]--[2016-09-03 Sat 03:55] =>  0:14
+   :END:
 ** text
 black
 red
@@ -139,7 +155,7 @@ blue sky
 a green tree
 a black car
 a white plate
-a red bag
+a red :bag
 
 a short yellow dress
 a big red bag
@@ -301,6 +317,12 @@ Is the woman with a bag? No, she is under a big umbrella.
    - State "DONE"       from "STARTED"    [2016-08-16 二 18:34]
    CLOCK: [2016-08-16 二 18:06]--[2016-08-16 二 18:34] =>  0:28
    :END:
+** DONE Review <2016-09-03 Sat 10:00>98.8%
+   CLOSED: [2016-09-03 Sat 10:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-03 Sat 10:18]
+   CLOCK: [2016-09-03 Sat 10:00]--[2016-09-03 Sat 10:18] =>  0:18
+   :END:
 * DONE Lesson four 98%                                                 :four:
   CLOSED: [2016-07-24 Sun 10:14]
   :LOGBOOK:
@@ -332,6 +354,12 @@ Is the woman with a bag? No, she is under a big umbrella.
    CLOCK: [2016-08-06 六 11:09]--[2016-08-06 六 11:24] =>  0:15
    :END:
 
+** DONE Review<2016-09-03 Sat 10:18>99.3%
+   CLOSED: [2016-09-03 Sat 10:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-03 Sat 10:35]
+   CLOCK: [2016-09-03 Sat 10:19]--[2016-09-03 Sat 10:35] =>  0:16
+   :END:
 ** text
 I
 you
@@ -453,6 +481,12 @@ Are they speaking with a flower? No, they are speaking on the telephone.
    CLOCK: [2016-08-06 六 11:30]--[2016-08-06 六 11:51] =>  0:21
    :END:
 
+** DONE Review <2016-09-03 Sat 14:13> 97.9%
+   CLOSED: [2016-09-03 Sat 14:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-03 Sat 14:31]
+   CLOCK: [2016-09-03 Sat 14:13]--[2016-09-03 Sat 14:31] =>  0:18
+   :END:
 ** text
 a woman
 a woman with long hair
@@ -528,6 +562,7 @@ A woman with short white hair in red.
 The woman with black hair is writing.
 a woman with short white hair.
 
+
 * DONE Lesson six 99.1% good
   CLOSED: [2016-07-24 Sun 05:37]
   :LOGBOOK:
@@ -547,6 +582,12 @@ a woman with short white hair.
     CLOCK: [2016-08-06 六 12:50]--[2016-08-06 六 13:06] =>  0:16
     :END:
 
+** DONE Review <2016-09-04 Sun 06:48>98%
+   CLOSED: [2016-09-04 Sun 07:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-04 Sun 07:05]
+   CLOCK: [2016-09-04 Sun 06:48]--[2016-09-04 Sun 07:05] =>  0:17
+   :END:
 ** text
 autumn
 spring
@@ -627,6 +668,12 @@ Is it summer? No, it is winter: a woman is running in the snow.
    CLOCK: [2016-07-26 Tue 15:10]--[2016-07-26 Tue 15:27] =>  0:17
    :END:
 
+** DONE Review <2016-09-03 Sat 17:14>98%
+   CLOSED: [2016-09-03 Sat 17:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-03 Sat 17:30]
+   CLOCK: [2016-09-03 Sat 17:14]--[2016-09-03 Sat 17:30] =>  0:16
+   :END:
 * DONE Lesson seven 97.7%
   CLOSED: [2016-07-24 Sun 04:36]
   :LOGBOOK:
@@ -655,6 +702,12 @@ Is it summer? No, it is winter: a woman is running in the snow.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-27 六 19:36]
    CLOCK: [2016-08-27 六 19:20]--[2016-08-27 六 19:36] =>  0:16
+   :END:
+** DONE Review <2016-09-04 Sun 10:03>99%
+   CLOSED: [2016-09-04 Sun 10:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-04 Sun 10:26]
+   CLOCK: [2016-09-04 Sun 10:04]--[2016-09-04 Sun 10:26] =>  0:22
    :END:
 ** text
 hot
@@ -764,6 +817,12 @@ Hot green tea? No, cold red juice.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-28 日 10:55]
    CLOCK: [2016-08-28 日 10:38]--[2016-08-28 日 10:55] =>  0:17
+   :END:
+** DONE Review <2016-09-04 Sun 12:03>98.5%
+   CLOSED: [2016-09-04 Sun 12:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-04 Sun 12:21]
+   CLOCK: [2016-09-04 Sun 12:03]--[2016-09-04 Sun 12:21] =>  0:18
    :END:
 * DONE Lesson nine 97.6%
   CLOSED: [2016-07-23 Sat 16:01]
@@ -875,6 +934,12 @@ Are the men standing around  a table? No, they are sitting around the a table.
    - State "DONE"       from "STARTED"    [2016-08-28 日 14:36]
    CLOCK: [2016-08-28 日 11:44]--[2016-08-28 日 14:36] =>  2:52
    :END:
+** DONE Review <2016-09-04 日 19:08>98.4%
+   CLOSED: [2016-09-04 日 19:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-04 日 19:27]
+   CLOCK: [2016-09-04 日 19:08]--[2016-09-04 日 19:27] =>  0:19
+   :END:
 * DONE Lesson ten 97.9%
   CLOSED: [2016-07-23 Sat 05:54]
   :LOGBOOK:
@@ -892,6 +957,12 @@ Are the men standing around  a table? No, they are sitting around the a table.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-28 日 15:34]
    CLOCK: [2016-08-28 日 15:15]--[2016-08-28 日 15:34] =>  0:19
+   :END:
+** DONE Review <2016-09-04 日 20:09>98.1%
+   CLOSED: [2016-09-04 日 20:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-04 日 20:28]
+   CLOCK: [2016-09-04 日 20:09]--[2016-09-04 日 20:28] =>  0:19
    :END:
 ** text
 a shop
@@ -2300,12 +2371,12 @@ The neck is the part of the body, on many terrestrial or secondarily aquatic ver
    - State "DONE"       from "STARTED"    [2016-08-31 Wed 22:03]
    CLOCK: [2016-08-31 Wed 21:42]--[2016-08-31 Wed 22:03] =>  0:21
    :END:
-* DONE Review eithteen 97.3%
-  CLOSED: [2016-08-09 Tue 15:38]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-09 Tue 15:38]
-  CLOCK: [2016-08-09 Tue 15:17]--[2016-08-09 Tue 15:38] =>  0:21
-  :END:
+** DONE Review eithteen 97.3%
+   CLOSED: [2016-08-09 Tue 15:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-09 Tue 15:38]
+   CLOCK: [2016-08-09 Tue 15:17]--[2016-08-09 Tue 15:38] =>  0:21
+   :END:
 
 ** text
 to have
@@ -2470,6 +2541,13 @@ swimsuit and a pink skirt.
 An old white car? No, a pink old car.
 A red flower? No, a grey bird.
 
+** DONE Review eithteen 97.9%
+
+   CLOSED: [2016-07-29 Fri 10:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-29 Fri 10:18]
+   CLOCK: [2016-07-29 Fri 09:57]--[2016-07-29 Fri 10:18] =>  0:21
+   :END:
 
 * lesson ninteen<2016-07-07 Thu>
 ** DONE Review 96.7%
@@ -2561,6 +2639,13 @@ grandma's knee.
 Is the child's face clean or dirty? His face is clean.
 Are the child's feet big or small? His feet are small.
 96.9%
+** DONE Review ninteen 97.4
+   CLOSED: [2016-07-29 Fri 14:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-29 Fri 14:57]
+   CLOCK: [2016-07-29 Fri 14:36]--[2016-07-29 Fri 14:57] =>  0:21
+   :END:
+
 * DONE lesson twenty
   CLOSED: [2016-07-07 Thu 20:39]
 ** DONE Review twenty 96.9%
@@ -2644,6 +2729,13 @@ Are the child's feet big or small? His feet are small.
  Is sleeping a job? No, it is not a job.
  Is teaching children a teacher's job or a waiter's job? It is a teacher's job.
  96.5%
+** DONE Review twenty 96.8%
+   CLOSED: [2016-07-29 Fri 18:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-29 Fri 18:02]
+   CLOCK: [2016-07-29 Fri 17:42]--[2016-07-29 Fri 18:02] =>  0:20
+   :END:
+
 * DONE lesson twenty one
   CLOSED: [2016-07-08 Fri 06:01]
 ** DONE Review twenty one 97.7%
@@ -2818,6 +2910,13 @@ Casting Couch 铸造沙发
 Bucky couch 布凯氏滤线器床
 96.7%
 ****
+** DONE Review twenty one 96.9%
+   CLOSED: [2016-07-29 Fri 20:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-29 Fri 20:35]
+   CLOCK: [2016-07-29 Fri 20:12]--[2016-07-29 Fri 20:35] =>  0:23
+   :END:
+
 * DONE lesson twenty two
   CLOSED: [2016-07-08 Fri 17:17]
 
@@ -3312,6 +3411,12 @@ means of transportation 交通设施
     :END:
  比较流畅。
 
+** DONE Review <2016-09-03 Sat 09:04> 95.8%
+   CLOSED: [2016-09-03 Sat 09:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-03 Sat 09:59]
+   CLOCK: [2016-09-03 Sat 09:04]--[2016-09-03 Sat 09:59] =>  0:55
+   :END:
 ** text
 a sun
 the sea
@@ -3680,6 +3785,13 @@ Do the guests like the party? Yes, the guests like the party very much.
 Do they eat bread and butter for breakfast? Yes, they do.
 Do they eat cheese for breakfast? Yes, they do.
 97.4%
+** DONE Review twenty severn 96.6%
+   CLOSED: [2016-08-01 Mon 06:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-01 Mon 06:41]
+   CLOCK: [2016-08-01 Mon 06:14]--[2016-08-01 Mon 06:41] =>  0:27
+   :END:
+
 * lesson twenty eight
 ** DONE Review twenty eight 95.3%
    CLOSED: [2016-08-13 Sat 14:39]
@@ -4189,7 +4301,26 @@ a couplea pair 一对儿
 A Bronze Pair 青铜双像
 96.5%
 
+** DONE Review twenty nine 96%
+   CLOSED: [2016-08-01 Mon 11:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-01 Mon 11:00]
+   CLOCK: [2016-08-01 Mon 10:21]--[2016-08-01 Mon 11:00] =>  0:39
+   :END:
+
 * lesson thirty
+** DONE Review thirty 93.9%
+   CLOSED: [2016-08-01 Mon 19:27]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2016-08-01 Mon 19:27]
+    CLOCK: [2016-08-01 Mon 18:46]--[2016-08-01 Mon 19:27] =>  0:41
+    - State "STARTED"    from "DONE"       [2016-08-01 Mon 18:46]
+    - State "DONE"       from "WAITING"    [2016-08-01 Mon 18:46]
+    - State "DONE"       from "STARTED"    [2016-08-01 Mon 17:32]
+    CLOCK: [2016-08-01 Mon 17:13]--[2016-08-01 Mon 17:32] =>  0:19
+    :END:
+ three pargraph
+
 ** text
 It is a summer's day in the countryside. There is a horse standing under the
 tree. It is relaxing.
@@ -4868,6 +4999,23 @@ The woman is checking her flight on her ticket.
    - State "DONE"       from "STARTED"    [2016-08-02 Tue 11:27]
    CLOCK: [2016-08-02 Tue 10:57]--[2016-08-02 Tue 11:27] =>  0:30
    :END:
+
+** DONE Review Thirty one 95.3%->94.9%
+   CLOSED: [2016-08-15 Mon 06:18]
+
+   CLOSED: [2016-08-15 Mon 05:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-15 Mon 06:18]
+   CLOCK: [2016-08-15 Mon 05:42]--[2016-08-15 Mon 06:18] =>  0:36
+   - State "STARTED"    from "DONE"       [2016-08-15 Mon 05:42]
+   - State "DONE"       from "STARTED"    [2016-08-15 Mon 05:41]
+   :END:
+ skirt
+ shirt
+ pillow
+ clock
+ computer
+ s
 
 * DONE Thirty eight 96.6%
 
@@ -8753,36 +8901,12 @@ In order to prepare tasty vegetable soup, you need fresh vegetables.
  Does the chef know how to cook? Yes, he prepares very tasty food.
  Does the grandma know how to bake tasty pies with cabaage? Yes, grandma knows
  how to bake tasty pies.
-* DONE Review eithteen 97.9%
-  CLOSED: [2016-07-29 Fri 10:18]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-29 Fri 10:18]
-  CLOCK: [2016-07-29 Fri 09:57]--[2016-07-29 Fri 10:18] =>  0:21
-  :END:
-* DONE Review ninteen 97.4
-  CLOSED: [2016-07-29 Fri 14:57]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-29 Fri 14:57]
-  CLOCK: [2016-07-29 Fri 14:36]--[2016-07-29 Fri 14:57] =>  0:21
-  :END:
-* DONE Review twenty 96.8%
-  CLOSED: [2016-07-29 Fri 18:02]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-29 Fri 18:02]
-  CLOCK: [2016-07-29 Fri 17:42]--[2016-07-29 Fri 18:02] =>  0:20
-  :END:
-* DONE Review thirty four 97%
-  CLOSED: [2016-07-29 Fri 18:35]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-29 Fri 18:35]
-  CLOCK: [2016-07-29 Fri 18:03]--[2016-07-29 Fri 18:35] =>  0:32
-  :END:
-* DONE Review twenty one 96.9%
-  CLOSED: [2016-07-29 Fri 20:35]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-29 Fri 20:35]
-  CLOCK: [2016-07-29 Fri 20:12]--[2016-07-29 Fri 20:35] =>  0:23
-  :END:
+** DONE Review thirty four 97%
+   CLOSED: [2016-07-29 Fri 18:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-29 Fri 18:35]
+   CLOCK: [2016-07-29 Fri 18:03]--[2016-07-29 Fri 18:35] =>  0:32
+   :END:
 * DONE thirty five 95%
   CLOSED: [2016-07-30 Sat 06:02]
   :LOGBOOK:
@@ -11114,29 +11238,6 @@ The boy is cutting a piece of paper in half.
 What is the salesperson doing? He's weighing half a chicken.
 What is the boy doing? He's putting half a cake on a plate.
 What is the chef doing ? He's frying a whole chicken.
-* DONE Review twenty severn 96.6%
-  CLOSED: [2016-08-01 Mon 06:41]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-01 Mon 06:41]
-  CLOCK: [2016-08-01 Mon 06:14]--[2016-08-01 Mon 06:41] =>  0:27
-  :END:
-* DONE Review twenty nine 96%
-  CLOSED: [2016-08-01 Mon 11:00]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-01 Mon 11:00]
-  CLOCK: [2016-08-01 Mon 10:21]--[2016-08-01 Mon 11:00] =>  0:39
-  :END:
-* DONE Review thirty 93.9%
-  CLOSED: [2016-08-01 Mon 19:27]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-01 Mon 19:27]
-   CLOCK: [2016-08-01 Mon 18:46]--[2016-08-01 Mon 19:27] =>  0:41
-   - State "STARTED"    from "DONE"       [2016-08-01 Mon 18:46]
-   - State "DONE"       from "WAITING"    [2016-08-01 Mon 18:46]
-   - State "DONE"       from "STARTED"    [2016-08-01 Mon 17:32]
-   CLOCK: [2016-08-01 Mon 17:13]--[2016-08-01 Mon 17:32] =>  0:19
-   :END:
-three pargraph
 * DONE
   CLOSED: [2016-08-03 Wed 04:53]
   :LOGBOOK:
@@ -14203,6 +14304,12 @@ Men don't like to shop. It's boring for them in stores.
    - State "DONE"       from "STARTED"    [2016-09-01 Thu 20:31]
    CLOCK: [2016-09-01 Thu 20:00]--[2016-09-01 Thu 20:31] =>  0:31
    :END:
+** DONE Review <2016-09-02 Fri 04:27> 97.1%
+   CLOSED: [2016-09-02 Fri 05:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-02 Fri 05:00]
+   CLOCK: [2016-09-02 Fri 04:28]--[2016-09-02 Fri 05:00] =>  0:32
+   :END:
 ** text
 *** a credit card
 
@@ -15784,6 +15891,18 @@ In order to open an account, you need to go to the bank.
    - State "DONE"       from "STARTED"    [2016-08-23 二 20:59]
    CLOCK: [2016-08-23 二 20:32]--[2016-08-23 二 20:59] =>  0:27
    :END:
+** DONE Review <2016-09-02 Fri 05:31>95.8%
+   CLOSED: [2016-09-02 Fri 05:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-02 Fri 05:58]
+   CLOCK: [2016-09-02 Fri 05:31]--[2016-09-02 Fri 05:58] =>  0:27
+   :END:
+** DONE Review <2016-09-03 Sat 03:57>97.4%
+   CLOSED: [2016-09-03 Sat 04:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-03 Sat 04:23]
+   CLOCK: [2016-09-03 Sat 03:57]--[2016-09-03 Sat 04:23] =>  0:26
+   :END:
 ** text
 *** text
 
@@ -16645,6 +16764,18 @@ The woman has a stomachache.
    CLOCK: [2016-08-09 Tue 15:42]--[2016-08-09 Tue 16:12] =>  0:30
    :END:
 
+** DONE Review <2016-09-03 Sat 20:11>95.8%
+   CLOSED: [2016-09-03 Sat 20:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-03 Sat 20:35]
+   CLOCK: [2016-09-03 Sat 20:11]--[2016-09-03 Sat 20:35] =>  0:24
+   :END:
+** DONE Review<2016-09-04 Sun 06:21>96.2%
+   CLOSED: [2016-09-04 Sun 06:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-04 Sun 06:46]
+   CLOCK: [2016-09-04 Sun 06:21]--[2016-09-04 Sun 06:46] =>  0:25
+   :END:
 * DONE Forty five 96.3%
   CLOSED: [2016-08-10 三 03:30]
   :LOGBOOK:
@@ -16662,6 +16793,12 @@ The woman has a stomachache.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-22 一 21:32]
    CLOCK: [2016-08-22 一 21:11]--[2016-08-22 一 21:32] =>  0:21
+   :END:
+** DONE Review <2016-09-03 Sat 04:58>96.6%
+   CLOSED: [2016-09-03 Sat 05:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-03 Sat 05:22]
+   CLOCK: [2016-09-03 Sat 04:58]--[2016-09-03 Sat 05:22] =>  0:24
    :END:
 ** text
 *** elderly people
@@ -19904,1422 +20041,6 @@ Only the chairman's strong control was able to impart some sense of seriousness 
 
 
 
-* DONE listen
-  CLOSED: [2016-07-22 Fri 21:11]
-  :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-22 Fri 21:11]
-   CLOCK: [2016-07-22 Fri 20:52]--[2016-07-22 Fri 21:11] =>  0:19
-   :END:
-* DONE listen 英语发音unit one
-  SCHEDULED: <2016-08-10 三 08:20>
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-24 Sun 11:12]
-   CLOCK: [2016-07-24 Sun 10:50]--[2016-07-24 Sun 11:12] =>  0:22
-   :END:
-** words
-
-*** neck <2016-06-21 Tue>
-  英  [Thursday   28 July 2016
-  journal:     4:02- 4:04 Clocked:   (0:02) STARTED benek]   美  [nɛk]
- n. 脖子；衣6领；海峡
- vi. 搂著脖子亲吻；变狭窄
- vt. teen thousand jobs could be lost.
-** TODO [#B]
-   :PROPERTIES:
-   :ID:       6E6FD271-912D-4242-9CAC-F5E84A012778
-   :END:
-美国邮政局已证实可能会丧失多达15000个就业岗位。
-
-**** a package
-
-英  ['pækɪdʒ]  美  ['pækɪdʒ]
-n. 包，包裹；套装软件，[计] 程序包
-adj. 一揽子的
-vt. 打包；将…包装
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-package /ˈpækɪdʒ/  CET4 TEM4
-N-COUNT A package is something wrapped in paper, in a bag or large envelope, or in a box, usually so that it can be sent to someone by mail. 包裹
-例：
-I tore open the package.
-我撕开了那个包裹。
-N-COUNT A package is a small container in which a quantity of something is sold. Packages are either small boxes made of thin cardboard, or bags or envelopes made of paper or plastic. 小包
-例：
-...a package of doughnuts.
-…一包炸面圈。
-N-COUNT A package is a set of proposals that are made by a government or organization and that must be accepted or rejected as a group. 一揽子建议
-例：
-...a package of measures to help the film industry.
-…一揽子帮助电影业的措施。
-V-T When a product is packaged, it is put into containers to be sold. 包装 (产品)
-例：
-The beans are then ground and packaged for sale as ground coffee.
-咖啡豆接着被磨碎、包装，以研磨咖啡销售。
-V-T If something is packaged in a particular way, it is presented or advertised in that way in order to make it seem attractive or interesting. (为使某物吸引人而) 包装
-例：
-A city is like any product, it has to be packaged properly to be attractive to the consumer.
-一座城市就像任何产品一样，需要适当地加以包装来吸引消费者。
-N-COUNT A package tour is a holiday in which your travel and your accommodations are booked for you. 包价 (旅游)
-例：
-...package tours to Egypt.
-…去埃及的包价旅游。
-网络释义 专业释义 英英释义
-
- 包装
- 包裹
- 软件包
- 打包
-短语
-transport package 运输包装
-transport package 运输包装件
-transport package 运输包装件
-sales package 销售包装
-sales package 发卖包装
-  更多结果
-词组短语 同近义词 同根词
-
-software package [计]软件包；[计]程序包
-stimulus package 刺激计划
-package design 包装设计
-remuneration package 薪酬福利条件；薪酬利益；酬金方案
-compensation package 赔偿计划；薪酬包
-  更多词组短语
-双语例句 原声例句 权威例句
-
-He planked down the package.
-他猛然放下包裹。
-He seized the package from my hand.
-他从我手中夺走了包裹。
-She directed her package to her boy friend.
-她在包裹上写上她男友的姓名地址。
-
-**** an envelop
-英  [ɪn'veləp; en-]   美  [ɪn'vɛləp]
-vt. 包围；包封；遮盖
-n. 信封；包裹
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-envelop /ɪnˈvɛləp/  TEM4
-V-T If one thing envelops another, it covers or surrounds it completely. 包裹住
-例：
-That lovely, rich fragrant smell of the forest enveloped us.
-森林那种美妙、馥郁的香气笼罩了我们。
-网络释义 专业释义 英英释义
-
- 信封
- 包围
- 包被
- 包封
-短语
-pay envelop 工资袋
-sealed envelop 密封信封内
-sealed envelop 密封包围
-sealed envelop 密封的信封
-sealed envelop 密封信封
-  更多结果
-同近义词 同根词
-
-n. 包围；包封；遮盖
-case, invest
-n. 信封；包裹
-package, parcel
-双语例句 原声例句 权威例句
-
-The envelop was imprinted with a return address.
-这个信封上印有回信地址。
-And in our mail arrived an envelop without a return address.
-而我们邮箱里收到了一个信封,上面没有写发信人地址。
-open.163.com
-Such storms can sometimes envelop the entire planet and change the characteristics of the atmosphere, making EDL far trickier.
-这样的风暴有时会包围整个火星，并改变大气层的特性，使得EDL的过程相当棘手。
-article.yeeyan.org
- 更多双语例句
-百科
-
-Envelop
-
-EnvelopShowment is the military tactic of seizing objectives in the enemy's rear
-with the goal of destroying specific enemy forces and denying them the ability
-to withdraw. Rather than attacking an enemy head-on as in a frontal assault an
-envelopment seeks to exploit the enemy's flanks, attacking them from multiple
-directions and avoiding where their defenses are strongest. A successful
-envelopment lessens the number of casualties suffered by the attacker while
-inducing a psychological shock on the defender and improving the chances to
-destroy them. An envelopment will consist of one or more enveloping forces,
-which attacks the enemy's flank(s), and a fixing force, which attacks the
-enemy's front and "fixes" them in place so that they cannot withdraw or shift
-their focus on the enveloping forces. While a successful tactic, there are risks
-involved with performing an envelopment. The enveloping force can become
-overextended and cut off from friendly forces by an enemy counterattack, or the
-enemy can counterattack against the fixing force.According to the United States
-Army there exist four types of envelopment:
-
-**** a postcard
-
-英  ['pəʊs(t)kɑːd]  美  ['post'kɑrd]
-n. 明信片
- 柯林斯英汉双解大词典
-
-postcard /ˈpəʊstˌkɑːd/  CET4 TEM4
-N-COUNT A postcard is a thin card, often with a picture on one side, which you can write on and mail to people without using an envelope. 明信片
-网络释义 专业释义 英英释义
-
- 明信片
- 明信片
- 名信片
- 明信片
-短语
-International Postcard 国际明信片
-International Postcard 国际邮资广告明信片
-International Postcard 国际写信的硬纸片
-International Postcard 国际明信片
-Postcard Lovers 幸福寄情
-  更多结果
-词组短语 同近义词
-
-picture postcard 美术明信片
-双语例句 原声例句 权威例句
-
-I got your postcard from the school.
-你从学校寄来的明信片我已收到。
-Still, I was not prepared for the postcard I received the next day.
-尽管如此，在收到那封明信片的时候我还是吓了一跳。
-article.yeeyan.org
-Once, long, long ago, almost forty years back, he passed through Ravenna and sent me a postcard of one of these famous mosaics.
-曾经在很久很久以前，大约四十年前吧，他经过拉文纳时给我寄来了一张这些著名的马赛克的明信片。
-article.yeeyan.org
-
-**** a stamp
-  [stæmp]  美  [stæmp]
-n. 邮票；印记；标志；跺脚
-vt. 铭记；标出；盖章于…；贴邮票于…；用脚踩踏
-vi. 跺脚；捣碎；毁掉
-n. (Stamp)人名；(德)施坦普；(英)斯坦普
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-stamp /stæmp/  CET4 TEM4
-N-COUNT A stamp or a postage stamp is a small piece of paper which you lick and stick on an envelope or package before you mail it to pay for the cost of the postage. 邮票
-例：
-...a book of stamps.
-…一本邮票册。
-例：
-As of February 3rd, the price of a first class stamp will go up to 29 cents.
-自2月3日起，每张一等邮票的价格将上涨到29分。
-N-COUNT A stamp is a small block of wood or metal which has a pattern or a group of letters on one side. You press it onto an pad of ink and then onto a piece of paper in order to produce a mark on the paper. The mark that you produce is also called a stamp. 印章; 印记
-例：
-...a date stamp and an ink pad.
-…一个日期印章和一个印泥。
-V-T If you stamp a mark or word on an object, you press the mark or word onto the object using a stamp or other device. 盖 (章); 印 (某标记); 打上 (某字)
-例：
-Car manufacturers stamp a vehicle identification number at several places on new cars to help track down stolen vehicles.
-汽车生产商们在新车车身的几个地方打上车辆识别码以帮助追查被盗车辆。
-V-T/V-I If you stamp or stamp your foot, you lift your foot and put it down very hard on the ground, for example because you are angry or because your feet are cold. 跺 (脚); 跺脚; 重重地踩
-例：
-Often he teased me till my temper went and I stamped and screamed, feeling furiously helpless.
-他过去经常取笑我直到我生气，又跺脚又尖叫，感觉非常无助。
-例：
-His foot stamped down on the accelerator.
-他一脚猛地踩下油门。
-N-COUNT Stamp is also a noun. 跺脚
-例：
-...hearing the creak of a door and the stamp of cold feet.
-…听到门的吱嘎声和因脚冷而跺脚的声音。
-V-I If you stamp somewhere, you walk there putting your feet down very hard on the ground because you are angry. (因生气而) 顿足
-例：
-"I'm going before things get any worse!" he shouted as he stamped out of the bedroom.
-“我要在情况变得更糟前离开！”他叫嚷着顿足走出了卧室。
-V-I If you stamp on something, you put your foot down on it very hard. (在…上) 用力踩
-例：
-He received the original ban last week after stamping on the referee's foot during the final.
-在决赛中狠狠地踩了裁判的脚之后，他上周受到首次禁赛处罚。
-N-SING If something bears the stamp of a particular quality or person, it clearly has that quality or was done by that person. 印记
-例：
-Most of us want to make our home a familiar place and put the stamp of our personality on its walls.
-我们大多数人都想把我们的家布置成温馨的地方并在墙壁上留下我们个性的印记。
-→ see also rubber stamp
-网络释义 专业释义 英英释义
-
- 邮票
- 图章
- 印章
- 戳记
-短语
-stamp duty 印花税
-stamp duty 厘印费
-stamp duty 股票印花税
-stamp duty 土地税
-Stamp dead スタンプ・デッド
-  更多结果
-词组短语 同近义词 同根词
-
-stamp duty 印花税
-stamp on 阻拦；踩踏
-stamp out 扑灭；踩灭
-stamp tax 印花税
-postage stamp n. 邮票
-  更多词组短语
-双语例句 原声例句 权威例句
-
-He gave the stamp a lick.
-他把邮票舔了一下。
-It is a good way to soak off the stamp from an envelope.
-从信封上取下邮票的好方法就是把它浸掉下来。
-He carefully stripped away the transparent paper and took out a valuable stamp.
-他小心地剥去透明纸，拿出了一张名贵的邮票。
-
-**** a letter
-英  ['letə]   美  ['lɛtɚ]
-n. 信；字母，文字；证书；文学，学问；字面意义
-vt. 写字母于
-vi. 写印刷体字母
-n. (Letter)人名；(英)莱特
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-letter /ˈlɛtə/  CET4 TEM4
-N-COUNT If you write a letter to someone, you write a message on paper and send it to them, usually through the mail. 信
-例：
-I had received a letter from a very close friend.
-我收到了一位非常亲近的朋友的来信。
-例：
-...a letter of resignation.
-…一封辞职信。
-N-COUNT Letters are written symbols which represent one of the sounds in a language. 字母
-例：
-...the letters of the alphabet.
-…字母表中的字母。
-V-I If a student letters in sports or athletics by being part of the university or college team, they are entitled to wear on their jacket the initial letter of the name of their university or college. (因体育运动出色) 赢得校名首字母徽章
-例：
-Burkoth lettered in American football.
-伯考斯在足球赛中赢得了校名首字母徽章。
-→ see also covering letter , newsletter
-网络释义 专业释义 英英释义
-
- 书信
- 字母
- 字母
- Letter (纸张尺寸)
-短语
-Comfort letter 安慰函
-Comfort letter 告慰信
-Comfort letter 信心保证书
-Comfort letter 安慰信
-Application Letter 求职信
-  更多结果
-词组短语 同近义词 同根词
-
-letter of credit n. [商]（银行发行的）信用证
-to the letter 严格地，不折不扣地；严格按照字句
-write a letter 写信
-by letter 以书信形式
-cover letter 附信
-  更多词组短语
-双语例句 原声例句 权威例句
-
-Please address the letter for me.
-请在信里给我写上住址。
-Her letter hints of her love to (towards) me.
-她的来信暗示了她对我的爱。
-The letter passed from one to another until everyone had read it.
-这封信从一个人转手到另一个人直到每个人都看过。
-
-**** a telegram
-
-英  ['telɪgræm]   美  ['tɛlɪɡræm]
-n. 电报
-vt. 用电报发送
-vi. 发电报
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-telegram /ˈtɛlɪˌɡræm/  CET4 TEM4
-N-COUNT A telegram is a message that is sent by telegraph and then printed and delivered to someone's home or office. 电报
-例：
-The president received a briefing by telegram.
-总裁收到了一份电报简报。
-网络释义 专业释义 英英释义
-
- 电报
- 通过电报机发送的消息
- 收发电报
- 指具体的
-短语
-telephoned telegram 电话电报
-telephoned telegram 德律风电报
-telegram draft 电文底稿
-Overseas Telegram 海外电报
-Overseas Telegram 海外电报
-  更多结果
-词组短语 同近义词 同根词
-
-to send a telegram 发电报
-urgent telegram 急电
-双语例句 原声例句 权威例句
-
-What do you make of this telegram?
-你怎么理解这份电报的意思?
-He was not alarmed at receiving the telegram.
-他接到这封电报时并不心慌。
-They rifled through the whole file but could not find the secret telegram.
-他们把整个卷宗翻了一遍，也没有找到那份秘密电报。
-
-**** a checkbook
-英  ['tʃekbuk]   美  ['tʃekbuk]
-n. 支票簿
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-checkbook /ˈtʃɛkˌbʊk/
-网络释义 专业释义 英英释义
-
- 支票簿
- 支票本
- 核算
- 支票
-短语
-Checkbook Cases 支票夹
-balance checkbook 核对
-Your Checkbook 你的银行卡
-Your Checkbook 你的
-Your Checkbook 银行卡
-  更多结果
-同近义词
-
-n. 支票簿
-cheque-book
-双语例句 权威例句
-
-Open the checkbook, and protests will stop.
-打开支票簿，抗议活动即将停止。
-article.yeeyan.org
-Oh, by the way, it will positively impact your checkbook too.
-哦，顺便说一下，这对你的支票簿也会产生积极的影响。
-article.yeeyan.org
-Teach someone a useful skill – cooking, changing a tire, balancing a checkbook.
-教给他人一项有用的技术——例如烹调、拆换轮胎，平衡支票簿。
-
-
-**** a loan
-
-英  [ləʊn]   美  [lon]
-n. 贷款；借款
-vi. 借出
-vt. 借；借给
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-loan /ləʊn/  CET4 TEM4
-N-COUNT A loan is a sum of money that you borrow. 贷款
-例：
-The country has no access to foreign loans or financial aid.
-该国得不到外国贷款或财政援助。
-例：
-The president wants to make it easier for small businesses to get bank loans.
-总统想使小公司能更容易地获得银行贷款。
-→ see also bridge loan , soft loan
-N-SING If someone gives you a loan of something, you borrow it from them. 借用
-例：
-I am in need of a loan of a bike for a few weeks.
-我需要借辆自行车来用几周。
-V-T If you loan something to someone, you lend it to them. 借出
-例：
-He had kindly offered to loan us all the plants required for the exhibit.
-他友好地主动提出了借给我们展览会所需的全部植物。
-PHRASAL VERB Loan out means the same as . 借出
-例：
-It is common practice for clubs to loan out players to sides in the lower divisions.
-将球员借给下级球队是俱乐部的惯例。
-PHRASE If something is on loan, it has been borrowed. 借来的
-例：
-...impressionist paintings on loan from the National Gallery.
-…从国家美术馆借来的印象派画作。
-网络释义 专业释义 英英释义
-
- 贷款
- 贷款
- 租借
- 借款
-短语
-Syndicated loan 银团贷款
-Syndicated loan 银团贷款
-Syndicated loan 辛迪加贷款
-Syndicated loan 财团放款
-loan stock 贷款债券
-  更多结果
-词组短语 同近义词
-
-on loan 借用；借贷；借调
-bank loan 银行贷款
-mortgage loan 按揭贷款；抵押借款
-loan interest 贷款利息
-student loan 助学贷款
-  更多词组短语
-双语例句 原声例句 权威例句
-
-We obtained a loan from the government.
-我们得了一笔政府贷款。
-If you ask him for a loan, he'll come through.
-如果你向他贷款，他会满足你的要求的。
-The company won't keep going unless we can get some loan.
-除非我们能搞到贷款，否则公司就维持不下去了。
-
-**** a deposit account
-
-美
-[金融] 存款帐户；储蓄存款
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-deposit account
-N-COUNT A deposit account is the same as a savings account. 定期存款账户 (savings account)
-
-**** deposit
- 英  [dɪ'pɒzɪt]  美  [dɪ'pɑzɪt]
-n. 存款；押金；订金；保证金；沉淀物
-vt. 使沉积；存放
-vi. 沉淀
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-deposit /dɪˈpɒzɪt/  CET4 TEM4
-N-COUNT A deposit is a sum of money which is part of the full price of something, and which you pay when you agree to buy it. 保证金
-例：
-The initial deposit required to open an account is a minimum 100 dollars.
-开户需要的首笔存入额是至少100美元。
-N-COUNT A deposit is a sum of money which is in a bank account or savings account, especially a sum which will be left there for some time. 存款
-N-COUNT A deposit is an amount of a substance that has been left somewhere as a result of a chemical or geological process. 沉积物; 矿床
-例：
-...underground deposits of gold and diamonds.
-…黄金和钻石的地下矿床。
-N-COUNT A deposit is a sum of money which you pay when you start renting something. The money is returned to you if you do not damage what you have rented. 押金
-例：
-I put down a $500 security deposit for another apartment.
-我为另一套公寓支付了$500押金。
-N-COUNT A deposit is a sum of money which you put into a bank account. 银行存款
-例：
-She told me I should make a deposit every week and they'd stamp my book.
-她告诉我我每周都要存一次钱，而他们会在我的存折上盖印。
-V-T If you deposit a sum of money, you put it into a bank account or savings account. 存储
-例：
-The customer has to deposit a minimum of $100 monthly.
-顾客每月必须至少存入$100。
-V-T To deposit someone or something somewhere means to put them or leave them there. 放置
-例：
-Mr. Crenshaw deposited the boys and their suitcases on Mr. Peck's lawn.
-克伦肖先生把男孩子和他们的手提箱留在了派克先生的草坪上。
-V-T If you deposit something somewhere, you put it where it will be safe until it is needed again. 寄存
-例：
-You are advised to deposit valuables in the hotel safe.
-建议您将贵重物品寄存在旅馆的保险柜里。
-网络释义 专业释义 英英释义
-
- 存款
- 押金
- 定金
- 选举按金
-短语
-Placer deposit 漂砂沉积
-Placer deposit 砂积矿床
-Placer deposit 砂砾矿床
-Placer deposit 砂矿床
-legal deposit 法定送存
-  更多结果
-词组短语 同近义词 同根词
-
-ore deposit 矿床；矿层
-deposit insurance 存款保险
-deposit account 存款帐户；储蓄存款
-bank deposit 银行存款
-time deposit 定期存款
-  更多词组短语
-双语例句 原声例句 权威例句
-
-He has a large deposit in the bank.
-他在银行里有大笔存款。
-There is some deposit in the bottom of the flask.
-这只烧杯的底部有些沉淀物。
-To reach iron-ore deposit,they had to bore through solid rock.
-为了达到铁矿矿床，他们只好钻透坚硬的岩石。
-
-**** account
- 英  [ə'kaʊnt]   美  [ə'kaʊnt]
-n. 账户；解释；账目，账单；理由；描述
-vi. 解释；导致；报账
-vt. 认为；把…视为
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-account /əˈkaʊnt/  CET4 TEM4
-N-COUNT If you have an account with a bank or a similar organization, you have an arrangement to leave your money there and take some out when you need it. 账户
-例：
-Some banks make it difficult to open an account.
-有些银行使开一个账户困难重重。
-N-COUNT In business, a regular customer of a company can be referred to as an account, especially when the customer is another company. 客户
-例：
-All three Internet agencies boast they've won major accounts.
-所有的三家网络代理公司都夸口说他们已赢得了大客户。
-N-COUNT Accounts are detailed records of all the money that a person or business receives and spends. 账目
-例：
-He kept detailed accounts.
-他保存了详细的账目。
-N-COUNT An account is a written or spoken report of something that has happened. 报道
-例：
-He gave a detailed account of what happened on the fateful night.
-他对那个决定命运的夜晚所发生的事情做了一个详细的报道。
-→ see also accounting , bank account , checking account , deposit account
-PHRASE If you say that something is true by all accounts or from all accounts, you believe it is true because other people say so. 据说
-例：
-He is, by all accounts, a superb teacher.
-据说，他是一名优秀的教师。
-PHRASE If you say that something is of no account or of little account, you mean that it is very unimportant and is not worth considering. 无足轻重的
-例：
-These obscure groups were of little account in either national or international politics.
-这些无名的组织在国内或国际政治中都是无足轻重的。
-PHRASE If you buy or pay for something on account, you pay nothing or only part of the cost at first, and pay the rest later. 以赊账方式
-例：
-He was ordered to pay the company $500,000 on account pending a final assessment of his liability.
-在对他的债务做最后的评估期间，他被命令先付这家公司50万美元。
-PHRASE You use on account of to introduce the reason or explanation for something. 由于
-例：
-The president declined to deliver the speech himself, on account of a sore throat.
-那位总统由于嗓子疼拒绝亲自发表演讲。
-PHRASE Your feelings on someone's account are the feelings you have about what they have experienced or might experience, especially when you imagine yourself to be in their situation. 为 (某人的) 缘故 (而感到…)
-例：
-Mollie told me what she'd done and I was really scared on her account.
-莫丽告诉了我她做过的事情，我真为她感到害怕。
-PHRASE If you tell someone not to do something on your account, you mean that they should do it only if they want to, and not because they think it will please you. (不) 为 (某人的) 缘故 (而做某事)
-例：
-Don't leave on my account.
-不要因为我而离开。
-PHRASE If you say that something should on no account be done, you are emphasizing that it should not be done under any circumstances. 绝对不
-例：
-On no account should the mixture come near boiling.
-这种混合物绝对不应当接近沸点。
-PHRASE If you do something on your own account, you do it because you want to and without being asked, and you take responsibility for your own action. 随 (某人) 自己
-例：
-I told him if he withdrew it was on his own account.
-我告诉他，如果他退出那么他要自负其则。
-PHRASE If you take something into account, or take account of something, you consider it when you are thinking about a situation or deciding what to do. 考虑到
-例：
-The defendant asked for 21 similar offences to be taken into account.
-该被告请求将21项相似的犯罪罪行考虑在内。
-PHRASE If someone is called, held, or brought to account for something they have done wrong, they are made to explain why they did it, and are often criticized or punished for it. 追究
-例：
-Individuals who repeatedly provide false information should be called to account for their actions.
-反复提供虚假情报的人应为其行为而受到追究。
-PHRASE If you say that someone gave a good account of themselves in a particular situation, you mean that they performed well, although they may not have been completely successful. 表现很好
-例：
-We have been hindered by our lack of preparation, but I'm sure we will give a good account of ourselves.
-我们曾经为缺乏准备所阻，但我肯定我们会表现很好的。
-网络释义 专业释义 英英释义
-
- 帐户
- 账户
- 会计科目
- 帐目
-短语
-account number 帐目编号
-account number 帐号
-account number 会员帐号
-account number 银行帐号
-account executive 客户经理
-  更多结果
-词组短语 同近义词 同根词
-
-account of 在某人帐上重视，	记帐
-account for 对…负有责任；对…做出解释；说明……的原因
-your account 您的帐号
-take into account 考虑；重视；体谅
-on account 记帐，赊帐；分期付款
-  更多词组短语
-双语例句 原声例句 权威例句
-
-His account contradicted itself.
-他的解释自相矛盾。
-These figures disagree with our account.
-这些数字与我们的账单不符。
-You must account to father what you have done.
-你必须把你的所作所为对父亲解释清楚。
-
-**** a check
-
-check
- 英  [tʃek]   美  [tʃɛk]
-vt. 检查，核对；制止，抑制；在…上打勾
-vi. 核实，查核；中止；打勾；[象棋]将一军
-n. <美>支票；制止，抑制；检验，核对
-n. （英）切克（人名）
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-check /tʃɛk/  CET4 TEM4
-V-T/V-I If you check something such as a piece of information or a document, you make sure that it is correct or satisfactory. 检查; 核实
-例：
-Check the accuracy of everything in your résumé.
-核查你简历中每一项的准确性。
-例：
-I think there is an age limit, but I'd have to check.
-我觉得是有年龄限制的，但我得去核实一下。
-例：
-She hadn't checked whether she had a clean, ironed shirt.
-她没有查看自己是否有件干净并熨好的衬衣。
-N-COUNT Check is also a noun. 检查; 核实
-例：
-He is being constantly monitored with regular checks on his blood pressure.
-他一直受到持续地监测，接受定期的血压检测。
-V-I If you check on someone or something, you make sure they are in a safe or satisfactory condition. 察看
-例：
-Stephen checked on her several times during the night.
-斯蒂芬夜间察看了她几次。
-V-T If you check something that is written on a piece of paper, you put a mark, like a V with the right side extended, next to it to show that something is correct or has been selected or dealt with. 打勾
-V-T To check something, usually something bad, means to stop it from spreading or continuing. 抑制
-例：
-Sex education is also expected to help check the spread of AIDS.
-性教育也有望抑制艾滋病的蔓延。
-V-T When you check your luggage at an airport, you give it to an official so that it can be taken on to your plane. 托运
-例：
-We arrived at the airport, checked our baggage and wandered around the gift shops.
-我们到达了机场，托运了行李，然后逛了逛礼品店。
-PHRASAL VERB To check in your luggage means the same as to it. 托运
-例：
-They checked in their luggage and found seats in the departure lounge.
-他们托运了行李，然后在候机室找到了座位。
-N-COUNT The check in a restaurant is a piece of paper on which the price of your meal is written and which you are given before you pay. (餐馆的) 账单
-N-COUNT A pattern of squares, usually of two colours, can be referred to as checks or a check. 格子图案 (通常双色)
-例：
-Styles include stripes and checks.
-样式有条纹的和格子的。
-N-COUNT
-check →see cheque
-PHRASE If something or someone is held in check or is kept in check, they are controlled and prevented from becoming too great or powerful. 抑制住某物
-例：
-Life on Earth will become unsustainable unless population growth is held in check.
-地球上的生命将无法延续，除非人口增长得到控制。
-→ see also double-check , rain check
-网络释义 专业释义 英英释义
-
- 检查
- 支票
- 核对
- 约束
-短语
-check valve 单向阀
-check valve 止回阀
-check valve 逆止阀
-check valve 检验阀
-check digit 校验数位
-  更多结果
-同近义词 同根词
-
-n. 检查；制止；寄存
-examine, inspect, review, park
-n. [金融]支票；阻止；阻止物
-prevention, cheque
-双语例句 原声例句 权威例句
-
-Her letter enclosed a check.
-她信函内附有一张支票。
-Please check out these names and numbers.
-请把这些姓名和号码检查一下。
-Each month we reconcile our check book with the bank statement.
-我们每个月都把支票簿与银行结账单核对一次。
-
-**** percent
-英  [pə'sent]   美  [pɚ'sɛnt]
-n. 百分比，百分率；部分；百分数
-adj. 百分之…的
-adv. 以百分之…地
-
-**** an account
-
-*** text
-to close an account
-
-to open an account
-
-to write out a check
-
-to withdraw money
-
-to depost money
-
-to take out a loan
-
-
-to send
-
-to receive
-
-to enter
-
-to exit
-
-英  ['eksɪt; 'egzɪt]  美  ['ɛɡzɪt]
-n. 出口，通道；退场
-vi. 退出；离去
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-exit /ˈɛɡzɪt, ˈɛksɪt/  CET4 TEM4
-N-COUNT The exit is the door through which you can leave a public building. 出口
-例：
-He picked up the case and walked toward the exit.
-他提起箱子朝出口走去。
-N-COUNT An exit on a motorway is a place where traffic can leave it. (公路的) 出口
-例：
-She continued to the next exit, got off the motorway and pulled into a parking lot.
-她继续开到下个出口，出了公路，驶入一个停车场。
-N-COUNT If you refer to someone's exit, you are referring to the way that they left a room or building, or the fact that they left it. 离场
-例：
-I made a hasty exit and managed to open the gate.
-我匆忙离场，设法打开了大门。
-N-COUNT If you refer to someone's exit, you are referring to the way that they left a situation or activity, or the fact that they left it. 退场; 退出
-例：
-It's her earliest exit from Wimbledon since going out in the opening round in 1997.
-这是她自1997年首轮出局以来最早一次从温布尔顿网球赛出局。
-V-T/V-I If you exit from a room or building, you leave it. 离开
-例：
-She exits into the tropical storm.
-她走出去，进入热带风暴。
-例：
-As I exited the final display, I entered a hexagonal room.
-走出最后一个展览我便进入了一间六角形的房间。
-V-T If you exit a computer program or system, you stop running it. 退出
-例：
-I can open other applications without having to exit WordPerfect.
-我可以在不退出的情况下打开其他应用程序。
-N-SING Exit is also a noun. 退出
-例：
-Press Exit to return to your document.
-按“退出”键返回到你的文档。
-网络释义 专业释义 英英释义
-
- 出口
- 退出
- 离开
- 退场
-短语
-exit barriers 退出壁垒
-exit barriers 离去障碍
-exit barriers 退出障碍
-exit barriers 退出障碍
-Exit Wounds 以毒攻毒
-  更多结果
-词组短语 同近义词
-
-exit strategy 退出策略；回收策略；退出投资策略
-emergency exit 紧急出口，太平门
-exit velocity 出口速度，排出速度
-exit door 安全出口门；出口门
-exit area 出口截面面积
-  更多词组短语
-双语例句 原声例句 权威例句
-
-The exit of the tunnel is concealed.
-地道的出口开在隐秘的地方。
-Let’s turn off the motorway at exit 9.
-咱们在第9出口下高速公路吧。
-To his surprise,he swept through the exit easily.
-令他惊奇的是，他竟然轻易地出境了。
-
-
-to yield interest
-
-yield
- 英  [jiːld]   美  [jild]
-vt. 屈服；出产，产生；放弃
-vi. 屈服，投降
-n. 产量；收益
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-yield /jiːld/  CET4 TEM4
-V-I If you yield to someone or something, you stop resisting them. 屈服
-例：
-Carmen yielded to general pressure and grudgingly took the child to a specialist.
-卡门屈服于普遍的压力，不得已带孩子去看了位专科大夫。
-V-T If you yield something that you have control of or responsibility for, you allow someone else to have control or responsibility for it. 放弃
-例：
-He may yield control.
-他可能放弃控制权。
-V-I If a moving person or a vehicle yields, they slow down in order to allow other people or vehicles to pass in front of them. 让行
-例：
-When entering a trail or starting a descent, yield to other skiers.
-进入滑道或开始下滑时，给其他滑雪者们让行。
-例：
-...examples of common signs like No Smoking and Yield.
-…像“禁止吸烟”和“让行”这样的常见标志例子。
-V-I If something yields, it breaks or moves position because force or pressure has been put on it. (因受力或受压而) 破碎; 断裂; 移位
-例：
-He reached the massive door of the barn and pushed. It yielded.
-他够着了畜棚厚重的大门推了推。门开了。
-V-T If an area of land yields a particular amount of a crop, this is the amount that is produced. You can also say that a number of animals yield a particular amount of meat. 产
-例：
-Last year 400,000 acres of land yielded a crop worth $1.75 billion.
-去年40万英亩的土地出产了价值17.5亿美元的粮食。
-N-COUNT A yield is the amount of food produced on an area of land or by a number of animals. 产量
-例：
-...improving the yield of the crop.
-…增加农作物的产量。
-V-T If a tax or investment yields an amount of money or profit, this money or profit is obtained from it. 产生 (收益)
-例：
-It yielded a profit of at least $36 million.
-它带来了至少三千六百万美元的利润。
-N-COUNT A yield is the amount of money or profit produced by an investment. (投资的) 利润; 收益
-例：
-...a yield of 4%.
-…4%的收益。
-例：
-The high yields available on the dividend shares made them attractive to private investors.
-股息股能获得的高收益使它们对私人投资者们很有吸引力。
-V-T If something yields a result or piece of information, it produces it. 产生 (结果); 制造 (消息)
-例：
-This research has been in progress since 1961 and has yielded a great number of positive results.
-这项研究自1961年以来一直在开展，已经取得了大量的积极成果。
-网络释义 专业释义 英英释义
-
- 屈服
- 收率
- 收益
- 屈服
-短语
-yield curve 收益曲线
-yield curve 收益率曲线
-yield curve 殖利率曲线
-yield curve 收率曲线
-Sustainable yield 可维持产量
-  更多结果
-词组短语 同近义词 同根词
-
-high yield 高产；高收益
-yield strength 屈服强度；屈变力；抗屈强度
-low yield 低产，低产量；低良率
-product yield 产品产量；成品收率
-crop yield 粮食产量，作物产量；谷物收获量
-  更多词组短语
-双语例句 原声例句 权威例句
-
-We shall never yield to a conqueror.
-我们绝不会向征服者屈服。
-We must do everything to raise the per unit yield.
-我们要千方百计提高单位面积产量。
-The yield of rice will rise to 700 kilograms per mu.
-水稻的产量将上升到每亩700公斤。
-
-**** interest
- 英  ['ɪnt(ə)rɪst]   美  ['ɪntrəst]
-n. 兴趣，爱好；利息；趣味；同行
-vt. 使……感兴趣；引起……的关心；使……参与
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-interest /ˈɪntrɪst, -tərɪst/  CET4 TEM4
-N-UNCOUNT If you have an interest in something, you want to learn or hear more about it. 兴趣
-例：
-There has been a lively interest in the elections in the last two weeks.
-过去两周人们对选举一直有强烈的兴趣。
-例：
-She'd liked him at first, but soon lost interest.
-最初她喜欢过他，但很快就失去了兴趣。
-N-COUNT Your interests are the things that you enjoy doing. 爱好
-例：
-Encourage your child in her interests and hobbies.
-鼓励你的孩子发展她的兴趣和爱好。
-V-T If something interests you, it attracts your attention so that you want to learn or hear more about it or continue doing it. 使感兴趣
-例：
-Your financial problems do not interest me.
-我对你的财务问题不感兴趣。
-V-T If you are trying to persuade someone to buy or do something, you can say that you are trying to interest them in it. 引起 (购买或做某事) 的意愿
-例：
-Can I interest you in a new car?
-我给你介绍一下新车，你感兴趣吗？
-N-COUNT If something is in the interests of a particular person or group, it will benefit them in some way. 利益
-例：
-Did those directors act in the best interests of their club?
-那些董事们是从他们俱乐部的最大利益出发而行动的吗？
-N-COUNT You can use interests to refer to groups of people who you think use their power or money to benefit themselves. 利益集团
-例：
-The government accused unnamed "foreign interests" of inciting the trouble.
-政府不点名地指责一些“外国利益集团”煽动骚乱。
-N-COUNT A person or organization that has an interest in an area, a company, a property or in a particular type of business owns stock in it. 股权
-例：
-My father had many business interests in Vietnam.
-我父亲在越南有许多公司股权。
-N-COUNT If a person, country, or organization has an interest in a possible event or situation, they want that event or situation to happen because they are likely to benefit from it. 利害关系
-例：
-The West has an interest in promoting democratic forces in Eastern Europe.
-西方国家在促使东欧民主力量壮大中有利害关系。
-N-UNCOUNT Interest is extra money that you receive if you have invested a sum of money. Interest is also the extra money that you pay if you have borrowed money or are buying something on credit. 利息
-例：
-Does your current account pay interest?
-你的活期存款账户计息吗？
-→ see also interested , interesting , compound interest , self-interest , vested interest
-PHRASE If you do something in the interests of a particular result or situation, you do it in order to achieve that result or maintain that situation. 为了…的利益
-例：
-...a call for all businessmen to work together in the interests of national stability.
-…为了国家稳定而向所有商人发出的共同合作的号召。
-to have someone's interests at heart →see heart
-网络释义 专业释义 英英释义
-
- 利息
- 兴趣
- 利益
- 利息
-短语
-insurable interest 保险利益
-insurable interest 可保利益
-insurable interest 可保权益
-insurable interest 可保险产权
-absolute interest 绝对权益
-  更多结果
-词组短语 同近义词 同根词
-
-interest in 对…有兴趣
-of interest 有…兴趣；权益的转易
-interest rate [经]利率
-public interest 公共利益
-no interest 没兴趣；免付利息
-  更多词组短语
-双语例句 原声例句 权威例句
-
-His report aroused the interest of all.
-他的报告引起了大家的兴趣。
-www.kfyes.com
-This subject has no interest for [to] me.
-这题目对我来说没有什么趣味。
-The new novel engaged his attention and interest.
-这部新小说引起了他的注意和兴趣。
-
-*** to receive
-
-英  [rɪ'siːv]   美  [rɪ'siv]
-vt. 收到；接待；接纳
-vi. 接收
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-receive /rɪˈsiːv/  CET4 TEM4
-V-T When you receive something, you get it after someone gives it to you or sends it to you. 接到; 收到
-例：
-They will receive their awards at a ceremony in Stockholm.
-他们将在斯德哥尔摩的典礼上接受给他们的奖励。
-V-T You can use receive to say that certain kinds of things happen to someone. For example if they are injured, you can say that they received an injury. 受到; 遭受
-例：
-He received more of the blame than anyone when the plan failed to work.
-当计划失败之后他受到的指责比任何人都多。
-V-T When you receive a visitor or a guest, you greet them. 接待; 迎接
-例：
-The following evening the hotel was again receiving guests.
-第二天晚上饭店又接待起客人来。
-V-T If you say that something is received in a particular way, you mean that people react to it in that way. (用某种特定方式) 回应
-例：
-The resolution had been received with great disappointment within the PLO.
-巴勒斯坦解放组织内部对此决议感到极其失望。
-V-T When a radio or television receives signals that are being transmitted, it picks them up and converts them into sound or pictures. 接收 (信号)
-例：
-The reception was a little faint but clear enough for him to receive the signal.
-接收有些弱，但足够清晰到使他能够接收信号。
-PHRASE If you are on the receiving end or at the receiving end of something unpleasant, you are the person that it happens to. 成为 (不愉快事件的) 承受方
-例：
-You saw hate in their eyes and you were on the receiving end of that hate.
-你在他们的眼中看到仇恨，而你就是那仇恨的对象。
-网络释义 专业释义 英英释义
-
- 收到
- 得到
- 接受
- 接待
-短语
-Serve receive 接发球
-attack receive 接攻击球
-attack receive 接对方扣球
-attack receive 接扣球
-attack receive 接打击球
-  更多结果
-同近义词 同根词
-
-n. 收到；接待；接纳
-acknowledge receipt of, to hand
-n. 接收
-take over
-双语例句 原声例句 权威例句
-
-I can hardly receive him in the present case.
-照眼前这个情况， 我还不能接纳他。
-You will receive the full equivalent of your money.
-你将收到与你的款项价值完全同等的物品。
-They will post the ticket to me as soon as they receive my cheque.
-他们收到我的支票后就立刻把票寄给我。
-
-to deliver
-
-英  [dɪ'lɪvə]   美  [dɪ'lɪvɚ]
-vt. 交付；发表；递送；释放；给予（打击）；给…接生
-vi. 实现；传送；履行；投递
-n. 投球
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-deliver /dɪˈlɪvə/  CET4 TEM4
-V-T If you deliver something somewhere, you take it there. 递送
-例：
-The Canadians plan to deliver more food to southern Somalia.
-加拿大人计划向索马里南部运送更多的食物。
-V-T/V-I If you deliver something that you have promised to do, make, or produce, you do, make, or produce it. 实现; 履行
-例：
-They have yet to show that they can really deliver working technologies.
-他们仍需证明他们确实能够实现可用的技术。
-例：
-The question is, can he deliver?
-问题是他能履行吗？
-V-T If you deliver a lecture or speech, you give it in public. 发表
-例：
-The president will deliver a speech about schools.
-校长将发表关于学校的演讲。
-V-T When someone delivers a baby, they help the woman who is giving birth to the baby. 给 (产妇) 接生
-例：
-Although we'd planned to have our baby at home, we never expected to deliver her ourselves!
-尽管我们是打算在家生孩子，可我们从未想过要自己给她接生!
-V-T If someone delivers a blow to someone else, they hit them. 给予 (打击)
-例：
-Those blows to the head could have been delivered by a woman.
-头上挨的那些打可能是一个女人所为。
-网络释义 专业释义 英英释义
-
- 投递
- 交付
- 发出
- 发表
-短语
-Deliver Me 拯救我
-Deliver Me 忏魂曲
-Deliver Me 给我
-Deliver Me 解救我
-Deliver pamphlets 派传单
-  更多结果
-词组短语 同近义词 同根词
-
-deliver the goods 交货；履行诺言
-deliver goods 交货
-deliver a speech 发表演讲；发表讲话
-deliver up 交出，放弃
-deliver from 从…处释放出来
-双语例句 原声例句 权威例句
-
-Deliver us from evil.
-拯救我们脱离邪恶。
-Do we have the resources to deliver the solution?
-我们拥有交付解决方案的资源吗？
-www.ibm.com
-Then, from his workspace, he can deliver the changes to the stream.
-然后，从这个工作空间，他可以交付变更到流程。
-
-
-The woman with the small, red bag is entering the bank.
-
-In the hotel there's an ATM.
-
-To the right of the bank there's a post office.
-
-The postman with the big, heavy bag is exiting the post office.
-
-Across from the hotel there is a bank.
-
-The postman delivers letters and telegrams.
-
-The girl buys an envelope and stamps at the bank.
-
-The woman receives a telegram from her father.
-
-The girl is putting the postcard into the mailbox.
-
-The man is sending a package with presents to his family.
-
-The boy is sending a letter with his photograph to his grandma.
-
-The woman finds a postcard from her mother in the mailbox.
-
-
-The man is opening an account at the bank.
-
-The young man is withdrawing money at the ATM because the ATM is closed to home.
-
-The woman wants to cash a check.
-
-The woman is writing out a check.
-
-The man is making a purchase in the store. He's not writing out a check. He's
-paying with a credit card.
-
-The man in the bank is getting out his check book.
-
-
-The man wants to take out a loan at the bank.
-
-The deposit account yields interest, but an account at the bank doesn't.
-
-The family opens a deposit account at the bank.
-
-The man is investing money in an account at the bank.
-
-**** investe
-
-英  [ɪn'vest]   美  [ɪn'vɛst]
-vt. 投资；覆盖；耗费；授予；包围
-vi. 投资，入股；花钱买
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-invest /ɪnˈvɛst/  CET4 TEM4
-V-T/V-I If you invest in something, or if you invest a sum of money, you use your money in a way that you hope will increase its value, for example, by putting it in a bank, or buying securities or property. 投 (资); 投资
-例：
-Many people don't like to invest in stocks.
-许多人不喜欢投资股票。
-例：
-I'm tired of watching you invest our money in insane projects.
-我看够了你将我们的钱投到一些荒唐的项目上。
-V-T/V-I If you invest in something useful, you buy it, because it will help you to do something more efficiently or more cheaply. 购买
-例：
-The company has invested a six-figure sum in an electronic order-control system which is used to keep stores stocked.
-这家公司已经耗资6位数购买了电子定单控制系统来为商店进货。
-V-T/V-I When a government or organization invests in something, it gives or lends money for a purpose that it considers useful or profitable. (政府或机构) 投资
-例：
-...the need to invest in new technology.
-…这种投资于新技术的需要。
-例：
-Government agencies must invest more funds in training and development programmes.
-政府机构必须将更多的资金投入到培训和开发项目中。
-V-T If you invest time or energy in something, you spend a lot of time or energy on it because you think it will be useful or successful. 投入 (时间、精力)
-例：
-I would rather invest time in Rebecca than in the kitchen.
-我宁愿把时间花在丽贝卡身上，也不愿花在厨房里。
-V-T To invest someone with rights or responsibilities means to give them those rights or responsibilities legally or officially. 赋予
-例：
-The constitution invested him with certain powers.
-宪法赋予了他一些权力。
-网络释义 专业释义 英英释义
-
- 投资
- 投入
- 赋与
- 投
-短语
-emotion invest 感情投资
-invest with 授予
-invest with 投资有
-Invest KOREA 韩国投资促进局
-Invest KOREA 投资支援中心
-  更多结果
-词组短语 同近义词 同根词
-
-invest in v. 投资于；[口]买进；寄希望于
-invest with 授予
-双语例句 原声例句 权威例句
-
-Astute salesmen know how to invest emotionally.
-精明的商人懂得如何感情投资。
-The broker advised me on how to invest my money.
-经纪人告诉我怎样投资。
-Why invest time and energy in something that we all hate?
-为什么投入时间和精力去思考我们都讨厌的事情？
-
-He's searching for a loan with small interest.
-
-A woman is withdrawing money from an account at the bank.
-
-**** withdraw
-
-英  [wɪð'drɔː]   美  [wɪð'drɔ]
-vt. 撤退；收回；撤消；拉开
-vi. 撤退；离开
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-withdraw /wɪðˈdrɔː, wɪθ-/  CET4 TEM4
-V-T If you withdraw something from a place, you remove it or take it away. 移开; 拿走
-例：
-He reached into his pocket and withdrew a sheet of notepaper.
-他把手伸进口袋，拿出一张便签。
-V-T/V-I When groups of people such as troops withdraw or when someone withdraws them, they leave the place where they are fighting or where they are based and return nearer home. 使撤退; 撤退
-例：
-He stated that all foreign forces would withdraw as soon as the crisis ended.
-他声明危机一结束所有外国军队就会撤退。
-例：
-The United States has announced it is to withdraw forty-thousand troops from Western Europe in the next year.
-美国已经宣布第2年将从西欧撤回4万军队。
-V-T If you withdraw money from a bank account, you take it out of that account. (从银行) 取 (钱)
-例：
-Open a savings account that does not charge ridiculous fees to withdraw money.
-开立一个取钱时不荒唐地收取费用的储蓄账户。
-V-I If you withdraw from an activity or organization, you stop taking part in it. (从活动或组织中) 退出
-例：
-The African National Congress threatened to withdraw from the talks.
-非洲国民大会威胁要从会谈中退出。
-网络释义 专业释义 英英释义
-
- 收回
- 撤销
- 提现
- 撤回
-短语
-Withdraw money 取钱
-Withdraw money 提款
-Withdraw money 提钱
-Withdraw money 提取现金
-withdraw deposit 提款
-  更多结果
-词组短语 同近义词 同根词
-
-withdraw from v. 退出；离开
-withdraw money 取钱
-withdraw cash 取现；取钱
-withdraw troops 收兵，撤军
-双语例句 原声例句 权威例句
-
-The leader promised to support the plan;you can't withdraw now.
-领导已答应支持这项计划，你们不能收回承诺。
-But as the winter went on, I found it harder and harder to withdraw—either from the events we read and heard about, or from the zeal that seized the students in the seminar.
-但随着冬天的消逝，我发现我越来越难以撤出了——要么是我们读到或听到的那些事件，要么就是抓住研讨会上的学生们的热情使然。
-article.yeeyan.org
-Sometimes this will make us withdraw, but it can also motivate us to shift our attention or change our learning strategy, he says.
-有时困惑会使我们撤退，但它也能激励我们转移注意力或者改变我们的学习策略，他如是说道。
-
-
-At the bank you don't send letters. There you open an account or take out a
-loan.
-
-At the post office you don't take out a loan. There you receive and send
-letters.
-
-A telegram travels fast, but a letter - slowly.
-
-The mailman doesn't deliver checkbooks. You get thoes at the bank.
-
-The bank works five days a week, but the post office works six.
-
-The bank works half the day, but post office works the whole day.
-
-
-The family likes this house. They want to take out a loan and buy it.
-
-A woman wants to pay with her credit card and not withdraw money from her
-account.
-
-The man doesn't like this bank. He wants to close his account.
-
-The boy wants to write out a check, but he doesn't have a checkbook.
-
-The woman likes this bank. She wants to open a deposit account.
-
-The man wants to take out a loan, but he doesn't want to pay the bank interest.
-
-
-In order to send a letter, you need an envelope and stamps.
-
-In order to take out a loan, you need a passport.
-使变细；与…搂著脖子亲吻
- n. (Neck)人名；(德、意、英)内克
-  柯林斯英汉双解大词典  21 世纪大英汉词典
-
- neck /nɛk/  CET4 TEM4
- N-COUNT Your neck is tspacemacs-dark
-                         spacemacs-light
-                         solarized-light
-                         solarized-dark
-                         leuvenhe part of your body which joins your head to the rest of your body. 颈
- 例：
- She threw her arms around his neck and hugged him warmly.
- 她伸出双臂搂住他的脖子，热烈地拥抱他。
- N-COUNT The neck of an article of clothing such as a shirt, dress, :LOGBOOK:
- CLOCK: [2016-07-12 Tue 03:01]--[2016-07-12 Tue 04:48] =>  1:47
- :END:or sweater is the part which surrounds your neck. 领口
- 例：
- ...the low, ruffled neck of her blouse.
- …她褶边低胸的衬衫领口。
- N-COUNT The neck of something such as a bottle or a guitar is the long narrow part at one end of it. (瓶子、吉他等的) 颈状部位
- 例：
- Catherine gripped the broken neck of the bottle.
- 凯瑟琳紧握着破裂的瓶颈。
- PHRASE If you say that someone is breathing down your neck, you mean that they are watching you very closely and checking everything you do. 密切监视
- 例：
- Most farmers have loan officers breathing down their necks.
- 大多数农场主受到信贷员的密切监视。
- PHRASE In a competition, especially an election, if two or more competitors are neck and neck, they are level with each other and have an equal chance of winning. 势均力敌
- 例：
- The latest polls indicate that the two main parties are neck and neck.
- 最新的民意测验显示两个主要政党势均力敌。
- PHRASE If you stick your neck out, you bravely say or do something that might be criticized or might turn out to be wrong. 敢说敢干
- 例：
- During my political life I've earned myself a reputation as someone who'll stick his neck out, a bit of a rebel.
- 我在自己的政治生涯中得了一个敢说敢干、有点叛逆的名声。
- 网络释义 专业释义 英英释义
-
-  脖子
-  颈
-  颈部
-  颈
- 短语
- Stiff neck 落枕
- Stiff neck 脖子发僵
- Stiff neck 落枕
- Stiff neck 顽固之人
- goose neck 鹅颈管
-   更多结果
- 词组短语 同近义词 同根词
-
- neck and neck 并驾齐驱，不分上下
- bottle neck 瓶颈
- pain in the neck 极讨厌的人或事
- stiff neck 脖子发僵，斜颈；顽固之人
- neck of the woods 附近一带（一般指乡村地区）
-   更多词组短语
- 双语例句 原声例句 权威例句
-
- He draped his arms round her neck.
- 他双手搂住了她的脖子。
- The rain was dripping down his neck.
- 雨水沿着他的脖子往下滴。
- The doll pivots at the waist and neck.
- 那洋娃娃的腰和颈可以转动。
-  更多双语例句
- 百科
-
- Neck
-
- The neck is the part of the body, on many terrestrial or secondarily aquatic vertebrates, that distinguishes the head from the torso or trunk. The adjective (from Latin) signifying "of the neck" is cervical (though in non-technical contexts, this is more frequently used to describe the cervix).
- 来源于：维基百科
-
- literate
-  英  ['lɪt(ə)rət]   美  ['lɪtərət]
- adj. 受过教育的；精通文学的
- n. 学者
-  柯林斯英汉双解大词典  21 世纪大英汉词典
-
- literate /ˈlɪtərɪt/  CET6+ TEM8
- ADJ Someone who is literate is able to read and write. 能读会写的
- 例：
- Over one-quarter of the adult population are not fully literate.
- 四分之一以上的成年人是半文盲。
- → see also computer-literate
- 网络释义 专业释义 英英释义
-
-  有文化的
-  有读写能力的
-  识字的
-  学者
- 短语
- Literate programming 文学编程
- Literate programming 文学编程
- Literate programming 文学化编程
- Literate progr
-amming
-字面编程
- Financially Literate
-掌握一定财务知识
-   更多结果
- 词组短语 同近义词 同根词
-
- computer literate 懂电脑
- 双语例句 原声例句 权威例句
-
- The drawback of the internet is that you have to be literate to use it.
- 互联网的缺点就是人们必须得有文化才能使用它。
- article.yeeyan.org
-  更多双语例句
- 百科
-
- Literate
-
- Literacy is traditionally understood as the ability to read and write. The term's meaning has been expanded to include the ability to use language, numbers, images and other means to understand and use the dominant symbol systems of a culture. The concept of literacy is expanding in OECD countries to include skills to access knowledge through technology and ability to assess complex contexts.Literacy represents the lifelong, intellectual process of gaining meaning from a critical interpretation of written or printed text. The key to all literacy is reading development, a progression of skills that begins with the ability to understand spoken words and decode written words, and culminates in the deep understanding of text. Reading development involves a range of complex language underpinnings including awareness of speech sounds (phonology), spelling patterns (orthography), word meaning (semantics), grammar (syntax) and patterns of word formation (morphology), all of which provide a necessary platform for reading fluency and comprehension. Once these skills are acquired, the reader can attain full language literacy, which includes the abilities to apply to printed material critical analysis, inference and synthesis; to write with accuracy and coherence; and to use information and insights from text as the basis for informed decisions and creative thought. The inability to do so is called illiteracy or analphabetism.The United Nations Educational, Scientific and Cultural Organization (UNESCO) defines literacy as the "ability to identify, understand, interpret, create, communicate and compute, using printed and written materials associated with varying contexts. Literacy involves a continuum of learning in enabling individuals to achieve their goals, to develop their knowledge and potential, and to participate fully in their community and wider society".
- 来源于：维基百科
-
-
-
 * DONE Lesson Forty eitht 94.8%
   CLOSED: [2016-08-13 Sat 10:42]
   :LOGBOOK:
@@ -23421,19 +22142,1417 @@ there.
    - State "DONE"       from "STARTED"    [2016-08-17 三 05:43]
    CLOCK: [2016-08-17 三 05:14]--[2016-08-17 三 05:43] =>  0:29
    :END:
-* DONE Review Thirty one 95.3%->94.9%
-  CLOSED: [2016-08-15 Mon 06:18]
-
-  CLOSED: [2016-08-15 Mon 05:41]
+* DONE listen
+  CLOSED: [2016-07-22 Fri 21:11]
   :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-15 Mon 06:18]
-  CLOCK: [2016-08-15 Mon 05:42]--[2016-08-15 Mon 06:18] =>  0:36
-  - State "STARTED"    from "DONE"       [2016-08-15 Mon 05:42]
-  - State "DONE"       from "STARTED"    [2016-08-15 Mon 05:41]
-  :END:
-skirt
-shirt
-pillow
-clock
-computer
-s
+   - State "DONE"       from "STARTED"    [2016-07-22 Fri 21:11]
+   CLOCK: [2016-07-22 Fri 20:52]--[2016-07-22 Fri 21:11] =>  0:19
+   :END:
+* DONE listen 英语发音unit one
+  SCHEDULED: <2016-08-10 三 08:20>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-24 Sun 11:12]
+   CLOCK: [2016-07-24 Sun 10:50]--[2016-07-24 Sun 11:12] =>  0:22
+   :END:
+** words
+
+*** neck <2016-06-21 Tue>
+  英  [Thursday   28 July 2016
+  journal:     4:02- 4:04 Clocked:   (0:02) STARTED benek]   美  [nɛk]
+ n. 脖子；衣6领；海峡
+ vi. 搂著脖子亲吻；变狭窄
+ vt. teen thousand jobs could be lost.
+** TODO [#B]
+   :PROPERTIES:
+   :ID:       6E6FD271-912D-4242-9CAC-F5E84A012778
+   :END:
+美国邮政局已证实可能会丧失多达15000个就业岗位。
+
+**** a package
+
+英  ['pækɪdʒ]  美  ['pækɪdʒ]
+n. 包，包裹；套装软件，[计] 程序包
+adj. 一揽子的
+vt. 打包；将…包装
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+package /ˈpækɪdʒ/  CET4 TEM4
+N-COUNT A package is something wrapped in paper, in a bag or large envelope, or in a box, usually so that it can be sent to someone by mail. 包裹
+例：
+I tore open the package.
+我撕开了那个包裹。
+N-COUNT A package is a small container in which a quantity of something is sold. Packages are either small boxes made of thin cardboard, or bags or envelopes made of paper or plastic. 小包
+例：
+...a package of doughnuts.
+…一包炸面圈。
+N-COUNT A package is a set of proposals that are made by a government or organization and that must be accepted or rejected as a group. 一揽子建议
+例：
+...a package of measures to help the film industry.
+…一揽子帮助电影业的措施。
+V-T When a product is packaged, it is put into containers to be sold. 包装 (产品)
+例：
+The beans are then ground and packaged for sale as ground coffee.
+咖啡豆接着被磨碎、包装，以研磨咖啡销售。
+V-T If something is packaged in a particular way, it is presented or advertised in that way in order to make it seem attractive or interesting. (为使某物吸引人而) 包装
+例：
+A city is like any product, it has to be packaged properly to be attractive to the consumer.
+一座城市就像任何产品一样，需要适当地加以包装来吸引消费者。
+N-COUNT A package tour is a holiday in which your travel and your accommodations are booked for you. 包价 (旅游)
+例：
+...package tours to Egypt.
+…去埃及的包价旅游。
+网络释义 专业释义 英英释义
+
+ 包装
+ 包裹
+ 软件包
+ 打包
+短语
+transport package 运输包装
+transport package 运输包装件
+transport package 运输包装件
+sales package 销售包装
+sales package 发卖包装
+  更多结果
+词组短语 同近义词 同根词
+
+software package [计]软件包；[计]程序包
+stimulus package 刺激计划
+package design 包装设计
+remuneration package 薪酬福利条件；薪酬利益；酬金方案
+compensation package 赔偿计划；薪酬包
+  更多词组短语
+双语例句 原声例句 权威例句
+
+He planked down the package.
+他猛然放下包裹。
+He seized the package from my hand.
+他从我手中夺走了包裹。
+She directed her package to her boy friend.
+她在包裹上写上她男友的姓名地址。
+
+**** an envelop
+英  [ɪn'veləp; en-]   美  [ɪn'vɛləp]
+vt. 包围；包封；遮盖
+n. 信封；包裹
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+envelop /ɪnˈvɛləp/  TEM4
+V-T If one thing envelops another, it covers or surrounds it completely. 包裹住
+例：
+That lovely, rich fragrant smell of the forest enveloped us.
+森林那种美妙、馥郁的香气笼罩了我们。
+网络释义 专业释义 英英释义
+
+ 信封
+ 包围
+ 包被
+ 包封
+短语
+pay envelop 工资袋
+sealed envelop 密封信封内
+sealed envelop 密封包围
+sealed envelop 密封的信封
+sealed envelop 密封信封
+  更多结果
+同近义词 同根词
+
+n. 包围；包封；遮盖
+case, invest
+n. 信封；包裹
+package, parcel
+双语例句 原声例句 权威例句
+
+The envelop was imprinted with a return address.
+这个信封上印有回信地址。
+And in our mail arrived an envelop without a return address.
+而我们邮箱里收到了一个信封,上面没有写发信人地址。
+open.163.com
+Such storms can sometimes envelop the entire planet and change the characteristics of the atmosphere, making EDL far trickier.
+这样的风暴有时会包围整个火星，并改变大气层的特性，使得EDL的过程相当棘手。
+article.yeeyan.org
+ 更多双语例句
+百科
+
+Envelop
+
+EnvelopShowment is the military tactic of seizing objectives in the enemy's rear
+with the goal of destroying specific enemy forces and denying them the ability
+to withdraw. Rather than attacking an enemy head-on as in a frontal assault an
+envelopment seeks to exploit the enemy's flanks, attacking them from multiple
+directions and avoiding where their defenses are strongest. A successful
+envelopment lessens the number of casualties suffered by the attacker while
+inducing a psychological shock on the defender and improving the chances to
+destroy them. An envelopment will consist of one or more enveloping forces,
+which attacks the enemy's flank(s), and a fixing force, which attacks the
+enemy's front and "fixes" them in place so that they cannot withdraw or shift
+their focus on the enveloping forces. While a successful tactic, there are risks
+involved with performing an envelopment. The enveloping force can become
+overextended and cut off from friendly forces by an enemy counterattack, or the
+enemy can counterattack against the fixing force.According to the United States
+Army there exist four types of envelopment:
+
+**** a postcard
+
+英  ['pəʊs(t)kɑːd]  美  ['post'kɑrd]
+n. 明信片
+ 柯林斯英汉双解大词典
+
+postcard /ˈpəʊstˌkɑːd/  CET4 TEM4
+N-COUNT A postcard is a thin card, often with a picture on one side, which you can write on and mail to people without using an envelope. 明信片
+网络释义 专业释义 英英释义
+
+ 明信片
+ 明信片
+ 名信片
+ 明信片
+短语
+International Postcard 国际明信片
+International Postcard 国际邮资广告明信片
+International Postcard 国际写信的硬纸片
+International Postcard 国际明信片
+Postcard Lovers 幸福寄情
+  更多结果
+词组短语 同近义词
+
+picture postcard 美术明信片
+双语例句 原声例句 权威例句
+
+I got your postcard from the school.
+你从学校寄来的明信片我已收到。
+Still, I was not prepared for the postcard I received the next day.
+尽管如此，在收到那封明信片的时候我还是吓了一跳。
+article.yeeyan.org
+Once, long, long ago, almost forty years back, he passed through Ravenna and sent me a postcard of one of these famous mosaics.
+曾经在很久很久以前，大约四十年前吧，他经过拉文纳时给我寄来了一张这些著名的马赛克的明信片。
+article.yeeyan.org
+
+**** a stamp
+  [stæmp]  美  [stæmp]
+n. 邮票；印记；标志；跺脚
+vt. 铭记；标出；盖章于…；贴邮票于…；用脚踩踏
+vi. 跺脚；捣碎；毁掉
+n. (Stamp)人名；(德)施坦普；(英)斯坦普
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+stamp /stæmp/  CET4 TEM4
+N-COUNT A stamp or a postage stamp is a small piece of paper which you lick and stick on an envelope or package before you mail it to pay for the cost of the postage. 邮票
+例：
+...a book of stamps.
+…一本邮票册。
+例：
+As of February 3rd, the price of a first class stamp will go up to 29 cents.
+自2月3日起，每张一等邮票的价格将上涨到29分。
+N-COUNT A stamp is a small block of wood or metal which has a pattern or a group of letters on one side. You press it onto an pad of ink and then onto a piece of paper in order to produce a mark on the paper. The mark that you produce is also called a stamp. 印章; 印记
+例：
+...a date stamp and an ink pad.
+…一个日期印章和一个印泥。
+V-T If you stamp a mark or word on an object, you press the mark or word onto the object using a stamp or other device. 盖 (章); 印 (某标记); 打上 (某字)
+例：
+Car manufacturers stamp a vehicle identification number at several places on new cars to help track down stolen vehicles.
+汽车生产商们在新车车身的几个地方打上车辆识别码以帮助追查被盗车辆。
+V-T/V-I If you stamp or stamp your foot, you lift your foot and put it down very hard on the ground, for example because you are angry or because your feet are cold. 跺 (脚); 跺脚; 重重地踩
+例：
+Often he teased me till my temper went and I stamped and screamed, feeling furiously helpless.
+他过去经常取笑我直到我生气，又跺脚又尖叫，感觉非常无助。
+例：
+His foot stamped down on the accelerator.
+他一脚猛地踩下油门。
+N-COUNT Stamp is also a noun. 跺脚
+例：
+...hearing the creak of a door and the stamp of cold feet.
+…听到门的吱嘎声和因脚冷而跺脚的声音。
+V-I If you stamp somewhere, you walk there putting your feet down very hard on the ground because you are angry. (因生气而) 顿足
+例：
+"I'm going before things get any worse!" he shouted as he stamped out of the bedroom.
+“我要在情况变得更糟前离开！”他叫嚷着顿足走出了卧室。
+V-I If you stamp on something, you put your foot down on it very hard. (在…上) 用力踩
+例：
+He received the original ban last week after stamping on the referee's foot during the final.
+在决赛中狠狠地踩了裁判的脚之后，他上周受到首次禁赛处罚。
+N-SING If something bears the stamp of a particular quality or person, it clearly has that quality or was done by that person. 印记
+例：
+Most of us want to make our home a familiar place and put the stamp of our personality on its walls.
+我们大多数人都想把我们的家布置成温馨的地方并在墙壁上留下我们个性的印记。
+→ see also rubber stamp
+网络释义 专业释义 英英释义
+
+ 邮票
+ 图章
+ 印章
+ 戳记
+短语
+stamp duty 印花税
+stamp duty 厘印费
+stamp duty 股票印花税
+stamp duty 土地税
+Stamp dead スタンプ・デッド
+  更多结果
+词组短语 同近义词 同根词
+
+stamp duty 印花税
+stamp on 阻拦；踩踏
+stamp out 扑灭；踩灭
+stamp tax 印花税
+postage stamp n. 邮票
+  更多词组短语
+双语例句 原声例句 权威例句
+
+He gave the stamp a lick.
+他把邮票舔了一下。
+It is a good way to soak off the stamp from an envelope.
+从信封上取下邮票的好方法就是把它浸掉下来。
+He carefully stripped away the transparent paper and took out a valuable stamp.
+他小心地剥去透明纸，拿出了一张名贵的邮票。
+
+**** a letter
+英  ['letə]   美  ['lɛtɚ]
+n. 信；字母，文字；证书；文学，学问；字面意义
+vt. 写字母于
+vi. 写印刷体字母
+n. (Letter)人名；(英)莱特
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+letter /ˈlɛtə/  CET4 TEM4
+N-COUNT If you write a letter to someone, you write a message on paper and send it to them, usually through the mail. 信
+例：
+I had received a letter from a very close friend.
+我收到了一位非常亲近的朋友的来信。
+例：
+...a letter of resignation.
+…一封辞职信。
+N-COUNT Letters are written symbols which represent one of the sounds in a language. 字母
+例：
+...the letters of the alphabet.
+…字母表中的字母。
+V-I If a student letters in sports or athletics by being part of the university or college team, they are entitled to wear on their jacket the initial letter of the name of their university or college. (因体育运动出色) 赢得校名首字母徽章
+例：
+Burkoth lettered in American football.
+伯考斯在足球赛中赢得了校名首字母徽章。
+→ see also covering letter , newsletter
+网络释义 专业释义 英英释义
+
+ 书信
+ 字母
+ 字母
+ Letter (纸张尺寸)
+短语
+Comfort letter 安慰函
+Comfort letter 告慰信
+Comfort letter 信心保证书
+Comfort letter 安慰信
+Application Letter 求职信
+  更多结果
+词组短语 同近义词 同根词
+
+letter of credit n. [商]（银行发行的）信用证
+to the letter 严格地，不折不扣地；严格按照字句
+write a letter 写信
+by letter 以书信形式
+cover letter 附信
+  更多词组短语
+双语例句 原声例句 权威例句
+
+Please address the letter for me.
+请在信里给我写上住址。
+Her letter hints of her love to (towards) me.
+她的来信暗示了她对我的爱。
+The letter passed from one to another until everyone had read it.
+这封信从一个人转手到另一个人直到每个人都看过。
+
+**** a telegram
+
+英  ['telɪgræm]   美  ['tɛlɪɡræm]
+n. 电报
+vt. 用电报发送
+vi. 发电报
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+telegram /ˈtɛlɪˌɡræm/  CET4 TEM4
+N-COUNT A telegram is a message that is sent by telegraph and then printed and delivered to someone's home or office. 电报
+例：
+The president received a briefing by telegram.
+总裁收到了一份电报简报。
+网络释义 专业释义 英英释义
+
+ 电报
+ 通过电报机发送的消息
+ 收发电报
+ 指具体的
+短语
+telephoned telegram 电话电报
+telephoned telegram 德律风电报
+telegram draft 电文底稿
+Overseas Telegram 海外电报
+Overseas Telegram 海外电报
+  更多结果
+词组短语 同近义词 同根词
+
+to send a telegram 发电报
+urgent telegram 急电
+双语例句 原声例句 权威例句
+
+What do you make of this telegram?
+你怎么理解这份电报的意思?
+He was not alarmed at receiving the telegram.
+他接到这封电报时并不心慌。
+They rifled through the whole file but could not find the secret telegram.
+他们把整个卷宗翻了一遍，也没有找到那份秘密电报。
+
+**** a checkbook
+英  ['tʃekbuk]   美  ['tʃekbuk]
+n. 支票簿
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+checkbook /ˈtʃɛkˌbʊk/
+网络释义 专业释义 英英释义
+
+ 支票簿
+ 支票本
+ 核算
+ 支票
+短语
+Checkbook Cases 支票夹
+balance checkbook 核对
+Your Checkbook 你的银行卡
+Your Checkbook 你的
+Your Checkbook 银行卡
+  更多结果
+同近义词
+
+n. 支票簿
+cheque-book
+双语例句 权威例句
+
+Open the checkbook, and protests will stop.
+打开支票簿，抗议活动即将停止。
+article.yeeyan.org
+Oh, by the way, it will positively impact your checkbook too.
+哦，顺便说一下，这对你的支票簿也会产生积极的影响。
+article.yeeyan.org
+Teach someone a useful skill – cooking, changing a tire, balancing a checkbook.
+教给他人一项有用的技术——例如烹调、拆换轮胎，平衡支票簿。
+
+
+**** a loan
+
+英  [ləʊn]   美  [lon]
+n. 贷款；借款
+vi. 借出
+vt. 借；借给
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+loan /ləʊn/  CET4 TEM4
+N-COUNT A loan is a sum of money that you borrow. 贷款
+例：
+The country has no access to foreign loans or financial aid.
+该国得不到外国贷款或财政援助。
+例：
+The president wants to make it easier for small businesses to get bank loans.
+总统想使小公司能更容易地获得银行贷款。
+→ see also bridge loan , soft loan
+N-SING If someone gives you a loan of something, you borrow it from them. 借用
+例：
+I am in need of a loan of a bike for a few weeks.
+我需要借辆自行车来用几周。
+V-T If you loan something to someone, you lend it to them. 借出
+例：
+He had kindly offered to loan us all the plants required for the exhibit.
+他友好地主动提出了借给我们展览会所需的全部植物。
+PHRASAL VERB Loan out means the same as . 借出
+例：
+It is common practice for clubs to loan out players to sides in the lower divisions.
+将球员借给下级球队是俱乐部的惯例。
+PHRASE If something is on loan, it has been borrowed. 借来的
+例：
+...impressionist paintings on loan from the National Gallery.
+…从国家美术馆借来的印象派画作。
+网络释义 专业释义 英英释义
+
+ 贷款
+ 贷款
+ 租借
+ 借款
+短语
+Syndicated loan 银团贷款
+Syndicated loan 银团贷款
+Syndicated loan 辛迪加贷款
+Syndicated loan 财团放款
+loan stock 贷款债券
+  更多结果
+词组短语 同近义词
+
+on loan 借用；借贷；借调
+bank loan 银行贷款
+mortgage loan 按揭贷款；抵押借款
+loan interest 贷款利息
+student loan 助学贷款
+  更多词组短语
+双语例句 原声例句 权威例句
+
+We obtained a loan from the government.
+我们得了一笔政府贷款。
+If you ask him for a loan, he'll come through.
+如果你向他贷款，他会满足你的要求的。
+The company won't keep going unless we can get some loan.
+除非我们能搞到贷款，否则公司就维持不下去了。
+
+**** a deposit account
+
+美
+[金融] 存款帐户；储蓄存款
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+deposit account
+N-COUNT A deposit account is the same as a savings account. 定期存款账户 (savings account)
+
+**** deposit
+ 英  [dɪ'pɒzɪt]  美  [dɪ'pɑzɪt]
+n. 存款；押金；订金；保证金；沉淀物
+vt. 使沉积；存放
+vi. 沉淀
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+deposit /dɪˈpɒzɪt/  CET4 TEM4
+N-COUNT A deposit is a sum of money which is part of the full price of something, and which you pay when you agree to buy it. 保证金
+例：
+The initial deposit required to open an account is a minimum 100 dollars.
+开户需要的首笔存入额是至少100美元。
+N-COUNT A deposit is a sum of money which is in a bank account or savings account, especially a sum which will be left there for some time. 存款
+N-COUNT A deposit is an amount of a substance that has been left somewhere as a result of a chemical or geological process. 沉积物; 矿床
+例：
+...underground deposits of gold and diamonds.
+…黄金和钻石的地下矿床。
+N-COUNT A deposit is a sum of money which you pay when you start renting something. The money is returned to you if you do not damage what you have rented. 押金
+例：
+I put down a $500 security deposit for another apartment.
+我为另一套公寓支付了$500押金。
+N-COUNT A deposit is a sum of money which you put into a bank account. 银行存款
+例：
+She told me I should make a deposit every week and they'd stamp my book.
+她告诉我我每周都要存一次钱，而他们会在我的存折上盖印。
+V-T If you deposit a sum of money, you put it into a bank account or savings account. 存储
+例：
+The customer has to deposit a minimum of $100 monthly.
+顾客每月必须至少存入$100。
+V-T To deposit someone or something somewhere means to put them or leave them there. 放置
+例：
+Mr. Crenshaw deposited the boys and their suitcases on Mr. Peck's lawn.
+克伦肖先生把男孩子和他们的手提箱留在了派克先生的草坪上。
+V-T If you deposit something somewhere, you put it where it will be safe until it is needed again. 寄存
+例：
+You are advised to deposit valuables in the hotel safe.
+建议您将贵重物品寄存在旅馆的保险柜里。
+网络释义 专业释义 英英释义
+
+ 存款
+ 押金
+ 定金
+ 选举按金
+短语
+Placer deposit 漂砂沉积
+Placer deposit 砂积矿床
+Placer deposit 砂砾矿床
+Placer deposit 砂矿床
+legal deposit 法定送存
+  更多结果
+词组短语 同近义词 同根词
+
+ore deposit 矿床；矿层
+deposit insurance 存款保险
+deposit account 存款帐户；储蓄存款
+bank deposit 银行存款
+time deposit 定期存款
+  更多词组短语
+双语例句 原声例句 权威例句
+
+He has a large deposit in the bank.
+他在银行里有大笔存款。
+There is some deposit in the bottom of the flask.
+这只烧杯的底部有些沉淀物。
+To reach iron-ore deposit,they had to bore through solid rock.
+为了达到铁矿矿床，他们只好钻透坚硬的岩石。
+
+**** account
+ 英  [ə'kaʊnt]   美  [ə'kaʊnt]
+n. 账户；解释；账目，账单；理由；描述
+vi. 解释；导致；报账
+vt. 认为；把…视为
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+account /əˈkaʊnt/  CET4 TEM4
+N-COUNT If you have an account with a bank or a similar organization, you have an arrangement to leave your money there and take some out when you need it. 账户
+例：
+Some banks make it difficult to open an account.
+有些银行使开一个账户困难重重。
+N-COUNT In business, a regular customer of a company can be referred to as an account, especially when the customer is another company. 客户
+例：
+All three Internet agencies boast they've won major accounts.
+所有的三家网络代理公司都夸口说他们已赢得了大客户。
+N-COUNT Accounts are detailed records of all the money that a person or business receives and spends. 账目
+例：
+He kept detailed accounts.
+他保存了详细的账目。
+N-COUNT An account is a written or spoken report of something that has happened. 报道
+例：
+He gave a detailed account of what happened on the fateful night.
+他对那个决定命运的夜晚所发生的事情做了一个详细的报道。
+→ see also accounting , bank account , checking account , deposit account
+PHRASE If you say that something is true by all accounts or from all accounts, you believe it is true because other people say so. 据说
+例：
+He is, by all accounts, a superb teacher.
+据说，他是一名优秀的教师。
+PHRASE If you say that something is of no account or of little account, you mean that it is very unimportant and is not worth considering. 无足轻重的
+例：
+These obscure groups were of little account in either national or international politics.
+这些无名的组织在国内或国际政治中都是无足轻重的。
+PHRASE If you buy or pay for something on account, you pay nothing or only part of the cost at first, and pay the rest later. 以赊账方式
+例：
+He was ordered to pay the company $500,000 on account pending a final assessment of his liability.
+在对他的债务做最后的评估期间，他被命令先付这家公司50万美元。
+PHRASE You use on account of to introduce the reason or explanation for something. 由于
+例：
+The president declined to deliver the speech himself, on account of a sore throat.
+那位总统由于嗓子疼拒绝亲自发表演讲。
+PHRASE Your feelings on someone's account are the feelings you have about what they have experienced or might experience, especially when you imagine yourself to be in their situation. 为 (某人的) 缘故 (而感到…)
+例：
+Mollie told me what she'd done and I was really scared on her account.
+莫丽告诉了我她做过的事情，我真为她感到害怕。
+PHRASE If you tell someone not to do something on your account, you mean that they should do it only if they want to, and not because they think it will please you. (不) 为 (某人的) 缘故 (而做某事)
+例：
+Don't leave on my account.
+不要因为我而离开。
+PHRASE If you say that something should on no account be done, you are emphasizing that it should not be done under any circumstances. 绝对不
+例：
+On no account should the mixture come near boiling.
+这种混合物绝对不应当接近沸点。
+PHRASE If you do something on your own account, you do it because you want to and without being asked, and you take responsibility for your own action. 随 (某人) 自己
+例：
+I told him if he withdrew it was on his own account.
+我告诉他，如果他退出那么他要自负其则。
+PHRASE If you take something into account, or take account of something, you consider it when you are thinking about a situation or deciding what to do. 考虑到
+例：
+The defendant asked for 21 similar offences to be taken into account.
+该被告请求将21项相似的犯罪罪行考虑在内。
+PHRASE If someone is called, held, or brought to account for something they have done wrong, they are made to explain why they did it, and are often criticized or punished for it. 追究
+例：
+Individuals who repeatedly provide false information should be called to account for their actions.
+反复提供虚假情报的人应为其行为而受到追究。
+PHRASE If you say that someone gave a good account of themselves in a particular situation, you mean that they performed well, although they may not have been completely successful. 表现很好
+例：
+We have been hindered by our lack of preparation, but I'm sure we will give a good account of ourselves.
+我们曾经为缺乏准备所阻，但我肯定我们会表现很好的。
+网络释义 专业释义 英英释义
+
+ 帐户
+ 账户
+ 会计科目
+ 帐目
+短语
+account number 帐目编号
+account number 帐号
+account number 会员帐号
+account number 银行帐号
+account executive 客户经理
+  更多结果
+词组短语 同近义词 同根词
+
+account of 在某人帐上重视，	记帐
+account for 对…负有责任；对…做出解释；说明……的原因
+your account 您的帐号
+take into account 考虑；重视；体谅
+on account 记帐，赊帐；分期付款
+  更多词组短语
+双语例句 原声例句 权威例句
+
+His account contradicted itself.
+他的解释自相矛盾。
+These figures disagree with our account.
+这些数字与我们的账单不符。
+You must account to father what you have done.
+你必须把你的所作所为对父亲解释清楚。
+
+**** a check
+
+check
+ 英  [tʃek]   美  [tʃɛk]
+vt. 检查，核对；制止，抑制；在…上打勾
+vi. 核实，查核；中止；打勾；[象棋]将一军
+n. <美>支票；制止，抑制；检验，核对
+n. （英）切克（人名）
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+check /tʃɛk/  CET4 TEM4
+V-T/V-I If you check something such as a piece of information or a document, you make sure that it is correct or satisfactory. 检查; 核实
+例：
+Check the accuracy of everything in your résumé.
+核查你简历中每一项的准确性。
+例：
+I think there is an age limit, but I'd have to check.
+我觉得是有年龄限制的，但我得去核实一下。
+例：
+She hadn't checked whether she had a clean, ironed shirt.
+她没有查看自己是否有件干净并熨好的衬衣。
+N-COUNT Check is also a noun. 检查; 核实
+例：
+He is being constantly monitored with regular checks on his blood pressure.
+他一直受到持续地监测，接受定期的血压检测。
+V-I If you check on someone or something, you make sure they are in a safe or satisfactory condition. 察看
+例：
+Stephen checked on her several times during the night.
+斯蒂芬夜间察看了她几次。
+V-T If you check something that is written on a piece of paper, you put a mark, like a V with the right side extended, next to it to show that something is correct or has been selected or dealt with. 打勾
+V-T To check something, usually something bad, means to stop it from spreading or continuing. 抑制
+例：
+Sex education is also expected to help check the spread of AIDS.
+性教育也有望抑制艾滋病的蔓延。
+V-T When you check your luggage at an airport, you give it to an official so that it can be taken on to your plane. 托运
+例：
+We arrived at the airport, checked our baggage and wandered around the gift shops.
+我们到达了机场，托运了行李，然后逛了逛礼品店。
+PHRASAL VERB To check in your luggage means the same as to it. 托运
+例：
+They checked in their luggage and found seats in the departure lounge.
+他们托运了行李，然后在候机室找到了座位。
+N-COUNT The check in a restaurant is a piece of paper on which the price of your meal is written and which you are given before you pay. (餐馆的) 账单
+N-COUNT A pattern of squares, usually of two colours, can be referred to as checks or a check. 格子图案 (通常双色)
+例：
+Styles include stripes and checks.
+样式有条纹的和格子的。
+N-COUNT
+check →see cheque
+PHRASE If something or someone is held in check or is kept in check, they are controlled and prevented from becoming too great or powerful. 抑制住某物
+例：
+Life on Earth will become unsustainable unless population growth is held in check.
+地球上的生命将无法延续，除非人口增长得到控制。
+→ see also double-check , rain check
+网络释义 专业释义 英英释义
+
+ 检查
+ 支票
+ 核对
+ 约束
+短语
+check valve 单向阀
+check valve 止回阀
+check valve 逆止阀
+check valve 检验阀
+check digit 校验数位
+  更多结果
+同近义词 同根词
+
+n. 检查；制止；寄存
+examine, inspect, review, park
+n. [金融]支票；阻止；阻止物
+prevention, cheque
+双语例句 原声例句 权威例句
+
+Her letter enclosed a check.
+她信函内附有一张支票。
+Please check out these names and numbers.
+请把这些姓名和号码检查一下。
+Each month we reconcile our check book with the bank statement.
+我们每个月都把支票簿与银行结账单核对一次。
+
+**** percent
+英  [pə'sent]   美  [pɚ'sɛnt]
+n. 百分比，百分率；部分；百分数
+adj. 百分之…的
+adv. 以百分之…地
+
+**** an account
+
+*** text
+to close an account
+
+to open an account
+
+to write out a check
+
+to withdraw money
+
+to depost money
+
+to take out a loan
+
+
+to send
+
+to receive
+
+to enter
+
+to exit
+
+英  ['eksɪt; 'egzɪt]  美  ['ɛɡzɪt]
+n. 出口，通道；退场
+vi. 退出；离去
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+exit /ˈɛɡzɪt, ˈɛksɪt/  CET4 TEM4
+N-COUNT The exit is the door through which you can leave a public building. 出口
+例：
+He picked up the case and walked toward the exit.
+他提起箱子朝出口走去。
+N-COUNT An exit on a motorway is a place where traffic can leave it. (公路的) 出口
+例：
+She continued to the next exit, got off the motorway and pulled into a parking lot.
+她继续开到下个出口，出了公路，驶入一个停车场。
+N-COUNT If you refer to someone's exit, you are referring to the way that they left a room or building, or the fact that they left it. 离场
+例：
+I made a hasty exit and managed to open the gate.
+我匆忙离场，设法打开了大门。
+N-COUNT If you refer to someone's exit, you are referring to the way that they left a situation or activity, or the fact that they left it. 退场; 退出
+例：
+It's her earliest exit from Wimbledon since going out in the opening round in 1997.
+这是她自1997年首轮出局以来最早一次从温布尔顿网球赛出局。
+V-T/V-I If you exit from a room or building, you leave it. 离开
+例：
+She exits into the tropical storm.
+她走出去，进入热带风暴。
+例：
+As I exited the final display, I entered a hexagonal room.
+走出最后一个展览我便进入了一间六角形的房间。
+V-T If you exit a computer program or system, you stop running it. 退出
+例：
+I can open other applications without having to exit WordPerfect.
+我可以在不退出的情况下打开其他应用程序。
+N-SING Exit is also a noun. 退出
+例：
+Press Exit to return to your document.
+按“退出”键返回到你的文档。
+网络释义 专业释义 英英释义
+
+ 出口
+ 退出
+ 离开
+ 退场
+短语
+exit barriers 退出壁垒
+exit barriers 离去障碍
+exit barriers 退出障碍
+exit barriers 退出障碍
+Exit Wounds 以毒攻毒
+  更多结果
+词组短语 同近义词
+
+exit strategy 退出策略；回收策略；退出投资策略
+emergency exit 紧急出口，太平门
+exit velocity 出口速度，排出速度
+exit door 安全出口门；出口门
+exit area 出口截面面积
+  更多词组短语
+双语例句 原声例句 权威例句
+
+The exit of the tunnel is concealed.
+地道的出口开在隐秘的地方。
+Let’s turn off the motorway at exit 9.
+咱们在第9出口下高速公路吧。
+To his surprise,he swept through the exit easily.
+令他惊奇的是，他竟然轻易地出境了。
+
+
+to yield interest
+
+yield
+ 英  [jiːld]   美  [jild]
+vt. 屈服；出产，产生；放弃
+vi. 屈服，投降
+n. 产量；收益
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+yield /jiːld/  CET4 TEM4
+V-I If you yield to someone or something, you stop resisting them. 屈服
+例：
+Carmen yielded to general pressure and grudgingly took the child to a specialist.
+卡门屈服于普遍的压力，不得已带孩子去看了位专科大夫。
+V-T If you yield something that you have control of or responsibility for, you allow someone else to have control or responsibility for it. 放弃
+例：
+He may yield control.
+他可能放弃控制权。
+V-I If a moving person or a vehicle yields, they slow down in order to allow other people or vehicles to pass in front of them. 让行
+例：
+When entering a trail or starting a descent, yield to other skiers.
+进入滑道或开始下滑时，给其他滑雪者们让行。
+例：
+...examples of common signs like No Smoking and Yield.
+…像“禁止吸烟”和“让行”这样的常见标志例子。
+V-I If something yields, it breaks or moves position because force or pressure has been put on it. (因受力或受压而) 破碎; 断裂; 移位
+例：
+He reached the massive door of the barn and pushed. It yielded.
+他够着了畜棚厚重的大门推了推。门开了。
+V-T If an area of land yields a particular amount of a crop, this is the amount that is produced. You can also say that a number of animals yield a particular amount of meat. 产
+例：
+Last year 400,000 acres of land yielded a crop worth $1.75 billion.
+去年40万英亩的土地出产了价值17.5亿美元的粮食。
+N-COUNT A yield is the amount of food produced on an area of land or by a number of animals. 产量
+例：
+...improving the yield of the crop.
+…增加农作物的产量。
+V-T If a tax or investment yields an amount of money or profit, this money or profit is obtained from it. 产生 (收益)
+例：
+It yielded a profit of at least $36 million.
+它带来了至少三千六百万美元的利润。
+N-COUNT A yield is the amount of money or profit produced by an investment. (投资的) 利润; 收益
+例：
+...a yield of 4%.
+…4%的收益。
+例：
+The high yields available on the dividend shares made them attractive to private investors.
+股息股能获得的高收益使它们对私人投资者们很有吸引力。
+V-T If something yields a result or piece of information, it produces it. 产生 (结果); 制造 (消息)
+例：
+This research has been in progress since 1961 and has yielded a great number of positive results.
+这项研究自1961年以来一直在开展，已经取得了大量的积极成果。
+网络释义 专业释义 英英释义
+
+ 屈服
+ 收率
+ 收益
+ 屈服
+短语
+yield curve 收益曲线
+yield curve 收益率曲线
+yield curve 殖利率曲线
+yield curve 收率曲线
+Sustainable yield 可维持产量
+  更多结果
+词组短语 同近义词 同根词
+
+high yield 高产；高收益
+yield strength 屈服强度；屈变力；抗屈强度
+low yield 低产，低产量；低良率
+product yield 产品产量；成品收率
+crop yield 粮食产量，作物产量；谷物收获量
+  更多词组短语
+双语例句 原声例句 权威例句
+
+We shall never yield to a conqueror.
+我们绝不会向征服者屈服。
+We must do everything to raise the per unit yield.
+我们要千方百计提高单位面积产量。
+The yield of rice will rise to 700 kilograms per mu.
+水稻的产量将上升到每亩700公斤。
+
+**** interest
+ 英  ['ɪnt(ə)rɪst]   美  ['ɪntrəst]
+n. 兴趣，爱好；利息；趣味；同行
+vt. 使……感兴趣；引起……的关心；使……参与
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+interest /ˈɪntrɪst, -tərɪst/  CET4 TEM4
+N-UNCOUNT If you have an interest in something, you want to learn or hear more about it. 兴趣
+例：
+There has been a lively interest in the elections in the last two weeks.
+过去两周人们对选举一直有强烈的兴趣。
+例：
+She'd liked him at first, but soon lost interest.
+最初她喜欢过他，但很快就失去了兴趣。
+N-COUNT Your interests are the things that you enjoy doing. 爱好
+例：
+Encourage your child in her interests and hobbies.
+鼓励你的孩子发展她的兴趣和爱好。
+V-T If something interests you, it attracts your attention so that you want to learn or hear more about it or continue doing it. 使感兴趣
+例：
+Your financial problems do not interest me.
+我对你的财务问题不感兴趣。
+V-T If you are trying to persuade someone to buy or do something, you can say that you are trying to interest them in it. 引起 (购买或做某事) 的意愿
+例：
+Can I interest you in a new car?
+我给你介绍一下新车，你感兴趣吗？
+N-COUNT If something is in the interests of a particular person or group, it will benefit them in some way. 利益
+例：
+Did those directors act in the best interests of their club?
+那些董事们是从他们俱乐部的最大利益出发而行动的吗？
+N-COUNT You can use interests to refer to groups of people who you think use their power or money to benefit themselves. 利益集团
+例：
+The government accused unnamed "foreign interests" of inciting the trouble.
+政府不点名地指责一些“外国利益集团”煽动骚乱。
+N-COUNT A person or organization that has an interest in an area, a company, a property or in a particular type of business owns stock in it. 股权
+例：
+My father had many business interests in Vietnam.
+我父亲在越南有许多公司股权。
+N-COUNT If a person, country, or organization has an interest in a possible event or situation, they want that event or situation to happen because they are likely to benefit from it. 利害关系
+例：
+The West has an interest in promoting democratic forces in Eastern Europe.
+西方国家在促使东欧民主力量壮大中有利害关系。
+N-UNCOUNT Interest is extra money that you receive if you have invested a sum of money. Interest is also the extra money that you pay if you have borrowed money or are buying something on credit. 利息
+例：
+Does your current account pay interest?
+你的活期存款账户计息吗？
+→ see also interested , interesting , compound interest , self-interest , vested interest
+PHRASE If you do something in the interests of a particular result or situation, you do it in order to achieve that result or maintain that situation. 为了…的利益
+例：
+...a call for all businessmen to work together in the interests of national stability.
+…为了国家稳定而向所有商人发出的共同合作的号召。
+to have someone's interests at heart →see heart
+网络释义 专业释义 英英释义
+
+ 利息
+ 兴趣
+ 利益
+ 利息
+短语
+insurable interest 保险利益
+insurable interest 可保利益
+insurable interest 可保权益
+insurable interest 可保险产权
+absolute interest 绝对权益
+  更多结果
+词组短语 同近义词 同根词
+
+interest in 对…有兴趣
+of interest 有…兴趣；权益的转易
+interest rate [经]利率
+public interest 公共利益
+no interest 没兴趣；免付利息
+  更多词组短语
+双语例句 原声例句 权威例句
+
+His report aroused the interest of all.
+他的报告引起了大家的兴趣。
+www.kfyes.com
+This subject has no interest for [to] me.
+这题目对我来说没有什么趣味。
+The new novel engaged his attention and interest.
+这部新小说引起了他的注意和兴趣。
+
+*** to receive
+
+英  [rɪ'siːv]   美  [rɪ'siv]
+vt. 收到；接待；接纳
+vi. 接收
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+receive /rɪˈsiːv/  CET4 TEM4
+V-T When you receive something, you get it after someone gives it to you or sends it to you. 接到; 收到
+例：
+They will receive their awards at a ceremony in Stockholm.
+他们将在斯德哥尔摩的典礼上接受给他们的奖励。
+V-T You can use receive to say that certain kinds of things happen to someone. For example if they are injured, you can say that they received an injury. 受到; 遭受
+例：
+He received more of the blame than anyone when the plan failed to work.
+当计划失败之后他受到的指责比任何人都多。
+V-T When you receive a visitor or a guest, you greet them. 接待; 迎接
+例：
+The following evening the hotel was again receiving guests.
+第二天晚上饭店又接待起客人来。
+V-T If you say that something is received in a particular way, you mean that people react to it in that way. (用某种特定方式) 回应
+例：
+The resolution had been received with great disappointment within the PLO.
+巴勒斯坦解放组织内部对此决议感到极其失望。
+V-T When a radio or television receives signals that are being transmitted, it picks them up and converts them into sound or pictures. 接收 (信号)
+例：
+The reception was a little faint but clear enough for him to receive the signal.
+接收有些弱，但足够清晰到使他能够接收信号。
+PHRASE If you are on the receiving end or at the receiving end of something unpleasant, you are the person that it happens to. 成为 (不愉快事件的) 承受方
+例：
+You saw hate in their eyes and you were on the receiving end of that hate.
+你在他们的眼中看到仇恨，而你就是那仇恨的对象。
+网络释义 专业释义 英英释义
+
+ 收到
+ 得到
+ 接受
+ 接待
+短语
+Serve receive 接发球
+attack receive 接攻击球
+attack receive 接对方扣球
+attack receive 接扣球
+attack receive 接打击球
+  更多结果
+同近义词 同根词
+
+n. 收到；接待；接纳
+acknowledge receipt of, to hand
+n. 接收
+take over
+双语例句 原声例句 权威例句
+
+I can hardly receive him in the present case.
+照眼前这个情况， 我还不能接纳他。
+You will receive the full equivalent of your money.
+你将收到与你的款项价值完全同等的物品。
+They will post the ticket to me as soon as they receive my cheque.
+他们收到我的支票后就立刻把票寄给我。
+
+to deliver
+
+英  [dɪ'lɪvə]   美  [dɪ'lɪvɚ]
+vt. 交付；发表；递送；释放；给予（打击）；给…接生
+vi. 实现；传送；履行；投递
+n. 投球
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+deliver /dɪˈlɪvə/  CET4 TEM4
+V-T If you deliver something somewhere, you take it there. 递送
+例：
+The Canadians plan to deliver more food to southern Somalia.
+加拿大人计划向索马里南部运送更多的食物。
+V-T/V-I If you deliver something that you have promised to do, make, or produce, you do, make, or produce it. 实现; 履行
+例：
+They have yet to show that they can really deliver working technologies.
+他们仍需证明他们确实能够实现可用的技术。
+例：
+The question is, can he deliver?
+问题是他能履行吗？
+V-T If you deliver a lecture or speech, you give it in public. 发表
+例：
+The president will deliver a speech about schools.
+校长将发表关于学校的演讲。
+V-T When someone delivers a baby, they help the woman who is giving birth to the baby. 给 (产妇) 接生
+例：
+Although we'd planned to have our baby at home, we never expected to deliver her ourselves!
+尽管我们是打算在家生孩子，可我们从未想过要自己给她接生!
+V-T If someone delivers a blow to someone else, they hit them. 给予 (打击)
+例：
+Those blows to the head could have been delivered by a woman.
+头上挨的那些打可能是一个女人所为。
+网络释义 专业释义 英英释义
+
+ 投递
+ 交付
+ 发出
+ 发表
+短语
+Deliver Me 拯救我
+Deliver Me 忏魂曲
+Deliver Me 给我
+Deliver Me 解救我
+Deliver pamphlets 派传单
+  更多结果
+词组短语 同近义词 同根词
+
+deliver the goods 交货；履行诺言
+deliver goods 交货
+deliver a speech 发表演讲；发表讲话
+deliver up 交出，放弃
+deliver from 从…处释放出来
+双语例句 原声例句 权威例句
+
+Deliver us from evil.
+拯救我们脱离邪恶。
+Do we have the resources to deliver the solution?
+我们拥有交付解决方案的资源吗？
+www.ibm.com
+Then, from his workspace, he can deliver the changes to the stream.
+然后，从这个工作空间，他可以交付变更到流程。
+
+
+The woman with the small, red bag is entering the bank.
+
+In the hotel there's an ATM.
+
+To the right of the bank there's a post office.
+
+The postman with the big, heavy bag is exiting the post office.
+
+Across from the hotel there is a bank.
+
+The postman delivers letters and telegrams.
+
+The girl buys an envelope and stamps at the bank.
+
+The woman receives a telegram from her father.
+
+The girl is putting the postcard into the mailbox.
+
+The man is sending a package with presents to his family.
+
+The boy is sending a letter with his photograph to his grandma.
+
+The woman finds a postcard from her mother in the mailbox.
+
+
+The man is opening an account at the bank.
+
+The young man is withdrawing money at the ATM because the ATM is closed to home.
+
+The woman wants to cash a check.
+
+The woman is writing out a check.
+
+The man is making a purchase in the store. He's not writing out a check. He's
+paying with a credit card.
+
+The man in the bank is getting out his check book.
+
+
+The man wants to take out a loan at the bank.
+
+The deposit account yields interest, but an account at the bank doesn't.
+
+The family opens a deposit account at the bank.
+
+The man is investing money in an account at the bank.
+
+**** investe
+
+英  [ɪn'vest]   美  [ɪn'vɛst]
+vt. 投资；覆盖；耗费；授予；包围
+vi. 投资，入股；花钱买
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+invest /ɪnˈvɛst/  CET4 TEM4
+V-T/V-I If you invest in something, or if you invest a sum of money, you use your money in a way that you hope will increase its value, for example, by putting it in a bank, or buying securities or property. 投 (资); 投资
+例：
+Many people don't like to invest in stocks.
+许多人不喜欢投资股票。
+例：
+I'm tired of watching you invest our money in insane projects.
+我看够了你将我们的钱投到一些荒唐的项目上。
+V-T/V-I If you invest in something useful, you buy it, because it will help you to do something more efficiently or more cheaply. 购买
+例：
+The company has invested a six-figure sum in an electronic order-control system which is used to keep stores stocked.
+这家公司已经耗资6位数购买了电子定单控制系统来为商店进货。
+V-T/V-I When a government or organization invests in something, it gives or lends money for a purpose that it considers useful or profitable. (政府或机构) 投资
+例：
+...the need to invest in new technology.
+…这种投资于新技术的需要。
+例：
+Government agencies must invest more funds in training and development programmes.
+政府机构必须将更多的资金投入到培训和开发项目中。
+V-T If you invest time or energy in something, you spend a lot of time or energy on it because you think it will be useful or successful. 投入 (时间、精力)
+例：
+I would rather invest time in Rebecca than in the kitchen.
+我宁愿把时间花在丽贝卡身上，也不愿花在厨房里。
+V-T To invest someone with rights or responsibilities means to give them those rights or responsibilities legally or officially. 赋予
+例：
+The constitution invested him with certain powers.
+宪法赋予了他一些权力。
+网络释义 专业释义 英英释义
+
+ 投资
+ 投入
+ 赋与
+ 投
+短语
+emotion invest 感情投资
+invest with 授予
+invest with 投资有
+Invest KOREA 韩国投资促进局
+Invest KOREA 投资支援中心
+  更多结果
+词组短语 同近义词 同根词
+
+invest in v. 投资于；[口]买进；寄希望于
+invest with 授予
+双语例句 原声例句 权威例句
+
+Astute salesmen know how to invest emotionally.
+精明的商人懂得如何感情投资。
+The broker advised me on how to invest my money.
+经纪人告诉我怎样投资。
+Why invest time and energy in something that we all hate?
+为什么投入时间和精力去思考我们都讨厌的事情？
+
+He's searching for a loan with small interest.
+
+A woman is withdrawing money from an account at the bank.
+
+**** withdraw
+
+英  [wɪð'drɔː]   美  [wɪð'drɔ]
+vt. 撤退；收回；撤消；拉开
+vi. 撤退；离开
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+withdraw /wɪðˈdrɔː, wɪθ-/  CET4 TEM4
+V-T If you withdraw something from a place, you remove it or take it away. 移开; 拿走
+例：
+He reached into his pocket and withdrew a sheet of notepaper.
+他把手伸进口袋，拿出一张便签。
+V-T/V-I When groups of people such as troops withdraw or when someone withdraws them, they leave the place where they are fighting or where they are based and return nearer home. 使撤退; 撤退
+例：
+He stated that all foreign forces would withdraw as soon as the crisis ended.
+他声明危机一结束所有外国军队就会撤退。
+例：
+The United States has announced it is to withdraw forty-thousand troops from Western Europe in the next year.
+美国已经宣布第2年将从西欧撤回4万军队。
+V-T If you withdraw money from a bank account, you take it out of that account. (从银行) 取 (钱)
+例：
+Open a savings account that does not charge ridiculous fees to withdraw money.
+开立一个取钱时不荒唐地收取费用的储蓄账户。
+V-I If you withdraw from an activity or organization, you stop taking part in it. (从活动或组织中) 退出
+例：
+The African National Congress threatened to withdraw from the talks.
+非洲国民大会威胁要从会谈中退出。
+网络释义 专业释义 英英释义
+
+ 收回
+ 撤销
+ 提现
+ 撤回
+短语
+Withdraw money 取钱
+Withdraw money 提款
+Withdraw money 提钱
+Withdraw money 提取现金
+withdraw deposit 提款
+  更多结果
+词组短语 同近义词 同根词
+
+withdraw from v. 退出；离开
+withdraw money 取钱
+withdraw cash 取现；取钱
+withdraw troops 收兵，撤军
+双语例句 原声例句 权威例句
+
+The leader promised to support the plan;you can't withdraw now.
+领导已答应支持这项计划，你们不能收回承诺。
+But as the winter went on, I found it harder and harder to withdraw—either from the events we read and heard about, or from the zeal that seized the students in the seminar.
+但随着冬天的消逝，我发现我越来越难以撤出了——要么是我们读到或听到的那些事件，要么就是抓住研讨会上的学生们的热情使然。
+article.yeeyan.org
+Sometimes this will make us withdraw, but it can also motivate us to shift our attention or change our learning strategy, he says.
+有时困惑会使我们撤退，但它也能激励我们转移注意力或者改变我们的学习策略，他如是说道。
+
+
+At the bank you don't send letters. There you open an account or take out a
+loan.
+
+At the post office you don't take out a loan. There you receive and send
+letters.
+
+A telegram travels fast, but a letter - slowly.
+
+The mailman doesn't deliver checkbooks. You get thoes at the bank.
+
+The bank works five days a week, but the post office works six.
+
+The bank works half the day, but post office works the whole day.
+
+
+The family likes this house. They want to take out a loan and buy it.
+
+A woman wants to pay with her credit card and not withdraw money from her
+account.
+
+The man doesn't like this bank. He wants to close his account.
+
+The boy wants to write out a check, but he doesn't have a checkbook.
+
+The woman likes this bank. She wants to open a deposit account.
+
+The man wants to take out a loan, but he doesn't want to pay the bank interest.
+
+
+In order to send a letter, you need an envelope and stamps.
+
+In order to take out a loan, you need a passport.
+使变细；与…搂著脖子亲吻
+ n. (Neck)人名；(德、意、英)内克
+  柯林斯英汉双解大词典  21 世纪大英汉词典
+
+ neck /nɛk/  CET4 TEM4
+ N-COUNT Your neck is tspacemacs-dark
+                         spacemacs-light
+                         solarized-light
+                         solarized-dark
+                         leuvenhe part of your body which joins your head to the rest of your body. 颈
+ 例：
+ She threw her arms around his neck and hugged him warmly.
+ 她伸出双臂搂住他的脖子，热烈地拥抱他。
+ N-COUNT The neck of an article of clothing such as a shirt, dress, :LOGBOOK:
+ CLOCK: [2016-07-12 Tue 03:01]--[2016-07-12 Tue 04:48] =>  1:47
+ :END:or sweater is the part which surrounds your neck. 领口
+ 例：
+ ...the low, ruffled neck of her blouse.
+ …她褶边低胸的衬衫领口。
+ N-COUNT The neck of something such as a bottle or a guitar is the long narrow part at one end of it. (瓶子、吉他等的) 颈状部位
+ 例：
+ Catherine gripped the broken neck of the bottle.
+ 凯瑟琳紧握着破裂的瓶颈。
+ PHRASE If you say that someone is breathing down your neck, you mean that they are watching you very closely and checking everything you do. 密切监视
+ 例：
+ Most farmers have loan officers breathing down their necks.
+ 大多数农场主受到信贷员的密切监视。
+ PHRASE In a competition, especially an election, if two or more competitors are neck and neck, they are level with each other and have an equal chance of winning. 势均力敌
+ 例：
+ The latest polls indicate that the two main parties are neck and neck.
+ 最新的民意测验显示两个主要政党势均力敌。
+ PHRASE If you stick your neck out, you bravely say or do something that might be criticized or might turn out to be wrong. 敢说敢干
+ 例：
+ During my political life I've earned myself a reputation as someone who'll stick his neck out, a bit of a rebel.
+ 我在自己的政治生涯中得了一个敢说敢干、有点叛逆的名声。
+ 网络释义 专业释义 英英释义
+
+  脖子
+  颈
+  颈部
+  颈
+ 短语
+ Stiff neck 落枕
+ Stiff neck 脖子发僵
+ Stiff neck 落枕
+ Stiff neck 顽固之人
+ goose neck 鹅颈管
+   更多结果
+ 词组短语 同近义词 同根词
+
+ neck and neck 并驾齐驱，不分上下
+ bottle neck 瓶颈
+ pain in the neck 极讨厌的人或事
+ stiff neck 脖子发僵，斜颈；顽固之人
+ neck of the woods 附近一带（一般指乡村地区）
+   更多词组短语
+ 双语例句 原声例句 权威例句
+
+ He draped his arms round her neck.
+ 他双手搂住了她的脖子。
+ The rain was dripping down his neck.
+ 雨水沿着他的脖子往下滴。
+ The doll pivots at the waist and neck.
+ 那洋娃娃的腰和颈可以转动。
+  更多双语例句
+ 百科
+
+ Neck
+
+ The neck is the part of the body, on many terrestrial or secondarily aquatic vertebrates, that distinguishes the head from the torso or trunk. The adjective (from Latin) signifying "of the neck" is cervical (though in non-technical contexts, this is more frequently used to describe the cervix).
+ 来源于：维基百科
+
+ literate
+  英  ['lɪt(ə)rət]   美  ['lɪtərət]
+ adj. 受过教育的；精通文学的
+ n. 学者
+  柯林斯英汉双解大词典  21 世纪大英汉词典
+
+ literate /ˈlɪtərɪt/  CET6+ TEM8
+ ADJ Someone who is literate is able to read and write. 能读会写的
+ 例：
+ Over one-quarter of the adult population are not fully literate.
+ 四分之一以上的成年人是半文盲。
+ → see also computer-literate
+ 网络释义 专业释义 英英释义
+
+  有文化的
+  有读写能力的
+  识字的
+  学者
+ 短语
+ Literate programming 文学编程
+ Literate programming 文学编程
+ Literate programming 文学化编程
+ Literate progr
+amming
+字面编程
+ Financially Literate
+掌握一定财务知识
+   更多结果
+ 词组短语 同近义词 同根词
+
+ computer literate 懂电脑
+ 双语例句 原声例句 权威例句
+
+ The drawback of the internet is that you have to be literate to use it.
+ 互联网的缺点就是人们必须得有文化才能使用它。
+ article.yeeyan.org
+  更多双语例句
+ 百科
+
+ Literate
+
+ Literacy is traditionally understood as the ability to read and write. The term's meaning has been expanded to include the ability to use language, numbers, images and other means to understand and use the dominant symbol systems of a culture. The concept of literacy is expanding in OECD countries to include skills to access knowledge through technology and ability to assess complex contexts.Literacy represents the lifelong, intellectual process of gaining meaning from a critical interpretation of written or printed text. The key to all literacy is reading development, a progression of skills that begins with the ability to understand spoken words and decode written words, and culminates in the deep understanding of text. Reading development involves a range of complex language underpinnings including awareness of speech sounds (phonology), spelling patterns (orthography), word meaning (semantics), grammar (syntax) and patterns of word formation (morphology), all of which provide a necessary platform for reading fluency and comprehension. Once these skills are acquired, the reader can attain full language literacy, which includes the abilities to apply to printed material critical analysis, inference and synthesis; to write with accuracy and coherence; and to use information and insights from text as the basis for informed decisions and creative thought. The inability to do so is called illiteracy or analphabetism.The United Nations Educational, Scientific and Cultural Organization (UNESCO) defines literacy as the "ability to identify, understand, interpret, create, communicate and compute, using printed and written materials associated with varying contexts. Literacy involves a continuum of learning in enabling individuals to achieve their goals, to develop their knowledge and potential, and to participate fully in their community and wider society".
+ 来源于：维基百科
+#+END_SRC

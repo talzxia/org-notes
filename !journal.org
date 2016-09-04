@@ -1713,14 +1713,75 @@ CLOSED: [2016-08-23 二 08:14]
      CLOCK: [2016-09-01 Thu 07:34]--[2016-09-01 Thu 07:48] =>  0:14
      :END:
 
-**** DONE arrive office and begin working
-     CLOSED: [2016-09-01 Thu 14:10]
+****** DONE arrive office and begin working
+       CLOSED: [2016-09-01 Thu 14:10]
+       :LOGBOOK:
+       - State "DONE"       from "STARTED"    [2016-09-01 Thu 14:10]
+       :END:
+
+****** DONE arrive office begin to learn
+       CLOSED: [2016-09-01 Thu 19:00]
+       :LOGBOOK:
+       - State "DONE"       from "STARTED"    [2016-09-01 Thu 19:00]
+       :END:
+*** 2016-09-02 Friday
+
+**** DONE arrive office and begin learning
+     CLOSED: [2016-09-02 Fri 04:24]
      :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-09-01 Thu 14:10]
+     - State "DONE"       from "STARTED"    [2016-09-02 Fri 04:24]
      :END:
 
-**** DONE arrive office begin to learn
-     CLOSED: [2016-09-01 Thu 19:00]
+**** DONE arrive office and begin today's work
+     CLOSED: [2016-09-02 Fri 08:17]
      :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-09-01 Thu 19:00]
+     - State "DONE"       from "STARTED"    [2016-09-02 Fri 08:17]
+     :END:
+
+**** DONE arrive office
+     CLOSED: [2016-09-02 Fri 14:48]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-02 Fri 14:48]
+     :END:
+接待一新生及家长
+*** 2016-09-03 Saturday
+
+**** DONE arrive office and begin learning and working
+     CLOSED: [2016-09-03 Sat 03:35]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-03 Sat 03:35]
+     :END:
+
+**** DONE 新生报到
+     CLOSED: [2016-09-03 Sat 09:01]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-03 Sat 09:01]
+     CLOCK: [2016-09-03 Sat 07:40]--[2016-09-03 Sat 09:01] =>  1:21
+     :END:
+在报到现场，情况良好。
+
+**** DONE arrive office
+     CLOSED: [2016-09-03 Sat 14:10]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-03 Sat 14:10]
+     :END:
+*** 2016-09-04 Sunday
+
+**** DONE arrive office and begin learning
+     CLOSED: [2016-09-04 Sun 06:19]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-04 Sun 06:19]
+     :END:
+Today get up very later
+
+**** DONE arrive office and begin learning
+     CLOSED: [2016-09-04 Sun 09:08]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-04 Sun 09:08]
+     :END:
+
+**** DONE arrive offcie and begin to learn
+     CLOSED: [2016-09-04 Sun 13:39]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-04 Sun 13:39]
      :END:
