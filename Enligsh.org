@@ -1,108 +1,3 @@
-#+BEGIN_SRC org
-
-* DONE Lesson one                                                       :one:
-  CLOSED: [2016-07-24 Sun 21:39]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-24 Sun 21:39]
-  - State "STARTED"    from "DONE"       [2016-07-24 Sun 21:38]
-  - State "DONE"       from "WAITING"    [2016-07-24 Sun 21:38]
-  - State "SOMEDAY"    from "WAITING"    [2016-07-24 Sun 21:38]
-  - State "DONE"       from "STARTED"    [2016-07-24 Sun 21:37]
-  CLOCK: [2016-07-24 Sun 21:04]--[2016-07-24 Sun 21:39] =>  0:35
-  :END:
-** text
-a man
-a woman
-a boy
-a girl
-a monkey
-a giraffe
-
-to walk
-to sit
-to run
-to eat
-to drink
-to stand
-
-a plate
-a bird
-a fish
-a helicopter
-a tree
-a flower
-
-The monkey is sitting down.
-The woman is lying down
-The boy is sitting down
-The monkey is standing
-
-The girl is standing
-the woman is walking
-The giraffe is walking.
-The boy is running.
-The woman is standing.
-The girl is running.
-
-The plate is flying.
-The fish is swimming.
-The man is swimming
-The bird is flying.
-The helicopter is flying.
-The man is flying
-
-The girl is drinking.
-The man is drinking.
-The monkey is eating.
-The bird is drinking.
-The boy is eating.
-The man is eating.
-
-The girl is running.
-The monkey is walking
-The boy is running.
-The bear is lying down.
-The girl is walking.
-The giraffe is walking.
-
-Is the bear swimming? Yes, the bear is swimming.
-Is the boy walking? Yes, the boy is walking.
-Is the man walking? Yes, the man is walking.
-Is the giraffe eating? Yes, the giraffe is eating.
-Is the woman drinking? Yes, the woman is drinking.
-Is the bird eating? Yes, the bird is eating.
-
-Is the fish flying? No, the fish is swimming.
-Is the giraffe running? No, the giraffe is standing.
-Is the bear eating? No, the bear is swimming.
-Is the monkey walking? No,the monkey is sitting down.
-Is the girl standing up? No, the girl is sitting down.
-Is the bird running? No, the bird is flying.
-
-** DONE Review 98.4%
-   CLOSED: [2016-08-16 二 13:53]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-16 二 13:53]
-   CLOCK: [2016-08-16 二 13:40]--[2016-08-16 二 13:53] =>  0:13
-   :END:
-** 复习98.7%                                                            :one:
-
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-25 Mon 05:38]
-   CLOCK: [2016-07-25 Mon 05:24]--[2016-07-25 Mon 05:38] =>  0:14
-   :END:
-** DONE Review <2016-08-26 五 06:41> 99.4%
-   CLOSED: [2016-08-26 五 06:56]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-26 五 06:56]
-   CLOCK: [2016-08-26 五 06:42]--[2016-08-26 五 06:56] =>  0:14
-   :END:
-** DONE Review <2016-09-01 Thu 20:33> 99.7%
-   CLOSED: [2016-09-01 Thu 20:46]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-01 Thu 20:46]
-   CLOCK: [2016-09-01 Thu 20:33]--[2016-09-01 Thu 20:46] =>  0:13
-   :END:
 * DONE Lesson two 97.9%                                                 :two:
   CLOSED: [2016-07-24 Sun 21:04]
   :LOGBOOK:
@@ -123,7 +18,7 @@ Is the bird running? No, the bird is flying.
    - State "DONE"       from "STARTED"    [2016-09-02 Fri 21:17]
    CLOCK: [2016-09-02 Fri 15:33]--[2016-09-02 Fri 21:17] =>  5:44
    :END:
-** DONE Review <2016-09-03 Sat 03:41> 99.2%
+** DONE R#eview <2016-09-03 Sat 03:41> 99.2%
    CLOSED: [2016-09-03 Sat 03:55]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-03 Sat 03:55]
@@ -1063,6 +958,19 @@ dancing.
    CLOCK: [2016-08-28 日 18:05]--[2016-08-28 日 18:33] =>  0:28
    :END:
 
+** DONE Review <2016-09-05 一 10:27>98%
+
+   CLOSED: [2016-09-05 一 10:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 一 10:53]
+   CLOCK: [2016-09-05 一 10:27]--[2016-09-05 一 10:53] =>  0:26
+   :END:
+** DONE Review <2016-09-05 Mon 17:20>99.5%
+   CLOSED: [2016-09-05 Mon 17:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 Mon 17:40]
+   CLOCK: [2016-09-05 Mon 17:20]--[2016-09-05 Mon 17:40] =>  0:20
+   :END:
 * DONE Lesson twelve 98.4%
   CLOSED: [2016-07-22 Fri 20:25]
   :LOGBOOK:
@@ -1095,7 +1003,12 @@ dancing.
     CLOCK: [2016-07-28 Thu 05:24]--[2016-07-28 Thu 06:13] =>  0:49
     :END:
 
-
+** DONE Review <2016-09-05 Mon 17:42>99%
+   CLOSED: [2016-09-05 Mon 18:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 Mon 18:03]
+   CLOCK: [2016-09-05 Mon 17:42]--[2016-09-05 Mon 18:03] =>  0:21
+   :END:
 ** TODO Review eleven 98.6%
    :LOGBOOK:
    - State "MEETING"    from "CANCELLED"  [2016-08-28 日 10:36]
@@ -1507,14 +1420,28 @@ Who is waiting at the window? The dog is waiting at the window.
    - State "DONE"       from "STARTED"    [2016-08-08 一 16:01]
    CLOCK: [2016-08-08 一 15:43]--[2016-08-08 一 16:01] =>  0:18
    :END:
-* DONE Review thirteen 97.7%
-  CLOSED: [2016-07-28 Thu 10:15]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-28 Thu 10:15]
-  CLOCK: [2016-07-28 Thu 09:57]--[2016-07-28 Thu 10:15] =>  0:18
-  :END:
+** DONE Revie:98.1%
+   CLOSED: [2016-09-05 Mon 20:24]
+   :LOG98.1%98.1%BOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 Mon 20:24]
+   CLOCK: [2016-09-05 Mon 20:04]--[2016-09-05 Mon 20:24] =>  0:20
+   :END:
+   :END:
+** DONE Review thirteen 97.7%
+   CLOSED: [2016-09-05 Mon 20:31]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-09-05 Mon 20:31]
+   - State "DONE"       from "WAITING"    [2016-09-05 Mon 20:31]
+   - State "DONE"       from "STARTED"    [2016-07-28 Thu 10:15]
+   CLOCK: [2016-07-28 Thu 09:57]--[2016-07-28 Thu 10:15] =>  0:18
+   :END:
 
-
+** DONE Review<2016-09-05 Mon 20:50> 99.1%
+   CLOSED: [2016-09-05 Mon 20:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 Mon 20:52]
+   CLOCK: [2016-09-05 Mon 20:33]--[2016-09-05 Mon 20:52] =>  0:19
+   :END:
 * DONE lesson fourteen 98.3
   CLOSED: [2016-07-21 Thu 22:01]
   :LOGBOOK:
@@ -1544,6 +1471,12 @@ Who is waiting at the window? The dog is waiting at the window.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-29 Mon 21:18]
    CLOCK: [2016-08-29 Mon 20:59]--[2016-08-29 Mon 21:18] =>  0:19
+   :END:
+** DONE Review <2016-09-07 三 05:20>97.5%
+   CLOSED: [2016-09-07 三 05:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 05:41]
+   CLOCK: [2016-09-07 三 05:21]--[2016-09-07 三 05:41] =>  0:20
    :END:
 ** text
 a mobile phone
@@ -1679,8 +1612,7 @@ He dried his hair with a towel.
 他用毛巾把头发擦干。
 He dried off the towel.
 他拧干了毛巾。
-She twisted a wet towel and dried her face.
-她拧干一块温毛巾擦脸。
+She twisted a wet towel a
 * DONE Lesson fifteen
 :LOGBOOK:
    CLOCK: [2016-07-21 Thu 18:16]--[2016-07-21 Thu 19:23] =>  1:07
@@ -1920,6 +1852,25 @@ Does the boy want a pear? No, the boy wants meat.
    - State "DONE"       from "STARTED"    [2016-08-30 二 10:58]
    CLOCK: [2016-08-30 二 10:10]--[2016-08-30 二 10:31] =>  0:21
    :END:
+** DONE Review <2016-09-07 三 06:15>98.1%
+   CLOSED: [2016-09-07 三 06:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 06:34]
+   CLOCK: [2016-09-07 三 06:15]--[2016-09-07 三 06:34] =>  0:19
+   :END:
+** DONE Review<2016-09-07 三 07:44>97.9%
+   CLOSED: [2016-09-07 三 08:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 08:03]
+   CLOCK: [2016-09-07 三 07:44]--[2016-09-07 三 08:03] =>  0:19
+   :END:
+** DONE Review <2016-09-07 三 10:10>98.8%
+   CLOSED: [2016-09-07 三 11:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 11:36]
+   CLOCK: [2016-09-07 三 10:10]--[2016-09-07 三 11:36] =>  1:26
+   :END:
+中间友道科技董波来访
 * Lesson Sixteen
 ** DONE Review 97.2%
    CLOSED: [2016-08-24 三 05:43]
@@ -2180,7 +2131,12 @@ The man likes the woman.
 It likes to dance.
 
 
-
+** DONE Review <2016-09-07 三 16:55>98.5%
+   CLOSED: [2016-09-07 三 17:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 17:11]
+   CLOCK: [2016-09-07 三 16:54]--[2016-09-07 三 17:11] =>  0:17
+   :END:
 * Lesson seventeen<2016-06-22 Wed 06:19>
 ** DONE Review seventeen 97.6%
    CLOSED: [2016-08-09 Tue 15:15]
@@ -2206,6 +2162,12 @@ It likes to dance.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-31 Wed 17:20]
    CLOCK: [2016-08-31 Wed 17:01]--[2016-08-31 Wed 17:20] =>  0:19
+   :END:
+** DONE Review <2016-09-07 三 19:51>99.1%
+   CLOSED: [2016-09-07 三 20:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 20:11]
+   CLOCK: [2016-09-07 三 19:52]--[2016-09-07 三 20:11] =>  0:19
    :END:
 ** text
 a customer
@@ -16800,6 +16762,12 @@ The woman has a stomachache.
    - State "DONE"       from "STARTED"    [2016-09-03 Sat 05:22]
    CLOCK: [2016-09-03 Sat 04:58]--[2016-09-03 Sat 05:22] =>  0:24
    :END:
+** DONE Review <2016-09-05 一 05:00>96.9%
+   CLOSED: [2016-09-05 一 05:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 一 05:01]
+   CLOCK: [2016-09-05 一 04:39]--[2016-09-05 一 05:01] =>  0:22
+   :END:
 ** text
 *** elderly people
 *** a child
@@ -17417,6 +17385,36 @@ Children get sick more often than adults.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-22 一 04:56]
    CLOCK: [2016-08-22 一 04:26]--[2016-08-22 一 04:56] =>  0:30
+   :END:
+** DONE Review <2016-09-05 一 05:06>96.4%
+   CLOSED: [2016-09-05 一 05:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 一 05:38]
+   CLOCK: [2016-09-05 一 05:07]--[2016-09-05 一 05:38] =>  0:31
+   :END:
+** DONE Review <2016-09-06 二 05:24>94.9%
+   CLOSED: [2016-09-06 二 05:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-06 二 05:56]
+   CLOCK: [2016-09-06 二 05:24]--[2016-09-06 二 05:56] =>  0:32
+   :END:
+** DONE Review <2016-09-06 二 14:20> 95.9%
+   CLOSED: [2016-09-06 二 14:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-06 二 14:49]
+   CLOCK: [2016-09-06 二 14:20]--[2016-09-06 二 14:49] =>  0:29
+   :END:
+** DONE Review <2016-09-07 三 04:46>96.8%
+   CLOSED: [2016-09-07 三 05:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 05:16]
+   CLOCK: [2016-09-07 三 04:47]--[2016-09-07 三 05:16] =>  0:29
+   :END:
+** DONE Review <2003-09-19 五>96.9%
+   CLOSED: [2016-09-07 三 19:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 19:30]
+   CLOCK: [2016-09-07 三 19:03]--[2016-09-07 三 19:30] =>  0:27
    :END:
 ** text
 *** a bracelet
@@ -23555,4 +23553,3 @@ amming
 
  Literacy is traditionally understood as the ability to read and write. The term's meaning has been expanded to include the ability to use language, numbers, images and other means to understand and use the dominant symbol systems of a culture. The concept of literacy is expanding in OECD countries to include skills to access knowledge through technology and ability to assess complex contexts.Literacy represents the lifelong, intellectual process of gaining meaning from a critical interpretation of written or printed text. The key to all literacy is reading development, a progression of skills that begins with the ability to understand spoken words and decode written words, and culminates in the deep understanding of text. Reading development involves a range of complex language underpinnings including awareness of speech sounds (phonology), spelling patterns (orthography), word meaning (semantics), grammar (syntax) and patterns of word formation (morphology), all of which provide a necessary platform for reading fluency and comprehension. Once these skills are acquired, the reader can attain full language literacy, which includes the abilities to apply to printed material critical analysis, inference and synthesis; to write with accuracy and coherence; and to use information and insights from text as the basis for informed decisions and creative thought. The inability to do so is called illiteracy or analphabetism.The United Nations Educational, Scientific and Cultural Organization (UNESCO) defines literacy as the "ability to identify, understand, interpret, create, communicate and compute, using printed and written materials associated with varying contexts. Literacy involves a continuum of learning in enabling individuals to achieve their goals, to develop their knowledge and potential, and to participate fully in their community and wider society".
  来源于：维基百科
-#+END_SRC

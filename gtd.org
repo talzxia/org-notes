@@ -840,11 +840,14 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]早锻炼
-   DEADLINE: <2016-09-05 Mon 06:20 +1d>
+   DEADLINE: <2016-09-08 四 06:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-09-04 Sun 09:03]
+   :LAST_REPEAT: [2016-09-07 三 06:50]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-09-07 三 06:50]
+   - State "DONE"       from "TODO"       [2016-09-06 二 14:02]
+   - State "DONE"       from "TODO"       [2016-09-06 二 06:29]
    - State "CANCELLED"  from "TODO"       [2016-09-04 Sun 09:03]
    - State "DONE"       from "TODO"       [2016-09-03 Sat 06:21]
    - State "DONE"       from "TODO"       [2016-09-02 Fri 06:32]
@@ -1359,10 +1362,182 @@ three lessons
    CLOCK: [2016-09-04 日 19:33]--[2016-09-04 日 20:08] =>  0:35
    :END:
 
-** STARTED [#B] begin walking
+** DONE [#B] begin walking
+   CLOSED: [2016-09-05 一 06:27]
    :LOGBOOK:
-   CLOCK: [2016-09-04 日 21:38]
+   - State "DONE"       from "STARTED"    [2016-09-05 一 06:27]
+   CLOCK: [2016-09-04 日 21:38]--[2016-09-04 日 22:06] =>  0:28
    :END:
+
+** DONE [#B] clean up and drink water
+   CLOSED: [2016-09-05 一 06:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 一 06:27]
+   CLOCK: [2016-09-05 一 04:30]--[2016-09-05 一 04:39] =>  0:09
+   :END:
+
+** DONE [#B] relax and browse
+   CLOSED: [2016-09-05 一 06:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 一 06:27]
+   CLOCK: [2016-09-05 一 05:46]--[2016-09-05 一 06:27] =>  0:41
+   :END:
+
+** DONE [#B] read loud 《道德经》
+   CLOSED: [2016-09-05 一 07:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 一 07:28]
+   CLOCK: [2016-09-05 一 06:28]--[2016-09-05 一 07:28] =>  1:00
+   :END:
+
+** DONE [#B]新生开学典礼军训开训
+   CLOSED: [2016-09-05 一 10:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 一 10:23]
+   CLOCK: [2016-09-05 一 07:50]--[2016-09-05 一 10:23] =>  2:33
+   :END:
+山科智慧与泰安公司对接安装门禁及考勤系统
+
+** DONE [#B] 学习Ruby
+   CLOSED: [2016-09-05 Mon 11:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 Mon 11:42]
+   CLOCK: [2016-09-05 Mon 11:06]--[2016-09-05 Mon 11:42] =>  0:36
+   :END:
+
+** DONE [#B]关于考勤管理的几点想法
+   CLOSED: [2016-09-05 Mon 15:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 Mon 15:31]
+   CLOCK: [2016-09-05 Mon 14:17]--[2016-09-05 Mon 15:31] =>  1:14
+   :END:
+
+*** 用org mode 实现工作期间人员时间管理
+1. 创建一个公用github帐户
+2. 存贮考勤信息
+3. 各专业培养方案及培养历程
+4. 信息技术工程系知识库系统
+
+** DONE [#B]go to library
+   CLOSED: [2016-09-05 Mon 17:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 Mon 17:19]
+   CLOCK: [2016-09-05 Mon 15:42]--[2016-09-05 Mon 17:19] =>  1:37
+   :END:
+
+** DONE [#B]relax and listen music
+   CLOSED: [2016-09-05 Mon 18:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-05 Mon 18:37]
+   CLOCK: [2016-09-05 Mon 18:03]--[2016-09-05 Mon 18:37] =>  0:34
+   :END:
+
+** DONE [#B] relax and clean up
+   CLOSED: [2016-09-06 二 06:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-06 二 06:29]
+   CLOCK: [2016-09-06 二 05:57]--[2016-09-06 二 06:29] =>  0:32
+   :END:
+
+** DONE [#B] 下午会议内容
+   CLOSED: [2016-09-06 二 08:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-06 二 08:31]
+   :END:
+1. 考勤的意义及方式
+2. 实践时间管理、知识管理
+3. 管理平台推进方案、步骤
+4. 考核及标准
+
+** DONE [#B] clean up and order
+   CLOSED: [2016-09-06 二 10:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-06 二 10:49]
+   CLOCK: [2016-09-06 二 08:37]--[2016-09-06 二 10:49] =>  2:12
+   :END:
+王院长来座谈一个小时。
+
+** DONE [#B]云计算专业设备预算
+   CLOSED: [2016-09-06 二 11:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-06 二 11:03]
+   CLOCK: [2016-09-06 二 10:51]--[2016-09-06 二 11:03] =>  0:12
+   :END:
+已联系超云公司小马发来方案。
+
+** DONE [#B] browse news
+   CLOSED: [2016-09-06 二 15:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-06 二 15:18]
+   CLOCK: [2016-09-06 二 14:50]--[2016-09-06 二 15:18] =>  0:28
+   :END:
+
+** DONE [#B] relax and listen music
+   CLOSED: [2016-09-07 三 06:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 06:14]
+   CLOCK: [2016-09-07 三 05:43]--[2016-09-07 三 06:14] =>  0:31
+   :END:
+
+** DONE [#B] clean up
+   CLOSED: [2016-09-07 三 08:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 08:18]
+   CLOCK: [2016-09-07 三 08:04]--[2016-09-07 三 08:18] =>  0:14
+   :END:
+处理一封邮件。
+
+** DONE [#B] 到温室、建筑系
+   CLOSED: [2016-09-07 三 10:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 10:09]
+   CLOCK: [2016-09-07 三 08:22]--[2016-09-07 三 10:09] =>  1:47
+   :END:
+梁老师把标牌做好，安排学生拿回来200个。
+
+** DONE [#B] read ruby
+   CLOSED: [2016-09-07 三 16:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 16:07]
+   CLOCK: [2016-09-07 三 15:11]--[2016-09-07 三 16:07] =>  0:56
+   :END:
+
+** DONE [#B]learn 时间管理
+   CLOSED: [2016-09-07 三 16:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 16:50]
+   CLOCK: [2016-09-07 三 16:10]--[2016-09-07 三 16:50] =>  0:40
+   :END:
+华为时间管理法
+http://wenku.baidu.com/link?url=zacfqqWNFH4MTfgF7YRp3aIy9iqfdHk-3vvqt0_abOaefv7fCTeI3XV-GE2m-EC-cJy92wtDlH27GxJb70vdDHbMRWgeG4Zw3bgKcO4Yq_u
+计算我们在校学习时间
+估算大学本科、研究生、博士学习时间
+我们的差距
+如何追赶
+终身学习
+
+** DONE [#B]relax and walking
+   CLOSED: [2016-09-07 三 17:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 17:26]
+   CLOCK: [2016-09-07 三 17:13]--[2016-09-07 三 17:26] =>  0:13
+   :END:
+
+** DONE [#B]relax and listen English song
+   CLOSED: [2016-09-07 三 21:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-07 三 21:01]
+   CLOCK: [2016-09-07 三 20:12]--[2016-09-07 三 21:01] =>  0:49
+   :END:
+学习高效人士的七个习惯
+越是主动积极（习惯一）的人，
+越能掌握人生的方向（习惯二），
+也能有效管理人生（习惯三）
+
+能不断更新（习惯七）的人，
+
+方懂得如何了解别人（习惯五），
+寻求圆满的解决之道（习惯六）
 
 * Cocos2D-X
 
