@@ -840,11 +840,12 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]早锻炼
-   DEADLINE: <2016-09-08 四 06:20 +1d>
+   DEADLINE: <2016-09-09 五 06:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-09-07 三 06:50]
+   :LAST_REPEAT: [2016-09-09 五 08:02]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-09 五 08:02]
    - State "DONE"       from "TODO"       [2016-09-07 三 06:50]
    - State "DONE"       from "TODO"       [2016-09-06 二 14:02]
    - State "DONE"       from "TODO"       [2016-09-06 二 06:29]
@@ -1553,6 +1554,70 @@ http://wenku.baidu.com/link?url=zacfqqWNFH4MTfgF7YRp3aIy9iqfdHk-3vvqt0_abOaefv7f
 
 ** TODO [#B]晚上上课
    DEADLINE: <2016-09-08 四 19:00-20:00>
+
+** DONE [#B]relax and listen music
+   CLOSED: [2016-09-09 五 05:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-09 五 05:58]
+   CLOCK: [2016-09-09 五 05:32]--[2016-09-09 五 05:58] =>  0:26
+   :END:
+
+** DONE [#B] clean up
+   CLOSED: [2016-09-09 五 08:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-09 五 08:04]
+   CLOCK: [2016-09-09 五 07:36]--<2016-09-09 五 08:04> =>  0:28
+   :END:
+
+** DONE [#B] read ruby
+   CLOSED: [2016-09-09 五 09:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-09 五 09:47]
+   CLOCK: [2016-09-09 五 08:08]--[2016-09-09 五 09:47] =>  1:39
+   :END:
+1985words
+
+** DONE [#B] check work and walk
+   CLOSED: [2016-09-09 五 10:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-09 五 10:51]
+   CLOCK: [2016-09-09 五 09:48]--[2016-09-09 五 10:51] =>  1:03
+   :END:
+联系张迎，了解墨玉件
+
+** DONE [#B] read ruby
+   CLOSED: [2016-09-09 五 11:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-09 五 11:49]
+   CLOCK: [2016-09-09 五 11:14]--[2016-09-09 五 11:49] =>  0:35
+   :END:
+
+** DONE [#B] 参加教师节庆祝大会
+   CLOSED: [2016-09-09 五 17:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-09 五 17:10]
+   CLOCK: [2016-09-09 五 15:42]--[2016-09-09 五 17:10] =>  1:28
+   :END:
+第32个教师节，
+
+** DONE [#B] relax and listen music
+   CLOSED: [2016-09-10 六 05:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-10 六 05:34]
+   CLOCK: [2016-09-10 六 04:33]--[2016-09-10 六 05:34] =>  1:01
+   :END:
+
+** DONE [#B] relax and listen music
+   CLOSED: [2016-09-10 六 16:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-10 六 16:49]
+   CLOCK: [2016-09-10 六 15:53]--[2016-09-10 六 16:49] =>  0:56
+   :END:
+
+** STARTED [#B] read Ruby
+   :LOGBOOK:
+   CLOCK: [2016-09-10 六 16:50]
+   :END:
 
 * Cocos2D-X
 
