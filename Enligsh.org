@@ -221,6 +221,12 @@ Is the tree small? No, it is big.
    - State "DONE"       from "STARTED"    [2016-09-09 五 15:37]
    CLOCK: [2016-09-09 五 15:24]--[2016-09-09 五 15:37] =>  0:13
    :END:
+** DONE Review<2016-09-12 一 21:07>99.8%
+   CLOSED: [2016-09-12 一 21:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 21:21]
+   CLOCK: [2016-09-12 一 21:08]--[2016-09-12 一 21:21] =>  0:13
+   :END:
 * DONE Lesson three 97.4%                                             :three:
   CLOSED: [2016-07-24 Sun 16:07]
   :LOGBOOK:
@@ -759,6 +765,12 @@ Is it summer? No, it is winter: a woman is running in the snow.
    - State "DONE"       from "STARTED"    [2016-09-04 Sun 10:26]
    CLOCK: [2016-09-04 Sun 10:04]--[2016-09-04 Sun 10:26] =>  0:22
    :END:
+** DONE Review <2016-09-11 日 04:49>99.3%
+   CLOSED: [2016-09-11 日 05:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 05:06]
+   CLOCK: [2016-09-11 日 04:49]--[2016-09-11 日 05:06] =>  0:17
+   :END:
 ** text
 hot
 clean
@@ -873,6 +885,12 @@ Hot green tea? No, cold red juice.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-04 Sun 12:21]
    CLOCK: [2016-09-04 Sun 12:03]--[2016-09-04 Sun 12:21] =>  0:18
+   :END:
+** DONE Review <2016-09-11 日 05:07>99.6%
+   CLOSED: [2016-09-11 日 05:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 05:27]
+   CLOCK: [2016-09-11 日 05:07]--[2016-09-11 日 05:27] =>  0:20
    :END:
 * DONE Lesson nine 97.6%
   CLOSED: [2016-07-23 Sat 16:01]
@@ -990,6 +1008,12 @@ Are the men standing around  a table? No, they are sitting around the a table.
    - State "DONE"       from "STARTED"    [2016-09-04 日 19:27]
    CLOCK: [2016-09-04 日 19:08]--[2016-09-04 日 19:27] =>  0:19
    :END:
+** DONE Review<2016-09-11 日 08:17>99.3%
+   CLOSED: [2016-09-11 日 08:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 08:36]
+   CLOCK: [2016-09-11 日 08:17]--[2016-09-11 日 08:36] =>  0:19
+   :END:
 * DONE Lesson ten 97.9%
   CLOSED: [2016-07-23 Sat 05:54]
   :LOGBOOK:
@@ -1013,6 +1037,12 @@ Are the men standing around  a table? No, they are sitting around the a table.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-04 日 20:28]
    CLOCK: [2016-09-04 日 20:09]--[2016-09-04 日 20:28] =>  0:19
+   :END:
+** DONE Review <2016-09-11 日 08:46>99.3%
+   CLOSED: [2016-09-11 日 09:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 09:08]
+   CLOCK: [2016-09-11 日 08:47]--[2016-09-11 日 09:08] =>  0:21
    :END:
 ** text
 a shop
@@ -1126,6 +1156,12 @@ dancing.
    - State "DONE"       from "STARTED"    [2016-09-05 Mon 17:40]
    CLOCK: [2016-09-05 Mon 17:20]--[2016-09-05 Mon 17:40] =>  0:20
    :END:
+** DONE Review <2016-09-11 日 09:24>99.9%
+   CLOSED: [2016-09-11 日 09:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 09:46]
+   CLOCK: [2016-09-11 日 09:24]--[2016-09-11 日 09:36] =>  0:12
+   :END:
 * DONE Lesson twelve 98.4%
   CLOSED: [2016-07-22 Fri 20:25]
   :LOGBOOK:
@@ -1164,14 +1200,22 @@ dancing.
    - State "DONE"       from "STARTED"    [2016-09-05 Mon 18:03]
    CLOCK: [2016-09-05 Mon 17:42]--[2016-09-05 Mon 18:03] =>  0:21
    :END:
-** TODO Review eleven 98.6%
+** DONE Review eleven 98.6%
+   CLOSED: [2016-09-11 日 12:08]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 12:08]
    - State "MEETING"    from "CANCELLED"  [2016-08-28 日 10:36]
    - State "SOMEDAY"    from "WAITING"    [2016-08-28 日 10:35]
    - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:34]
    CLOCK: [2016-08-07 Sun 06:14]--[2016-08-07 Sun 06:34] =>  0:20
    :END:
 
+** DONE Review<2016-09-11 日 11:46>99.8%
+   CLOSED: [2016-09-11 日 12:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 12:08]
+   CLOCK: [2016-09-11 日 11:46]--[2016-09-11 日 12:08] =>  0:22
+   :END:
 ** text
 son
 daughter
@@ -1597,6 +1641,12 @@ Who is waiting at the window? The dog is waiting at the window.
    - State "DONE"       from "STARTED"    [2016-09-05 Mon 20:52]
    CLOCK: [2016-09-05 Mon 20:33]--[2016-09-05 Mon 20:52] =>  0:19
    :END:
+** DONE Review <2016-09-11 日 14:52>99.7%
+   CLOSED: [2016-09-11 日 15:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 15:12]
+   CLOCK: [2016-09-11 日 14:52]--[2016-09-11 日 15:12] =>  0:20
+   :END:
 * DONE lesson fourteen 98.3
   CLOSED: [2016-07-21 Thu 22:01]
   :LOGBOOK:
@@ -1632,6 +1682,12 @@ Who is waiting at the window? The dog is waiting at the window.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-07 三 05:41]
    CLOCK: [2016-09-07 三 05:21]--[2016-09-07 三 05:41] =>  0:20
+   :END:
+** DONE Review<2016-09-11 日 20:36>98.8%
+   CLOSED: [2016-09-11 日 21:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 21:00]
+   CLOCK: [2016-09-11 日 20:36]--[2016-09-11 日 21:00] =>  0:24
    :END:
 ** text
 a mobile phone
@@ -1797,6 +1853,12 @@ She twisted a wet towel a
    CLOCK: [2016-08-08 一 20:21]--[2016-08-08 一 20:42] =>  0:21
    :END:
 
+** DONE Review<2016-09-12 一 02:55>99.8%
+   CLOSED: [2016-09-12 一 03:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 03:16]
+   CLOCK: [2016-09-12 一 02:55]--[2016-09-12 一 03:16] =>  0:21
+   :END:
 ** text
 *** salt
 an egg
@@ -2285,7 +2347,12 @@ The girl likes icecream.
 The man likes the woman.
 It likes to dance.
 
-
+** DONE Review <2016-09-12 一 03:35>98.8%
+   CLOSED: [2016-09-12 一 03:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 03:55]
+   CLOCK: [2016-09-12 一 03:36]--[2016-09-12 一 03:55] =>  0:19
+   :END:
 ** DONE Review <2016-09-07 三 16:55>98.5%
    CLOSED: [2016-09-07 三 17:11]
    :LOGBOOK:
@@ -2323,6 +2390,12 @@ It likes to dance.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-07 三 20:11]
    CLOCK: [2016-09-07 三 19:52]--[2016-09-07 三 20:11] =>  0:19
+   :END:
+** DONE Review<2016-09-12 一 04:43>98.3%
+   CLOSED: [2016-09-12 一 05:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 05:02]
+   CLOCK: [2016-09-12 一 04:43]--[2016-09-12 一 05:02] =>  0:19
    :END:
 ** text
 a customer
@@ -2500,6 +2573,12 @@ The neck is the part of the body, on many terrestrial or secondarily aquatic ver
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-08 四 06:58]
    CLOCK: [2016-09-08 四 06:37]--[2016-09-08 四 06:58] =>  0:21
+   :END:
+** DONE Review<2016-09-12 一 06:41>98%
+   CLOSED: [2016-09-12 一 07:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 07:02]
+   CLOCK: [2016-09-12 一 06:41]--[2016-09-12 一 07:02] =>  0:21
    :END:
 ** text
 to have
@@ -2704,6 +2783,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2016-09-09 五 06:19]
    CLOCK: [2016-09-09 五 05:59]--[2016-09-09 五 06:19] =>  0:20
    :END:
+** DONE Review <2016-09-12 一 07:04>98.4%
+   CLOSED: [2016-09-12 一 07:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 07:22]
+   CLOCK: [2016-09-12 一 07:04]--[2016-09-12 一 07:22] =>  0:18
+   :END:
 ** text
 a cheek
 an ear
@@ -2799,6 +2884,13 @@ Are the child's feet big or small? His feet are small.
    - State "DONE"       from "STARTED"    [2016-09-09 五 15:01]
    CLOCK: [2016-09-09 五 14:42]--[2016-09-09 五 15:01] =>  0:19
    :END:
+** DONE Review <2026-10-11 日>97.6%
+   CLOSED: [2016-09-12 一 13:42]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-09-12 一 13:42]
+   - State "DONE"       from "STARTED"    [2016-09-12 一 11:45]
+   CLOCK: [2016-09-12 一 11:26]--[2016-09-12 一 11:45] =>  0:19
+   :END:
 * DONE lesson twenty
   CLOSED: [2016-07-07 Thu 20:39]
 ** DONE Review twenty 96.9%
@@ -2812,7 +2904,20 @@ Are the child's feet big or small? His feet are small.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-25 Thu 20:44]
    :END:
-
+** CANCELLED MG: [2016-09-12 一 13:42]
+   CLOSED: [2016-09-12 一 13:42]
+** DONE Review <2016-09-12 一 13:43>98.1%
+   CLOSED: [2016-09-12 一 14:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 14:08]
+   CLOCK: [2016-09-12 一 13:43]--[2016-09-12 一 14:08] =>  0:25
+   :END:
+** DONE Review <2016-09-12 一 18:30>99.3%
+   CLOSED: [2016-09-12 一 18:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 18:57]
+   CLOCK: [2016-09-12 一 18:30]--[2016-09-12 一 18:57] =>  0:27
+   :END:
 ** text
  a policeman
  a teacher
@@ -21460,6 +21565,12 @@ GBOOK:
    - State "DONE"       from "STARTED"    [2016-08-19 五 05:20]
    CLOCK: [2016-08-19 五 04:54]--[2016-08-19 五 05:20] =>  0:26
    :END:
+** DONE Review <2016-09-11 日 04:17>96%
+   CLOSED: [2016-09-11 日 04:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 04:42]
+   CLOCK: [2016-09-11 日 04:18]--[2016-09-11 日 04:42] =>  0:24
+   :END:
 ** text
 *** a capital
 英  ['kæpɪt(ə)l]   美  ['kæpɪtl]
@@ -22208,6 +22319,19 @@ A child should help his parents.
   - State "DONE"       from "STARTED"    [2016-08-14 Sun 17:46]
   CLOCK: [2016-08-14 Sun 16:24]--[2016-08-14 Sun 17:46] =>  1:22
   :END:
+** Review<2016-09-11 日 12:11>98.8%
+** DONE Review <2016-09-11 日 18:39>99.2%
+   CLOSED: [2016-09-11 日 19:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 19:10]
+   CLOCK: [2016-09-11 日 18:39]--[2016-09-11 日 19:10] =>  0:31
+   :END:
+** DONE Review <2016-09-12 一 02:20>99.1%
+   CLOSED: [2016-09-12 一 02:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 02:51]
+   CLOCK: [2016-09-12 一 02:20]--[2016-09-12 一 02:51] =>  0:31
+   :END:
 ** text
 a bench
 

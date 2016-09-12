@@ -840,11 +840,13 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]早锻炼
-   DEADLINE: <2016-09-09 五 06:20 +1d>
+   DEADLINE: <2016-09-11 日 06:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-09-09 五 08:02]
+   :LAST_REPEAT: [2016-09-11 日 09:47]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-09-11 日 09:47]
+   - State "DONE"       from "TODO"       [2016-09-11 日 06:32]
    - State "DONE"       from "STARTED"    [2016-09-09 五 08:02]
    - State "DONE"       from "TODO"       [2016-09-07 三 06:50]
    - State "DONE"       from "TODO"       [2016-09-06 二 14:02]
@@ -1614,9 +1616,85 @@ http://wenku.baidu.com/link?url=zacfqqWNFH4MTfgF7YRp3aIy9iqfdHk-3vvqt0_abOaefv7f
    CLOCK: [2016-09-10 六 15:53]--[2016-09-10 六 16:49] =>  0:56
    :END:
 
-** STARTED [#B] read Ruby
+** TODO [#B] read Ruby
    :LOGBOOK:
-   CLOCK: [2016-09-10 六 16:50]
+   CLOCK: [2016-09-10 六 16:50]--[2016-09-10 六 17:10] =>  0:20
+   :END:
+
+** DONE [#B] relax and listen music
+   CLOSED: [2016-09-11 日 06:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 06:30]
+   CLOCK: [2016-09-11 日 05:42]--[2016-09-11 日 06:30] =>  0:48
+   :END:
+watch zilongshanren
+
+** DONE [#B] relax
+   CLOSED: [2016-09-11 日 09:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 09:23]
+   CLOCK: [2016-09-11 日 09:10]--[2016-09-11 日 09:23] =>  0:13
+   :END:
+
+** DONE [#B] 送夫人值班
+   CLOSED: [2016-09-11 日 11:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 11:45]
+   CLOCK: [2016-09-11 日 09:58]--[2016-09-11 日 11:45] =>  1:47
+   :END:
+
+** DONE [#B] read Ruby
+   CLOSED: [2016-09-11 日 20:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-11 日 20:37]
+   :END:
+
+** DONE [#B] relax
+   CLOSED: [2016-09-12 一 03:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 03:34]
+   CLOCK: [2016-09-12 一 03:17]--[2016-09-12 一 03:34] =>  0:17
+   :END:
+
+** DONE [#B]read Ruby
+   CLOSED: [2016-09-12 一 05:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 05:18]
+   :END:
+
+** DONE [#B] browse news
+   CLOSED: [2016-09-12 一 09:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 09:38]
+   CLOCK: [2016-09-12 一 08:55]--[2016-09-12 一 09:38] =>  0:43
+   :END:
+
+** DONE [#B]参加创新调研
+   CLOSED: [2016-09-12 一 10:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 10:26]
+   CLOCK: [2016-09-12 一 09:39]--[2016-09-12 一 10:26] =>  0:47
+   :END:
+
+** DONE [#B]read Ruby
+   CLOSED: [2016-09-12 一 18:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 18:28]
+   CLOCK: [2016-09-12 一 16:00]--[2016-09-12 一 18:28] =>  2:28
+   :END:
+
+** DONE [#B] browse and relax
+   CLOSED: [2016-09-12 一 19:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 19:33]
+   CLOCK: [2016-09-12 一 19:01]--[2016-09-12 一 19:33] =>  0:32
+   :END:
+
+** DONE [#B] check students
+   CLOSED: [2016-09-12 一 20:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-12 一 20:28]
+   CLOCK: [2016-09-12 一 19:33]--[2016-09-12 一 20:28] =>  0:55
    :END:
 
 * Cocos2D-X

@@ -1862,3 +1862,56 @@ half an hour
      :LOGBOOK:
      - State "DONE"       from "STARTED"    [2016-09-10 六 19:57]
      :END:
+*** 2016-09-11 星期日
+
+**** DONE arrive office and begin learning
+     CLOSED: [2016-09-11 日 04:14]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-11 日 04:14]
+     CLOCK: [2016-09-11 日 04:10]--[2016-09-11 日 04:14] =>  0:04
+     :END:
+
+**** DONE 知识及技能掌握的三个层次
+     CLOSED: [2016-09-11 日 05:41]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-11 日 05:41]
+     CLOCK: [2016-09-11 日 05:30]--[2016-09-11 日 05:41] =>  0:11
+     :END:
+
+1. 95%及以下没掌握
+2. 98%及以下算基本掌握
+3. 99.5%及以上才算熟练掌握，并且非偶然，三次要两次达到此标准。
+所以学知识和技能不能只求知道，只有真正熟练掌握才能算完成，才能进行下一步。
+要有好的工具，现有的英语学习工具都不能满足，适时自己开发。
+要求：
+1. 记录每次学习时间、准确率含日期等详细信息，并显示学习历程提升曲线。
+2. 关键词填空方式学习
+3. 声音、图像加印象。
+4. 掌握单词评估统计。
+*** 2016-09-12 星期一
+
+**** DONE arrive office and begin learning
+     CLOSED: [2016-09-12 一 02:10]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-12 一 02:10]
+     :END:
+
+**** STARTED arrive office
+     :LOGBOOK:
+     - State "STARTED"    from "DONE"       [2016-09-12 一 08:51]
+     - State "DONE"       from "STARTED"    [2016-09-12 一 06:38]
+     :END:
+
+**** DONE 王院长来检查教学情况
+     CLOSED: [2016-09-12 一 08:54]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-12 一 08:54]
+     CLOCK: [2016-09-12 一 08:01]--[2016-09-12 一 08:54] =>  0:53
+     :END:
+
+**** DONE arrive office and begin work
+     CLOSED: [2016-09-12 一 13:41]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-12 一 13:41]
+     CLOCK: [2016-09-12 一 13:39]--[2016-09-12 一 13:41] =>  0:02
+     :END:
