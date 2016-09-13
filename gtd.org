@@ -1392,7 +1392,7 @@ three lessons
    - State "DONE"       from "STARTED"    [2016-09-05 一 07:28]
    CLOCK: [2016-09-05 一 06:28]--[2016-09-05 一 07:28] =>  1:00
    :END:
-
+read loud and clean. thirty paragraphs
 ** DONE [#B]新生开学典礼军训开训
    CLOSED: [2016-09-05 一 10:23]
    :LOGBOOK:
@@ -1549,8 +1549,10 @@ http://wenku.baidu.com/link?url=zacfqqWNFH4MTfgF7YRp3aIy9iqfdHk-3vvqt0_abOaefv7f
    CLOCK: [2016-09-08 四 09:51]--[2016-09-08 四 10:40] =>  0:49
    :END:
 
-** STARTED [#B]browse and learn
+** DONE [#B]browse and learn
+   CLOSED: [2016-09-13 二 08:48]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 08:48]
    CLOCK: [2016-09-08 四 14:12]--[2016-09-08 四 17:06] =>  2:54
    :END:
 
@@ -1695,6 +1697,88 @@ watch zilongshanren
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-12 一 20:28]
    CLOCK: [2016-09-12 一 19:33]--[2016-09-12 一 20:28] =>  0:55
+   :END:
+
+** DONE [#B] relax and listen music
+   CLOSED: [2016-09-13 二 05:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 05:50]
+   CLOCK: [2016-09-13 二 05:10]--[2016-09-13 二 05:50] =>  0:40
+   :END:
+
+** DONE [#B] read loud 《道德经》
+   CLOSED: [2016-09-13 二 06:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 06:55]
+   CLOCK: [2016-09-13 二 06:39]--[2016-09-13 二 06:55] =>  0:16
+   :END:
+
+** DONE [#B] think about today's meeting
+   CLOSED: [2016-09-13 二 08:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 08:32]
+   CLOCK: [2016-09-13 二 07:58]--[2016-09-13 二 08:32] =>  0:34
+   :END:
+1. 时间管理及知识管理，从干部做起
+2. 严格考勤，统计通报。从干部、党员做起。
+3. 落实ERP、在线学习系统。
+4. 身教大于言传
+5. 16级管理、全部进入readme，学习wiki
+6. 胸牌制作及配带
+7. 晚自习，丰富内容：讲座、技能练习、音乐、形体
+8. 教师考勤逐步实行ERP
+
+** DONE [#B] 准备会议内容及招开系办公会议
+   CLOSED: [2016-09-13 二 10:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 10:50]
+   CLOCK: [2016-09-13 二 08:53]--[2016-09-13 二 10:50] =>  1:57
+   :END:
+开会：全体管理干部
+
+** DONE [#B] 检查教学情况
+   CLOSED: [2016-09-13 二 11:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 11:26]
+   CLOCK: [2016-09-13 二 10:56]--[2016-09-13 二 11:26] =>  0:30
+   :END:
+
+** DONE [#B] 新生专业思想教育
+   CLOSED: [2016-09-13 二 15:15] SCHEDULED: <2016-09-13 二 14:20> DEADLINE: <2016-09-13 二 15:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 15:15]
+    CLOCK: [2016-09-13 二 14:30]--[2016-09-13 二 15:15] =>  0:45
+
+   :END:
+
+
+*** 1. 正确的选择决定了一生的工作及幸福
+1. 前40年It 高速发展，成就了事业及成功人士
+intel microsoft 联想。搜狐
+2. 现在大数据 云应用成势
+Facebook 阿里
+3.未来仍然是It的天下
+人工智能、智造、个性化服务
+
+*** 学习什么
+1. 学习最新的 大数据、云平台实操
+2. 学习实践现代管理
+3. 高效学习及工作实践
+4. 必备的技能
+A. 盲打终身用
+B. 管理知识
+C. ERP/在线学习
+D. spacemacs
+
+*** 目标
+1. 职业目标：CIO CDO
+2. 人生目标：女生：公主。男生：负责任的男人。
+
+*** 终身学习
+
+** STARTED [#B]read and learn Ruby
+   :LOGBOOK:
+   CLOCK: [2016-09-13 二 15:44]--[2016-09-13 二 20:05] =>  4:21
    :END:
 
 * Cocos2D-X

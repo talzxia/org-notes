@@ -346,6 +346,12 @@ Is the woman with a bag? No, she is under a big umbrella.
    - State "DONE"       from "STARTED"    [2016-09-10 六 05:53]
    CLOCK: [2016-09-10 六 05:36]--[2016-09-10 六 05:53] =>  0:17
    :END:
+** DONE Review<2016-09-13 二 05:51>99.5%
+   CLOSED: [2016-09-13 二 06:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 06:11]
+   CLOCK: [2016-09-13 二 05:51]--[2016-09-13 二 06:11] =>  0:20
+   :END:
 * DONE Lesson four 98%                                                 :four:
   CLOSED: [2016-07-24 Sun 10:14]
   :LOGBOOK:
@@ -394,6 +400,12 @@ Is the woman with a bag? No, she is under a big umbrella.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-10 六 11:07]
    CLOCK: [2016-09-10 六 10:51]--[2016-09-10 六 11:07] =>  0:16
+   :END:
+** DONE Review<2016-09-13 二 06:12>99.9%
+   CLOSED: [2016-09-13 二 06:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 06:28]
+   CLOCK: [2016-09-13 二 06:12]--[2016-09-13 二 06:28] =>  0:16
    :END:
 ** text
 I
@@ -536,6 +548,12 @@ Are they speaking with a flower? No, they are speaking on the telephone.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-10 六 11:55]
    CLOCK: [2016-09-10 六 11:36]--[2016-09-10 六 11:55] =>  0:19
+   :END:
+** DONE Review<2016-09-13 二 15:19>99.4%
+   CLOSED: [2016-09-13 二 15:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 15:43]
+   CLOCK: [2016-09-13 二 15:19]--[2016-09-13 二 15:43] =>  0:24
    :END:
 ** text
 a woman
@@ -730,6 +748,12 @@ Is it summer? No, it is winter: a woman is running in the snow.
    - State "DONE"       from "STARTED"    [2016-09-10 六 15:51]
    CLOCK: [2016-09-10 六 15:35]--[2016-09-10 六 15:51] =>  0:16
    :END:
+** DONE Review <2016-09-13 二 20:05>99.6%
+   CLOSED: [2016-09-13 二 20:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 20:22]
+   CLOCK: [2016-09-13 二 20:05]--[2016-09-13 二 20:22] =>  0:17
+   :END:
 * DONE Lesson seven 97.7%
   CLOSED: [2016-07-24 Sun 04:36]
   :LOGBOOK:
@@ -770,6 +794,12 @@ Is it summer? No, it is winter: a woman is running in the snow.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 05:06]
    CLOCK: [2016-09-11 日 04:49]--[2016-09-11 日 05:06] =>  0:17
+   :END:
+** DONE Review<2016-09-13 二 21:01>99.7%
+   CLOSED: [2016-09-13 二 21:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 21:16]
+   CLOCK: [2016-09-13 二 21:01]--[2016-09-13 二 21:16] =>  0:15
    :END:
 ** text
 hot
@@ -22310,6 +22340,12 @@ A child should help his parents.
    CLOCK: [2016-08-15 Mon 04:39]--[2016-08-15 Mon 05:03] =>  0:24
    :END:
 
+** DONE Review <2016-09-13 二 04:34>98.7%
+   CLOSED: [2016-09-13 二 05:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 05:07]
+   CLOCK: [2016-09-13 二 04:34]--[2016-09-13 二 05:07] =>  0:33
+   :END:
 * DONE Fifty 95.0%
   CLOSED: [2016-08-14 Sun 20:09]
   :LOGBOOK:
@@ -22498,6 +22534,12 @@ there.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-17 三 05:43]
    CLOCK: [2016-08-17 三 05:14]--[2016-08-17 三 05:43] =>  0:29
+   :END:
+** DONE Review<2016-09-13 二 03:56>99.1%
+   CLOSED: [2016-09-13 二 04:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-13 二 04:26]
+   CLOCK: [2016-09-13 二 03:56]--[2016-09-13 二 04:26] =>  0:30
    :END:
 * DONE listen
   CLOSED: [2016-07-22 Fri 21:11]
