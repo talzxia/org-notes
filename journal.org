@@ -1909,32 +1909,61 @@ half an hour
      CLOCK: [2016-09-12 一 08:01]--[2016-09-12 一 08:54] =>  0:53
      :END:
 
-****** DONE arrive office and begin work
-       CLOSED: [2016-09-12 一 13:41]
+******** DONE arrive office and begin work
+         CLOSED: [2016-09-12 一 13:41]
+         :LOGBOOK:
+         - State "DONE"       from "STARTED"    [2016-09-12 一 13:41]
+         CLOCK: [2016-09-12 一 13:39]--[2016-09-12 一 13:41] =>  0:02
+         :END:
+***** 2016-09-13 星期二
+
+****** DONE arrive office and begin learning
+       CLOSED: [2016-09-13 二 03:53]
        :LOGBOOK:
-       - State "DONE"       from "STARTED"    [2016-09-12 一 13:41]
-       CLOCK: [2016-09-12 一 13:39]--[2016-09-12 一 13:41] =>  0:02
+       - State "DONE"       from "STARTED"    [2016-09-13 二 03:53]
        :END:
-*** 2016-09-13 星期二
+
+****** DONE going to home and eat breakfast.
+       CLOSED: [2016-09-13 二 06:57]
+       :LOGBOOK:
+       - State "DONE"       from "STARTED"    [2016-09-13 二 06:57]
+       :END:
+
+****** DONE arrive office begin work
+       CLOSED: [2016-09-13 二 07:53]
+       :LOGBOOK:
+       - State "DONE"       from "STARTED"    [2016-09-13 二 07:53]
+       :END:
+
+  ****today it is raining
+
+****** going to home and eating
+*** 2016-09-14 星期三
 
 **** DONE arrive office and begin learning
-     CLOSED: [2016-09-13 二 03:53]
+     CLOSED: [2016-09-14 三 04:36]
      :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-09-13 二 03:53]
+     - State "DONE"       from "STARTED"    [2016-09-14 三 04:36]
      :END:
 
-**** DONE going to home and eat breakfast.
-     CLOSED: [2016-09-13 二 06:57]
+**** DONE arrive office begin check teach
+     CLOSED: [2016-09-14 三 08:11]
      :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-09-13 二 06:57]
+     - State "DONE"       from "STARTED"    [2016-09-14 三 08:11]
+     CLOCK: [2016-09-14 三 07:59]--[2016-09-14 三 08:11] =>  0:12
      :END:
 
-**** DONE arrive office begin work
-     CLOSED: [2016-09-13 二 07:53]
+**** DONE arrive office and begin work
+     CLOSED: [2016-09-14 三 14:04]
      :LOGBOOK:
-     - State "DONE"       from "STARTED"    [2016-09-13 二 07:53]
+     - State "DONE"       from "STARTED"    [2016-09-14 三 14:04]
      :END:
 
-****today it is raining
+**** today aftern 4:00-5:00
+meeting
 
-**** going to home and eating
+**** DONE today update ios 10
+     CLOSED: [2016-09-14 三 21:35]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-14 三 21:35]
+     :END:

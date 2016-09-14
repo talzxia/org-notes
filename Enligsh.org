@@ -3046,6 +3046,12 @@ Are the child's feet big or small? His feet are small.
    CLOCK: [2016-09-01 Thu 19:02]--[2016-09-01 Thu 19:23] =>  0:21
    :END:
 
+** DONE Review<2016-09-14 三 20:22>99.3%
+   CLOSED: [2016-09-14 三 21:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-14 三 21:22]
+   CLOCK: [2016-09-14 三 20:22]--[2016-09-14 三 21:22] =>  1:00
+   :END:
 ** text
 
 The policeman is wearing a blue cap.
@@ -5322,6 +5328,19 @@ The woman is checking her flight on her ticket.
    CLOCK: [2016-08-04 Thu 10:22]--[2016-08-04 Thu 11:01] =>  0:39
    :END:
 
+** DONE Review <2016-09-14 三 05:25>97.8%
+   CLOSED: [2016-09-14 三 06:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-14 三 06:47]
+    CLOCK: [2016-09-14 三 05:25]--[2016-09-14 三 05:59] =>  0:34
+
+:END:
+** STARTED Review <2016-09-14 三 14:08>
+   :LOGBOOK:
+   CLOCK: [2016-09-14 三 14:08]--[2016-09-14 三 15:21] =>  1:13
+   - State "STARTED"    from "DONE"       [2016-09-14 三 14:08]
+   - State "DONE"       from "STARTED"    [2016-09-14 三 14:07]
+   :END:
 ** text
 *** film
 英  [fɪlm]   美  [fɪlm]
@@ -6773,7 +6792,7 @@ article.yeeyan.org
 These girls are peers. They studay in the same grade at the university.
 
 These childen are friends. They're watching an interesting film about
-old-fashioned clothes onb TV.
+old-fashioned clothes on TV.
 
 The friends are celebrating a holiday.
 
@@ -6795,6 +6814,7 @@ These musicians are playing modern music on a violin and a gurtar.
 The musician also plays the drums.
 
 The friends are putting on carnival costumes.
+
 
 
 The woman is wearing a wig.
@@ -6828,7 +6848,7 @@ At a wedding the bride throws her bouquet to her friends.
 The man in the carnival costume gives the womman in the old-fashioned dress and
 wig a bouquet of flowers.
 
-The birde throws her bouquet, and her friends catch it.
+The bride throws her bouquet, and her friends catch it.
 
 The man is in a modern suit, and the woman is in an old-fashioned dress.
 
@@ -11554,6 +11574,12 @@ What is the chef doing ? He's frying a whole chicken.
    CLOCK: [2016-08-05 Fri 08:26]--[2016-08-05 Fri 08:49] =>  0:23
    :END:
 
+** DONE Review<2016-09-14 三 04:42>98.3%
+   CLOSED: [2016-09-14 三 05:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-14 三 05:13]
+   CLOCK: [2016-09-14 三 04:42]--[2016-09-14 三 05:13] =>  0:31
+   :END:
 ** text
 
 *** a cow
