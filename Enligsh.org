@@ -1719,6 +1719,12 @@ Who is waiting at the window? The dog is waiting at the window.
    - State "DONE"       from "STARTED"    [2016-09-11 日 21:00]
    CLOCK: [2016-09-11 日 20:36]--[2016-09-11 日 21:00] =>  0:24
    :END:
+** DONE Review <2016-09-15 四 09:59>99.5%
+   CLOSED: [2016-09-15 四 10:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-15 四 10:21]
+   CLOCK: [2016-09-15 四 09:59]--[2016-09-15 四 10:21] =>  0:22
+   :END:
 ** text
 a mobile phone
 dishes
@@ -2389,6 +2395,12 @@ It likes to dance.
    - State "DONE"       from "STARTED"    [2016-09-07 三 17:11]
    CLOCK: [2016-09-07 三 16:54]--[2016-09-07 三 17:11] =>  0:17
    :END:
+** DONE Review<2016-09-15 四 10:55>99.2%
+   CLOSED: [2016-09-15 四 11:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-15 四 11:13]
+   CLOCK: [2016-09-15 四 10:55]--[2016-09-15 四 11:13] =>  0:18
+   :END:
 * Lesson seventeen<2016-06-22 Wed 06:19>
 ** DONE Review seventeen 97.6%
    CLOSED: [2016-08-09 Tue 15:15]
@@ -2426,6 +2438,18 @@ It likes to dance.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-12 一 05:02]
    CLOCK: [2016-09-12 一 04:43]--[2016-09-12 一 05:02] =>  0:19
+   :END:
+** DONE Review<2016-09-15 四 17:29>98.2%
+   CLOSED: [2016-09-15 四 17:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-15 四 17:46]
+   CLOCK: [2016-09-15 四 17:28]--[2016-09-15 四 17:46] =>  0:18
+   :END:
+** DONE Review<2016-09-15 四 17:48>99.6%
+   CLOSED: [2016-09-15 四 18:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-15 四 18:07]
+   CLOCK: [2016-09-15 四 17:48]--[2016-09-15 四 18:07] =>  0:19
    :END:
 ** text
 a customer
@@ -2787,6 +2811,12 @@ A red flower? No, a grey bird.
    - State "DONE"       from "STARTED"    [2016-09-08 四 11:03]
    CLOCK: [2016-09-08 四 10:41]--[2016-09-08 四 11:03] =>  0:22
    :END:
+** DONE Review <2016-09-15 四 20:19>99.1%
+   CLOSED: [2016-09-15 四 20:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-15 四 20:41]
+   CLOCK: [2016-09-15 四 20:19]--[2016-09-15 四 20:41] =>  0:22
+   :END:
 * lesson ninteen<2016-07-07 Thu>
 ** DONE Review 96.7%
    CLOSED: [2016-08-25 Thu 15:20]
@@ -2818,6 +2848,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-12 一 07:22]
    CLOCK: [2016-09-12 一 07:04]--[2016-09-12 一 07:22] =>  0:18
+   :END:
+** DONE Review<2016-09-15 四 20:48>99.8%
+   CLOSED: [2016-09-15 四 21:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-15 四 21:09]
+   CLOCK: [2016-09-15 四 20:48]--[2016-09-15 四 21:09] =>  0:21
    :END:
 ** text
 a cheek
@@ -19187,6 +19223,12 @@ People are buying jewelry wtih a discount.
    - State "DONE"       from "STARTED"    [2016-09-09 五 05:31]
    CLOCK: [2016-09-09 五 05:03]--[2016-09-09 五 05:31] =>  0:28
    :END:
+** DONE Review <2016-09-15 四 09:22>98.9%
+   CLOSED: [2016-09-15 四 09:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-15 四 09:56]
+   CLOCK: [2016-09-15 四 09:22]--[2016-09-15 四 09:56] =>  0:34
+   :END:
 ** text
 *** legs
 英  [leg]   美  [lɛɡ]
@@ -20458,6 +20500,12 @@ Only the chairman's strong control was able to impart some sense of seriousness 
    - State "DONE"       from "STARTED"    [2016-09-10 六 09:25]
    CLOCK: [2016-09-10 六 09:02]--[2016-09-10 六 09:25] =>  0:23
    :END:
+** DONE Review<2016-09-15 四 05:33>99.1%
+   CLOSED: [2016-09-15 四 06:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-15 四 06:17]
+   CLOCK: [2016-09-15 四 05:33]--[2016-09-15 四 06:17] =>  0:44
+   :END:
 ** text
 ** a sculptor
 sculptor
@@ -21461,14 +21509,14 @@ A painter paints on canvas.
 
 A poet writes poems.
 
-A sculptor sculps a sculpture.
+A sculptor sculpts a sculpture.
 
 The great poet is reading his poems.
 
 The spectators in the theater are watching ballet.
 
 The spectators in the theater are listening to an apera.
-A girl cust a doll out of paper.
+A girl cuts a doll out of paper.
 
 doll
  英  [dɒl]   美  [dɑl]
@@ -21560,7 +21608,7 @@ Writing poems is more difficult thant writing a letter.
 
 Carving wood is more difficult than sculpting clay.
 
-Painting on canvas in more difficult than drawing on paper.
+Painting on canvas is more difficult than drawing on paper.
 
 
 This toy is made out of wood.
@@ -21595,7 +21643,7 @@ If a painter paints very beautifully, he's a great painter.
 
 If a ballerina dances very beautifully, she's a great ballerina.
 
-If they sing in thetheater, it's opera.
+If they sing in the theater, it's opera.
 
 If there are many paintings in a room, it's a museum.
 
@@ -21626,6 +21674,12 @@ GBOOK:
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 04:42]
    CLOCK: [2016-09-11 日 04:18]--[2016-09-11 日 04:42] =>  0:24
+   :END:
+** DONE Review<2016-09-15 四 04:46>99.0%
+   CLOSED: [2016-09-15 四 05:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-15 四 05:16]
+   CLOCK: [2016-09-15 四 04:46]--[2016-09-15 四 05:16] =>  0:30
    :END:
 ** text
 *** a capital
