@@ -2984,6 +2984,12 @@ Are the child's feet big or small? His feet are small.
    - State "DONE"       from "STARTED"    [2016-09-12 一 18:57]
    CLOCK: [2016-09-12 一 18:30]--[2016-09-12 一 18:57] =>  0:27
    :END:
+** DONE Review<2016-09-16 五 11:44>99.5%
+   CLOSED: [2016-09-16 五 12:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-16 五 12:04]
+   CLOCK: [2016-09-16 五 11:44]--[2016-09-16 五 12:04] =>  0:20
+   :END:
 ** text
  a policeman
  a teacher
@@ -3087,6 +3093,12 @@ Are the child's feet big or small? His feet are small.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-14 三 21:22]
    CLOCK: [2016-09-14 三 20:22]--[2016-09-14 三 21:22] =>  1:00
+   :END:
+** DONE Review <2016-09-16 五 15:19>99.7%
+   CLOSED: [2016-09-16 五 15:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-16 五 15:44]
+   CLOCK: [2016-09-16 五 15:19]--[2016-09-16 五 15:44] =>  0:25
    :END:
 ** text
 
@@ -3273,6 +3285,12 @@ Bucky couch 布凯氏滤线器床
    CLOCK: [2016-09-01 Thu 19:31]--[2016-09-01 Thu 19:52] =>  0:21
    :END:
 
+** DONE Review<2016-09-16 五 19:41>98.8%
+   CLOSED: [2016-09-16 五 20:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-16 五 20:02]
+   CLOCK: [2016-09-16 五 19:41]--[2016-09-16 五 20:02] =>  0:21
+   :END:
 ** text
 an artist
 a secretary
@@ -3303,7 +3321,7 @@ a jolly performance
 jazz concert
 
 This is the actres befor the performance.
-Theis is a boy in a black mask.
+This is a boy in a black mask.
 There are no people on this stage.
 This is a small stage in a small theatre.
 These are the musicians during the concert.
@@ -17156,6 +17174,24 @@ The woman has a stomachache.
    - State "DONE"       from "STARTED"    [2016-09-05 一 05:01]
    CLOCK: [2016-09-05 一 04:39]--[2016-09-05 一 05:01] =>  0:22
    :END:
+** DONE Review<2016-09-16 五 06:06>98.7%
+   CLOSED: [2016-09-16 五 06:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-16 五 06:35]
+   CLOCK: [2016-09-16 五 06:06]--[2016-09-16 五 06:35] =>  0:29
+   :END:
+** DONE Review<2016-09-16 五 11:06>98.7%
+   CLOSED: [2016-09-16 五 11:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-16 五 11:42]
+   CLOCK: [2016-09-16 五 11:06]--[2016-09-16 五 11:42] =>  0:36
+   :END:
+** DONE Review <2016-09-16 五 14:56>99.6%
+   CLOSED: [2016-09-16 五 15:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-16 五 15:17]
+   CLOCK: [2016-09-16 五 14:54]--[2016-09-16 五 15:17] =>  0:23
+   :END:
 ** text
 *** elderly people
 *** a child
@@ -17809,6 +17845,12 @@ Children get sick more often than adults.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-10 六 04:32]
    CLOCK: [2016-09-10 六 04:02]--[2016-09-10 六 04:32] =>  0:30
+   :END:
+** DONE Review <2016-09-16 五 04:48>99.1%
+   CLOSED: [2016-09-16 五 05:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-16 五 05:31]
+   CLOCK: [2016-09-16 五 04:49]--[2016-09-16 五 05:31] =>  0:42
    :END:
 ** text
 *** a bracelet
@@ -19166,7 +19208,7 @@ Diamonds are very expensive jewels.
 
 Why is the girl happy? Her dad gives her golden earrings. She loves jewelry.
 
-Why are the boyfriend and girlfriend out a ring? They want to marry. They love
+Why are the boyfriend and girlfriend picking out a ring? They want to marry. They love
 each other.
 
 Why is the boyfriend giving his girlfriend a pendant? He's courting her. He

@@ -133,6 +133,7 @@
    CLOCK: [2016-07-22 Fri 06:29]--[2016-07-22 Fri 06:53] =>  0:24
    :END:
 
+
 ** DONE [#B] relax
    CLOSED: [2016-07-23 Sat 04:55]
    :LOGBOOK:
@@ -1849,10 +1850,27 @@ D. spacemacs
    - State "DONE"       from "STARTED"    [2016-09-15 四 18:07]
    :END:
 
-** STARTED [#B] relax
+** DONE [#B] relax
+   CLOSED: [2016-09-16 五 05:32]
    :LOGBOOK:
-   CLOCK: [2016-09-15 四 21:10]
+   - State "DONE"       from "STARTED"    [2016-09-16 五 05:32]
+   CLOCK: [2016-09-15 四 21:10]--[2016-09-15 四 21:49] =>  0:39
    :END:
+
+** DONE [#B] relax
+   CLOSED: [2016-09-16 五 06:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-16 五 06:06]
+   CLOCK: [2016-09-16 五 05:40]--[2016-09-16 五 06:06] =>  0:26
+   :END:
+
+** DONE [#B] listen music
+   CLOSED: [2016-09-16 五 07:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-16 五 07:10]
+   CLOCK: [2016-09-16 五 06:38]--[2016-09-16 五 07:10] =>  0:32
+   :END:
+
 
 * Cocos2D-X
 

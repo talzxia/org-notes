@@ -2005,3 +2005,36 @@ It is a good weather.
      :END:
 
 **** arrive office and learning
+*** 2016-09-16 星期五
+
+**** DONE arrive office and begin learning
+     CLOSED: [2016-09-16 五 04:45]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-16 五 04:45]
+     :END:
+
+**** DONE take wife to the sister's home
+     CLOSED: [2016-09-16 五 11:02]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-16 五 11:02]
+     CLOCK: [2016-09-16 五 09:00]--[2016-09-16 五 11:02] =>  2:02
+     :END:
+
+**** DONE arrive office and begin learning
+     CLOSED: [2016-09-16 五 14:53]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-16 五 14:53]
+     :END:
+
+**** DONE arrived office begin to learn
+     CLOSED: [2016-09-16 五 19:32]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-16 五 19:32]
+     :END:
+
+**** DONE today begin hand ache, relax
+     CLOSED: [2016-09-16 五 21:53]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-16 五 21:53]
+     CLOCK: [2016-09-16 五 20:05]--[2016-09-16 五 21:53] =>  1:48
+     :END:
