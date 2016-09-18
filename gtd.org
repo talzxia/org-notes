@@ -841,11 +841,18 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]早锻炼
-   DEADLINE: <2016-09-11 日 06:20 +1d>
+   DEADLINE: <2016-09-18 日 06:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-09-11 日 09:47]
+   :LAST_REPEAT: [2016-09-17 六 08:53]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-09-17 六 08:53]
+   - State "DONE"       from "TODO"       [2016-09-17 六 08:53]
+   - State "DONE"       from "TODO"       [2016-09-17 六 08:53]
+   - State "DONE"       from "TODO"       [2016-09-17 六 08:53]
+   - State "DONE"       from "TODO"       [2016-09-17 六 08:53]
+   - State "DONE"       from "TODO"       [2016-09-17 六 08:53]
+   - State "DONE"       from "TODO"       [2016-09-17 六 08:52]
    - State "DONE"       from "TODO"       [2016-09-11 日 09:47]
    - State "DONE"       from "TODO"       [2016-09-11 日 06:32]
    - State "DONE"       from "STARTED"    [2016-09-09 五 08:02]
@@ -1871,6 +1878,12 @@ D. spacemacs
    CLOCK: [2016-09-16 五 06:38]--[2016-09-16 五 07:10] =>  0:32
    :END:
 
+** DONE [#B] relax
+   CLOSED: [2016-09-17 六 05:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-17 六 05:44]
+   CLOCK: [2016-09-17 六 05:19]--[2016-09-17 六 05:44] =>  0:25
+   :END:
 
 * Cocos2D-X
 

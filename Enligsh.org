@@ -36,7 +36,8 @@ The boy is sitting down
 The monkey is standing
 
 The girl is standing
-the woman is walking
+the woman is walk
+ing
 The giraffe is walking.
 The boy is running.
 The woman is standing.
@@ -351,6 +352,12 @@ Is the woman with a bag? No, she is under a big umbrella.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-13 二 06:11]
    CLOCK: [2016-09-13 二 05:51]--[2016-09-13 二 06:11] =>  0:20
+   :END:
+** DONE Review<2016-09-17 六 09:39>99.6%
+   CLOSED: [2016-09-17 六 09:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-17 六 09:59]
+   CLOCK: [2016-09-17 六 09:39]--[2016-09-17 六 09:59] =>  0:20
    :END:
 * DONE Lesson four 98%                                                 :four:
   CLOSED: [2016-07-24 Sun 10:14]
@@ -3291,6 +3298,12 @@ Bucky couch 布凯氏滤线器床
    - State "DONE"       from "STARTED"    [2016-09-16 五 20:02]
    CLOCK: [2016-09-16 五 19:41]--[2016-09-16 五 20:02] =>  0:21
    :END:
+** DONE Review<2016-09-17 六 04:15>99%
+   CLOSED: [2016-09-17 六 04:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-17 六 04:36]
+   CLOCK: [2016-09-17 六 04:14]--[2016-09-17 六 04:36] =>  0:22
+   :END:
 ** text
 an artist
 a secretary
@@ -3382,6 +3395,18 @@ The photographer has interesting work.
  有点累了，精力不继。效果打折。
   :END:
 
+** DONE Review<2016-09-18 日 11:19>98.9%
+   CLOSED: [2016-09-18 日 11:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-18 日 11:40]
+   CLOCK: [2016-09-18 日 11:19]--[2016-09-18 日 11:40] =>  0:21
+   :END:
+** DONE Review<2016-09-18 日 19:33>99.4%
+   CLOSED: [2016-09-18 日 19:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-18 日 19:52]
+   CLOCK: [2016-09-18 日 19:33]--[2016-09-18 日 19:52] =>  0:19
+   :END:
 ** text
 countryside
 a statue
@@ -14537,6 +14562,18 @@ He has just come off a difficult assignment.
    - State "DONE"       from "STARTED"    [2016-08-28 日 19:04]
    CLOCK: [2016-08-28 日 18:38]--[2016-08-28 日 19:04] =>  0:26
    :END:
+** DONE Review<2016-09-18 日 09:24>98.8%
+   CLOSED: [2016-09-18 日 10:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-18 日 10:12]
+   CLOCK: [2016-09-18 日 09:25]--[2016-09-18 日 10:12] =>  0:47
+   :END:
+** DONE Review<2016-09-18 日 20:43>99.3%
+   CLOSED: [2016-09-18 日 21:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-18 日 21:13]
+   CLOCK: [2016-09-18 日 20:43]--[2016-09-18 日 21:13] =>  0:30
+   :END:
 ** text
 a calendar
 a day
@@ -15660,7 +15697,7 @@ to write out a check
 
 to withdraw money
 
-to depost money
+to deposit money
 
 to take out a loan
 
@@ -16237,6 +16274,13 @@ In order to make an expensive purchase, you need to have a lot of money in your 
 In order to send a package, you need to fill out a form.
 
 In order to open an account, you need to go to the bank.
+
+** DONE Review<2016-09-17 六 05:46>98.5%
+   CLOSED: [2016-09-17 六 06:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-17 六 06:46]
+   CLOCK: [2016-09-17 六 05:45]--[2016-09-17 六 06:46] =>  1:01
+   :END:
 
 * DONE Forty four 96%
   CLOSED: [2016-08-09 Tue 11:33]
@@ -17143,6 +17187,18 @@ The woman has a stomachache.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-04 Sun 06:46]
    CLOCK: [2016-09-04 Sun 06:21]--[2016-09-04 Sun 06:46] =>  0:25
+   :END:
+** DONE Review <2016-09-17 六 04:42>99.1%
+   CLOSED: [2016-09-17 六 05:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-17 六 05:19]
+   CLOCK: [2016-09-17 六 04:42]--[2016-09-17 六 05:19] =>  0:37
+   :END:
+** DONE Review<2016-09-17 六 09:01>99.3%
+   CLOSED: [2016-09-17 六 09:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-17 六 09:38]
+   CLOCK: [2016-09-17 六 09:00]--[2016-09-17 六 09:38] =>  0:38
    :END:
 * DONE Forty five 96.3%
   CLOSED: [2016-08-10 三 03:30]

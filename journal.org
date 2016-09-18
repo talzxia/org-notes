@@ -2038,3 +2038,24 @@ It is a good weather.
      - State "DONE"       from "STARTED"    [2016-09-16 五 21:53]
      CLOCK: [2016-09-16 五 20:05]--[2016-09-16 五 21:53] =>  1:48
      :END:
+*** 2016-09-17 星期六
+
+**** DONE arrive office prepare to learn
+     CLOSED: [2016-09-17 六 04:13]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-17 六 04:13]
+     CLOCK: [2016-09-17 六 04:10]--[2016-09-17 六 04:13] =>  0:03
+     :END:
+
+**** DONE arrived office and begin to learn
+     CLOSED: [2016-09-17 六 08:55]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-17 六 08:55]
+     :END:
+*** 2016-09-18 星期日
+
+**** DONE today I has a backache, so I relaxes.
+     CLOSED: [2016-09-18 日 21:14]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-18 日 21:14]
+     :END:
