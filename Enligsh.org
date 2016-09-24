@@ -39,7 +39,8 @@ The girl is standing
 the woman is walk
 ing
 The giraffe is walking.
-The boy is running.
+The boy is r|------------------+-------------------------------------------+--------+------|
+unning.
 The woman is standing.
 The girl is running.
 
@@ -3613,6 +3614,19 @@ They detoured around the traffic jam by heading south.
    CLOCK: [2016-07-30 Sat 11:02]--[2016-07-30 Sat 11:25] =>  0:23
    :END:
 
+** DONE Review<2016-09-20 二 11:15>98.3%
+   CLOSED: [2016-09-20 二 11:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-20 二 11:40]
+   CLOCK: [2016-09-20 二 11:15]--[2016-09-20 二 11:40] =>  0:25
+   :END:
+** DONE Review <2016-09-20 二 15:00>99.3%
+   CLOSED: [2016-09-20 二 15:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-20 二 15:41]
+   CLOCK: [2016-09-20 二 15:00]--[2016-09-20 二 15:41] =>  0:41
+   :END:
+千锋科技来访，打断了。时间较长。
 ** text
 underground
 a plane b
@@ -3660,7 +3674,7 @@ When there is a green light, the cars move.
 When there is a red light, the cars do not move.
 Peopoe are getting on the underground car.
 The underground is a fast means of transport.
-When there is a yellow ight, the cars come to a stop.
+When there is a yellow light, the cars come to a stop.
 The toy train has two cars. One is red, and one is green.
 
 There are cars in the large parking lot.
@@ -3790,6 +3804,30 @@ means of transportation 交通设施
    - State "DONE"       from "STARTED"    [2016-09-03 Sat 09:59]
    CLOCK: [2016-09-03 Sat 09:04]--[2016-09-03 Sat 09:59] =>  0:55
    :END:
+** DONE Review<2016-09-19 一 15:32>98.8%
+   CLOSED: [2016-09-19 一 16:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-19 一 16:09]
+   CLOCK: [2016-09-19 一 15:32]--[2016-09-19 一 16:09] =>  0:37
+   :END:
+** DONE Review<2016-09-19 一 19:01>99.4%
+   CLOSED: [2016-09-19 一 19:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-19 一 19:24]
+   CLOCK: [2016-09-19 一 19:01]--[2016-09-19 一 19:24] =>  0:23
+   :END:
+** DONE Review<2016-09-22 四 19:16>98.9%
+   CLOSED: [2016-09-22 四 20:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-22 四 20:36]
+   CLOCK: [2016-09-22 四 19:16]--[2016-09-22 四 20:36] =>  1:20
+   :END:
+** DONE Review<2016-09-23 五 05:16>99.2%
+   CLOSED: [2016-09-23 五 05:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-23 五 05:42]
+   CLOCK: [2016-09-23 五 05:16]--[2016-09-23 五 05:42] =>  0:26
+   :END:
 ** text
 a sun
 the sea
@@ -3879,7 +3917,14 @@ Is the child working? No, he can't work. He is still very small.
    CLOCK: [2016-07-30 Sat 16:03]--[2016-07-30 Sat 16:20] =>  0:17
    :END:
 
+** DONE Review<2016-09-21 三 04:42>97.9%
+   CLOSED: [2016-09-21 三 05:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-21 三 05:31]
+   CLOCK: [2016-09-21 三 04:42]--[2016-09-21 三 05:31] =>  0:49
+   :END:
 ** text
+
 a tour guide
 a group
 a street
@@ -4072,6 +4117,30 @@ We beached the canoe, running it right up the bank.
 The boat beached on a mud flat.
 船在泥沼上搁浅了。
 96.2%
+** DONE Review<2016-09-21 Wed 13:39>98.3%
+   CLOSED: [2016-09-21 Wed 14:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-21 Wed 14:19]
+   CLOCK: [2016-09-21 Wed 13:39]--[2016-09-21 Wed 14:19] =>  0:40
+   :END:
+** DONE Review<2016-09-21 Wed 18:44>98.9%
+   CLOSED: [2016-09-21 Wed 19:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-21 Wed 19:19]
+   CLOCK: [2016-09-21 Wed 18:44]--[2016-09-21 Wed 19:19] =>  0:35
+   :END:
+** DONE Review<2016-09-22 Thu 07:05>99%
+   CLOSED: [2016-09-22 Thu 07:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-22 Thu 07:36]
+   CLOCK: [2016-09-22 Thu 07:04]--[2016-09-22 Thu 07:36] =>  0:32
+   :END:
+** DONE Review <2016-09-23 五 05:46>99.2%
+   CLOSED: [2016-09-23 五 06:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-23 五 06:14]
+   CLOCK: [2016-09-23 五 05:46]--[2016-09-23 五 06:14] =>  0:28
+   :END:
 * DONE lesson twenty seven
   CLOSED: [2016-07-12 Tue 04:48]
 :LOGBOOK:
@@ -4084,7 +4153,14 @@ CLOCK: [2016-07-12 Tue 03:01]--[2016-07-12 Tue 04:48] =>  1:47
    CLOCK: [2016-08-12 五 14:09]--[2016-08-12 五 14:38] =>  0:29
    :END:
 
-
+** DONE Review<2016-09-21 Wed 06:08>98.6%
+   CLOSED: [2016-09-22 Thu 18:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-22 Thu 18:34]
+   - State "STARTED"    from "DONE"       [2016-09-22 Thu 16:08]
+   - State "DONE"       from "WAITING"    [2016-09-22 Thu 16:08]
+   - State "DONE"       from "STARTED"    [2016-09-21 Wed 10:42]
+   :END:
 ** text
 holiday
 morning
@@ -4180,6 +4256,12 @@ Do they eat cheese for breakfast? Yes, they do.
    CLOCK: [2016-08-01 Mon 08:56]--[2016-08-01 Mon 09:15] =>  0:19
    :END:
 
+** DONE Review <2016-09-24 六 05:32>99.1%
+   CLOSED: [2016-09-24 六 05:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-24 六 05:59]
+   CLOCK: [2016-09-24 六 05:33]--[2016-09-24 六 05:59] =>  0:26
+   :END:
 ** text
 a view of the sea
 a cactus
@@ -13221,6 +13303,18 @@ What lays eggs? Chickens lay eggs.
  那个衣衫褴褛的人拉着一货车破布碎片.
  www.ebigear.com
 
+** DONE Review<2016-09-19 一 05:35>99.1%
+   CLOSED: [2016-09-19 一 06:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-19 一 06:22]
+   CLOCK: [2016-09-19 一 05:35]--[2016-09-19 一 06:22] =>  0:47
+   :END:
+** DONE Review<2016-09-20 二 07:42>99.1%
+   CLOSED: [2016-09-20 二 08:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-20 二 08:16]
+   CLOCK: [2016-09-20 二 07:42]--[2016-09-20 二 08:16] =>  0:34
+   :END:
 ** text
 
 
@@ -13724,7 +13818,8 @@ Too many irons in the fire can sap your energy and prevent you from seeing which
 
 同时做太多的事情可能会消耗你的精力，使你看不清该走哪条路。
 
-*** a vacuum cleaner
+*** a vacuum cleanery
+
 
 英  ['vækjʊəm]   美  ['vækjʊəm]
 
@@ -13740,7 +13835,8 @@ vt. 用真空吸尘器清扫
 
 N-COUNT A washing machine is a machine that you use to wash clothes in. 洗衣机
 
-*** a mop
+*** a mopj
+
 
 英  [mɒp]   美  [mɑp]
 vt. 擦干；用拖把拖洗
@@ -13821,81 +13917,82 @@ The kitchen is in order.
 
 The man is cleaning up the table.
 
-* DONE contiune
-  CLOSED: [2016-08-04 Thu 06:05]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-04 Thu 06:05]
-   CLOCK: [2016-08-04 Thu 05:21]--[2016-08-04 Thu 06:05] =>  0:44
-   :END:
+** DONE contiune
+   CLOSED: [2016-09-19 一 05:34]
+    :LOGBOOK:
+    - State "DONE"       from "WAITING"    [2016-09-19 一 05:34]
+    - State "DONE"       from "STARTED"    [2016-08-04 Thu 06:05]
+    CLOCK: [2016-08-04 Thu 05:21]--[2016-08-04 Thu 06:05] =>  0:44
+    :END:
 
-The room is in order - The books are standing on the shelf and clothes are lying on
-the cabinet.
+ The room is in order - The books are standing on the shelf and clothes are lying on
+ the cabinet.
 
-The room is in disorder - books, clothes and toys are lying on the floor.
+ The room is in disorder - books, clothes and toys are lying on the floor.
 
-The kitchen is in disorder - dirty dishes are on the table, and the tablecloth
-is lying on the floor.
+ The kitchen is in disorder - dirty dishes are on the table, and the tablecloth
+ is lying on the floor.
 
-The kitch is in order - clean dishes are standing in the cabinet.
+ The kitch is in order - clean dishes are standing in the cabinet.
 
-The bathroom is in disorder - the lanudry detergent, soap and towel are lying on
-the floor.
+ The bathroom is in disorder - the lanudry detergent, soap and towel are lying on
+ the floor.
 
-The bathroom is in order - the lanudry detergent and soap are lying on the shelf and
-the towel is hanging.
+ The bathroom is in order - the lanudry detergent and soap are lying on the shelf and
+ the towel is hanging.
 
-In order to clean shoes, you need a shoe brush.
+ In order to clean shoes, you need a shoe brush.
 
-In order to wash the stove, you need detergent.
-英  [stəʊv]   美  [stov]
-n. 火炉；窑；温室
-vt. 用火炉烤
-n. (Stove)人名；(瑞典)斯托韦
+ In order to wash the stove, you need detergent.
+ 英  [stəʊv]   美  [stov]
+ n. 火炉；窑；温室
+ vt. 用火炉烤
+ n. (Stove)人名；(瑞典)斯托韦
 
-In order to iron pants, you need an iron and an ironing board.
+ In order to iron pants, you need an iron and an ironing board.
 
-In order to wash clothes, you need laundry detergent and a washing machine.
+ In order to wash clothes, you need laundry detergent and a washing machine.
 
-In order to wash the floor, you need a mop and bucket.
+ In order to wash the floor, you need a mop and bucket.
 
-In order to vacuum the rug, you need a vacuum cleaner.
-
-
-The mother is washing the window, and her daughter is washing the floor.
-
-The mother is washing glasses, and her daughter is drying them.
-
-The woman is washing dirty dishes and listening to happy music.
-
-The woman is ironing a beautiful dress and thinking about a party.
-
-The father is ironing a shirt and talking on the phone
-
-The boy is vacuuming the rug and smiling.
+ In order to vacuum the rug, you need a vacuum cleaner.
 
 
-Is the grandmother washing dishes with her hands? Yes, she doesn't have a
-dishwasher.
+ The mother is washing the window, and her daughter is washing the floor.
 
-With what is the man cleaning his shoes? He's cleaning them with a shes
-brush.
+ The mother is washing glasses, and her daughter is drying them.
 
-With what is the woman washing the floor? She's washing the floor with a mop and
+ The woman is washing dirty dishes and listening to happy music.
 
-a wet rag.
-英  [ræg]   美  [ræɡ]
-n. 破布；碎屑
-vt. 戏弄；责骂
-vi. 变破碎；穿着讲究
+ The woman is ironing a beautiful dress and thinking about a party.
 
-What are the children doing? The children are helping their mom clean up in the
-room.
+ The father is ironing a shirt and talking on the phone
 
-With what is the girl drying the plate? She's drying the plates with a clean
-white towel.
+ The boy is vacuuming the rug and smiling.
 
-Is the woman washing clothes with her hands? No, she is washing them in a
-washing machine.
+
+ Is the grandmother washing dishes with her hands? Yes, she doesn't have a
+ dishwasher.
+
+ With what is the man cleaning his shoes? He's cleaning them with a shes
+ brush.
+
+ With what is the woman washing the floor? She's washing the floor with a mop and
+
+ a wet rag.
+ 英  [ræg]   美  [ræɡ]
+ n. 破布；碎屑
+ vt. 戏弄；责骂
+ vi. 变破碎；穿着讲究
+
+ What are the children doing? The children are helping their mom clean up in the
+ room.
+
+ With what is the girl drying the plate? She's drying the plates with a clean
+ white towel.
+
+ Is the woman washing clothes with her hands? No, she is washing them in a
+ washing machine.
 * DONE Forty one 91.6%
   CLOSED: [2016-08-06 六 18:37]
   :LOGBOOK:
@@ -13944,6 +14041,23 @@ washing machine.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-29 Mon 17:16]
    CLOCK: [2016-08-29 Mon 16:39]--[2016-08-29 Mon 17:16] =>  0:37
+   :END:
+** DONE Review<2016-09-19 一 04:39>99%
+   CLOSED: [2016-09-19 一 05:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-19 一 05:22]
+   CLOCK: [2016-09-19 一 04:39]--[2016-09-19 一 05:22] =>  0:43
+   :END:
+** DONE Review <2016-09-19 一 20:41>99.1%
+   CLOSED: [2016-09-19 一 20:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-19 一 20:44]
+   :END:
+** DONE Review<2016-09-20 二 05:49>99.2%
+   CLOSED: [2016-09-20 二 06:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-20 二 06:19]
+   CLOCK: [2016-09-20 二 05:49]--[2016-09-20 二 06:19] =>  0:30
    :END:
 ** text
 a pen
