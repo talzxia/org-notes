@@ -4262,6 +4262,12 @@ Do they eat cheese for breakfast? Yes, they do.
    - State "DONE"       from "STARTED"    [2016-09-24 六 05:59]
    CLOCK: [2016-09-24 六 05:33]--[2016-09-24 六 05:59] =>  0:26
    :END:
+** DONE Review<2016-09-24 六 19:45>99.7%
+   CLOSED: [2016-09-24 六 20:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-24 六 20:03]
+   CLOCK: [2016-09-24 六 19:45]--[2016-09-24 六 20:03] =>  0:18
+   :END:
 ** text
 a view of the sea
 a cactus
@@ -4763,6 +4769,12 @@ A Bronze Pair 青铜双像
    CLOCK: [2016-08-01 Mon 10:21]--[2016-08-01 Mon 11:00] =>  0:39
    :END:
 
+** DONE Review <2016-09-24 六 20:05>99.4%
+   CLOSED: [2016-09-24 六 20:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-24 六 20:44]
+   CLOCK: [2016-09-24 六 20:05]--[2016-09-24 六 20:44] =>  0:39
+   :END:
 * lesson thirty
 ** DONE Review thirty 93.9%
    CLOSED: [2016-08-01 Mon 19:27]
