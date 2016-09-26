@@ -2234,8 +2234,10 @@ http://mt.sohu.com/20160817/n464605736.shtml
    CLOCK: [2016-09-23 五 08:36]--[2016-09-23 五 09:03] =>  0:27
    :END:
 
-** STARTED [#B] read and learn Ruby
+** DONE [#B] read and learn Ruby
+   CLOSED: [2016-09-25 日 19:19]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-25 日 19:19]
    CLOCK: [2016-09-23 五 09:04]--[2016-09-23 五 14:08] =>  5:04
    :END:
 
@@ -2251,6 +2253,50 @@ http://mt.sohu.com/20160817/n464605736.shtml
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-24 六 21:47]
    CLOCK: [2016-09-24 六 20:44]--[2016-09-24 六 21:47] =>  1:03
+   :END:
+
+** DONE [#B]relax and listen to music
+   CLOSED: [2016-09-26 一 07:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-26 一 07:28]
+   CLOCK: [2016-09-25 日 09:38]--[2016-09-25 日 10:25] =>  0:47
+   :END:
+
+** DONE [#B] browse and relax
+   CLOSED: [2016-09-26 一 09:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-26 一 09:29]
+   CLOCK: [2016-09-26 一 07:30]--[2016-09-26 一 09:29] =>  1:59
+   :END:
+王院长来检查教学工作
+
+** DONE [#B] read and learn Ruby
+   CLOSED: [2016-09-26 一 10:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-26 一 10:25]
+   CLOCK: [2016-09-26 一 09:30]--[2016-09-26 一 10:25] =>  0:55
+   :END:
+阅读输入两页。
+
+** DONE [#B] relax and browse
+   CLOSED: [2016-09-26 一 19:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-26 一 19:22]
+   CLOCK: [2016-09-26 一 10:36]--[2016-09-26 一 15:11] =>  4:35
+   :END:
+
+** DONE [#B] 批改作业
+   CLOSED: [2016-09-26 一 19:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-26 一 19:22]
+   CLOCK: [2016-09-26 一 15:11]--[2016-09-26 一 15:20] =>  0:09
+   :END:
+
+** DONE [#B] learn Ruby
+   CLOSED: [2016-09-26 一 19:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-26 一 19:22]
+   CLOCK: [2016-09-26 一 15:20]--[2016-09-26 一 19:22] =>  4:02
    :END:
 
 * Cocos2D-X

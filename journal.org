@@ -2160,3 +2160,17 @@ There are stars in the sky.
      - State "DONE"       from "STARTED"    [2016-09-24 六 05:30]
      CLOCK: [2016-09-24 六 04:28]--[2016-09-24 六 05:30] =>  1:02
      :END:
+*** 2016-09-25 星期日
+
+**** DONE arrive office and clean up
+     CLOSED: [2016-09-25 日 08:17]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-25 日 08:17]
+     :END:
+*** 2016-09-26 星期一
+
+**** DONE arrive office and begin to learn
+     CLOSED: [2016-09-26 一 05:24]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-26 一 05:24]
+     :END:
