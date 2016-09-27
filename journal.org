@@ -2174,3 +2174,21 @@ There are stars in the sky.
      :LOGBOOK:
      - State "DONE"       from "STARTED"    [2016-09-26 一 05:24]
      :END:
+*** 2016-09-27 星期二
+
+**** DONE arrive office and begin to learn
+     CLOSED: [2016-09-27 二 05:14]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-27 二 05:14]
+     :END:
+
+**** going to home and eat breakfast
+
+**** DONE arrvie office and begin work
+     CLOSED: [2016-09-27 二 18:19]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-27 二 18:19]
+     CLOCK: [2016-09-27 二 14:36]--[2016-09-27 二 18:19] =>  3:43
+     :END:
+
+**** today has backache.

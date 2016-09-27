@@ -2299,6 +2299,40 @@ http://mt.sohu.com/20160817/n464605736.shtml
    CLOCK: [2016-09-26 一 15:20]--[2016-09-26 一 19:22] =>  4:02
    :END:
 
+** DONE [#B] relax and browse
+   CLOSED: [2016-09-27 二 06:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-27 二 06:51]
+   CLOCK: [2016-09-27 二 06:17]--[2016-09-27 二 06:51] =>  0:34
+   :END:
+
+** DONE [#B] meeting
+   CLOSED: [2016-09-27 二 09:57] DEADLINE: <2016-09-27 二 10:00> SCHEDULED: <2016-09-27 二 09:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-27 二 09:57]
+   :END:
+
+** DONE [#B] read and learn Ruby
+   CLOSED: [2016-09-27 二 09:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-27 二 09:57]
+   CLOCK: [2016-09-27 二 08:23]--[2016-09-27 二 09:57] =>  1:34
+   :END:
+
+** DONE [#B]relax and has tea
+   CLOSED: [2016-09-27 二 19:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-27 二 19:34]
+   CLOCK: [2016-09-27 二 19:00]--[2016-09-27 二 19:34] =>  0:34
+   :END:
+
+** DONE [#B] check students learn
+   CLOSED: [2016-09-27 二 19:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-27 二 19:51]
+   CLOCK: [2016-09-27 二 19:34]--[2016-09-27 二 19:51] =>  0:17
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

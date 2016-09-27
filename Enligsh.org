@@ -1063,6 +1063,12 @@ Are the men standing around  a table? No, they are sitting around the a table.
    - State "DONE"       from "STARTED"    [2016-09-26 一 19:42]
    CLOCK: [2016-09-26 一 19:24]--[2016-09-26 一 19:42] =>  0:18
    :END:
+** DONE Review<2016-09-27 二 19:53>99.6%
+   CLOSED: [2016-09-27 二 20:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-27 二 20:10]
+   CLOCK: [2016-09-27 二 19:53]--[2016-09-27 二 20:10] =>  0:17
+   :END:
 * DONE Lesson ten 97.9%
   CLOSED: [2016-07-23 Sat 05:54]
   :LOGBOOK:
@@ -4817,6 +4823,12 @@ A Bronze Pair 青铜双像
    - State "DONE"       from "STARTED"    [2016-09-26 一 07:26]
    CLOCK: [2016-09-26 一 05:25]--[2016-09-26 一 07:26] =>  2:01
    :END:
+** DONE Review<2016-09-27 二 05:15>98.4%
+   CLOSED: [2016-09-27 二 06:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-27 二 06:16]
+   CLOCK: [2016-09-27 二 05:15]--[2016-09-27 二 06:16] =>  1:01
+   :END:
 ** text
 It is a summer's day in the countryside. There is a horse standing under the
 tree. It is relaxing.
@@ -5513,6 +5525,12 @@ The woman is checking her flight on her ticket.
  computer
  s
 
+** DONE Review<2016-09-27 二 16:20>97.6%
+   CLOSED: [2016-09-27 二 19:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-27 二 19:00]
+   CLOCK: [2016-09-27 二 18:20]--[2016-09-27 二 19:00] =>  0:40
+   :END:
 * DONE Thirty eight 96.6%
 
   CLOSED: [2016-08-02 Tue 09:19]
