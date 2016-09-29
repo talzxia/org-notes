@@ -2333,6 +2333,78 @@ http://mt.sohu.com/20160817/n464605736.shtml
    CLOCK: [2016-09-27 二 19:34]--[2016-09-27 二 19:51] =>  0:17
    :END:
 
+** DONE [#B] swipe off
+   CLOSED: [2016-09-28 三 04:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-28 三 04:59]
+   CLOCK: [2016-09-28 三 04:54]--[2016-09-28 三 04:59] =>  0:05
+   :END:
+
+** STARTED [#B] relax and listen to music
+   :LOGBOOK:
+   CLOCK: [2016-09-28 三 06:23]--[2016-09-28 三 07:35] =>  1:12
+   :END:
+
+** DONE [#B] 参加运动会开幕式
+   CLOSED: [2016-09-28 三 08:50]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-09-28 三 08:50]
+   - State "DONE"       from "STARTED"    [2016-09-28 三 08:50]
+   CLOCK: [2016-09-28 三 07:55]--[2016-09-28 三 08:50] =>  0:55
+   :END:
+
+** DONE [#B] to learn Ruby
+   CLOSED: [2016-09-28 三 10:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-28 三 10:38]
+   CLOCK: [2016-09-28 三 10:10]--[2016-09-28 三 10:38] =>  0:28
+   :END:
+录入34页。
+
+** DONE [#B] read ruby
+   CLOSED: [2016-09-28 三 18:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-28 三 18:54]
+   CLOCK: [2016-09-28 三 18:24]--[2016-09-28 三 18:54] =>  0:30
+   :END:
+录入35页
+
+** STARTED [#B] free browse and listen to music
+
+** TODO [#B]
+
+** DONE [#B] going to stadium and watch sportsmen
+   CLOSED: [2016-09-29 Thu 15:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-29 Thu 15:09]
+   CLOCK: [2016-09-29 Thu 10:32]--[2016-09-29 Thu 15:09] =>  4:37
+   :END:
+
+** DONE [#B]brows and listen to music
+   CLOSED: [2016-09-29 Thu 19:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-29 Thu 19:18]
+   CLOCK: [2016-09-29 Thu 16:00]--[2016-09-29 Thu 19:18] =>  3:18
+   :END:
+习近平谈全球治理，这一类人未来会吃香
+具有全球视野的专业人才未来会吃香
+
+习近平强调，要提高我国参与全球治理的能力，着力增强规则制定能力、议程设置能力、舆
+论宣传能力、统筹协调能力。而要做到这些，需要人才。对此，习近平指出，参与全球治理
+需要一大批熟悉党和国家方针政策、了解我国国情、具有全球视野、熟练运用外语、通晓国
+际规则、精通国际谈判的专业人才。由此也可以看出，随着我国更多参与全球治理，这些专
+业人才会越来越吃香。
+
+习近平最后强调，要加强全球治理人才队伍建设，突破人才瓶颈，做好人才储备，为我国参
+与全球治理提供有力人才支撑。
+
+** DONE [#B] read ruby
+   CLOSED: [2016-09-29 Thu 19:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-29 Thu 19:47]
+   CLOCK: [2016-09-29 Thu 19:19]--[2016-09-29 Thu 19:47] =>  0:28
+   :END:
+录入36页
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

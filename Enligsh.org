@@ -360,6 +360,18 @@ Is the woman with a bag? No, she is under a big umbrella.
    - State "DONE"       from "STARTED"    [2016-09-17 六 09:59]
    CLOCK: [2016-09-17 六 09:39]--[2016-09-17 六 09:59] =>  0:20
    :END:
+** DONE Review<2016-09-28 三 07:35>99.6%
+   CLOSED: [2016-09-28 三 07:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-28 三 07:54]
+   CLOCK: [2016-09-28 三 07:35]--[2016-09-28 三 07:54] =>  0:19
+   :END:
+** DONE Review<2016-09-29 Thu 19:49>99.7%
+   CLOSED: [2016-09-29 Thu 20:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-29 Thu 20:06]
+   CLOCK: [2016-09-29 Thu 19:49]--[2016-09-29 Thu 20:06] =>  0:17
+   :END:
 * DONE Lesson four 98%                                                 :four:
   CLOSED: [2016-07-24 Sun 10:14]
   :LOGBOOK:
@@ -5531,6 +5543,12 @@ The woman is checking her flight on her ticket.
    - State "DONE"       from "STARTED"    [2016-09-27 二 19:00]
    CLOCK: [2016-09-27 二 18:20]--[2016-09-27 二 19:00] =>  0:40
    :END:
+** DONE Review<2016-09-28 三 05:00>99.4%
+   CLOSED: [2016-09-28 三 05:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-28 三 05:32]
+   CLOCK: [2016-09-28 三 05:00]--[2016-09-28 三 05:32] =>  0:32
+   :END:
 * DONE Thirty eight 96.6%
 
   CLOSED: [2016-08-02 Tue 09:19]
@@ -7674,6 +7692,21 @@ The receptionist is giving the man and the woman forms.
    - State "DONE"       from "STARTED"    [2016-08-15 一 09:12]
    CLOCK: [2016-08-15 一 09:04]--[2016-08-15 一 09:12] =>  0:08
    :END:
+** DONE Review<2016-09-28 三 05:44>98.7%
+   CLOSED: [2016-09-28 三 06:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-28 三 06:21]
+   CLOCK: [2016-09-28 三 05:44]--[2016-09-28 三 06:21] =>  0:37
+   :END:
+** DONE Review<2016-09-28 三 09:33>99%
+   CLOSED: [2016-09-28 三 10:10]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-09-28 三 10:10]
+   - State "WAITING"    from "SOMEDAY"    [2016-09-28 三 10:10]
+   - State "SOMEDAY"    from "WAITING"    [2016-09-28 三 10:10]
+   - State "DONE"       from "STARTED"    [2016-09-28 三 10:04]
+   CLOCK: [2016-09-28 三 09:33]--[2016-09-28 三 10:04] =>  0:31
+   :END:
 
 ** DONE section six 96.2%
    CLOSED: [2016-07-26 Tue 10:27]
@@ -7770,11 +7803,11 @@ The man is lying on the soft couch because he's watching television.
    - State "DONE"       from "STARTED"    [2016-07-27 Wed 05:55]
    CLOCK: [2016-07-27 Wed 05:03]--[2016-07-27 Wed 05:55] =>  0:52
    :END:
-** DONE Review thirty three 95.3%
-   CLOSED: [2016-08-03 Wed 04:53]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-03 Wed 04:53]
-   :END:
+* DONE Review thirty three 95.3%
+  CLOSED: [2016-08-03 Wed 04:53]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-03 Wed 04:53]
+  :END:
 
 ** text
 *** blinds
@@ -8693,7 +8726,7 @@ On the window in the living room hang beautiful, grren drapes.
    :END:
 
 ** DONE continue thirty tree
-   CLOSED: [2016-07-27 Wed 16:11]
+   CLOSED: [2016-07-27 Wed 16:11]99%
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2016-07-27 Wed 16:11]
     CLOCK: [2016-07-27 Wed 14:27]--[2016-07-27 Wed 16:11] =>  1:44
@@ -8768,6 +8801,12 @@ On the window in the living room hang beautiful, grren drapes.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-07-28 Thu 15:00]
    CLOCK: [2016-07-28 Thu 14:45]--[2016-07-28 Thu 15:00] =>  0:15
+   :END:
+** DONE Review<2016-09-28 三 16:11>98.5%
+   CLOSED: [2016-09-28 三 16:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-28 三 16:53]
+   CLOCK: [2016-09-28 三 16:11]--[2016-09-28 三 16:53] =>  0:42
    :END:
 * DONE thirty four
 
@@ -9402,6 +9441,19 @@ For mushroom soup you need mushrooms, not meet.
 For salad you need fresh vegetables.
 In order to fry chicken, you need a roasting pan.
 In order to prepare tasty vegetable soup, you need fresh vegetables.
+
+Does the boy know how to fry potatoes? No, he doesn't know how to fry potatoes.
+He's still very small.
+Does the girl know how to prepare vegetable salad? Yes, she prepares vegetable
+salad well.
+Does the chef know how to cook? Yes, he prepares very tasty food.
+Does the man know how to bake pies? No, he doesn't know how to bake pies.
+Does mom know how to make tasty soup? Yes, mom knows how to make tasty soups.
+Does grandma know how to bake tasty pies with cabbage? Yes, grandma knows how to
+bake tasty pies.
+
+
+
 ** DONE Review Thirty Four 94.2%
    CLOSED: [2016-08-15 一 21:16]
    :LOGBOOK:
@@ -9434,6 +9486,18 @@ In order to prepare tasty vegetable soup, you need fresh vegetables.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-07-29 Fri 18:35]
    CLOCK: [2016-07-29 Fri 18:03]--[2016-07-29 Fri 18:35] =>  0:32
+   :END:
+** DONE Review <2016-09-29 Thu 09:41>98.3%
+   CLOSED: [2016-09-29 Thu 10:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-29 Thu 10:29]
+   CLOCK: [2016-09-29 Thu 09:40]--[2016-09-29 Thu 10:29] =>  0:49
+   :END:
+** DONE Review <2016-09-29 Thu 15:10>98.9%
+   CLOSED: [2016-09-29 Thu 15:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-29 Thu 15:58]
+   CLOCK: [2016-09-29 Thu 15:10]--[2016-09-29 Thu 15:58] =>  0:48
    :END:
 * DONE thirty five 95%
   CLOSED: [2016-07-30 Sat 06:02]
