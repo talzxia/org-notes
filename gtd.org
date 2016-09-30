@@ -2405,6 +2405,23 @@ http://mt.sohu.com/20160817/n464605736.shtml
    CLOCK: [2016-09-29 Thu 19:19]--[2016-09-29 Thu 19:47] =>  0:28
    :END:
 录入36页
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-09-30 Fri 06:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-30 Fri 06:45]
+   CLOCK: [2016-09-30 Fri 06:04]--[2016-09-30 Fri 06:45] =>  0:41
+   :END:
+
+** DONE [#B] install updata system.
+   CLOSED: [2016-09-30 Fri 09:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-30 Fri 09:55]
+   CLOCK: [2016-09-30 Fri 09:04]--[2016-09-30 Fri 09:55] =>  0:51
+   :END:
+同样的错误犯了两次。这次更严重。但学会了安全模式启动。
+启动时按住shift key所有个性化设置失效，g可以输入了。更改了密码。以后避开g key.
+此算是bug吧。
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

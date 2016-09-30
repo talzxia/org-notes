@@ -2213,3 +2213,21 @@ There are stars in the sky.
      - State "DONE"       from "STARTED"    [2016-09-29 Thu 08:15]
      :END:
 install updata system half an hour
+*** 2016-09-30 Friday
+
+**** STARTED arrive office begin clean up
+     :LOGBOOK:
+     CLOCK: [2016-09-30 Fri 04:52]--[2016-09-30 Fri 04:57] =>  0:05
+     :END:
+
+**** DONE going to home for breakfast.
+     CLOSED: [2016-09-30 Fri 06:45]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-30 Fri 06:45]
+     :END:
+
+**** DONE arrive office and begin to learn
+     CLOSED: [2016-09-30 Fri 08:32]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-09-30 Fri 08:32]
+     :END:
