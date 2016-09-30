@@ -1704,6 +1704,93 @@ FramedWindow类，既有标题又有边框的是TitledFramedWindow类。TitledFr
 （2）把重复的名字替换掉
 
 Eiffel使用的就是这种方法。在模块继承时用这种方法很有效，其缺点是写程序时很复杂。
+
+（3）指定使用类的名字
+
+C++用的是这种方法。这也是在继承模块时有效的方法。缺点是本来不需要指定类名的情况
+现在却要指定。
+
+从对应方法可以明白地看到各种语言的特点。Lisp重视数据类型的继承，Eiffel和C++重视
+模块的继承。
+*** Ruby中多重继承的实现方法
+
+当初设计Ruby的时候，Mix-in并不广为人知。我认为Mix-in是解决多重继承问题的非常好的
+方法。所以，出于启蒙的目的，我特意在Ruby中强制采用了Mix-in，而没有使用普通的多重
+继承。
+
+不知道是否因为这个原因，Mix-in的知名度提高了。但是也像前面说过的一样，甚至一些计
+算机科学的研究者也产生了对多重继承的误解。
+
+我们比较一下在Ruby中使用和不使用Mix-in的区别。图2-25是使用Mix-in的Ruby程序。用
+module定义的是Mix-in类。
+
+图2-25的LockingMixin可以对任意的类提供lock功能。在这里，给Printer类增加了lock功
+能。在spool方法中调用了lock方法。
+
+图2-26是没有Mix-in的Ruby程序。这里增加了实现Lock功能的对象初始化，添加了Lock方法，
+还要定义很多方法的委托调用。比较起来，Mix-in程序就很简洁。
+
+#+BEGIN_SRC org
+
+module LockingMixin
+
+  def lock
+    ……
+  end
+  def unlock
+   ……
+  end
+end
+
+class Printer<Device
+
+  include LockingMixin
+  def spool(text)
+    lock
+    ……
+    unlock
+  end
+end
+#+END_SRC
+
+图2-25 利用Mix-in 的Ruby程序
+
+#+BEGIN_SRC org
+
+class LockingMixin
+
+  def lock
+    ……
+  end
+  def unlock 
+    ……
+  end
+end
+
+class Printer<Device
+
+  def initialize
+    @lock=Lock.new
+  end
+  def lock
+    @lock.lock
+  end
+  def unlock
+    @lock.unlock
+  end
+  def spool(text)
+    @lock.lock
+    ……
+    @lock.unlock
+  end
+end
+#+END_SRC
+
+图2-26 不用Mix-in来实现图2-25的功能
+
+
+
+
 * Footnotes
 
 [fn:page352] 组合是把多个对象合成一个对象来处理。委托是把对一个对象的方法调用委

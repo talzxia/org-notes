@@ -681,6 +681,12 @@ a woman with short white hair.
    - State "DONE"       from "STARTED"    [2016-09-04 Sun 07:05]
    CLOCK: [2016-09-04 Sun 06:48]--[2016-09-04 Sun 07:05] =>  0:17
    :END:
+** DONE Review<2016-09-30 Fri 14:06>99.4%
+   CLOSED: [2016-09-30 Fri 14:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-30 Fri 14:22]
+   CLOCK: [2016-09-30 Fri 14:06]--[2016-09-30 Fri 14:22] =>  0:16
+   :END:
 ** text
 autumn
 spring
@@ -778,6 +784,12 @@ Is it summer? No, it is winter: a woman is running in the snow.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-13 二 20:22]
    CLOCK: [2016-09-13 二 20:05]--[2016-09-13 二 20:22] =>  0:17
+   :END:
+** DONE Review<2016-09-30 Fri 16:13>99.7%
+   CLOSED: [2016-09-30 Fri 16:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-30 Fri 16:29]
+   CLOCK: [2016-09-30 Fri 16:13]--[2016-09-30 Fri 16:29] =>  0:16
    :END:
 * DONE Lesson seven 97.7%
   CLOSED: [2016-07-24 Sun 04:36]
@@ -10195,6 +10207,15 @@ Do all girls like to sew? Yes, but not all know how.
 Does the whole family like the clothing that grandma knits? Yes, the whole
 family likes this clothing.
 
+** DONE Review<2016-09-30 Fri 18:31>98.8%
+   CLOSED: [2016-09-30 Fri 19:12]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-09-30 Fri 19:12]
+   - State "DONE"       from "WAITING"    [2016-09-30 Fri 19:11]
+   - State "WAITING"    from "DONE"       [2016-09-30 Fri 19:11]
+   - State "DONE"       from "STARTED"    [2016-09-30 Fri 19:10]
+   CLOCK: [2016-09-30 Fri 18:30]--[2016-09-30 Fri 19:10] =>  0:40
+   :END:
 * DONE thirty six 95.7%
   CLOSED: [2016-07-31 Sun 03:49]
   :LOGBOOK:
@@ -11851,7 +11872,7 @@ What is the chef doing ? He's frying a whole chicken.
   - State "DONE"       from "WAITING"    [2016-08-03 Wed 04:25]
   - State "DONE"       from "STARTED"    [2016-08-02 Tue 21:11]
   CLOCK: [2016-08-02 Tue 21:03]--[2016-08-02 Tue 21:11] =>  0:08
-  :END:
+  :END:98.8%
 * DONE Thirty nine 96.9%
   CLOSED: [2016-08-03 Wed 05:52]
   :LOGBOOK:

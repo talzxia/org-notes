@@ -1511,7 +1511,7 @@ read loud and clean. thirty paragraphs
    :END:
 梁老师把标牌做好，安排学生拿回来200个。
 
-** DONE [#B] read ruby
+** DONE [#B] read ruby input 37page
    CLOSED: [2016-09-07 三 16:07]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-07 三 16:07]
@@ -2422,6 +2422,39 @@ http://mt.sohu.com/20160817/n464605736.shtml
 同样的错误犯了两次。这次更严重。但学会了安全模式启动。
 启动时按住shift key所有个性化设置失效，g可以输入了。更改了密码。以后避开g key.
 此算是bug吧。
+
+** STARTED [#B] leave office to go relax
+   :LOGBOOK:
+   CLOCK: [2016-09-30 Fri 10:31]--[2016-09-30 Fri 14:06] =>  3:35
+   :END:
+
+** DONE [#B] browse and listen to music
+   CLOSED: [2016-09-30 Fri 16:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-30 Fri 16:12]
+   CLOCK: [2016-09-30 Fri 14:24]--[2016-09-30 Fri 16:12] =>  1:48
+   :END:
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-09-30 Fri 20:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-30 Fri 20:07]
+   CLOCK: [2016-09-30 Fri 19:21]--[2016-09-30 Fri 20:07] =>  0:46
+   :END:
+
+** DONE [#B] read Ruby
+   CLOSED: [2016-09-30 Fri 20:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-30 Fri 20:31]
+   CLOCK: [2016-09-30 Fri 20:08]--[2016-09-30 Fri 20:31] =>  0:23
+   :END:
+
+** DONE [#B]backache to walk
+   CLOSED: [2016-09-30 五 20:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-30 五 20:41]
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
