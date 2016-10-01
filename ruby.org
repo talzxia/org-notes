@@ -1787,9 +1787,94 @@ end
 #+END_SRC
 
 图2-26 不用Mix-in来实现图2-25的功能
+*** 2.4.8 Java实现多重继承的方法
+
+Java采用了单一继承。但是为了满足静态编程语言对多重继承的需要，Java采用了规格的多
+重继承，即接口。如果使用接口，即使对没有继承关系的不同种类的对象也可以做共通的处
+理。
+
+但是接口只能实现规格的多重继承，实现的多重继承在Java中是不允许的。这种设计原则多
+少会让人感觉到不方便吧。
+
+因为不允许实现的多重继承，如果要共通实现的话，一般要像图2-26所示的程序一样使用委
+托的方法。图2-27是使用委托来共通实现的Java程序例子。它把从接口调用的方法，都明确
+地委托给实现共通功能的对象。本来在多重继承中可以自动实现的，现在要通过手工来实现。
+虽然有些麻烦，但这也算Java的风格吧。
+
+图2-28没有用委托的方法，而是把实现共通功能的对象作为成员变量来使用。这样操作对象
+并不需要直接实现接口，而只是作为属性保存一个实现共通功能的对象，在程序中直接调用
+该属性的方法。
+
+没有了委托的方法，这些部分就变得简单明了，但是在调用共通功能的时候，每次都要引用
+属性加上.lock，会让人觉得不怎么漂亮。
 
 
+本节回顾了多重继承，要点有以下5个。
 
+（1）多重继承并不可怕。
+
+（2）今后面向对象编程语言必须有某种形式的多重继承。
+
+（3）类既有类型的一面又有模块的一面。
+
+（4）C++、Eiffel等语言积极利用了类的模块的一面。
+
+（5)使用Mix-in可以避免多重继承的类关系变复杂。
+
+正确地使用多重继承是提高程序效率的有效方法。如果本节的说明能够减少对多重继承的误
+解，那我就感到很幸运了。
+
+#+BEGIN_SRC org
+
+interface LockingMixin {
+  void lock();
+  void unlock();
+}
+
+class Lock {
+  void lock(){……；};
+  void unlock(){……；};
+}
+
+class Printer implements LockingMixin{
+  final Lock lock=new Lock();
+  void lock() {lock.lock();}
+  void unlock() {lock.lock();}
+  void spool(TextData text){
+    this.lock();
+    ……
+    this.unlock();
+  }
+}
+
+#+END_SRC
+
+图2-27 用委托来实现多重继承的Java程序
+
+#+BEGIN_SRC org
+
+interface LockingMixin {
+  void lock();
+  void unlock();
+}
+
+class Lock implements LockingMixin{
+  void lock(){};
+  void unlock(){};
+}
+
+class Printer{
+  final Lock lock=new Lock();
+  void spool(TextData text){
+    this.lock.lock();
+    ……
+    this.lock.unlock();
+  }
+}
+
+#+END_SRC
+
+图2-28 不用委托来实现多重继承的Java程序
 
 * Footnotes
 

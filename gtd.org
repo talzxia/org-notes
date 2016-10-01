@@ -2455,6 +2455,20 @@ http://mt.sohu.com/20160817/n464605736.shtml
    - State "DONE"       from "STARTED"    [2016-09-30 五 20:41]
    :END:
 
+** DONE [#B]relax and listen to music
+   CLOSED: [2016-10-01 六 07:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-01 六 07:08]
+   CLOCK: [2016-10-01 六 06:37]--[2016-10-01 六 07:08] =>  0:31
+   :END:
+
+** DONE [#B] read Ruby
+   CLOSED: [2016-10-01 六 21:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-01 六 21:24]
+   CLOCK: [2016-10-01 六 20:53]--[2016-10-01 六 21:24] =>  0:31
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

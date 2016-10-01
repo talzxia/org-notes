@@ -214,20 +214,12 @@ Is the tree small? No, it is big.
 ** DONE 复习98.9%
    CLOSED: [2016-07-25 Mon 05:52]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-25 Mon 05:52]
-   CLOCK: [2016-07-25 Mon 05:39]--[2016-07-25 Mon 05:52] =>  0:13
-   :END:
-** DONE Review <2016-09-09 五 15:24>99.6%
-   CLOSED: [2016-09-09 五 15:37]
+   - State "DONE"       from "STARTED"    [2016-07-25
+** DONE Review<2016-10-01 六 18:41>100%
+   CLOSED: [2016-10-01 六 18:54]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-09 五 15:37]
-   CLOCK: [2016-09-09 五 15:24]--[2016-09-09 五 15:37] =>  0:13
-   :END:
-** DONE Review<2016-09-12 一 21:07>99.8%
-   CLOSED: [2016-09-12 一 21:21]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-12 一 21:21]
-   CLOCK: [2016-09-12 一 21:08]--[2016-09-12 一 21:21] =>  0:13
+   - State "DONE"       from "STARTED"    [2016-10-01 六 18:54]
+   CLOCK: [2016-10-01 六 18:41]--[2016-10-01 六 18:54] =>  0:13
    :END:
 * DONE Lesson three 97.4%                                             :three:
   CLOSED: [2016-07-24 Sun 16:07]
@@ -371,6 +363,12 @@ Is the woman with a bag? No, she is under a big umbrella.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-29 Thu 20:06]
    CLOCK: [2016-09-29 Thu 19:49]--[2016-09-29 Thu 20:06] =>  0:17
+   :END:
+** DONE Review<2016-10-01 六 18:55>99.8%
+   CLOSED: [2016-10-01 六 19:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-01 六 19:13]
+   CLOCK: [2016-10-01 六 18:54]--[2016-10-01 六 19:13] =>  0:19
    :END:
 * DONE Lesson four 98%                                                 :four:
   CLOSED: [2016-07-24 Sun 10:14]
@@ -959,6 +957,11 @@ Hot green tea? No, cold red juice.
    - State "DONE"       from "STARTED"    [2016-09-11 日 05:27]
    CLOCK: [2016-09-11 日 05:07]--[2016-09-11 日 05:27] =>  0:20
    :END:
+** DONE Review 99.8%
+   CLOSED: [2016-10-01 六 18:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-01 六 18:38]
+   :END:
 * DONE Lesson nine 97.6%
   CLOSED: [2016-07-23 Sat 16:01]
    :LOGBOOK:
@@ -1093,6 +1096,12 @@ Are the men standing around  a table? No, they are sitting around the a table.
    - State "DONE"       from "STARTED"    [2016-09-27 二 20:10]
    CLOCK: [2016-09-27 二 19:53]--[2016-09-27 二 20:10] =>  0:17
    :END:
+** DONE Review<2016-10-01 六 14:17>99.9%
+   CLOSED: [2016-10-01 六 14:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-01 六 14:34]
+   CLOCK: [2016-10-01 六 14:17]--[2016-10-01 六 14:34] =>  0:17
+   :END:
 * DONE Lesson ten 97.9%
   CLOSED: [2016-07-23 Sat 05:54]
   :LOGBOOK:
@@ -1208,7 +1217,12 @@ dancing.
 dancing.
 
 
-
+** DONE Review<2016-10-01 六 14:35>99.7%
+   CLOSED: [2016-10-01 六 14:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-01 六 14:56]
+   CLOCK: [2016-10-01 六 14:35]--[2016-10-01 六 14:56] =>  0:21
+   :END:
 * DONE Lesson eleven 98.8%
   CLOSED: [2016-07-23 Sat 03:43]
    :LOGBOOK:
@@ -10228,6 +10242,93 @@ family likes this clothing.
    CLOCK: [2016-08-03 三 18:51]--[2016-08-03 三 19:18] =>  0:27
    :END:
 
+** DONE Review<2016-10-01 六 05:12>99.2%
+   CLOSED: [2016-10-01 六 06:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-01 六 06:36]
+   CLOCK: [2016-10-01 六 05:12]--[2016-10-01 六 06:36] =>  1:24
+   :END:
+** text
+a market
+a cash register
+a counter
+a supermaket
+change
+a receipt
+
+perfume
+souvenirs
+produce
+a purchase
+cake
+chocolate
+
+to pick out
+to help
+to weigh
+to carry
+to wrap
+go give
+
+dark
+light
+poor
+rich
+expensive
+cheap
+
+whole
+a whole pie
+a whole apple
+half
+half of a pie
+halp of an apple
+
+At the market produce is inexpensive, at the supermaket it's expensive.
+a big, bright supermarket
+The woman is buying produce at the market.
+The man is buying produce at the supermarket.
+a bright room
+a dark bar
+
+The tall man is helping the woman carry her purchase.
+The grandmother is helping her granddaughter wrap a gift for her mother.
+The salesperson is helping the customer pick out cake.
+The girl is picking out chocolate.
+The tourists are picking out souvenirs.
+The woman is picking out perfume.
+
+The girl is carrying chocolate to the cash register.
+The woman is carrying her purchase to the car.
+a cheap purchase
+The saleperson is carrying produce to the counter.
+The customers are standing in line for the cash register.
+an expensive purchase
+
+The customer takes the change and receipt from the salesperson.
+The salesperson is weighing apples.
+The waiter brings the change and receipt on a tray.
+The salesperson is wrapping a souvenir.
+The woman is wrapping a gift for her husband.
+The salesperson gives the customer the receipt and change.
+
+A rich man gives his wife expensive perfume, but a poor man - cheap perfume.
+A rich man drives a new, expensive car, but a poor man - an old, cheap car.
+A rich man reserves an expensive room in a hotel, but a poor man - a cheap room.
+In the small dark room live poor people.
+In the big bright house live rich people.
+A rich woman buys an expensive dress with embroidery, but a poor woman - a cheap
+dress with a discount.
+有一错误：cheap cheep
+
+What is the salesperson doing? He's weighing half a chicken.
+The mother gives her son half a glass of juice.
+What is the boy doing? He's putting half a cake on a plate.
+What is the chef doing? He's frying a whole chicken.
+The boy is cutting a piece of paper in half.
+What is the waiter doing? He's carrying a whole cake on a tray.
+
+
 
 * DONE thirty seven 95.1%
   CLOSED: [2016-07-31 Sun 06:01]
@@ -10246,6 +10347,12 @@ family likes this clothing.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-01 Mon 05:31]
    CLOCK: [2016-08-01 Mon 03:40]--[2016-08-01 Mon 05:31] =>  1:51
+   :END:
+** DONE Review<2016-10-01 六 20:16>99.1%
+   CLOSED: [2016-10-01 六 20:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-01 六 20:52]
+   CLOCK: [2016-10-01 六 20:16]--[2016-10-01 六 20:52] =>  0:36
    :END:
 ** text
 a compass
