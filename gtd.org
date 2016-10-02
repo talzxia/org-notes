@@ -2469,6 +2469,54 @@ http://mt.sohu.com/20160817/n464605736.shtml
    CLOCK: [2016-10-01 六 20:53]--[2016-10-01 六 21:24] =>  0:31
    :END:
 
+** STARTED [#B]relax and listen to music
+   :LOGBOOK:
+   CLOCK: [2016-10-02 日 06:03]--[2016-10-02 日 06:22] =>  0:19
+   :END:
+
+** DONE [#B]read Ruby
+   CLOSED: [2016-10-02 日 06:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 06:48]
+   CLOCK: [2016-10-02 日 06:22]--[2016-10-02 日 06:48] =>  0:26
+   :END:
+
+** DONE [#B]read loud 《道德经》30 paragraph
+   CLOSED: [2016-10-02 日 07:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 07:06]
+   CLOCK: [2016-10-02 日 06:49]--[2016-10-02 日 07:06] =>  0:17
+   :END:
+
+** DONE [#B]clean up finished
+   CLOSED: [2016-10-02 日 09:05]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-10-02 日 09:05]
+   - State "DONE"       from "STARTED"    [2016-10-02 日 09:05]
+   :END:
+
+** DONE [#B]给晕子拿充电器
+   CLOSED: [2016-10-02 日 10:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 10:46]
+   CLOCK: [2016-10-02 日 09:30]--[2016-10-02 日 10:46] =>  1:16
+   :END:
+
+** DONE [#B]relax and listen to music
+   CLOSED: [2016-10-02 日 12:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 12:14]
+   CLOCK: [2016-10-02 日 11:18]--[2016-10-02 日 12:14] =>  0:56
+   :END:
+想学弹钢琴了。
+
+** DONE [#B]relax and listen to music
+   CLOSED: [2016-10-02 日 15:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 15:48]
+   CLOCK: [2016-10-02 日 14:52]--[2016-10-02 日 15:48] =>  0:56
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

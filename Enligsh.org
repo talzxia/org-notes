@@ -110,6 +110,20 @@ Is the bird running? No, the bird is flying.
    - State "DONE"       from "STARTED"    [2016-09-09 五 15:23]
    CLOCK: [2016-09-09 五 15:08]--[2016-09-09 五 15:23] =>  0:15
    :END:
+** DONE Review<2016-10-02 日 07:08>99.9%
+   CLOSED: [2016-10-02 日 07:22]
+** DONE Review<2016-10-02 日 09:06>100%                             :LOGBOOK:
+   CLOSED: [2016-10-02 日 09:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 09:22]
+   CLOCK: [2016-10-02 日 09:06]--[2016-10-02 日 09:22] =>  0:16
+   CLOCK: [2016-10-02 日 07:08]--[2016-10-02 日 07:22] =>  0:14
+   :END:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 0:06]
+      CLOCK: [2016-10-02 日 09:06]--[2016-10-02 日 09:22] =>  0:16
+
+   :END:
+
 * DONE Lesson two 97.9%                                                 :two:
   CLOSED: [2016-07-24 Sun 21:04]
   :LOGBOOK:
@@ -362,13 +376,36 @@ Is the woman with a bag? No, she is under a big umbrella.
    CLOSED: [2016-09-29 Thu 20:06]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-29 Thu 20:06]
-   CLOCK: [2016-09-29 Thu 19:49]--[2016-09-29 Thu 20:06] =>  0:17
-   :END:
-** DONE Review<2016-10-01 六 18:55>99.8%
-   CLOSED: [2016-10-01 六 19:13]
+   CLOCK: [2016-09-29 Thu 19:49]--[2016-09
+** DONE Review<2016-10-02 日 13:55>99.3%
+   CLOSED: [2016-10-02 日 14:13]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-01 六 19:13]
-   CLOCK: [2016-10-01 六 18:54]--[2016-10-01 六 19:13] =>  0:19
+   - State "DONE"       from "STARTED"    [2016-10-02 日 14:13]
+   CLOCK: [2016-10-02 日 13:55]--[2016-10-02 日 14:13] =>  0:18
+   :END:
+** DONE Review<2016-10-02 日 14:15>99.6%
+   CLOSED: [2016-10-02 日 14:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 14:31]
+   CLOCK: [2016-10-02 日 14:14]--[2016-10-02 日 14:31] =>  0:17
+   :END:
+** DONE Review<2016-10-02 日 14:31>99.9%
+   CLOSED: [2016-10-02 日 14:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 14:48]
+   CLOCK: [2016-10-02 日 14:31]--[2016-10-02 日 14:48] =>  0:17
+   :END:
+** DONE Review<2016-10-02 日 19:19>99.9%
+   CLOSED: [2016-10-02 日 19:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 19:36]
+   CLOCK: [2016-10-02 日 19:19]--[2016-10-02 日 19:36] =>  0:17
+   :END:
+** DONE Review<2016-10-02 日 19:37>99.9%
+   CLOSED: [2016-10-02 日 19:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 19:52]
+   CLOCK: [2016-10-02 日 19:37]--[2016-10-02 日 19:52] =>  0:15
    :END:
 * DONE Lesson four 98%                                                 :four:
   CLOSED: [2016-07-24 Sun 10:14]
@@ -424,6 +461,18 @@ Is the woman with a bag? No, she is under a big umbrella.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-13 二 06:28]
    CLOCK: [2016-09-13 二 06:12]--[2016-09-13 二 06:28] =>  0:16
+   :END:
+** DONE Review <1970-10-19 一>99.8%
+   CLOSED: [2016-10-02 日 20:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 20:07]
+   CLOCK: [2016-10-02 日 19:52]--[2016-10-02 日 20:07] =>  0:15
+   :END:
+** DONE Review<2016-10-02 日 20:08>100%
+   CLOSED: [2016-10-02 日 20:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 20:22]
+   CLOCK: [2016-10-02 日 20:08]--[2016-10-02 日 20:22] =>  0:14
    :END:
 ** text
 I
@@ -577,6 +626,12 @@ Are they speaking with a flower? No, they are speaking on the telephone.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-26 一 20:23]
    CLOCK: [2016-09-26 一 20:05]--[2016-09-26 一 20:23] =>  0:18
+   :END:
+** DONE Review <2016-10-02 日 20:23>99.5%
+   CLOSED: [2016-10-02 日 20:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 20:41]
+   CLOCK: [2016-10-02 日 20:23]--[2016-10-02 日 20:41] =>  0:18
    :END:
 ** text
 a woman
@@ -5575,1824 +5630,6 @@ The woman is checking her flight on her ticket.
    - State "DONE"       from "STARTED"    [2016-09-28 三 05:32]
    CLOCK: [2016-09-28 三 05:00]--[2016-09-28 三 05:32] =>  0:32
    :END:
-* DONE Thirty eight 96.6%
-
-  CLOSED: [2016-08-02 Tue 09:19]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-02 Tue 09:19]
-  CLOCK: [2016-08-02 Tue 08:11]--[2016-08-02 Tue 09:19] =>  1:08
-  - State "STARTED"    from "DONE"       [2016-08-02 Tue 08:11]
-  - State "DONE"       from "STARTED"    [2016-08-02 Tue 06:38]
-  CLOCK: [2016-08-02 Tue 05:15]--[2016-08-02 Tue 06:38] =>  1:23
-  :END:
-** DONE Review thirty eight 95.6%
-   CLOSED: [2016-08-04 Thu 11:01]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-04 Thu 11:01]
-   CLOCK: [2016-08-04 Thu 10:22]--[2016-08-04 Thu 11:01] =>  0:39
-   :END:
-
-** DONE Review <2016-09-14 三 05:25>97.8%
-   CLOSED: [2016-09-14 三 06:47]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-14 三 06:47]
-    CLOCK: [2016-09-14 三 05:25]--[2016-09-14 三 05:59] =>  0:34
-
-:END:
-** STARTED Review <2016-09-14 三 14:08>
-   :LOGBOOK:
-   CLOCK: [2016-09-14 三 14:08]--[2016-09-14 三 15:21] =>  1:13
-   - State "STARTED"    from "DONE"       [2016-09-14 三 14:08]
-   - State "DONE"       from "STARTED"    [2016-09-14 三 14:07]
-   :END:
-** text
-*** film
-英  [fɪlm]   美  [fɪlm]
-n. 电影；薄膜；胶卷；轻烟
-vt. 在…上覆以薄膜；把…拍成电影
-vi. 摄制电影；生薄膜；变得朦胧
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-film /fɪlm/  CET4 TEM4
-N-COUNT A film consists of moving pictures that have been recorded so that they can be shown in a theatre or on television. A film tells a story, or shows a real situation. 电影
-例：
-Everything about the film was good. Good acting, good story, good fun.
-这部电影样样都好：演技好，故事好，非常有趣。
-N-COUNT A film of powder, liquid, or oil is a very thin layer of it. 薄层
-例：
-The sea is coated with a film of raw sewage.
-海上覆盖着薄薄一层未经处理的污水。
-V-T If you film something, you use a camera to take moving pictures which can be shown on a screen or on television. 把…拍摄成影片
-例：
-He had filmed her life story.
-他已经把她的人生故事拍成了电影。
-N-UNCOUNT Film of something is moving pictures of a real event that are shown on television or on a screen. 记实影片
-例：
-He likes to look at film of old-time players.
-他喜欢看那些以前运动员的影片。
-N-UNCOUNT The making of films, considered as a form of art or a business, can be referred to as film or films. 电影艺术; 电影业
-例：
-Film is a business with limited opportunities for actresses.
-电影业对女演员来说机会有限。
-N-UNCOUNT Plastic film is a very thin sheet of plastic used to wrap and cover things. (塑料) 薄膜
-N-VAR A film is the narrow roll of plastic that is used in a camera to take photographs. 胶卷
-例：
-The photographers had already shot a dozen rolls of film.
-摄影师们已经拍了一打胶卷。
-网络释义 专业释义 英英释义
-
- 电影
- 影片
- 胶卷
- 电影
-短语
-silent film 无声电影
-silent film 默片
-silent film 无声片
-silent film 默片无声片
-film director 电影导演
-  更多结果
-词组短语 同近义词 同根词
-
-thin film 薄膜
-plastic film 塑料薄膜；塑胶膜
-film festival 电影节
-film thickness （油）膜厚度
-feature film 正片，故事片；长片
-  更多词组短语
-双语例句 原声例句 权威例句
-
-The director expresses his sorrow in his film.
-导演在影片中表达出他的悲哀。
-She costarred with her twin sister in a new film.
-她和她的孪生姊妹联袂主演一部新影片。
-With this instant film the picture develops in only one minute.
-用这种快速胶卷，照片仅用一分钟就会显影。
-
-*** music
-英  ['mjuːzɪk]  美  ['mjuzɪk]
-n. 音乐，乐曲
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-music /ˈmjuːzɪk/  CET4 TEM4
-N-UNCOUNT Music is the pattern of sounds produced by people singing or playing instruments. 音乐
-例：
-...classical music.
-…古典音乐。
-N-UNCOUNT Music is the art of creating or performing music. 音乐创作; 音乐表演
-例：
-He went on to study music, specializing in the clarinet.
-他继续学习音乐，专攻单簧管。
-N-UNCOUNT Music is the symbols written on paper which represent musical sounds. 乐谱
-例：
-He's never been able to read music.
-他从来就不识乐谱。
-PHRASE If something that you hear is music to your ears, it makes you feel very happy. 佳音
-例：
-Popular support – it's music to the ears of any politician.
-公众的支持–这对任何政客都是佳音。
-PHRASE If you face the music, you put yourself in a position where you will be criticized or punished for something you have done. 承担自己行为的后果
-例：
-Sooner or later, I'm going to have to face the music.
-迟早我得自食其果。
-网络释义 专业释义 英英释义
-
- 音乐
- 音乐
- MUSIC 完美嘉音
- Music (专辑)
-短语
-background music 背景音乐
-background music 背景音乐
-background music 像星星一样的祈求
-background music 只有爱
-pop music 流行音乐
-  更多结果
-词组短语 同根词
-
-pop music 流行音乐
-classical music 古典乐
-music education 音乐教育；音乐教诲
-folk music 民俗音乐
-listen to music 听音乐
-  更多词组短语
-双语例句 原声例句 权威例句
-
-She enjoys music, and so do I.
-她喜欢音乐，我也喜欢音乐。
-He gets off on loud music,but I don't.
-他一听到喧闹的音乐就兴奋，而我则不然。
-Do you like music?
-你喜欢音乐吗?
-
-*** a drum
-
-英  [drʌm]   美  [drʌm]
-vt. 击鼓；大力争取
-vi. 击鼓；大力争取
-n. 鼓；鼓声
-n. (Drum)人名；(英)德拉姆；(德)德鲁姆
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-drum /drʌm/  CET4 TEM4
-N-COUNT A drum is a musical instrument consisting of a skin stretched tightly over a round frame. You play a drum by beating it with sticks or with your hands. 鼓
-例：
-...a worker who died after collapsing while beating a drum during a demonstration.
-…一个在游行时因击鼓过度劳累而倒毙的工人。
-N-COUNT A drum is a large cylindrical container which is used to store fuel or other substances. 鼓状容器
-例：
-...an oil drum.
-…一只油桶。
-V-T/V-I If something drums on a surface, or if you drum something on a surface, it hits it regularly, making a continuous beating sound. 连续敲击
-例：
-He drummed his fingers on the leather top of his desk.
-他用手指不停地敲击皮桌面。
-网络释义 专业释义 英英释义
-
- 鼓
- 磁鼓
- 圆桶
- 桶
-短语
-drum kit 爵士鼓
-drum kit 架子鼓
-drum kit 一套鼓乐器
-drum kit 模拟鼓
-Spotted Drum 斑高鳍䱛
-  更多结果
-词组短语 同近义词 同根词
-
-drum up 招徕（顾客）；[口]竭力争取；纠集；鼓动
-drum tower 鼓楼
-drum for v. 招徕；鼓吹
-brake drum [汽车]制动鼓；刹车鼓
-boiler drum 锅炉汽包，锅筒；鼓筒式锅炉
-  更多词组短语
-双语例句 原声例句 权威例句
-
-The war drum is beating.
-战鼓敲响了。
-At dusk, a huge drum begins to beat.
-在黄昏，一只巨大的鼓开始敲击。
-www.ebigear.com
-The saxophonist doubled the drum in the band.
-那位萨克斯管吹奏员在乐队中兼作鼓手。
-
-*** a guitar
-
-英  [gɪ'tɑː]   美  [ɡɪ'tɑr]
-n. 吉他，六弦琴
-vi. 弹吉他
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-guitar /ɡɪˈtɑː/  CET4 TEM4
-N-VAR A guitar is a musical instrument with six strings and a long neck. You play the guitar by plucking or strumming the strings. 吉他
-网络释义 专业释义 英英释义
-
- 吉他
- 吉它
- 六弦琴
- 木吉他
-短语
-Crazy Guitar 疯狂吉他
-Guitar Solo 吉他独奏
-Guitar Solo 吉他
-Guitar Solo 梦想之旅
-Guitar Solo 你和天空之间
-  更多结果
-词组短语 同根词
-
-play the guitar 弹吉他，玩吉他
-electric guitar 电吉他
-acoustic guitar 原声吉他；木吉他
-guitar player 吉他手
-classical guitar 古典吉他
-  更多词组短语
-双语例句 原声例句 权威例句
-
-He tuned the guitar.
-他给吉他定弦。
-Before singing, he noodled at his guitar.
-唱歌之前他先弹了几下吉他。
-Guitar is played by plucking at the wires.
-吉他可用手指在弦线上弹拨。
-
-*** a violin
-
-英  [vaɪə'lɪn; 'vaɪəlɪn]  美  [,vaɪə'lɪn]
-n. 小提琴；小提琴手
-n. (Violin)人名；(意)维奥林
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-violin /ˌvaɪəˈlɪn/  CET4 TEM4
-N-VAR A violin is a musical instrument. Violins are made of wood and have four strings. You play the violin by holding it under your chin and moving a bow across the strings. 小提琴
-例：
-Lizzie used to play the violin.
-莉齐过去常拉小提琴。
-网络释义 专业释义 英英释义
-
- 小提琴
- 小提琴
- 提琴
- 再会
-短语
-The Violin 小提琴
-The Violin 小提琴革命曲
-The Violin 集中营内的爱情
-The Violin 拉小提琴
-Violin Adagios 最美的小提琴慢板
-  更多结果
-词组短语 同近义词 同根词
-
-violin concerto 小提琴协奏曲
-violin concertos 小提琴协奏曲；小提琴协奏曲选
-双语例句 原声例句 权威例句
-
-She rippled a lively rhythm on the violin.
-她在小提琴上奏出明快的节奏。
-The music of the violin blended sweetly with her voice.
-小提琴的乐曲和她的嗓音很和谐。
-He keyed up all the strings of his violin before his performance.
-他在表演前将小提琴所有的弦都调好了。
-
-*** dance
-
-英  [dɑːns]   美  [dæns]
-n. 舞蹈；舞会；舞曲
-vi. 跳舞；跳跃；飘扬
-vt. 跳舞；使跳跃
-adj. 舞蹈的；用于跳舞的
-n. (Dance)人名；(英)丹斯；(法)当斯
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-dance /dɑːns/  CET4 TEM4
-V-I When you dance, you move your body and feet in a way which follows a rhythm, usually in time to music. 跳舞
-例：
-Polly had never learned to dance.
-波莉从未学过跳舞。
-V-T If you dance a particular kind of dance, you do it or perform it. 跳…舞
-例：
-Then we put the music on, and we all danced the Charleston.
-然后我们放起音乐，一块跳起了查尔斯顿舞。
-V-I If you dance somewhere, you move there lightly and quickly, usually because you are happy or excited. 跳跃; 雀跃
-例：
-He danced off down the road.
-他沿着马路蹦蹦跳跳地走了。
-V-I If you say that something dances, you mean that it moves around, or seems to move around, lightly and quickly. (轻快地) 跳动
-例：
-Patterns of light, reflected by the river, dance along the base of the cliffs.
-被河水倒映出的光影沿着悬崖底部轻快地跳动。
-N-COUNT A dance is a particular series of graceful movements of your body and feet, which you usually do in time to music. 舞蹈
-例：
-Sometimes the people doing this dance hold brightly coloured scarves.
-有时候跳这种舞的人拿着色彩鲜艳的围巾。
-N-COUNT A dance is a social event where people dance with each other. 舞会
-例：
-At the school dance he sat and talked to her all evening.
-在学校的舞会上，他整晚坐着和她聊天。
-V-RECIP When you dance with someone, the two of you take part in a dance together, as partners. You can also say that two people dance. 和…共舞
-例：
-It's a terrible thing when nobody wants to dance with you.
-没有人想和你跳舞是件糟糕的事。
-例：
-Shall we dance?
-我们跳舞吧？
-N-COUNT Dance is also a noun. 一支舞
-例：
-Come and have a dance with me.
-来和我跳支舞。
-N-UNCOUNT Dance is the activity of performing dances, as a public entertainment or an art form. 舞蹈艺术
-例：
-Their contribution to international dance, drama and music is inestimable.
-他们对国际舞蹈、戏剧和音乐的贡献是不可估量的。
-网络释义 专业释义 英英释义
-
- 舞蹈
- 跳舞
- 舞曲
- 舞蹈学
-短语
-SKET DANCE Sket Dance
-SKET DANCE 스켓 댄스
-SKET DANCE SKET DANCE
-SKET DANCE 学园救援团
-Tap dance 踢踏舞
-  更多结果
-词组短语 同近义词 同根词
-
-dance with 与…跳舞
-song and dance 不着边际的废话；大肆宣扬
-folk dance 民间舞蹈；土风舞
-dance floor 舞池
-modern dance 现代舞
-  更多词组短语
-双语例句 原声例句 权威例句
-
-He escorted a girl to the dance.
-他陪同一个姑娘去跳舞。
-Will you dance with me?
-你愿意和我跳舞吗?
-They dance in a round.
-他们围成圆圈跳舞。
-
-*** A carnival costume
-
-**** carnival
-
-英  ['kɑːnɪv(ə)l]  美  ['kɑrnɪvl]
-n. 狂欢节，嘉年华会；饮宴狂欢
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-carnival /ˈkɑːnɪvəl/  TEM4
-N-COUNT A carnival is a public festival during which people play music and sometimes dance in the streets. 狂欢节
-N-COUNT A carnival is a travelling show which is held in a park or field and at which there are machines to ride on, entertainments, and games. 嘉年华
-网络释义 专业释义 英英释义
-
- 狂欢节
- 嘉年华
- 狂欢
- 花样年华
-短语
-Carnival Town 狂欢节镇
-Carnival Town 狂欢之城
-Carnival Town 城镇狂欢节
-Carnival Town 嘉年华小镇
-Carnival Games 嘉年华游戏
-  更多结果
-
-carnival parade 狂欢节队伍
-双语例句 原声例句 权威例句
-
-In the Carnival of Fear, there are "demonic harlequins" ...
-在恐怖狂欢节里，这里有“魔法丑角”……
-
-**** costume
-
-英  ['kɒstjuːm]  美  ['kɑstum]
-n. 服装，装束；戏装，剧装
-vt. 给…穿上服装
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-costume /ˈkɒstjuːm/  CET4 TEM4
-N-VAR An actor's or performer's costume is the set of clothes they wear while they are performing. 戏装
-例：
-Even from a distance, the effect of his fox costume was stunning.
-即使从远处看，他的狐装造型也非常漂亮。
-例：
-The performers, in costume and makeup, were walking up and down backstage.
-演员们穿着戏服化着妆，在后台走来走去。
-N-UNCOUNT The clothes worn by people at a particular time in history, or in a particular country, are referred to as a particular type of costume. (某一历史时期或某一国家人们穿的) 服装
-例：
-...men and women in eighteenth-century costume.
-…身着18世纪服装的男男女女。
-ADJ A costume drama is one which is set in the past and in which the actors wear the type of clothes that were worn in that period. 古装的
-例：
-...a lavish costume drama set in Ireland and the U.S. in the 1890s.
-…以19世纪90年代的爱尔兰和美国为背景的一部大型古装戏。
-网络释义 专业释义 英英释义
-
- 服装
- 装束
- 戏服
- 服饰
-短语
-COSTUME DESIGN 最佳服装设计
-COSTUME DESIGN 剧装设计
-COSTUME DESIGN 服装设计
-COSTUME DESIGN 最佳服装设计奖
-costume tweed 粗花呢
-  更多结果
-词组短语 同近义词 同根词
-
-costume jewelry （用作服饰的）人造珠宝
-costume design 最佳服装设计
-national costume 民族服装
-chinese costume 中式装；唐装；中装
-costume jewellery 人造珠宝饰物；服装饰物
-  更多词组短语
-双语例句 原声例句 权威例句
-
-The advertisements of costume in Paris broadened his outlook.
-巴黎的服装广告使他大开眼界。
-She blacked herself up and rigged her costume for the evening performance.
-她在脸上抹了黑油彩，身上穿了戏装以参加晚上的演出。
-Superstition: Peacock Feathers should never be brought on stage, either as a costume element, prop or part of a set as chaos will ensue.
-迷信：孔雀羽毛应该永远不带上舞台，不能作为服装元素，道具或者布景的一部分，否则混乱将接踵而来。
-article.yeeyan.org
-
-*** candy
-英  ['kændɪ]  美  ['kændi]
-vt. 用糖煮；使结晶为砂糖；美化
-vi. 糖煮；成为结晶
-n. 糖果（等于sweets）；冰糖（等于sugar candy，rock candy）；毒品
-adj. 新潮的（服饰）；甜言蜜语的
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-candy /ˈkændɪ/  CET4 TEM4
-N-VAR Candy is sweet foods such as chocolate or toffees. 糖果
-例：
-...a piece of candy.
-…一块糖果。
-网络释义 专业释义 英英释义
-
- 糖果
- 卢巧音
- 坎蒂
- 砂糖结晶
-短语
-Gossip Candy Gossip Candy
-Gossip Candy Gossip Candy
-Gossip Candy 八卦蜜糖
-Gossip Candy 幸田来未
-Candy Dulfer 坎迪·杜尔费
-  更多结果
-词组短语 同近义词 同根词
-
-candy store 糖果店
-candy bar n. 单独包装的块状糖
-cotton candy 棉花糖
-hard candy 硬糖
-rock candy 冰糖
-  更多词组短语
-双语例句 原声例句 权威例句
-
-She enticed the children with candy.
-她用糖果诱骗小孩们。
-Her baby sister bother her for candy.
-她的小妹妹缠着她要糖果。
-He conciliated his angry daughter with a piece of candy.
-他用一块糖果来哄他发脾气的女儿。
-
-*** a wig
-
-英  [wɪg]   美  [wɪɡ]
-n. 假发；要人；头脑
-vt. 使戴假发；斥责
-vi. 激动；发狂
-n. (Wig)人名；(英、瑞典)威格；(德)维希
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-wig /wɪɡ/  CET6+ TEM4
-N-COUNT A wig is a covering of false hair that you wear on your head, for example, because you have little hair of your own or because you want to cover up your own hair. 假发
-例：
-Jo wore a long wig that made her look very sexy.
-乔带着一头长长的假发，使她看起来很性感。
-网络释义 专业释义 英英释义
-
- 假发
- 时尚假发
- 假发
- 丙种球蛋白
-短语
-Lace Wig 蕾丝假发
-Lace Wig 人发女式假发头套
-Lace Wig 花边假发
-WIG Craft 飞翼船
-WIG Craft 地效飞行器
-  更多结果
-词组短语 同近义词 同根词
-
-big wig [俚语]要人，大人物，大亨
-wig out 激动；发狂
-wigs on the green 打架；激烈争论
-双语例句 原声例句 权威例句
-
-When he put on the wig and false moustache I could have died.
-他戴上假发和假胡须时，真把我笑坏了。
-She directed my verdict with an elegant little shake of the ponytail that peeped out from beneath her wig.
-她按我的意见宣读了判决，当时，从她的假发下隐约露出的马尾辫轻轻颤动。
-bbs.ly.shangdu.com
-So now, students at the University of Washington that are studying these crows do so with a giant wig and a big mask.
-正是这样的缘故，现在华盛顿大学做 乌鸦研究的学生都带上巨大的假发，还套上脸罩。
-article.yeeyan.org
-
-*** mask
-
-英  [mɑːsk]   美  [mæsk]
-n. 面具；口罩；掩饰
-vi. 掩饰；戴面具；化装
-vt. 掩饰；戴面具；使模糊
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-mask /mɑːsk/  CET4 TEM4
-N-COUNT A mask is a piece of cloth or other material, which you wear over your face so that people cannot see who you are, or so that you look like someone or something else. 面具
-例：
-The gunman, whose mask had slipped, fled.
-面具滑落的持枪歹徒逃走了。
-N-COUNT A mask is a piece of cloth or other material that you wear over all or part of your face to protect you from germs or harmful substances. 防护面具
-例：
-You must wear goggles and a mask that will protect you against the fumes.
-你必须带上护目镜和防护面具，以保护你不被烟熏。
-N-COUNT If you describe someone's behaviour as a mask, you mean that they do not show their real feelings or character. 伪装
-例：
-His mask of detachment cracked, and she saw for an instant an angry and violent man.
-他冷静超然的伪装破碎了，她一瞬间看到了一个愤怒而又狂暴的男人。
-N-COUNT A mask is a thick cream or paste made of various substances, which you spread over your face and leave for some time in order to improve your skin. 面膜
-例：
-This mask leaves your complexion feeling soft and supple.
-这种面膜使你的皮肤变得柔软娇嫩。
-V-T If you mask your feelings, you deliberately do not show them in your behaviour, so that people cannot know what you really feel. 掩饰
-例：
-Dina lit a cigarette, trying to mask her agitation.
-黛娜点燃了一支烟，试图掩饰她的不安。
-V-T If one thing masks another, it prevents people from noticing or recognizing the other thing. 遮掩
-例：
-He was squinting through the smoke that masked the enemy.
-他眯眼看着遮住敌人的那片烟雾。
-→ see also gas mask
-网络释义 专业释义 英英释义
-
- 面具
- 面膜
- 遮罩
- 罩
-短语
-The Mask 变相怪杰
-The Mask 面具 (漫画)
-The Mask 变相怪杰
-The Mask 摩登大圣
-dust mask 防尘口罩
-  更多结果
-词组短语 同近义词 同根词
-
-face mask 面罩；面具
-oxygen mask n. 氧气面罩
-shadow mask 荫罩；障板
-subnet mask n. 子网掩码
-gas mask [化]防毒面具，毒气面具
-  更多词组短语
-双语例句 原声例句 权威例句
-
-We tore from them the mask of democracy.
-我们撕下了他们民主的假面具。
-They contrived a mask against poison gas.
-他们设计了一种防毒面具。
-He ripped away the mask of pretence which covered their activities.
-他剥掉了遮盖他们行动的假面具。
-
-*** a bouquet
-
-英  [bʊ'keɪ; bəʊ'keɪ; 'bʊkeɪ]   美  [bu'ke]
-n. 花束；酒香
-n. (Bouquet)人名；(英、法)布凯
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-bouquet /bəʊˈkeɪ, buː-/  CET6+ TEM4
-N-COUNT A bouquet is a bunch of flowers which is attractively arranged. 花束
-例：
-The woman carried a bouquet of dried violets.
-那个女子拿着一束干紫罗兰花。
-N-VAR The bouquet of something, especially wine, is the pleasant smell that it has. 芳香
-例：
-...a Sicilian wine with a light red colour and a bouquet of cloves.
-…一杯浅红色并带着丁香芬芳的西西里酒。
-网络释义 专业释义 英英释义
-
- 花束
- 酒香
- 布屈埃
- 香味
-短语
-Carole Bouquet 卡洛·波桂
-Carole Bouquet 最近的卡洛尔·布凯
-Carole Bouquet 卡洛·波桂
-Carole Bouquet 卡洛尔·布盖
-amber bouquet 百花龙涎
-  更多结果
-同近义词
-
-n. [细胞][植]花束；酒香
-nosegay, posy
-双语例句 原声例句 权威例句
-
-When traveling, give your partner a bouquet of roses; one rose for each day that you'll be away.
-当旅行时，给你的恋人送一束玫瑰花; 每朵玫瑰花代表你离开你的恋人的每一天。
-article.yeeyan.org
-If I concentrate hard enough, I can smell the sweetness of your wedding bouquet as you held it so proudly for everyone to see.
-让我再想一想，我还能闻到那婚礼花束的甜香，你那么骄傲地捧着花，让每一个人分享你的幸福时光。
-gb.cri.cn
-If I concentrate hard enough, I can smell the sweetness of your wedding bouquet as you held it so proudly for everyone to see.
-让我再想一想，我还能闻到那婚礼花束的甜香，你那麽骄傲地捧著花，让每一个人分享你的幸福时光。
-
-*** a carnival
-
-*** to celebrate
-
-*** to leave the city
-
-*** to love to do something
-
-喜欢做的事情
-
-*** to collect
-
-英  [kə'lekt]   美  [kə'lɛkt]
-
-vt. 收集；募捐
-
-vi. 收集；聚集；募捐
-
-adv. 由收件人付款地
-
-adj. 由收件人付款的
-
-n. (Collect)人名；(英)科莱克特
-
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-collect    CET4 TEM4
-V-T If you collect a number of things, you bring them together from several places or from several people. 采集; 收集
-
-例：
-
-Two young girls were collecting firewood.
-
-两位年轻女孩在采集柴火。
-
-例：
-
-Elizabeth had been collecting snails for a school project.
-
-伊丽莎白为一个学校的项目在收集蜗牛。
-
-V-T If you collect things, such as stamps or books, as a hobby, you get a large number of them over a period of time because they interest you. 收集 (邮票或书等)
-
-例：
-
-I used to collect stamps.
-
-我过去曾经集邮。
-
-N-UNCOUNT 收集
-
-例：
-
-...hobbies like stamp collecting and fishing.
-
-…诸如集邮和钓鱼之类的爱好。
-
-V-T/V-I If a substance collects somewhere, or if something collects it, it keeps arriving over a period of time and is held in that place or thing. 积聚
-
-例：
-
-Methane gas does collect in the mines around here.
-
-沼气确实积聚在这周围的矿井中。
-
-V-T If something collects light, energy, or heat, it attracts it. 聚集 (光、能量或热量等)
-
-例：
-
-Like a telescope, it has a curved mirror to collect the sunlight.
-
-和望远镜一样，它有一个曲面镜来聚集太阳光。
-
-V-T/V-I If you collect for a charity or for a present for someone, you ask people to give you money for it. 募捐
-
-例：
-
-Are you collecting for charity?
-
-你是在为慈善募捐吗？
-
-例：
-
-The organization has collected $2.5 million for the relief effort.
-
-该组织已经募集到了250万美元用于救济活动。
-
-V-T When you collect someone or something, you go and get them from the place where they are waiting for you or have been left for you. 领走
-
-ADV/ADJ (of telephone calls) on a reverse-charge basis (打电话)由对方付费
-
-N a short Church prayer generally preceding the lesson or epistle in Communion and other services 短祷文
-
-网络释义 专业释义 英英释义
-
- 收集
- 收藏
- 搜集
- 聚集
-短语
-
-collect shells 收集贝壳
-
-collect shells 收藏贝壳
-
-collect shells 捡贝壳
-
-collect shells 搜集贝壳
-
-garbage collect 垃圾收集
-
-  更多结果
-词组短语 同近义词 同根词
-
-collect oneself 镇定下来，使自己平心静气
-
-collect data 收集资料
-
-collect money 集资；筹钱
-
-collect call 对方付费电话
-
-freight collect (freight payable at destination) 运费到付（到目的地后付运费）
-
-  更多词组短语
-双语例句 原声例句 权威例句
-
-Will you collect all the students to the classroom?
-
-您把全体学生召集到教室中好吗?
-
-The party depends on whether or not we can collect enough money.
-
-这次聚会取决于我们能否收集到足够的钱。
-
-Good as it is to inherit a library, it is better to collect one.
-
-继承藏书虽好， 收集藏书更有意义。
-
-**** to catch
-
-英  [kætʃ]   美  [kætʃ]
-
-vt. 赶上；抓住；感染；了解
-vi. 赶上；抓住
-n. 捕捉；捕获物；窗钩
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-. HOLD OR TOUCH
-. MANAGE TO SEE, HEAR, OR TALK TO
-. OTHER USES
-  HOLD OR TOUCH
-catch /kætʃ/  CET4 TEM4
-
-V-T If you catch a person or animal, you capture them after chasing them, or by using a trap, net, or other device. 捉住; 捕获
-
-例：
-
-Police say they are confident of catching the gunman.
-
-警方说他们有信心抓获枪手。
-
-例：
-
-Where did you catch the fish?
-
-你在哪儿捕到了这条鱼？
-
-V-T If you catch an object that is moving through the air, you seize it with your hands. 接住
-
-例：
-
-I jumped up to catch a ball and fell over.
-
-我跳起来接球，结果摔倒了。
-
-N-COUNT Catch is also a noun. 接住
-
-例：
-
-He missed the catch and the game was lost.
-
-他没接住球，输了这场比赛。
-
-V-T If you catch a part of someone's body, you take or seize it with your hand, often in order to stop them from going somewhere. 抓住; 握住
-
-例：
-
-Liz caught his arm.
-
-利兹抓住了他的胳膊。
-
-例：
-
-He knelt beside her and caught her hand in both of his.
-
-他跪在她旁边，双手握住她的手。
-
-V-T If one thing catches another, it hits it accidentally or manages to hit it. 打击; 击中
-
-例：
-
-The stinging slap almost caught his face.
-
-这狠狠的一巴掌差点打在他的脸上。
-
-例：
-
-I may have caught him with my elbow but it was just an accident.
-
-我的胳膊肘可能碰了他，不过那只是个意外。
-
-V-I If something catches on or in an object, it accidentally becomes attached to the object or stuck in it. 绊住; 卡住
-
-例：
-
-Her ankle caught on a root, and she almost lost her balance.
-
-她的脚踝绊到一个树根上，身体差点失去平衡。
-
-to catch hold of something →see hold
-  MANAGE TO SEE, HEAR, OR TALK TO
-  OTHER USES
-网络释义 专业释义 英英释义
-
- 捕捉
- 抓住
- 职业摔角
- 赶上
-
-短语
-catch on 理解
-
-catch on 流行起来
-
-catch on 明白
-
-catch on 风风火火
-
-catch fire 着火
-
-  更多结果
-词组短语 同近义词 同根词
-
-catch oneself 发觉自己讲错而突然住嘴
-
-catch up 赶上；把…缠住
-
-catch up with 赶上，追上；逮捕；处罚
-
-catch on 理解，明白；变得流行
-
-catch the train 赶火车
-
-  更多词组短语
-
-双语例句 原声例句 权威例句
-
-You walk on ahead. I shall soon catch you up.
-
-你在前面先走，我很快就会赶上你。
-
-They made the station in time to catch the train.
-
-他们及时到达车站，赶上了那班火车。
-
-If you belt down the road,you'll catch your train.
-
-要是你顺这条路赶快跑去，你可以赶上火车。
-
-**** to throw
-
-英  [θrəʊ]   美  [θro]
-vt. 投；抛；掷
-vi. 抛；投掷
-n. 投掷；冒险
-
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-throw /θrəʊ/  CET4 TEM4
-
-V-T When you throw an object that you are holding, you move your hand or arm quickly and let go of the object, so that it moves through the air. 投; 扔
-
-例：
-
-He spent hours throwing a tennis ball against a wall.
-
-他花了数小时对着一堵墙扔网球。
-
-例：
-
-The crowd began throwing stones.
-
-那群人开始扔石头。
-
-N-COUNT Throw is also a noun. 投; 扔
-
-例：
-
-That was a good throw.
-
-那是一次很棒的投掷。
-
-例：
-
-A throw of the dice allows a player to move himself forward.
-
-投掷一次骰子，玩家即可向前移动。
-
-V-T If you throw your body or part of your body into a particular position or place, you move it there suddenly and with a lot of force. 猛然移动 (身体或身体部位)
-
-例：
-
-She threw her arms around his shoulders.
-
-她猛地伸出双臂抱住他的肩膀。
-
-例：
-
-She threatened to throw herself in front of a train.
-
-她威胁说要卧轨。
-
-V-T If you throw something into a particular place or position, you put it there in a quick and careless way. (漫不经心地) 扔下
-
-例：
-
-He struggled out of his bulky jacket and threw it on to the back seat.
-
-他用力脱下笨重的夹克，顺手把它扔到后座上。
-
-V-T To throw someone into a particular place or position means to force them roughly into that place or position. 使摔倒
-
-例：
-
-He threw me to the ground.
-
-他把我摔倒在地。
-
-V-T If you say that someone is thrown into prison, you mean that they are put there by the authorities. 把…关进 (监狱)
-
-例：
-
-Those two should have been thrown in jail.
-
-那两个人当时就该被关进监狱。
-
-V-T If a horse throws its rider, it makes him or her fall off, by suddenly jumping or moving violently. (马) 摔落 (骑手)
-
-例：
-
-The horse reared, throwing its rider and knocking down a youth standing beside it.
-
-这匹马向后一仰，摔下骑手并撞倒站在它旁边的一个年轻人。
-
-V-T If a person or thing is thrown into a bad situation or state, something causes them to be in that situation or state. 使陷入 (困境等)
-
-例：
-
-Abidjan was thrown into turmoil because of a protest by taxi drivers.
-
-阿比让因计程车司机们的抗议而陷入了混乱。
-
-V-T If something throws light or a shadow on a surface, it causes that surface to have light or a shadow on it. 投下 (光线或影子)
-
-例：
-
-The sunlight is white and blinding, throwing hard-edged shadows on the ground.
-
-阳光亮白刺眼，在地上投下轮廓分明的影子。
-
-V-T If something throws doubt on a person or thing, it causes people to doubt or suspect them. 使…产生怀疑
-
-例：
-
-This new information does throw doubt on their choice.
-
-这个新消息确实让人对他们的选择产生怀疑。
-
-V-T If you throw a look or smile at someone or something, you look or smile at them quickly and suddenly. 猛然投以 (一瞥或一笑)
-
-例：
-
-Emily turned and threw her a suggestive grin.
-
-埃米莉转过身，猛然地向她投了个暗示性的微笑。
-
-V-T If you throw yourself, your energy, or your money into a particular job or activity, you become involved in it very actively or enthusiastically. 投身于; 投入
-
-例：
-
-She threw herself into a modelling career.
-
-她投身于模特职业。
-
-V-T If you throw a fit or a tantrum, you suddenly start to behave in an uncontrolled way. 爆发 (脾气); 耍 (性子)
-
-例：
-
-I used to get very upset and scream and swear, throwing tantrums all over the place.
-
-我以前经常很不开心，喊叫骂人，到处乱发脾气。
-
-V-T If something such as a remark or an experience throws you, it surprises you or confuses you because it is unexpected. 使吃惊; 使困惑
-
-例：
-
-Her sudden change in attitude threw me.
-
-她态度上的突然变化令我吃惊。
-
-例：
-
-This new confession threw me for a loop.
-
-这份新口供使我很震惊。
-
-V-T If you throw a punch, you punch someone. 打 (一拳)
-
-例：
-
-Everything was fine until someone threw a punch.
-
-一切都还好，直到有人动了拳头。
-
-V-T When someone throws a party, they organize one, usually in their own home. (常指在家) 举行 (聚会)
-
-例：
-
-Why not throw a party for your friends?
-
-为何不给你的朋友们搞一个聚会呢？
-
-to throw down the gauntlet →see gauntlet
-
-to throw light on something →see light
-
-to throw money at something →see money
-
-to throw in the towel →see towel
-
-网络释义 专业释义 英英释义
-
- 投掷
- 扔
- 投
- 传球
-短语
-throw about 乱丢
-
-throw about 到处扔
-
-throw about 转向航行
-
-throw about 抛散
-overhead throw 过顶掷球
-
-  更多结果
-词组短语 同近义词 同根词
-
-throw away 扔掉，丢弃
-
-throw out v. 扔掉；伸出；说出；否决；突出
-
-throw in 扔进；边线发球，掷界外球
-
-throw off 摆脱；抛弃；关闭
-
-throw up 呕吐；抛起
-
-  更多词组短语
-双语例句 原声例句 权威例句
-
-Throw me that dictionary.
-
-把那本词典扔给我。
-
-Throw your dirty clothes in the washing machine.
-
-把你的脏衣服扔进洗衣机。
-
-The chicken will peck up all the grain that you throw on the ground.
-
-小鸡会把你扔在地上的谷子全部啄起来吃掉。
-
-**** an old-fashioned clock
-
-英  ['əuld'fæʃənd]   美  ['əuld'fæʃənd]
-
-adj. 老式的；过时的；守旧的
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-old-fashioned    TEM4
-
-ADJ Something such as a style, method, or device that is old-fashioned is no longer used, done, or admired by most people, because it has been replaced by something that is more modern. 旧式的; 过时的
-
-例：
-
-The house was dull, old-fashioned and in bad condition.
-
-那幢房子阴暗、老式，并且破烂。
-
-ADJ Old-fashioned ideas, customs, or values are the ideas, customs, and values of the past. 守旧的
-
-例：
-
-She has some old-fashioned values and can be a strict disciplinarian.
-
-她有一些守旧的观念，可能还是个严守纪律的人。
-
-网络释义 英英释义
-
- 过时的
- 老式的
- 旧式的
- 古典
-短语
-
-old-fashioned word 或过时的字眼
-
-old-fashioned anchor 老式锚
-
-old-fashioned ideas 守旧思想
-
-old-fashioned thinking 老式思维
-
-Old-fashioned romance 时的浪漫
-
-  更多结果
-同近义词
-
-n. 老式的；过时的；守旧的
-
-ancient, oldfangled
-
-双语例句 原声例句 权威例句
-
-So, does this mean you should turn off the shower and go back to old-fashioned baths?
-
-于是，这个是否意味着你必须关掉你的蓬蓬头，回归到老式的浴盆？
-
-article.yeeyan.org
-
-It is difficult to believe that we still see the old-fashioned autocrat in management today. You have to wonder why this is so.
-
-很难相信，即使到了今天我们依然可以看到老式的专制管理模式，但是你必须弄明白它存在的原因。
-
-**** a modern cabinet
-
- b***** modern
-
-英  ['mɒd(ə)n]  美  ['mɑdɚn]
-
-adj. 现代的，近代的；时髦的
-n. 现代人；有思想的人
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-modern /ˈmɒdən/  CET4 TEM4
-
-ADJ Modern means relating to the present time, for example the present decade or present century. 现代的
-
-例：
-
-We had a long talk about the problem of materialism in modern society.
-
-我们就现代社会中的实利主义问题进行了一次长谈。
-
-ADJ Something that is modern is new and involves the latest ideas or equipment. 现代化的
-
-例：
-
-In many ways, it was a very modern school for its time.
-
-从多方面看，这是当时很现代化的一所学校。
-
-ADJ People are sometimes described as modern when they have opinions or ways of behaving that have not yet been accepted by most people in a society. 时髦的
-
-例：
-
-She is very modern in outlook.
-
-她的看法很时髦。
-
-ADJ Modern is used to describe styles of art, dance, music, and architecture that have developed in recent times, in contrast to classical styles. (艺术、舞蹈、音乐和建筑) 现代派的
-
-例：
-
-She'd been a dancer with a modern dance company in New York.
-
-她过去一直是纽约一家现代舞公司的舞蹈演员。
-
-网络释义 专业释义 英英释义
-
- 现代
- 现代人
- 近代
- 摩登舞
-
-短语
-
-Modern dance 现代舞
-
-Modern dance 现代舞
-
-Modern dance 摩登舞
-
-Modern dance 现代舞
-
-Computer Modern Computer Modern
-
-  更多结果
-词组短语 同近义词 同根词
-
-
-modern society 现代社会
-
-modern chinese 现代汉语
-
-modern science 现代科学；近代科学
-
-modern times 现代；近代
-
-modern technology 现代技术；现代科技
-
-  更多词组短语
-
-双语例句 原声例句 权威例句
-
-She loves modern music.
-
-她喜欢现代音乐。
-
-Trade is the lifeblood of most modern states.
-
-贸易是大多数现代国家的生命线。
-
-He always pontificates about the evils of modern society.
-
-他经常对现代社会的弊病大发议论。
-
-***** cabinet
-
-英  ['kæbɪnɪt]   美  ['kæbɪnət]
-n. 内阁；橱柜；展览艺术品的小陈列室
-
-adj. 内阁的；私下的，秘密的
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-cabinet /ˈkæbɪnɪt/  CET4 TEM4
-
-N-COUNT A cabinet is a cupboard used for storing things such as medicine or alcoholic drinks or for displaying decorative things in. 贮藏橱; 陈列柜
-
-例：
-
-She looked in the medicine cabinet and found some aspirin.
-
-她在药橱中翻看了一下，找到几片阿司匹林。
-
-N-COUNT The cabinet is a group of the most senior advisers or ministers in a government, who meet regularly to discuss policies. 内阁
-
-例：
-
-The announcement came after a three-hour cabinet meeting.
-
-这项公告是在3小时的内阁会议之后发布的。
-网络释义 专业释义 英英释义
-
- 内阁
- 橱柜
- 英国内阁
- 澳大利亚内阁
-短语
-
-Cabinet Office 内阁府
-
-Cabinet Office 内阁府
-
-Cabinet Office 内阁办公室
-
-Cabinet Office 日本内阁
-
-Biosafety cabinet 生物安全柜
-
-  更多结果
-词组短语 同近义词
-
-control cabinet 控制柜；操纵室
-
-kitchen cabinet n. 政府首脑的参谋团；厨房的餐具柜
-
-cabinet meeting 内阁会议；大臣会议
-
-filing cabinet 档案橱柜
-
-cabinet minister n. 大臣；阁僚
-
-  更多词组短语
-双语例句 原声例句 权威例句
-
-They are recomposing the cabinet.
-
-他们正在改组内阁。
-
-Years of micropublished books can be stored in a single cabinet.
-
-用缩微版印刷多年的书，可存放在一个小柜子里。
-
-The wartime cabinet first recruited men into the forces from non-essential industries.
-
-战时内阁首先从非重点工业中招募人员补充武装力量。
-
-**** an old-fashioned cabinet
-
-**** a friend
-
-**** a classmate
-
-英  ['klɑːsmeɪt]  美  ['klæsmet]
-n. 同班同学
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-classmate /ˈklɑːsˌmeɪt/  CET4 TEM4
-N-COUNT Your classmates are students who are in the same class as you at school or college. 同班同学
-网络释义 专业释义 英英释义
-
- 同学
- 同班同学
- 同班
- 同班同窗
-短语
-Our classmate 我们班的同学
-Our classmate 们班的同窗
-Our classmate 我们的同学
-Our classmate 正在翻译
-Classmate B 同学B
-  更多结果
-双语例句 原声例句 权威例句
-
-He acquainted his classmate with my sister.
-
-他把我妹妹介绍给他的同班同学。
-
-He acquainted his classmate with my younger brother.
-
-他把我的弟弟介绍给他的同班同学。
-
-I, who am your classmate, can understand you.
-
-我是你的同班同学,能了解你。
-
-**** a girlfriend
-
-**** These boys are classmates.
-
-**** These girls are peers.
-
-**** a peer
-
-英  [pɪə]   美  [pɪr]
-
-n. 贵族；同等的人；同龄人
-vi. 凝视，盯着看；窥视
-vt. 封为贵族；与…同等
-n. (Peer)人名；(英、巴基)皮尔
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-peer /pɪə/  CET4 TEM4
-
-V-I If you peer at something, you look at it very hard, usually because it is difficult to see clearly. 费力地看; 盯着
-
-例：
-
-I had been peering at a computer print-out that made no sense at all.
-
-我一直在费力地看一份不知所云的电脑打印稿。
-
-N-COUNT Your peers are the people who are the same age as you or who have the same status as you. 同龄人; 同等地位的人
-
-例：
-
-His engaging personality made him popular with his peers.
-
-他迷人的个性使他很受同龄人欢迎。
-
-N a member of a nobility; nobleman 贵族
-
-网络释义 专业释义 英英释义
-
- 同行
- 凝视
- 对等
- 偷窥
-
-短语
-
-life peer 终身贵族
-
-life peer 终身贵族
-
-life peer 生活对等
-
-life peer 生命同行
-
-Peer Education 同伴教育
-
-  更多结果
-词组短语 同近义词 同根词
-
-peer review 同业互查
-
-peer to peer 对等的；[计]端对端
-
-peer pressure 来自同辈的压力
-
-peer group 同辈群体；同龄群体
-
-peer at 凝视
-
-
-双语例句 原声例句 权威例句
-
-The queen created him a peer.
-
-女王封他为贵族。
-
-She does the same with techniques, like how to use peer reviews for validating requirements.
-
-在技术上她同样也这么做，像如何利用同行的评论来确定需求。
-
-www.ibm.com
-
-My theory is that if one is doing it, all do it until the first one has the courage to break off; it’s peer pressure.
-
-我的理论是，如果有人开始做这类节目，其他人也都会做下去，知道当中有人鼓起勇气放弃：这是同行压力。
-
-article.yeeyan.org
-
-*** text
-
-These girls are peers. They studay in the same grade at the university.
-
-These childen are friends. They're watching an interesting film about
-old-fashioned clothes on TV.
-
-The friends are celebrating a holiday.
-
-The girl invites her classmates to her birthday party.
-
-In the store the friends are picking out clothing.
-
-These boys are classmates. They study in the same class at school.
-
-
-The musicians are playing old-fashioned music on violins.
-
-The boys play the drums.
-
-During a canival music plays.
-
-These musicians are playing modern music on a violin and a gurtar.
-
-The musician also plays the drums.
-
-The friends are putting on carnival costumes.
-
-
-
-The woman is wearing a wig.
-
-The womman with the bouquet of white flowers is dancing on the grass.
-
-A man and woman are dancing in old-fashioned costumes.
-
-The actors are dressed in old-fashioned dresses and wigs.
-
-During a carnival people put on old-fashioned dresses and wigs.
-
-The actor puts on a wig.
-
-
-The friends leave the city to fly meat and drink beer.
-
-The boy is happy because his mom gave him candy.
-
-The boy gives the girl candy.
-
-The young man is playing the violin, and the young woman is listening to the music.
-
-The girl is crying because she has no candy.
-
-The family leaves the city to relax in nature.
-
-
-At a wedding the bride throws her bouquet to her friends.
-
-The man in the carnival costume gives the womman in the old-fashioned dress and
-wig a bouquet of flowers.
-
-The bride throws her bouquet, and her friends catch it.
-
-The man is in a modern suit, and the woman is in an old-fashioned dress.
-
-The bride holds a bouquiet of white flowers.
-
-The girl throws the ball, and the boy catches the ball.
-
-
-The girl loves dancing. She loves to dance.
-
-The man collects phones.
-
-The woman collects masks.
-
-The young man collects old-fashioned watches.
-
-The girl loves music. She plays the violin.
-
-The boy loves photography. He loves to photograph his friends.
-
-**** potography
-
-photography
-
- 英  [fə'tɒgrəfɪ]  美  [fə'tɑɡrəfi]
-
-n. 摄影；摄影术
-
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-photography /fəˈtɒɡrəfɪ/  TEM4
-
-N-UNCOUNT Photography is the skill, job, or process of producing photographs. 摄影术; 摄影
-
-例：
-
-Photography is one of her hobbies.
-
-摄影是她的爱好之一。
-
-网络释义 专业释义 英英释义
-
- 摄影
- 摄影术
- 摄影壁纸
- 摄影学
-
-短语
-
-digital photography 数码摄影
-
-digital photography 数码摄影
-
-digital photography 数位摄影
-
-digital photography 数字摄影
-
-Erotic photography 非裸摄影
-
-  更多结果
-
-词组短语 同近义词 同根词
-
-professional photography 专业摄影
-
-aerial photography n. 空中摄影；空中照相术
-
-fashion photography 时装摄影；样式摄影术
-
-color photography 彩色摄影；彩色相片；彩色照相术
-
-infrared photography 红外摄影；红外照相
-
-  更多词组短语
-
-双语例句 原声例句 权威例句
-
-
-He took to photography.
-
-他开始喜欢上摄影。
-
-The ABC of Photography;
-
-《摄影入门》
-
-Photography is a language, with its own limitations and strengths, but these are my tools, so I have to try and use them well.
-
-摄影是一门语言，它有着自己的限制和力量，但是这些是我的工具，所以我必须试着用好它们。
-
-article.yeeyan.org
-
-**** photograph
-
-英  ['fəʊtəgrɑːf]   美  ['fotəɡræf]
-
-vt. 为…拍照；使深深印入
-
-vi. 拍照；在照片上显得
-
-n. 照片，相片
-
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-
-photograph /ˈfəʊtəˌɡrɑːf/  CET4 TEM4
-
-N-COUNT A photograph is a picture that is made using a camera. 照片
-
-例：
-
-He wants to take some photographs of the house.
-
-他想给这所房子拍一些照片。
-
-V-T When you photograph someone or something, you use a camera to obtain a picture of them. 给…照相
-
-例：
-
-She photographed the children.
-
-她给孩子们照了相。
-
-例：
-
-I hate being photographed.
-
-我讨厌被拍照。
-
-网络释义 专业释义 英英释义
-
- 照片
-
- 相片
-
- 拍照
-
- 摄影
-
-短语
-
-oscillation photograph 回摆照相
-
-oscillation photograph 振动晶体照相
-
-oscillation photograph 回摆图
-
-stereoscan photograph 扫描电镜照片
-
-stereoscan photograph 体视扫描照片
-
-  更多结果
-
-词组短语 同近义词 同根词
-
-aerial photograph 航空照片；航摄像片
-
-take a photograph v. 拍…的照片
-
-photograph album 相册，影集
-
-双语例句 原声例句 权威例句
-
-I chanced on this old photograph in his drawer.
-
-我在他的抽屉里偶然发现了这张旧照片。
-
-He captured his daughter's smile in this photograph.
-
-在这张照片中他拍摄到女儿的微笑。
-
-We should be glad to photograph the house and its grounds.
-
-我们很乐意为这所房子及其庭院拍照。
-
-
-Is this a modern or an old-fashioned building? This is a modern building.
-
-Are the friends watching a film or leaving the city? The friends are watching a film.
-
-In the city is there a carnival or traffic? In the city there is a carnival.
-
-Is the woman holding a bouquet of flowers or a wig? The woman is holding a
-bouquet of flowers.
-
-Are the musicians playing violins or drums? The musicians are palying violins.
-
-Does the bride catch or throw the bouquet? The bride throws the bouquet.
-
-
-When do men put on wigs? They put on wigs at a carnival.
-
-What do the friends love to do? They love to dance.
-
-What does the man collect? He collects paintings.
-
-Where are the friends going? They're leaving the city.
-
-When are children happy? Children are happy when they're given candy and toys.
-
-When do actors wear masks? They wear masks during a spectacle.
-
-**** spectacle
-
-英  ['spektək(ə)l]  美  ['spɛktəkl]
-
-n. 景象；场面；奇观；壮观；公开展示；表相，假相 n.（复）眼镜
-
- 柯林斯英汉双解大词典  21世纪大英汉词典
-
-
-spectacle /ˈspɛktəkəl/  CET6 TEM4
-
-N-COUNT A spectacle is a strange or interesting sight. 奇观
-
-例：
-
-It was a spectacle not to be missed.
-
-它是不可错过的奇观。
-
-N-VAR A spectacle is a grand and impressive event or performance. 盛大的活动; 盛大的演出
-
-例：
-
-Ninety-four thousand people turned up for the spectacle.
-
-9.4万人参加了这个盛大的活动。
-
-N-PLURAL Glasses are sometimes referred to as spectacles. 眼镜
-
-例：
-
-He looked at me over the tops of his spectacles.
-
-他从眼镜的上方看了看我。
-
-网络释义 专业释义 英英释义
-
- 景象
- 看头
- 奇观
- 眼镜
-
-短语
-
-spectacle stone 透石膏
-
-spectacle plate 双孔板
-
-spectacle plate 双孔钣
-
-spectacle plate 吊柱眼板
-
-protecting spectacle 防护眼镜
-
-  更多结果
-词组短语 同近义词 同根词
-
-spectacle frame 眼镜架；双孔构架
-
-双语例句 原声例句 权威例句
-
-A curious spectacle was witnessed.
-
-目击了这一奇异的景象。
-
-Franco: Yeah. For now, though, there are none I want to direct that would be full of spectacle.
-
-弗朗哥：是的。但是现在很难，现在没有一部我想去导演的充满奇观的影片。
-
-www.kle100.cn
-
-In Ramachandran’s account, then, we are treated to the spectacle of different parts of the brain — perhaps even different selves — arguing with one another.
-
-在拉玛钱德朗的描述中，我们会欣赏到，大脑的不同部分——也许甚至是几个不同的“自我”在相互争辩的场面。
-
-article.yeeyan.org
-
-
 * DONE Lesson thirty two 96.2%
 
   CLOSED: [2016-07-26 Tue 05:40]
@@ -11980,6 +10217,1831 @@ What is the chef doing ? He's frying a whole chicken.
   - State "DONE"       from "STARTED"    [2016-08-02 Tue 21:11]
   CLOCK: [2016-08-02 Tue 21:03]--[2016-08-02 Tue 21:11] =>  0:08
   :END:98.8%
+* DONE Thirty eight 96.6%
+
+  CLOSED: [2016-08-02 Tue 09:19]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-02 Tue 09:19]
+  CLOCK: [2016-08-02 Tue 08:11]--[2016-08-02 Tue 09:19] =>  1:08
+  - State "STARTED"    from "DONE"       [2016-08-02 Tue 08:11]
+  - State "DONE"       from "STARTED"    [2016-08-02 Tue 06:38]
+  CLOCK: [2016-08-02 Tue 05:15]--[2016-08-02 Tue 06:38] =>  1:23
+  :END:
+** DONE Review thirty eight 95.6%
+   CLOSED: [2016-08-04 Thu 11:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-04 Thu 11:01]
+   CLOCK: [2016-08-04 Thu 10:22]--[2016-08-04 Thu 11:01] =>  0:39
+   :END:
+
+** DONE Review <2016-09-14 三 05:25>97.8%
+   CLOSED: [2016-09-14 三 06:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-09-14 三 06:47]
+    CLOCK: [2016-09-14 三 05:25]--[2016-09-14 三 05:59] =>  0:34
+
+:END:
+** STARTED Review <2016-09-14 三 14:08>
+   :LOGBOOK:
+   CLOCK: [2016-09-14 三 14:08]--[2016-09-14 三 15:21] =>  1:13
+   - State "STARTED"    from "DONE"       [2016-09-14 三 14:08]
+   - State "DONE"       from "STARTED"    [2016-09-14 三 14:07]
+   :END:
+** DONE Review<2016-10-02 日 05:11>98.6%
+   CLOSED: [2016-10-02 日 06:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 06:00]
+   CLOCK: [2016-10-02 日 05:11]--[2016-10-02 日 06:00] =>  0:49
+   :END:
+** text
+*** film
+英  [fɪlm]   美  [fɪlm]
+n. 电影；薄膜；胶卷；轻烟
+vt. 在…上覆以薄膜；把…拍成电影
+vi. 摄制电影；生薄膜；变得朦胧
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+film /fɪlm/  CET4 TEM4
+N-COUNT A film consists of moving pictures that have been recorded so that they can be shown in a theatre or on television. A film tells a story, or shows a real situation. 电影
+例：
+Everything about the film was good. Good acting, good story, good fun.
+这部电影样样都好：演技好，故事好，非常有趣。
+N-COUNT A film of powder, liquid, or oil is a very thin layer of it. 薄层
+例：
+The sea is coated with a film of raw sewage.
+海上覆盖着薄薄一层未经处理的污水。
+V-T If you film something, you use a camera to take moving pictures which can be shown on a screen or on television. 把…拍摄成影片
+例：
+He had filmed her life story.
+他已经把她的人生故事拍成了电影。
+N-UNCOUNT Film of something is moving pictures of a real event that are shown on television or on a screen. 记实影片
+例：
+He likes to look at film of old-time players.
+他喜欢看那些以前运动员的影片。
+N-UNCOUNT The making of films, considered as a form of art or a business, can be referred to as film or films. 电影艺术; 电影业
+例：
+Film is a business with limited opportunities for actresses.
+电影业对女演员来说机会有限。
+N-UNCOUNT Plastic film is a very thin sheet of plastic used to wrap and cover things. (塑料) 薄膜
+N-VAR A film is the narrow roll of plastic that is used in a camera to take photographs. 胶卷
+例：
+The photographers had already shot a dozen rolls of film.
+摄影师们已经拍了一打胶卷。
+网络释义 专业释义 英英释义
+
+ 电影
+ 影片
+ 胶卷
+ 电影
+短语
+silent film 无声电影
+silent film 默片
+silent film 无声片
+silent film 默片无声片
+film director 电影导演
+  更多结果
+词组短语 同近义词 同根词
+
+thin film 薄膜
+plastic film 塑料薄膜；塑胶膜
+film festival 电影节
+film thickness （油）膜厚度
+feature film 正片，故事片；长片
+  更多词组短语
+双语例句 原声例句 权威例句
+
+The director expresses his sorrow in his film.
+导演在影片中表达出他的悲哀。
+She costarred with her twin sister in a new film.
+她和她的孪生姊妹联袂主演一部新影片。
+With this instant film the picture develops in only one minute.
+用这种快速胶卷，照片仅用一分钟就会显影。
+
+*** music
+英  ['mjuːzɪk]  美  ['mjuzɪk]
+n. 音乐，乐曲
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+music /ˈmjuːzɪk/  CET4 TEM4
+N-UNCOUNT Music is the pattern of sounds produced by people singing or playing instruments. 音乐
+例：
+...classical music.
+…古典音乐。
+N-UNCOUNT Music is the art of creating or performing music. 音乐创作; 音乐表演
+例：
+He went on to study music, specializing in the clarinet.
+他继续学习音乐，专攻单簧管。
+N-UNCOUNT Music is the symbols written on paper which represent musical sounds. 乐谱
+例：
+He's never been able to read music.
+他从来就不识乐谱。
+PHRASE If something that you hear is music to your ears, it makes you feel very happy. 佳音
+例：
+Popular support – it's music to the ears of any politician.
+公众的支持–这对任何政客都是佳音。
+PHRASE If you face the music, you put yourself in a position where you will be criticized or punished for something you have done. 承担自己行为的后果
+例：
+Sooner or later, I'm going to have to face the music.
+迟早我得自食其果。
+网络释义 专业释义 英英释义
+
+ 音乐
+ 音乐
+ MUSIC 完美嘉音
+ Music (专辑)
+短语
+background music 背景音乐
+background music 背景音乐
+background music 像星星一样的祈求
+background music 只有爱
+pop music 流行音乐
+  更多结果
+词组短语 同根词
+
+pop music 流行音乐
+classical music 古典乐
+music education 音乐教育；音乐教诲
+folk music 民俗音乐
+listen to music 听音乐
+  更多词组短语
+双语例句 原声例句 权威例句
+
+She enjoys music, and so do I.
+她喜欢音乐，我也喜欢音乐。
+He gets off on loud music,but I don't.
+他一听到喧闹的音乐就兴奋，而我则不然。
+Do you like music?
+你喜欢音乐吗?
+
+*** a drum
+
+英  [drʌm]   美  [drʌm]
+vt. 击鼓；大力争取
+vi. 击鼓；大力争取
+n. 鼓；鼓声
+n. (Drum)人名；(英)德拉姆；(德)德鲁姆
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+drum /drʌm/  CET4 TEM4
+N-COUNT A drum is a musical instrument consisting of a skin stretched tightly over a round frame. You play a drum by beating it with sticks or with your hands. 鼓
+例：
+...a worker who died after collapsing while beating a drum during a demonstration.
+…一个在游行时因击鼓过度劳累而倒毙的工人。
+N-COUNT A drum is a large cylindrical container which is used to store fuel or other substances. 鼓状容器
+例：
+...an oil drum.
+…一只油桶。
+V-T/V-I If something drums on a surface, or if you drum something on a surface, it hits it regularly, making a continuous beating sound. 连续敲击
+例：
+He drummed his fingers on the leather top of his desk.
+他用手指不停地敲击皮桌面。
+网络释义 专业释义 英英释义
+
+ 鼓
+ 磁鼓
+ 圆桶
+ 桶
+短语
+drum kit 爵士鼓
+drum kit 架子鼓
+drum kit 一套鼓乐器
+drum kit 模拟鼓
+Spotted Drum 斑高鳍䱛
+  更多结果
+词组短语 同近义词 同根词
+
+drum up 招徕（顾客）；[口]竭力争取；纠集；鼓动
+drum tower 鼓楼
+drum for v. 招徕；鼓吹
+brake drum [汽车]制动鼓；刹车鼓
+boiler drum 锅炉汽包，锅筒；鼓筒式锅炉
+  更多词组短语
+双语例句 原声例句 权威例句
+
+The war drum is beating.
+战鼓敲响了。
+At dusk, a huge drum begins to beat.
+在黄昏，一只巨大的鼓开始敲击。
+www.ebigear.com
+The saxophonist doubled the drum in the band.
+那位萨克斯管吹奏员在乐队中兼作鼓手。
+
+*** a guitar
+
+英  [gɪ'tɑː]   美  [ɡɪ'tɑr]
+n. 吉他，六弦琴
+vi. 弹吉他
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+guitar /ɡɪˈtɑː/  CET4 TEM4
+N-VAR A guitar is a musical instrument with six strings and a long neck. You play the guitar by plucking or strumming the strings. 吉他
+网络释义 专业释义 英英释义
+
+ 吉他
+ 吉它
+ 六弦琴
+ 木吉他
+短语
+Crazy Guitar 疯狂吉他
+Guitar Solo 吉他独奏
+Guitar Solo 吉他
+Guitar Solo 梦想之旅
+Guitar Solo 你和天空之间
+  更多结果
+词组短语 同根词
+
+play the guitar 弹吉他，玩吉他
+electric guitar 电吉他
+acoustic guitar 原声吉他；木吉他
+guitar player 吉他手
+classical guitar 古典吉他
+  更多词组短语
+双语例句 原声例句 权威例句
+
+He tuned the guitar.
+他给吉他定弦。
+Before singing, he noodled at his guitar.
+唱歌之前他先弹了几下吉他。
+Guitar is played by plucking at the wires.
+吉他可用手指在弦线上弹拨。
+
+*** a violin
+
+英  [vaɪə'lɪn; 'vaɪəlɪn]  美  [,vaɪə'lɪn]
+n. 小提琴；小提琴手
+n. (Violin)人名；(意)维奥林
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+violin /ˌvaɪəˈlɪn/  CET4 TEM4
+N-VAR A violin is a musical instrument. Violins are made of wood and have four strings. You play the violin by holding it under your chin and moving a bow across the strings. 小提琴
+例：
+Lizzie used to play the violin.
+莉齐过去常拉小提琴。
+网络释义 专业释义 英英释义
+
+ 小提琴
+ 小提琴
+ 提琴
+ 再会
+短语
+The Violin 小提琴
+The Violin 小提琴革命曲
+The Violin 集中营内的爱情
+The Violin 拉小提琴
+Violin Adagios 最美的小提琴慢板
+  更多结果
+词组短语 同近义词 同根词
+
+violin concerto 小提琴协奏曲
+violin concertos 小提琴协奏曲；小提琴协奏曲选
+双语例句 原声例句 权威例句
+
+She rippled a lively rhythm on the violin.
+她在小提琴上奏出明快的节奏。
+The music of the violin blended sweetly with her voice.
+小提琴的乐曲和她的嗓音很和谐。
+He keyed up all the strings of his violin before his performance.
+他在表演前将小提琴所有的弦都调好了。
+
+*** dance
+
+英  [dɑːns]   美  [dæns]
+n. 舞蹈；舞会；舞曲
+vi. 跳舞；跳跃；飘扬
+vt. 跳舞；使跳跃
+adj. 舞蹈的；用于跳舞的
+n. (Dance)人名；(英)丹斯；(法)当斯
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+dance /dɑːns/  CET4 TEM4
+V-I When you dance, you move your body and feet in a way which follows a rhythm, usually in time to music. 跳舞
+例：
+Polly had never learned to dance.
+波莉从未学过跳舞。
+V-T If you dance a particular kind of dance, you do it or perform it. 跳…舞
+例：
+Then we put the music on, and we all danced the Charleston.
+然后我们放起音乐，一块跳起了查尔斯顿舞。
+V-I If you dance somewhere, you move there lightly and quickly, usually because you are happy or excited. 跳跃; 雀跃
+例：
+He danced off down the road.
+他沿着马路蹦蹦跳跳地走了。
+V-I If you say that something dances, you mean that it moves around, or seems to move around, lightly and quickly. (轻快地) 跳动
+例：
+Patterns of light, reflected by the river, dance along the base of the cliffs.
+被河水倒映出的光影沿着悬崖底部轻快地跳动。
+N-COUNT A dance is a particular series of graceful movements of your body and feet, which you usually do in time to music. 舞蹈
+例：
+Sometimes the people doing this dance hold brightly coloured scarves.
+有时候跳这种舞的人拿着色彩鲜艳的围巾。
+N-COUNT A dance is a social event where people dance with each other. 舞会
+例：
+At the school dance he sat and talked to her all evening.
+在学校的舞会上，他整晚坐着和她聊天。
+V-RECIP When you dance with someone, the two of you take part in a dance together, as partners. You can also say that two people dance. 和…共舞
+例：
+It's a terrible thing when nobody wants to dance with you.
+没有人想和你跳舞是件糟糕的事。
+例：
+Shall we dance?
+我们跳舞吧？
+N-COUNT Dance is also a noun. 一支舞
+例：
+Come and have a dance with me.
+来和我跳支舞。
+N-UNCOUNT Dance is the activity of performing dances, as a public entertainment or an art form. 舞蹈艺术
+例：
+Their contribution to international dance, drama and music is inestimable.
+他们对国际舞蹈、戏剧和音乐的贡献是不可估量的。
+网络释义 专业释义 英英释义
+
+ 舞蹈
+ 跳舞
+ 舞曲
+ 舞蹈学
+短语
+SKET DANCE Sket Dance
+SKET DANCE 스켓 댄스
+SKET DANCE SKET DANCE
+SKET DANCE 学园救援团
+Tap dance 踢踏舞
+  更多结果
+词组短语 同近义词 同根词
+
+dance with 与…跳舞
+song and dance 不着边际的废话；大肆宣扬
+folk dance 民间舞蹈；土风舞
+dance floor 舞池
+modern dance 现代舞
+  更多词组短语
+双语例句 原声例句 权威例句
+
+He escorted a girl to the dance.
+他陪同一个姑娘去跳舞。
+Will you dance with me?
+你愿意和我跳舞吗?
+They dance in a round.
+他们围成圆圈跳舞。
+
+*** A carnival costume
+
+**** carnival
+
+英  ['kɑːnɪv(ə)l]  美  ['kɑrnɪvl]
+n. 狂欢节，嘉年华会；饮宴狂欢
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+carnival /ˈkɑːnɪvəl/  TEM4
+N-COUNT A carnival is a public festival during which people play music and sometimes dance in the streets. 狂欢节
+N-COUNT A carnival is a travelling show which is held in a park or field and at which there are machines to ride on, entertainments, and games. 嘉年华
+网络释义 专业释义 英英释义
+
+ 狂欢节
+ 嘉年华
+ 狂欢
+ 花样年华
+短语
+Carnival Town 狂欢节镇
+Carnival Town 狂欢之城
+Carnival Town 城镇狂欢节
+Carnival Town 嘉年华小镇
+Carnival Games 嘉年华游戏
+  更多结果
+
+carnival parade 狂欢节队伍
+双语例句 原声例句 权威例句
+
+In the Carnival of Fear, there are "demonic harlequins" ...
+在恐怖狂欢节里，这里有“魔法丑角”……
+
+**** costume
+
+英  ['kɒstjuːm]  美  ['kɑstum]
+n. 服装，装束；戏装，剧装
+vt. 给…穿上服装
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+costume /ˈkɒstjuːm/  CET4 TEM4
+N-VAR An actor's or performer's costume is the set of clothes they wear while they are performing. 戏装
+例：
+Even from a distance, the effect of his fox costume was stunning.
+即使从远处看，他的狐装造型也非常漂亮。
+例：
+The performers, in costume and makeup, were walking up and down backstage.
+演员们穿着戏服化着妆，在后台走来走去。
+N-UNCOUNT The clothes worn by people at a particular time in history, or in a particular country, are referred to as a particular type of costume. (某一历史时期或某一国家人们穿的) 服装
+例：
+...men and women in eighteenth-century costume.
+…身着18世纪服装的男男女女。
+ADJ A costume drama is one which is set in the past and in which the actors wear the type of clothes that were worn in that period. 古装的
+例：
+...a lavish costume drama set in Ireland and the U.S. in the 1890s.
+…以19世纪90年代的爱尔兰和美国为背景的一部大型古装戏。
+网络释义 专业释义 英英释义
+
+ 服装
+ 装束
+ 戏服
+ 服饰
+短语
+COSTUME DESIGN 最佳服装设计
+COSTUME DESIGN 剧装设计
+COSTUME DESIGN 服装设计
+COSTUME DESIGN 最佳服装设计奖
+costume tweed 粗花呢
+  更多结果
+词组短语 同近义词 同根词
+
+costume jewelry （用作服饰的）人造珠宝
+costume design 最佳服装设计
+national costume 民族服装
+chinese costume 中式装；唐装；中装
+costume jewellery 人造珠宝饰物；服装饰物
+  更多词组短语
+双语例句 原声例句 权威例句
+
+The advertisements of costume in Paris broadened his outlook.
+巴黎的服装广告使他大开眼界。
+She blacked herself up and rigged her costume for the evening performance.
+她在脸上抹了黑油彩，身上穿了戏装以参加晚上的演出。
+Superstition: Peacock Feathers should never be brought on stage, either as a costume element, prop or part of a set as chaos will ensue.
+迷信：孔雀羽毛应该永远不带上舞台，不能作为服装元素，道具或者布景的一部分，否则混乱将接踵而来。
+article.yeeyan.org
+
+*** candy
+英  ['kændɪ]  美  ['kændi]
+vt. 用糖煮；使结晶为砂糖；美化
+vi. 糖煮；成为结晶
+n. 糖果（等于sweets）；冰糖（等于sugar candy，rock candy）；毒品
+adj. 新潮的（服饰）；甜言蜜语的
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+candy /ˈkændɪ/  CET4 TEM4
+N-VAR Candy is sweet foods such as chocolate or toffees. 糖果
+例：
+...a piece of candy.
+…一块糖果。
+网络释义 专业释义 英英释义
+
+ 糖果
+ 卢巧音
+ 坎蒂
+ 砂糖结晶
+短语
+Gossip Candy Gossip Candy
+Gossip Candy Gossip Candy
+Gossip Candy 八卦蜜糖
+Gossip Candy 幸田来未
+Candy Dulfer 坎迪·杜尔费
+  更多结果
+词组短语 同近义词 同根词
+
+candy store 糖果店
+candy bar n. 单独包装的块状糖
+cotton candy 棉花糖
+hard candy 硬糖
+rock candy 冰糖
+  更多词组短语
+双语例句 原声例句 权威例句
+
+She enticed the children with candy.
+她用糖果诱骗小孩们。
+Her baby sister bother her for candy.
+她的小妹妹缠着她要糖果。
+He conciliated his angry daughter with a piece of candy.
+他用一块糖果来哄他发脾气的女儿。
+
+*** a wig
+
+英  [wɪg]   美  [wɪɡ]
+n. 假发；要人；头脑
+vt. 使戴假发；斥责
+vi. 激动；发狂
+n. (Wig)人名；(英、瑞典)威格；(德)维希
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+wig /wɪɡ/  CET6+ TEM4
+N-COUNT A wig is a covering of false hair that you wear on your head, for example, because you have little hair of your own or because you want to cover up your own hair. 假发
+例：
+Jo wore a long wig that made her look very sexy.
+乔带着一头长长的假发，使她看起来很性感。
+网络释义 专业释义 英英释义
+
+ 假发
+ 时尚假发
+ 假发
+ 丙种球蛋白
+短语
+Lace Wig 蕾丝假发
+Lace Wig 人发女式假发头套
+Lace Wig 花边假发
+WIG Craft 飞翼船
+WIG Craft 地效飞行器
+  更多结果
+词组短语 同近义词 同根词
+
+big wig [俚语]要人，大人物，大亨
+wig out 激动；发狂
+wigs on the green 打架；激烈争论
+双语例句 原声例句 权威例句
+
+When he put on the wig and false moustache I could have died.
+他戴上假发和假胡须时，真把我笑坏了。
+She directed my verdict with an elegant little shake of the ponytail that peeped out from beneath her wig.
+她按我的意见宣读了判决，当时，从她的假发下隐约露出的马尾辫轻轻颤动。
+bbs.ly.shangdu.com
+So now, students at the University of Washington that are studying these crows do so with a giant wig and a big mask.
+正是这样的缘故，现在华盛顿大学做 乌鸦研究的学生都带上巨大的假发，还套上脸罩。
+article.yeeyan.org
+
+*** mask
+
+英  [mɑːsk]   美  [mæsk]
+n. 面具；口罩；掩饰
+vi. 掩饰；戴面具；化装
+vt. 掩饰；戴面具；使模糊
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+mask /mɑːsk/  CET4 TEM4
+N-COUNT A mask is a piece of cloth or other material, which you wear over your face so that people cannot see who you are, or so that you look like someone or something else. 面具
+例：
+The gunman, whose mask had slipped, fled.
+面具滑落的持枪歹徒逃走了。
+N-COUNT A mask is a piece of cloth or other material that you wear over all or part of your face to protect you from germs or harmful substances. 防护面具
+例：
+You must wear goggles and a mask that will protect you against the fumes.
+你必须带上护目镜和防护面具，以保护你不被烟熏。
+N-COUNT If you describe someone's behaviour as a mask, you mean that they do not show their real feelings or character. 伪装
+例：
+His mask of detachment cracked, and she saw for an instant an angry and violent man.
+他冷静超然的伪装破碎了，她一瞬间看到了一个愤怒而又狂暴的男人。
+N-COUNT A mask is a thick cream or paste made of various substances, which you spread over your face and leave for some time in order to improve your skin. 面膜
+例：
+This mask leaves your complexion feeling soft and supple.
+这种面膜使你的皮肤变得柔软娇嫩。
+V-T If you mask your feelings, you deliberately do not show them in your behaviour, so that people cannot know what you really feel. 掩饰
+例：
+Dina lit a cigarette, trying to mask her agitation.
+黛娜点燃了一支烟，试图掩饰她的不安。
+V-T If one thing masks another, it prevents people from noticing or recognizing the other thing. 遮掩
+例：
+He was squinting through the smoke that masked the enemy.
+他眯眼看着遮住敌人的那片烟雾。
+→ see also gas mask
+网络释义 专业释义 英英释义
+
+ 面具
+ 面膜
+ 遮罩
+ 罩
+短语
+The Mask 变相怪杰
+The Mask 面具 (漫画)
+The Mask 变相怪杰
+The Mask 摩登大圣
+dust mask 防尘口罩
+  更多结果
+词组短语 同近义词 同根词
+
+face mask 面罩；面具
+oxygen mask n. 氧气面罩
+shadow mask 荫罩；障板
+subnet mask n. 子网掩码
+gas mask [化]防毒面具，毒气面具
+  更多词组短语
+双语例句 原声例句 权威例句
+
+We tore from them the mask of democracy.
+我们撕下了他们民主的假面具。
+They contrived a mask against poison gas.
+他们设计了一种防毒面具。
+He ripped away the mask of pretence which covered their activities.
+他剥掉了遮盖他们行动的假面具。
+
+*** a bouquet
+
+英  [bʊ'keɪ; bəʊ'keɪ; 'bʊkeɪ]   美  [bu'ke]
+n. 花束；酒香
+n. (Bouquet)人名；(英、法)布凯
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+bouquet /bəʊˈkeɪ, buː-/  CET6+ TEM4
+N-COUNT A bouquet is a bunch of flowers which is attractively arranged. 花束
+例：
+The woman carried a bouquet of dried violets.
+那个女子拿着一束干紫罗兰花。
+N-VAR The bouquet of something, especially wine, is the pleasant smell that it has. 芳香
+例：
+...a Sicilian wine with a light red colour and a bouquet of cloves.
+…一杯浅红色并带着丁香芬芳的西西里酒。
+网络释义 专业释义 英英释义
+
+ 花束
+ 酒香
+ 布屈埃
+ 香味
+短语
+Carole Bouquet 卡洛·波桂
+Carole Bouquet 最近的卡洛尔·布凯
+Carole Bouquet 卡洛·波桂
+Carole Bouquet 卡洛尔·布盖
+amber bouquet 百花龙涎
+  更多结果
+同近义词
+
+n. [细胞][植]花束；酒香
+nosegay, posy
+双语例句 原声例句 权威例句
+
+When traveling, give your partner a bouquet of roses; one rose for each day that you'll be away.
+当旅行时，给你的恋人送一束玫瑰花; 每朵玫瑰花代表你离开你的恋人的每一天。
+article.yeeyan.org
+If I concentrate hard enough, I can smell the sweetness of your wedding bouquet as you held it so proudly for everyone to see.
+让我再想一想，我还能闻到那婚礼花束的甜香，你那么骄傲地捧着花，让每一个人分享你的幸福时光。
+gb.cri.cn
+If I concentrate hard enough, I can smell the sweetness of your wedding bouquet as you held it so proudly for everyone to see.
+让我再想一想，我还能闻到那婚礼花束的甜香，你那麽骄傲地捧著花，让每一个人分享你的幸福时光。
+
+*** a carnival
+
+*** to celebrate
+
+*** to leave the city
+
+*** to love to do something
+
+喜欢做的事情
+
+*** to collect
+
+英  [kə'lekt]   美  [kə'lɛkt]
+
+vt. 收集；募捐
+
+vi. 收集；聚集；募捐
+
+adv. 由收件人付款地
+
+adj. 由收件人付款的
+
+n. (Collect)人名；(英)科莱克特
+
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+collect    CET4 TEM4
+V-T If you collect a number of things, you bring them together from several places or from several people. 采集; 收集
+
+例：
+
+Two young girls were collecting firewood.
+
+两位年轻女孩在采集柴火。
+
+例：
+
+Elizabeth had been collecting snails for a school project.
+
+伊丽莎白为一个学校的项目在收集蜗牛。
+
+V-T If you collect things, such as stamps or books, as a hobby, you get a large number of them over a period of time because they interest you. 收集 (邮票或书等)
+
+例：
+
+I used to collect stamps.
+
+我过去曾经集邮。
+
+N-UNCOUNT 收集
+
+例：
+
+...hobbies like stamp collecting and fishing.
+
+…诸如集邮和钓鱼之类的爱好。
+
+V-T/V-I If a substance collects somewhere, or if something collects it, it keeps arriving over a period of time and is held in that place or thing. 积聚
+
+例：
+
+Methane gas does collect in the mines around here.
+
+沼气确实积聚在这周围的矿井中。
+
+V-T If something collects light, energy, or heat, it attracts it. 聚集 (光、能量或热量等)
+
+例：
+
+Like a telescope, it has a curved mirror to collect the sunlight.
+
+和望远镜一样，它有一个曲面镜来聚集太阳光。
+
+V-T/V-I If you collect for a charity or for a present for someone, you ask people to give you money for it. 募捐
+
+例：
+
+Are you collecting for charity?
+
+你是在为慈善募捐吗？
+
+例：
+
+The organization has collected $2.5 million for the relief effort.
+
+该组织已经募集到了250万美元用于救济活动。
+
+V-T When you collect someone or something, you go and get them from the place where they are waiting for you or have been left for you. 领走
+
+ADV/ADJ (of telephone calls) on a reverse-charge basis (打电话)由对方付费
+
+N a short Church prayer generally preceding the lesson or epistle in Communion and other services 短祷文
+
+网络释义 专业释义 英英释义
+
+ 收集
+ 收藏
+ 搜集
+ 聚集
+短语
+
+collect shells 收集贝壳
+
+collect shells 收藏贝壳
+
+collect shells 捡贝壳
+
+collect shells 搜集贝壳
+
+garbage collect 垃圾收集
+
+  更多结果
+词组短语 同近义词 同根词
+
+collect oneself 镇定下来，使自己平心静气
+
+collect data 收集资料
+
+collect money 集资；筹钱
+
+collect call 对方付费电话
+
+freight collect (freight payable at destination) 运费到付（到目的地后付运费）
+
+  更多词组短语
+双语例句 原声例句 权威例句
+
+Will you collect all the students to the classroom?
+
+您把全体学生召集到教室中好吗?
+
+The party depends on whether or not we can collect enough money.
+
+这次聚会取决于我们能否收集到足够的钱。
+
+Good as it is to inherit a library, it is better to collect one.
+
+继承藏书虽好， 收集藏书更有意义。
+
+**** to catch
+
+英  [kætʃ]   美  [kætʃ]
+
+vt. 赶上；抓住；感染；了解
+vi. 赶上；抓住
+n. 捕捉；捕获物；窗钩
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+. HOLD OR TOUCH
+. MANAGE TO SEE, HEAR, OR TALK TO
+. OTHER USES
+  HOLD OR TOUCH
+catch /kætʃ/  CET4 TEM4
+
+V-T If you catch a person or animal, you capture them after chasing them, or by using a trap, net, or other device. 捉住; 捕获
+
+例：
+
+Police say they are confident of catching the gunman.
+
+警方说他们有信心抓获枪手。
+
+例：
+
+Where did you catch the fish?
+
+你在哪儿捕到了这条鱼？
+
+V-T If you catch an object that is moving through the air, you seize it with your hands. 接住
+
+例：
+
+I jumped up to catch a ball and fell over.
+
+我跳起来接球，结果摔倒了。
+
+N-COUNT Catch is also a noun. 接住
+
+例：
+
+He missed the catch and the game was lost.
+
+他没接住球，输了这场比赛。
+
+V-T If you catch a part of someone's body, you take or seize it with your hand, often in order to stop them from going somewhere. 抓住; 握住
+
+例：
+
+Liz caught his arm.
+
+利兹抓住了他的胳膊。
+
+例：
+
+He knelt beside her and caught her hand in both of his.
+
+他跪在她旁边，双手握住她的手。
+
+V-T If one thing catches another, it hits it accidentally or manages to hit it. 打击; 击中
+
+例：
+
+The stinging slap almost caught his face.
+
+这狠狠的一巴掌差点打在他的脸上。
+
+例：
+
+I may have caught him with my elbow but it was just an accident.
+
+我的胳膊肘可能碰了他，不过那只是个意外。
+
+V-I If something catches on or in an object, it accidentally becomes attached to the object or stuck in it. 绊住; 卡住
+
+例：
+
+Her ankle caught on a root, and she almost lost her balance.
+
+她的脚踝绊到一个树根上，身体差点失去平衡。
+
+to catch hold of something →see hold
+  MANAGE TO SEE, HEAR, OR TALK TO
+  OTHER USES
+网络释义 专业释义 英英释义
+
+ 捕捉
+ 抓住
+ 职业摔角
+ 赶上
+
+短语
+catch on 理解
+
+catch on 流行起来
+
+catch on 明白
+
+catch on 风风火火
+
+catch fire 着火
+
+  更多结果
+词组短语 同近义词 同根词
+
+catch oneself 发觉自己讲错而突然住嘴
+
+catch up 赶上；把…缠住
+
+catch up with 赶上，追上；逮捕；处罚
+
+catch on 理解，明白；变得流行
+
+catch the train 赶火车
+
+  更多词组短语
+
+双语例句 原声例句 权威例句
+
+You walk on ahead. I shall soon catch you up.
+
+你在前面先走，我很快就会赶上你。
+
+They made the station in time to catch the train.
+
+他们及时到达车站，赶上了那班火车。
+
+If you belt down the road,you'll catch your train.
+
+要是你顺这条路赶快跑去，你可以赶上火车。
+
+**** to throw
+
+英  [θrəʊ]   美  [θro]
+vt. 投；抛；掷
+vi. 抛；投掷
+n. 投掷；冒险
+
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+throw /θrəʊ/  CET4 TEM4
+
+V-T When you throw an object that you are holding, you move your hand or arm quickly and let go of the object, so that it moves through the air. 投; 扔
+
+例：
+
+He spent hours throwing a tennis ball against a wall.
+
+他花了数小时对着一堵墙扔网球。
+
+例：
+
+The crowd began throwing stones.
+
+那群人开始扔石头。
+
+N-COUNT Throw is also a noun. 投; 扔
+
+例：
+
+That was a good throw.
+
+那是一次很棒的投掷。
+
+例：
+
+A throw of the dice allows a player to move himself forward.
+
+投掷一次骰子，玩家即可向前移动。
+
+V-T If you throw your body or part of your body into a particular position or place, you move it there suddenly and with a lot of force. 猛然移动 (身体或身体部位)
+
+例：
+
+She threw her arms around his shoulders.
+
+她猛地伸出双臂抱住他的肩膀。
+
+例：
+
+She threatened to throw herself in front of a train.
+
+她威胁说要卧轨。
+
+V-T If you throw something into a particular place or position, you put it there in a quick and careless way. (漫不经心地) 扔下
+
+例：
+
+He struggled out of his bulky jacket and threw it on to the back seat.
+
+他用力脱下笨重的夹克，顺手把它扔到后座上。
+
+V-T To throw someone into a particular place or position means to force them roughly into that place or position. 使摔倒
+
+例：
+
+He threw me to the ground.
+
+他把我摔倒在地。
+
+V-T If you say that someone is thrown into prison, you mean that they are put there by the authorities. 把…关进 (监狱)
+
+例：
+
+Those two should have been thrown in jail.
+
+那两个人当时就该被关进监狱。
+
+V-T If a horse throws its rider, it makes him or her fall off, by suddenly jumping or moving violently. (马) 摔落 (骑手)
+
+例：
+
+The horse reared, throwing its rider and knocking down a youth standing beside it.
+
+这匹马向后一仰，摔下骑手并撞倒站在它旁边的一个年轻人。
+
+V-T If a person or thing is thrown into a bad situation or state, something causes them to be in that situation or state. 使陷入 (困境等)
+
+例：
+
+Abidjan was thrown into turmoil because of a protest by taxi drivers.
+
+阿比让因计程车司机们的抗议而陷入了混乱。
+
+V-T If something throws light or a shadow on a surface, it causes that surface to have light or a shadow on it. 投下 (光线或影子)
+
+例：
+
+The sunlight is white and blinding, throwing hard-edged shadows on the ground.
+
+阳光亮白刺眼，在地上投下轮廓分明的影子。
+
+V-T If something throws doubt on a person or thing, it causes people to doubt or suspect them. 使…产生怀疑
+
+例：
+
+This new information does throw doubt on their choice.
+
+这个新消息确实让人对他们的选择产生怀疑。
+
+V-T If you throw a look or smile at someone or something, you look or smile at them quickly and suddenly. 猛然投以 (一瞥或一笑)
+
+例：
+
+Emily turned and threw her a suggestive grin.
+
+埃米莉转过身，猛然地向她投了个暗示性的微笑。
+
+V-T If you throw yourself, your energy, or your money into a particular job or activity, you become involved in it very actively or enthusiastically. 投身于; 投入
+
+例：
+
+She threw herself into a modelling career.
+
+她投身于模特职业。
+
+V-T If you throw a fit or a tantrum, you suddenly start to behave in an uncontrolled way. 爆发 (脾气); 耍 (性子)
+
+例：
+
+I used to get very upset and scream and swear, throwing tantrums all over the place.
+
+我以前经常很不开心，喊叫骂人，到处乱发脾气。
+
+V-T If something such as a remark or an experience throws you, it surprises you or confuses you because it is unexpected. 使吃惊; 使困惑
+
+例：
+
+Her sudden change in attitude threw me.
+
+她态度上的突然变化令我吃惊。
+
+例：
+
+This new confession threw me for a loop.
+
+这份新口供使我很震惊。
+
+V-T If you throw a punch, you punch someone. 打 (一拳)
+
+例：
+
+Everything was fine until someone threw a punch.
+
+一切都还好，直到有人动了拳头。
+
+V-T When someone throws a party, they organize one, usually in their own home. (常指在家) 举行 (聚会)
+
+例：
+
+Why not throw a party for your friends?
+
+为何不给你的朋友们搞一个聚会呢？
+
+to throw down the gauntlet →see gauntlet
+
+to throw light on something →see light
+
+to throw money at something →see money
+
+to throw in the towel →see towel
+
+网络释义 专业释义 英英释义
+
+ 投掷
+ 扔
+ 投
+ 传球
+短语
+throw about 乱丢
+
+throw about 到处扔
+
+throw about 转向航行
+
+throw about 抛散
+overhead throw 过顶掷球
+
+  更多结果
+词组短语 同近义词 同根词
+
+throw away 扔掉，丢弃
+
+throw out v. 扔掉；伸出；说出；否决；突出
+
+throw in 扔进；边线发球，掷界外球
+
+throw off 摆脱；抛弃；关闭
+
+throw up 呕吐；抛起
+
+  更多词组短语
+双语例句 原声例句 权威例句
+
+Throw me that dictionary.
+
+把那本词典扔给我。
+
+Throw your dirty clothes in the washing machine.
+
+把你的脏衣服扔进洗衣机。
+
+The chicken will peck up all the grain that you throw on the ground.
+
+小鸡会把你扔在地上的谷子全部啄起来吃掉。
+
+**** an old-fashioned clock
+
+英  ['əuld'fæʃənd]   美  ['əuld'fæʃənd]
+
+adj. 老式的；过时的；守旧的
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+old-fashioned    TEM4
+
+ADJ Something such as a style, method, or device that is old-fashioned is no longer used, done, or admired by most people, because it has been replaced by something that is more modern. 旧式的; 过时的
+
+例：
+
+The house was dull, old-fashioned and in bad condition.
+
+那幢房子阴暗、老式，并且破烂。
+
+ADJ Old-fashioned ideas, customs, or values are the ideas, customs, and values of the past. 守旧的
+
+例：
+
+She has some old-fashioned values and can be a strict disciplinarian.
+
+她有一些守旧的观念，可能还是个严守纪律的人。
+
+网络释义 英英释义
+
+ 过时的
+ 老式的
+ 旧式的
+ 古典
+短语
+
+old-fashioned word 或过时的字眼
+
+old-fashioned anchor 老式锚
+
+old-fashioned ideas 守旧思想
+
+old-fashioned thinking 老式思维
+
+Old-fashioned romance 时的浪漫
+
+  更多结果
+同近义词
+
+n. 老式的；过时的；守旧的
+
+ancient, oldfangled
+
+双语例句 原声例句 权威例句
+
+So, does this mean you should turn off the shower and go back to old-fashioned baths?
+
+于是，这个是否意味着你必须关掉你的蓬蓬头，回归到老式的浴盆？
+
+article.yeeyan.org
+
+It is difficult to believe that we still see the old-fashioned autocrat in management today. You have to wonder why this is so.
+
+很难相信，即使到了今天我们依然可以看到老式的专制管理模式，但是你必须弄明白它存在的原因。
+
+**** a modern cabinet
+
+ b***** modern
+
+英  ['mɒd(ə)n]  美  ['mɑdɚn]
+
+adj. 现代的，近代的；时髦的
+n. 现代人；有思想的人
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+modern /ˈmɒdən/  CET4 TEM4
+
+ADJ Modern means relating to the present time, for example the present decade or present century. 现代的
+
+例：
+
+We had a long talk about the problem of materialism in modern society.
+
+我们就现代社会中的实利主义问题进行了一次长谈。
+
+ADJ Something that is modern is new and involves the latest ideas or equipment. 现代化的
+
+例：
+
+In many ways, it was a very modern school for its time.
+
+从多方面看，这是当时很现代化的一所学校。
+
+ADJ People are sometimes described as modern when they have opinions or ways of behaving that have not yet been accepted by most people in a society. 时髦的
+
+例：
+
+She is very modern in outlook.
+
+她的看法很时髦。
+
+ADJ Modern is used to describe styles of art, dance, music, and architecture that have developed in recent times, in contrast to classical styles. (艺术、舞蹈、音乐和建筑) 现代派的
+
+例：
+
+She'd been a dancer with a modern dance company in New York.
+
+她过去一直是纽约一家现代舞公司的舞蹈演员。
+
+网络释义 专业释义 英英释义
+
+ 现代
+ 现代人
+ 近代
+ 摩登舞
+
+短语
+
+Modern dance 现代舞
+
+Modern dance 现代舞
+
+Modern dance 摩登舞
+
+Modern dance 现代舞
+
+Computer Modern Computer Modern
+
+  更多结果
+词组短语 同近义词 同根词
+
+
+modern society 现代社会
+
+modern chinese 现代汉语
+
+modern science 现代科学；近代科学
+
+modern times 现代；近代
+
+modern technology 现代技术；现代科技
+
+  更多词组短语
+
+双语例句 原声例句 权威例句
+
+She loves modern music.
+
+她喜欢现代音乐。
+
+Trade is the lifeblood of most modern states.
+
+贸易是大多数现代国家的生命线。
+
+He always pontificates about the evils of modern society.
+
+他经常对现代社会的弊病大发议论。
+
+***** cabinet
+
+英  ['kæbɪnɪt]   美  ['kæbɪnət]
+n. 内阁；橱柜；展览艺术品的小陈列室
+
+adj. 内阁的；私下的，秘密的
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+cabinet /ˈkæbɪnɪt/  CET4 TEM4
+
+N-COUNT A cabinet is a cupboard used for storing things such as medicine or alcoholic drinks or for displaying decorative things in. 贮藏橱; 陈列柜
+
+例：
+
+She looked in the medicine cabinet and found some aspirin.
+
+她在药橱中翻看了一下，找到几片阿司匹林。
+
+N-COUNT The cabinet is a group of the most senior advisers or ministers in a government, who meet regularly to discuss policies. 内阁
+
+例：
+
+The announcement came after a three-hour cabinet meeting.
+
+这项公告是在3小时的内阁会议之后发布的。
+网络释义 专业释义 英英释义
+
+ 内阁
+ 橱柜
+ 英国内阁
+ 澳大利亚内阁
+短语
+
+Cabinet Office 内阁府
+
+Cabinet Office 内阁府
+
+Cabinet Office 内阁办公室
+
+Cabinet Office 日本内阁
+
+Biosafety cabinet 生物安全柜
+
+  更多结果
+词组短语 同近义词
+
+control cabinet 控制柜；操纵室
+
+kitchen cabinet n. 政府首脑的参谋团；厨房的餐具柜
+
+cabinet meeting 内阁会议；大臣会议
+
+filing cabinet 档案橱柜
+
+cabinet minister n. 大臣；阁僚
+
+  更多词组短语
+双语例句 原声例句 权威例句
+
+They are recomposing the cabinet.
+
+他们正在改组内阁。
+
+Years of micropublished books can be stored in a single cabinet.
+
+用缩微版印刷多年的书，可存放在一个小柜子里。
+
+The wartime cabinet first recruited men into the forces from non-essential industries.
+
+战时内阁首先从非重点工业中招募人员补充武装力量。
+
+**** an old-fashioned cabinet
+
+**** a friend
+
+**** a classmate
+
+英  ['klɑːsmeɪt]  美  ['klæsmet]
+n. 同班同学
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+classmate /ˈklɑːsˌmeɪt/  CET4 TEM4
+N-COUNT Your classmates are students who are in the same class as you at school or college. 同班同学
+网络释义 专业释义 英英释义
+
+ 同学
+ 同班同学
+ 同班
+ 同班同窗
+短语
+Our classmate 我们班的同学
+Our classmate 们班的同窗
+Our classmate 我们的同学
+Our classmate 正在翻译
+Classmate B 同学B
+  更多结果
+双语例句 原声例句 权威例句
+
+He acquainted his classmate with my sister.
+
+他把我妹妹介绍给他的同班同学。
+
+He acquainted his classmate with my younger brother.
+
+他把我的弟弟介绍给他的同班同学。
+
+I, who am your classmate, can understand you.
+
+我是你的同班同学,能了解你。
+
+**** a girlfriend
+
+**** These boys are classmates.
+
+**** These girls are peers.
+
+**** a peer
+
+英  [pɪə]   美  [pɪr]
+
+n. 贵族；同等的人；同龄人
+vi. 凝视，盯着看；窥视
+vt. 封为贵族；与…同等
+n. (Peer)人名；(英、巴基)皮尔
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+peer /pɪə/  CET4 TEM4
+
+V-I If you peer at something, you look at it very hard, usually because it is difficult to see clearly. 费力地看; 盯着
+
+例：
+
+I had been peering at a computer print-out that made no sense at all.
+
+我一直在费力地看一份不知所云的电脑打印稿。
+
+N-COUNT Your peers are the people who are the same age as you or who have the same status as you. 同龄人; 同等地位的人
+
+例：
+
+His engaging personality made him popular with his peers.
+
+他迷人的个性使他很受同龄人欢迎。
+
+N a member of a nobility; nobleman 贵族
+
+网络释义 专业释义 英英释义
+
+ 同行
+ 凝视
+ 对等
+ 偷窥
+
+短语
+
+life peer 终身贵族
+
+life peer 终身贵族
+
+life peer 生活对等
+
+life peer 生命同行
+
+Peer Education 同伴教育
+
+  更多结果
+词组短语 同近义词 同根词
+
+peer review 同业互查
+
+peer to peer 对等的；[计]端对端
+
+peer pressure 来自同辈的压力
+
+peer group 同辈群体；同龄群体
+
+peer at 凝视
+
+
+双语例句 原声例句 权威例句
+
+The queen created him a peer.
+
+女王封他为贵族。
+
+She does the same with techniques, like how to use peer reviews for validating requirements.
+
+在技术上她同样也这么做，像如何利用同行的评论来确定需求。
+
+www.ibm.com
+
+My theory is that if one is doing it, all do it until the first one has the courage to break off; it’s peer pressure.
+
+我的理论是，如果有人开始做这类节目，其他人也都会做下去，知道当中有人鼓起勇气放弃：这是同行压力。
+
+article.yeeyan.org
+
+*** text
+
+These girls are peers. They studay in the same grade at the university.
+
+These childen are friends. They're watching an interesting film about
+old-fashioned clothes on TV.
+
+The friends are celebrating a holiday.
+
+The girl invites her classmates to her birthday party.
+
+In the store the friends are picking out clothing.
+
+These boys are classmates. They study in the same class at school.
+
+
+The musicians are playing old-fashioned music on violins.
+
+The boys play the drums.
+
+During a canival music plays.
+
+These musicians are playing modern music on a violin and a gurtar.
+
+The musician also plays the drums.
+
+The friends are putting on carnival costumes.
+
+
+
+The woman is wearing a wig.
+
+The womman with the bouquet of white flowers is dancing on the grass.
+
+A man and woman are dancing in old-fashioned costumes.
+
+The actors are dressed in old-fashioned dresses and wigs.
+
+During a carnival people put on old-fashioned dresses and wigs.
+
+The actor puts on a wig.
+
+
+The friends leave the city to fly meat and drink beer.
+
+The boy is happy because his mom gave him candy.
+
+The boy gives the girl candy.
+
+The young man is playing the violin, and the young woman is listening to the music.
+
+The girl is crying because she has no candy.
+
+The family leaves the city to relax in nature.
+
+
+At a wedding the bride throws her bouquet to her friends.
+
+The man in the carnival costume gives the womman in the old-fashioned dress and
+wig a bouquet of flowers.
+
+The bride throws her bouquet, and her friends catch it.
+
+The man is in a modern suit, and the woman is in an old-fashioned dress.
+
+The bride holds a bouquiet of white flowers.
+
+The girl throws the ball, and the boy catches the ball.
+
+
+The girl loves dancing. She loves to dance.
+
+The man collects phones.
+
+The woman collects masks.
+
+The young man collects old-fashioned watches.
+
+The girl loves music. She plays the violin.
+
+The boy loves photography. He loves to photograph his friends.
+
+**** potography
+
+photography
+
+ 英  [fə'tɒgrəfɪ]  美  [fə'tɑɡrəfi]
+
+n. 摄影；摄影术
+
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+photography /fəˈtɒɡrəfɪ/  TEM4
+
+N-UNCOUNT Photography is the skill, job, or process of producing photographs. 摄影术; 摄影
+
+例：
+
+Photography is one of her hobbies.
+
+摄影是她的爱好之一。
+
+网络释义 专业释义 英英释义
+
+ 摄影
+ 摄影术
+ 摄影壁纸
+ 摄影学
+
+短语
+
+digital photography 数码摄影
+
+digital photography 数码摄影
+
+digital photography 数位摄影
+
+digital photography 数字摄影
+
+Erotic photography 非裸摄影
+
+  更多结果
+
+词组短语 同近义词 同根词
+
+professional photography 专业摄影
+
+aerial photography n. 空中摄影；空中照相术
+
+fashion photography 时装摄影；样式摄影术
+
+color photography 彩色摄影；彩色相片；彩色照相术
+
+infrared photography 红外摄影；红外照相
+
+  更多词组短语
+
+双语例句 原声例句 权威例句
+
+
+He took to photography.
+
+他开始喜欢上摄影。
+
+The ABC of Photography;
+
+《摄影入门》
+
+Photography is a language, with its own limitations and strengths, but these are my tools, so I have to try and use them well.
+
+摄影是一门语言，它有着自己的限制和力量，但是这些是我的工具，所以我必须试着用好它们。
+
+article.yeeyan.org
+
+**** photograph
+
+英  ['fəʊtəgrɑːf]   美  ['fotəɡræf]
+
+vt. 为…拍照；使深深印入
+
+vi. 拍照；在照片上显得
+
+n. 照片，相片
+
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+
+photograph /ˈfəʊtəˌɡrɑːf/  CET4 TEM4
+
+N-COUNT A photograph is a picture that is made using a camera. 照片
+
+例：
+
+He wants to take some photographs of the house.
+
+他想给这所房子拍一些照片。
+
+V-T When you photograph someone or something, you use a camera to obtain a picture of them. 给…照相
+
+例：
+
+She photographed the children.
+
+她给孩子们照了相。
+
+例：
+
+I hate being photographed.
+
+我讨厌被拍照。
+
+网络释义 专业释义 英英释义
+
+ 照片
+
+ 相片
+
+ 拍照
+
+ 摄影
+
+短语
+
+oscillation photograph 回摆照相
+
+oscillation photograph 振动晶体照相
+
+oscillation photograph 回摆图
+
+stereoscan photograph 扫描电镜照片
+
+stereoscan photograph 体视扫描照片
+
+  更多结果
+
+词组短语 同近义词 同根词
+
+aerial photograph 航空照片；航摄像片
+
+take a photograph v. 拍…的照片
+
+photograph album 相册，影集
+
+双语例句 原声例句 权威例句
+
+I chanced on this old photograph in his drawer.
+
+我在他的抽屉里偶然发现了这张旧照片。
+
+He captured his daughter's smile in this photograph.
+
+在这张照片中他拍摄到女儿的微笑。
+
+We should be glad to photograph the house and its grounds.
+
+我们很乐意为这所房子及其庭院拍照。
+
+
+Is this a modern or an old-fashioned building? This is a modern building.
+
+Are the friends watching a film or leaving the city? The friends are watching a film.
+
+In the city is there a carnival or traffic? In the city there is a carnival.
+
+Is the woman holding a bouquet of flowers or a wig? The woman is holding a
+bouquet of flowers.
+
+Are the musicians playing violins or drums? The musicians are palying violins.
+
+Does the bride catch or throw the bouquet? The bride throws the bouquet.
+
+
+When do men put on wigs? They put on wigs at a carnival.
+
+What do the friends love to do? They love to dance.
+
+What does the man collect? He collects paintings.
+
+Where are the friends going? They're leaving the city.
+
+When are children happy? Children are happy when they're given candy and toys.
+
+When do actors wear masks? They wear masks during a spectacle.
+
+**** spectacle
+
+英  ['spektək(ə)l]  美  ['spɛktəkl]
+
+n. 景象；场面；奇观；壮观；公开展示；表相，假相 n.（复）眼镜
+
+ 柯林斯英汉双解大词典  21世纪大英汉词典
+
+
+spectacle /ˈspɛktəkəl/  CET6 TEM4
+
+N-COUNT A spectacle is a strange or interesting sight. 奇观
+
+例：
+
+It was a spectacle not to be missed.
+
+它是不可错过的奇观。
+
+N-VAR A spectacle is a grand and impressive event or performance. 盛大的活动; 盛大的演出
+
+例：
+
+Ninety-four thousand people turned up for the spectacle.
+
+9.4万人参加了这个盛大的活动。
+
+N-PLURAL Glasses are sometimes referred to as spectacles. 眼镜
+
+例：
+
+He looked at me over the tops of his spectacles.
+
+他从眼镜的上方看了看我。
+
+网络释义 专业释义 英英释义
+
+ 景象
+ 看头
+ 奇观
+ 眼镜
+
+短语
+
+spectacle stone 透石膏
+
+spectacle plate 双孔板
+
+spectacle plate 双孔钣
+
+spectacle plate 吊柱眼板
+
+protecting spectacle 防护眼镜
+
+  更多结果
+词组短语 同近义词 同根词
+
+spectacle frame 眼镜架；双孔构架
+
+双语例句 原声例句 权威例句
+
+A curious spectacle was witnessed.
+
+目击了这一奇异的景象。
+
+Franco: Yeah. For now, though, there are none I want to direct that would be full of spectacle.
+
+弗朗哥：是的。但是现在很难，现在没有一部我想去导演的充满奇观的影片。
+
+www.kle100.cn
+
+In Ramachandran’s account, then, we are treated to the spectacle of different parts of the brain — perhaps even different selves — arguing with one another.
+
+在拉玛钱德朗的描述中，我们会欣赏到，大脑的不同部分——也许甚至是几个不同的“自我”在相互争辩的场面。
+
+article.yeeyan.org
+
+
+
 * DONE Thirty nine 96.9%
   CLOSED: [2016-08-03 Wed 05:52]
   :LOGBOOK:
@@ -12004,6 +12066,12 @@ What is the chef doing ? He's frying a whole chicken.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-14 三 05:13]
    CLOCK: [2016-09-14 三 04:42]--[2016-09-14 三 05:13] =>  0:31
+   :END:
+** DONE Review<2016-10-02 日 10:48>99.2%
+   CLOSED: [2016-10-02 日 11:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-02 日 11:17]
+   CLOCK: [2016-10-02 日 10:48]--[2016-10-02 日 11:17] =>  0:29
    :END:
 ** text
 
