@@ -2517,6 +2517,76 @@ http://mt.sohu.com/20160817/n464605736.shtml
    CLOCK: [2016-10-02 日 14:52]--[2016-10-02 日 15:48] =>  0:56
    :END:
 
+** DONE [#B]relax and listen to music
+   CLOSED: [2016-10-03 一 10:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-03 一 10:36]
+   CLOCK: [2016-10-03 一 09:45]--[2016-10-03 一 10:36] =>  0:51
+   :END:
+
+** DONE [#B]updata spacemacs
+   CLOSED: [2016-10-05 三 05:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-05 三 05:29]
+   :END:
+
+** DONE [#B] reading
+   CLOSED: [2016-10-05 三 11:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-05 三 11:46]
+   CLOCK: [2016-10-05 三 05:31]--[2016-10-05 三 11:46] =>  6:15
+   :END:
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-10-06 四 06:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-06 四 06:59]
+   CLOCK: [2016-10-06 四 05:57]--[2016-10-06 四 06:59] =>  1:02
+   :END:
+
+** DONE [#B] read Ruby
+   CLOSED: [2016-10-08 Sat 08:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-08 Sat 08:43]
+   CLOCK: [2016-10-08 Sat 08:17]--[2016-10-08 Sat 08:43] =>  0:26
+   - State "STARTED"    from "DONE"       [2016-10-08 Sat 08:17]
+   - State "DONE"       from "STARTED"    [2016-10-08 Sat 08:17]
+   :END:
+
+** DONE [#B]browse new and read current nenws
+   CLOSED: [2016-10-08 Sat 09:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-08 Sat 09:10]
+   CLOCK: [2016-10-08 Sat 08:47]--[2016-10-08 Sat 09:10] =>  0:23
+   :END:
+
+** DONE [#B]check teach and study
+   CLOSED: [2016-10-08 Sat 09:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-08 Sat 09:51]
+   CLOCK: [2016-10-08 Sat 09:10]--[2016-10-08 Sat 09:51] =>  0:41
+   :END:
+
+** DONE [#B] free browse and reading
+   CLOSED: [2016-10-08 六 15:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-08 六 15:47]
+   CLOCK: [2016-10-08 六 14:46]--[2016-10-08 六 15:47] =>  1:01
+   :END:
+
+** DONE [#B] read ruby
+   CLOSED: [2016-10-08 六 16:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-08 六 16:14]
+   CLOCK: [2016-10-08 六 15:48]--[2016-10-08 六 16:14] =>  0:26
+   :END:
+page41
+
+** STARTED [#B] browse and read
+   :LOGBOOK:
+   CLOCK: [2016-10-08 六 19:43]
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

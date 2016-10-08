@@ -2252,3 +2252,33 @@ install updata system half an hour
      :LOGBOOK:
      - State "DONE"       from "STARTED"    [2016-10-02 日 05:09]
      :END:
+*** 2016-10-04 星期二
+
+**** DONE yesterday drink beer lot headache.
+     CLOSED: [2016-10-04 二 10:55]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-10-04 二 10:55]
+     :END:
+*** 2016-10-05 星期三
+
+**** DONE arrive office and clean up
+     CLOSED: [2016-10-05 三 04:18]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-10-05 三 04:18]
+     CLOCK: [2016-10-05 三 04:12]--[2016-10-05 三 04:18] =>  0:06
+     :END:
+*** 2016-10-06 星期四
+
+**** DONE updata system
+     CLOSED: [2016-10-06 四 04:39]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-10-06 四 04:39]
+     CLOCK: [2016-10-06 四 04:18]--[2016-10-06 四 04:39] =>  0:01
+     :END:
+*** 2016-10-08 Saturday
+
+**** DONE arrive office and clean up ready
+     CLOSED: [2016-10-08 Sat 08:15]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-10-08 Sat 08:15]
+     :END:
