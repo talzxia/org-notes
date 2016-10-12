@@ -2584,7 +2584,48 @@ page41
 
 ** STARTED [#B] browse and read
    :LOGBOOK:
-   CLOCK: [2016-10-08 六 19:43]
+   CLOCK: [2016-10-08 六 19:43]--[2016-10-08 六 20:27] =>  0:44
+   :END:
+
+** DONE [#B] 与唐特交流工作
+   CLOSED: [2016-10-09 日 11:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-09 日 11:13]
+   CLOCK: [2016-10-09 日 09:05]--[2016-10-09 日 10:30] =>  1:25
+   :END:
+
+** DONE [#B] read ruby
+   CLOSED: [2016-10-09 日 11:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-09 日 11:45]
+   CLOCK: [2016-10-09 日 11:15]--[2016-10-09 日 11:45] =>  0:30
+   :END:
+fished page 42
+
+** DONE [#B]browse and learn
+   CLOSED: [2016-10-10 一 10:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-10 一 10:47]
+   CLOCK: [2016-10-10 一 08:12]--[2016-10-10 一 10:47] =>  2:35
+   :END:
+
+** DONE [#B] words study
+   CLOSED: [2016-10-11 二 14:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-11 二 14:10]
+   CLOCK: [2016-10-11 二 08:19]--[2016-10-11 二 14:10] =>  5:51
+   :END:
+
+** DONE [#B]lecture
+   CLOSED: [2016-10-12 三 21:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-12 三 21:10]
+   CLOCK: [2016-10-12 三 14:37]--[2016-10-12 三 17:10] =>  2:33
+   :END:
+
+** STARTED [#B] browse and listen to music
+   :LOGBOOK:
+   CLOCK: [2016-10-12 三 21:12]
    :END:
 
 * Cocos2D-X
