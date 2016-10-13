@@ -17766,6 +17766,12 @@ The woman has a stomachache.
    - State "DONE"       from "STARTED"    [2016-09-17 六 09:38]
    CLOCK: [2016-09-17 六 09:00]--[2016-09-17 六 09:38] =>  0:38
    :END:
+** DONE Review<2016-10-13 Thu 10:11>93.3%
+   CLOSED: [2016-10-13 Thu 10:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-13 Thu 10:38]
+   CLOCK: [2016-10-13 Thu 10:11]--[2016-10-13 Thu 10:38] =>  0:27
+   :END:
 * DONE Forty five 96.3%
   CLOSED: [2016-08-10 三 03:30]
   :LOGBOOK:
@@ -17819,6 +17825,12 @@ The woman has a stomachache.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-12 三 21:06]
    CLOCK: [2016-10-12 三 20:43]--[2016-10-12 三 21:06] =>  0:23
+   :END:
+** DONE Review <2016-10-13 Thu 08:30>96%
+   CLOSED: [2016-10-13 Thu 09:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-13 Thu 09:47]
+   CLOCK: [2016-10-13 Thu 08:53]--[2016-10-13 Thu 09:47] =>  0:54
    :END:
 ** text
 *** elderly people

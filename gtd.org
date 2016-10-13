@@ -2624,10 +2624,21 @@ fished page 42
    :END:
 
 ** STARTED [#B] browse and listen to music
-   :LOGBOOK:
-   CLOCK: [2016-10-12 三 21:12]
-   :END:
 
+** DONE [#B] today updata spacemacs break
+   CLOSED: [2016-10-13 Thu 08:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-13 Thu 08:11]
+   :END:
+searing for program No such file or directory, fcitx-remote
+
+** DONE [#B] reinstall spacemacs
+   CLOSED: [2016-10-13 Thu 08:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-13 Thu 08:45]
+   CLOCK: [2016-10-13 Thu 08:22]--[2016-10-13 Thu 08:45] =>  0:23
+   :END:
+仍然如故。
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

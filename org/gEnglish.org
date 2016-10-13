@@ -279,6 +279,12 @@ Is the woman with a bag? No, she is under a big umbrella.
    - State "DONE"       from "STARTED"    [2016-07-25 Mon 20:37]
    CLOCK: [2016-07-25 Mon 20:20]--[2016-07-25 Mon 20:37] =>  0:17
    :END:
+** DONE Review 98.7%
+   CLOSED: [2016-08-17 三 06:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-17 三 06:06]
+   CLOCK: [2016-08-17 三 05:49]--[2016-08-17 三 06:06] =>  0:17
+   :END:
 ** text
 I
 you
@@ -359,11 +365,33 @@ Are they speaking with a flower? No, they are speaking on the telephone.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 09:34]
   CLOCK: [2016-07-24 Sun 08:44]--[2016-07-24 Sun 09:34] =>  0:50
   :END:
+** DONE Review 95.8%-->97.6%
+   CLOSED: [2016-08-18 四 20:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-18 四 20:34]
+   CLOCK: [2016-08-18 四 20:15]--[2016-08-18 四 20:34] =>  0:19
+   - State "STARTED"    from "DONE"       [2016-08-18 四 20:14]
+   - State "DONE"       from "WAITING"    [2016-08-18 四 20:14]
+   - State "DONE"       from "STARTED"    [2016-08-18 四 19:07]
+   CLOCK: [2016-08-18 四 18:28]--[2016-08-18 四 19:07] =>  0:39
+   :END:
+** DONE Review 96.7%
+   CLOSED: [2016-08-18 四 20:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-18 四 20:53]
+   CLOCK: [2016-08-18 四 20:34]--[2016-08-18 四 20:53] =>  0:19
+   :END:
 ** DONE learn97.7%
    CLOSED: [2016-07-25 Mon 21:01]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-07-25 Mon 21:01]
    CLOCK: [2016-07-25 Mon 20:41]--[2016-07-25 Mon 21:01] =>  0:20
+   :END:
+** DONE Review 97.8%
+   CLOSED: [2016-08-19 五 05:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 05:41]
+   CLOCK: [2016-08-19 五 05:23]--[2016-08-19 五 05:41] =>  0:18
    :END:
 ** text
 a woman
@@ -519,12 +547,12 @@ Is it autumn? No, it is winter: a monkey is sitting down in the snow.
 Is it summer? No, it is winter: a woman is running in the snow.
 
 
-* DONE learn six 97.4%
-  CLOSED: [2016-07-26 Tue 15:27]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-26 Tue 15:27]
-  CLOCK: [2016-07-26 Tue 15:10]--[2016-07-26 Tue 15:27] =>  0:17
-  :END:
+** DONE learn six 97.4%
+   CLOSED: [2016-07-26 Tue 15:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-26 Tue 15:27]
+   CLOCK: [2016-07-26 Tue 15:10]--[2016-07-26 Tue 15:27] =>  0:17
+   :END:
 
 * DONE Lesson seven 97.7%
   CLOSED: [2016-07-24 Sun 04:36]
@@ -532,6 +560,13 @@ Is it summer? No, it is winter: a woman is running in the snow.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 04:36]
   CLOCK: [2016-07-24 Sun 03:52]--[2016-07-24 Sun 04:36] =>  0:44
   :END:
+** DONE Review 99.1%
+   CLOSED: [2016-08-19 五 20:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 20:56]
+   CLOCK: [2016-08-19 五 20:41]--[2016-08-19 五 20:56] =>  0:15
+   :END:
+
 ** text
 hot
 clean
@@ -609,6 +644,14 @@ Hot green tea? No, cold red juice.
   - State "DONE"       from "STARTED"    [2016-07-23 Sat 16:43]
   CLOCK: [2016-07-23 Sat 16:03]--[2016-07-23 Sat 16:43] =>  0:40
   :END:
+** DONE Review 98.4%
+   CLOSED: [2016-08-19 五 21:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 21:15]
+   CLOCK: [2016-08-19 五 20:58]--[2016-08-19 五 21:15] =>  0:17
+   :END:
+
+
 ** text
 trousers
 a scarf
@@ -1343,7 +1386,7 @@ They like to swim.
 The girl like to sing.
 The man likes the woman.
 
-kdkd
+
 * DONE Lesson fivteen
 :LOGBOOK:
    CLOCK: [2016-07-21 Thu 18:16]--[2016-07-21 Thu 19:23] =>  1:07
@@ -2278,6 +2321,23 @@ Bucky couch 布凯氏滤线器床
 ****
 * DONE lesson twenty two
   CLOSED: [2016-07-08 Fri 17:17]
+
+* DONE Review twenty two 93.6%
+  CLOSED: [2016-08-11 四 04:13]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-11 四 04:13]
+  CLOCK: [2016-08-11 四 04:02]--[2016-08-11 四 04:13] =>  0:11
+  - State "STARTED"    from "DONE"       [2016-08-11 四 04:02]
+  - State "DONE"       from "STARTED"    [2016-08-10 三 21:25]
+  CLOCK: [2016-08-10 三 21:17]--[2016-08-10 三 21:25] =>  0:08
+  :END:
+* DONE Review twenty two 95.2%
+  CLOSED: [2016-07-29 Fri 20:53]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-07-29 Fri 20:53]
+  CLOCK: [2016-07-29 Fri 20:36]--[2016-07-29 Fri 20:53] =>  0:17
+  :END:
+
 ** text
 an artist
 a secretary
@@ -2785,6 +2845,20 @@ Is the child working? No, he can't work. He is still very small.
 
 * DONE twenty six
   DEADLINE: <2016-07-11 Mon 10:43>
+** DONE Review twenty six 95.2%
+  CLOSED: [2016-08-12 五 08:55]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-12 五 08:55]
+  CLOCK: [2016-08-12 五 08:19]--[2016-08-12 五 08:55] =>  0:36
+  :END:
+** DONE Review twenty six 95.7%
+   CLOSED: [2018-04-06 Fri 00:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-30 Sat 21:28]
+   CLOCK: [2016-07-30 Sat 21:11]--[2016-07-30 Sat 21:28] =>  0:17
+   CLOCK: [2016-07-30 Sat 16:03]--[2016-07-30 Sat 16:20] =>  0:17
+   :END:
+
 ** text
 a tour guide
 a group
@@ -3226,6 +3300,14 @@ Eleanor's work among the women will, I trust, bear fruit.
 
 
 * lesson twenty nine
+* DONE Review twenty nine 96.3%
+  CLOSED: [2016-08-13 六 16:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-13 六 16:24]
+   CLOCK: [2016-08-13 六 15:44]--[2016-08-13 六 16:24] =>  0:40
+   :END:
+better
+
 ** text
 Who is drinking from the puddle? The horse.
 Who is singing and playing the guitar? The musicias.
@@ -6146,7 +6228,6 @@ She quartered the pie and gave each one a piece.
 她把饼分成四份，分给每人一块。
 Can you see the little fellow walking into the pie?
 你能看到那个正贪婪吃馅饼的小家伙吗?
-<<<<<<< Updated upstream:org/English.org
 *** pie with mashrooms
 *** pie with potato
 *** pie with meat
@@ -6161,16 +6242,6 @@ n. 开胃菜；头盘餐前小品；头盘（appetizer的复数）
 appetizer /ˈæpɪˌtaɪzə/
 N-COUNT An appetizer is the first course of a meal. It consists of a small amount of food. 开胃菜
 *** a bar
-=======
-**** pie with mashrooms
-**** pie with potato
-**** pie with meat
-**** pie with onion and egg
-**** pie
-**** drinks
-     S
-**** a bar
->>>>>>> Stashed changes:English.org
 英  [bɑː]   美  [bɑr]
 n. 条，棒；酒吧；障碍；法庭
 vt. 禁止；阻拦
@@ -6375,12 +6446,6 @@ how to bake tasty pies.
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-07-29 Fri 20:35]
   CLOCK: [2016-07-29 Fri 20:12]--[2016-07-29 Fri 20:35] =>  0:23
-  :END:
-* DONE Review twenty two 95.2%
-  CLOSED: [2016-07-29 Fri 20:53]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-29 Fri 20:53]
-  CLOCK: [2016-07-29 Fri 20:36]--[2016-07-29 Fri 20:53] =>  0:17
   :END:
 * DONE thirty five 95%
   CLOSED: [2016-07-30 Sat 06:02]
@@ -7079,13 +7144,6 @@ family likes this clothing.
    :END:
 有点累了，精力不继。效果打折。
  :END:
-* DONE Review twenty six 95.7%
-  CLOSED: [2018-04-06 Fri 00:00]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-07-30 Sat 21:28]
-  CLOCK: [2016-07-30 Sat 21:11]--[2016-07-30 Sat 21:28] =>  0:17
-  CLOCK: [2016-07-30 Sat 16:03]--[2016-07-30 Sat 16:20] =>  0:17
-  :END:
 * DONE thirty six 95.7%
   CLOSED: [2016-07-31 Sun 03:49]
   :LOGBOOK:
@@ -16001,15 +16059,6 @@ Children get sick more often than adults.
   - State "DONE"       from "STARTED"    [2016-08-10 Wed 15:56]
   CLOCK: [2016-08-10 Wed 15:31]--[2016-08-10 Wed 15:56] =>  0:25
   :END:
-* DONE Review twenty two 93.6%
-  CLOSED: [2016-08-11 四 04:13]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-11 四 04:13]
-  CLOCK: [2016-08-11 四 04:02]--[2016-08-11 四 04:13] =>  0:11
-  - State "STARTED"    from "DONE"       [2016-08-11 四 04:02]
-  - State "DONE"       from "STARTED"    [2016-08-10 三 21:25]
-  CLOCK: [2016-08-10 三 21:17]--[2016-08-10 三 21:25] =>  0:08
-  :END:
 * DONE Fourty six 95.5%
   CLOSED: [2016-08-11 四 09:58]
   :LOGBOOK:
@@ -16020,6 +16069,14 @@ Children get sick more often than adults.
   CLOCK: [2016-08-11 四 04:15]--[2016-08-11 四 04:57] =>  0:42
   CLOCK: [2016-08-11 四 04:01]--[2016-08-11 四 04:02] =>  0:01
   :END:
+* DONE Review fourty six 96.6%
+  CLOSED: [2016-08-11 四 18:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-11 四 18:46]
+   CLOCK: [2016-08-11 四 18:16]--[2016-08-11 四 18:46] =>  0:30
+   :END:
+不错
+
 ** text
 *** a bracelet
 英  [ˈbreɪslət]  美  [ˈbreslɪt]
@@ -17403,19 +17460,18 @@ People are buying jewelry wtih a discount.
    CLOCK: [2016-08-11 四 17:49]--[2016-08-11 四 18:13] =>  0:24
    :END:
 比较流畅。
-* DONE Review fourty six 96.6%
-  CLOSED: [2016-08-11 四 18:46]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-11 四 18:46]
-   CLOCK: [2016-08-11 四 18:16]--[2016-08-11 四 18:46] =>  0:30
-   :END:
-不错
 * DONE Fourty seven
   CLOSED: [2016-08-11 四 21:41]
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-08-11 四 21:41]
   CLOCK: [2016-08-11 四 21:14]--[2016-08-11 四 21:41] =>  0:27
   :END:
+** DONE Review 92.5%
+   CLOSED: [2016-08-19 五 20:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 20:39]
+   CLOCK: [2016-08-19 五 20:10]--[2016-08-19 五 20:39] =>  0:29
+   :END:
 ** text
 *** legs
 英  [leg]   美  [lɛɡ]
@@ -18648,12 +18704,6 @@ Only the chairman's strong control was able to impart some sense of seriousness 
 
 
 
-* DONE Review twenty six 95.2%
-  CLOSED: [2016-08-12 五 08:55]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-12 五 08:55]
-  CLOCK: [2016-08-12 五 08:19]--[2016-08-12 五 08:55] =>  0:36
-  :END:
 * DONE Review twenty seven 95.7%
   CLOSED: [2016-08-12 五 14:38]
   :LOGBOOK:
@@ -20086,6 +20136,20 @@ amming
   - State "DONE"       from "STARTED"    [2016-08-13 Sat 06:11]
   CLOCK: [2016-08-13 Sat 05:28]--[2016-08-13 Sat 06:11] =>  0:43
   :END:
+** DONE Review 92.6%
+   CLOSED: [2016-08-19 五 09:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 09:36]
+   CLOCK: [2016-08-19 五 08:57]--[2016-08-19 五 09:36] =>  0:39
+   :END:
+** DONE Review 95%
+   CLOSED: [2016-08-19 五 18:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 18:49]
+   CLOCK: [2016-08-19 五 16:21]--[2016-08-19 五 18:49] =>  2:28
+
+   :END:
+
 ** text
 ** a sculptor
 sculptor
@@ -21236,13 +21300,6 @@ If they dance in the theater, it's ballet.
    CLOCK: [2016-08-13 Sat 14:18]--[2016-08-13 Sat 14:39] =>  0:21
    :END:
 good
-* DONE Review twenty nine 96.3%
-  CLOSED: [2016-08-13 六 16:24]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-13 六 16:24]
-   CLOCK: [2016-08-13 六 15:44]--[2016-08-13 六 16:24] =>  0:40
-   :END:
-better
 * DONE Fourty nine 96.3%
   CLOSED: [2016-08-14 日 06:43]
   :PROPERTIES:
@@ -21257,6 +21314,12 @@ GBOOK:
   - State "DONE"       from "STARTED"    [2016-08-14 日 05:29]
   CLOCK: [2016-08-14 日 04:26]--[2016-08-14 日 05:29] =>  1:03
   :END:
+** DONE Review 94.7%
+   CLOSED: [2016-08-19 五 05:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-19 五 05:20]
+   CLOCK: [2016-08-19 五 04:54]--[2016-08-19 五 05:20] =>  0:26
+   :END:
 ** text
 *** a capital
 英  ['kæpɪt(ə)l]   美  ['kæpɪtl]
@@ -22165,6 +22228,12 @@ there.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-16 二 19:08]
    CLOCK: [2016-08-16 二 18:45]--[2016-08-16 二 19:08] =>  0:23
+   :END:
+** DONE Review 96.7%
+   CLOSED: [2016-08-17 三 05:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-17 三 05:43]
+   CLOCK: [2016-08-17 三 05:14]--[2016-08-17 三 05:43] =>  0:29
    :END:
 * DONE Review Thirty one 95.3%->94.9%
   CLOSED: [2016-08-15 Mon 06:18]
