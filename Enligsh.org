@@ -32,7 +32,25 @@ a flower
 
 The monkey is sitting down.
 The woman is  STARTElying down
-The boy is sitting down
+The boy is** DONE Review<2016-10-14 五 19:10>96%
+ ** DONE Review<2016-10-14 五 19:10>96%
+   CLOSED: [2016-10-14 五 19:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-14 五 19:48]
+   CLOCK: [2016-10-14 五 19:10]--[2016-10-14 五 19:48] =>  0:38
+   :END:
+  CLOSED: [2016-10-14 五 19:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-14 五 19:48]
+   CLOCK: [2016-10-14 五** DONE Review<2016-10-14 五 19:10>96%
+   CLOSED: [2016-10-14 五 19:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-14 五 19:48]
+   CLOCK: [2016-10-14 五 19:10]--[2016-10-14 五 19:48] =>  0:38
+   :END:
+ 19:10]--[2016-10-14 五 19:48] =>  0:38
+   :END:
+ sitting down
 The monkey is standing
 
 The girl is standing
@@ -750,6 +768,12 @@ a woman with short white hair.
    - State "DONE"       from "STARTED"    [2016-10-09 日 16:21]
    CLOCK: [2016-10-09 日 16:03]--[2016-10-09 日 16:21] =>  0:18
    :END:
+** DONE Review<2016-10-16 Sun 09:36>99.6%
+   CLOSED: [2016-10-16 Sun 09:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-16 Sun 09:54]
+   CLOCK: [2016-10-16 Sun 09:36]--[2016-10-16 Sun 09:54] =>  0:18
+   :END:
 * DONE Lesson six 99.1% good
   CLOSED: [2016-07-24 Sun 05:37]
   :LOGBOOK:
@@ -896,6 +920,18 @@ Is it summer? No, it is winter: a woman is running in the snow.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-05 三 16:00]
    CLOCK: [2016-10-05 三 15:43]--[2016-10-05 三 16:00] =>  0:17
+   :END:
+** DONE Review<2016-10-16 Sun 16:00>99.4%
+   CLOSED: [2016-10-16 Sun 16:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-16 Sun 16:16]
+   CLOCK: [2016-10-16 Sun 16:00]--[2016-10-16 Sun 16:15] =>  0:15
+   :END:
+** DONE Review<2016-10-19 三 05:50>99.9%
+   CLOSED: [2016-10-19 三 06:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-19 三 06:07]
+   CLOCK: [2016-10-19 三 05:50]--[2016-10-19 三 06:07] =>  0:17
    :END:
 * DONE Lesson seven 97.7%
   CLOSED: [2016-07-24 Sun 04:36]
@@ -1366,6 +1402,12 @@ dancing.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-06 四 07:21]
    CLOCK: [2016-10-06 四 07:01]--[2016-10-06 四 07:21] =>  0:20
+   :END:
+** DONE Review<2016-10-19 三 07:23>99.3%
+   CLOSED: [2016-10-19 三 07:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-19 三 07:42]
+   CLOCK: [2016-10-19 三 07:23]--[2016-10-19 三 07:42] =>  0:19
    :END:
 * DONE Lesson eleven 98.8%
   CLOSED: [2016-07-23 Sat 03:43]
@@ -13767,6 +13809,30 @@ What lays eggs? Chickens lay eggs.
    - State "DONE"       from "STARTED"    [2016-10-03 一 09:43]
    CLOCK: [2016-10-03 一 08:50]--[2016-10-03 一 09:43] =>  0:53
    :END:
+** DONE Review<2016-10-14 五 19:10>96%
+   CLOSED: [2016-10-14 五 19:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-14 五 19:48]
+   CLOCK: [2016-10-14 五 19:10]--[2016-10-14 五 19:48] =>  0:38
+   :END:
+** DONE Review<2016-10-15 六 08:12>97.8%
+   CLOSED: [2016-10-15 六 09:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-15 六 09:07]
+   CLOCK: [2016-10-15 六 08:12]--[2016-10-15 六 09:07] =>  0:55
+   :END:
+** DONE Review <2016-10-15 六 09:10>99.0%
+   CLOSED: [2016-10-15 六 09:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-15 六 09:41]
+   CLOCK: [2016-10-15 六 09:10]--[2016-10-15 六 09:41] =>  0:31
+   :END:
+** DONE Review<2016-10-15 六 11:25>99.7%
+   CLOSED: [2016-10-15 六 11:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-15 六 11:59]
+   CLOCK: [2016-10-15 六 11:25]--[2016-10-15 六 11:59] =>  0:34
+   :END:
 ** text
 
 
@@ -14511,6 +14577,12 @@ The man is cleaning up the table.
    - State "DONE"       from "STARTED"    [2016-09-20 二 06:19]
    CLOCK: [2016-09-20 二 05:49]--[2016-09-20 二 06:19] =>  0:30
    :END:
+** DONE Review<2016-10-15 六 17:22>99.3%
+   CLOSED: [2016-10-15 六 17:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-15 六 17:48]
+   CLOCK: [2016-10-15 六 17:22]--[2016-10-15 六 17:48] =>  0:26
+   :END:
 ** text
 a pen
 a pencil
@@ -15139,6 +15211,18 @@ He has just come off a difficult assignment.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-18 日 21:13]
    CLOCK: [2016-09-18 日 20:43]--[2016-09-18 日 21:13] =>  0:30
+   :END:
+** DONE Review<2016-10-14 五 09:41>97.1%
+   CLOSED: [2016-10-14 五 10:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-14 五 10:08]
+   CLOCK: [2016-10-14 五 09:41]--[2016-10-14 五 10:08] =>  0:27
+   :END:
+** DONE Review<2016-10-15 六 20:56>99.1%
+   CLOSED: [2016-10-15 六 21:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-15 六 21:27]
+   CLOCK: [2016-10-15 六 20:56]--[2016-10-15 六 21:27] =>  0:31
    :END:
 ** text
 a calendar
@@ -16848,6 +16932,30 @@ In order to open an account, you need to go to the bank.
    CLOCK: [2016-09-17 六 05:45]--[2016-09-17 六 06:46] =>  1:01
    :END:
 
+** DONE Review<2016-10-14 五 04:23>97.5
+   CLOSED: [2016-10-14 五 05:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-14 五 05:03]
+   CLOCK: [2016-10-14 五 04:23]--[2016-10-14 五 05:03] =>  0:40
+   :END:
+** DONE Review<2016-10-14 五 06:12>96.2%
+   CLOSED: [2016-10-14 五 06:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-14 五 06:39]
+   CLOCK: [2016-10-14 五 06:12]--[2016-10-14 五 06:39] =>  0:27
+   :END:
+** DONE Review <2016-10-16 Sun 05:21>98.9%
+   CLOSED: [2016-10-16 Sun 05:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-16 Sun 05:59]
+   CLOCK: [2016-10-16 Sun 05:21]--[2016-10-16 Sun 05:59] =>  0:38
+   :END:
+** DONE Review<2016-10-19 三 05:13>98.7%
+   CLOSED: [2016-10-19 三 05:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-19 三 05:49]
+   CLOCK: [2016-10-19 三 05:13]--[2016-10-19 三 05:49] =>  0:36
+   :END:
 * DONE Forty four 96%
   CLOSED: [2016-08-09 Tue 11:33]
   :LOGBOOK:
@@ -17772,6 +17880,18 @@ The woman has a stomachache.
    - State "DONE"       from "STARTED"    [2016-10-13 Thu 10:38]
    CLOCK: [2016-10-13 Thu 10:11]--[2016-10-13 Thu 10:38] =>  0:27
    :END:
+** DONE Review<2016-10-14 五 03:56>97.1%
+   CLOSED: [2016-10-14 五 04:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-14 五 04:21]
+   CLOCK: [2016-10-14 五 03:56]--[2016-10-14 五 04:21] =>  0:25
+   :END:
+** DONE Review<2016-10-18 二 21:06>99%
+   CLOSED: [2016-10-18 二 21:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-18 二 21:32]
+   CLOCK: [2016-10-18 二 21:06]--[2016-10-18 二 21:32] =>  0:26
+   :END:
 * DONE Forty five 96.3%
   CLOSED: [2016-08-10 三 03:30]
   :LOGBOOK:
@@ -17831,6 +17951,12 @@ The woman has a stomachache.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-13 Thu 09:47]
    CLOCK: [2016-10-13 Thu 08:53]--[2016-10-13 Thu 09:47] =>  0:54
+   :END:
+** DONE Review<2016-10-16 Sun 17:31>99.1%
+   CLOSED: [2016-10-16 Sun 17:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-16 Sun 17:52]
+   CLOCK: [2016-10-16 Sun 17:31]--[2016-10-16 Sun 17:52] =>  0:21
    :END:
 ** text
 *** elderly people
@@ -18502,6 +18628,18 @@ Children get sick more often than adults.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-12 三 06:36]
    CLOCK: [2016-10-12 三 06:10]--[2016-10-12 三 06:36] =>  0:26
+   :END:
+** DONE Review<2016-10-18 二 14:07>98.9%
+   CLOSED: [2016-10-18 二 16:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-18 二 16:44]
+   CLOCK: [2016-10-18 二 14:07]--[2016-10-18 二 16:44] =>  2:37
+   :END:
+** DONE Review<2016-10-18 二 19:13>99.2%
+   CLOSED: [2016-10-18 二 19:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-18 二 19:39]
+   CLOCK: [2016-10-18 二 19:13]--[2016-10-18 二 19:39] =>  0:26
    :END:
 ** text
 *** a bracelet
@@ -21171,6 +21309,18 @@ Only the chairman's strong control was able to impart some sense of seriousness 
    - State "DONE"       from "STARTED"    [2016-10-11 二 14:37]
    CLOCK: [2016-10-11 二 14:11]--[2016-10-11 二 14:37] =>  0:26
    :END:
+** DONE Review<2016-10-18 Tue 04:26>99.1%
+   CLOSED: [2016-10-18 Tue 04:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-18 Tue 04:52]
+   CLOCK: [2016-10-18 Tue 04:26]--[2016-10-18 Tue 04:52] =>  0:26
+   :END:
+** DONE Review<2016-10-18 二 05:46>99.6%
+   CLOSED: [2016-10-18 二 06:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-18 二 06:07]
+   CLOCK: [2016-10-18 二 05:45]--[2016-10-18 二 06:07] =>  0:22
+   :END:
 * DONE Lesson Forty eitht 94.8%
   CLOSED: [2016-08-13 Sat 10:42]
   :LOGBOOK:
@@ -22366,6 +22516,18 @@ Only the chairman's strong control was able to impart some sense of seriousness 
    - State "DONE"       from "STARTED"    [2016-10-11 二 06:37]
    CLOCK: [2016-10-11 二 06:15]--[2016-10-11 二 06:37] =>  0:22
    :END:
+** DONE Review<2016-10-17 Mon 20:45>98.9%
+   CLOSED: [2016-10-17 Mon 21:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-17 Mon 21:25]
+   CLOCK: [2016-10-17 Mon 20:45]--[2016-10-17 Mon 21:25] =>  0:40
+   :END:
+** DONE Review<2016-10-18 Tue 03:59>99.5%
+   CLOSED: [2016-10-18 Tue 04:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-18 Tue 04:25]
+   CLOCK: [2016-10-18 Tue 03:59]--[2016-10-18 Tue 04:25] =>  0:26
+   :END:
 * DONE Forty nine 96.3%
   CLOSED: [2016-08-14 日 06:43]
   :PROPERTIES:
@@ -22800,95 +22962,93 @@ Every country has a national emblem.
 
 
 The government issurs laws.
+*** issue
+  英  ['ɪʃuː; 'ɪsjuː]  美  ['ɪʃu]
+ n. 问题；流出；期号；发行物
+ vt. 发行，发布；发给；放出，排出
+ vi. 发行；流出；造成…结果；传下
+  柯林斯英汉双解大词典  21世纪大英汉词典
 
-issue
- 英  ['ɪʃuː; 'ɪsjuː]  美  ['ɪʃu]
-n. 问题；流出；期号；发行物
-vt. 发行，发布；发给；放出，排出
-vi. 发行；流出；造成…结果；传下
- 柯林斯英汉双解大词典  21世纪大英汉词典
+ issue /ˈɪʃjuː/  CET4 TEM4
+ N-COUNT An issue is an important subject that people are arguing about or discussing. 议题
+ 例：
+ Agents will raise the issue of prize-money for next year's world championships.
+ 代理商们会提出明年世界锦标赛的奖金问题。
+ 例：
+ A key issue for higher education in the 1990s is the need for greater diversity of courses.
+ 20世纪90年代高等教育的一个关键问题是需要使课程更加多样化。
+ N-SING If something is the issue, it is the thing you consider to be the most important part of a situation or discussion. 要点
+ 例：
+ I was earning a lot of money, but that was not the issue.
+ 我是挣着很多钱，但那不是问题的关键。
+ 例：
+ Do not draw it on the chart, however, as this will confuse the issue.
+ 但是不要把它画在图表上，因为这将使要点模糊不清。
+ N-COUNT An issue of something such as a magazine or newspaper is the version of it that is published, for example, in a particular month or on a particular day. (杂志或报刊的) 期
+ 例：
+ The growing problem is underlined in the latest issue of the Scientific American.
+ 这一日益严重的问题在最新一期的《科学美国人》上得到强调。
+ V-T If you issue a statement or a warning, you make it known formally or publicly. 发表 (声明); 发出 (警告)
+ 例：
+ Last night he issued a statement denying the allegations.
+ 昨天晚上，他发表了一项声明否认那些说法。
+ 例：
+ The government issued a warning that the strikers should end their action or face dismissal.
+ 该政府发出了警告，罢工者们应停止他们的行动，否则将被免职。
+ V-T If you are issued with something, it is officially given to you. 分发
+ 例：
+ On your appointment you will be issued with a written statement of particulars of employment.
+ 你上任时会收到一份聘用细则的书面材料。
+ N-UNCOUNT Issue is also a noun. 分发
+ 例：
+ ...a standard army issue rifle.
+ …一支标准的军队配发的步枪。
+ PHRASE The question or point at issue is the question or point that is being argued about or discussed. 争论中的
+ 例：
+ The problems of immigration were not the question at issue.
+ 移民问题不在争论之列。
+ PHRASE If you make an issue of something, you try to make other people think about it or discuss it, because you are concerned or annoyed about it. 挑起对…的争论
+ 例：
+ It seemed the Colonel had no desire to make an issue of the affair.
+ 那位上校似乎不愿挑起对此事的争论。
+ PHRASE If you take issue with someone or something they said, you disagree with them, and start arguing about it. 对…持异议
+ 例：
+ I will not take issue with the fact that we have a recession.
+ 我不会对我们经历经济衰退这一事实表示异议。
+ PHRASE If someone has issues with a particular aspect of their life, they have problems connected with it. 有…方面的问题
+ 例：
+ Once you have issues with food, you're going to have them for the rest of your life.
+ 一旦你在食物方面有问题，你以后的生活中就一直会有这样的问题。
+ 网络释义 专业释义 英英释义
 
-issue /ˈɪʃjuː/  CET4 TEM4
-N-COUNT An issue is an important subject that people are arguing about or discussing. 议题
-例：
-Agents will raise the issue of prize-money for next year's world championships.
-代理商们会提出明年世界锦标赛的奖金问题。
-例：
-A key issue for higher education in the 1990s is the need for greater diversity of courses.
-20世纪90年代高等教育的一个关键问题是需要使课程更加多样化。
-N-SING If something is the issue, it is the thing you consider to be the most important part of a situation or discussion. 要点
-例：
-I was earning a lot of money, but that was not the issue.
-我是挣着很多钱，但那不是问题的关键。
-例：
-Do not draw it on the chart, however, as this will confuse the issue.
-但是不要把它画在图表上，因为这将使要点模糊不清。
-N-COUNT An issue of something such as a magazine or newspaper is the version of it that is published, for example, in a particular month or on a particular day. (杂志或报刊的) 期
-例：
-The growing problem is underlined in the latest issue of the Scientific American.
-这一日益严重的问题在最新一期的《科学美国人》上得到强调。
-V-T If you issue a statement or a warning, you make it known formally or publicly. 发表 (声明); 发出 (警告)
-例：
-Last night he issued a statement denying the allegations.
-昨天晚上，他发表了一项声明否认那些说法。
-例：
-The government issued a warning that the strikers should end their action or face dismissal.
-该政府发出了警告，罢工者们应停止他们的行动，否则将被免职。
-V-T If you are issued with something, it is officially given to you. 分发
-例：
-On your appointment you will be issued with a written statement of particulars of employment.
-你上任时会收到一份聘用细则的书面材料。
-N-UNCOUNT Issue is also a noun. 分发
-例：
-...a standard army issue rifle.
-…一支标准的军队配发的步枪。
-PHRASE The question or point at issue is the question or point that is being argued about or discussed. 争论中的
-例：
-The problems of immigration were not the question at issue.
-移民问题不在争论之列。
-PHRASE If you make an issue of something, you try to make other people think about it or discuss it, because you are concerned or annoyed about it. 挑起对…的争论
-例：
-It seemed the Colonel had no desire to make an issue of the affair.
-那位上校似乎不愿挑起对此事的争论。
-PHRASE If you take issue with someone or something they said, you disagree with them, and start arguing about it. 对…持异议
-例：
-I will not take issue with the fact that we have a recession.
-我不会对我们经历经济衰退这一事实表示异议。
-PHRASE If someone has issues with a particular aspect of their life, they have problems connected with it. 有…方面的问题
-例：
-Once you have issues with food, you're going to have them for the rest of your life.
-一旦你在食物方面有问题，你以后的生活中就一直会有这样的问题。
-网络释义 专业释义 英英释义
+  发行
+  问题
+  发出
+  一期
+ 短语
+ Bonus issue 派送红股
+ Bonus issue 红股发行
+ Bonus issue 派送股份
+ Bonus issue 发放红利股
+ rights issue 供股
+   更多结果
+ 词组短语 同近义词 同根词
 
- 发行
- 问题
- 发出
- 一期
-短语
-Bonus issue 派送红股
-Bonus issue 红股发行
-Bonus issue 派送股份
-Bonus issue 发放红利股
-rights issue 供股
-  更多结果
-词组短语 同近义词 同根词
+ issue in v. 导致
+ new issue n. 新发行的证券
+ key issue 关键议题
+ in the issue 结果，终于
+ make an issue 制造争端；引起争论
+   更多词组短语
+ 双语例句 原声例句 权威例句
 
-issue in v. 导致
-new issue n. 新发行的证券
-key issue 关键议题
-in the issue 结果，终于
-make an issue 制造争端；引起争论
-  更多词组短语
-双语例句 原声例句 权威例句
-
-The king adventured his crown upon the issue.
-国王在此问题上拿他的王冠冒险。
-His ideas and mine jump together on this issue.
-在这个问题上，他和我的意见完全一致。
-I suggest that you keep off political issue in negotiations with them.
-我建议你在与他们谈判时避开政治问题。
-
-The government is located in the capital.
+ The king adventured his crown upon the issue.
+ 国王在此问题上拿他的王冠冒险。
+ His ideas and mine jump together on this issue.
+ 在这个问题上，他和我的意见完全一致。
+ I suggest that you keep off political issue in negotiations with them.
+ 我建议你在与他们谈判时避开政治问题。
+** The government is located in the capital.
 
 A president is the main person in the government.
 
@@ -22914,7 +23074,7 @@ Citizens elect the government of their country.
 
 The national emblem is on the passports.
 
-Above the government building there's a flag of the country.
+ Above the government building there's a flag of the country.
 
 This man has his national emblem on his clothes.
 
@@ -22926,175 +23086,171 @@ The police control law enforcement.
 
 
 The police ensure peace on the streets.
+*** ensure
+  英  [ɪn'ʃɔː; -'ʃʊə; en-]   美  [ɪn'ʃʊr]
+ vt. 保证，确保；使安全
+  柯林斯英汉双解大词典  21世纪大英汉词典
 
-ensure
- 英  [ɪn'ʃɔː; -'ʃʊə; en-]   美  [ɪn'ʃʊr]
-vt. 保证，确保；使安全
- 柯林斯英汉双解大词典  21世纪大英汉词典
+ ensure /ɛnˈʃʊə/  CET4 TEM4
+ V-T To ensure something, or to ensure that something happens, means to make certain that it happens. 确保
+ 例：
+ We must ensure that all patients have access to high quality care.
+ 我们必须确保所有的病人都能够得到高质量的护理。
+ 网络释义 专业释义 英英释义
 
-ensure /ɛnˈʃʊə/  CET4 TEM4
-V-T To ensure something, or to ensure that something happens, means to make certain that it happens. 确保
-例：
-We must ensure that all patients have access to high quality care.
-我们必须确保所有的病人都能够得到高质量的护理。
-网络释义 专业释义 英英释义
+  确保
+  保证
+  担保
+  保护
+ 短语
+ to ensure 确保
+ to ensure 保证
+ to ensure 表示目的
+ to ensure 以保证
+ Ensure health 确保健康
+   更多结果
+ 词组短语 同近义词
 
- 确保
- 保证
- 担保
- 保护
-短语
-to ensure 确保
-to ensure 保证
-to ensure 表示目的
-to ensure 以保证
-Ensure health 确保健康
-  更多结果
-词组短语 同近义词
+ ensure public security 保安
+ ensure from v. 保护
+ 双语例句 原声例句 权威例句
 
-ensure public security 保安
-ensure from v. 保护
-双语例句 原声例句 权威例句
+ I cannot ensure his being on time.
+ 我不能保证他会准时。
+ We ensure that the work shall be done in the right way.
+ 我们保证把这项工作做好。
+ www.kfyes.com
+ In order to ensure success we must have a complete and thorough plan.
+ 为了保证成功， 我们必须要有一个周密的计划。
+** A weak government doesn't ensure peace in the country.
+*** weak
+  英  [wiːk]   美  [wik]
+ adj. [经] 疲软的；虚弱的；无力的；不牢固的
+  柯林斯英汉双解大词典  21世纪大英汉词典
 
-I cannot ensure his being on time.
-我不能保证他会准时。
-We ensure that the work shall be done in the right way.
-我们保证把这项工作做好。
-www.kfyes.com
-In order to ensure success we must have a complete and thorough plan.
-为了保证成功， 我们必须要有一个周密的计划。
+ weak /wiːk/  CET4 TEM4
+ ADJ If someone is weak, they are not healthy or do not have good muscles, so that they cannot move quickly or carry heavy things. 虚弱的
+ 例：
+ I was too weak to move or think or speak.
+ 我太虚弱了，不能动、不能思维、不能说话。
+ ADV 虚弱地
+ 例：
+ "I'm all right," Max said weakly, but his breathing came in jagged gasps.
+ “我没事，”马克斯虚弱地说，但是他呼吸艰难，长短不均。
+ ADJ If someone has an organ or sense that is weak, it is not very effective or powerful, or is likely to fail. (人的器官、感官) 衰弱的
+ 例：
+ She tired easily and had a weak heart.
+ 她容易疲劳，心脏也比较弱。
+ ADJ If you describe someone as weak, you mean that they are not very confident or determined, so that they are often frightened or worried, or easily influenced by other people. 懦弱的
+ 例：
+ He was a nice doctor, but a weak man who wasn't going to stick his neck out.
+ 他是个好医生，但为人懦弱，遇事不敢出头。
+ N-UNCOUNT 懦弱
+ 例：
+ Many people felt that admitting to stress was a sign of weakness.
+ 很多人认为，承认压力是懦弱的表现。
+ ADJ If you describe someone's voice or smile as weak, you mean that it not very loud or big, suggesting that the person lacks confidence, enthusiasm, or physical strength. (声音、微笑等) 微弱的
+ 例：
+ His weak voice was almost inaudible.
+ 他声音微弱得几乎听不到。
+ ADV 微弱地
+ 例：
+ He smiled weakly at reporters.
+ 他朝记者们淡淡一笑。
+ ADJ If an object or surface is weak, it breaks easily and cannot support a lot of weight or resist a lot of strain. 易碎的; 薄弱的
+ 例：
+ The owner said the bird may have escaped through a weak spot in the aviary.
+ 主人说那只鸟可能是从鸟舍的一个薄弱处逃出去的。
+ ADV A weak physical force does not have much power or intensity. (力量) 微弱的
+ 例：
+ The molecules in regular liquids are held together by relatively weak bonds.
+ 常规液体中的分子被相对较弱的结合物聚合在一起。
+ 例：
+ Strong winds can turn boats when the tide is weak.
+ 潮汐微弱时，强风可以掀翻船只。
+ ADV 微弱地
+ 例：
+ The mineral is weakly magnetic.
+ 这种矿石有轻微的磁性。
+ ADJ If individuals or groups are weak, they do not have any power or influence. (个人或团体) 弱小的; 缺少力量和影响力的
+ 例：
+ The council was too weak to do anything about it.
+ 理事会软弱无能，对此无能为力。
+ N-PLURAL The weak are people who are weak. 弱势群体
+ 例：
+ He voiced his solidarity with the weak and defenseless.
+ 他表示自己站在弱势无助群体一边。
+ N-UNCOUNT 软弱无能
+ 例：
+ It made me feel patronized, in a position of weakness.
+ 这让我感到受惠于人，处于弱势。
+ ADJ A weak government or leader does not have much control, and is not prepared or able to act firmly or severely. (政府或领导人) 软弱无力的
+ 例：
+ The changes come after mounting criticism that the government is weak and indecisive.
+ 随着对政府软弱无能、优柔寡断的批评不断高涨，情况终于有了变化。
+ ADV 软弱无力地
+ 例：
+ ...the weakly-led movement for reform.
+ …领导乏力的改革运动。
+ ADJ If you describe something such a country's currency, economy, industry, or government as weak, you mean that it is not successful, and may be likely to fail or collapse. (货币、经济、工业、政府等) 疲软的
+ 例：
+ The weak dollar means American goods are relative bargains for foreigners.
+ 美元疲软意味着美国产品对外国顾客来说是相对便宜的。
+ N-UNCOUNT 疲软
+ 例：
+ The weakness of his regime is showing more and more.
+ 他政权的疲弱性日益显露。
+ ADJ If something such as an argument or case is weak, it is not convincing or there is little evidence to support it. (论点) 没有说服力的; (案例) 缺少证据的
+ 例：
+ Do you think the prosecution made any particular errors, or did they just have a weak case?
+ 你认为控方是真的出了纰漏，还是只是证据不足？
+ ADV 没有说服力地
+ 例：
+ Bush listened to that statement and responded rather weakly.
+ 布什听了那个声明，做的回应却相当没有说服力。
+ ADJ A weak drink, chemical, or drug contains very little of a particular substance, for example, because a lot of water has been added to it. 稀薄的
+ 例：
+ Grace poured a cup of weak tea.
+ 格莱斯倒了一杯淡茶。
+ ADJ Your weak points are the qualities or talents you do not possess, or the things you are not very good at. 弱的
+ 例：
+ Geography was my weak subject.
+ 地理课是我的弱项。
+ N-VAR 弱点
+ 例：
+ His only weakness is his temperament.
+ 他惟一的弱点是他的脾气。
+ → see also weakness
+ 网络释义 专业释义 英英释义
 
-A weak government doesn't ensure peace in the country.
+  虚弱的
+  弱的
+  薄弱
+  弱者
+ 短语
+ weak acid 弱酸
+ weak acid 弱酸盐
+ weak acid 弱酸性
+ weak acid 弱酸类
+ Weak isospin 弱同位旋
+   更多结果
+ 词组短语 同近义词 同根词
 
-weak
- 英  [wiːk]   美  [wik]
-adj. [经] 疲软的；虚弱的；无力的；不牢固的
- 柯林斯英汉双解大词典  21世纪大英汉词典
+ weak point 弱点（心理或身体上的残疾）；缺点
+ weak link 薄弱环节；弱键
+ weak force 弱作用力；弱核力；弱相互作用
+ weak acid 弱酸
+ weak rock 软弱岩石
+   更多词组短语
+ 双语例句 原声例句 权威例句
 
-weak /wiːk/  CET4 TEM4
-ADJ If someone is weak, they are not healthy or do not have good muscles, so that they cannot move quickly or carry heavy things. 虚弱的
-例：
-I was too weak to move or think or speak.
-我太虚弱了，不能动、不能思维、不能说话。
-ADV 虚弱地
-例：
-"I'm all right," Max said weakly, but his breathing came in jagged gasps.
-“我没事，”马克斯虚弱地说，但是他呼吸艰难，长短不均。
-ADJ If someone has an organ or sense that is weak, it is not very effective or powerful, or is likely to fail. (人的器官、感官) 衰弱的
-例：
-She tired easily and had a weak heart.
-她容易疲劳，心脏也比较弱。
-ADJ If you describe someone as weak, you mean that they are not very confident or determined, so that they are often frightened or worried, or easily influenced by other people. 懦弱的
-例：
-He was a nice doctor, but a weak man who wasn't going to stick his neck out.
-他是个好医生，但为人懦弱，遇事不敢出头。
-N-UNCOUNT 懦弱
-例：
-Many people felt that admitting to stress was a sign of weakness.
-很多人认为，承认压力是懦弱的表现。
-ADJ If you describe someone's voice or smile as weak, you mean that it not very loud or big, suggesting that the person lacks confidence, enthusiasm, or physical strength. (声音、微笑等) 微弱的
-例：
-His weak voice was almost inaudible.
-他声音微弱得几乎听不到。
-ADV 微弱地
-例：
-He smiled weakly at reporters.
-他朝记者们淡淡一笑。
-ADJ If an object or surface is weak, it breaks easily and cannot support a lot of weight or resist a lot of strain. 易碎的; 薄弱的
-例：
-The owner said the bird may have escaped through a weak spot in the aviary.
-主人说那只鸟可能是从鸟舍的一个薄弱处逃出去的。
-ADV A weak physical force does not have much power or intensity. (力量) 微弱的
-例：
-The molecules in regular liquids are held together by relatively weak bonds.
-常规液体中的分子被相对较弱的结合物聚合在一起。
-例：
-Strong winds can turn boats when the tide is weak.
-潮汐微弱时，强风可以掀翻船只。
-ADV 微弱地
-例：
-The mineral is weakly magnetic.
-这种矿石有轻微的磁性。
-ADJ If individuals or groups are weak, they do not have any power or influence. (个人或团体) 弱小的; 缺少力量和影响力的
-例：
-The council was too weak to do anything about it.
-理事会软弱无能，对此无能为力。
-N-PLURAL The weak are people who are weak. 弱势群体
-例：
-He voiced his solidarity with the weak and defenseless.
-他表示自己站在弱势无助群体一边。
-N-UNCOUNT 软弱无能
-例：
-It made me feel patronized, in a position of weakness.
-这让我感到受惠于人，处于弱势。
-ADJ A weak government or leader does not have much control, and is not prepared or able to act firmly or severely. (政府或领导人) 软弱无力的
-例：
-The changes come after mounting criticism that the government is weak and indecisive.
-随着对政府软弱无能、优柔寡断的批评不断高涨，情况终于有了变化。
-ADV 软弱无力地
-例：
-...the weakly-led movement for reform.
-…领导乏力的改革运动。
-ADJ If you describe something such a country's currency, economy, industry, or government as weak, you mean that it is not successful, and may be likely to fail or collapse. (货币、经济、工业、政府等) 疲软的
-例：
-The weak dollar means American goods are relative bargains for foreigners.
-美元疲软意味着美国产品对外国顾客来说是相对便宜的。
-N-UNCOUNT 疲软
-例：
-The weakness of his regime is showing more and more.
-他政权的疲弱性日益显露。
-ADJ If something such as an argument or case is weak, it is not convincing or there is little evidence to support it. (论点) 没有说服力的; (案例) 缺少证据的
-例：
-Do you think the prosecution made any particular errors, or did they just have a weak case?
-你认为控方是真的出了纰漏，还是只是证据不足？
-ADV 没有说服力地
-例：
-Bush listened to that statement and responded rather weakly.
-布什听了那个声明，做的回应却相当没有说服力。
-ADJ A weak drink, chemical, or drug contains very little of a particular substance, for example, because a lot of water has been added to it. 稀薄的
-例：
-Grace poured a cup of weak tea.
-格莱斯倒了一杯淡茶。
-ADJ Your weak points are the qualities or talents you do not possess, or the things you are not very good at. 弱的
-例：
-Geography was my weak subject.
-地理课是我的弱项。
-N-VAR 弱点
-例：
-His only weakness is his temperament.
-他惟一的弱点是他的脾气。
-→ see also weakness
-网络释义 专业释义 英英释义
-
- 虚弱的
- 弱的
- 薄弱
- 弱者
-短语
-weak acid 弱酸
-weak acid 弱酸盐
-weak acid 弱酸性
-weak acid 弱酸类
-Weak isospin 弱同位旋
-  更多结果
-词组短语 同近义词 同根词
-
-weak point 弱点（心理或身体上的残疾）；缺点
-weak link 薄弱环节；弱键
-weak force 弱作用力；弱核力；弱相互作用
-weak acid 弱酸
-weak rock 软弱岩石
-  更多词组短语
-双语例句 原声例句 权威例句
-
-She is not so weak as she looks.
-她并不像看上去那么虚弱。
-She was very weak after haemorrhaging.
-大出血后她的身体十分虚弱。
-He picked himself up and walked on with weak knees.
-他站了起来，双膝无力地继续向前走。
-
-A weak government doesn't ensure peace in the country.
+ She is not so weak as she looks.
+ 她并不像看上去那么虚弱。
+ She was very weak after haemorrhaging.
+ 大出血后她的身体十分虚弱。
+ He picked himself up and walked on with weak knees.
+ 他站了起来，双膝无力地继续向前走。
+** A weak government doesn't ensure peace in the country.
 
 A strong country controls week countries.
 
@@ -23166,6 +23322,18 @@ A child should help his parents.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-09 日 06:30]
    CLOCK: [2016-10-09 日 06:08]--[2016-10-09 日 06:30] =>  0:22
+   :END:
+** DONE Review<2016-10-17 Mon 07:32>98.5%
+   CLOSED: [2016-10-17 Mon 07:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-17 Mon 07:59]
+   CLOCK: [2016-10-17 Mon 07:32]--[2016-10-17 Mon 07:59] =>  0:27
+   :END:
+** DONE Review<2016-10-17 Mon 19:11>99.3%
+   CLOSED: [2016-10-17 Mon 19:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-17 Mon 19:33]
+   CLOCK: [2016-10-17 Mon 19:11]--[2016-10-17 Mon 19:33] =>  0:22
    :END:
 * DONE Fifty 95.0%
   CLOSED: [2016-08-14 Sun 20:09]
@@ -23373,6 +23541,18 @@ there.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-09 日 07:01]
    CLOCK: [2016-10-09 日 06:33]--[2016-10-09 日 07:01] =>  0:28
+   :END:
+** DONE Review<2016-10-16 Sun 19:49>99.3%
+   CLOSED: [2016-10-16 Sun 20:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-16 Sun 20:17]
+   CLOCK: [2016-10-16 Sun 19:49]--[2016-10-16 Sun 20:17] =>  0:28
+   :END:
+** DONE Review<2016-10-17 Mon 05:31>99.4%
+   CLOSED: [2016-10-17 Mon 05:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-17 Mon 05:58]
+   CLOCK: [2016-10-17 Mon 05:31]--[2016-10-17 Mon 05:58] =>  0:27
    :END:
 * DONE listen
   CLOSED: [2016-07-22 Fri 21:11]
