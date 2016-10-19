@@ -2774,9 +2774,39 @@ finished page 48
    CLOCK: [2016-10-19 三 06:18]--[2016-10-19 三 07:23] =>  1:05
    :END:
 
-** STARTED [#B] read ruby
+** DONE [#B] read ruby
+   CLOSED: [2016-10-19 三 10:21]
    :LOGBOOK:
-   CLOCK: [2016-10-19 三 08:52]
+   - State "DONE"       from "STARTED"    [2016-10-19 三 10:21]
+   CLOCK: [2016-10-19 三 08:52]--[2016-10-19 三 10:21] =>  1:29
+   :END:
+
+** DONE [#B]browse and free study
+   CLOSED: [2016-10-19 三 17:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-19 三 17:44]
+   CLOCK: [2016-10-19 三 14:37]--[2016-10-19 三 17:25] =>  2:48
+   :END:
+
+** DONE [#B]检查晚自习
+   CLOSED: [2016-10-19 三 20:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-19 三 20:30]
+   CLOCK: [2016-10-19 三 20:12]--[2016-10-19 三 20:30] =>  0:18
+   :END:
+
+** DONE [#B]read ruby
+   CLOSED: [2016-10-19 Wed 21:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-19 Wed 21:15]
+   :END:
+finished page 49
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-10-19 Wed 21:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-19 Wed 21:39]
+   CLOCK: [2016-10-19 Wed 21:16]--[2016-10-19 Wed 21:39] =>  0:23
    :END:
 
 * Cocos2D-X

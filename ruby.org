@@ -35,7 +35,21 @@
 
 在流行的编程语言中，Ruby 比较另类，这是因为大多数编程语言的首要着眼点在于为解决
 特定的问题领域而设计语言，而Ruby的首要着眼点在于“人性化”，让程序员充分享受编程
-的乐趣。由于组织国内的Ruby会议，我曾两次邀请松本行弘来中国。他是一位性格平和、对
+的乐趣。由于组织国内  |
+| 列出类/module的常量        | Module#constants              |     |
+| 获取常量值                 | Module#const_get              |     |
+| 设置常量值                 | Module#const_set              |     |
+| 删除常量                   | Module#remove_const           |     |
+| 列出类变量                 | Module#class_variables        |     |
+| 获取类变量值               | Module#class_variable_get     |     |
+| 设置类变量值               | Module#class_variable_get'    |     |
+| 删除类变量                 | Module#remove_class_variables |     |
+| 定义类方法                 | Module#define_method          |     |
+| 删除类方法                 | Module#remove_method          |     |
+| 解除类方法定义             | Module#undef_method           |     |
+| 给类方法赋予别名           | Module#alias_method           |     |
+| 包含模块                   | Module#include                |     |
+| 获取父类                   | class#superclass              |     |的Ruby会议，我曾两次邀请松本行弘来中国。他是一位性格平和、对
 生活充满热爱的人，在演讲吕也一再传递code for fun的宗旨，即编程语言不应该是冷冰冰
 地给机器阅读的执行的指令，而应该昌让程序员编程的工作过程变成一种充满乐趣和享受的
 过程。而且，松本先生发明Ruby语言也是因为他对创造一种人性化的面向对象脚本语言的热
@@ -2367,7 +2381,39 @@ d=SimpleDelegator.nex(a)
 让我们来看看Ruby是怎样用反射功能来实现Delegator这个类的。图2-39是
 Simple-Delegatro类的部分代码。为了容易理解，例子中程序被在幅度简化了。
 
+图2-39的程序分为4个部分。首先说明最重要的。图2-39C是Delegator的核心部分。Ruby在
+调用方法时，如果对象不知道这个方法，就会首先调用method_missing这个方法。
+method_missing的第一个参数是被调用的方法的名字，剩下的是传给方法的参数。
+method_missing的默认实现是进行异常处理的，但通过重载，也可以处理未知的方法。接着
+说明下面的两个处理。
 
+（1）被委派的对象如果不知道这个方法（respond_to?），默认的实现会被调用（super），
+发生错误。
+
+（2）知道的话，用——send_来调用委派对象对方法。
+
+——send_是调用委派对象方法的方法。这个方法的别名是send，由于send容易重名，所以用
+了_send_。
+
+SimpleDelegator剩下的部分比较容易实现。就像刚才说明的，SimpleDelegator是通过
+method_missing来委派方法的。实际上Object类有40多个方法。SimpleDelegator是Object
+的子类，是知道这40多个方法，也就不能委派。为解决这一问题，（a）中用
+instance_mothods获取方法的列表，除了几个必要的方法（——id——、object_id、——send——、
+respond_to？）以外，取消了其他方法的定义。
+
+（b)用于设定SimpleDelegator的委派对象。（d）是为了让respond_to?可以正常执行，首
+先用super检查自己的方法，然后检查委派对象的方法。
+*** 2.6.5 分布式Ruby的实现
+
+Delegator将被调用的方法直接委派到其他对象，这一功能在很多领域都有应用。作为一个
+例子，我们介绍一下dRuby(Distributed Ruby，分布式Ruby）。
+
+dRuby是通过网络来调用方法的库。dRuby可以生成服务器上存在的远程对象（Proxy），
+Proxy的方法调用可以通过网络执行。
+
+调用的方法在服务器上的远程对象中执行，执行结果可以通过网络返回。这和Java的
+RMI(Remote Method Invocation）功能比较相似。但是，利用Ruby的元编程功能，不用明确
+定义接口，也可以通过网络调用任意对象的方法。
 * Footnotes
 
 [fn:page481] 所谓特异方法，是指类中没有定义而只存在于实例（对象）中的方法。Ruby

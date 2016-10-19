@@ -774,6 +774,12 @@ a woman with short white hair.
    - State "DONE"       from "STARTED"    [2016-10-16 Sun 09:54]
    CLOCK: [2016-10-16 Sun 09:36]--[2016-10-16 Sun 09:54] =>  0:18
    :END:
+** DONE Review<2016-10-19 三 19:29>99.8%
+   CLOSED: [2016-10-19 三 19:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-19 三 19:49]
+   CLOCK: [2016-10-19 三 19:29]--[2016-10-19 三 19:49] =>  0:20
+   :END:
 * DONE Lesson six 99.1% good
   CLOSED: [2016-07-24 Sun 05:37]
   :LOGBOOK:
@@ -1409,6 +1415,18 @@ dancing.
    - State "DONE"       from "STARTED"    [2016-10-19 三 07:42]
    CLOCK: [2016-10-19 三 07:23]--[2016-10-19 三 07:42] =>  0:19
    :END:
+** DONE Review<2016-10-19 三 10:23>99.7%
+   CLOSED: [2016-10-19 三 10:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-19 三 10:40]
+   CLOCK: [2016-10-19 三 10:22]--[2016-10-19 三 10:40] =>  0:18
+   :END:
+** DONE Review<2016-10-19 三 17:25>99.6%
+   CLOSED: [2016-10-19 三 17:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-19 三 17:43]
+   CLOCK: [2016-10-19 三 17:25]--[2016-10-19 三 17:43] =>  0:18
+   :END:
 * DONE Lesson eleven 98.8%
   CLOSED: [2016-07-23 Sat 03:43]
    :LOGBOOK:
@@ -1932,6 +1950,12 @@ Who is waiting at the window? The dog is waiting at the window.
    - State "DONE"       from "STARTED"    [2016-09-11 日 15:12]
    CLOCK: [2016-09-11 日 14:52]--[2016-09-11 日 15:12] =>  0:20
    :END:
+** DONE Review <2016-10-19 三 19:51>99.8%
+   CLOSED: [2016-10-19 三 20:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-19 三 20:11]
+   CLOCK: [2016-10-19 三 19:51]--[2016-10-19 三 20:11] =>  0:20
+   :END:
 * DONE lesson fourteen 98.3
   CLOSED: [2016-07-21 Thu 22:01]
   :LOGBOOK:
@@ -1985,6 +2009,12 @@ Who is waiting at the window? The dog is waiting at the window.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-08 六 10:14]
    CLOCK: [2016-10-08 六 09:54]--[2016-10-08 六 10:14] =>  0:20
+   :END:
+** DONE Review<2016-10-19 三 20:31>99.7%
+   CLOSED: [2016-10-19 三 20:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-19 三 20:51]
+   CLOCK: [2016-10-19 三 20:31]--[2016-10-19 三 20:51] =>  0:20
    :END:
 ** text
 a mobile phone
@@ -16955,6 +16985,12 @@ In order to open an account, you need to go to the bank.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-19 三 05:49]
    CLOCK: [2016-10-19 三 05:13]--[2016-10-19 三 05:49] =>  0:36
+   :END:
+** DONE Review<2016-10-19 三 13:57>99.2%
+   CLOSED: [2016-10-19 三 14:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-19 三 14:35]
+   CLOCK: [2016-10-19 三 13:57]--[2016-10-19 三 14:35] =>  0:38
    :END:
 * DONE Forty four 96%
   CLOSED: [2016-08-09 Tue 11:33]
