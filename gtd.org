@@ -2809,6 +2809,36 @@ finished page 49
    CLOCK: [2016-10-19 Wed 21:16]--[2016-10-19 Wed 21:39] =>  0:23
    :END:
 
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-10-20 四 06:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-20 四 06:22]
+   CLOCK: [2016-10-20 四 05:53]--[2016-10-20 四 06:22] =>  0:29
+
+   :END:
+
+** DONE [#B] 体检
+   CLOSED: [2016-10-20 四 09:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-20 四 09:46]
+   CLOCK: [2016-10-20 四 06:40]--[2016-10-20 四 09:46] =>  3:06
+   :END:
+
+** DONE [#B] browse and free learn
+   CLOSED: [2016-10-20 四 15:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-20 四 15:31]
+   CLOCK: [2016-10-20 四 09:48]--[2016-10-20 四 15:31] =>  5:43
+   :END:
+finished page 50
+
+** DONE [#B] arrive office and begin to study
+   CLOSED: [2016-10-20 四 19:44]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-10-20 四 19:44]
+   - State "DONE"       from "STARTED"    [2016-10-20 四 19:44]
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

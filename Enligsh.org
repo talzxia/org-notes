@@ -2704,6 +2704,18 @@ It likes to dance.
    - State "DONE"       from "STARTED"    [2016-10-08 六 21:05]
    CLOCK: [2016-10-08 六 20:50]--[2016-10-08 六 21:05] =>  0:15
    :END:
+** DONE Review<2016-10-20 四 17:23>98.3%
+   CLOSED: [2016-10-20 四 17:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-20 四 17:42]
+   CLOCK: [2016-10-20 四 17:23]--[2016-10-20 四 17:42] =>  0:19
+   :END:
+** DONE Review<2016-10-20 四 19:45>98.9%
+   CLOSED: [2016-10-20 四 20:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-20 四 20:04]
+   CLOCK: [2016-10-20 四 19:45]--[2016-10-20 四 20:04] =>  0:19
+   :END:
 * Lesson seventeen<2016-06-22 Wed 06:19>
 ** DONE Review seventeen 97.6%
    CLOSED: [2016-08-09 Tue 15:15]
@@ -14613,6 +14625,12 @@ The man is cleaning up the table.
    - State "DONE"       from "STARTED"    [2016-10-15 六 17:48]
    CLOCK: [2016-10-15 六 17:22]--[2016-10-15 六 17:48] =>  0:26
    :END:
+** DONE Review<2016-10-20 四 04:53>99.4%
+   CLOSED: [2016-10-20 四 05:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-20 四 05:21]
+   CLOCK: [2016-10-20 四 04:53]--[2016-10-20 四 05:21] =>  0:28
+   :END:
 ** text
 a pen
 a pencil
@@ -15253,6 +15271,12 @@ He has just come off a difficult assignment.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-15 六 21:27]
    CLOCK: [2016-10-15 六 20:56]--[2016-10-15 六 21:27] =>  0:31
+   :END:
+** DONE Review<2016-10-20 四 05:24>99.1%
+   CLOSED: [2016-10-20 四 05:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-20 四 05:53]
+   CLOCK: [2016-10-20 四 05:24]--[2016-10-20 四 05:53] =>  0:29
    :END:
 ** text
 a calendar
@@ -17994,6 +18018,12 @@ The woman has a stomachache.
    - State "DONE"       from "STARTED"    [2016-10-16 Sun 17:52]
    CLOCK: [2016-10-16 Sun 17:31]--[2016-10-16 Sun 17:52] =>  0:21
    :END:
+** DONE Review<2016-10-20 Thu 21:11>97.1%
+   CLOSED: [2016-10-20 Thu 21:11]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-10-20 Thu 21:11]
+   :END:
+   - State "DONE"       from "STARTED"    [2016-10-20 Thu 21:11]
 ** text
 *** elderly people
 *** a child

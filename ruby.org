@@ -2414,7 +2414,80 @@ Proxy的方法调用可以通过网络执行。
 调用的方法在服务器上的远程对象中执行，执行结果可以通过网络返回。这和Java的
 RMI(Remote Method Invocation）功能比较相似。但是，利用Ruby的元编程功能，不用明确
 定义接口，也可以通过网络调用任意对象的方法。
+
+C++和Java的远程调用是用IDL(Interface Definition Language）等语言来定义接口的，自
+动生成的存根（stub）必须编译和连接。和这些相比，Ruby的元编程更简单。
+
+DRuby的最初版本只有200多行程序，这也体现了元编程的力量。但是现在DRuby作为Ruby的
+标准库，已经有2000多行的规模了。
+*** 2.6.6 数据库的应用
+
+在数据库领域，元编程也很有用。
+
+Web应用程序框架Ruby on Rails（也称为Rails或RoR）[fn:page501]中也应用了元编程。具
+体地说，在与数据库关联的类库（ActiveRecord）中，利用元编程简单地把数据记录定义为
+对象。
+
+图2-40是ActiveRecord定义数据库的例子。然后，数据库中定义了表。图2-41中演示了对应
+users表的User类。
+
+class User <ActiveRecord::Base
+
+   has_one :profile
+
+   has_many:item
+
+end
+
+class Profile < ActiveRecord::Base
+   belongs_to :user
+
+end
+
+class Item < ActiveRecord::Base
+
+   belongs_to:user
+
+end
+
+图2-40 用ActiveRecord定义的记录
+
+CREATE TABEL 'users'(
+
+'id' int(11) NOT NULL auto_increment,
+
+'login' varchar(80) default NULL,
+
+'password' varchar(40) default NULL,
+
+PRIMARY KEY('id')
+
+)TYPE=MYISAM;
+
+图2-41 图2-40用到的users表
+
+从图2-40中几行代码可以看出，ActiveRecord进行如下的处理。
+
+（1）类User是和以类名的复数形式为名字的表（users）关联在一起的。
+
+（2）定义了从表的全名空间（schema）访问记录的方法。
+
+（3）用has_one、belongs_to等关联定义，提供了访问关联对象的方法。
+
+之所以能够实现这些处理，都是由于元编程功能让我们可以获取类名，在执行时增加方法。
+元编程的功能使得Rails被称赞为生产效率高的Web应用程序框架。
+
+当然Rails不是万能的，也不能说比别的应用程序框架都好。但是，Rails最大程度地灵活运
+用了Ruby语言的优点，从而确实提高了生产效率。
+
+用Rails，一眨眼的功夫就可以生成一个Web应用程序，给人印象颇深。
+
 * Footnotes
+
+[fn:page501] 在Ruby on Rails中，仅仅从数据库定义就可以自动生成相关的程序和配置文
+件，非常便利。详情请参阅Rubyist
+Magazine(http://jp.rubyist.net/magazine/?0004_RubyOnRails)的介绍资料。
+
 
 [fn:page481] 所谓特异方法，是指类中没有定义而只存在于实例（对象）中的方法。Ruby
 以外的其他语言也会用到。
