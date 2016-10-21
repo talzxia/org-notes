@@ -2839,6 +2839,19 @@ finished page 50
    - State "DONE"       from "STARTED"    [2016-10-20 四 19:44]
    :END:
 
+** DONE [#B] arrive office and begin to learn
+   CLOSED: [2016-10-21 Fri 05:53]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-10-21 Fri 05:53]
+   - State "DONE"       from "STARTED"    [2016-10-21 Fri 05:53]
+   :END:
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-10-21 Fri 06:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-21 Fri 06:52]
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

@@ -1068,6 +1068,25 @@ Hot green tea? No, cold red juice.
    - State "DONE"       from "STARTED"    [2016-10-05 Wed 18:43]
    CLOCK: [2016-10-05 Wed 18:21]--[2016-10-05 Wed 18:43] =>  0:22
    :END:
+** DONE Review<2016-10-21 Fri 06:37>99%
+   CLOSED: [2016-10-21 Fri 06:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-21 Fri 06:52]
+   CLOCK: [2016-10-21 Fri 06:37]--[2016-10-21 Fri 06:52] =>  0:15
+   :END:
+** TODO Review<2016-10-21 Fri 07:53>98.8%
+   :LOGBOOK:
+   - State "STARTED"    from "DONE"       [2016-10-21 Fri 08:12]
+   - State "DONE"       from "WAITING"    [2016-10-21 Fri 08:11]
+   - State "DONE"       from "STARTED"    [2016-10-21 Fri 08:07]
+   CLOCK: [2016-10-21 Fri 07:53]--[2016-10-21 Fri 08:07] =>  0:14
+   :END:
+** DONE Review<2016-10-21 Fri 08:14>99%
+   CLOSED: [2016-10-21 Fri 08:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-21 Fri 08:29]
+   CLOCK: [2016-10-21 Fri 08:14]--[2016-10-21 Fri 08:29] =>  0:15
+   :END:
 * DONE lesson eight 97.9%
   CLOSED: [2016-07-23 Sat 16:43]
   :LOGBOOK:
@@ -18024,6 +18043,12 @@ The woman has a stomachache.
    - State "DONE"       from "WAITING"    [2016-10-20 Thu 21:11]
    :END:
    - State "DONE"       from "STARTED"    [2016-10-20 Thu 21:11]
+** DONE Review<2016-10-21 Fri 05:57>98.6%
+   CLOSED: [2016-10-21 Fri 06:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-21 Fri 06:36]
+   CLOCK: [2016-10-21 Fri 05:57]--[2016-10-21 Fri 06:36] =>  0:39
+   :END:
 ** text
 *** elderly people
 *** a child
