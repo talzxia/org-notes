@@ -2416,7 +2416,17 @@ install updata system half an hour
      - State "DONE"       from "STARTED"    [2016-10-23 日 05:20]
      :END:
 
-**** STARTED yanzhou railway station
+**** DONE yanzhou railway station
+     CLOSED: [2016-10-23 Sun 16:09]
      :LOGBOOK:
-     CLOCK: [2016-10-23 日 12:15]
+     - State "DONE"       from "STARTED"    [2016-10-23 Sun 16:09]
      :END:
+
+**** Done Meeting ends.
+     CLOSED: [2016-10-23 日 21:30]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2016-10-23 日 21:30]
+     :END:
+8:58 by the train to back home.
+lasts four hours arrive taian railway station.
+arrived home at fourteen thirty-five.
