@@ -2557,6 +2557,73 @@ Glenn Vanderburg[fn:page511]把它灵活运用到了DSL（领域特定的语言�
 | 层次数据（Hierarchy)            |   O(与现实相关）           |
 |---------------------------------+------------|
 
+
+Ruby本来就具备从类型到结构这些功能。许多DSL小语言往往缺乏其中一些功能，Ruby反而
+更好使。还有学过的Ruby可以自用块自己定义实现控制结构的方法，这也是它的优点之一。
+
+剩下的从声明到层次数据等其他的功能，Ruby也都可以利用自身的功能来实现。元编程实现
+这些功能起到了很大的作用。
+*** 声明的实现
+
+我们介绍一下表2-4中声明的实现方法。
+
+之前我们介绍了使用attr_accessor进行元编程的例子。在Ruby中attr_accessor只是一个方
+法，但是我们也可以把它看做声明。另外，ActiveRecord中的has_many方法，也可以看做声
+明，这样的傻孩子还有很多。
+
+Ruby的方法可以读取或改变程序自身的状态，利用普通的方法调用，可以实现其他编程语言
+中声明所完成的工作。
+
+从外部来看，Ruby的方法调用可以省略括号，还可以使用foo这样的符号来表示名字，这些
+都使Ruby程序看起来像在使用声明一样。
+*** 2.6.10 上下文相关的实现
+
+下面讲一下上下文相关。上下文相关是指有些定义只是在一定范围内有效。我们看一下图
+2-44的例子。
+
+这个例子中，name、password等方法只是在add_user块中才有效。也就是说，在add_user的
+外部是看不到这些方法的。
+
+在Ruby这一层次上，它把块的范围内的方法调用对象换成了self。具体说来，像图2-45的例
+子，使用了instance_eval方法。
+#+BEGIN_SRC org
+add_user{
+
+  name "Charles"
+  password "hello123"
+  privilege normal
+
+}
+#+END_SRC
+
+图2-44 上下文相关的程序示例
+
+#+BEGIN_SRC org
+def add_user(&block)
+
+  u=User.new
+  # User定义了name、password
+  # privilege方法
+  u.instance_eval(&block) if block
+
+end
+
+#+END_SRC
+
+图2-45 替换图2-44程序上下文的处理
+
+instance_eval 方法接受块作为参数，把调用对象转换成self来执行块。结果，对图2-44中
+块范围内的代码而言，默认的调用对象变成了User类的对象u。所以，在不指定调用对象而
+调用方法（如name等）时，就会调用User类的方法。
+*** 2.6.11 单位的实现
+
+在一般的编程语言中，数值是用标量值来定义的，但这只是数本身。数值的单位需程序员来
+管理。
+
+然而，DSL想要处理的不单是数，大都想要处理量。因此我们扩展了一些面向DSL的库，以便
+能处理单位。
+
+例如在Ruby on Rails中 
 * Footnotes
 
 [fn:page511]请参考Glenn Vanderburg 的  / Metaprogramming Ruby Domain-Specific

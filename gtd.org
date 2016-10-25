@@ -2857,6 +2857,51 @@ finished page 50
    CLOCK: [2016-10-22 六 15:19]--[2016-10-22 日 15:51] =>  0:32
    :END:
 
+** STARTED [#B] relax and listen to music
+   :LOGBOOK:
+   - State "STARTED"    from "DONE"       [2016-10-24 一 06:11]
+   - State "DONE"       from "STARTED"    [2016-10-24 一 06:11]
+   :END:
+
+** DONE [#B] to study computer since
+   CLOSED: [2016-10-24 Mon 08:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-24 Mon 08:54]
+   CLOCK: [2016-10-24 Mon 07:57]--[2016-10-24 Mon 08:54] =>  0:57
+   :END:
+
+** DONE [#B] Read Ruby
+   CLOSED: [2016-10-24 Mon 09:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-24 Mon 09:13]
+   CLOCK: [2016-10-24 Mon 08:55]--[2016-10-24 Mon 09:13] =>  0:18
+   :END:
+finished page 52
+
+** DONE [#B] browse
+   CLOSED: [2016-10-24 Mon 18:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-24 Mon 18:12]
+   CLOCK: [2016-10-24 Mon 16:31]--[2016-10-24 Mon 18:12] =>  1:41
+   :END:
+lesson 43 97.2%
+
+** DONE [#B] 省特色专业团队及技师评价
+   CLOSED: [2016-10-25 二 10:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-25 二 10:26]
+   CLOCK: [2016-10-25 二 08:24]--[2016-10-25 二 10:26] =>  2:02
+   :END:
+会议开始不按时，前三个专业介绍重点不突出，超时。
+后个人介绍简略。
+
+** DONE [#B]browse and free learn
+   CLOSED: [2016-10-25 二 11:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-25 二 11:48]
+   CLOCK: [2016-10-25 二 10:54]--[2016-10-25 二 11:28] =>  0:34
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
