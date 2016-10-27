@@ -142,6 +142,12 @@ Is the bird running? No, the bird is flying.
 
    :END:
 
+** DONE Review<2016-10-26 三 06:30>99.4%
+   CLOSED: [2016-10-26 三 06:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-26 三 06:43]
+   CLOCK: [2016-10-26 三 06:30]--[2016-10-26 三 06:43] =>  0:13
+   :END:
 * DONE Lesson two 97.9%                                                 :two:
   CLOSED: [2016-07-24 Sun 21:04]
   :LOGBOOK:
@@ -252,6 +258,12 @@ Is the tree small? No, it is big.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-01 六 18:54]
    CLOCK: [2016-10-01 六 18:41]--[2016-10-01 六 18:54] =>  0:13
+   :END:
+** DONE Review<2016-10-27 四 06:29>99.8%
+   CLOSED: [2016-10-27 四 06:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-27 四 06:41]
+   CLOCK: [2016-10-27 四 06:29]--[2016-10-27 四 06:41] =>  0:12
    :END:
 * DONE Lesson three 97.4%                                             :three:
   CLOSED: [2016-07-24 Sun 16:07]
@@ -13930,6 +13942,24 @@ What lays eggs? Chickens lay eggs.
    - State "DONE"       from "STARTED"    [2016-10-24 一 05:50]
    CLOCK: [2016-10-24 一 05:20]--[2016-10-24 一 05:50] =>  0:30
    :END:
+** DONE Review<2016-10-26 三 05:58>98.3%
+   CLOSED: [2016-10-26 三 06:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-26 三 06:26]
+   CLOCK: [2016-10-26 三 05:58]--[2016-10-26 三 06:26] =>  0:28
+   :END:
+** DONE Review<2016-10-26 三 19:56>98.8%
+   CLOSED: [2016-10-26 三 20:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-26 三 20:23]
+   CLOCK: [2016-10-26 三 19:56]--[2016-10-26 三 20:23] =>  0:27
+   :END:
+** DONE Review<2016-10-27 四 06:01>98.3%
+   CLOSED: [2016-10-27 四 06:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-27 四 06:28]
+   CLOCK: [2016-10-27 四 06:01]--[2016-10-27 四 06:28] =>  0:27
+   :END:
 ** text
 
 
@@ -14686,6 +14716,12 @@ The man is cleaning up the table.
    - State "DONE"       from "STARTED"    [2016-10-20 四 05:21]
    CLOCK: [2016-10-20 四 04:53]--[2016-10-20 四 05:21] =>  0:28
    :END:
+** DONE Review<2016-10-27 四 13:44>98.6%
+   CLOSED: [2016-10-27 四 14:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-27 四 14:09]
+   CLOCK: [2016-10-27 四 13:43]--[2016-10-27 四 14:09] =>  0:26
+   :END:
 ** text
 a pen
 a pencil
@@ -15338,6 +15374,12 @@ He has just come off a difficult assignment.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-24 Mon 09:44]
    CLOCK: [2016-10-24 Mon 09:19]--[2016-10-24 Mon 09:44] =>  0:25
+   :END:
+** DONE Review<2016-10-27 四 15:55>97.6%
+   CLOSED: [2016-10-27 四 16:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-27 四 16:27]
+   CLOCK: [2016-10-27 四 15:55]--[2016-10-27 四 16:27] =>  0:32
    :END:
 ** text
 a calendar
@@ -17082,6 +17124,12 @@ In order to open an account, you need to go to the bank.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-24 Mon 15:59]
    CLOCK: [2016-10-24 Mon 10:46]--[2016-10-24 Mon 15:59] =>  5:13
+   :END:
+** DONE Review<2016-10-27 四 19:48>97.2%
+   CLOSED: [2016-10-27 四 20:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-27 四 20:20]
+   CLOCK: [2016-10-27 四 19:48]--[2016-10-27 四 20:20] =>  0:32
    :END:
 * DONE Forty four 96%
   CLOSED: [2016-08-09 Tue 11:33]

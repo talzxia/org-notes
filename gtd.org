@@ -2902,6 +2902,70 @@ lesson 43 97.2%
    CLOCK: [2016-10-25 二 10:54]--[2016-10-25 二 11:28] =>  0:34
    :END:
 
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-10-26 三 06:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-26 三 06:54]
+   CLOCK: [2016-10-26 三 06:44]--[2016-10-26 三 06:54] =>  0:10
+   :END:
+
+** DONE [#B] 在信息化办参与评审项目
+   CLOSED: [2016-10-26 三 19:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-26 三 19:52]
+   CLOCK: [2016-10-26 三 13:20]--[2016-10-26 三 19:00] =>  5:40
+   :END:
+
+** DONE [#B]relax and listen to music
+   CLOSED: [2016-10-26 三 21:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-26 三 21:33]
+   CLOCK: [2016-10-26 三 20:23]--[2016-10-26 三 21:33] =>  1:10
+   :END:
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-10-27 四 07:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-27 四 07:04]
+   CLOCK: [2016-10-27 四 06:42]--[2016-10-27 四 07:04] =>  0:22
+   - State "STARTED"    from "DONE"       [2016-10-27 四 06:42]
+   - State "DONE"       from "STARTED"    [2016-10-27 四 06:42]
+   :END:
+
+** DONE [#B] clean up the office
+   CLOSED: [2016-10-27 四 08:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-27 四 08:26]
+   CLOCK: [2016-10-27 四 08:05]--[2016-10-27 四 08:26] =>  0:21
+   :END:
+
+** STARTED [#B] browse and free read
+   :LOGBOOK:
+   CLOCK: [2016-10-27 四 08:42]--[2016-10-27 四 09:55] =>  1:13
+   :END:
+
+** DONE [#B] review words
+   CLOSED: [2016-10-27 四 10:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-27 四 10:34]
+   CLOCK: [2016-10-27 四 08:45]--[2016-10-27 四 10:34] =>  1:49
+   :END:
+校企合作商谈。
+
+** DONE [#B]browse and free learn
+   CLOSED: [2016-10-27 四 11:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-27 四 11:40]
+   CLOCK: [2016-10-27 四 10:39]--[2016-10-27 四 11:40] =>  1:01
+   :END:
+
+** DONE [#B]read Ruby
+   CLOSED: [2016-10-27 四 15:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-27 四 15:21]
+   CLOCK: [2016-10-27 四 14:13]--[2016-10-27 四 15:21] =>  1:08
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
