@@ -32,7 +32,8 @@ a flower
 
 The monkey is sitting down.
 The woman is  STARTElying down
-The boy is** DONE Review<2016-10-14 五 19:10>96%
+The boy [2016-10-28 Fri 08:40]
+is** DONE Review<2016-10-14 五 19:10>96%
  ** DONE Review<2016-10-14 五 19:10>96%
    CLOSED: [2016-10-14 五 19:48]
    :LOGBOOK:
@@ -4183,6 +4184,12 @@ means of transportation 交通设施
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-23 五 05:42]
    CLOCK: [2016-09-23 五 05:16]--[2016-09-23 五 05:42] =>  0:26
+   :END:
+** DONE Review<2016-10-28 Fri 08:59>97.1%
+   CLOSED: [2016-10-28 Fri 09:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-28 Fri 09:17]
+   CLOCK: [2016-10-28 Fri 08:59]--[2016-10-28 Fri 09:17] =>  0:18
    :END:
 ** text
 a sun
@@ -18073,6 +18080,18 @@ The woman has a stomachache.
    - State "DONE"       from "STARTED"    [2016-10-23 日 06:53]
    CLOCK: [2016-10-23 日 06:30]--[2016-10-23 日 06:53] =>  0:23
    :END:
+** DONE Review<2016-10-28 五 06:11>96.7%
+   CLOSED: [2016-10-28 五 06:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-28 五 06:34]
+   CLOCK: [2016-10-28 五 06:11]--[2016-10-28 五 06:34] =>  0:23
+   :END:
+** DONE Review<2016-10-28 五 07:32>97.6%
+   CLOSED: [2016-10-28 五 07:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-28 五 07:54]
+   CLOCK: [2016-10-28 五 07:32]--[2016-10-28 五 07:54] =>  0:22
+   :END:
 * DONE Forty five 96.3%
   CLOSED: [2016-08-10 三 03:30]
   :LOGBOOK:
@@ -18844,6 +18863,12 @@ Children get sick more often than adults.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-22 六 15:10]
    CLOCK: [2016-10-22 六 14:45]--[2016-10-22 六 15:10] =>  0:25
+   :END:
+** DONE Review<2016-10-30 日 05:30>96.5%
+   CLOSED: [2016-10-30 日 05:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-30 日 05:55]
+   CLOCK: [2016-10-30 日 05:30]--[2016-10-30 日 05:55] =>  0:25
    :END:
 ** text
 *** a bracelet
@@ -21530,6 +21555,12 @@ Only the chairman's strong control was able to impart some sense of seriousness 
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-22 六 12:39]
    CLOCK: [2016-10-22 六 11:50]--[2016-10-22 六 12:39] =>  0:49
+   :END:
+** DONE Review<2016-10-30 日 05:57>97.2%
+   CLOSED: [2016-10-30 日 06:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-30 日 06:17]
+   CLOCK: [2016-10-30 日 05:57]--[2016-10-30 日 06:17] =>  0:20
    :END:
 * DONE Lesson Forty eitht 94.8%
   CLOSED: [2016-08-13 Sat 10:42]
