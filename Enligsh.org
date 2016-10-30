@@ -22769,6 +22769,12 @@ Only the chairman's strong control was able to impart some sense of seriousness 
    - State "DONE"       from "STARTED"    [2016-10-18 Tue 04:25]
    CLOCK: [2016-10-18 Tue 03:59]--[2016-10-18 Tue 04:25] =>  0:26
    :END:
+** DONE Revew<2016-10-30 Sun 07:31>96.6%
+   CLOSED: [2016-10-30 Sun 07:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-30 Sun 07:54]
+   CLOCK: [2016-10-30 Sun 07:31]--[2016-10-30 Sun 07:54] =>  0:23
+   :END:
 * DONE Forty nine 96.3%
   CLOSED: [2016-08-14 日 06:43]
   :PROPERTIES:
@@ -23582,6 +23588,18 @@ A child should help his parents.
    - State "DONE"       from "STARTED"    [2016-10-22 六 11:33]
    CLOCK: [2016-10-22 六 11:13]--[2016-10-22 六 11:33] =>  0:20
    :END:
+** DONE Review<2016-10-30 Sun 12:18>97.8%
+   CLOSED: [2016-10-30 Sun 12:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-30 Sun 12:48]
+   CLOCK: [2016-10-30 Sun 12:18]--[2016-10-30 Sun 12:48] =>  0:30
+   :END:
+** DONE Review<2016-10-30 Sun 20:29>98.1%
+   CLOSED: [2016-10-30 Sun 20:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-30 Sun 20:49]
+   CLOCK: [2016-10-30 Sun 20:29]--[2016-10-30 Sun 20:49] =>  0:20
+   :END:
 * DONE Fifty 95.0%
   CLOSED: [2016-08-14 Sun 20:09]
   :LOGBOOK:
@@ -23800,6 +23818,18 @@ there.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-17 Mon 05:58]
    CLOCK: [2016-10-17 Mon 05:31]--[2016-10-17 Mon 05:58] =>  0:27
+   :END:
+** DONE Review<2016-10-30 Sun 16:16>97.1%
+   CLOSED: [2016-10-30 Sun 16:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-30 Sun 16:44]
+   CLOCK: [2016-10-30 Sun 16:16]--[2016-10-30 Sun 16:44] =>  0:28
+   :END:
+** DONE Review<2016-10-30 Sun 17:51>98.8%
+   CLOSED: [2016-10-30 Sun 18:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-30 Sun 18:15]
+   CLOCK: [2016-10-30 Sun 17:50]--[2016-10-30 Sun 18:15] =>  0:25
    :END:
 * DONE listen
   CLOSED: [2016-07-22 Fri 21:11]

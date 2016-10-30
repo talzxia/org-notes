@@ -2975,9 +2975,24 @@ lesson 43 97.2%
    :END:
 sound is so low
 
-** STARTED [#B] relax and listen to music
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-10-30 Sun 07:55]
    :LOGBOOK:
-   CLOCK: [2016-10-30 日 06:17]
+   - State "DONE"       from "STARTED"    [2016-10-30 Sun 07:55]
+   :END:
+
+** DONE [#B]carry daughter and other to railwasy
+   CLOSED: [2016-10-30 Sun 12:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-30 Sun 12:17]
+   CLOCK: [2016-10-30 Sun 08:41]--[2016-10-30 Sun 12:17] =>  3:36
+   :END:
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-10-30 Sun 13:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-30 Sun 13:03]
+   CLOCK: [2016-10-30 Sun 12:49]--[2016-10-30 Sun 13:03] =>  0:14
    :END:
 
 * Cocos2D-X
