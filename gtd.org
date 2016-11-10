@@ -2340,8 +2340,10 @@ http://mt.sohu.com/20160817/n464605736.shtml
    CLOCK: [2016-09-28 三 04:54]--[2016-09-28 三 04:59] =>  0:05
    :END:
 
-** STARTED [#B] relax and listen to music
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-11-05 六 21:24]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-05 六 21:24]
    CLOCK: [2016-09-28 三 06:23]--[2016-09-28 三 07:35] =>  1:12
    :END:
 
@@ -2857,8 +2859,10 @@ finished page 50
    CLOCK: [2016-10-22 六 15:19]--[2016-10-22 日 15:51] =>  0:32
    :END:
 
-** STARTED [#B] relax and listen to music
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-11-05 六 21:25]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-05 六 21:25]
    - State "STARTED"    from "DONE"       [2016-10-24 一 06:11]
    - State "DONE"       from "STARTED"    [2016-10-24 一 06:11]
    :END:
@@ -2993,6 +2997,275 @@ sound is so low
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-30 Sun 13:03]
    CLOCK: [2016-10-30 Sun 12:49]--[2016-10-30 Sun 13:03] =>  0:14
+   :END:
+
+** DONE [#B] go to home and to have breakfast
+   CLOSED: [2016-10-31 一 06:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-31 一 06:57]
+   :END:
+
+** DONE [#B] clean up the office and attend a meeting
+   CLOSED: [2016-10-31 一 10:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-31 一 10:07]
+   CLOCK: [2016-10-31 一 08:32]--[2016-10-31 一 10:07] =>  1:35
+   :END:
+8:30--10:00参加学委扩大会议。
+内容附后：
+10.31号上午八点半会议。
+
+*** 党委扩大会。
+
+两个议程
+
+**** 一.六中全会学习。
+
+**** 二，马院长传达会议精神 。
+
+**** 三，办公室保密要求。
+
+ 张清民传达。
+
+ 全面从严治党。
+
+ 党要管党，从严治党。
+
+ 高级干部带头。
+
+ 坚持党的领导。
+
+ 令行禁止。
+
+ 纪律严明。
+
+ 为人民服务。
+
+ 形式主义。
+
+ 提倡实名举报。
+
+ 从荐入流。
+
+ 法律意识。
+
+ 反腐问题。
+
+ 家庭家教家风。
+
+ 四个全面。
+
+ [v]正在开会。
+
+ [  ]干部标`准。
+
+ [  ]领导干部。
+
+ 民主监督。
+
+ 十九大一七年下半年召开。
+
+ 以习为核心的党中央。
+
+
+**** 马院长:
+
+ 核心，教学诊改。
+
+ 黄金时期。
+
+ 新阶段新起点。
+
+ 五个标志
+
+ 方向及定位
+
+ 两结合两服务，培养目标。
+
+ 高层次，类型。
+
+ 双重任务。
+
+ 升格死路。升级不升格。
+
+ 立德树人
+
+ 管理规范。
+
+ 师资队伍建设双师素质。
+
+ 四个回归。
+
+ 产教融合。
+
+ 学校主导权。
+
+ 扩大开放。
+
+ 落实行动计划。
+
+ 省级统筹，扶优扶强。优质校建设标准。
+
+ 深度合作。
+
+ 现代学徒制试点
+
+ 质量保证体系。
+
+ 质量年度报告
+
+ 传递不进则退。
+
+ 双一流
+
+ 促进产教融合。管理制度。
+
+ 四个坚持。现代学徒制。专业建设为平台。
+
+ 三年建设期满认定。
+
+ 科技研发。
+
+ 国家级三十个以上。
+
+ 试点校。
+
+ 思想。
+
+ 四个转变。
+
+ 现代质量文化。
+
+ 校园形态智能化，组组机构。
+
+ 发力点。
+
+ 五个层面质量保证体系。
+
+ 随时推送信息。
+
+ 信息化水平。
+
+ 出经验，出专家。
+
+**** 毕院长:
+
+ 27所。
+
+ 目标全国优质校。
+
+ 全国200所。
+
+ 五纵五横一平台。诊改主体自身。常州袁守志
+
+ 全方位启动。
+
+ 弯道超车。
+
+ 总结回顾安排。
+
+ 六项纪律
+
+ 政、工作.生活，廉诘.财径，
+
+ 自查，自改。质量生成。
+
+**** 韩伟。
+
+ 安全检查，信息公开。非本单位全清除。
+
+ 自查。
+
+** DONE [#B] 下午开始门禁改造
+   CLOSED: [2016-10-31 Mon 14:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-31 Mon 14:33]
+   :END:
+
+** DONE [#B] browse and free learn
+   CLOSED: [2016-10-31 Mon 19:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-10-31 Mon 19:14]
+   CLOCK: [2016-10-31 Mon 15:09]--[2016-10-31 Mon 19:14] =>  4:05
+   :END:
+
+** DONE [#B] 检查晚自习情况
+   CLOSED: [2016-11-01 Tue 06:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-01 Tue 06:20]
+   CLOCK: [2016-10-31 Mon 19:34]--[2016-10-31 Tue 21:20] =>  1:46
+   :END:
+
+** DONE [#B] relax
+   CLOSED: [2016-11-02 三 08:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-02 三 08:25]
+   CLOCK: [2016-11-02 三 05:46]--[2016-11-02 三 06:28] =>  0:42
+   :END:
+
+** DONE [#B] clean up
+   CLOSED: [2016-11-02 三 08:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-02 三 08:23]
+   CLOCK: [2016-11-02 三 08:00]--[2016-11-02 三 08:23] =>  0:23
+   :END:
+
+** STARTED [#B] read Ruby
+   :LOGBOOK:
+   CLOCK: [2016-11-02 三 09:04]--[2016-11-02 三 20:29] => 11:25
+   :END:
+
+** STARTED [#B] transport data
+
+** DONE [#B] browse and free learn
+   CLOSED: [2016-11-04 五 21:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-04 五 21:54]
+   CLOCK: [2016-11-04 五 21:23]--[2016-11-04 五 21:54] =>  0:31
+   :END:
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-11-05 六 21:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-05 六 21:25]
+   CLOCK: [2016-11-05 Sat 10:07]--[2016-11-05 Sat 18:22] =>  8:15
+   :END:
+
+** DONE [#B] browse and free learn
+   CLOSED: [2016-11-05 六 21:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-05 六 21:25]
+   CLOCK: [2016-11-05 Sat 18:22]--[2016-11-05 Sat 19:57] =>  1:35
+   :END:
+
+** STARTED [#B] relax and listen to music
+   :LOGBOOK:
+   CLOCK: [2016-11-06 日 06:13]--[2016-11-06 日 10:42] =>  4:29
+   :END:
+
+** STARTED [#B] relax and free learn
+   :LOGBOOK:
+   CLOCK: [2016-11-06 日 11:03]--[2016-11-06 日 17:56] =>  6:53
+   :END:
+
+** DONE [#B] meeting
+   CLOSED: [2016-11-07 一 10:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-07 一 10:29]
+   CLOCK: [2016-11-07 一 08:21]--[2016-11-07 一 10:29] =>  2:08
+   :END:
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2016-11-08 Tue 09:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-08 Tue 09:02]
+   :END:
+
+** DONE [#B] browse crrent news
+   CLOSED: [2016-11-09 三 08:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-09 三 08:29]
+   CLOCK: [2016-11-09 三 07:56]--[2016-11-09 三 08:29] =>  0:33
    :END:
 
 * Cocos2D-X
