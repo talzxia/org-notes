@@ -858,7 +858,6 @@ a woman with short white hair.
 ** STARTED Review<2016-11-10 四 11:32>
    :LOGBOOK:
    - State "STARTED"    from "DONE"       [2016-11-10 四 15:14]
-   CLOCK: [2016-11-10 四 15:14]
    - State "DONE"       from "STARTED"    [2016-11-10 四 11:40]
    CLOCK: [2016-11-10 四 11:32]--[2016-11-10 四 11:40] =>  0:08
    :END:
