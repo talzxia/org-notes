@@ -841,11 +841,19 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]早锻炼
-   DEADLINE: <2016-09-23 五 06:20 +1d>
+   DEADLINE: <2016-10-01 Sat 06:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-09-23 五 06:53]
+   :LAST_REPEAT: [2016-12-06 Tue 07:48]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-06 Tue 07:48]
+   - State "DONE"       from "STARTED"    [2016-12-06 Tue 07:48]
+   - State "DONE"       from "STARTED"    [2016-12-06 Tue 07:48]
+   - State "DONE"       from "STARTED"    [2016-12-06 Tue 07:48]
+   - State "DONE"       from "STARTED"    [2016-12-06 Tue 07:48]
+   - State "DONE"       from "STARTED"    [2016-12-06 Tue 07:48]
+   - State "DONE"       from "STARTED"    [2016-12-06 Tue 07:48]
+   - State "DONE"       from "STARTED"    [2016-12-06 Tue 07:48]
    - State "DONE"       from "TODO"       [2016-09-23 五 06:53]
    - State "DONE"       from "TODO"       [2016-09-23 五 06:53]
    - State "DONE"       from "TODO"       [2016-09-23 五 06:53]
@@ -3275,6 +3283,7 @@ sound is so low
    CLOCK: [2016-11-11 五 08:53]--[2016-11-11 五 11:22] =>  2:29
    :END:
 
+<<<<<<< Updated upstream
 ** DONE [#B] update system
    CLOSED: [2016-11-15 二 06:46]
    :LOGBOOK:
@@ -3301,6 +3310,82 @@ sound is so low
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-11-19 六 09:53]
    CLOCK: [2016-11-19 六 08:28]--[2016-11-19 六 09:53] =>  1:25
+=======
+** TODO [#B]
+
+** DONE [#B] from taian to jiniao
+   CLOSED: [2016-11-11 Fri 20:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-11 Fri 20:03]
+   CLOCK: [2016-11-11 Fri 13:01]--[2016-11-11 Fri 20:03] =>  7:02
+   :END:
+
+** DONE [#B]morning get up at 5:30
+   CLOSED: [2016-11-12 Sat 06:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-12 Sat 06:38]
+>>>>>>> Stashed changes
+   :END:
+
+** DONE [#B] 工业4.0学习
+   CLOSED: [2016-12-05 Mon 18:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-05 Mon 18:28]
+   CLOCK: [2016-12-05 Mon 18:21]--[2016-12-05 Mon 18:28] =>  0:07
+   :END:
+crm cra
+自动化停车系统
+奔驰及bush共同研究利用云技术
+
+** DONE [#B] afternoon lecture
+   CLOSED: [2016-12-05 Mon 21:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-05 Mon 21:49]
+   CLOCK: [2016-12-05 Mon 20:49]--[2016-12-05 Mon 21:49] =>  1:00
+   :END:
+
+** DONE [#B] learn English94.7%
+   CLOSED: [2016-12-06 Tue 11:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-06 Tue 11:39]
+   CLOCK: [2016-12-06 Tue 11:12]--[2016-12-06 Tue 11:39] =>  0:27
+   :END:
+
+** DONE [#B]learn English
+   CLOSED: [2016-12-07 Wed 08:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-07 Wed 08:31]
+   CLOCK: [2016-12-07 Wed 04:41]--[2016-12-07 Wed 04:46] =>  0:05
+   :END:
+
+** DONE [#B]browse
+   CLOSED: [2016-12-07 Wed 07:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-07 Wed 07:57]
+   CLOCK: [2016-12-07 Wed 05:18]--[2016-12-07 Wed 07:57] =>  2:39
+   :END:
+
+** DONE [#B]learn English
+   CLOSED: [2016-12-08 Thu 06:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-08 Thu 06:15]
+   CLOCK: [2016-12-08 Thu 05:42]--[2016-12-08 Thu 05:43] =>  0:01
+   :END:
+
+** DONE [#B] browse and learn
+   CLOSED: [2016-12-11 Sun 20:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-11 Sun 20:40]
+   CLOCK: [2016-12-11 Sun 09:03]--[2016-12-11 Sun 17:40] =>  8:37
+   :END:
+
+** STARTED [#B] charge
+
+** DONE [#B] use time
+   CLOSED: [2016-12-14 Wed 09:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-14 Wed 09:00]
+   CLOCK: [2016-12-14 Wed 04:31]--[2016-12-14 Wed 09:00] =>  4:29
    :END:
 
 * Cocos2D-X

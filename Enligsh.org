@@ -1168,6 +1168,12 @@ Hot green tea? No, cold red juice.
    - State "DONE"       from "STARTED"    [2016-10-21 Fri 08:29]
    CLOCK: [2016-10-21 Fri 08:14]--[2016-10-21 Fri 08:29] =>  0:15
    :END:
+** DONE Review<2016-12-10 Sat 07:16>99.1%
+   CLOSED: [2016-12-10 Sat 07:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-10 Sat 07:29]
+   CLOCK: [2016-12-10 Sat 07:16]--[2016-12-10 Sat 07:29] =>  0:13
+   :END:
 * DONE lesson eight 97.9%
   CLOSED: [2016-07-23 Sat 16:43]
   :LOGBOOK:
@@ -1234,6 +1240,12 @@ Hot green tea? No, cold red juice.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-06 Thu 09:16]
    CLOCK: [2016-10-06 Thu 08:56]--[2016-10-06 Thu 09:16] =>  0:20
+   :END:
+** DONE Review<2016-12-10 Sat 07:30>99.1%
+   CLOSED: [2016-12-10 Sat 07:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-10 Sat 07:44]
+   CLOCK: [2016-12-10 Sat 07:30]--[2016-12-10 Sat 07:44] =>  0:14
    :END:
 * DONE Lesson nine 97.6%
   CLOSED: [2016-07-23 Sat 16:01]
@@ -1382,6 +1394,12 @@ Are the men standing around  a table? No, they are sitting around the a table.
    CLOCK: [2016-10-06 四 04:41]--[2016-10-06 四 05:00] =>  0:19
    :END:
 
+** DONE Review<2016-12-10 Sat 07:51>98.8%
+   CLOSED: [2016-12-10 Sat 08:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-10 Sat 08:06]
+   CLOCK: [2016-12-10 Sat 07:51]--[2016-12-10 Sat 08:06] =>  0:15
+   :END:
 * DONE Lesson ten 97.9%
   CLOSED: [2016-07-23 Sat 05:54]
   :LOGBOOK:
@@ -1527,6 +1545,12 @@ dancing.
    - State "DONE"       from "STARTED"    [2016-10-19 三 17:43]
    CLOCK: [2016-10-19 三 17:25]--[2016-10-19 三 17:43] =>  0:18
    :END:
+** DONE Review<2016-12-10 Sat 08:07>98.7%
+   CLOSED: [2016-12-10 Sat 08:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-10 Sat 08:22]
+   CLOCK: [2016-12-10 Sat 08:06]--[2016-12-10 Sat 08:22] =>  0:16
+   :END:
 * DONE Lesson eleven 98.8%
   CLOSED: [2016-07-23 Sat 03:43]
    :LOGBOOK:
@@ -1564,6 +1588,12 @@ dancing.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 09:46]
    CLOCK: [2016-09-11 日 09:24]--[2016-09-11 日 09:36] =>  0:12
+   :END:
+** DONE Review<2016-12-10 Sat 20:35>98.5%
+   CLOSED: [2016-12-10 Sat 20:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-10 Sat 20:54]
+   CLOCK: [2016-12-10 Sat 20:34]--[2016-12-10 Sat 20:54] =>  0:20
    :END:
 * DONE Lesson twelve 98.4%
   CLOSED: [2016-07-22 Fri 20:25]
@@ -1618,6 +1648,12 @@ dancing.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 12:08]
    CLOCK: [2016-09-11 日 11:46]--[2016-09-11 日 12:08] =>  0:22
+   :END:
+** DONE Review<2016-12-10 Sat 21:04>98.5%
+   CLOSED: [2016-12-10 Sat 21:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-10 Sat 21:23]
+   CLOCK: [2016-12-10 Sat 21:04]--[2016-12-10 Sat 21:23] =>  0:19
    :END:
 ** text
 son
@@ -2062,6 +2098,12 @@ Who is waiting at the window? The dog is waiting at the window.
    - State "DONE"       from "STARTED"    [2016-10-24 一 06:11]
    CLOCK: [2016-10-24 一 05:53]--[2016-10-24 一 06:11] =>  0:18
    :END:
+** DONE Review<2016-12-11 Sun 05:25>98.7%
+   CLOSED: [2016-12-11 Sun 05:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-11 Sun 05:41]
+   CLOCK: [2016-12-11 Sun 05:25]--[2016-12-11 Sun 05:41] =>  0:16
+   :END:
 * DONE lesson fourteen 98.3
   CLOSED: [2016-07-21 Thu 22:01]
   :LOGBOOK:
@@ -2121,6 +2163,14 @@ Who is waiting at the window? The dog is waiting at the window.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-19 三 20:51]
    CLOCK: [2016-10-19 三 20:31]--[2016-10-19 三 20:51] =>  0:20
+   :END:
+** STARTED Review<2016-12-11 Sun 06:02>98.1%
+   :LOGBOOK:
+   - State "STARTED"    from "DONE"       [2016-12-11 Sun 08:00]
+   - State "DONE"       from "WAITING"    [2016-12-11 Sun 08:00]
+   - State "WAITING"    from "DONE"       [2016-12-11 Sun 08:00]
+   - State "DONE"       from "STARTED"    [2016-12-11 Sun 06:20]
+   CLOCK: [2016-12-11 Sun 06:02]--[2016-12-11 Sun 06:20] =>  0:18
    :END:
 ** text
 a mobile phone
@@ -2291,6 +2341,12 @@ She twisted a wet towel a
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-12 一 03:16]
    CLOCK: [2016-09-12 一 02:55]--[2016-09-12 一 03:16] =>  0:21
+   :END:
+** DONE Review<2016-12-11 Sun 08:01>98.1%
+   CLOSED: [2016-12-11 Sun 08:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-11 Sun 08:18]
+   CLOCK: [2016-12-11 Sun 08:01]--[2016-12-11 Sun 08:18] =>  0:17
    :END:
 ** text
 *** salt
@@ -2521,6 +2577,7 @@ Does the boy want a pear? No, the boy wants meat.
    CLOCK: [2016-09-07 三 10:10]--[2016-09-07 三 11:36] =>  1:26
    :END:
 中间友道科技董波来访
+** Review98.1%
 * Lesson Sixteen
 ** DONE Review 97.2%
    CLOSED: [2016-08-24 三 05:43]
@@ -2822,6 +2879,12 @@ It likes to dance.
    - State "DONE"       from "STARTED"    [2016-10-20 四 20:04]
    CLOCK: [2016-10-20 四 19:45]--[2016-10-20 四 20:04] =>  0:19
    :END:
+** DONE Review<2016-12-11 Sun 08:19>97.6%
+   CLOSED: [2016-12-11 Sun 08:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-11 Sun 08:34]
+   CLOCK: [2016-12-11 Sun 08:18]--[2016-12-11 Sun 08:34] =>  0:16
+   :END:
 * Lesson seventeen<2016-06-22 Wed 06:19>
 ** DONE Review seventeen 97.6%
    CLOSED: [2016-08-09 Tue 15:15]
@@ -2871,6 +2934,14 @@ It likes to dance.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-15 四 18:07]
    CLOCK: [2016-09-15 四 17:48]--[2016-09-15 四 18:07] =>  0:19
+   :END:
+** DONE Review<2016-12-11 Sun 18:49>97.6%
+   CLOSED: [2016-12-11 Sun 19:43]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2016-12-11 Sun 19:43]
+   - State "WAITING"    from "DONE"       [2016-12-11 Sun 19:42]
+   - State "DONE"       from "STARTED"    [2016-12-11 Sun 19:06]
+   CLOCK: [2016-12-11 Sun 18:49]--[2016-12-11 Sun 19:06] =>  0:17
    :END:
 ** text
 a customer
@@ -3248,7 +3319,12 @@ A red flower? No, a grey bird.
    CLOSED: [2016-10-25 二 11:48]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-25 二 11:48]
-   CLOCK: [2016-10-25 二 11:28]--[2016-10-25 二 11:48] =>  0:20
+   CLOCK: [2016-10-25 二 11:28]--[2016-10-2
+** DONE Review<2016-12-11 Sun>98.2%
+   CLOSED: [2016-12-11 Sun 20:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-11 Sun 20:02]
+   CLOCK: [2016-12-11 Sun 19:44]--[2016-12-11 Sun 20:02] =>  0:18
    :END:
 * lesson ninteen<2016-07-07 Thu>
 ** DONE Review 96.7%
@@ -3288,6 +3364,13 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2016-09-15 四 21:09]
    CLOCK: [2016-09-15 四 20:48]--[2016-09-15 四 21:09] =>  0:21
    :END:
+** DONE Review<2016-12-11 Sun 20:43>97.7%
+   CLOSED: [2016-12-11 Sun 21:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-11 Sun 21:01]
+   CLOCK: [2016-12-11 Sun 20:43]--[2016-12-11 Sun 21:01] =>  0:18
+   :END:
+
 ** text
 a cheek
 an ear
@@ -3423,6 +3506,12 @@ Are the child's feet big or small? His feet are small.
    - State "DONE"       from "STARTED"    [2016-09-16 五 12:04]
    CLOCK: [2016-09-16 五 11:44]--[2016-09-16 五 12:04] =>  0:20
    :END:
+** DONE Review<2016-12-12 Mon 07:21>98.6%
+   CLOSED: [2016-12-12 Mon 07:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-12 Mon 07:39]
+   CLOCK: [2016-12-12 Mon 07:21]--[2016-12-12 Mon 07:39] =>  0:18
+   :END:
 ** text
  a policeman
  a teacher
@@ -3532,6 +3621,12 @@ Are the child's feet big or small? His feet are small.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-16 五 15:44]
    CLOCK: [2016-09-16 五 15:19]--[2016-09-16 五 15:44] =>  0:25
+   :END:
+** DONE Review<2016-12-12 Mon 20:31>98.0%
+   CLOSED: [2016-12-12 Mon 20:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-12 Mon 20:54]
+   CLOCK: [2016-12-12 Mon 20:31]--[2016-12-12 Mon 20:54] =>  0:23
    :END:
 ** text
 
@@ -3730,6 +3825,12 @@ Bucky couch 布凯氏滤线器床
    - State "DONE"       from "STARTED"    [2016-09-17 六 04:36]
    CLOCK: [2016-09-17 六 04:14]--[2016-09-17 六 04:36] =>  0:22
    :END:
+** DONE Review<2016-12-13 Tue 05:34>95.9%
+   CLOSED: [2016-12-13 Tue 05:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-13 Tue 05:52]
+   CLOCK: [2016-12-13 Tue 05:34]--[2016-12-13 Tue 05:52] =>  0:18
+   :END:
 ** text
 an artist
 a secretary
@@ -3832,6 +3933,12 @@ The photographer has interesting work.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-18 日 19:52]
    CLOCK: [2016-09-18 日 19:33]--[2016-09-18 日 19:52] =>  0:19
+   :END:
+** DONE Review<2016-12-13 Tue 07:20>97.1%
+   CLOSED: [2016-12-13 Tue 07:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-13 Tue 07:38]
+   CLOCK: [2016-12-13 Tue 07:20]--[2016-12-13 Tue 07:38] =>  0:18
    :END:
 ** text
 countryside
@@ -4052,6 +4159,12 @@ They detoured around the traffic jam by heading south.
    CLOCK: [2016-09-20 二 15:00]--[2016-09-20 二 15:41] =>  0:41
    :END:
 千锋科技来访，打断了。时间较长。
+** DONE Review<2016-12-13 Tue 07:44>97.2%
+   CLOSED: [2016-12-13 Tue 08:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-13 Tue 08:04]
+   CLOCK: [2016-12-13 Tue 07:44]--[2016-12-13 Tue 08:04] =>  0:20
+   :END:
 ** text
 underground
 a plane b
@@ -4258,6 +4371,12 @@ means of transportation 交通设施
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-28 Fri 09:17]
    CLOCK: [2016-10-28 Fri 08:59]--[2016-10-28 Fri 09:17] =>  0:18
+   :END:
+** DONE Review<2016-12-14 Wed 04:43>96.9%
+   CLOSED: [2016-12-14 Wed 05:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-14 Wed 05:08]
+   CLOCK: [2016-12-14 Wed 04:43]--[2016-12-14 Wed 05:08] =>  0:25
    :END:
 ** text
 a sun
@@ -4578,66 +4697,12 @@ The boat beached on a mud flat.
    - State "DONE"       from "STARTED"    [2016-11-08 Tue 19:49]
    CLOCK: [2016-11-08 Tue 18:46]--[2016-11-08 Tue 19:49] =>  1:03
    :END:
-** Lesson forty six
-a necklace a pendant a chain a ring a bracelet earrings
-
-a jeweler silver jewels gold a jewelry store a diamond
-
-to give to be happy to marry to court to love to propose
-
-a golden ring
-silver earrings with small diamonds.
-a pendant with a diamond on a golden chair.
-a necklace with jewels.
-a golden necklace with large jewels.
-a silver bracelet
-
-expensive
-more expensive
-cheap
-cheaper
-bigger
-smaller
-
-Jewelry with diamonds is expensive even with a discount.
-Golden and silver jewelry is very expensive.
-A jeweler makes jewelry with jewels.
-People love to buy golden jewelrty with a discount.
-In the jewelry store there's a sale - there are many shoppers.
-A woman is looking at the jewelry in the jewelry store.
-
-The man is telling the woman that he loves her. He is proposing to her.
-The man is giving the woman a golden ring because he wants to marry her.
-A woman likes it when she is courted - she loves flowers and jewelry.
-The man is courting the woman - he's giving her flowers and jewelry.
-The man is giving the woman expensive jewelry because he loves her.
-The woman takes the golden ring because she also loves the man.
-
-Women are always happy if they're given flowers and jewels.
-A man is sad if he can't give his wife a golden pendant.
-When a rich man courts a woman, he gives her diamonds.
-When a poor man courts a woman, he gives her flowers.
-The man is giving his wife a golden neaclace with diamonds, so she is happy.
-The woman can't buy a golden bracelet with jewels, so she is sad.
-
-Women love jewels more than flowers.
-There are fewer jewels on the bracelet than on the necklace.
-A woman wears more jewelry in a nightclub than at work.
-Golden jewelrty is more expensive than silver jewelry.
-A woman loves to go to a jewelry store more than a market.
-Silver jewelry is less expensive than golden jewelry.
-
-Why is the boyfriend giving his girlfriend a pendant? He's courting her. He
-loves her.
-Why are there so may people in the jewelry store? In the store there's a sale.
-People are buying jewelry with a discount.
-Why is the girl happy? Her dad gives her golden earring. She loves jewelry.
-Why are the boyfriend and girlfriend picking out a ring? They want to marry.
-They love to each other.
-Why are these earrings so expensive? There are very expensive diamonds in them.
-Diamonds is very expensive jewels.
-Why is the woman sad? She can't buy a golden pendant. She has little money.
-
+** DONE Review<2016-12-14 Wed 07:56>97.1%
+   CLOSED: [2016-12-14 Wed 08:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-14 Wed 08:24]
+   CLOCK: [2016-12-14 Wed 07:56]--[2016-12-14 Wed 08:24] =>  0:28
+   :END:
 * DONE lesson twenty seven
   CLOSED: [2016-07-12 Tue 04:48]
 :LOGBOOK:
@@ -4738,6 +4803,12 @@ Do they eat cheese for breakfast? Yes, they do.
    CLOCK: [2016-08-01 Mon 06:14]--[2016-08-01 Mon 06:41] =>  0:27
    :END:
 
+** DONE Review<2016-12-14 Wed 08:27>97.1%
+   CLOSED: [2016-12-14 Wed 09:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-14 Wed 09:00]
+   CLOCK: [2016-12-14 Wed 08:27]--[2016-12-14 Wed 09:00] =>  0:33
+   :END:
 * lesson twenty eight
 ** DONE Review twenty eight 95.3%
    CLOSED: [2016-08-13 Sat 14:39]
@@ -4764,6 +4835,12 @@ Do they eat cheese for breakfast? Yes, they do.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-24 六 20:03]
    CLOCK: [2016-09-24 六 19:45]--[2016-09-24 六 20:03] =>  0:18
+   :END:
+** DONE Review <2016-12-14 Wed 20:37>97.2%
+   CLOSED: [2016-12-15 Thu 07:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-15 Thu 07:23]
+   CLOCK: [2016-12-14 Wed 20:37]--[2016-12-15 Thu 07:23] => 10:46
    :END:
 ** text
 a view of the sea
@@ -5272,6 +5349,12 @@ A Bronze Pair 青铜双像
    - State "DONE"       from "STARTED"    [2016-09-24 六 20:44]
    CLOCK: [2016-09-24 六 20:05]--[2016-09-24 六 20:44] =>  0:39
    :END:
+** DONE Review<2016-12-15 Thu 07:24>97.3%
+   CLOSED: [2016-12-15 Thu 07:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-15 Thu 07:59]
+   CLOCK: [2016-12-15 Thu 07:24]--[2016-12-15 Thu 07:59] =>  0:35
+   :END:
 * lesson thirty
 ** DONE Review thirty 93.9%
    CLOSED: [2016-08-01 Mon 19:27]
@@ -5315,6 +5398,18 @@ A Bronze Pair 青铜双像
    - State "DONE"       from "STARTED"    [2016-11-25 五 06:31]
    CLOCK: [2016-11-25 五 05:27]--[2016-11-25 五 06:31] =>  1:04
    :END:
+** DONE Review<2016-12-15 Thu 08:09>95.9%
+   CLOSED: [2016-12-16 Fri 07:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-16 Fri 07:28]
+   - State "STARTED"    from "DONE"       [2016-12-16 Fri 07:04]
+   CLOCK: [2016-12-16 Fri 07:04]--[2016-12-16 Fri 07:28] =>  0:24
+   - State "DONE"       from "STARTED"    [2016-12-16 Fri 07:04]
+   - State "STARTED"    from "DONE"       [2016-12-15 Thu 19:43]
+   - State "DONE"       from "STARTED"    [2016-12-15 Thu 08:32]
+   CLOCK: [2016-12-15 Thu 08:08]--[2016-12-15 Thu 08:32] =>  0:24
+   :END:
+
 ** Lesson 30
 This is a view of the desert. A group of people are travelling on canmels. Three
 camels are lying the sand, and two are standing.
@@ -6129,6 +6224,18 @@ The woman is checking her flight on her ticket.
    CLOSED: [2016-11-22 二 11:34]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-11-22 二 11:34]
+   :END:
+** DONE Review<2016-12-06 Tue 07:14>97.4%
+   CLOSED: [2016-12-06 Tue 07:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-06 Tue 07:47]
+   CLOCK: [2016-12-06 Tue 07:13]--[2016-12-06 Tue 07:47] =>  0:34
+   :END:
+** DONE Review<2016-12-07 Wed 04:46>96.5%
+   CLOSED: [2016-12-07 Wed 05:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-07 Wed 05:17]
+   CLOCK: [2016-12-07 Wed 04:46]--[2016-12-07 Wed 05:17] =>  0:31
    :END:
 ** Lesson 31
 passport control customs control registration flight a currency exchange booth a
@@ -7820,7 +7927,15 @@ The cat isn't in the room, so the boy is looking for it in the cabinet.
    - State "DONE"       from "STARTED"    [2016-11-19 六 06:46]
    CLOCK: [2016-11-19 六 05:38]--[2016-11-19 六 06:46] =>  1:08
    :END:
+** DONE Review<2016-12-07 Wed 07:59>97.7%
+   CLOSED: [2016-12-07 Wed 08:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-07 Wed 08:30]
+   CLOCK: [2016-12-07 Wed 07:59]--[2016-12-07 Wed 08:30] =>  0:31
+   :END:
+
 ** Lesson 34
+
 soup salad onion cabbage mushrooms mashed potatoes
 
 to cook to boil to fry to bake to bring food to try
@@ -8612,6 +8727,12 @@ bake tasty pies.
    - State "DONE"       from "STARTED"    [2016-11-18 五 21:08]
    CLOCK: [2016-11-18 五 19:46]--[2016-11-18 五 21:08] =>  1:22
    :END:
+** DONE Review<2016-12-08 Thu 05:43>97.2%
+   CLOSED: [2016-12-08 Thu 06:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-08 Thu 06:15]
+   CLOCK: [2016-12-08 Thu 05:43]--[2016-12-08 Thu 06:15] =>  0:32
+   :END:
 ** Lesson 35
 a blouse a tank top a coat a sweater tights socks
 
@@ -9371,6 +9492,12 @@ family likes this clothing.
    - State "DONE"       from "STARTED"    [2016-11-18 五 16:37]
    CLOCK: [2016-11-18 五 14:53]--[2016-11-18 五 16:37] =>  1:44
    :END:
+** DONE Review<2016-12-08 Thu 07:40>97.7%
+   CLOSED: [2016-12-08 Thu 08:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-08 Thu 08:03]
+   CLOCK: [2016-12-08 Thu 07:40]--[2016-12-08 Thu 08:03] =>  0:23
+   :END:
 ** Lesson 36
 a market a counter a supermaket change a cash register a receipt
 
@@ -9546,7 +9673,13 @@ What is the waiter doing? He's carrying a whole cake on a tray.
    - State "DONE"       from "STARTED"    [2016-11-18 五 11:27]
    CLOCK: [2016-11-18 五 11:00]--[2016-11-18 五 11:27] =>  0:27
    :END:
-** Review
+** DONE Review<2016-12-09 Fri 03:08>97.7%
+   CLOSED: [2016-12-09 Fri 03:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-09 Fri 03:37]
+   CLOCK: [2016-12-09 Fri 03:04]--[2016-12-09 Fri 03:37] =>  0:33
+
+   :END:
 ** Lesson thirty seven
 north south west east a compass a needle
 
@@ -11299,6 +11432,12 @@ What is the chef doing ? He's frying a whole chicken.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-11-26 六 06:41]
    CLOCK: [2016-11-26 六 06:05]--[2016-11-26 六 06:41] =>  0:36
+   :END:
+** DONE Review<2016-12-09 Fri 04:26>96.7%
+   CLOSED: [2016-12-09 Fri 05:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-12-09 Fri 05:04]
+   CLOCK: [2016-12-09 Fri 04:26]--[2016-12-09 Fri 05:04] =>  0:38
    :END:
 ** Lesson 38
 a drum film a guitar dance music a voilin
@@ -18269,6 +18408,12 @@ In order to open an account, you need to go to the bank.
    - State "DONE"       from "STARTED"    [2016-11-10 四 07:04]
    CLOCK: [2016-11-10 四 06:40]--[2016-11-10 四 07:04] =>  0:24
    :END:
+** DONE Review<2016-11-12 Sat 10:21>97.6%
+   CLOSED: [2016-11-12 Sat 10:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-11-12 Sat 10:49]
+   CLOCK: [2016-11-12 Sat 10:21]--[2016-11-12 Sat 10:49] =>  0:28
+   :END:
 ** Lesson 43
 a post offcie a mailbox a postman an ATM a credit car a post office a bank
 
@@ -21598,6 +21743,67 @@ loves her.
 
 Why are there so many people in the jewelry store? In the store there's a sale.
 People are buying jewelry wtih a discount.
+** Lesson forty six
+a necklace a pendant a chain a ring a bracelet earrings
+
+a jeweler silver jewels gold a jewelry store a diamond
+
+to give to be happy to marry to court to love to propose
+
+a golden ring
+silver earrings with small diamonds.
+a pendant with a diamond on a golden chair.
+a necklace with jewels.
+a golden necklace with large jewels.
+a silver bracelet
+
+expensive
+more expensive
+cheap
+cheaper
+bigger
+smaller
+
+Jewelry with diamonds is expensive even with a discount.
+Golden and silver jewelry is very expensive.
+A jeweler makes jewelry with jewels.
+People love to buy golden jewelrty with a discount.
+In the jewelry store there's a sale - there are many shoppers.
+A woman is looking at the jewelry in the jewelry store.
+
+The man is telling the woman that he loves her. He is proposing to her.
+The man is giving the woman a golden ring because he wants to marry her.
+A woman likes it when she is courted - she loves flowers and jewelry.
+The man is courting the woman - he's giving her flowers and jewelry.
+The man is giving the woman expensive jewelry because he loves her.
+The woman takes the golden ring because she also loves the man.
+
+Women are always happy if they're given flowers and jewels.
+A man is sad if he can't give his wife a golden pendant.
+When a rich man courts a woman, he gives her diamonds.
+When a poor man courts a woman, he gives her flowers.
+The man is giving his wife a golden neaclace with diamonds, so she is happy.
+The woman can't buy a golden bracelet with jewels, so she is sad.
+
+Women love jewels more than flowers.
+There are fewer jewels on the bracelet than on the necklace.
+A woman wears more jewelry in a nightclub than at work.
+Golden jewelrty is more expensive than silver jewelry.
+A woman loves to go to a jewelry store more than a market.
+Silver jewelry is less expensive than golden jewelry.
+
+Why is the boyfriend giving his girlfriend a pendant? He's courting her. He
+loves her.
+Why are there so may people in the jewelry store? In the store there's a sale.
+People are buying jewelry with a discount.
+Why is the girl happy? Her dad gives her golden earring. She loves jewelry.
+Why are the boyfriend and girlfriend picking out a ring? They want to marry.
+They love to each other.
+Why are these earrings so expensive? There are very expensive diamonds in them.
+Diamonds is very expensive jewels.
+Why is the woman sad? She can't buy a golden pendant. She has little money.
+
+
 * DONE Forty seven
   CLOSED: [2016-08-11 四 21:41]
   :LOGBOOK:
