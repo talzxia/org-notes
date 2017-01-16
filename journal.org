@@ -2603,3 +2603,53 @@ I wants to wash up but there's no hot water.
      :LOGBOOK:
      - State "DONE"       from "STARTED"    [2016-11-16 三 03:32]
      :END:
+** 2016-12 十二月
+*** 2016-12-28 星期三
+
+**** arrive office and begin to learn <2016-12-28 三 04:33>
+* 2017
+** 2017-01 一月
+*** 2017-01-09 星期一
+
+**** arrive office and updata spacemacs
+*** 2017-01-12 星期四
+
+**** arrive office and begin to learn
+
+**** STARTED arrive office and begin to work
+     :LOGBOOK:
+     CLOCK: [2017-01-12 Thu 07:42]--[2017-01-12 Thu 09:48] =>  2:06
+     :END:
+
+**** STARTED begin to work
+     :LOGBOOK:
+     CLOCK: [2017-01-12 Thu 14:41]--[2017-01-12 Thu 14:43] =>  0:02
+     :END:
+*** 2017-01-13 Friday
+
+**** today leaders check me
+
+**** go to home
+
+**** DONE arrive office
+     CLOSED: [2017-01-14 Sat 15:53]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2017-01-14 Sat 15:53]
+     :END:
+*** 2017-01-14 Saturday
+
+**** DONE arrive office and begin to learn
+     CLOSED: [2017-01-14 Sat 15:53]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2017-01-14 Sat 15:53]
+     CLOCK: [2017-01-14 Sat 05:34]--[2017-01-14 Sat 05:35] =>  0:01
+     :END:
+
+**** DONE arrive office and being to learn English
+     CLOSED: [2017-01-14 Sat 15:53]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2017-01-14 Sat 15:53]
+     CLOCK: [2017-01-14 Sat 15:11]--[2017-01-14 Sat 15:19] =>  0:08
+     :END:
+
+****go home<2017-01-14 Sat 21:17>

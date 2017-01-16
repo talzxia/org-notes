@@ -3401,6 +3401,41 @@ crm cra
    CLOCK: [2016-12-25 日 05:16]--[2016-12-25 日 05:40] =>  0:24
    :END:
 
+** STARTED [#B]arrive office begin to learn
+   :LOGBOOK:
+   CLOCK: [2016-12-26 一 03:30]--[2016-12-26 一 03:37] =>  0:07
+   :END:
+
+** STARTED [#B]learn English
+   :LOGBOOK:
+   CLOCK: [2016-12-27 二 10:35]--[2016-12-27 二 10:36] =>  0:01
+   :END:
+
+** STARTED [#B] relax and browse
+   :LOGBOOK:
+   CLOCK: [2016-12-30 五 06:18]--[2016-12-31 六 15:19] => 33:01
+   :END:
+
+** DONE [#B] 完成个人工作总结
+   CLOSED: [2017-01-13 Fri 14:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-13 Fri 14:40]
+   :END:
+
+** DONE [#B] browse and free learn
+   CLOSED: [2017-01-14 Sat 15:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-14 Sat 15:53]
+   CLOCK: [2017-01-14 Sat 07:35]--[2017-01-14 Sat 11:48] =>  4:13
+   :END:
+
+** DONE [#B]relax and listen to music
+   CLOSED: [2017-01-14 Sat 18:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-14 Sat 18:00]
+   CLOCK: [2017-01-14 Sat 15:54]--[2017-01-14 Sat 18:00] =>  2:06
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
