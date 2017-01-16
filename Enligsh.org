@@ -1418,14 +1418,15 @@ Is it day or night? It is night.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 04:36]
   CLOCK: [2016-07-24 Sun 03:52]--[2016-07-24 Sun 04:36] =>  0:44
   :END:
-** DONE Review 99.1%
+** history
+*** DONE Review 99.1%
    CLOSED: [2016-08-19 五 20:56]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-19 五 20:56]
    CLOCK: [2016-08-19 五 20:41]--[2016-08-19 五 20:56] =>  0:15
    :END:
 
-** DONE Review Seven 97.7%
+*** DONE Review Seven 97.7%
    CLOSED: [2016-07-26 Tue 15:48]
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2016-07-26 Tue 15:48]
@@ -1435,37 +1436,37 @@ Is it day or night? It is night.
  记(Write)、背诵(Recite)、复习(Review),是一种行之有效地与速读结合的阅读学习方法；
  后者是美国芝加哥大学教育研究所的哥特．莫斯博士发明的一种学习方法，旨在强化个人...
 
-** DONE Review <2016-08-27 六 19:20> 98%
+*** DONE Review <2016-08-27 六 19:20> 98%
    CLOSED: [2016-08-27 六 19:36]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-27 六 19:36]
    CLOCK: [2016-08-27 六 19:20]--[2016-08-27 六 19:36] =>  0:16
    :END:
-** DONE Review <2016-09-04 Sun 10:03>99%
+*** DONE Review <2016-09-04 Sun 10:03>99%
    CLOSED: [2016-09-04 Sun 10:26]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-04 Sun 10:26]
    CLOCK: [2016-09-04 Sun 10:04]--[2016-09-04 Sun 10:26] =>  0:22
    :END:
-** DONE Review <2016-09-11 日 04:49>99.3%
+*** DONE Review <2016-09-11 日 04:49>99.3%
    CLOSED: [2016-09-11 日 05:06]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 05:06]
    CLOCK: [2016-09-11 日 04:49]--[2016-09-11 日 05:06] =>  0:17
    :END:
-** DONE Review<2016-09-13 二 21:01>99.7%
+*** DONE Review<2016-09-13 二 21:01>99.7%
    CLOSED: [2016-09-13 二 21:16]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-13 二 21:16]
    CLOCK: [2016-09-13 二 21:01]--[2016-09-13 二 21:16] =>  0:15
    :END:
-** DONE Review<2016-10-16 日>99.6%
+*** DONE Review<2016-10-16 日>99.6%
    CLOSED: [2016-10-05 三 16:16]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-05 三 16:16]
    CLOCK: [2016-10-05 三 16:00]--[2016-10-05 三 16:16] =>  0:16
    :END:
-** text
+*** text
 hot
 clean
 dirty
@@ -1535,38 +1536,38 @@ An orange and a banana? No, an orange and a lemon.
 Tea with a flower? No, tea with lemon.
 Hot green tea? No, cold red juice.
 
-** DONE Reivew <2016-10-05 Wed 18:41>99.8%
+*** DONE Reivew <2016-10-05 Wed 18:41>99.8%
    CLOSED: [2016-10-05 Wed 18:43]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-05 Wed 18:43]
    CLOCK: [2016-10-05 Wed 18:21]--[2016-10-05 Wed 18:43] =>  0:22
    :END:
-** DONE Review<2016-10-21 Fri 06:37>99%
+*** DONE Review<2016-10-21 Fri 06:37>99%
    CLOSED: [2016-10-21 Fri 06:52]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-21 Fri 06:52]
    CLOCK: [2016-10-21 Fri 06:37]--[2016-10-21 Fri 06:52] =>  0:15
    :END:
-** TODO Review<2016-10-21 Fri 07:53>98.8%
+*** TODO Review<2016-10-21 Fri 07:53>98.8%
    :LOGBOOK:
    - State "STARTED"    from "DONE"       [2016-10-21 Fri 08:12]
    - State "DONE"       from "WAITING"    [2016-10-21 Fri 08:11]
    - State "DONE"       from "STARTED"    [2016-10-21 Fri 08:07]
    CLOCK: [2016-10-21 Fri 07:53]--[2016-10-21 Fri 08:07] =>  0:14
    :END:
-** DONE Review<2016-10-21 Fri 08:14>99%
+*** DONE Review<2016-10-21 Fri 08:14>99%
    CLOSED: [2016-10-21 Fri 08:29]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-21 Fri 08:29]
    CLOCK: [2016-10-21 Fri 08:14]--[2016-10-21 Fri 08:29] =>  0:15
    :END:
-** DONE Review<2016-12-10 Sat 07:16>99.1%
+*** DONE Review<2016-12-10 Sat 07:16>99.1%
    CLOSED: [2016-12-10 Sat 07:29]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-10 Sat 07:29]
    CLOCK: [2016-12-10 Sat 07:16]--[2016-12-10 Sat 07:29] =>  0:13
    :END:
-** DONE Review<2017-01-15 日 19:50>99.5%
+*** DONE Review<2017-01-15 日 19:50>99.5%
    CLOSED: [2017-01-15 日 20:17]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-01-15 日 20:17]
@@ -1650,25 +1651,26 @@ An orange and a banana? No, an orange and a lemon.
   - State "DONE"       from "STARTED"    [2016-07-23 Sat 16:43]
   CLOCK: [2016-07-23 Sat 16:03]--[2016-07-23 Sat 16:43] =>  0:40
   :END:
-** DONE Review 98.4%
+** history
+*** DONE Review 98.4%
    CLOSED: [2016-08-19 五 21:15]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-19 五 21:15]
    CLOCK: [2016-08-19 五 20:58]--[2016-08-19 五 21:15] =>  0:17
    :END:
-** DONE Review 99.1%
+*** DONE Review 99.1%
    CLOSED: [2016-08-20 六 05:47]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-20 六 05:47]
    CLOCK: [2016-08-20 六 05:29]--[2016-08-20 六 05:47] =>  0:18
    :END:
-** DONE Review Eight 98.8% very good
+*** DONE Review Eight 98.8% very good
    CLOSED: [2016-07-26 Tue 18:08]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-07-26 Tue 18:08]
    CLOCK: [2016-07-26 Tue 17:49]--[2016-07-26 Tue 18:08] =>  0:19
    :END:
-** DONE Review eight 96.8%
+*** DONE Review eight 96.8%
    CLOSED: [2016-08-06 六 21:38]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-06 六 21:38]
@@ -1676,48 +1678,48 @@ An orange and a banana? No, an orange and a lemon.
    :END:
 
 
-** DONE Review <2016-08-28 日 10:38> 98.2%
+*** DONE Review <2016-08-28 日 10:38> 98.2%
    CLOSED: [2016-08-28 日 10:55]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-28 日 10:55]
    CLOCK: [2016-08-28 日 10:38]--[2016-08-28 日 10:55] =>  0:17
    :END:
-** DONE Review <2016-09-04 Sun 12:03>98.5%
+*** DONE Review <2016-09-04 Sun 12:03>98.5%
    CLOSED: [2016-09-04 Sun 12:21]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-04 Sun 12:21]
    CLOCK: [2016-09-04 Sun 12:03]--[2016-09-04 Sun 12:21] =>  0:18
    :END:
-** DONE Review <2016-09-11 日 05:07>99.6%
+*** DONE Review <2016-09-11 日 05:07>99.6%
    CLOSED: [2016-09-11 日 05:27]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 05:27]
    CLOCK: [2016-09-11 日 05:07]--[2016-09-11 日 05:27] =>  0:20
    :END:
-** DONE Review 99.8%
+*** DONE Review 99.8%
    CLOSED: [2016-10-01 六 18:38]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-01 六 18:38]
    :END:
-** DONE Review<2016-10-05 Wed 20:56>99.7%
+*** DONE Review<2016-10-05 Wed 20:56>99.7%
    CLOSED: [2016-10-05 Wed 21:14]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-05 Wed 21:14]
    CLOCK: [2016-10-05 Wed 20:55]--[2016-10-05 Wed 21:14] =>  0:19
    :END:
-** DONE Review<2016-10-06 Thu 08:55>99.9%
+*** DONE Review<2016-10-06 Thu 08:55>99.9%
    CLOSED: [2016-10-06 Thu 09:16]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-06 Thu 09:16]
    CLOCK: [2016-10-06 Thu 08:56]--[2016-10-06 Thu 09:16] =>  0:20
    :END:
-** DONE Review<2016-12-10 Sat 07:30>99.1%
+*** DONE Review<2016-12-10 Sat 07:30>99.1%
    CLOSED: [2016-12-10 Sat 07:44]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-10 Sat 07:44]
    CLOCK: [2016-12-10 Sat 07:30]--[2016-12-10 Sat 07:44] =>  0:14
    :END:
-** DONE Review<2017-01-16 一 07:33>98.7%
+*** DONE Review<2017-01-16 一 07:33>98.7%
    CLOSED: [2017-01-16 一 08:08]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-01-16 一 08:08]
@@ -1805,96 +1807,14 @@ swimsuit and a pink skirt.
    - State "DONE"       from "STARTED"    [2016-07-23 Sat 16:01]
    CLOCK: [2016-07-23 Sat 15:06]--[2016-07-23 Sat 16:01] =>  0:55
    :END:
-** DONE Review
-   CLOSED: [2016-08-20 Sat 17:41]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-20 Sat 17:41]
-   CLOCK: [2016-08-20 Sat 08:50]--[2016-08-20 Sat 17:41] =>  8:51
-   :END:
-***  text
-
-a sofa
-a lamp
-a stool
-a bed
-a chair
-a wardrobe
-
-narrow
-a lot of
-a few
-low
-wide
-high
-
-a yellow sofa
-a woman on a bed
-a man on a bed
-a grey wardrobe
-shirts in a wardrboe
-a red sofa
-
-a bule stool
-a chair is on the water.
-A man is sitting on a big blue chair.
-The chairs are around the table.
-The stools are around the table.
-a red stool
-
-a yellow lamp
-a blue lamp
-A lamp is near the bed.
-A bed is between the lamps.
-A little girl is sitting in front of a white sofa.
-a yellow lamp
-
-high chair
-low chair
-low-heeled shoes
-low chair
-high-heeled shoes
-She is sitting on a high stool.
-She is sitting on a low red stool.
-high chair
-
-a few shoes
-a few white chairs
-A woman is sitting on a high chair.
-A lot of white chairs
-a lot of shoes
-a lot of lamps
-
-a narrow wardrobe
-a man in wide trousers
-a man in narrow trousers.
-a narrow bed
-a wide bed
-a wide wardrobe
-
-Is the man with a bear sitting on a chair? Yes, he is sitting on a chair.
-Is the girl between the books? Yes, the girl is between the books.
-Is the giraffe tall? Yes, it is very tall.
-Are the chiars around a table? Yes, the chairs are around a table.
-Is the woman sitting on a yellow chair? Yes, she is sitting on a yellow chair.
-Is the woman sleeping on a bed? Yes, the woman is sleeping on a bed.
-
-Is the woman sitting with men? No, she is lying on a narrow sofa.
-Is the big lamp hanging over the table? No, the big red lamp is hanging over a
-wide bed.
-Is the woman sitting on a low chair? No, she is sitting on a high stool.
-Is the man with a computer sitting on a sofa? No, the man with a computer is sitting
-on a stool.
-Are there few shirts in the wardrobe? No, there are a lot of shirts in the
-wardrobe.
-Are the men standing around  a table? No, they are sitting around the a table.
-
-** DONE Review Nine 99.0% very good
+** history
+*** DONE Review Nine 99.0% very good
    CLOSED: [2016-07-26 Tue 18:29]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-07-26 Tue 18:29]
    CLOCK: [2016-07-26 Tue 18:09]--[2016-07-26 Tue 18:29] =>  0:20
    :END:
-** DONE Review nine 95.9%
+*** DONE Review nine 95.9%
    CLOSED: [2016-08-06 六 21:17]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-06 六 21:17]
@@ -1903,56 +1823,56 @@ Are the men standing around  a table? No, they are sitting around the a table.
    - State "DONE"       from "WAITING"    [2016-08-06 六 21:16]
    - State "DONE"       from "STARTED"    [2016-08-06 六 21:14]
    :END:
-** DONE Review <2016-08-28 日 11:43> 96.7%
+*** DONE Review <2016-08-28 日 11:43> 96.7%
    CLOSED: [2016-08-28 日 14:36]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-28 日 14:36]
    CLOCK: [2016-08-28 日 11:44]--[2016-08-28 日 14:36] =>  2:52
    :END:
-** DONE Review <2016-09-04 日 19:08>98.4%
+*** DONE Review <2016-09-04 日 19:08>98.4%
    CLOSED: [2016-09-04 日 19:27]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-04 日 19:27]
    CLOCK: [2016-09-04 日 19:08]--[2016-09-04 日 19:27] =>  0:19
    :END:
-** DONE Review<2016-09-11 日 08:17>99.3%
+*** DONE Review<2016-09-11 日 08:17>99.3%
    CLOSED: [2016-09-11 日 08:36]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 08:36]
    CLOCK: [2016-09-11 日 08:17]--[2016-09-11 日 08:36] =>  0:19
    :END:
-** DONE Review <2016-09-26 一 19:24>99.5%
+*** DONE Review <2016-09-26 一 19:24>99.5%
    CLOSED: [2016-09-26 一 19:42]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-26 一 19:42]
    CLOCK: [2016-09-26 一 19:24]--[2016-09-26 一 19:42] =>  0:18
    :END:
-** DONE Review<2016-09-27 二 19:53>99.6%
+*** DONE Review<2016-09-27 二 19:53>99.6%
    CLOSED: [2016-09-27 二 20:10]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-27 二 20:10]
    CLOCK: [2016-09-27 二 19:53]--[2016-09-27 二 20:10] =>  0:17
    :END:
-** DONE Review<2016-10-01 六 14:17>99.9%
+*** DONE Review<2016-10-01 六 14:17>99.9%
    CLOSED: [2016-10-01 六 14:34]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-01 六 14:34]
    CLOCK: [2016-10-01 六 14:17]--[2016-10-01 六 14:34] =>  0:17
    :END:
-** DONE Review<2016-10-06 四 04:41>99.9%
+*** DONE Review<2016-10-06 四 04:41>99.9%
    CLOSED: [2016-10-06 四 05:00]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-06 四 05:00]
    CLOCK: [2016-10-06 四 04:41]--[2016-10-06 四 05:00] =>  0:19
    :END:
 
-** DONE Review<2016-12-10 Sat 07:51>98.8%
+*** DONE Review<2016-12-10 Sat 07:51>98.8%
    CLOSED: [2016-12-10 Sat 08:06]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-10 Sat 08:06]
    CLOCK: [2016-12-10 Sat 07:51]--[2016-12-10 Sat 08:06] =>  0:15
    :END:
-** DONE Review<2017-01-16 一 08:20>99%
+*** DONE Review<2017-01-16 一 08:20>99%
    CLOSED: [2017-01-16 一 08:55]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-01-16 一 08:55]
@@ -2040,37 +1960,38 @@ Are the men standing around a table? No, they are sitting around a table.
   - State "DONE"       from "STARTED"    [2016-07-23 Sat 05:54]
   CLOCK: [2016-07-23 Sat 05:01]--[2016-07-23 Sat 05:54] =>  0:53
   :END:
-** DONE Review 96.3%
+** history
+*** DONE Review 96.3%
    CLOSED: [2016-08-21 Sun 10:25]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-21 Sun 10:25]
    CLOCK: [2016-08-21 Sun 10:04]--[2016-08-21 Sun 10:25] =>  0:21
    :END:
-** DONE Review <2016-08-28 日 15:15> 97.6%
+*** DONE Review <2016-08-28 日 15:15> 97.6%
    CLOSED: [2016-08-28 日 15:34]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-28 日 15:34]
    CLOCK: [2016-08-28 日 15:15]--[2016-08-28 日 15:34] =>  0:19
    :END:
-** DONE Review <2016-09-04 日 20:09>98.1%
+*** DONE Review <2016-09-04 日 20:09>98.1%
    CLOSED: [2016-09-04 日 20:28]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-04 日 20:28]
    CLOCK: [2016-09-04 日 20:09]--[2016-09-04 日 20:28] =>  0:19
    :END:
-** DONE Review <2016-09-11 日 08:46>99.3%
+*** DONE Review <2016-09-11 日 08:46>99.3%
    CLOSED: [2016-09-11 日 09:08]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 09:08]
    CLOCK: [2016-09-11 日 08:47]--[2016-09-11 日 09:08] =>  0:21
    :END:
-** DONE Review<2016-09-26 一 19:43>99.6%
+*** DONE Review<2016-09-26 一 19:43>99.6%
    CLOSED: [2016-09-26 一 20:03]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-26 一 20:03]
    CLOCK: [2016-09-26 一 19:43]--[2016-09-26 一 20:03] =>  0:20
    :END:
-** text
+*** text
 a shop
 a nightclub
 a cinema
@@ -2148,44 +2069,43 @@ dancing.
 
 dancing.
 
-
-** DONE Review<2016-10-01 六 14:35>99.7%
+*** DONE Review<2016-10-01 六 14:35>99.7%
    CLOSED: [2016-10-01 六 14:56]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-01 六 14:56]
    CLOCK: [2016-10-01 六 14:35]--[2016-10-01 六 14:56] =>  0:21
    :END:
-** DONE Review<2016-10-06 四 07:01>99.7%
+*** DONE Review<2016-10-06 四 07:01>99.7%
    CLOSED: [2016-10-06 四 07:21]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-06 四 07:21]
    CLOCK: [2016-10-06 四 07:01]--[2016-10-06 四 07:21] =>  0:20
    :END:
-** DONE Review<2016-10-19 三 07:23>99.3%
+*** DONE Review<2016-10-19 三 07:23>99.3%
    CLOSED: [2016-10-19 三 07:42]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-19 三 07:42]
    CLOCK: [2016-10-19 三 07:23]--[2016-10-19 三 07:42] =>  0:19
    :END:
-** DONE Review<2016-10-19 三 10:23>99.7%
+*** DONE Review<2016-10-19 三 10:23>99.7%
    CLOSED: [2016-10-19 三 10:40]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-19 三 10:40]
    CLOCK: [2016-10-19 三 10:22]--[2016-10-19 三 10:40] =>  0:18
    :END:
-** DONE Review<2016-10-19 三 17:25>99.6%
+*** DONE Review<2016-10-19 三 17:25>99.6%
    CLOSED: [2016-10-19 三 17:43]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-19 三 17:43]
    CLOCK: [2016-10-19 三 17:25]--[2016-10-19 三 17:43] =>  0:18
    :END:
-** DONE Review<2016-12-10 Sat 08:07>98.7%
+*** DONE Review<2016-12-10 Sat 08:07>98.7%
    CLOSED: [2016-12-10 Sat 08:22]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-10 Sat 08:22]
    CLOCK: [2016-12-10 Sat 08:06]--[2016-12-10 Sat 08:22] =>  0:16
    :END:
-** DONE Lession 10<2016-12-25 日 05:41>98.4%
+*** DONE Lession 10<2016-12-25 日 05:41>98.4%
    CLOSED: [2016-12-25 日 06:22]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-25 日 06:22]
@@ -2266,51 +2186,135 @@ Are the table and chairs in a cinema? No, the table and chairs are in a café.
 Is there a drawing of a car on the piece of paper? No, a man is in the picture.
 Are the young women in a nighclub? No, they are in a shop.
 
+*** DONE Review<2017-01-16 一 13:24>97.1%
+   CLOSED: [2017-01-16 一 14:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-16 一 14:04]
+   CLOCK: [2017-01-16 一 13:24]--[2017-01-16 一 14:04] =>  0:40
+   :END:
+** Lesson 10
+
+a café
+a restaurant
+a shop
+a museum
+a cinema
+a nightclub
+
+to buy
+to sell
+to dance
+to take
+to give
+to hold
+
+money
+a picture
+a table
+a mirror
+a ticket
+an armchair
+
+a woman in a café
+a big restaurant
+a night café
+a small restaurant
+Women with fans are dancing at night.
+The woman is dancing in a nightclub.
+
+a mirror above a sofa
+A white table and chairs in a café
+a table in a café
+women in a shop
+a man in a shop
+a mirror opposite a table
+
+red chairs in a cinema
+a big museum
+A man and a woman are looking at a picture.
+They are sitting in a cinema at night.
+a small museum
+an armchair in a museum
+
+The boy is giving bananas.
+They are buying tickets.
+The woman is selling a bottle of Fanta.
+The boy is buying a bottle of Fanta.
+The woman is taking bananas.
+a ticket in a passport
+
+The womem are holding a shirt in a shop.
+The woman is holding some bags.
+The man and the woman are at the table in a restaurant.
+a picture above a sofa
+a clock on the table in a museum
+The man is holding the woman.
+
+Are the black armchairs in a cinema? Yes, the black armchairs are in a
+cinema.
+Is the money on the table? Yes, money is on the table.
+Is the old white table in a museum? Yes, the old white table is in a museum.
+A nightclub? Yes, a nightclub.
+Is the woman holding a skirt near the mirror? Yes, the woman is holding a skirt
+near the mirror.
+Is the woman in white looking at a mirror? Yes, the woman is looking at the
+mirror.
+
+Is the man in a black shirt reading? No, a woman in a short black dress is
+dancing.
+Are the young women in a nightclub? No, they are in a shop.
+Is there a drawing of a car on the piece of paper? No, a man is in the picture.
+Is the boy holding a cup of tea? No, the boy is holding money.
+Is the woman giving a bear to the man? No, the man is giving a bear to the
+woman.
+Are the table and chairs in a cinema? No, the table and chairs are in a café.
+
 * DONE Lesson eleven 98.8%
   CLOSED: [2016-07-23 Sat 03:43]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-07-23 Sat 03:43]
    CLOCK: [2016-07-23 Sat 02:51]--[2016-07-23 Sat 03:43] =>  0:52
    :END:
-** DONE Review 98%
+** history
+*** DONE Review 98%
    CLOSED: [2016-08-21 Sun 10:46]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-21 Sun 10:46]
    CLOCK: [2016-08-21 Sun 10:27]--[2016-08-21 Sun 10:46] =>  0:19
    :END:
-** DONE Review<2016-08-28 日 16:05>98.5%
+*** DONE Review<2016-08-28 日 16:05>98.5%
    CLOSED: [2016-08-28 日 18:33]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-28 日 18:33]
    CLOCK: [2016-08-28 日 18:05]--[2016-08-28 日 18:33] =>  0:28
    :END:
 
-** DONE Review <2016-09-05 一 10:27>98%
+*** DONE Review <2016-09-05 一 10:27>98%
 
    CLOSED: [2016-09-05 一 10:53]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-05 一 10:53]
    CLOCK: [2016-09-05 一 10:27]--[2016-09-05 一 10:53] =>  0:26
    :END:
-** DONE Review <2016-09-05 Mon 17:20>99.5%
+*** DONE Review <2016-09-05 Mon 17:20>99.5%
    CLOSED: [2016-09-05 Mon 17:40]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-05 Mon 17:40]
    CLOCK: [2016-09-05 Mon 17:20]--[2016-09-05 Mon 17:40] =>  0:20
    :END:
-** DONE Review <2016-09-11 日 09:24>99.9%
+*** DONE Review <2016-09-11 日 09:24>99.9%
    CLOSED: [2016-09-11 日 09:46]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 09:46]
    CLOCK: [2016-09-11 日 09:24]--[2016-09-11 日 09:36] =>  0:12
    :END:
-** DONE Review<2016-12-10 Sat 20:35>98.5%
+*** DONE Review<2016-12-10 Sat 20:35>98.5%
    CLOSED: [2016-12-10 Sat 20:54]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-10 Sat 20:54]
    CLOCK: [2016-12-10 Sat 20:34]--[2016-12-10 Sat 20:54] =>  0:20
    :END:
-** DONE Review<2016-12-25 日 18:54>98.8%
+*** DONE Review<2016-12-25 日 18:54>98.8%
    CLOSED: [2016-12-25 日 19:39]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-25 日 19:39]
@@ -2393,6 +2397,91 @@ Is the man sitting in front of the door? No, the dog is sitting in front of the
 door.
 Is the table in the kitchen dirty? No, the table in the kitchen is clean.
 
+*** DONE Review<2017-01-16 一 16:14>99.4%
+    CLOSED: [2017-01-16 一 18:57]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-01-16 一 18:57]
+    - State "STARTED"    from "DONE"       [2017-01-16 一 18:41]
+    CLOCK: [2017-01-16 一 18:41]--[2017-01-16 一 18:57] =>  0:16
+    - State "DONE"       from "STARTED"    [2017-01-16 一 16:41]
+    CLOCK: [2017-01-16 一 16:14]--[2017-01-16 一 16:41] =>  0:27
+    :END:
+** Lesson 11
+
+a wall
+a window
+a floor
+a door
+a room
+a house
+
+a kitchen
+a bathroom
+a sitting room
+a cooker
+a fridge
+a bedroom
+
+The house is big.
+a big room
+a bench in front of the house.
+There are table and chairs in the room.
+There is a big window in the room.
+The house is covered in snow.
+
+The boy is drawing on the wall.
+The boy is standing at the window.
+Flowers on the wall
+The chair is near the door.
+The dog is sitting on the floor.
+The dog is in front of the door.
+
+It is dirty in the kitchen.
+The man is sitting on the floor in front of the pink wall.
+The woman is standing at the window.
+The fridge is white.
+a small kitchen
+There is a big white cooker in the kitchen.
+
+The cooker is clean.
+The girl is sitting on the floor in the sitting-room.
+The woman is near the cooker.
+There is a big sofa in the sitting-room.
+The man and the woman are dancing in the sitting-room at night.
+In the sitting-room there is a clock on the wall.
+
+The woman is in the bedroom. She is sleeping in the bed.
+There is a black wall in the bathroom.
+There is a white floor in the bathroom.
+A woman is standing in front of the mirror in the bedroom.
+There is a window in the bedroom.
+There is a big mirror in the bathroom.
+
+The boy is taking the banana from the fridge.
+He is giving the banana to the cat.
+He is eating the banana.
+The cat is not eating the banana.
+There is a banana in the fridge.
+The banana is on the floor under the table.
+
+The man isn't sleeping. Is he reading in the bedroom? Yes, he is reading in the
+bedroom.
+Is the umbrella to the right of the door? Yes, the umbrella is to the right of
+the door.
+Is this a fridge or a cooker? It's a cooker.
+Is the umbrella to the left of the door? Yes, the umbrella is to the left of the
+door.
+Is this a wall or a window? It's a window.
+Is there a television in the sitting-room? Yes, there is a television in the
+sitting-room.
+
+Is the house made of wood? No, the house is made of stone.
+Is there a sofa in the bedroom? No, there is a wide bed in the bedroom.
+Is the table in the kitchen dirty? No, the table in the kitchen is clean.
+Is the banana on the table? No, the banana is in the fridge.
+Is the man sitting on the floor? No, the dog is sitting on the floor.
+Is the man sitting in front of the door? No, the dog is sitting in front of the
+door.
 
 * DONE Lesson twelve 98.4%
 
@@ -2401,25 +2490,26 @@ Is the table in the kitchen dirty? No, the table in the kitchen is clean.
   - State "DONE"       from "STARTED"    [2016-07-22 Fri 20:25]
   CLOCK: [2016-07-22 Fri 19:22]--[2016-07-22 Fri 20:25] =>  1:03
   :END:
-** DONE Review <2016-08-29 Mon 18:45>97.9%
+** history
+*** DONE Review <2016-08-29 Mon 18:45>97.9%
    CLOSED: [2016-08-29 Mon 19:05]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-29 Mon 19:05]
    CLOCK: [2016-08-29 Mon 18:45]--[2016-08-29 Mon 19:05] =>  0:20
    :END:
-** DONE Review 97.7%
+*** DONE Review 97.7%
    CLOSED: [2016-08-21 Sun 14:13]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-21 Sun 14:13]
    CLOCK: [2016-08-21 Sun 13:51]--[2016-08-21 Sun 14:13] =>  0:22
    :END:
-** DONE Review twelve 97.5%
+*** DONE Review twelve 97.5%
    CLOSED: [2016-08-07 Sun 06:59]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:59]
    CLOCK: [2016-08-07 Sun 06:38]--[2016-08-07 Sun 06:59] =>  0:21
    :END:
-** DONE Review eleven and twelve
+*** DONE Review eleven and twelve
 
    CLOSED: [2016-07-28 Thu 06:12]
     - State "DONE"       from "STARTED"    [2016-07-28 Thu 06:13]
@@ -2427,13 +2517,13 @@ Is the table in the kitchen dirty? No, the table in the kitchen is clean.
     CLOCK: [2016-07-28 Thu 05:24]--[2016-07-28 Thu 06:13] =>  0:49
     :END:
 
-** DONE Review <2016-09-05 Mon 17:42>99%
+*** DONE Review <2016-09-05 Mon 17:42>99%
    CLOSED: [2016-09-05 Mon 18:03]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-05 Mon 18:03]
    CLOCK: [2016-09-05 Mon 17:42]--[2016-09-05 Mon 18:03] =>  0:21
    :END:
-** DONE Review eleven 98.6%
+*** DONE Review eleven 98.6%
    CLOSED: [2016-09-11 日 12:08]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 12:08]
@@ -2443,19 +2533,19 @@ Is the table in the kitchen dirty? No, the table in the kitchen is clean.
    CLOCK: [2016-08-07 Sun 06:14]--[2016-08-07 Sun 06:34] =>  0:20
    :END:
 
-** DONE Review<2016-09-11 日 11:46>99.8%
+*** DONE Review<2016-09-11 日 11:46>99.8%
    CLOSED: [2016-09-11 日 12:08]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 12:08]
    CLOCK: [2016-09-11 日 11:46]--[2016-09-11 日 12:08] =>  0:22
    :END:
-** DONE Review<2016-12-10 Sat 21:04>98.5%
+*** DONE Review<2016-12-10 Sat 21:04>98.5%
    CLOSED: [2016-12-10 Sat 21:23]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-10 Sat 21:23]
    CLOCK: [2016-12-10 Sat 21:04]--[2016-12-10 Sat 21:23] =>  0:19
    :END:
-** text
+*** text
 son
 daughter
 parents
@@ -2526,9 +2616,8 @@ Is grandad feeding his granddaughter? No, mother is feeding her son.
 Are grandma and grandad crying? No, grandma and grandad are luaghing.
 Is the mother washing her daughter? No, mother is playing with her son in the sand.
 
-
-** words
-** CANCELLED text
+*** words
+*** CANCELLED text
    CLOSED: [2016-07-24 Sun 05:47]
    :PROPERTIES:
    :ID:       EBCAF1E8-94CD-4C70-9E0A-6B07FDAAFE98
@@ -2610,9 +2699,8 @@ Is there sofa in the bedroom? No, there is a wide bed in the bedroom.
 Is the man sitting on the floor? The dog is sitting on the floor.
 
 
-
 *** words
-** DONE Review<2016-12-26 一 03:37>99.4%
+*** DONE Review<2016-12-26 一 03:37>99.4%
    CLOSED: [2016-12-26 一 04:21]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-26 一 04:21]
@@ -2693,6 +2781,86 @@ Are the parents feeding their sons? No, the parents are playing with their sons.
 Are these the parents of the girl? No, they are her grandma and grandad.
 Are grandma and grandad crying? No, grandma and grandad are laughing.
 
+*** DONE Review<2017-01-16 一 20:02>99%
+    CLOSED: [2017-01-16 一 20:47]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-01-16 一 20:47]
+    CLOCK: [2017-01-16 一 20:02]--[2017-01-16 一 20:47] =>  0:45
+    :END:
+** Lesson 12
+
+a family
+mother
+father
+son
+daughter
+parents
+
+a big family
+brother and sister
+grandma and grandad
+grandma and granddaugher
+grandad and grandson
+grandson and granddaugher
+
+to wash
+to feed
+to play
+to cry
+to laugh
+to hug
+
+Grandma is holding her grandson.
+A family photo with grandma and grandad.
+Grandma is holding her granddaughter.
+Grandad is holding his grandson.
+A family photo without grandma and grandad.
+Grandad is holding his granddaughter.
+
+The brothers are reading a book.
+The sisters are reading a book.
+grandma and grandad with grandchildren
+Sister is sitting on her brother.
+Sister is sitting behind her brother.
+Sister is holding her little brother.
+
+a girl with her parents
+Father is holding his daughter.
+Mother and father with their daughter and son. The son is sitting on his father.
+Mother is holding her son.
+Mother and father are holding their daughter.
+a boy with his parents
+
+The man is washing a window.
+The boy is feeding a horse.
+The man is washing a car.
+Mother is feeding her son.
+The girl is playing in the sand.
+The boy is playing with a dog.
+
+Mother is playing with her daughter.
+Grandad is hugging grandma.
+Mother is washing her son.
+The daughter is crying.
+The parents are laughing.
+Mother is hugging her son.
+
+Is this a big family or a small family? It's a big family.
+Are the sisters hugging each other? Yes, the sisters are hugging each other.
+Are these the boy's parents? Yes, they are the boy's mother and father.
+Mother is hugging her son. Is her son crying or laughing? Her son is laughing.
+Are grandad and grandma hugging each other? Yes, they are hugging each other.
+Mother is hugging her daughter. Is the daughter crying or laughing? The daughter
+is crying.
+
+Is the mother washing her daughter? No, mother is playing with her son in the
+sand.
+Are the parents feeding their sons? No, the parents are playing with their sons.
+Are these the  parents of the girl? No, they are her grandma and grandad.
+Are these the brother and siter of the girl with long hair? No, they are the
+parents of the girl with long hair.
+Is grandad feeding his granddaughter? No, mother is feeding her son.
+Are grandma and grandad crying? No, grandma and grandad are laughing.
 
 * DONE Lesson thirteen
   CLOSED: [2016-08-08 一 08:52]
@@ -24018,7 +24186,7 @@ loves her.
 
 Why are there so many people in the jewelry store? In the store there's a sale.
 People are buying jewelry wtih a discount.
-** Lesson forty six
+** Lesson 46
 a necklace a pendant a chain a ring a bracelet earrings
 
 a jeweler silver jewels gold a jewelry store a diamond
