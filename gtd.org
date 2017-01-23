@@ -3478,6 +3478,26 @@ crm cra
 手术宜早动。
 良庄以南有段路没法走。
 
+** DONE [#B] search words
+   CLOSED: [2017-01-23 一 11:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-23 一 11:01]
+   CLOCK: [2017-01-23 一 10:52]--[2017-01-23 一 11:01] =>  0:09
+   :END:
+
+** DONE [#B] 上午述职
+   CLOSED: [2017-01-20 一 12:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-20 一 12:52]
+   CLOCK: [2017-01-20 一 08:20]--[2017-01-20 一 12:00] =>  3:40
+   :END:
+
+** DONE [#B]下午到泰山学院附中考核
+   CLOSED: [2017-01-20 一 16:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-20 一 12:56]
+   CLOCK: [2017-01-20 一 13:40]--[2017-01-20 一 16:00] =>  2:20
+   :END:
 
 * Cocos2D-X
 

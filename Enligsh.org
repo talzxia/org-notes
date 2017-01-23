@@ -25624,6 +25624,18 @@ Only the chairman's strong control was able to impart some sense of seriousness 
    - State "DONE"       from "STARTED"    [2016-11-07 一 14:39]
    CLOCK: [2016-11-07 一 13:56]--[2016-11-07 一 14:39] =>  0:43
    :END:
+** DONE Review<2017-01-23 一 10:26>98.1%
+   CLOSED: [2017-01-23 一 10:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-23 一 10:47]
+   CLOCK: [2017-01-23 一 10:26]--[2017-01-23 一 10:47] =>  0:21
+   :END:
+** DONE Writing<2017-01-23 一 12:04>
+   CLOSED: [2017-01-23 一 12:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-23 一 12:43]
+   CLOCK: [2017-01-23 一 12:04]--[2017-01-23 一 12:43] =>  0:39
+   :END:
 ** text
 
 the chest the mouth legs the belly the head arms
@@ -26938,6 +26950,30 @@ You shouldn't eat a lot of pizza because your stomach will hurt.
    - State "DONE"       from "STARTED"    [2016-11-07 Mon 19:17]
    CLOCK: [2016-11-07 Mon 18:27]--[2016-11-07 Mon 19:17] =>  0:50
    :END:
+** DONE Review<2017-01-22 日 21:02>98.5
+   CLOSED: [2017-01-22 日 21:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-22 日 21:26]
+   CLOCK: [2017-01-22 日 21:02]--[2017-01-22 日 21:26] =>  0:24
+   :END:
+** DONE Review<2017-01-23 一 07:09>99.4%
+   CLOSED: [2017-01-23 一 07:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-23 一 07:30]
+   CLOCK: [2017-01-23 一 07:08]--[2017-01-23 一 07:30] =>  0:22
+   :END:
+** DONE Writing<2017-01-23 一 08:40>
+   CLOSED: [2017-01-23 一 09:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-23 一 09:22]
+   CLOCK: [2017-01-23 一 08:40]--[2017-01-23 一 09:22] =>  0:42
+   :END:
+** DONE Review<2017-01-23 一 09:53>99.8%
+   CLOSED: [2017-01-23 一 10:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-23 一 10:11]
+   CLOCK: [2017-01-23 一 09:52]--[2017-01-23 一 10:11] =>  0:19
+   :END:
 ** Lesson forty eight
 
 a ballerina an actor a poet a sculptor a singer a painter
@@ -27048,27 +27084,26 @@ GBOOK:
   - State "DONE"       from "STARTED"    [2016-08-14 日 05:29]
   CLOCK: [2016-08-14 日 04:26]--[2016-08-14 日 05:29] =>  1:03
   :END:
-** learn history
-*** DONE Review 94.7%
+** DONE Review 94.7%
    CLOSED: [2016-08-19 五 05:20]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-19 五 05:20]
    CLOCK: [2016-08-19 五 04:54]--[2016-08-19 五 05:20] =>  0:26
    :END:
-*** DONE Review <2016-09-11 日 04:17>96%
+** DONE Review <2016-09-11 日 04:17>96%
    CLOSED: [2016-09-11 日 04:42]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 04:42]
    CLOCK: [2016-09-11 日 04:18]--[2016-09-11 日 04:42] =>  0:24
    :END:
-*** DONE Review<2016-09-15 四 04:46>99.0%
+** DONE Review<2016-09-15 四 04:46>99.0%
    CLOSED: [2016-09-15 四 05:16]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-15 四 05:16]
    CLOCK: [2016-09-15 四 04:46]--[2016-09-15 四 05:16] =>  0:30
    :END:
-*** text
-*** a capital
+** text
+** a capital
 英  ['kæpɪt(ə)l]   美  ['kæpɪtl]
 n. 首都，省会；资金；大写字母；资本家
 adj. 首都的；重要的；大写的
@@ -27139,7 +27174,7 @@ All our capital is locked up in that enterprise.
 我们的资金全部搁死在那个企业了。
 I remember meeting you one evening at the Capital Theatre.
 我记得有一天晚上在首都剧场遇到你。
-*** an emblem
+** an emblem
 英  ['embləm]  美  ['ɛmbləm]
 n. 象征；徽章；符号
 vt. 象征；用符号表示；用纹章装饰
@@ -27793,91 +27828,103 @@ A child shouldn't drive a car.
 
 A child should help his parents.
 
-*** DONE Review Forty nine 95.3%
+** DONE Review Forty nine 95.3%
    CLOSED: [2016-08-16  95.3%Tue 00:00]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-15 Mon 05:03]
    CLOCK: [2016-08-15 Mon 04:39]--[2016-08-15 Mon 05:03] =>  0:24
    :END:
 
-*** DONE Review <2016-09-13 二 04:34>98.7%
+** DONE Review <2016-09-13 二 04:34>98.7%
    CLOSED: [2016-09-13 二 05:07]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-13 二 05:07]
    CLOCK: [2016-09-13 二 04:34]--[2016-09-13 二 05:07] =>  0:33
    :END:
-*** DONE Review<2016-10-08 六 14:17>95.1%
+** DONE Review<2016-10-08 六 14:17>95.1%
    CLOSED: [2016-10-08 六 14:45]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-08 六 14:45]
    CLOCK: [2016-10-08 六 14:17]--[2016-10-08 六 14:45] =>  0:28
    :END:
-*** DONE Review<2016-10-08 六 19:18>97.1%
+** DONE Review<2016-10-08 六 19:18>97.1%
    CLOSED: [2016-10-08 六 19:42]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-08 六 19:42]
    CLOCK: [2016-10-08 六 19:18]--[2016-10-08 六 19:42] =>  0:24
    :END:
-*** DONE Review<2016-10-08 六 20:27>96.7%
+** DONE Review<2016-10-08 六 20:27>96.7%
    CLOSED: [2016-10-08 六 20:48]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-08 六 20:48]
    CLOCK: [2016-10-08 六 20:27]--[2016-10-08 六 20:48] =>  0:21
    :END:
-*** DONE Review<2016-10-09 日 06:08>97.7%
+** DONE Review<2016-10-09 日 06:08>97.7%
    CLOSED: [2016-10-09 日 06:30]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-09 日 06:30]
    CLOCK: [2016-10-09 日 06:08]--[2016-10-09 日 06:30] =>  0:22
    :END:
-*** DONE Review<2016-10-17 Mon 07:32>98.5%
+** DONE Review<2016-10-17 Mon 07:32>98.5%
    CLOSED: [2016-10-17 Mon 07:59]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-17 Mon 07:59]
    CLOCK: [2016-10-17 Mon 07:32]--[2016-10-17 Mon 07:59] =>  0:27
    :END:
-*** DONE Review<2016-10-17 Mon 19:11>99.3%
+** DONE Review<2016-10-17 Mon 19:11>99.3%
    CLOSED: [2016-10-17 Mon 19:33]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-17 Mon 19:33]
    CLOCK: [2016-10-17 Mon 19:11]--[2016-10-17 Mon 19:33] =>  0:22
    :END:
-*** DONE Review<2016-10-22 六 11:13>96.2%
+** DONE Review<2016-10-22 六 11:13>96.2%
    CLOSED: [2016-10-22 六 11:33]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-22 六 11:33]
    CLOCK: [2016-10-22 六 11:13]--[2016-10-22 六 11:33] =>  0:20
    :END:
-*** DONE Review<2016-10-30 Sun 12:18>97.8%
+** DONE Review<2016-10-30 Sun 12:18>97.8%
    CLOSED: [2016-10-30 Sun 12:48]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-30 Sun 12:48]
    CLOCK: [2016-10-30 Sun 12:18]--[2016-10-30 Sun 12:48] =>  0:30
    :END:
-*** DONE Review<2016-10-30 Sun 20:29>98.1%
+** DONE Review<2016-10-30 Sun 20:29>98.1%
    CLOSED: [2016-10-30 Sun 20:49]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-30 Sun 20:49]
    CLOCK: [2016-10-30 Sun 20:29]--[2016-10-30 Sun 20:49] =>  0:20
    :END:
-*** DONE Review<2016-10-31 Mon 06:24>98.5%
+** DONE Review<2016-10-31 Mon 06:24>98.5%
    CLOSED: [2016-10-31 Mon 06:42]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-31 Mon 06:42]
    CLOCK: [2016-10-31 Mon 06:24]--[2016-10-31 Mon 06:42] =>  0:18
    :END:
-*** DONE Review<2016-11-07 Mon 20:22>98.6%
+** DONE Review<2016-11-07 Mon 20:22>98.6%
    CLOSED: [2016-11-07 Mon 21:17]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-11-07 Mon 21:17]
    CLOCK: [2016-11-07 Mon 20:22]--[2016-11-07 Mon 21:17] =>  0:55
    :END:
-*** DONE Review<2017-01-22 Sun 09:59>98.5%
+** DONE Review<2017-01-22 Sun 09:59>98.5%
     CLOSED: [2017-01-22 Sun 10:18]
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2017-01-22 Sun 10:18]
     CLOCK: [2017-01-22 Sun 09:59]--[2017-01-22 Sun 10:18] =>  0:19
     :END:
+** DONE Review<2017-01-22 日 17:25>98.8%
+    CLOSED: [2017-01-22 日 17:45]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-01-22 日 17:45]
+    CLOCK: [2017-01-22 日 17:25]--[2017-01-22 日 17:45] =>  0:20
+    :END:
+** DONE Review<2017-01-22 日 17:52>99.3%
+   CLOSED: [2017-01-22 日 18:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-22 日 18:11]
+   CLOCK: [2017-01-22 日 17:52]--[2017-01-22 日 18:11] =>  0:19
+   :END:
 ** Lesson forty nine
 a city a capital an emblem a building a flag a country
 
