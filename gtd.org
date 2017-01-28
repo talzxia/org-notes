@@ -3499,6 +3499,13 @@ crm cra
    CLOCK: [2017-01-20 一 13:40]--[2017-01-20 一 16:00] =>  2:20
    :END:
 
+** DONE [#B] relax and listen to music
+   CLOSED: [2017-01-28 六 21:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-28 六 21:09]
+   CLOCK: [2017-01-28 六 20:34]--[2017-01-28 六 21:09] =>  0:35
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

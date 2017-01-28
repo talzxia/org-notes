@@ -22853,6 +22853,18 @@ Children get sick more often than adults.
    - State "DONE"       from "STARTED"    [2016-11-07 一 07:04]
    CLOCK: [2016-11-07 一 06:20]--[2016-11-07 一 07:04] =>  0:44
    :END:
+** DONE Review<2017-01-24 二 06:28>97.3%
+   CLOSED: [2017-01-24 二 06:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-24 二 06:56]
+   CLOCK: [2017-01-24 二 06:28]--[2017-01-24 二 06:56] =>  0:28
+   :END:
+** DONE Review<2017-01-24 二 09:15>98.2%
+   CLOSED: [2017-01-24 二 09:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-24 二 09:37]
+   CLOCK: [2017-01-24 二 09:15]--[2017-01-24 二 09:37] =>  0:22
+   :END:
 ** text
 *** a bracelet
 英  [ˈbreɪslət]  美  [ˈbreslɪt]
@@ -24262,7 +24274,7 @@ The woman can't buy a golden bracelet with jewels, so she is sad.
 Women love jewels more than flowers.
 There are fewer jewels on the bracelet than on the necklace.
 A woman wears more jewelry in a nightclub than at work.
-Golden jewelrty is more expensive than silver jewelry.
+Golden jewelry is more expensive than silver jewelry.
 A woman loves to go to a jewelry store more than a market.
 Silver jewelry is less expensive than golden jewelry.
 
@@ -24277,6 +24289,12 @@ Why are these earrings so expensive? There are very expensive diamonds in them.
 Diamonds is very expensive jewels.
 Why is the woman sad? She can't buy a golden pendant. She has little money.
 
+** DONE Review<2017-01-28 六 19:39>97.5%
+   CLOSED: [2017-01-28 六 20:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-28 六 20:02]
+   CLOCK: [2017-01-28 六 19:39]--[2017-01-28 六 20:02] =>  0:23
+   :END:
 
 * DONE Forty seven
   CLOSED: [2016-08-11 四 21:41]
@@ -27925,6 +27943,12 @@ A child should help his parents.
    - State "DONE"       from "STARTED"    [2017-01-22 日 18:11]
    CLOCK: [2017-01-22 日 17:52]--[2017-01-22 日 18:11] =>  0:19
    :END:
+** DONE Review<2017-01-28 六 21:10>96.5%
+   CLOSED: [2017-01-28 六 21:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-28 六 21:29]
+   CLOCK: [2017-01-28 六 21:10]--[2017-01-28 六 21:29] =>  0:19
+   :END:
 ** Lesson forty nine
 a city a capital an emblem a building a flag a country
 
@@ -28031,21 +28055,20 @@ Parents should feed their child.
   - State "DONE"       from "STARTED"    [2016-08-14 Sun 17:46]
   CLOCK: [2016-08-14 Sun 16:24]--[2016-08-14 Sun 17:46] =>  1:22
   :END:
-** Learn history
-*** Review<2016-09-11 日 12:11>98.8%
-*** DONE Review <2016-09-11 日 18:39>99.2%
+** Review<2016-09-11 日 12:11>98.8%
+** DONE Review <2016-09-11 日 18:39>99.2%
    CLOSED: [2016-09-11 日 19:10]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 19:10]
    CLOCK: [2016-09-11 日 18:39]--[2016-09-11 日 19:10] =>  0:31
    :END:
-*** DONE Review <2016-09-12 一 02:20>99.1%
+** DONE Review <2016-09-12 一 02:20>99.1%
    CLOSED: [2016-09-12 一 02:51]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-12 一 02:51]
    CLOCK: [2016-09-12 一 02:20]--[2016-09-12 一 02:51] =>  0:31
    :END:
-*** text
+** text
 a bench
 
 a park
@@ -28193,115 +28216,121 @@ Why are people digging up earth? They want to plant a tree in the park.
 
 Why is the woman digging up earth in front of her house? She's planting flowers
 there.
-*** DONE Review Fifty 96.7%
+** DONE Review Fifty 96.7%
    CLOSED: [2016-08-16 二 18:38]
    :LOGBOOK:
    - State "DONE"       from "WAITING"    [2016-08-16 二 18:38]
    - State "DONE"       from "STARTED"    [2016-08-15 Mon 04:36]
    CLOCK: [2016-08-15 Mon 04:07]--[2016-08-15 Mon 04:36] =>  0:29
    :END:
-*** DONE Review 96.4%
+** DONE Review 96.4%
    CLOSED: [2016-08-16 二 19:08]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-16 二 19:08]
    CLOCK: [2016-08-16 二 18:45]--[2016-08-16 二 19:08] =>  0:23
    :END:
-*** DONE Review 96.7%
+** DONE Review 96.7%
    CLOSED: [2016-08-17 三 05:43]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-17 三 05:43]
    CLOCK: [2016-08-17 三 05:14]--[2016-08-17 三 05:43] =>  0:29
    :END:
-*** DONE Review<2016-09-13 二 03:56>99.1%
+** DONE Review<2016-09-13 二 03:56>99.1%
    CLOSED: [2016-09-13 二 04:26]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-13 二 04:26]
    CLOCK: [2016-09-13 二 03:56]--[2016-09-13 二 04:26] =>  0:30
    :END:
-*** DONE Review<2016-10-06 四 05:02>99.6%
+** DONE Review<2016-10-06 四 05:02>99.6%
    CLOSED: [2016-10-06 四 05:56]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-06 四 05:56]
    CLOCK: [2016-10-06 四 05:02]--[2016-10-06 四 05:56] =>  0:54
    :END:
-*** DONE Review<2016-10-09 日 06:33>98.6%
+** DONE Review<2016-10-09 日 06:33>98.6%
    CLOSED: [2016-10-09 日 07:01]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-09 日 07:01]
    CLOCK: [2016-10-09 日 06:33]--[2016-10-09 日 07:01] =>  0:28
    :END:
-*** DONE Review<2016-10-16 Sun 19:49>99.3%
+** DONE Review<2016-10-16 Sun 19:49>99.3%
    CLOSED: [2016-10-16 Sun 20:17]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-16 Sun 20:17]
    CLOCK: [2016-10-16 Sun 19:49]--[2016-10-16 Sun 20:17] =>  0:28
    :END:
-*** DONE Review<2016-10-17 Mon 05:31>99.4%
+** DONE Review<2016-10-17 Mon 05:31>99.4%
    CLOSED: [2016-10-17 Mon 05:58]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-17 Mon 05:58]
    CLOCK: [2016-10-17 Mon 05:31]--[2016-10-17 Mon 05:58] =>  0:27
    :END:
-*** DONE Review<2016-10-30 Sun 16:16>97.1%
+** DONE Review<2016-10-30 Sun 16:16>97.1%
    CLOSED: [2016-10-30 Sun 16:44]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-30 Sun 16:44]
    CLOCK: [2016-10-30 Sun 16:16]--[2016-10-30 Sun 16:44] =>  0:28
    :END:
-*** DONE Review<2016-10-30 Sun 17:51>98.8%
+** DONE Review<2016-10-30 Sun 17:51>98.8%
    CLOSED: [2016-10-30 Sun 18:15]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-30 Sun 18:15]
    CLOCK: [2016-10-30 Sun 17:50]--[2016-10-30 Sun 18:15] =>  0:25
    :END:
-*** DONE Review<2016-10-31 Mon 05:56>98.2%
+** DONE Review<2016-10-31 Mon 05:56>98.2%
    CLOSED: [2016-10-31 Mon 06:22]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-31 Mon 06:22]
    CLOCK: [2016-10-31 Mon 05:56]--[2016-10-31 Mon 06:22] =>  0:26
    :END:
-*** DONE Review<2016-11-08 二 05:01>98.3%
+** DONE Review<2016-11-08 二 05:01>98.3%
    CLOSED: [2016-11-08 二 06:12]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-11-08 二 06:12]
    CLOCK: [2016-11-08 二 05:01]--[2016-11-08 二 06:12] =>  1:11
    :END:
-*** DONE Review<2016-11-14 一 06:10>97.4%
+** DONE Review<2016-11-14 一 06:10>97.4%
    CLOSED: [2016-11-15 二 05:25]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-11-15 二 05:25]
    CLOCK: [2016-11-14 一 06:10]--[2016-11-15 二 05:25] => 23:15
    :END:
-*** DONE Review<2017-01-20 五 05:52>97.1%
+** DONE Review<2017-01-20 五 05:52>97.1%
     CLOSED: [2017-01-20 五 06:23]
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2017-01-20 五 06:23]
     CLOCK: [2017-01-20 五 05:52]--[2017-01-20 五 06:23] =>  0:31
     :END:
-*** DONE Writing
+** DONE Writing
     CLOSED: [2017-01-20 五 21:21]
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2017-01-20 五 21:21]
     CLOCK: [2017-01-20 五 06:25]--[2017-01-20 五 21:21] => 14:56
     :END:
-*** DONE Review<2017-01-20 五 21:21>97.5%
+** DONE Review<2017-01-20 五 21:21>97.5%
     CLOSED: [2017-01-20 五 21:45]
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2017-01-20 五 21:45]
     CLOCK: [2017-01-20 五 21:21]--[2017-01-20 五 21:45] =>  0:24
     :END:
-*** DONE Review<2017-01-21 六 06:27>98.5%
+** DONE Review<2017-01-21 六 06:27>98.5%
     CLOSED: [2017-01-21 六 06:52]
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2017-01-21 六 06:52]
     CLOCK: [2017-01-21 六 06:27]--[2017-01-21 六 06:52] =>  0:25
     :END:
-*** DONE Review<2017-01-22 Sun 11:55>98.2%
+** DONE Review<2017-01-22 Sun 11:55>98.2%
     CLOSED: [2017-01-22 Sun 12:18]
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2017-01-22 Sun 12:18]
     CLOCK: [2017-01-22 Sun 11:55]--[2017-01-22 Sun 12:18] =>  0:23
     :END:
+** DONE Review<2017-01-28 六 20:10>98.4%
+   CLOSED: [2017-01-28 六 20:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-28 六 20:33]
+   CLOCK: [2017-01-28 六 20:10]--[2017-01-28 六 20:33] =>  0:23
+   :END:
 ** Lesson fifty
 
 a park a yard a region a bench kindergarten playground
