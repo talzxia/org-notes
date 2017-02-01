@@ -19102,6 +19102,24 @@ He has just come off a difficult assignment.
    - State "DONE"       from "STARTED"    [2016-11-06 日 06:12]
    CLOCK: [2016-11-06 日 05:48]--[2016-11-06 日 06:12] =>  0:24
    :END:
+** DONE Review<2017-02-01 三 15:37>97.9%
+   CLOSED: [2017-02-01 三 16:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-01 三 16:04]
+   CLOCK: [2017-02-01 三 15:37]--[2017-02-01 三 16:04] =>  0:27
+   :END:
+** DONE Writing<2017-02-01 三 18:48>
+   CLOSED: [2017-02-01 三 19:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-01 三 19:29]
+   CLOCK: [2017-02-01 三 18:48]--[2017-02-01 三 19:29] =>  0:41
+   :END:
+** DONE Review<2017-02-01 三 19:45>98.5%
+   CLOSED: [2017-02-01 三 20:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-01 三 20:10]
+   CLOCK: [2017-02-01 三 19:45]--[2017-02-01 三 20:10] =>  0:25
+   :END:
 ** Lesson 42
 a calendar
 a day
@@ -20888,6 +20906,18 @@ In order to open an account, you need to go to the bank.
    - State "DONE"       from "STARTED"    [2016-11-12 Sat 10:49]
    CLOCK: [2016-11-12 Sat 10:21]--[2016-11-12 Sat 10:49] =>  0:28
    :END:
+** DONE Review<2017-02-01 三 07:11>96.6%
+   CLOSED: [2017-02-01 三 07:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-01 三 07:43]
+   CLOCK: [2017-02-01 三 07:11]--[2017-02-01 三 07:43] =>  0:32
+   :END:
+** DONE Writing <2017-02-01 三 10:21>
+   CLOSED: [2017-02-01 三 10:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-01 三 10:21]
+   CLOCK: [2017-02-01 三 09:28]--[2017-02-01 三 10:21] =>  0:53
+   :END:
 ** Lesson 43
 a post offcie a mailbox a postman an ATM a credit car a post office a bank
 
@@ -21945,6 +21975,18 @@ The woman has a stomachache.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-01-31 二 21:40]
    CLOCK: [2017-01-31 二 21:18]--[2017-01-31 二 21:40] =>  0:22
+   :END:
+** DONE Writing<2017-02-01 三 05:20>
+   CLOSED: [2017-02-01 三 06:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-01 三 06:37]
+   CLOCK: [2017-02-01 三 05:36]--[2017-02-01 三 06:37] =>  1:01
+   :END:
+** DONE Review<2017-02-01 三 06:37>98.5%
+   CLOSED: [2017-02-01 三 06:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-01 三 06:59]
+   CLOCK: [2017-02-01 三 06:37]--[2017-02-01 三 06:59] =>  0:22
    :END:
 ** Lesson 44
 a bandage vitamins a syringe aspirin a thermometer medicine

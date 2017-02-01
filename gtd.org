@@ -3513,6 +3513,27 @@ crm cra
    CLOCK: [2017-01-29 日 06:38]--[2017-01-29 日 09:07] =>  2:29
    :END:
 
+** DONE [#B] go to sister's home and eat lunch
+   CLOSED: [2017-02-01 三 15:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-01 三 15:36]
+   CLOCK: [2017-02-01 三 10:58]--[2017-02-01 三 15:36] =>  4:38
+   :END:
+
+** DONE [#B]bring water for family
+   CLOSED: [2017-02-01 三 16:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-01 三 16:45]
+   CLOCK: [2017-02-01 三 16:05]--[2017-02-01 三 16:45] =>  0:40
+   :END:
+
+** DONE [#B]看望任淑君老师
+   CLOSED: [2017-02-01 三 18:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-01 三 18:15]
+   CLOCK: [2017-02-01 三 16:51]--[2017-02-01 三 18:15] =>  1:24
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
