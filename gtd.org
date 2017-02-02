@@ -3534,6 +3534,46 @@ crm cra
    CLOCK: [2017-02-01 三 16:51]--[2017-02-01 三 18:15] =>  1:24
    :END:
 
+** DONE [#B]relax and listen to music
+   CLOSED: [2017-02-02 四 08:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-02 四 08:29]
+   CLOCK: [2017-02-02 四 07:25]--[2017-02-02 四 07:40] =>  0:15
+   :END:
+
+** DONE [#B]go home and eat breakfast
+   CLOSED: [2017-02-02 四 08:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-02 四 08:29]
+   CLOCK: [2017-02-02 四 07:40]--[2017-02-02 四 08:29] =>  0:49
+   :END:
+
+** DONE [#B]relax and listen to music
+   CLOSED: [2017-02-02 四 09:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-02 四 09:21]
+   CLOCK: [2017-02-02 四 08:57]--[2017-02-02 四 09:21] =>  0:24
+   :END:
+
+** DONE [#B]washing my car
+   CLOSED: [2017-02-02 四 12:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-02 四 12:05]
+   CLOCK: [2017-02-02 四 10:00]--[2017-02-02 四 12:05] =>  2:05
+   :END:
+
+** STARTED [#B]relax and listen to music
+   :LOGBOOK:
+   CLOCK: [2017-02-02 四 14:45]--[2017-02-02 四 19:36] =>  4:51
+   :END:
+
+** DONE [#B]reading English
+   CLOSED: [2017-02-02 四 21:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-02 四 21:40]
+   CLOCK: [2017-02-02 四 20:29]--[2017-02-02 四 21:40] =>  1:11
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标

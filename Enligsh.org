@@ -17571,6 +17571,24 @@ a coin washing machine.
    - State "DONE"       from "STARTED"    [2016-12-25 日 05:14]
    CLOCK: [2016-12-25 日 04:44]--[2016-12-25 日 05:14] =>  0:30
    :END:
+** DONE Review<2017-02-02 四 09:22>97.5%
+   CLOSED: [2017-02-02 四 09:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-02 四 09:50]
+   CLOCK: [2017-02-02 四 09:22]--[2017-02-02 四 09:50] =>  0:28
+   :END:
+** DONE Review<2017-02-02 四 14:16>98.2%
+   CLOSED: [2017-02-02 四 14:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-02 四 14:43]
+   CLOCK: [2017-02-02 四 14:16]--[2017-02-02 四 14:43] =>  0:27
+   :END:
+** DONE Writing<2017-02-02 四 19:36>
+   CLOSED: [2017-02-02 四 20:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-02 四 20:27]
+   CLOCK: [2017-02-02 四 19:36]--[2017-02-02 四 20:27] =>  0:51
+   :END:
 ** Lesson 40
 soap a bucket detergent laundry detergent a cloth a brush
 
@@ -18425,6 +18443,24 @@ The man is cleaning up the table.
    - State "DONE"       from "STARTED"    [2016-11-04 五 21:22]
    CLOCK: [2016-11-04 五 20:59]--[2016-11-04 五 21:22] =>  0:23
    :END:
+** DONE Review<2017-02-02 四 06:02>98.8%
+   CLOSED: [2017-02-02 四 06:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-02 四 06:28]
+   CLOCK: [2017-02-02 四 06:02]--[2017-02-02 四 06:28] =>  0:26
+   :END:
+** DONE Writing<2017-02-02 四 06:44>
+   CLOSED: [2017-02-02 四 07:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-02 四 07:24]
+   CLOCK: [2017-02-02 四 06:44]--[2017-02-02 四 07:24] =>  0:40
+   :END:
+** DONE Review<2017-02-02 四 08:31>99.3%
+   CLOSED: [2017-02-02 四 08:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-02 四 08:55]
+   CLOCK: [2017-02-02 四 08:31]--[2017-02-02 四 08:55] =>  0:24
+   :END:
 ** Lesson 41
 a pen
 a pencil
@@ -19115,7 +19151,7 @@ He has just come off a difficult assignment.
    CLOCK: [2017-02-01 三 18:48]--[2017-02-01 三 19:29] =>  0:41
    :END:
 ** DONE Review<2017-02-01 三 19:45>98.5%
-   CLOSED: [2017-02-01 三 20:10]
+   CLOSED: [2017-02-01三 20:10]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-01 三 20:10]
    CLOCK: [2017-02-01 三 19:45]--[2017-02-01 三 20:10] =>  0:25
