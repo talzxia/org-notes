@@ -17589,6 +17589,24 @@ a coin washing machine.
    - State "DONE"       from "STARTED"    [2017-02-02 四 20:27]
    CLOCK: [2017-02-02 四 19:36]--[2017-02-02 四 20:27] =>  0:51
    :END:
+** DONE Review<2017-02-03 五 05:47>99.3%
+   CLOSED: [2017-02-03 五 06:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-03 五 06:17]
+   CLOCK: [2017-02-03 五 05:47]--[2017-02-03 五 06:17] =>  0:30
+   :END:
+** DONE Wrting<2017-02-03 五 15:13>
+   CLOSED: [2017-02-03 五 16:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-03 五 16:11]
+   CLOCK: [2017-02-03 五 15:13]--[2017-02-03 五 16:11] =>  0:58
+   :END:
+** DONE Review<2017-02-03 五 16:52>99.2%
+   CLOSED: [2017-02-03 五 17:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-03 五 17:18]
+   CLOCK: [2017-02-03 五 16:52]--[2017-02-03 五 17:18] =>  0:26
+   :END:
 ** Lesson 40
 soap a bucket detergent laundry detergent a cloth a brush
 
@@ -17840,7 +17858,9 @@ n. 清洁剂；去垢剂
 
 detergent /dɪˈtɜːdʒənt/  CET6+ TEM4
 
-N-MASS Detergent is a chemical substance, usually in the form of a powder or liquid, which is used for washing things such as clothes or dishes. 清洁剂
+N-MASS Detergent is a chemical substance, usually in the form of a powder or
+liquid, which is used for washing things such as clothes or dishes. 清洁剂
+
 
 
 
@@ -17936,7 +17956,10 @@ vi. 刷；擦过；掠过；（经过时）轻触
 
 brush /brʌʃ/  CET4 TEM4
 
-N-COUNT A brush is an object that has a large number of bristles or hairs fixed to it. You use brushes for painting, for cleaning things, and for making your hair neat. 画笔; 刷子
+N-COUNT A brush is an object that has a large number of bristles or hairs fixed
+to it. You use brushes for painting, for cleaning things, and for making your
+hair neat. 画笔; 刷子
+
 
 例：
 
@@ -20953,6 +20976,12 @@ In order to open an account, you need to go to the bank.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-01 三 10:21]
    CLOCK: [2017-02-01 三 09:28]--[2017-02-01 三 10:21] =>  0:53
+   :END:
+** DONE Review<2017-02-03 五 19:55>99.0%
+   CLOSED: [2017-02-03 五 20:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-03 五 20:23]
+   CLOCK: [2017-02-03 五 19:54]--[2017-02-03 五 20:23] =>  0:29
    :END:
 ** Lesson 43
 a post offcie a mailbox a postman an ATM a credit car a post office a bank
@@ -28069,6 +28098,12 @@ A child should help his parents.
    - State "DONE"       from "STARTED"    [2017-01-28 六 21:29]
    CLOCK: [2017-01-28 六 21:10]--[2017-01-28 六 21:29] =>  0:19
    :END:
+** DONE Review<2017-02-03 五 20:29>98.5%
+   CLOSED: [2017-02-03 五 20:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-03 五 20:50]
+   CLOCK: [2017-02-03 五 20:29]--[2017-02-03 五 20:50] =>  0:21
+   :END:
 ** Lesson forty nine
 a city a capital an emblem a building a flag a country
 
@@ -29969,3 +30004,5 @@ amming
 
  Literacy is traditionally understood as the ability to read and write. The term's meaning has been expanded to include the ability to use language, numbers, images and other means to understand and use the dominant symbol systems of a culture. The concept of literacy is expanding in OECD countries to include skills to access knowledge through technology and ability to assess complex contexts.Literacy represents the lifelong, intellectual process of gaining meaning from a critical interpretation of written or printed text. The key to all literacy is reading development, a progression of skills that begins with the ability to understand spoken words and decode written words, and culminates in the deep understanding of text. Reading development involves a range of complex language underpinnings including awareness of speech sounds (phonology), spelling patterns (orthography), word meaning (semantics), grammar (syntax) and patterns of word formation (morphology), all of which provide a necessary platform for reading fluency and comprehension. Once these skills are acquired, the reader can attain full language literacy, which includes the abilities to apply to printed material critical analysis, inference and synthesis; to write with accuracy and coherence; and to use information and insights from text as the basis for informed decisions and creative thought. The inability to do so is called illiteracy or analphabetism.The United Nations Educational, Scientific and Cultural Organization (UNESCO) defines literacy as the "ability to identify, understand, interpret, create, communicate and compute, using printed and written materials associated with varying contexts. Literacy involves a continuum of learning in enabling individuals to achieve their goals, to develop their knowledge and potential, and to participate fully in their community and wider society".
  来源于：维基百科
+
+* DONE Wrting<2017-02-03 五 15:13>

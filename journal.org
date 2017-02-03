@@ -2737,6 +2737,22 @@ today is springday.
      :LOGBOOK:
      CLOCK: [2017-02-02 四 08:30]--[2017-02-02 四 08:31] =>  0:01
      :END:
+*** 2017-02-03 星期五
+
+**** STARTED arrive office and begin to learn<2017-02-03 五 04:55>
+     :LOGBOOK:
+     CLOCK: [2017-02-03 五 04:55]--[2017-02-03 五 05:47] =>  0:52
+     :END:
+
+**** STARTED arrive office and to learn
+     :LOGBOOK:
+     - State "STARTED"    from "DONE"       [2017-02-03 五 15:12]
+     CLOCK: [2017-02-03 五 15:12]--[2017-02-03 五 15:13] =>  0:01
+     - State "DONE"       from "STARTED"    [2017-02-03 五 09:00]
+     CLOCK: [2017-02-03 五 08:19]--[2017-02-03 五 08:31] =>  0:12
+     :END:
+
+****arrive office and begin to learn
 
 * 2017-01-21 星期六
 
