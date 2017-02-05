@@ -3741,11 +3741,56 @@ crm cra
    CLOCK: [2017-02-03 五 17:23]--[2017-02-03 五 19:52] =>  2:29
    :END:
 
-** STARTED [#B] relax
+** DONE [#B] relax
+   CLOSED: [2017-02-04 六 06:48]
    :LOGBOOK:
-   CLOCK: [2017-02-03 五 20:52]
+   - State "DONE"       from "STARTED"    [2017-02-04 六 06:48]
+   CLOCK: [2017-02-03 五 20:52]--[2017-02-03 五 21:09] =>  0:17
    :END:
 
+** DONE [#B] relax
+   CLOSED: [2017-02-05 日 06:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-05 日 06:33]
+   CLOCK: [2017-02-04 六 16:21]--[2017-02-04 六 21:12] =>  4:51
+   :END:
+
+** DONE [#B] read aloud 40,41
+   CLOSED: [2017-02-05 日 06:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-05 日 06:32]
+   CLOCK: [2017-02-05 日 06:00]--[2017-02-05 日 06:32] =>  0:32
+   :END:
+
+** DONE [#B] relax and listen to musci
+   CLOSED: [2017-02-05 日 08:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-05 日 08:31]
+   CLOCK: [2017-02-05 日 07:06]--[2017-02-05 日 08:31] =>  1:25
+   :END:
+
+** DONE [#B] relax and listen to happy music
+   CLOSED: [2017-02-05 日 10:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-05 日 10:24]
+   CLOCK: [2017-02-05 日 09:46]--[2017-02-05 日 10:24] =>  0:38
+   :END:
+
+** DONE [#B]接老人，招待同学
+   CLOSED: [2017-02-05 日 18:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-05 日 18:10]
+   CLOCK: [2017-02-05 日 10:25]--[2017-02-05 日 18:10] =>  7:45
+   :END:
+小锋、化杰、小雷来看老人。
+
+** DONE [#B] free learn and browse
+   CLOSED: [2017-02-05 日 20:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-05 日 20:59]
+   CLOCK: [2017-02-05 日 18:12]--[2017-02-05 日 20:59] =>  2:47
+   :END:
+看终结者一遍，有些词能听出来了。
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
