@@ -3791,6 +3791,31 @@ crm cra
    CLOCK: [2017-02-05 日 18:12]--[2017-02-05 日 20:59] =>  2:47
    :END:
 看终结者一遍，有些词能听出来了。
+
+** DONE [#B] read aloud<2017-02-06 一 05:20>42,41,40
+   CLOSED: [2017-02-06 一 07:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-06 一 07:50]
+   - State "STARTED"    from "DONE"       [2017-02-06 一 07:43]
+   CLOCK: [2017-02-06 一 07:43]--[2017-02-06 一 07:50] =>  0:07
+   - State "DONE"       from "STARTED"    [2017-02-06 一 06:50]
+   CLOCK: [2017-02-06 一 05:33]--[2017-02-06 一 06:50] =>  1:17
+   :END:
+
+** DONE [#B]relax and browse
+   CLOSED: [2017-02-06 一 09:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-06 一 09:14]
+   CLOCK: [2017-02-06 一 08:18]--[2017-02-06 一 09:14] =>  0:56
+   :END:
+
+** DONE [#B]relax and free learn
+   CLOSED: [2017-02-06 一 15:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-06 一 15:59]
+   CLOCK: [2017-02-06 一 09:23]--[2017-02-06 一 15:59] =>  6:36
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
