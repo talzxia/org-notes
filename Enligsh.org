@@ -21025,6 +21025,19 @@ In order to open an account, you need to go to the bank.
    - State "DONE"       from "STARTED"    [2017-02-06 一 19:58]
    CLOCK: [2017-02-06 一 19:29]--[2017-02-06 一 19:58] =>  0:29
    :END:
+** DONE Read aloud<2017-02-07 二 05:19>
+   CLOSED: [2017-02-07 二 05:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-07 二 05:57]
+   CLOCK: [2017-02-07 二 05:19]--[2017-02-07 二 05:57] =>  0:38
+   :END:
+** DONE Review<2017-02-07 二 05:57>98.9%
+   CLOSED: [2017-02-07 Tue 06:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-07 Tue 06:32]
+   CLOCK: [2017-02-07 二 05:57]--[2017-02-07 Tue 06:32] =>  0:35
+
+   :END:
 ** Lesson 43
 a post offcie a mailbox a postman an ATM a credit car a post office a bank
 
@@ -22095,6 +22108,18 @@ The woman has a stomachache.
    - State "DONE"       from "STARTED"    [2017-02-01 三 06:59]
    CLOCK: [2017-02-01 三 06:37]--[2017-02-01 三 06:59] =>  0:22
    :END:
+** DONE Review<2017-02-07 二 08:21>95.5%
+   CLOSED: [2017-02-07 二 08:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-07 二 08:52]
+   CLOCK: [2017-02-07 二 08:21]--[2017-02-07 二 08:52] =>  0:31
+   :END:
+** DONE study words<2017-02-07 Tue 19:14>99.1%
+   CLOSED: [2017-02-07 Tue 19:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-07 Tue 19:56]
+   CLOCK: [2017-02-07 Tue 19:14]--[2017-02-07 Tue 19:56] =>  0:42
+   :END:
 ** Lesson 44
 a bandage vitamins a syringe aspirin a thermometer medicine
 
@@ -22282,6 +22307,12 @@ Why do the man's eyes hurt? He works a lot on the computer.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-01-31 二 07:22]
    CLOCK: [2017-01-31 二 07:04]--[2017-01-31 二 07:22] =>  0:18
+   :END:
+** DONE Review<2017-02-07 Tue 21:02>98.4%
+   CLOSED: [2017-02-07 Tue 21:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-07 Tue 21:21]
+   CLOCK: [2017-02-07 Tue 21:02]--[2017-02-07 Tue 21:21] =>  0:19
    :END:
 ** Lesson 45
 a child a teenager an elderly man an eldery woman an adult an elderly people
