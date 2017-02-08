@@ -17613,6 +17613,12 @@ a coin washing machine.
    - State "DONE"       from "STARTED"    [2017-02-05 日 07:02]
    CLOCK: [2017-02-05 日 06:35]--[2017-02-05 日 07:02] =>  0:27
    :END:
+** DONE Review<2017-02-08 Wed 20:34>99.5%
+   CLOSED: [2017-02-08 Wed 21:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-08 Wed 21:01]
+   CLOCK: [2017-02-08 Wed 20:34]--[2017-02-08 Wed 21:01] =>  0:27
+   :END:
 ** Lesson 40
 soap a bucket detergent laundry detergent a cloth a brush
 
@@ -18508,6 +18514,12 @@ The man is cleaning up the table.
    - State "DONE"       from "STARTED"    [2017-02-05 日 08:55]
    CLOCK: [2017-02-05 日 08:31]--[2017-02-05 日 08:55] =>  0:24
    :END:
+** DONE Review<2017-02-08 Wed 20:09>98.9%
+   CLOSED: [2017-02-08 Wed 20:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-08 Wed 20:33]
+   CLOCK: [2017-02-08 Wed 20:09]--[2017-02-08 Wed 20:33] =>  0:24
+   :END:
 ** Lesson 41
 a pen
 a pencil
@@ -19209,6 +19221,13 @@ He has just come off a difficult assignment.
    - State "DONE"       from "STARTED"    [2017-02-05 日 09:41]
    CLOCK: [2017-02-05 日 09:16]--[2017-02-05 日 09:41] =>  0:25
    :END:
+** DONE Review<2017-02-08 Wed 17:44>99.3%
+   CLOSED: [2017-02-08 Wed 18:09]
+ :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-08 Wed 18:09]
+   CLOCK: [2017-02-08 Wed 17:44]--[2017-02-08 Wed 18:09] =>  0:25
+   :END:
+
 ** Lesson 42
 a calendar
 a day
@@ -22120,6 +22139,24 @@ The woman has a stomachache.
    - State "DONE"       from "STARTED"    [2017-02-07 Tue 19:56]
    CLOCK: [2017-02-07 Tue 19:14]--[2017-02-07 Tue 19:56] =>  0:42
    :END:
+** DONE Writing<2017-02-08 Wed 05:42>
+   CLOSED: [2017-02-08 Wed 06:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-08 Wed 06:36]
+   CLOCK: [2017-02-08 Wed 05:42]--[2017-02-08 Wed 06:36] =>  0:54
+   :END:
+** DONE Review<2017-02-08 Wed 06:37>99.7%
+   CLOSED: [2017-02-08 Wed 07:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-08 Wed 07:00]
+   CLOCK: [2017-02-08 Wed 06:37]--[2017-02-08 Wed 07:00] =>  0:23
+   :END:
+** DONE Review<2017-02-08 Wed 15:39>98.6%
+   CLOSED: [2017-02-08 Wed 17:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-08 Wed 17:42]
+   CLOCK: [2017-02-08 Wed 15:39]--[2017-02-08 Wed 17:42] =>  2:03
+   :END:
 ** Lesson 44
 a bandage vitamins a syringe aspirin a thermometer medicine
 
@@ -22313,6 +22350,18 @@ Why do the man's eyes hurt? He works a lot on the computer.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-07 Tue 21:21]
    CLOCK: [2017-02-07 Tue 21:02]--[2017-02-07 Tue 21:21] =>  0:19
+   :END:
+** DONE Writing<2017-02-08 Wed 09:42>
+   CLOSED: [2017-02-08 Wed 10:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-08 Wed 10:12]
+   CLOCK: [2017-02-08 Wed 09:41]--[2017-02-08 Wed 10:12] =>  0:31
+   :END:
+** DONE Review<2017-02-08 Wed 10:13>99.6%
+   CLOSED: [2017-02-08 Wed 10:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-08 Wed 10:32]
+   CLOCK: [2017-02-08 Wed 10:13]--[2017-02-08 Wed 10:32] =>  0:19
    :END:
 ** Lesson 45
 a child a teenager an elderly man an eldery woman an adult an elderly people
