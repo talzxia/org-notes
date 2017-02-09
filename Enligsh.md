@@ -2,1152 +2,1503 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgheadline9">1. <span class="done DONE">DONE</span> Lesson one&#xa0;&#xa0;&#xa0;<span class="tag"><span class="one">one</span></span></a>
-<ul>
-<li><a href="#orgheadline1">1.1. text</a></li>
-<li><a href="#orgheadline2">1.2. <span class="done DONE">DONE</span> Review 98.4%</a></li>
-<li><a href="#orgheadline3">1.3. 复习98.7%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="one">one</span></span></a></li>
-<li><a href="#orgheadline4">1.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 五 06:41&gt; </span></span> 99.4%</a></li>
-<li><a href="#orgheadline5">1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 20:33&gt; </span></span> 99.7%</a></li>
-<li><a href="#orgheadline6">1.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 五 15:08&gt;</span></span>99.9%</a></li>
-<li><a href="#orgheadline7">1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 07:08&gt;</span></span>99.9%</a></li>
-<li><a href="#orgheadline8">1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 09:06&gt;</span></span>100%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="LOGBOOK">LOGBOOK</span></span></a></li>
-</ul>
-</li>
-<li><a href="#orgheadline17">2. <span class="done DONE">DONE</span> Lesson two 97.9%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="two">two</span></span></a>
-<ul>
-<li><a href="#orgheadline10">2.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 五 14:25&gt; </span></span> 98.9%</a></li>
-<li><a href="#orgheadline11">2.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 五 15:33&gt;</span></span>98.2%</a></li>
-<li><a href="#orgheadline12">2.3. <span class="done DONE">DONE</span> R#eview <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 03:41&gt; </span></span> 99.2%</a></li>
-<li><a href="#orgheadline13">2.4. text</a></li>
-<li><a href="#orgheadline14">2.5. <span class="done DONE">DONE</span> Review 99%</a></li>
-<li><a href="#orgheadline15">2.6. <span class="done DONE">DONE</span> 复习98.9%</a></li>
-<li><a href="#orgheadline16">2.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 六 18:41&gt;</span></span>100%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline35">3. <span class="done DONE">DONE</span> Lesson three 97.4%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="three">three</span></span></a>
-<ul>
-<li><a href="#orgheadline18">3.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 五 14:41&gt; </span></span> 98.5%</a></li>
-<li><a href="#orgheadline19">3.2. <span class="done DONE">DONE</span> 复习98.3</a></li>
-<li><a href="#orgheadline20">3.3. <span class="done DONE">DONE</span> Review three 97.2%</a></li>
-<li><a href="#orgheadline21">3.4. text</a></li>
-<li><a href="#orgheadline22">3.5. <span class="done DONE">DONE</span> Review 98%</a></li>
-<li><a href="#orgheadline23">3.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 10:00&gt;</span></span>98.8%</a></li>
-<li><a href="#orgheadline24">3.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 05:36&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline25">3.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 05:51&gt;</span></span>99.5%</a></li>
-<li><a href="#orgheadline26">3.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 六 09:39&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline27">3.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 三 07:35&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline28">3.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 四 19:49&gt;</span></span>99.7%</a></li>
-<li><a href="#orgheadline29">3.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 13:55&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline30">3.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 14:15&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline31">3.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 14:31&gt;</span></span>99.9%</a></li>
-<li><a href="#orgheadline32">3.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 19:19&gt;</span></span>99.9%</a></li>
-<li><a href="#orgheadline33">3.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 19:37&gt;</span></span>99.9%</a></li>
-<li><a href="#orgheadline34">3.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 一 10:36&gt;</span></span>100%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline47">4. <span class="done DONE">DONE</span> Lesson four 98%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="four">four</span></span></a>
-<ul>
-<li><a href="#orgheadline36">4.1. <span class="done DONE">DONE</span> 复习98.3%</a></li>
-<li><a href="#orgheadline37">4.2. <span class="done DONE">DONE</span> Review 98.7%</a></li>
-<li><a href="#orgheadline38">4.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 五 16:12&gt; </span></span> 96.1%</a></li>
-<li><a href="#orgheadline39">4.4. <span class="done DONE">DONE</span> Review four 98.3%</a></li>
-<li><a href="#orgheadline40">4.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 10:18&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline41">4.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 09:27&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline42">4.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 10:50&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline43">4.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 06:12&gt;</span></span>99.9%</a></li>
-<li><a href="#orgheadline44">4.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;1970-10-19 一&gt;</span></span>99.8%</a></li>
-<li><a href="#orgheadline45">4.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 20:08&gt;</span></span>100%</a></li>
-<li><a href="#orgheadline46">4.11. text</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline68">5. <span class="done DONE">DONE</span> Lesson five 97.2%</a>
-<ul>
-<li><a href="#orgheadline48">5.1. <span class="done DONE">DONE</span> Review 95.8%&#x2013;&gt;97.6%</a></li>
-<li><a href="#orgheadline49">5.2. <span class="done DONE">DONE</span> Review 96.7%</a></li>
-<li><a href="#orgheadline50">5.3. <span class="done DONE">DONE</span> learn97.7%</a></li>
-<li><a href="#orgheadline51">5.4. <span class="done DONE">DONE</span> Review 97.8%</a></li>
-<li><a href="#orgheadline52">5.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 六 16:12&gt; </span></span> 98%</a></li>
-<li><a href="#orgheadline53">5.6. <span class="done DONE">DONE</span> Review five 97.2%</a></li>
-<li><a href="#orgheadline54">5.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 14:13&gt; </span></span> 97.9%</a></li>
-<li><a href="#orgheadline55">5.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 11:08&gt;</span></span>98.9%</a></li>
-<li><a href="#orgheadline56">5.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 11:36&gt;</span></span>99.2%</a></li>
-<li><a href="#orgheadline57">5.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 15:19&gt;</span></span>99.4%</a></li>
-<li><a href="#orgheadline58">5.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 一 20:05&gt;</span></span>99.7%</a></li>
-<li><a href="#orgheadline59">5.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 20:23&gt;</span></span>99.5%</a></li>
-<li><a href="#orgheadline60">5.13. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-04 二 10:56&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline61">5.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 04:18&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline62">5.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 04:38&gt;</span></span>99.8%</a></li>
-<li><a href="#orgheadline63">5.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 05:03&gt;</span></span>99.5%</a></li>
-<li><a href="#orgheadline64">5.17. text</a></li>
-<li><a href="#orgheadline65">5.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 11:47&gt;</span></span>99.7%</a></li>
-<li><a href="#orgheadline66">5.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 日 16:03&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline67">5.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 日 09:36&gt;</span></span>99.6%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline82">6. <span class="done DONE">DONE</span> Lesson six 99.1% good</a>
-<ul>
-<li><a href="#orgheadline69">6.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 六 16:34&gt; </span></span> 98%</a></li>
-<li><a href="#orgheadline70">6.2. <span class="done DONE">DONE</span> Review six 97.3%</a></li>
-<li><a href="#orgheadline71">6.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 日 06:48&gt;</span></span>98%</a></li>
-<li><a href="#orgheadline72">6.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 五 14:06&gt;</span></span>99.4%</a></li>
-<li><a href="#orgheadline73">6.5. text</a></li>
-<li><a href="#orgheadline74">6.6. <span class="done DONE">DONE</span> learn six 97.4%</a></li>
-<li><a href="#orgheadline75">6.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 17:14&gt;</span></span>98%</a></li>
-<li><a href="#orgheadline76">6.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 15:34&gt;</span></span>99.4%</a></li>
-<li><a href="#orgheadline77">6.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 20:05&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline78">6.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 五 16:13&gt;</span></span>99.7%</a></li>
-<li><a href="#orgheadline79">6.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 15:26&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline80">6.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 15:43&gt;</span></span>99.7%</a></li>
-<li><a href="#orgheadline81">6.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 日 16:00&gt;</span></span>99.4%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline92">7. <span class="done DONE">DONE</span> Lesson seven 97.7%</a>
+<li><a href="#org02e4241">1. <span class="done DONE">DONE</span> Lesson one&#xa0;&#xa0;&#xa0;<span class="tag"><span class="one">one</span></span></a>
 <ul>
-<li><a href="#orgheadline83">7.1. <span class="done DONE">DONE</span> Review 99.1%</a></li>
-<li><a href="#orgheadline84">7.2. <span class="done DONE">DONE</span> Review Seven 97.7%</a></li>
-<li><a href="#orgheadline85">7.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 六 19:20&gt; </span></span> 98%</a></li>
-<li><a href="#orgheadline86">7.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 日 10:03&gt;</span></span>99%</a></li>
-<li><a href="#orgheadline87">7.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 04:49&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline88">7.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 21:01&gt;</span></span>99.7%</a></li>
-<li><a href="#orgheadline89">7.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 日&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline90">7.8. text</a></li>
-<li><a href="#orgheadline91">7.9. <span class="done DONE">DONE</span> Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 18:41&gt;</span></span>99.8%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline103">8. <span class="done DONE">DONE</span> lesson eight 97.9%</a>
-<ul>
-<li><a href="#orgheadline93">8.1. <span class="done DONE">DONE</span> Review 98.4%</a></li>
-<li><a href="#orgheadline94">8.2. <span class="done DONE">DONE</span> Review 99.1%</a></li>
-<li><a href="#orgheadline95">8.3. <span class="done DONE">DONE</span> Review Eight 98.8% very good</a></li>
-<li><a href="#orgheadline96">8.4. <span class="done DONE">DONE</span> Review eight 96.8%</a></li>
-<li><a href="#orgheadline97">8.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 10:38&gt; </span></span> 98.2%</a></li>
-<li><a href="#orgheadline98">8.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 日 12:03&gt;</span></span>98.5%</a></li>
-<li><a href="#orgheadline99">8.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 05:07&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline100">8.8. <span class="done DONE">DONE</span> Review 99.8%</a></li>
-<li><a href="#orgheadline101">8.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 20:56&gt;</span></span>99.7%</a></li>
-<li><a href="#orgheadline102">8.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 四 08:55&gt;</span></span>99.9%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline115">9. <span class="done DONE">DONE</span> Lesson nine 97.6%</a>
+<li><a href="#orgdb80def">1.1. learn history</a>
 <ul>
-<li><a href="#orgheadline105">9.1. <span class="done DONE">DONE</span> Review</a>
-<ul>
-<li><a href="#orgheadline104">9.1.1. text</a></li>
+<li><a href="#orgafdcf55">1.1.1. text</a></li>
+<li><a href="#orga4eca75">1.1.2. <span class="done DONE">DONE</span> Review 98.4%</a></li>
+<li><a href="#orgcfb831f">1.1.3. 复习98.7%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="one">one</span></span></a></li>
+<li><a href="#org7ab51f8">1.1.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 06:41&gt; </span></span> 99.4%</a></li>
+<li><a href="#org95c3c01">1.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 20:33&gt; </span></span> 99.7%</a></li>
+<li><a href="#orgbf346ae">1.1.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 15:08&gt;</span></span>99.9%</a></li>
+<li><a href="#org16b3142">1.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 07:08&gt;</span></span>99.9%</a></li>
+<li><a href="#org4a47da5">1.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 09:06&gt;</span></span>100%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="LOGBOOK">LOGBOOK</span></span></a></li>
+<li><a href="#org4ae9d68">1.1.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 06:30&gt;</span></span>99.4%</a></li>
+<li><a href="#org576d6cd">1.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 06:33&gt;</span></span>99.3%</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline106">9.2. <span class="done DONE">DONE</span> Review Nine 99.0% very good</a></li>
-<li><a href="#orgheadline107">9.3. <span class="done DONE">DONE</span> Review nine 95.9%</a></li>
-<li><a href="#orgheadline108">9.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 11:43&gt; </span></span> 96.7%</a></li>
-<li><a href="#orgheadline109">9.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 日 19:08&gt;</span></span>98.4%</a></li>
-<li><a href="#orgheadline110">9.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 08:17&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline111">9.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 一 19:24&gt;</span></span>99.5%</a></li>
-<li><a href="#orgheadline112">9.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 二 19:53&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline113">9.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 六 14:17&gt;</span></span>99.9%</a></li>
-<li><a href="#orgheadline114">9.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 四 04:41&gt;</span></span>99.9%</a></li>
+<li><a href="#orgceebafa">1.2. Lesson 1</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline124">10. <span class="done DONE">DONE</span> Lesson ten 97.9%</a>
+<li><a href="#orga3abc33">2. <span class="done DONE">DONE</span> Lesson two</a>
 <ul>
-<li><a href="#orgheadline116">10.1. <span class="done DONE">DONE</span> Review 96.3%</a></li>
-<li><a href="#orgheadline117">10.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 15:15&gt; </span></span> 97.6%</a></li>
-<li><a href="#orgheadline118">10.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 日 20:09&gt;</span></span>98.1%</a></li>
-<li><a href="#orgheadline119">10.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 08:46&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline120">10.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 一 19:43&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline121">10.6. text</a></li>
-<li><a href="#orgheadline122">10.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 六 14:35&gt;</span></span>99.7%</a></li>
-<li><a href="#orgheadline123">10.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 四 07:01&gt;</span></span>99.7%</a></li>
+<li><a href="#org1c45111">2.1. learn history</a>
+<ul>
+<li><a href="#org58b64d4">2.1.1. <span class="done DONE">DONE</span> Review 99%</a></li>
+<li><a href="#orgb057c2d">2.1.2. <span class="done DONE">DONE</span> 复习98.9%</a></li>
+<li><a href="#org5ba7fc1">2.1.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 18:41&gt;</span></span>100%</a></li>
+<li><a href="#org23cef3b">2.1.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 06:29&gt;</span></span>99.8%</a></li>
+<li><a href="#org11e73aa">2.1.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 07:05&gt;</span></span>99.4%</a></li>
 </ul>
-</li>
-<li><a href="#orgheadline130">11. <span class="done DONE">DONE</span> Lesson eleven 98.8%</a>
+</li>
+<li><a href="#org02d5d0a">2.2. Lesson 2</a></li>
+</ul>
+</li>
+<li><a href="#orgdb3f141">3. <span class="done DONE">DONE</span> Lesson three 97.4%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="three">three</span></span></a>
+<ul>
+<li><a href="#org48abc4e">3.1. learning history</a>
 <ul>
-<li><a href="#orgheadline125">11.1. <span class="done DONE">DONE</span> Review 98%</a></li>
-<li><a href="#orgheadline126">11.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 16:05&gt;</span></span>98.5%</a></li>
-<li><a href="#orgheadline127">11.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 一 10:27&gt;</span></span>98%</a></li>
-<li><a href="#orgheadline128">11.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 一 17:20&gt;</span></span>99.5%</a></li>
-<li><a href="#orgheadline129">11.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 09:24&gt;</span></span>99.9%</a></li>
+<li><a href="#org9ec13b3">3.1.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 14:41&gt; </span></span> 98.5%</a></li>
+<li><a href="#org35ad1ce">3.1.2. <span class="done DONE">DONE</span> 复习98.3</a></li>
+<li><a href="#orgeaa9a37">3.1.3. <span class="done DONE">DONE</span> Review three 97.2%</a></li>
+<li><a href="#org1074018">3.1.4. text</a></li>
+<li><a href="#org588d66c">3.1.5. <span class="done DONE">DONE</span> Review 98%</a></li>
+<li><a href="#org09dc682">3.1.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 10:00&gt;</span></span>98.8%</a></li>
+<li><a href="#orgfa3485b">3.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 05:36&gt;</span></span>99.1%</a></li>
+<li><a href="#orge622485">3.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 05:51&gt;</span></span>99.5%</a></li>
+<li><a href="#orgfba1b0a">3.1.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 09:39&gt;</span></span>99.6%</a></li>
+<li><a href="#org08ce971">3.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 07:35&gt;</span></span>99.6%</a></li>
+<li><a href="#org24ff083">3.1.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 19:49&gt;</span></span>99.7%</a></li>
+<li><a href="#orga3991ef">3.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 13:55&gt;</span></span>99.3%</a></li>
+<li><a href="#org8eb5a47">3.1.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 14:15&gt;</span></span>99.6%</a></li>
+<li><a href="#org699607f">3.1.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 14:31&gt;</span></span>99.9%</a></li>
+<li><a href="#org7947cc8">3.1.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 19:19&gt;</span></span>99.9%</a></li>
+<li><a href="#org69bfaf2">3.1.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 19:37&gt;</span></span>99.9%</a></li>
+<li><a href="#org3ff499a">3.1.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 10:36&gt;</span></span>100%</a></li>
+<li><a href="#orgf48248b">3.1.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 09:08&gt;</span></span>99.6%</a></li>
+</ul>
+</li>
+<li><a href="#org3b154d2">3.2. Lesson 3</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline142">12. <span class="done DONE">DONE</span> Lesson twelve 98.4%</a>
+<li><a href="#orgd5bc38c">4. <span class="done DONE">DONE</span> Lesson four 98%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="four">four</span></span></a>
 <ul>
-<li><a href="#orgheadline131">12.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 一 18:45&gt;</span></span>97.9%</a></li>
-<li><a href="#orgheadline132">12.2. <span class="done DONE">DONE</span> Review 97.7%</a></li>
-<li><a href="#orgheadline133">12.3. <span class="done DONE">DONE</span> Review twelve 97.5%</a></li>
-<li><a href="#orgheadline134">12.4. <span class="done DONE">DONE</span> Review eleven and twelve</a></li>
-<li><a href="#orgheadline135">12.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 一 17:42&gt;</span></span>99%</a></li>
-<li><a href="#orgheadline136">12.6. <span class="done DONE">DONE</span> Review eleven 98.6%</a></li>
-<li><a href="#orgheadline137">12.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 11:46&gt;</span></span>99.8%</a></li>
-<li><a href="#orgheadline138">12.8. text</a></li>
-<li><a href="#orgheadline139">12.9. words</a></li>
-<li><a href="#orgheadline141">12.10. <span class="done CANCELLED">CANCELLED</span> text</a>
+<li><a href="#orgf7b6c78">4.1. Learning history</a>
 <ul>
-<li><a href="#orgheadline140">12.10.1. words</a></li>
+<li><a href="#orgad38768">4.1.1. <span class="done DONE">DONE</span> 复习98.3%</a></li>
+<li><a href="#org2a40a10">4.1.2. <span class="done DONE">DONE</span> Review 98.7%</a></li>
+<li><a href="#org8fecba3">4.1.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 16:12&gt; </span></span> 96.1%</a></li>
+<li><a href="#orgb9652b6">4.1.4. <span class="done DONE">DONE</span> Review four 98.3%</a></li>
+<li><a href="#org2a67adc">4.1.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 10:18&gt;</span></span>99.3%</a></li>
+<li><a href="#orgc9ba1fa">4.1.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 09:27&gt;</span></span>99.3%</a></li>
+<li><a href="#orge18c23a">4.1.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 10:50&gt;</span></span>99.6%</a></li>
+<li><a href="#org3ebf9e8">4.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 06:12&gt;</span></span>99.9%</a></li>
+<li><a href="#orgdd04e6a">4.1.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;1970-10-19 Mon&gt;</span></span>99.8%</a></li>
+<li><a href="#org72ca5f7">4.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 20:08&gt;</span></span>100%</a></li>
+<li><a href="#org52f6c69">4.1.11. text</a></li>
+<li><a href="#org3bcd85c">4.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 09:57&gt;</span></span>99.7%</a></li>
 </ul>
-</li>
-</ul>
-</li>
-<li><a href="#orgheadline154">13. <span class="done DONE">DONE</span> Lesson thirteen</a>
-<ul>
-<li><a href="#orgheadline143">13.1. <span class="done DONE">DONE</span> Review 98.1%</a></li>
-<li><a href="#orgheadline144">13.2. Lesson thirteen</a></li>
-<li><a href="#orgheadline145">13.3. <span class="done DONE">DONE</span> 复习lesson thirty 98.7%</a></li>
-<li><a href="#orgheadline146">13.4. <span class="done DONE">DONE</span> Review 97.6%</a></li>
-<li><a href="#orgheadline147">13.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 一 20:09&gt; </span></span> 97.9%</a></li>
-<li><a href="#orgheadline148">13.6. text</a></li>
-<li><a href="#orgheadline149">13.7. <span class="done DONE">DONE</span> Review thirteen 97.7%</a></li>
-<li><a href="#orgheadline150">13.8. <span class="done DONE">DONE</span> Revie:98.1%</a></li>
-<li><a href="#orgheadline151">13.9. <span class="done DONE">DONE</span> Review thirteen 97.7%</a></li>
-<li><a href="#orgheadline152">13.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 一 20:50&gt; </span></span> 99.1%</a></li>
-<li><a href="#orgheadline153">13.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 14:52&gt;</span></span>99.7%</a></li>
+</li>
+<li><a href="#org89ea5c1">4.2. Lesson 4</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline166">14. <span class="done DONE">DONE</span> lesson fourteen 98.3</a>
+<li><a href="#org33fcc5e">5. <span class="done DONE">DONE</span> Lesson five 97.2%</a>
 <ul>
-<li><a href="#orgheadline155">14.1. <span class="done DONE">DONE</span> Review fourteen 97.4%</a></li>
-<li><a href="#orgheadline156">14.2. <span class="done DONE">DONE</span> Review fourteen 96.8%</a></li>
-<li><a href="#orgheadline157">14.3. <span class="done DONE">DONE</span> Review fourteen 97.7%</a></li>
-<li><a href="#orgheadline158">14.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 一 20:59&gt; </span></span> 98%</a></li>
-<li><a href="#orgheadline159">14.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 05:20&gt;</span></span>97.5%</a></li>
-<li><a href="#orgheadline160">14.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 20:36&gt;</span></span>98.8%</a></li>
-<li><a href="#orgheadline161">14.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 09:59&gt;</span></span>99.5%</a></li>
-<li><a href="#orgheadline162">14.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 六 09:56&gt;</span></span>99.5%</a></li>
-<li><a href="#orgheadline165">14.9. text</a>
+<li><a href="#org1c87b67">5.1. learning history</a>
 <ul>
-<li><a href="#orgheadline164">14.9.1. words</a></li>
+<li><a href="#org7f7dd3f">5.1.1. <span class="done DONE">DONE</span> Review 95.8%&#x2013;&gt;97.6%</a></li>
+<li><a href="#orgb8195f4">5.1.2. <span class="done DONE">DONE</span> Review 96.7%</a></li>
+<li><a href="#orgda95ad2">5.1.3. <span class="done DONE">DONE</span> learn97.7%</a></li>
+<li><a href="#orgd705413">5.1.4. <span class="done DONE">DONE</span> Review 97.8%</a></li>
+<li><a href="#org93ab0e0">5.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 16:12&gt; </span></span> 98%</a></li>
+<li><a href="#org8ca0e11">5.1.6. <span class="done DONE">DONE</span> Review five 97.2%</a></li>
+<li><a href="#org27c72be">5.1.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 14:13&gt; </span></span> 97.9%</a></li>
+<li><a href="#orga413d52">5.1.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 11:08&gt;</span></span>98.9%</a></li>
+<li><a href="#org6043690">5.1.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 11:36&gt;</span></span>99.2%</a></li>
+<li><a href="#org83d0443">5.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 15:19&gt;</span></span>99.4%</a></li>
+<li><a href="#org00e1d8c">5.1.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 20:05&gt;</span></span>99.7%</a></li>
+<li><a href="#orga56378e">5.1.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 20:23&gt;</span></span>99.5%</a></li>
+<li><a href="#org166b11a">5.1.13. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-04 Tue 10:56&gt;</span></span>99.3%</a></li>
+<li><a href="#orgfca4ee1">5.1.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 04:18&gt;</span></span>99.6%</a></li>
+<li><a href="#org58fa441">5.1.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 04:38&gt;</span></span>99.8%</a></li>
+<li><a href="#orgd1fddba">5.1.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 05:03&gt;</span></span>99.5%</a></li>
+<li><a href="#org9a83087">5.1.17. text</a></li>
+<li><a href="#orgbb14003">5.1.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 11:47&gt;</span></span>99.7%</a></li>
+<li><a href="#orgb88e5f1">5.1.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 16:03&gt;</span></span>99.1%</a></li>
+<li><a href="#org55c76b5">5.1.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 09:36&gt;</span></span>99.6%</a></li>
+<li><a href="#orga3b62ed">5.1.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 19:29&gt;</span></span>99.8%</a></li>
+<li><a href="#org6b3ec44">5.1.22. <span class="todo STARTED">STARTED</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-10 Thu 11:32&gt;</span></span></a></li>
+<li><a href="#orgce1048d">5.1.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 11:59&gt;</span></span>99.3%</a></li>
 </ul>
 </li>
+<li><a href="#orgb83e495">5.2. Lesson 5</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline183">15. <span class="done DONE">DONE</span> Lesson fifteen</a>
+<li><a href="#orgdb6586f">6. <span class="done DONE">DONE</span> Lesson six 99.1% good</a>
 <ul>
-<li><a href="#orgheadline167">15.1. <span class="done DONE">DONE</span> Review 97.3%</a></li>
-<li><a href="#orgheadline168">15.2. <span class="done DONE">DONE</span> Review fifteen 96.8%</a></li>
-<li><a href="#orgheadline169">15.3. <span class="done DONE">DONE</span> Review fifteen 96.5%</a></li>
-<li><a href="#orgheadline170">15.4. <span class="done DONE">DONE</span> Review fifteen 98.1%</a></li>
-<li><a href="#orgheadline171">15.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 02:55&gt;</span></span>99.8%</a></li>
-<li><a href="#orgheadline177">15.6. text</a>
+<li><a href="#org053df0f">6.1. learn history</a>
 <ul>
-<li><a href="#orgheadline172">15.6.1. salt</a></li>
-<li><a href="#orgheadline173">15.6.2. bread</a></li>
-<li><a href="#orgheadline174">15.6.3. Sugar</a></li>
-<li><a href="#orgheadline175">15.6.4. <span class="done DONE">DONE</span> cheese</a></li>
-<li><a href="#orgheadline176">15.6.5. butter</a></li>
+<li><a href="#org548934e">6.1.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 16:34&gt; </span></span> 98%</a></li>
+<li><a href="#orge103898">6.1.2. <span class="done DONE">DONE</span> Review six 97.3%</a></li>
+<li><a href="#org54df323">6.1.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 06:48&gt;</span></span>98%</a></li>
+<li><a href="#org4151652">6.1.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 14:06&gt;</span></span>99.4%</a></li>
+<li><a href="#orgdcbd262">6.1.5. text</a></li>
+<li><a href="#orgf5960c8">6.1.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-29 Thu 05:35&gt;</span></span>99.6%</a></li>
+<li><a href="#orgcff3dd9">6.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 15:53&gt;</span></span>99.7%</a></li>
+<li><a href="#org3059f1c">6.1.8. <span class="done DONE">DONE</span> learn six 97.4%</a></li>
+<li><a href="#org94634f5">6.1.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 17:14&gt;</span></span>98%</a></li>
+<li><a href="#org4602497">6.1.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 15:34&gt;</span></span>99.4%</a></li>
+<li><a href="#orgb411cf9">6.1.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 20:05&gt;</span></span>99.6%</a></li>
+<li><a href="#org2ad625a">6.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 16:13&gt;</span></span>99.7%</a></li>
+<li><a href="#org78c00f2">6.1.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 15:26&gt;</span></span>99.6%</a></li>
+<li><a href="#org88b23f0">6.1.14. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 15:43&gt;</span></span>99.7%</a></li>
+<li><a href="#orgef99164">6.1.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 16:00&gt;</span></span>99.4%</a></li>
+<li><a href="#orgc91d7bc">6.1.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 05:50&gt;</span></span>99.9%</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline178">15.7. words</a></li>
-<li><a href="#orgheadline179">15.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 二 10:10&gt; </span></span> 96.5%</a></li>
-<li><a href="#orgheadline180">15.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 06:15&gt;</span></span>98.1%</a></li>
-<li><a href="#orgheadline181">15.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 07:44&gt;</span></span>97.9%</a></li>
-<li><a href="#orgheadline182">15.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 10:10&gt;</span></span>98.8%</a></li>
+<li><a href="#org19d0641">6.2. Lesson6</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline196">16. Lesson Sixteen</a>
+<li><a href="#orgd810309">7. <span class="done DONE">DONE</span> Lesson seven 97.7%</a>
 <ul>
-<li><a href="#orgheadline186">16.1. <span class="done DONE">DONE</span> Review 97.2%</a>
-<ul>
-<li><a href="#orgheadline184">16.1.1. words</a></li>
-<li><a href="#orgheadline185">16.1.2. text</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline187">16.2. <span class="done DONE">DONE</span> Review sixteen 97.5%</a></li>
-<li><a href="#orgheadline189">16.3. <span class="done DONE">DONE</span> Review sixteen 96.4%</a>
+<li><a href="#org829ab3b">7.1. history</a>
 <ul>
-<li><a href="#orgheadline188">16.3.1. <span class="done DONE">DONE</span> text <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 三 05:39&gt;</span></span></a></li>
-</ul>
-</li>
-<li><a href="#orgheadline190">16.4. <span class="done DONE">DONE</span> write 97.6%</a></li>
-<li><a href="#orgheadline191">16.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 03:35&gt;</span></span>98.8%</a></li>
-<li><a href="#orgheadline192">16.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 16:55&gt;</span></span>98.5%</a></li>
-<li><a href="#orgheadline193">16.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 10:55&gt;</span></span>99.2%</a></li>
-<li><a href="#orgheadline194">16.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 六 10:39&gt;</span></span>98.1%</a></li>
-<li><a href="#orgheadline195">16.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 六 20:50&gt;</span></span>98.5%</a></li>
+<li><a href="#org9c79d17">7.1.1. <span class="done DONE">DONE</span> Review 99.1%</a></li>
+<li><a href="#org792bc14">7.1.2. <span class="done DONE">DONE</span> Review Seven 97.7%</a></li>
+<li><a href="#orgc79177c">7.1.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 19:20&gt; </span></span> 98%</a></li>
+<li><a href="#org66c1c85">7.1.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 10:03&gt;</span></span>99%</a></li>
+<li><a href="#orge59561d">7.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 04:49&gt;</span></span>99.3%</a></li>
+<li><a href="#org90a5ffb">7.1.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 21:01&gt;</span></span>99.7%</a></li>
+<li><a href="#org5a50e05">7.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun&gt;</span></span>99.6%</a></li>
+<li><a href="#org96a39aa">7.1.8. text</a></li>
+<li><a href="#org6bda6bd">7.1.9. <span class="done DONE">DONE</span> Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 18:41&gt;</span></span>99.8%</a></li>
+<li><a href="#orgae2f1bb">7.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 06:37&gt;</span></span>99%</a></li>
+<li><a href="#org1237ccf">7.1.11. <span class="todo TODO">TODO</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 07:53&gt;</span></span>98.8%</a></li>
+<li><a href="#org4c4a054">7.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 08:14&gt;</span></span>99%</a></li>
+<li><a href="#org25aa201">7.1.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:16&gt;</span></span>99.1%</a></li>
+<li><a href="#org016c336">7.1.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 19:50&gt;</span></span>99.5%</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline208">17. Lesson seventeen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-22 三 06:19&gt;</span></span></a>
-<ul>
-<li><a href="#orgheadline197">17.1. <span class="done DONE">DONE</span> Review seventeen 97.6%</a></li>
-<li><a href="#orgheadline198">17.2. <span class="done DONE">DONE</span> Review seventeen 96.8%</a></li>
-<li><a href="#orgheadline199">17.3. <span class="done DONE">DONE</span> Review 96.1%</a></li>
-<li><a href="#orgheadline200">17.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 三 17:01&gt;</span></span>98.1%</a></li>
-<li><a href="#orgheadline201">17.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 19:51&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline202">17.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 04:43&gt;</span></span>98.3%</a></li>
-<li><a href="#orgheadline203">17.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 17:29&gt;</span></span>98.2%</a></li>
-<li><a href="#orgheadline204">17.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 17:48&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline205">17.9. text</a></li>
-<li><a href="#orgheadline206">17.10. words</a></li>
-<li><a href="#orgheadline207">17.11. neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 二&gt;</span></span></a></li>
+<li><a href="#org549a171">7.2. Lesson 7</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline222">18. lesson eighteen</a>
+<li><a href="#org3b4b03c">8. <span class="done DONE">DONE</span> lesson eight 97.9%</a>
 <ul>
-<li><a href="#orgheadline209">18.1. <span class="done DONE">DONE</span> Review 97.2%</a></li>
-<li><a href="#orgheadline210">18.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 三 21:15&gt; </span></span> 96%</a></li>
-<li><a href="#orgheadline211">18.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 三 21:42&gt; </span></span> 97.5%</a></li>
-<li><a href="#orgheadline212">18.4. <span class="done DONE">DONE</span> Review eithteen 97.3%</a></li>
-<li><a href="#orgheadline213">18.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 四 06:37&gt;</span></span>97%</a></li>
-<li><a href="#orgheadline214">18.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 06:41&gt;</span></span>98%</a></li>
-<li><a href="#orgheadline217">18.7. text</a>
+<li><a href="#org5d3f2b2">8.1. history</a>
 <ul>
-<li><a href="#orgheadline215">18.7.1. sweater</a></li>
-<li><a href="#orgheadline216">18.7.2. moustache</a></li>
+<li><a href="#org89e9c9b">8.1.1. <span class="done DONE">DONE</span> Review 98.4%</a></li>
+<li><a href="#orgd0c8262">8.1.2. <span class="done DONE">DONE</span> Review 99.1%</a></li>
+<li><a href="#org313a3de">8.1.3. <span class="done DONE">DONE</span> Review Eight 98.8% very good</a></li>
+<li><a href="#orgd77dfa1">8.1.4. <span class="done DONE">DONE</span> Review eight 96.8%</a></li>
+<li><a href="#orgc52719e">8.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 10:38&gt; </span></span> 98.2%</a></li>
+<li><a href="#orgde97ace">8.1.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 12:03&gt;</span></span>98.5%</a></li>
+<li><a href="#org61a1ff0">8.1.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 05:07&gt;</span></span>99.6%</a></li>
+<li><a href="#org7ae43f2">8.1.8. <span class="done DONE">DONE</span> Review 99.8%</a></li>
+<li><a href="#org9594446">8.1.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 20:56&gt;</span></span>99.7%</a></li>
+<li><a href="#org891c5e0">8.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 08:55&gt;</span></span>99.9%</a></li>
+<li><a href="#org3436dab">8.1.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:30&gt;</span></span>99.1%</a></li>
+<li><a href="#org2be45f8">8.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 07:33&gt;</span></span>98.7%</a></li>
+<li><a href="#orge881362">8.1.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 07:44&gt;</span></span></a></li>
 </ul>
 </li>
-<li><a href="#orgheadline218">18.8. text</a></li>
-<li><a href="#orgheadline219">18.9. <span class="done DONE">DONE</span> Review eithteen 97.9%</a></li>
-<li><a href="#orgheadline220">18.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 四 10:41&gt;</span></span>97.7%</a></li>
-<li><a href="#orgheadline221">18.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 20:19&gt;</span></span>99.1%</a></li>
+<li><a href="#org6e48ef7">8.2. Lesson 8</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline234">19. lesson ninteen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-07 四&gt;</span></span></a>
+<li><a href="#org740b614">9. <span class="done DONE">DONE</span> Lesson nine 97.6%</a>
 <ul>
-<li><a href="#orgheadline223">19.1. <span class="done DONE">DONE</span> Review 96.7%</a></li>
-<li><a href="#orgheadline224">19.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 04:21&gt; </span></span> 96%</a></li>
-<li><a href="#orgheadline225">19.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 四 17:11&gt;</span></span>96.8%</a></li>
-<li><a href="#orgheadline226">19.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 五 06:00&gt;</span></span>98.2%</a></li>
-<li><a href="#orgheadline227">19.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 07:04&gt;</span></span>98.4%</a></li>
-<li><a href="#orgheadline228">19.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 20:48&gt;</span></span>99.8%</a></li>
-<li><a href="#orgheadline229">19.7. text</a></li>
-<li><a href="#orgheadline230">19.8. <span class="done DONE">DONE</span> Review ninteen 97.4</a></li>
-<li><a href="#orgheadline231">19.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 五 10:51&gt;</span></span>98.2%</a></li>
-<li><a href="#orgheadline232">19.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 五 14:42&gt;</span></span>97.8%</a></li>
-<li><a href="#orgheadline233">19.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-10-11 日&gt;</span></span>97.6%</a></li>
+<li><a href="#org46734f6">9.1. history</a>
+<ul>
+<li><a href="#org209a29c">9.1.1. <span class="done DONE">DONE</span> Review Nine 99.0% very good</a></li>
+<li><a href="#org82b9701">9.1.2. <span class="done DONE">DONE</span> Review nine 95.9%</a></li>
+<li><a href="#org746da46">9.1.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 11:43&gt; </span></span> 96.7%</a></li>
+<li><a href="#orgd2be0d8">9.1.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 19:08&gt;</span></span>98.4%</a></li>
+<li><a href="#org17204c5">9.1.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 08:17&gt;</span></span>99.3%</a></li>
+<li><a href="#orgd0bbeb2">9.1.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 19:24&gt;</span></span>99.5%</a></li>
+<li><a href="#org7b2b03e">9.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 19:53&gt;</span></span>99.6%</a></li>
+<li><a href="#orgb403ee8">9.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 14:17&gt;</span></span>99.9%</a></li>
+<li><a href="#orgf7727d5">9.1.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 04:41&gt;</span></span>99.9%</a></li>
+<li><a href="#orgd8389d5">9.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:51&gt;</span></span>98.8%</a></li>
+<li><a href="#orgfb9e42b">9.1.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 08:20&gt;</span></span>99%</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline243">20. <span class="done DONE">DONE</span> lesson twenty</a>
-<ul>
-<li><a href="#orgheadline235">20.1. <span class="done DONE">DONE</span> Review twenty 96.9%</a></li>
-<li><a href="#orgheadline236">20.2. <span class="done DONE">DONE</span> Review 96.8%</a></li>
-<li><a href="#orgheadline237">20.3. <span class="done CANCELLED">CANCELLED</span> MG: <span class="timestamp-wrapper"><span class="timestamp">[2016-09-12 一 13:42]</span></span></a></li>
-<li><a href="#orgheadline238">20.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 13:43&gt;</span></span>98.1%</a></li>
-<li><a href="#orgheadline239">20.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 18:30&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline240">20.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 11:44&gt;</span></span>99.5%</a></li>
-<li><a href="#orgheadline241">20.7. text</a></li>
-<li><a href="#orgheadline242">20.8. <span class="done DONE">DONE</span> Review twenty 96.8%</a></li>
+<li><a href="#org083697d">9.2. Lesson 9</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline255">21. <span class="done DONE">DONE</span> lesson twenty one</a>
+<li><a href="#org1c4bef2">10. <span class="done DONE">DONE</span> Lesson ten 97.9%</a>
 <ul>
-<li><a href="#orgheadline244">21.1. <span class="done DONE">DONE</span> Review twenty one 97.7%</a></li>
-<li><a href="#orgheadline245">21.2. <span class="done DONE">DONE</span> Review 96.1%</a></li>
-<li><a href="#orgheadline246">21.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 19:01&gt; </span></span> 98.1%</a></li>
-<li><a href="#orgheadline247">21.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 三 20:22&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline248">21.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 15:19&gt;</span></span>99.7%</a></li>
-<li><a href="#orgheadline249">21.6. text</a></li>
-<li><a href="#orgheadline253">21.7. words</a>
+<li><a href="#orgc322f09">10.1. history</a>
 <ul>
-<li><a href="#orgheadline250">21.7.1. gown</a></li>
-<li><a href="#orgheadline251">21.7.2. patient</a></li>
-<li><a href="#orgheadline252">21.7.3. couch</a></li>
+<li><a href="#org75d0885">10.1.1. <span class="done DONE">DONE</span> Review 96.3%</a></li>
+<li><a href="#orgcd2e875">10.1.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 15:15&gt; </span></span> 97.6%</a></li>
+<li><a href="#org364c8f5">10.1.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 20:09&gt;</span></span>98.1%</a></li>
+<li><a href="#org45df54b">10.1.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 08:46&gt;</span></span>99.3%</a></li>
+<li><a href="#org9321b96">10.1.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 19:43&gt;</span></span>99.6%</a></li>
+<li><a href="#org0442233">10.1.6. text</a></li>
+<li><a href="#org7df5b86">10.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 14:35&gt;</span></span>99.7%</a></li>
+<li><a href="#org6980e2c">10.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 07:01&gt;</span></span>99.7%</a></li>
+<li><a href="#org7215c69">10.1.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 07:23&gt;</span></span>99.3%</a></li>
+<li><a href="#org9e2cb5e">10.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 10:23&gt;</span></span>99.7%</a></li>
+<li><a href="#org888ed14">10.1.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 17:25&gt;</span></span>99.6%</a></li>
+<li><a href="#orgd5c443d">10.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 08:07&gt;</span></span>98.7%</a></li>
+<li><a href="#org2507efd">10.1.13. <span class="done DONE">DONE</span> Lession 10<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 05:41&gt;</span></span>98.4%</a></li>
+<li><a href="#org172105b">10.1.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 13:24&gt;</span></span>97.1%</a></li>
+<li><a href="#org15f0264">10.1.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 10:30&gt;</span></span>99.3%</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline254">21.8. <span class="done DONE">DONE</span> Review twenty one 96.9%</a></li>
+<li><a href="#org3e73cee">10.2. Lesson 10</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline264">22. <span class="done DONE">DONE</span> lesson twenty two</a>
+<li><a href="#org5dcabf4">11. <span class="done DONE">DONE</span> Lesson eleven 98.8%</a>
 <ul>
-<li><a href="#orgheadline256">22.1. <span class="done DONE">DONE</span> Review twenty two 93.6%</a></li>
-<li><a href="#orgheadline257">22.2. <span class="done DONE">DONE</span> Review twenty two 95.2%</a></li>
-<li><a href="#orgheadline258">22.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 19:31&gt; </span></span> 96.2%</a></li>
-<li><a href="#orgheadline259">22.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 19:41&gt;</span></span>98.8%</a></li>
-<li><a href="#orgheadline260">22.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 六 04:15&gt;</span></span>99%</a></li>
-<li><a href="#orgheadline263">22.6. text</a>
+<li><a href="#orgc7b7126">11.1. history</a>
 <ul>
-<li><a href="#orgheadline262">22.6.1. words</a></li>
+<li><a href="#org5dccc5e">11.1.1. <span class="done DONE">DONE</span> Review 98%</a></li>
+<li><a href="#org9d13f42">11.1.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 16:05&gt;</span></span>98.5%</a></li>
+<li><a href="#org1a35c68">11.1.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 10:27&gt;</span></span>98%</a></li>
+<li><a href="#orgce7d356">11.1.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 17:20&gt;</span></span>99.5%</a></li>
+<li><a href="#org550389a">11.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 09:24&gt;</span></span>99.9%</a></li>
+<li><a href="#org188ab51">11.1.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 20:35&gt;</span></span>98.5%</a></li>
+<li><a href="#orgd52beb2">11.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 18:54&gt;</span></span>98.8%</a></li>
+<li><a href="#orga4f418f">11.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 16:14&gt;</span></span>99.4%</a></li>
 </ul>
 </li>
+<li><a href="#orgbf938b4">11.2. Lesson 11</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline272">23. <span class="done DONE">DONE</span> lesson twenty three</a>
+<li><a href="#org5f5c35a">12. <span class="done DONE">DONE</span> Lesson twelve 98.4%</a>
 <ul>
-<li><a href="#orgheadline265">23.1. <span class="done DONE">DONE</span> Review twenty three 97.1%</a></li>
-<li><a href="#orgheadline266">23.2. <span class="done DONE">DONE</span> review twenty three 94.9%</a></li>
-<li><a href="#orgheadline267">23.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 日 11:19&gt;</span></span>98.9%</a></li>
-<li><a href="#orgheadline268">23.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 日 19:33&gt;</span></span>99.4%</a></li>
-<li><a href="#orgheadline271">23.5. text</a>
+<li><a href="#org85c9c24">12.1. history</a>
 <ul>
-<li><a href="#orgheadline269">23.5.1. traffic jam</a></li>
-<li><a href="#orgheadline270">23.5.2. words</a></li>
+<li><a href="#org8339440">12.1.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 18:45&gt;</span></span>97.9%</a></li>
+<li><a href="#org97b1613">12.1.2. <span class="done DONE">DONE</span> Review 97.7%</a></li>
+<li><a href="#org16491d6">12.1.3. <span class="done DONE">DONE</span> Review twelve 97.5%</a></li>
+<li><a href="#orgc208aaf">12.1.4. <span class="done DONE">DONE</span> Review eleven and twelve</a></li>
+<li><a href="#orgc8827b2">12.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 17:42&gt;</span></span>99%</a></li>
+<li><a href="#org6e28556">12.1.6. <span class="done DONE">DONE</span> Review eleven 98.6%</a></li>
+<li><a href="#orgc0d0af1">12.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 11:46&gt;</span></span>99.8%</a></li>
+<li><a href="#org42ed629">12.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 21:04&gt;</span></span>98.5%</a></li>
+<li><a href="#org55ad1fa">12.1.9. text</a></li>
+<li><a href="#orgec0a628">12.1.10. words</a></li>
+<li><a href="#org3ba891e">12.1.11. <span class="done CANCELLED">CANCELLED</span> text</a></li>
+<li><a href="#org69e495a">12.1.12. words</a></li>
+<li><a href="#orgc24e5d7">12.1.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-26 Mon 03:37&gt;</span></span>99.4%</a></li>
+<li><a href="#org3a0483e">12.1.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 20:02&gt;</span></span>99%</a></li>
+<li><a href="#org040c1c6">12.1.15. <span class="done DONE">DONE</span> writing</a></li>
 </ul>
 </li>
+<li><a href="#org9521db5">12.2. Lesson 12</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline282">24. <span class="done DONE">DONE</span> twenty four</a>
+<li><a href="#orgaa51915">13. <span class="done DONE">DONE</span> Lesson thirteen</a>
 <ul>
-<li><a href="#orgheadline273">24.1. <span class="done DONE">DONE</span> Review twenty four 96.8%</a></li>
-<li><a href="#orgheadline274">24.2. <span class="done DONE">DONE</span> Review twenty four 96.4%</a></li>
-<li><a href="#orgheadline275">24.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 二 11:15&gt;</span></span>98.3%</a></li>
-<li><a href="#orgheadline276">24.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 二 15:00&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline281">24.5. text</a>
+<li><a href="#org30aef94">13.1. history</a>
 <ul>
-<li><a href="#orgheadline280">24.5.1. words</a></li>
+<li><a href="#orgd80ec62">13.1.1. <span class="done DONE">DONE</span> Review 98.1%</a></li>
+<li><a href="#org9cdbe86">13.1.2. Lesson thirteen</a></li>
+<li><a href="#org1011cc5">13.1.3. <span class="done DONE">DONE</span> 复习lesson thirty 98.7%</a></li>
+<li><a href="#orga219804">13.1.4. <span class="done DONE">DONE</span> Review 97.6%</a></li>
+<li><a href="#org5bf9543">13.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 20:09&gt; </span></span> 97.9%</a></li>
+<li><a href="#orgc7b512e">13.1.6. <span class="done DONE">DONE</span> Review thirteen 97.7%</a></li>
+<li><a href="#org184e7d8">13.1.7. <span class="done DONE">DONE</span> Revie:98.1%</a></li>
+<li><a href="#org540dde6">13.1.8. <span class="done DONE">DONE</span> Review thirteen 97.7%</a></li>
+<li><a href="#orga0ec0aa">13.1.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 20:50&gt; </span></span> 99.1%</a></li>
+<li><a href="#orga9d91d4">13.1.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 14:52&gt;</span></span>99.7%</a></li>
+<li><a href="#orgc013475">13.1.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 05:53&gt;</span></span>99.0%</a></li>
+<li><a href="#org8fe30d2">13.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 05:25&gt;</span></span>98.7%</a></li>
+<li><a href="#orgce8a4ad">13.1.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-26 Mon 05:43&gt;</span></span>98.5%</a></li>
+<li><a href="#org7b71d7a">13.1.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 10:52&gt;</span></span>99.4%</a></li>
 </ul>
 </li>
-</ul>
-</li>
-<li><a href="#orgheadline291">25. <span class="done DONE">DONE</span> twenty  five</a>
-<ul>
-<li><a href="#orgheadline283">25.1. <span class="done DONE">DONE</span> Review twenty five 96.6%</a></li>
-<li><a href="#orgheadline284">25.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 09:04&gt; </span></span> 95.8%</a></li>
-<li><a href="#orgheadline285">25.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 一 15:32&gt;</span></span>98.8%</a></li>
-<li><a href="#orgheadline286">25.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 一 19:01&gt;</span></span>99.4%</a></li>
-<li><a href="#orgheadline287">25.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 四 19:16&gt;</span></span>98.9%</a></li>
-<li><a href="#orgheadline288">25.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 五 05:16&gt;</span></span>99.2%</a></li>
-<li><a href="#orgheadline289">25.7. text</a></li>
-<li><a href="#orgheadline290">25.8. words</a></li>
+<li><a href="#org6e061db">13.2. Lesson13</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline306">26. <span class="done DONE">DONE</span> twenty six</a>
+<li><a href="#orgfb37b73">14. <span class="done DONE">DONE</span> lesson fourteen 98.3</a>
 <ul>
-<li><a href="#orgheadline292">26.1. <span class="done DONE">DONE</span> Review twenty six 95.2%</a></li>
-<li><a href="#orgheadline293">26.2. <span class="done DONE">DONE</span> Review twenty six 95.7%</a></li>
-<li><a href="#orgheadline294">26.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 三 04:42&gt;</span></span>97.9%</a></li>
-<li><a href="#orgheadline295">26.4. text</a></li>
-<li><a href="#orgheadline301">26.5. word</a>
+<li><a href="#org283034b">14.1. <span class="done DONE">DONE</span> Review fourteen 97.4%</a></li>
+<li><a href="#org4347980">14.2. <span class="done DONE">DONE</span> Review fourteen 96.8%</a></li>
+<li><a href="#org9fa57da">14.3. <span class="done DONE">DONE</span> Review fourteen 97.7%</a></li>
+<li><a href="#org735d8da">14.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 20:59&gt; </span></span> 98%</a></li>
+<li><a href="#org61a6698">14.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 05:20&gt;</span></span>97.5%</a></li>
+<li><a href="#org3b45991">14.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 20:36&gt;</span></span>98.8%</a></li>
+<li><a href="#org1e2e8fd">14.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 09:59&gt;</span></span>99.5%</a></li>
+<li><a href="#orgd7dcea5">14.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 09:56&gt;</span></span>99.5%</a></li>
+<li><a href="#orge8ef6bd">14.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 20:31&gt;</span></span>99.7%</a></li>
+<li><a href="#org7ab5e6d">14.10. <span class="todo STARTED">STARTED</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 06:02&gt;</span></span>98.1%</a></li>
+<li><a href="#orgc840c4b">14.11. text</a>
 <ul>
-<li><a href="#orgheadline296">26.5.1. tourist</a></li>
-<li><a href="#orgheadline297">26.5.2. tourguide</a></li>
-<li><a href="#orgheadline298">26.5.3. adults</a></li>
-<li><a href="#orgheadline299">26.5.4. port</a></li>
-<li><a href="#orgheadline300">26.5.5. beach</a></li>
+<li><a href="#orgb6a7f44">14.11.1. words</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline302">26.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 三 13:39&gt;</span></span>98.3%</a></li>
-<li><a href="#orgheadline303">26.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 三 18:44&gt;</span></span>98.9%</a></li>
-<li><a href="#orgheadline304">26.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 四 07:05&gt;</span></span>99%</a></li>
-<li><a href="#orgheadline305">26.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 五 05:46&gt;</span></span>99.2%</a></li>
+<li><a href="#org32db19e">14.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-27 Tue 10:36&gt;</span></span>99%</a></li>
+<li><a href="#org2520cfe">14.13. Lesson 14</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline311">27. <span class="done DONE">DONE</span> lesson twenty seven</a>
+<li><a href="#orga313f66">15. <span class="done DONE">DONE</span> Lesson fifteen</a>
 <ul>
-<li><a href="#orgheadline307">27.1. <span class="done DONE">DONE</span> Review twenty seven 95.7%</a></li>
-<li><a href="#orgheadline308">27.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 三 06:08&gt;</span></span>98.6%</a></li>
-<li><a href="#orgheadline309">27.3. text</a></li>
-<li><a href="#orgheadline310">27.4. <span class="done DONE">DONE</span> Review twenty severn 96.6%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline328">28. lesson twenty eight</a>
-<ul>
-<li><a href="#orgheadline312">28.1. <span class="done DONE">DONE</span> Review twenty eight 95.3%</a></li>
-<li><a href="#orgheadline313">28.2. <span class="done DONE">DONE</span> Review twenty eight 93.4</a></li>
-<li><a href="#orgheadline314">28.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 六 05:32&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline315">28.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 六 19:45&gt;</span></span>99.7%</a></li>
-<li><a href="#orgheadline316">28.5. text</a></li>
-<li><a href="#orgheadline327">28.6. workds</a>
+<li><a href="#orgbefd6b1">15.1. <span class="done DONE">DONE</span> Review 97.3%</a></li>
+<li><a href="#org77c8a74">15.2. <span class="done DONE">DONE</span> Review fifteen 96.8%</a></li>
+<li><a href="#org16f5d75">15.3. <span class="done DONE">DONE</span> Review fifteen 96.5%</a></li>
+<li><a href="#orgb6176e8">15.4. <span class="done DONE">DONE</span> Review fifteen 98.1%</a></li>
+<li><a href="#org090bfc9">15.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 02:55&gt;</span></span>99.8%</a></li>
+<li><a href="#org9963620">15.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 08:01&gt;</span></span>98.1%</a></li>
+<li><a href="#org65d245a">15.7. text</a>
 <ul>
-<li><a href="#orgheadline317">28.6.1. mountain</a></li>
-<li><a href="#orgheadline318">28.6.2. forest</a></li>
-<li><a href="#orgheadline319">28.6.3. palm</a></li>
-<li><a href="#orgheadline320">28.6.4. cactus</a></li>
-<li><a href="#orgheadline321">28.6.5. camel</a></li>
-<li><a href="#orgheadline322">28.6.6. swan</a></li>
-<li><a href="#orgheadline323">28.6.7. seagull</a></li>
-<li><a href="#orgheadline324">28.6.8. squirrel</a></li>
-<li><a href="#orgheadline325">28.6.9. parrot</a></li>
-<li><a href="#orgheadline326">28.6.10. fruit</a></li>
+<li><a href="#org09afc10">15.7.1. salt</a></li>
+<li><a href="#orgb672ba6">15.7.2. bread</a></li>
+<li><a href="#org15c9fdd">15.7.3. Sugar</a></li>
+<li><a href="#orge7a987d">15.7.4. <span class="done DONE">DONE</span> cheese</a></li>
+<li><a href="#org7dabde0">15.7.5. butter</a></li>
 </ul>
 </li>
+<li><a href="#orge0f35d0">15.8. words</a></li>
+<li><a href="#orgdc78f1d">15.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 Tue 10:10&gt; </span></span> 96.5%</a></li>
+<li><a href="#org3fbd4fb">15.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 06:15&gt;</span></span>98.1%</a></li>
+<li><a href="#orgf2eeb91">15.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 07:44&gt;</span></span>97.9%</a></li>
+<li><a href="#orgdd045a0">15.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 10:10&gt;</span></span>98.8%</a></li>
+<li><a href="#org5812b26">15.13. Review98.1%</a></li>
+<li><a href="#org7d9cf94">15.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-28 Wed 04:34&gt;</span></span>99.1%</a></li>
+<li><a href="#org4dd73e5">15.15. Lesson 15</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline345">29. lesson twenty nine</a>
+<li><a href="#orgbe28037">16. Lesson Sixteen</a>
 <ul>
-<li><a href="#orgheadline329">29.1. <span class="done DONE">DONE</span> Review twenty nine 96.3%</a></li>
-<li><a href="#orgheadline342">29.2. text</a>
+<li><a href="#org5a3407c">16.1. <span class="done DONE">DONE</span> Review 97.2%</a>
 <ul>
-<li><a href="#orgheadline341">29.2.1. word <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-18 一&gt;</span></span></a></li>
+<li><a href="#org06878ca">16.1.1. words</a></li>
+<li><a href="#orgd221ec8">16.1.2. text</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline343">29.3. <span class="done DONE">DONE</span> Review twenty nine 96%</a></li>
-<li><a href="#orgheadline344">29.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 六 20:05&gt;</span></span>99.4%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline384">30. lesson thirty</a>
-<ul>
-<li><a href="#orgheadline346">30.1. <span class="done DONE">DONE</span> Review thirty 93.9%</a></li>
-<li><a href="#orgheadline347">30.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-25 日 08:18&gt;</span></span>97.2%</a></li>
-<li><a href="#orgheadline348">30.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 一 05:25&gt;</span></span>97.9%</a></li>
-<li><a href="#orgheadline349">30.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 二 05:15&gt;</span></span>98.4%</a></li>
-<li><a href="#orgheadline350">30.5. text</a></li>
-<li><a href="#orgheadline379">30.6. word</a>
+<li><a href="#org1f723d0">16.2. <span class="done DONE">DONE</span> Review sixteen 97.5%</a></li>
+<li><a href="#org5bdee88">16.3. <span class="done DONE">DONE</span> Review sixteen 96.4%</a>
 <ul>
-<li><a href="#orgheadline355">30.6.1. desert</a></li>
-<li><a href="#orgheadline356">30.6.2. permission n 允许，许可</a></li>
-<li><a href="#orgheadline359">30.6.3. pants</a></li>
-<li><a href="#orgheadline360">30.6.4. lap</a></li>
-<li><a href="#orgheadline361">30.6.5. parents</a></li>
-<li><a href="#orgheadline362">30.6.6. customer</a></li>
-<li><a href="#orgheadline363">30.6.7. sale</a></li>
-<li><a href="#orgheadline364">30.6.8. person</a></li>
-<li><a href="#orgheadline365">30.6.9. traffic jam</a></li>
-<li><a href="#orgheadline366">30.6.10. vehicles</a></li>
-<li><a href="#orgheadline367">30.6.11. in order to</a></li>
-<li><a href="#orgheadline368">30.6.12. spectator</a></li>
-<li><a href="#orgheadline369">30.6.13. performance</a></li>
-<li><a href="#orgheadline370">30.6.14. programme</a></li>
-<li><a href="#orgheadline371">30.6.15. though</a></li>
-<li><a href="#orgheadline372">30.6.16. even though</a></li>
-<li><a href="#orgheadline373">30.6.17. although</a></li>
-<li><a href="#orgheadline374">30.6.18. would rather 宁愿，宁可</a></li>
-<li><a href="#orgheadline375">30.6.19. celebrate</a></li>
-<li><a href="#orgheadline376">30.6.20. across from</a></li>
-<li><a href="#orgheadline377">30.6.21. instead</a></li>
-<li><a href="#orgheadline378">30.6.22. boring</a></li>
+<li><a href="#orgac963f3">16.3.1. <span class="done DONE">DONE</span> text <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 05:39&gt;</span></span></a></li>
 </ul>
 </li>
-<li><a href="#orgheadline380">30.7. <span class="done DONE">DONE</span> Review thirty 95.8% &#x2013;&gt;96.9%</a></li>
-<li><a href="#orgheadline381">30.8. across</a></li>
-<li><a href="#orgheadline382">30.9. cross</a></li>
-<li><a href="#orgheadline383">30.10. lap</a></li>
+<li><a href="#org10669d9">16.4. <span class="done DONE">DONE</span> write 97.6%</a></li>
+<li><a href="#orge3e56a0">16.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 03:35&gt;</span></span>98.8%</a></li>
+<li><a href="#orgbcbd3eb">16.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 16:55&gt;</span></span>98.5%</a></li>
+<li><a href="#orgd1249d1">16.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 10:55&gt;</span></span>99.2%</a></li>
+<li><a href="#org8d68087">16.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 10:39&gt;</span></span>98.1%</a></li>
+<li><a href="#org3ea9d29">16.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 20:50&gt;</span></span>98.5%</a></li>
+<li><a href="#orgfd79f21">16.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 17:23&gt;</span></span>98.3%</a></li>
+<li><a href="#orga35fd90">16.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 19:45&gt;</span></span>98.9%</a></li>
+<li><a href="#org639b82b">16.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 08:19&gt;</span></span>97.6%</a></li>
+<li><a href="#orgfa920ca">16.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-19 Thu 16:14&gt;</span></span>97.1%</a></li>
+<li><a href="#orgec27ae5">16.14. lesson 16</a></li>
+<li><a href="#org8cb6213">16.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-30 Fri 05:30&gt;</span></span>98.8%</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline391">31. <span class="done DONE">DONE</span> Lesson thirty one 95%</a>
+<li><a href="#orgefb86d7">17. Lesson seventeen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-22 Wed 06:19&gt;</span></span></a>
 <ul>
-<li><a href="#orgheadline385">31.1. <span class="done DONE">DONE</span> 复习 95.0%</a></li>
-<li><a href="#orgheadline386">31.2. <span class="done DONE">DONE</span> 复习96.2%</a></li>
-<li><a href="#orgheadline387">31.3. <span class="done DONE">DONE</span> Review thirty one 94.8%</a></li>
-<li><a href="#orgheadline388">31.4. <span class="done DONE">DONE</span> Review Thirty one 95.3%-&gt;94.9%</a></li>
-<li><a href="#orgheadline389">31.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 二 16:20&gt;</span></span>97.6%</a></li>
-<li><a href="#orgheadline390">31.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 三 05:00&gt;</span></span>99.4%</a></li>
+<li><a href="#orgec95290">17.1. <span class="done DONE">DONE</span> Review seventeen 97.6%</a></li>
+<li><a href="#org4ffcd97">17.2. <span class="done DONE">DONE</span> Review seventeen 96.8%</a></li>
+<li><a href="#orgd99e345">17.3. <span class="done DONE">DONE</span> Review 96.1%</a></li>
+<li><a href="#org4bb7910">17.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 17:01&gt;</span></span>98.1%</a></li>
+<li><a href="#org516912c">17.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 19:51&gt;</span></span>99.1%</a></li>
+<li><a href="#org2142efc">17.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 04:43&gt;</span></span>98.3%</a></li>
+<li><a href="#orgc1ceb1b">17.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 17:29&gt;</span></span>98.2%</a></li>
+<li><a href="#org74747de">17.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 17:48&gt;</span></span>99.6%</a></li>
+<li><a href="#org63a0a38">17.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 18:49&gt;</span></span>97.6%</a></li>
+<li><a href="#orgc12a7eb">17.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-31 Sat 15:19&gt;</span></span>98.6%</a></li>
+<li><a href="#orgbb55b33">17.11. Lesson 17</a></li>
+<li><a href="#org4756edf">17.12. text</a></li>
+<li><a href="#org074af59">17.13. words</a></li>
+<li><a href="#orgda8e524">17.14. neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 Tue&gt;</span></span></a></li>
 </ul>
 </li>
-<li><a href="#orgheadline406">32. <span class="done DONE">DONE</span> Lesson thirty two 96.2%</a>
+<li><a href="#orga84f37a">18. lesson eighteen</a>
 <ul>
-<li><a href="#orgheadline392">32.1. <span class="done DONE">DONE</span> Review thirty two 95.5%</a></li>
-<li><a href="#orgheadline398">32.2. text</a>
+<li><a href="#org3135562">18.1. <span class="done DONE">DONE</span> Review 97.2%</a></li>
+<li><a href="#org5151eb8">18.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 21:15&gt; </span></span> 96%</a></li>
+<li><a href="#org2df42a5">18.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 21:42&gt; </span></span> 97.5%</a></li>
+<li><a href="#orgfed2f03">18.4. <span class="done DONE">DONE</span> Review eithteen 97.3%</a></li>
+<li><a href="#org6701e86">18.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 06:37&gt;</span></span>97%</a></li>
+<li><a href="#org4d86ef8">18.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 06:41&gt;</span></span>98%</a></li>
+<li><a href="#orgd7459b9">18.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-01 Sun 05:44&gt;</span></span>90%</a></li>
+<li><a href="#orgae3abab">18.8. Lesson18</a></li>
+<li><a href="#orgc6cc309">18.9. text</a>
 <ul>
-<li><a href="#orgheadline393">32.2.1. a reception desk</a></li>
-<li><a href="#orgheadline394">32.2.2. a receptionist</a></li>
-<li><a href="#orgheadline395">32.2.3. to wash up</a></li>
-<li><a href="#orgheadline396">32.2.4. to offer</a></li>
-<li><a href="#orgheadline397">32.2.5. to take a shower 洗澡</a></li>
+<li><a href="#org7ab286c">18.9.1. sweater</a></li>
+<li><a href="#orgce2d104">18.9.2. moustache</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline399">32.3. <span class="done DONE">DONE</span> Review Thirty two 96.5%</a></li>
-<li><a href="#orgheadline400">32.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 三 05:44&gt;</span></span>98.7%</a></li>
-<li><a href="#orgheadline401">32.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 三 09:33&gt;</span></span>99%</a></li>
-<li><a href="#orgheadline403">32.6. <span class="done DONE">DONE</span> section six 96.2%</a>
+<li><a href="#orgdb2d59d">18.10. text</a></li>
+<li><a href="#org12e24a9">18.11. <span class="done DONE">DONE</span> Review eithteen 97.9%</a></li>
+<li><a href="#org2146e92">18.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 10:41&gt;</span></span>97.7%</a></li>
+<li><a href="#orgf275805">18.13. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 20:19&gt;</span></span>99.1%</a></li>
+<li><a href="#org13226a4">18.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-25 Tue 10:30&gt;</span></span>97.9%</a></li>
+<li><a href="#org5c00e9c">18.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-25 Tue 11:28&gt;</span></span>98.8%</a></li>
+<li><a href="#org10e0532">18.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun&gt;</span></span>98.2%</a></li>
+</ul>
+</li>
+<li><a href="#org76ef928">19. lesson ninteen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-07 Thu&gt;</span></span></a>
 <ul>
-<li><a href="#orgheadline402">32.6.1. 信用卡；记帐卡</a></li>
+<li><a href="#org6c5e02f">19.1. <span class="done DONE">DONE</span> Review 96.7%</a></li>
+<li><a href="#orgbba6824">19.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 04:21&gt; </span></span> 96%</a></li>
+<li><a href="#org7b86227">19.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 17:11&gt;</span></span>96.8%</a></li>
+<li><a href="#org3d9bbec">19.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 06:00&gt;</span></span>98.2%</a></li>
+<li><a href="#org673976c">19.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 07:04&gt;</span></span>98.4%</a></li>
+<li><a href="#orgab97f17">19.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 20:48&gt;</span></span>99.8%</a></li>
+<li><a href="#org204c833">19.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 20:43&gt;</span></span>97.7%</a></li>
+<li><a href="#org1036015">19.8. text</a></li>
+<li><a href="#org606e7da">19.9. <span class="done DONE">DONE</span> Review ninteen 97.4</a></li>
+<li><a href="#orgcb52853">19.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 10:51&gt;</span></span>98.2%</a></li>
+<li><a href="#org7a19c69">19.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 14:42&gt;</span></span>97.8%</a></li>
+<li><a href="#orgcd01c23">19.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-10-11 Sun&gt;</span></span>97.6%</a></li>
+<li><a href="#orgb10fd3d">19.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-02 Mon 09:07&gt;</span></span>98.7%</a></li>
+<li><a href="#org5d0ca3a">19.14. Lesson19</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline404">32.7. <span class="done DONE">DONE</span> Review Thirty two 97.1%</a></li>
-<li><a href="#orgheadline405">32.8. <span class="done DONE">DONE</span> Lesson thirty three</a></li>
+<li><a href="#org9c75b97">20. <span class="done DONE">DONE</span> lesson twenty</a>
+<ul>
+<li><a href="#orgfabd783">20.1. <span class="done DONE">DONE</span> Review twenty 96.9%</a></li>
+<li><a href="#org7789a60">20.2. <span class="done DONE">DONE</span> Review 96.8%</a></li>
+<li><a href="#org1255a26">20.3. <span class="done CANCELLED">CANCELLED</span> MG: <span class="timestamp-wrapper"><span class="timestamp">[2016-09-12 Mon 13:42]</span></span></a></li>
+<li><a href="#orga32a34c">20.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 13:43&gt;</span></span>98.1%</a></li>
+<li><a href="#org227aa18">20.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 18:30&gt;</span></span>99.3%</a></li>
+<li><a href="#org93bcac5">20.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 11:44&gt;</span></span>99.5%</a></li>
+<li><a href="#org26d0600">20.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-12 Mon 07:21&gt;</span></span>98.6%</a></li>
+<li><a href="#orgb92410a">20.8. text</a></li>
+<li><a href="#org2538325">20.9. <span class="done DONE">DONE</span> Review twenty 96.8%</a></li>
+<li><a href="#org344a2d1">20.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-03 Tue 06:47&gt;</span></span>97.9%</a></li>
+<li><a href="#org5e65f01">20.11. lesson 20</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline433">33. <span class="done DONE">DONE</span> Review thirty three 95.3%</a>
+<li><a href="#org806aade">21. <span class="done DONE">DONE</span> lesson twenty one</a>
 <ul>
-<li><a href="#orgheadline426">33.1. text</a>
+<li><a href="#org535d80f">21.1. <span class="done DONE">DONE</span> Review twenty one 97.7%</a></li>
+<li><a href="#org0060b51">21.2. <span class="done DONE">DONE</span> Review 96.1%</a></li>
+<li><a href="#org13f4412">21.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 19:01&gt; </span></span> 98.1%</a></li>
+<li><a href="#org772350b">21.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 20:22&gt;</span></span>99.3%</a></li>
+<li><a href="#orgd00bf8b">21.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 15:19&gt;</span></span>99.7%</a></li>
+<li><a href="#org5d29d33">21.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-12 Mon 20:31&gt;</span></span>98.0%</a></li>
+<li><a href="#orgf1d6e3c">21.7. text</a></li>
+<li><a href="#orgbc15ae8">21.8. words</a>
 <ul>
-<li><a href="#orgheadline407">33.1.1. blinds</a></li>
-<li><a href="#orgheadline408">33.1.2. ceiling</a></li>
-<li><a href="#orgheadline409">33.1.3. drapes</a></li>
-<li><a href="#orgheadline410">33.1.4. a floor</a></li>
-<li><a href="#orgheadline411">33.1.5. balcony</a></li>
-<li><a href="#orgheadline412">33.1.6. fireplace</a></li>
-<li><a href="#orgheadline413">33.1.7. to look for 寻找</a></li>
-<li><a href="#orgheadline414">33.1.8. hang</a></li>
-<li><a href="#orgheadline415">33.1.9. fit</a></li>
-<li><a href="#orgheadline416">33.1.10. chandelier</a></li>
-<li><a href="#orgheadline417">33.1.11. rug</a></li>
-<li><a href="#orgheadline418">33.1.12. 英  ['pɪləʊ]  美  ['pɪlo]</a></li>
-<li><a href="#orgheadline419">33.1.13. a floor lamp</a></li>
-<li><a href="#orgheadline420">33.1.14. bed sheets</a></li>
-<li><a href="#orgheadline421">33.1.15. a blanket</a></li>
-<li><a href="#orgheadline422">33.1.16. the other 英   美</a></li>
-<li><a href="#orgheadline423">33.1.17. none</a></li>
-<li><a href="#orgheadline424">33.1.18. outside</a></li>
-<li><a href="#orgheadline425">33.1.19. inside</a></li>
+<li><a href="#org213b7f2">21.8.1. gown</a></li>
+<li><a href="#orga817b95">21.8.2. patient</a></li>
+<li><a href="#orgbeb4722">21.8.3. couch</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline427">33.2. <span class="done DONE">DONE</span> Review Thirty three 96.4%</a></li>
-<li><a href="#orgheadline428">33.3. <span class="done DONE">DONE</span> continue thirty tree</a></li>
-<li><a href="#orgheadline429">33.4. <span class="done DONE">DONE</span> continue learn 32 96.1%</a></li>
-<li><a href="#orgheadline430">33.5. <span class="done DONE">DONE</span> Review 33</a></li>
-<li><a href="#orgheadline431">33.6. <span class="done DONE">DONE</span> Review 33 95.2%</a></li>
-<li><a href="#orgheadline432">33.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 三 16:11&gt;</span></span>98.5%</a></li>
+<li><a href="#org6f5b2a8">21.9. <span class="done DONE">DONE</span> Review twenty one 96.9%</a></li>
+<li><a href="#org2392220">21.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-08 Sun 17:20&gt;</span></span>98.9%</a></li>
+<li><a href="#orgab345d0">21.11. Lesson21</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline472">34. <span class="done DONE">DONE</span> thirty four</a>
+<li><a href="#org112d88a">22. <span class="done DONE">DONE</span> lesson twenty two</a>
 <ul>
-<li><a href="#orgheadline434">34.1. <span class="done DONE">DONE</span> Review thirty four 97-&gt;95.4%</a></li>
-<li><a href="#orgheadline465">34.2. text</a>
+<li><a href="#orge853806">22.1. <span class="done DONE">DONE</span> Review twenty two 93.6%</a></li>
+<li><a href="#orgd396440">22.2. <span class="done DONE">DONE</span> Review twenty two 95.2%</a></li>
+<li><a href="#org650a572">22.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 19:31&gt; </span></span> 96.2%</a></li>
+<li><a href="#orgb62da84">22.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 19:41&gt;</span></span>98.8%</a></li>
+<li><a href="#orge716020">22.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 04:15&gt;</span></span>99%</a></li>
+<li><a href="#orgeafc908">22.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 05:34&gt;</span></span>95.9%</a></li>
+<li><a href="#orgab29758">22.7. text</a>
 <ul>
-<li><a href="#orgheadline435">34.2.1. salad</a></li>
-<li><a href="#orgheadline436">34.2.2. mushrooms</a></li>
-<li><a href="#orgheadline437">34.2.3. cabbage</a></li>
-<li><a href="#orgheadline438">34.2.4. onion</a></li>
-<li><a href="#orgheadline439">34.2.5. mashed potatoes</a></li>
-<li><a href="#orgheadline440">34.2.6. soup</a></li>
-<li><a href="#orgheadline441">34.2.7. to bring food</a></li>
-<li><a href="#orgheadline442">34.2.8. to cook</a></li>
-<li><a href="#orgheadline443">34.2.9. to bake</a></li>
-<li><a href="#orgheadline444">34.2.10. to boil</a></li>
-<li><a href="#orgheadline445">34.2.11. to fry</a></li>
-<li><a href="#orgheadline446">34.2.12. to try</a></li>
-<li><a href="#orgheadline447">34.2.13. hot</a></li>
-<li><a href="#orgheadline448">34.2.14. boiled</a></li>
-<li><a href="#orgheadline449">34.2.15. cold</a></li>
-<li><a href="#orgheadline450">34.2.16. fried</a></li>
-<li><a href="#orgheadline451">34.2.17. tasty</a></li>
-<li><a href="#orgheadline452">34.2.18. fresh</a></li>
-<li><a href="#orgheadline453">34.2.19. pie with cabbage</a></li>
-<li><a href="#orgheadline454">34.2.20. pie with mashrooms</a></li>
-<li><a href="#orgheadline455">34.2.21. pie with potato</a></li>
-<li><a href="#orgheadline456">34.2.22. pie with meat</a></li>
-<li><a href="#orgheadline457">34.2.23. pie with onion and egg</a></li>
-<li><a href="#orgheadline458">34.2.24. pie</a></li>
-<li><a href="#orgheadline459">34.2.25. drinks</a></li>
-<li><a href="#orgheadline460">34.2.26. appetizers</a></li>
-<li><a href="#orgheadline461">34.2.27. a bar</a></li>
-<li><a href="#orgheadline462">34.2.28. strong drinks</a></li>
-<li><a href="#orgheadline463">34.2.29. a café</a></li>
-<li><a href="#orgheadline464">34.2.30. milk</a></li>
+<li><a href="#org7ce5986">22.7.1. words</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline466">34.3. <span class="done DONE">DONE</span> Review Thirty Four 94.2%</a></li>
-<li><a href="#orgheadline467">34.4. <span class="done DONE">DONE</span> thirty four 95.4%</a></li>
-<li><a href="#orgheadline468">34.5. <span class="done DONE">DONE</span> Review thirty four 97%</a></li>
-<li><a href="#orgheadline469">34.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 四 09:41&gt;</span></span>98.3%</a></li>
-<li><a href="#orgheadline470">34.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 四 15:10&gt;</span></span>98.9%</a></li>
-<li><a href="#orgheadline471">34.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 五 08:33&gt;</span></span>99.4%</a></li>
+<li><a href="#org19a2cd5">22.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-09 Mon 06:21&gt;</span></span>98.7%</a></li>
+<li><a href="#org028e2ae">22.9. Lesson 22</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline502">35. <span class="done DONE">DONE</span> thirty five 95%</a>
+<li><a href="#org5d19d5d">23. <span class="done DONE">DONE</span> lesson twenty three</a>
 <ul>
-<li><a href="#orgheadline473">35.1. <span class="done DONE">DONE</span> Review Thirty Five 93.3%</a></li>
-<li><a href="#orgheadline474">35.2. <span class="done DONE">DONE</span> Review Thirty Five 95.6%</a></li>
-<li><a href="#orgheadline475">35.3. <span class="done DONE">DONE</span> Review thirty five</a></li>
-<li><a href="#orgheadline476">35.4. <span class="done DONE">DONE</span> Reveiw Thrity five 96.6%</a></li>
-<li><a href="#orgheadline477">35.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 五 04:57&gt;</span></span>98%</a></li>
-<li><a href="#orgheadline500">35.6. text</a>
+<li><a href="#org2241f61">23.1. <span class="done DONE">DONE</span> Review twenty three 97.1%</a></li>
+<li><a href="#org271ea89">23.2. <span class="done DONE">DONE</span> review twenty three 94.9%</a></li>
+<li><a href="#org886ff5e">23.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 11:19&gt;</span></span>98.9%</a></li>
+<li><a href="#org5c347da">23.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 19:33&gt;</span></span>99.4%</a></li>
+<li><a href="#org7b8e121">23.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 07:20&gt;</span></span>97.1%</a></li>
+<li><a href="#org2275d40">23.6. text</a>
 <ul>
-<li><a href="#orgheadline478">35.6.1. a sweater</a></li>
-<li><a href="#orgheadline479">35.6.2. socks</a></li>
-<li><a href="#orgheadline480">35.6.3. tights</a></li>
-<li><a href="#orgheadline481">35.6.4. a coat</a></li>
-<li><a href="#orgheadline482">35.6.5. a tank top</a></li>
-<li><a href="#orgheadline483">35.6.6. a blouse</a></li>
-<li><a href="#orgheadline484">35.6.7. loose pants</a></li>
-<li><a href="#orgheadline485">35.6.8. a light coat</a></li>
-<li><a href="#orgheadline486">35.6.9. a long skirt</a></li>
-<li><a href="#orgheadline487">35.6.10. a short skirt</a></li>
-<li><a href="#orgheadline488">35.6.11. tight pants</a></li>
-<li><a href="#orgheadline489">35.6.12. a warm sweater</a></li>
-<li><a href="#orgheadline490">35.6.13. to cut</a></li>
-<li><a href="#orgheadline491">35.6.14. to knit</a></li>
-<li><a href="#orgheadline492">35.6.15. to sew</a></li>
-<li><a href="#orgheadline493">35.6.16. to embroider</a></li>
-<li><a href="#orgheadline494">35.6.17. fabric</a></li>
-<li><a href="#orgheadline495">35.6.18. thread</a></li>
-<li><a href="#orgheadline496">35.6.19. a needle and thread</a></li>
-<li><a href="#orgheadline497">35.6.20. a needle</a></li>
-<li><a href="#orgheadline498">35.6.21. scissors</a></li>
-<li><a href="#orgheadline499">35.6.22. embroidery</a></li>
+<li><a href="#org4872c1c">23.6.1. traffic jam</a></li>
+<li><a href="#orgab8d0e6">23.6.2. words</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline501">35.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 五 18:31&gt;</span></span>98.8%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline506">36. <span class="done DONE">DONE</span> thirty six 95.7%</a>
-<ul>
-<li><a href="#orgheadline503">36.1. <span class="done DONE">DONE</span> Review thirty six 94.5%</a></li>
-<li><a href="#orgheadline504">36.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 六 05:12&gt;</span></span>99.2%</a></li>
-<li><a href="#orgheadline505">36.3. text</a></li>
+<li><a href="#org6c2269e">23.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-10 Tue 07:41&gt;</span></span>98.4%</a></li>
+<li><a href="#org2042d8c">23.8. Lesson 23</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline533">37. <span class="done DONE">DONE</span> thirty seven 95.1%</a>
+<li><a href="#orgae9ef54">24. <span class="done DONE">DONE</span> twenty four</a>
 <ul>
-<li><a href="#orgheadline507">37.1. <span class="done DONE">DONE</span> Review thirty seven 96.3%-&gt;96.9%</a></li>
-<li><a href="#orgheadline508">37.2. <span class="done DONE">DONE</span> thirty seven 96.3%</a></li>
-<li><a href="#orgheadline509">37.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 六 20:16&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline510">37.4. text</a></li>
-<li><a href="#orgheadline511">37.5. How do yellow leaves fall? Yellow leaves fall slowy.</a></li>
-<li><a href="#orgheadline532">37.6. text</a>
+<li><a href="#orgb58d8ff">24.1. <span class="done DONE">DONE</span> Review twenty four 96.8%</a></li>
+<li><a href="#org6037135">24.2. <span class="done DONE">DONE</span> Review twenty four 96.4%</a></li>
+<li><a href="#orgb8663e6">24.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 11:15&gt;</span></span>98.3%</a></li>
+<li><a href="#org385de58">24.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 15:00&gt;</span></span>99.3%</a></li>
+<li><a href="#orgde0beef">24.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 07:44&gt;</span></span>97.2%</a></li>
+<li><a href="#org0cdaff8">24.6. text</a>
 <ul>
-<li><a href="#orgheadline512">37.6.1. a super market</a></li>
-<li><a href="#orgheadline513">37.6.2. chenge</a></li>
-<li><a href="#orgheadline514">37.6.3. a receipt</a></li>
-<li><a href="#orgheadline515">37.6.4. a cash register</a></li>
-<li><a href="#orgheadline516">37.6.5. a market</a></li>
-<li><a href="#orgheadline517">37.6.6. a counter</a></li>
-<li><a href="#orgheadline518">37.6.7. cake</a></li>
-<li><a href="#orgheadline519">37.6.8. chocolate</a></li>
-<li><a href="#orgheadline520">37.6.9. perfume</a></li>
-<li><a href="#orgheadline521">37.6.10. produce</a></li>
-<li><a href="#orgheadline522">37.6.11. souvenirs</a></li>
-<li><a href="#orgheadline523">37.6.12. a purchase</a></li>
-<li><a href="#orgheadline524">37.6.13. to pick up</a></li>
-<li><a href="#orgheadline525">37.6.14. to pick out</a></li>
-<li><a href="#orgheadline526">37.6.15. to carry</a></li>
-<li><a href="#orgheadline527">37.6.16. to weight</a></li>
-<li><a href="#orgheadline528">37.6.17. to wrap</a></li>
-<li><a href="#orgheadline529">37.6.18. poor</a></li>
-<li><a href="#orgheadline530">37.6.19. rich</a></li>
-<li><a href="#orgheadline531">37.6.20. whole</a></li>
+<li><a href="#org5f6f1ea">24.6.1. words</a></li>
 </ul>
 </li>
+<li><a href="#org4c757ee">24.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-11 Wed 20:59&gt;</span></span>98.7%</a></li>
+<li><a href="#orgcb27656">24.8. Lesson24</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline534">38. <span class="done DONE">DONE</span> </a></li>
-<li><a href="#orgheadline574">39. <span class="done DONE">DONE</span> Thirty eight 96.6%</a>
+<li><a href="#org914737f">25. <span class="done DONE">DONE</span> twenty  five</a>
 <ul>
-<li><a href="#orgheadline535">39.1. <span class="done DONE">DONE</span> Review thirty eight 95.6%</a></li>
-<li><a href="#orgheadline536">39.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 三 05:25&gt;</span></span>97.8%</a></li>
-<li><a href="#orgheadline537">39.3. <span class="todo STARTED">STARTED</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 三 14:08&gt;</span></span></a></li>
-<li><a href="#orgheadline538">39.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 05:11&gt;</span></span>98.6%</a></li>
-<li><a href="#orgheadline573">39.5. text</a>
-<ul>
-<li><a href="#orgheadline539">39.5.1. film</a></li>
-<li><a href="#orgheadline540">39.5.2. music</a></li>
-<li><a href="#orgheadline541">39.5.3. a drum</a></li>
-<li><a href="#orgheadline542">39.5.4. a guitar</a></li>
-<li><a href="#orgheadline543">39.5.5. a violin</a></li>
-<li><a href="#orgheadline544">39.5.6. dance</a></li>
-<li><a href="#orgheadline547">39.5.7. A carnival costume</a></li>
-<li><a href="#orgheadline548">39.5.8. candy</a></li>
-<li><a href="#orgheadline549">39.5.9. a wig</a></li>
-<li><a href="#orgheadline550">39.5.10. mask</a></li>
-<li><a href="#orgheadline551">39.5.11. a bouquet</a></li>
-<li><a href="#orgheadline552">39.5.12. a carnival</a></li>
-<li><a href="#orgheadline553">39.5.13. to celebrate</a></li>
-<li><a href="#orgheadline554">39.5.14. to leave the city</a></li>
-<li><a href="#orgheadline555">39.5.15. to love to do something</a></li>
-<li><a href="#orgheadline568">39.5.16. to collect</a></li>
-<li><a href="#orgheadline572">39.5.17. text</a></li>
-</ul>
-</li>
+<li><a href="#orgb18627f">25.1. <span class="done DONE">DONE</span> Review twenty five 96.6%</a></li>
+<li><a href="#org49fb10f">25.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 09:04&gt; </span></span> 95.8%</a></li>
+<li><a href="#orgef2d0a1">25.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 15:32&gt;</span></span>98.8%</a></li>
+<li><a href="#org9a7651e">25.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 19:01&gt;</span></span>99.4%</a></li>
+<li><a href="#org7e64625">25.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 Thu 19:16&gt;</span></span>98.9%</a></li>
+<li><a href="#orgf74bc64">25.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 Fri 05:16&gt;</span></span>99.2%</a></li>
+<li><a href="#orgf61165b">25.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 08:59&gt;</span></span>97.1%</a></li>
+<li><a href="#orgdc8a710">25.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 04:43&gt;</span></span>96.9%</a></li>
+<li><a href="#org127aac1">25.9. text</a></li>
+<li><a href="#orgbbed6e6">25.10. words</a></li>
+<li><a href="#org200b904">25.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 05:31&gt;</span></span>97.5%</a></li>
+<li><a href="#orgb7fa095">25.12. Lesson 25</a></li>
+<li><a href="#org473935b">25.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 09:48&gt;</span></span>98.2%</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline605">40. <span class="done DONE">DONE</span> Thirty nine 96.9%</a>
+<li><a href="#org5c5084d">26. <span class="done DONE">DONE</span> twenty six</a>
 <ul>
-<li><a href="#orgheadline575">40.1. <span class="done DONE">DONE</span> Review thirty nine 96.9-&gt;96.4%</a></li>
-<li><a href="#orgheadline576">40.2. <span class="done DONE">DONE</span> Review thirty nine 97.3%</a></li>
-<li><a href="#orgheadline577">40.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 三 04:42&gt;</span></span>98.3%</a></li>
-<li><a href="#orgheadline578">40.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 10:48&gt;</span></span>99.2%</a></li>
-<li><a href="#orgheadline603">40.5. text</a>
+<li><a href="#orga1658b1">26.1. <span class="done DONE">DONE</span> Review twenty six 95.2%</a></li>
+<li><a href="#orgbda4d63">26.2. <span class="done DONE">DONE</span> Review twenty six 95.7%</a></li>
+<li><a href="#org1a323b3">26.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 04:42&gt;</span></span>97.9%</a></li>
+<li><a href="#org190e398">26.4. text</a></li>
+<li><a href="#orgf39ffb3">26.5. word</a>
 <ul>
-<li><a href="#orgheadline602">40.5.1. a cow</a></li>
+<li><a href="#org86003ab">26.5.1. tourist</a></li>
+<li><a href="#orga4590ca">26.5.2. tourguide</a></li>
+<li><a href="#org8c0851f">26.5.3. adults</a></li>
+<li><a href="#org963f778">26.5.4. port</a></li>
+<li><a href="#org8842edb">26.5.5. beach</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline604">40.6. text</a></li>
+<li><a href="#org76efd03">26.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 13:39&gt;</span></span>98.3%</a></li>
+<li><a href="#orgfb8961f">26.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 18:44&gt;</span></span>98.9%</a></li>
+<li><a href="#org347567b">26.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 Thu 07:05&gt;</span></span>99%</a></li>
+<li><a href="#orgda09e44">26.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 Fri 05:46&gt;</span></span>99.2%</a></li>
+<li><a href="#org96e2ad8">26.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-08 Tue 18:46&gt;</span></span>98.5%</a></li>
+<li><a href="#org6f80691">26.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 07:56&gt;</span></span>97.1%</a></li>
+<li><a href="#orgbe005e3">26.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 14:43&gt;</span></span>98.8%</a></li>
+<li><a href="#org0775822">26.13. Lesson 26</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline607">41. <span class="done DONE">DONE</span> continue</a>
+<li><a href="#org4ba25f0">27. <span class="done DONE">DONE</span> lesson twenty seven</a>
 <ul>
-<li><a href="#orgheadline606">41.1. text</a></li>
+<li><a href="#org9307124">27.1. <span class="done DONE">DONE</span> Review twenty seven 95.7%</a></li>
+<li><a href="#org9a9fa0e">27.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 06:08&gt;</span></span>98.6%</a></li>
+<li><a href="#orgcfcc51f">27.3. text</a></li>
+<li><a href="#orgf2482bc">27.4. <span class="done DONE">DONE</span> Review twenty severn 96.6%</a></li>
+<li><a href="#org7b8a62a">27.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 08:27&gt;</span></span>97.1%</a></li>
+<li><a href="#org1e1cdb2">27.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-13 Fri 08:06&gt;</span></span>98.8%</a></li>
+<li><a href="#orgf5be39a">27.7. Lesson 27</a></li>
+<li><a href="#orga7bcd37">27.8. <span class="done DONE">DONE</span> Review handwriteing</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline634">42. <span class="done DONE">DONE</span> Forty  93.2%-&gt;97.4%</a>
+<li><a href="#org10ca53d">28. lesson twenty eight</a>
 <ul>
-<li><a href="#orgheadline608">42.1. <span class="done DONE">DONE</span> Review Forty</a></li>
-<li><a href="#orgheadline609">42.2. <span class="done DONE">DONE</span> Review 96.2%</a></li>
-<li><a href="#orgheadline610">42.3. <span class="done DONE">DONE</span> Review forty 95.1%</a></li>
-<li><a href="#orgheadline611">42.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 一 05:35&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline612">42.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 二 07:42&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline613">42.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 一 04:23&gt;</span></span></a></li>
-<li><a href="#orgheadline614">42.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 一 08:50&gt;</span></span>98.8%</a></li>
-<li><a href="#orgheadline615">42.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 五 19:10&gt;</span></span>96%</a></li>
-<li><a href="#orgheadline616">42.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 六 08:12&gt;</span></span>97.8%</a></li>
-<li><a href="#orgheadline617">42.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 六 09:10&gt;</span></span>99.0%</a></li>
-<li><a href="#orgheadline618">42.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 六 11:25&gt;</span></span>99.7%</a></li>
-<li><a href="#orgheadline632">42.12. text</a>
+<li><a href="#org195b26c">28.1. <span class="done DONE">DONE</span> Review twenty eight 95.3%</a></li>
+<li><a href="#org710da12">28.2. <span class="done DONE">DONE</span> Review twenty eight 93.4</a></li>
+<li><a href="#org45d1aff">28.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 05:32&gt;</span></span>99.1%</a></li>
+<li><a href="#orga7075c4">28.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 19:45&gt;</span></span>99.7%</a></li>
+<li><a href="#orge8f9e33">28.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 20:37&gt;</span></span>97.2%</a></li>
+<li><a href="#orgf0ecb2b">28.6. text</a></li>
+<li><a href="#org1606e1b">28.7. workds</a>
 <ul>
-<li><a href="#orgheadline619">42.12.1. a bucket</a></li>
-<li><a href="#orgheadline622">42.12.2. laundry detergent</a></li>
-<li><a href="#orgheadline623">42.12.3. soap</a></li>
-<li><a href="#orgheadline624">42.12.4. a brush</a></li>
-<li><a href="#orgheadline625">42.12.5. a dishwasher</a></li>
-<li><a href="#orgheadline626">42.12.6. an ironing board</a></li>
-<li><a href="#orgheadline627">42.12.7. an iron</a></li>
-<li><a href="#orgheadline628">42.12.8. a vacuum cleanery</a></li>
-<li><a href="#orgheadline629">42.12.9. a washing machine</a></li>
-<li><a href="#orgheadline630">42.12.10. a mopj</a></li>
-<li><a href="#orgheadline631">42.12.11. words</a></li>
+<li><a href="#orgd6faf29">28.7.1. mountain</a></li>
+<li><a href="#org831ba60">28.7.2. forest</a></li>
+<li><a href="#orgfb3e815">28.7.3. palm</a></li>
+<li><a href="#orgc1f3c28">28.7.4. cactus</a></li>
+<li><a href="#org63e410f">28.7.5. camel</a></li>
+<li><a href="#orga9158a0">28.7.6. swan</a></li>
+<li><a href="#org26b6b6b">28.7.7. seagull</a></li>
+<li><a href="#orgd731b25">28.7.8. squirrel</a></li>
+<li><a href="#org3d9855f">28.7.9. parrot</a></li>
+<li><a href="#org03d4f7f">28.7.10. fruit</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline633">42.13. <span class="done DONE">DONE</span> contiune</a></li>
+<li><a href="#org5b646aa">28.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-13 Fri 14:41&gt;</span></span>98%</a></li>
+<li><a href="#org09cffbe">28.9. Lesson 28</a></li>
+<li><a href="#org7363e06">28.10. <span class="done DONE">DONE</span> Review writing</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline656">43. <span class="done DONE">DONE</span> Forty one 91.6%</a>
+<li><a href="#org66d6205">29. lesson twenty nine</a>
 <ul>
-<li><a href="#orgheadline635">43.1. <span class="done DONE">DONE</span> Review e 95.9% igh 95.9%t 95.9%</a></li>
-<li><a href="#orgheadline636">43.2. <span class="done DONE">DONE</span> Review Forty one 95.2%</a></li>
-<li><a href="#orgheadline637">43.3. <span class="done DONE">DONE</span> Review 95.6%</a></li>
-<li><a href="#orgheadline638">43.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 六 19:41&gt; </span></span> 95.4%</a></li>
-<li><a href="#orgheadline639">43.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 20:36&gt; </span></span> 96%</a></li>
-<li><a href="#orgheadline640">43.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 一 04:47&gt; </span></span> 97.7%</a></li>
-<li><a href="#orgheadline641">43.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 一 16:39&gt; </span></span> 96.3%</a></li>
-<li><a href="#orgheadline642">43.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 一 04:39&gt;</span></span>99%</a></li>
-<li><a href="#orgheadline643">43.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 一 20:41&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline644">43.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 二 05:49&gt;</span></span>99.2%</a></li>
-<li><a href="#orgheadline645">43.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 六 17:22&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline655">43.12. text</a>
+<li><a href="#org852f6cc">29.1. <span class="done DONE">DONE</span> Review twenty nine 96.3%</a></li>
+<li><a href="#orge46dbf5">29.2. text</a>
 <ul>
-<li><a href="#orgheadline654">43.12.1. <span class="done DONE">DONE</span> words<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 二 05:11&gt;</span></span>98%</a></li>
+<li><a href="#org0e106b7">29.2.1. word <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-18 Mon&gt;</span></span></a></li>
 </ul>
 </li>
-</ul>
-</li>
-<li><a href="#orgheadline665">44. <span class="done DONE">DONE</span> Forty two 96.3%</a>
-<ul>
-<li><a href="#orgheadline657">44.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 六 20:55&gt; </span></span> 95.9%</a></li>
-<li><a href="#orgheadline658">44.2. <span class="done DONE">DONE</span> Review and write<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 04:30&gt; </span></span> 96%</a></li>
-<li><a href="#orgheadline659">44.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 18:38&gt;</span></span>97.7%</a></li>
-<li><a href="#orgheadline660">44.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 日 09:24&gt;</span></span>98.8%</a></li>
-<li><a href="#orgheadline661">44.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 日 20:43&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline662">44.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 五 09:41&gt;</span></span>97.1%</a></li>
-<li><a href="#orgheadline663">44.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 六 20:56&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline664">44.8. text</a></li>
+<li><a href="#orgbb2b70c">29.3. <span class="done DONE">DONE</span> Review twenty nine 96%</a></li>
+<li><a href="#org99d1757">29.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 20:05&gt;</span></span>99.4%</a></li>
+<li><a href="#org93007b5">29.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-15 Thu 07:24&gt;</span></span>97.3%</a></li>
+<li><a href="#orge214a43">29.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-14 Sat 05:35&gt;</span></span>98.8%</a></li>
+<li><a href="#orgf1b2f80">29.7. Lesson 29</a></li>
+<li><a href="#orgb590f06">29.8. <span class="done DONE">DONE</span> Review writing</a></li>
 </ul>
 </li>
-<li><a href="#orgheadline703">45. <span class="done DONE">DONE</span> Forty three 94.5%</a>
+<li><a href="#org5ce63f6">30. lesson thirty</a>
 <ul>
-<li><a href="#orgheadline666">45.1. <span class="done DONE">DONE</span> Review 94.8%</a></li>
-<li><a href="#orgheadline667">45.2. <span class="done DONE">DONE</span> Review 96%</a></li>
-<li><a href="#orgheadline668">45.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 05:22&gt; </span></span> 95.7%</a></li>
-<li><a href="#orgheadline669">45.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 10:42&gt; </span></span> 95.7%</a></li>
-<li><a href="#orgheadline670">45.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 20:00&gt; </span></span> 96.5%</a></li>
-<li><a href="#orgheadline671">45.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 五 04:27&gt; </span></span> 97.1%</a></li>
-<li><a href="#orgheadline693">45.7. text</a>
+<li><a href="#org22a017c">30.1. <span class="done DONE">DONE</span> Review thirty 93.9%</a></li>
+<li><a href="#orgc6135f2">30.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-25 Sun 08:18&gt;</span></span>97.2%</a></li>
+<li><a href="#org7e1f736">30.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 05:25&gt;</span></span>97.9%</a></li>
+<li><a href="#org2dc1b02">30.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 05:15&gt;</span></span>98.4%</a></li>
+<li><a href="#orga824250">30.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-25 Fri 05:27&gt;</span></span>98.4%</a></li>
+<li><a href="#orgd29f0d4">30.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-15 Thu 08:09&gt;</span></span>95.9%</a></li>
+<li><a href="#org738c262">30.7. Lesson 30</a></li>
+<li><a href="#org62e2033">30.8. text</a></li>
+<li><a href="#org2b21bbd">30.9. word</a>
 <ul>
-<li><a href="#orgheadline672">45.7.1. a credit card</a></li>
-<li><a href="#orgheadline673">45.7.2. creddit</a></li>
-<li><a href="#orgheadline674">45.7.3. a mailbox</a></li>
-<li><a href="#orgheadline675">45.7.4. an ATM</a></li>
-<li><a href="#orgheadline676">45.7.5. a postman</a></li>
-<li><a href="#orgheadline677">45.7.6. a bank</a></li>
-<li><a href="#orgheadline678">45.7.7. a post office</a></li>
-<li><a href="#orgheadline679">45.7.8. a package</a></li>
-<li><a href="#orgheadline680">45.7.9. an envelop</a></li>
-<li><a href="#orgheadline681">45.7.10. a postcard</a></li>
-<li><a href="#orgheadline682">45.7.11. a stamp</a></li>
-<li><a href="#orgheadline683">45.7.12. a letter</a></li>
-<li><a href="#orgheadline684">45.7.13. a telegram</a></li>
-<li><a href="#orgheadline685">45.7.14. a checkbook</a></li>
-<li><a href="#orgheadline686">45.7.15. a loan</a></li>
-<li><a href="#orgheadline687">45.7.16. a deposit account</a></li>
-<li><a href="#orgheadline688">45.7.17. deposit</a></li>
-<li><a href="#orgheadline689">45.7.18. account</a></li>
-<li><a href="#orgheadline690">45.7.19. a check</a></li>
-<li><a href="#orgheadline691">45.7.20. percent</a></li>
-<li><a href="#orgheadline692">45.7.21. an account</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline698">45.8. text</a>
-<ul>
-<li><a href="#orgheadline697">45.8.1. to receive</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline699">45.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 六 05:46&gt;</span></span>98.5%</a></li>
-<li><a href="#orgheadline700">45.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 五 04:23&gt;</span></span>97.5</a></li>
-<li><a href="#orgheadline701">45.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 五 06:12&gt;</span></span>96.2%</a></li>
-<li><a href="#orgheadline702">45.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 日 05:21&gt;</span></span>98.9%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline743">46. <span class="done DONE">DONE</span> Forty four 96%</a>
-<ul>
-<li><a href="#orgheadline704">46.1. <span class="done DONE">DONE</span> Review 94%</a></li>
-<li><a href="#orgheadline705">46.2. <span class="done DONE">DONE</span> Review 95.3%</a></li>
-<li><a href="#orgheadline706">46.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 五 05:31&gt;</span></span>95.8%</a></li>
-<li><a href="#orgheadline707">46.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 03:57&gt;</span></span>97.4%</a></li>
-<li><a href="#orgheadline735">46.5. text</a>
-<ul>
-<li><a href="#orgheadline708">46.5.1. text</a></li>
-<li><a href="#orgheadline709">46.5.2. vitamins</a></li>
-<li><a href="#orgheadline710">46.5.3. a thermometer</a></li>
-<li><a href="#orgheadline711">46.5.4. medicine</a></li>
-<li><a href="#orgheadline712">46.5.5. aspirin</a></li>
-<li><a href="#orgheadline713">46.5.6. a syringe</a></li>
-<li><a href="#orgheadline714">46.5.7. a bandage</a></li>
-<li><a href="#orgheadline715">46.5.8. to take temperature</a></li>
-<li><a href="#orgheadline718">46.5.9. to take blood pressure</a></li>
-<li><a href="#orgheadline719">46.5.10. to operate</a></li>
-<li><a href="#orgheadline720">46.5.11. to treat</a></li>
-<li><a href="#orgheadline721">46.5.12. to dress</a></li>
-<li><a href="#orgheadline722">46.5.13. to give a shot</a></li>
-<li><a href="#orgheadline723">46.5.14. an operation</a></li>
-<li><a href="#orgheadline724">46.5.15. temperature</a></li>
-<li><a href="#orgheadline725">46.5.16. a cold</a></li>
-<li><a href="#orgheadline726">46.5.17. a wound</a></li>
-<li><a href="#orgheadline727">46.5.18. blood pressure</a></li>
-<li><a href="#orgheadline728">46.5.19. a cough</a></li>
-<li><a href="#orgheadline729">46.5.20. a dentist</a></li>
-<li><a href="#orgheadline730">46.5.21. a cardiologist</a></li>
-<li><a href="#orgheadline731">46.5.22. a nurse</a></li>
-<li><a href="#orgheadline732">46.5.23. a surgeon</a></li>
-<li><a href="#orgheadline733">46.5.24. ophthalmologist</a></li>
-<li><a href="#orgheadline734">46.5.25. a physician</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline736">46.6. <span class="done DONE">DONE</span> Review Lesson Forty four 94.9%</a></li>
-<li><a href="#orgheadline737">46.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 20:11&gt;</span></span>95.8%</a></li>
-<li><a href="#orgheadline738">46.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 日 06:21&gt;</span></span>96.2%</a></li>
-<li><a href="#orgheadline739">46.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 六 04:42&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline740">46.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 六 09:01&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline741">46.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 四 10:11&gt;</span></span>93.3%</a></li>
-<li><a href="#orgheadline742">46.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 五 03:56&gt;</span></span>97.1%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline784">47. <span class="done DONE">DONE</span> Forty five 96.3%</a>
-<ul>
-<li><a href="#orgheadline744">47.1. <span class="done DONE">DONE</span> Review 95.4%</a></li>
-<li><a href="#orgheadline745">47.2. <span class="done DONE">DONE</span> Review 96.9%</a></li>
-<li><a href="#orgheadline746">47.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 04:58&gt;</span></span>96.6%</a></li>
-<li><a href="#orgheadline747">47.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 一 05:00&gt;</span></span>96.9%</a></li>
-<li><a href="#orgheadline748">47.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 06:06&gt;</span></span>98.7%</a></li>
-<li><a href="#orgheadline749">47.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 11:06&gt;</span></span>98.7%</a></li>
-<li><a href="#orgheadline750">47.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 14:56&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline751">47.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 三 20:43&gt;</span></span>96%</a></li>
-<li><a href="#orgheadline752">47.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 四 08:30&gt;</span></span>96%</a></li>
-<li><a href="#orgheadline753">47.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 日 17:31&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline778">47.11. text</a>
-<ul>
-<li><a href="#orgheadline754">47.11.1. elderly people</a></li>
-<li><a href="#orgheadline755">47.11.2. a child</a></li>
-<li><a href="#orgheadline756">47.11.3. an elderly man</a></li>
-<li><a href="#orgheadline757">47.11.4. an adult</a></li>
-<li><a href="#orgheadline758">47.11.5. an elderly woman</a></li>
-<li><a href="#orgheadline759">47.11.6. a teenager</a></li>
-<li><a href="#orgheadline760">47.11.7. to live</a></li>
-<li><a href="#orgheadline761">47.11.8. to be born</a></li>
-<li><a href="#orgheadline762">47.11.9. to die</a></li>
-<li><a href="#orgheadline763">47.11.10. to grow old</a></li>
-<li><a href="#orgheadline764">47.11.11. to mature</a></li>
-<li><a href="#orgheadline765">47.11.12. to grow up</a></li>
-<li><a href="#orgheadline766">47.11.13. more often</a></li>
-<li><a href="#orgheadline767">47.11.14. more rarely</a></li>
-<li><a href="#orgheadline768">47.11.15. often</a></li>
-<li><a href="#orgheadline769">47.11.16. slowly</a></li>
-<li><a href="#orgheadline770">47.11.17. rarely</a></li>
-<li><a href="#orgheadline771">47.11.18. fast</a></li>
-<li><a href="#orgheadline772">47.11.19. a bald man</a></li>
-<li><a href="#orgheadline773">47.11.20. a gray man</a></li>
-<li><a href="#orgheadline774">47.11.21. bald</a></li>
-<li><a href="#orgheadline775">47.11.22. a gray woman</a></li>
-<li><a href="#orgheadline776">47.11.23. a bald cat</a></li>
-<li><a href="#orgheadline777">47.11.24. gray</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline782">47.12. text</a>
-<ul>
-<li><a href="#orgheadline779">47.12.1. Children don't grow old, they grow up.</a></li>
-<li><a href="#orgheadline780">47.12.2. Teenagers also don't grow old, they mature.</a></li>
-<li><a href="#orgheadline781">47.12.3. Elderly people grow old and die.</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline783">47.13. text</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline819">48. <span class="done DONE">DONE</span> Forty six 95.5%</a>
-<ul>
-<li><a href="#orgheadline785">48.1. <span class="done DONE">DONE</span> Review forty six 96.6%</a></li>
-<li><a href="#orgheadline786">48.2. <span class="done DONE">DONE</span> Review 93.2%</a></li>
-<li><a href="#orgheadline787">48.3. <span class="done DONE">DONE</span> Review 95.9%</a></li>
-<li><a href="#orgheadline788">48.4. <span class="done DONE">DONE</span> Review 96.5%</a></li>
-<li><a href="#orgheadline789">48.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 一 05:06&gt;</span></span>96.4%</a></li>
-<li><a href="#orgheadline790">48.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 二 05:24&gt;</span></span>94.9%</a></li>
-<li><a href="#orgheadline791">48.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 二 14:20&gt; </span></span> 95.9%</a></li>
-<li><a href="#orgheadline792">48.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 04:46&gt;</span></span>96.8%</a></li>
-<li><a href="#orgheadline793">48.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2003-09-19 五&gt;</span></span>96.9%</a></li>
-<li><a href="#orgheadline794">48.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 04:02&gt;</span></span>97.3%</a></li>
-<li><a href="#orgheadline795">48.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 04:48&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline796">48.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 二 20:51&gt;</span></span>94.1%</a></li>
-<li><a href="#orgheadline797">48.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 三 06:10&gt;</span></span>96.1%</a></li>
-<li><a href="#orgheadline798">48.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 二 14:07&gt;</span></span>98.9%</a></li>
-<li><a href="#orgheadline799">48.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 二 19:13&gt;</span></span>99.2%</a></li>
-<li><a href="#orgheadline817">48.16. text</a>
-<ul>
-<li><a href="#orgheadline800">48.16.1. a bracelet</a></li>
-<li><a href="#orgheadline801">48.16.2. a pendant</a></li>
-<li><a href="#orgheadline802">48.16.3. earrings</a></li>
-<li><a href="#orgheadline803">48.16.4. a ring</a></li>
-<li><a href="#orgheadline804">48.16.5. chain</a></li>
-<li><a href="#orgheadline805">48.16.6. a necklace</a></li>
-<li><a href="#orgheadline806">48.16.7. gold</a></li>
-<li><a href="#orgheadline807">48.16.8. a jeweler</a></li>
-<li><a href="#orgheadline808">48.16.9. a jewelry store</a></li>
-<li><a href="#orgheadline809">48.16.10. a silver</a></li>
-<li><a href="#orgheadline810">48.16.11. diamond</a></li>
-<li><a href="#orgheadline811">48.16.12. jewels</a></li>
-<li><a href="#orgheadline812">48.16.13. text</a></li>
-<li><a href="#orgheadline813">48.16.14. a jewelry store</a></li>
-<li><a href="#orgheadline814">48.16.15. a silver</a></li>
-<li><a href="#orgheadline815">48.16.16. diamond</a></li>
-<li><a href="#orgheadline816">48.16.17. jewels</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline818">48.17. text</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline857">49. <span class="done DONE">DONE</span> Forty seven</a>
-<ul>
-<li><a href="#orgheadline820">49.1. <span class="done DONE">DONE</span> Review 92.5%</a></li>
-<li><a href="#orgheadline821">49.2. <span class="done DONE">DONE</span> Review 96.9%</a></li>
-<li><a href="#orgheadline822">49.3. <span class="done DONE">DONE</span> Review 96.7%</a></li>
-<li><a href="#orgheadline823">49.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 四 06:31&gt;</span></span>95%</a></li>
-<li><a href="#orgheadline824">49.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 五 04:36&gt;</span></span>97%</a></li>
-<li><a href="#orgheadline825">49.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 五 05:03&gt;</span></span>98.2%</a></li>
-<li><a href="#orgheadline826">49.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 09:22&gt;</span></span>98.9%</a></li>
-<li><a href="#orgheadline851">49.8. text</a>
-<ul>
-<li><a href="#orgheadline827">49.8.1. legs</a></li>
-<li><a href="#orgheadline828">49.8.2. The chest</a></li>
-<li><a href="#orgheadline829">49.8.3. arms</a></li>
-<li><a href="#orgheadline830">49.8.4. the head</a></li>
-<li><a href="#orgheadline831">49.8.5. the belly</a></li>
-<li><a href="#orgheadline832">49.8.6. the mouth</a></li>
-<li><a href="#orgheadline833">49.8.7. the brain</a></li>
-<li><a href="#orgheadline834">49.8.8. the teeth</a></li>
-<li><a href="#orgheadline835">49.8.9. the lungs</a></li>
-<li><a href="#orgheadline836">49.8.10. the tongue</a></li>
-<li><a href="#orgheadline837">49.8.11. the liver</a></li>
-<li><a href="#orgheadline838">49.8.12. the stomach</a></li>
-<li><a href="#orgheadline839">49.8.13. to see</a></li>
-<li><a href="#orgheadline840">49.8.14. to speak</a></li>
-<li><a href="#orgheadline841">49.8.15. to think</a></li>
-<li><a href="#orgheadline842">49.8.16. to bite</a></li>
-<li><a href="#orgheadline843">49.8.17. to breathe</a></li>
-<li><a href="#orgheadline844">49.8.18. to chew</a></li>
-<li><a href="#orgheadline845">49.8.19. strong teeth</a></li>
-<li><a href="#orgheadline846">49.8.20. fragile bones</a></li>
-<li><a href="#orgheadline847">49.8.21. strong bones</a></li>
-<li><a href="#orgheadline848">49.8.22. strong</a></li>
-<li><a href="#orgheadline849">49.8.23. fragile</a></li>
-<li><a href="#orgheadline850">49.8.24. fragile teeth</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline852">49.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 03:36&gt;</span></span>97.7%</a></li>
-<li><a href="#orgheadline853">49.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 二 07:48&gt;</span></span>96.5%</a></li>
-<li><a href="#orgheadline854">49.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 二 14:11&gt;</span></span>97.7%</a></li>
-<li><a href="#orgheadline855">49.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 二 04:26&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline856">49.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 二 05:46&gt;</span></span>99.6%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline893">50. <span class="done DONE">DONE</span> Lesson Forty eitht 94.8%</a>
-<ul>
-<li><a href="#orgheadline858">50.1. <span class="done DONE">DONE</span> Review 92.6%</a></li>
-<li><a href="#orgheadline859">50.2. <span class="done DONE">DONE</span> Review 95%</a></li>
-<li><a href="#orgheadline860">50.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 06:02&gt;</span></span>97.4%</a></li>
-<li><a href="#orgheadline861">50.4. <span class="done DONE">DONE</span> Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 09:02&gt;</span></span>97%</a></li>
-<li><a href="#orgheadline862">50.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 05:33&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline888">50.6. text</a>
-<ul>
-<li><a href="#orgheadline863">50.6.1. a sculptor</a></li>
-<li><a href="#orgheadline864">50.6.2. a ballerina</a></li>
-<li><a href="#orgheadline865">50.6.3. a poet</a></li>
-<li><a href="#orgheadline866">50.6.4. an actor</a></li>
-<li><a href="#orgheadline867">50.6.5. a painter</a></li>
-<li><a href="#orgheadline868">50.6.6. a singer</a></li>
-<li><a href="#orgheadline869">50.6.7. paints</a></li>
-<li><a href="#orgheadline870">50.6.8. wood</a></li>
-<li><a href="#orgheadline871">50.6.9. pencial</a></li>
-<li><a href="#orgheadline872">50.6.10. canvas</a></li>
-<li><a href="#orgheadline873">50.6.11. clay</a></li>
-<li><a href="#orgheadline874">50.6.12. brushes</a></li>
-<li><a href="#orgheadline875">50.6.13. to sculpt</a></li>
-<li><a href="#orgheadline876">50.6.14. to sing</a></li>
-<li><a href="#orgheadline877">50.6.15. to write</a></li>
-<li><a href="#orgheadline878">50.6.16. to carve</a></li>
-<li><a href="#orgheadline879">50.6.17. to dance</a></li>
-<li><a href="#orgheadline880">50.6.18. to draw</a></li>
-<li><a href="#orgheadline881">50.6.19. opera</a></li>
-<li><a href="#orgheadline882">50.6.20. a sculpture</a></li>
-<li><a href="#orgheadline883">50.6.21. poems</a></li>
-<li><a href="#orgheadline884">50.6.22. ballet</a></li>
-<li><a href="#orgheadline885">50.6.23. painting</a></li>
-<li><a href="#orgheadline886">50.6.24. a museum</a></li>
-<li><a href="#orgheadline887">50.6.25. a famous  painting hangs in a museum.</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline889">50.7. <span class="done DONE">DONE</span> Revew<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-10 一 20:27&gt;</span></span>95.7%</a></li>
-<li><a href="#orgheadline890">50.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 二 06:15&gt;</span></span>97.5%</a></li>
-<li><a href="#orgheadline891">50.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 一 20:45&gt;</span></span>98.9%</a></li>
-<li><a href="#orgheadline892">50.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 二 03:59&gt;</span></span>99.5%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline923">51. <span class="done DONE">DONE</span> Forty nine 96.3%</a>
-<ul>
-<li><a href="#orgheadline894">51.1. <span class="done DONE">DONE</span> Review 94.7%</a></li>
-<li><a href="#orgheadline895">51.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 04:17&gt;</span></span>96%</a></li>
-<li><a href="#orgheadline896">51.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 04:46&gt;</span></span>99.0%</a></li>
-<li><a href="#orgheadline907">51.4. text</a>
-<ul>
-<li><a href="#orgheadline897">51.4.1. a capital</a></li>
-<li><a href="#orgheadline898">51.4.2. an emblem</a></li>
-<li><a href="#orgheadline899">51.4.3. a building</a></li>
-<li><a href="#orgheadline900">51.4.4. a flag</a></li>
-<li><a href="#orgheadline901">51.4.5. a country</a></li>
-<li><a href="#orgheadline902">51.4.6. a city</a></li>
-<li><a href="#orgheadline903">51.4.7. a government</a></li>
-<li><a href="#orgheadline904">51.4.8. a president</a></li>
-<li><a href="#orgheadline905">51.4.9. a citizen</a></li>
-<li><a href="#orgheadline906">51.4.10. a government building</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline909">51.5. to run</a>
-<ul>
-<li><a href="#orgheadline908">51.5.1. issue</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline911">51.6. The government is located in the capital.</a>
-<ul>
-<li><a href="#orgheadline910">51.6.1. ensure</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline913">51.7. A weak government doesn't ensure peace in the country.</a>
-<ul>
-<li><a href="#orgheadline912">51.7.1. weak</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline914">51.8. A weak government doesn't ensure peace in the country.</a></li>
-<li><a href="#orgheadline915">51.9. <span class="done DONE">DONE</span> Review Forty nine 95.3%</a></li>
-<li><a href="#orgheadline916">51.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 04:34&gt;</span></span>98.7%</a></li>
-<li><a href="#orgheadline917">51.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 六 14:17&gt;</span></span>95.1%</a></li>
-<li><a href="#orgheadline918">51.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 六 19:18&gt;</span></span>97.1%</a></li>
-<li><a href="#orgheadline919">51.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 六 20:27&gt;</span></span>96.7%</a></li>
-<li><a href="#orgheadline920">51.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 日 06:08&gt;</span></span>97.7%</a></li>
-<li><a href="#orgheadline921">51.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 一 07:32&gt;</span></span>98.5%</a></li>
-<li><a href="#orgheadline922">51.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 一 19:11&gt;</span></span>99.3%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline936">52. <span class="done DONE">DONE</span> Fifty 95.0%</a>
-<ul>
-<li><a href="#orgheadline924">52.1. Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 12:11&gt;</span></span>98.8%</a></li>
-<li><a href="#orgheadline925">52.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 18:39&gt;</span></span>99.2%</a></li>
-<li><a href="#orgheadline926">52.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 02:20&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline927">52.4. text</a></li>
-<li><a href="#orgheadline928">52.5. <span class="done DONE">DONE</span> Review Fifty 96.7%</a></li>
-<li><a href="#orgheadline929">52.6. <span class="done DONE">DONE</span> Review 96.4%</a></li>
-<li><a href="#orgheadline930">52.7. <span class="done DONE">DONE</span> Review 96.7%</a></li>
-<li><a href="#orgheadline931">52.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 03:56&gt;</span></span>99.1%</a></li>
-<li><a href="#orgheadline932">52.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 四 05:02&gt;</span></span>99.6%</a></li>
-<li><a href="#orgheadline933">52.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 日 06:33&gt;</span></span>98.6%</a></li>
-<li><a href="#orgheadline934">52.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 日 19:49&gt;</span></span>99.3%</a></li>
-<li><a href="#orgheadline935">52.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 一 05:31&gt;</span></span>99.4%</a></li>
-</ul>
-</li>
-<li><a href="#orgheadline937">53. <span class="done DONE">DONE</span> listen</a></li>
-<li><a href="#orgheadline960">54. <span class="done DONE">DONE</span> listen 英语发音unit one</a>
-<ul>
-<li><a href="#orgheadline939">54.1. words</a>
-<ul>
-<li><a href="#orgheadline938">54.1.1. neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 二&gt;</span></span></a></li>
-</ul>
-</li>
-<li><a href="#orgheadline959">54.2. <span class="todo TODO">TODO</span> </a>
-<ul>
-<li><a href="#orgheadline955">54.2.1. text</a></li>
-<li><a href="#orgheadline958">54.2.2. to receive</a></li>
-</ul>
-</li>
+<li><a href="#org36b18d4">30.9.1. desert</a></li>
+<li><a href="#orgfeb73b9">30.9.2. permission n 允许，许可</a></li>
+<li><a href="#org07d72ec">30.9.3. pants</a></li>
+<li><a href="#org79ef3d7">30.9.4. lap</a></li>
+<li><a href="#org3b46668">30.9.5. parents</a></li>
+<li><a href="#org818bf9d">30.9.6. customer</a></li>
+<li><a href="#orgd6b1bb1">30.9.7. sale</a></li>
+<li><a href="#org0b90ae1">30.9.8. person</a></li>
+<li><a href="#orgea8b4b8">30.9.9. traffic jam</a></li>
+<li><a href="#orgd86f8e3">30.9.10. vehicles</a></li>
+<li><a href="#org1573b52">30.9.11. in order to</a></li>
+<li><a href="#org93e2196">30.9.12. spectator</a></li>
+<li><a href="#orgba4e16d">30.9.13. performance</a></li>
+<li><a href="#org3befb03">30.9.14. programme</a></li>
+<li><a href="#orgb225a0e">30.9.15. though</a></li>
+<li><a href="#org01d0bc3">30.9.16. even though</a></li>
+<li><a href="#orga4c59dd">30.9.17. although</a></li>
+<li><a href="#org5c95efb">30.9.18. would rather 宁愿，宁可</a></li>
+<li><a href="#org785efee">30.9.19. celebrate</a></li>
+<li><a href="#orgb5d43b2">30.9.20. across from</a></li>
+<li><a href="#org71a125a">30.9.21. instead</a></li>
+<li><a href="#org53574da">30.9.22. boring</a></li>
 </ul>
 </li>
+<li><a href="#org3d5427a">30.10. <span class="done DONE">DONE</span> Review thirty 95.8% &#x2013;&gt;96.9%</a></li>
+<li><a href="#org0e93942">30.11. across</a></li>
+<li><a href="#orgacd1419">30.12. cross</a></li>
+<li><a href="#org863bc8f">30.13. lap</a></li>
+</ul>
+</li>
+<li><a href="#org9865b3b">31. <span class="done DONE">DONE</span> Lesson thirty one 95%</a>
+<ul>
+<li><a href="#org50bc203">31.1. <span class="done DONE">DONE</span> 复习 95.0%</a></li>
+<li><a href="#org6b0e278">31.2. <span class="done DONE">DONE</span> 复习96.2%</a></li>
+<li><a href="#orge7fc529">31.3. <span class="done DONE">DONE</span> Review thirty one 94.8%</a></li>
+<li><a href="#org016fa34">31.4. <span class="done DONE">DONE</span> Review Thirty one 95.3%-&gt;94.9%</a></li>
+<li><a href="#org90163a9">31.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 16:20&gt;</span></span>97.6%</a></li>
+<li><a href="#org90184a4">31.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 05:00&gt;</span></span>99.4%</a></li>
+<li><a href="#org10aa771">31.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-21 Mon 05:23&gt;</span></span>98.2%</a></li>
+<li><a href="#org3a4fda3">31.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-06 Tue 07:14&gt;</span></span>97.4%</a></li>
+<li><a href="#org7b7bbda">31.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-07 Wed 04:46&gt;</span></span>96.5%</a></li>
+<li><a href="#orgcaa9ff5">31.10. Lesson 31</a></li>
+</ul>
+</li>
+<li><a href="#orga10fed5">32. <span class="done DONE">DONE</span> Lesson thirty two 96.2%</a>
+<ul>
+<li><a href="#org3de3d1b">32.1. <span class="done DONE">DONE</span> Review thirty two 95.5%</a></li>
+<li><a href="#org1d0c1c9">32.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-20 Sun 05:26&gt;</span></span>98.2%</a></li>
+<li><a href="#orgaa1d53c">32.3. Lesson 32</a></li>
+<li><a href="#org30d9f5b">32.4. text</a>
+<ul>
+<li><a href="#orgf66718f">32.4.1. a reception desk</a></li>
+<li><a href="#orgf0cdd17">32.4.2. a receptionist</a></li>
+<li><a href="#org0f9c9d4">32.4.3. to wash up</a></li>
+<li><a href="#org012c1b0">32.4.4. to offer</a></li>
+<li><a href="#org203922e">32.4.5. to take a shower 洗澡</a></li>
+</ul>
+</li>
+<li><a href="#org52dabd0">32.5. <span class="done DONE">DONE</span> Review Thirty two 96.5%</a></li>
+<li><a href="#org18a146a">32.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 05:44&gt;</span></span>98.7%</a></li>
+<li><a href="#orgaf3d377">32.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 09:33&gt;</span></span>99%</a></li>
+<li><a href="#orgb2ef8c8">32.8. <span class="done DONE">DONE</span> section six 96.2%</a>
+<ul>
+<li><a href="#org0359988">32.8.1. 信用卡；记帐卡</a></li>
+</ul>
+</li>
+<li><a href="#org881d67f">32.9. <span class="done DONE">DONE</span> Review Thirty two 97.1%</a></li>
+<li><a href="#orgff32b28">32.10. <span class="done DONE">DONE</span> Lesson thirty three</a></li>
+</ul>
+</li>
+<li><a href="#orgeb924bf">33. <span class="done DONE">DONE</span> Review thirty three 95.3%</a>
+<ul>
+<li><a href="#org9ee7d93">33.1. text</a>
+<ul>
+<li><a href="#org5d94c1c">33.1.1. blinds</a></li>
+<li><a href="#orgdde1409">33.1.2. ceiling</a></li>
+<li><a href="#org0113ab1">33.1.3. drapes</a></li>
+<li><a href="#orga1e6179">33.1.4. a floor</a></li>
+<li><a href="#org8fd403e">33.1.5. balcony</a></li>
+<li><a href="#org36d6337">33.1.6. fireplace</a></li>
+<li><a href="#orga5fbaaf">33.1.7. to look for 寻找</a></li>
+<li><a href="#orgd5b452f">33.1.8. hang</a></li>
+<li><a href="#org9cc9046">33.1.9. fit</a></li>
+<li><a href="#orgf771a7e">33.1.10. chandelier</a></li>
+<li><a href="#org1e28e56">33.1.11. rug</a></li>
+<li><a href="#orgb9c838f">33.1.12. 英  ['pɪləʊ]  美  ['pɪlo]</a></li>
+<li><a href="#org9b9ba57">33.1.13. a floor lamp</a></li>
+<li><a href="#orgb5711f9">33.1.14. bed sheets</a></li>
+<li><a href="#orgdce1266">33.1.15. a blanket</a></li>
+<li><a href="#orgc1dcdfa">33.1.16. the other 英   美</a></li>
+<li><a href="#orgf1292e5">33.1.17. none</a></li>
+<li><a href="#org855884f">33.1.18. outside</a></li>
+<li><a href="#org48488b6">33.1.19. inside</a></li>
+</ul>
+</li>
+<li><a href="#org4ab9f0f">33.2. <span class="done DONE">DONE</span> Review Thirty three 96.4%</a></li>
+<li><a href="#org526aa90">33.3. <span class="done DONE">DONE</span> continue thirty tree</a></li>
+<li><a href="#org687a18d">33.4. <span class="done DONE">DONE</span> continue learn 32 96.1%</a></li>
+<li><a href="#org4451613">33.5. <span class="done DONE">DONE</span> Review 33</a></li>
+<li><a href="#orgaeb7584">33.6. <span class="done DONE">DONE</span> Review 33 95.2%</a></li>
+<li><a href="#orgf2295d9">33.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 16:11&gt;</span></span>98.5%</a></li>
+<li><a href="#org26bbb1a">33.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-19 Sat 09:54&gt;</span></span>98.4%</a></li>
+<li><a href="#org3805bf1">33.9. Lesson 33</a></li>
+</ul>
+</li>
+<li><a href="#orgd57eedc">34. <span class="done DONE">DONE</span> thirty four</a>
+<ul>
+<li><a href="#org6ebde5d">34.1. <span class="done DONE">DONE</span> Review thirty four 97-&gt;95.4%</a></li>
+<li><a href="#orgf324c2c">34.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-19 Sat 05:38&gt;</span></span>96.9%</a></li>
+<li><a href="#org33c4cce">34.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-07 Wed 07:59&gt;</span></span>97.7%</a></li>
+<li><a href="#orgf516c46">34.4. Lesson 34</a></li>
+<li><a href="#org4dce5b1">34.5. text</a>
+<ul>
+<li><a href="#orgde2021d">34.5.1. salad</a></li>
+<li><a href="#orgcadd4c8">34.5.2. mushrooms</a></li>
+<li><a href="#orgea4dd0c">34.5.3. cabbage</a></li>
+<li><a href="#org6211a23">34.5.4. onion</a></li>
+<li><a href="#org5a049f8">34.5.5. mashed potatoes</a></li>
+<li><a href="#orgce2e31b">34.5.6. soup</a></li>
+<li><a href="#org562c6d3">34.5.7. to bring food</a></li>
+<li><a href="#org947a5ad">34.5.8. to cook</a></li>
+<li><a href="#org63147c1">34.5.9. to bake</a></li>
+<li><a href="#org8e020a9">34.5.10. to boil</a></li>
+<li><a href="#orgd8af99c">34.5.11. to fry</a></li>
+<li><a href="#org8e0c44b">34.5.12. to try</a></li>
+<li><a href="#orgb5cb715">34.5.13. hot</a></li>
+<li><a href="#orgbc348dd">34.5.14. boiled</a></li>
+<li><a href="#orgb3f438c">34.5.15. cold</a></li>
+<li><a href="#orgf72c6d2">34.5.16. fried</a></li>
+<li><a href="#org1200861">34.5.17. tasty</a></li>
+<li><a href="#orge872177">34.5.18. fresh</a></li>
+<li><a href="#org72c6854">34.5.19. pie with cabbage</a></li>
+<li><a href="#org94379a8">34.5.20. pie with mashrooms</a></li>
+<li><a href="#org442b4e3">34.5.21. pie with potato</a></li>
+<li><a href="#orge13e690">34.5.22. pie with meat</a></li>
+<li><a href="#orgf6dcf0c">34.5.23. pie with onion and egg</a></li>
+<li><a href="#orgf2e9c9a">34.5.24. pie</a></li>
+<li><a href="#orgbc0ad6e">34.5.25. drinks</a></li>
+<li><a href="#org67c33b3">34.5.26. appetizers</a></li>
+<li><a href="#org007e2ff">34.5.27. a bar</a></li>
+<li><a href="#orgfb2704d">34.5.28. strong drinks</a></li>
+<li><a href="#orgf793dfe">34.5.29. a café</a></li>
+<li><a href="#orgdc9dc96">34.5.30. milk</a></li>
+</ul>
+</li>
+<li><a href="#org1db743e">34.6. <span class="done DONE">DONE</span> Review Thirty Four 94.2%</a></li>
+<li><a href="#org1007c29">34.7. <span class="done DONE">DONE</span> thirty four 95.4%</a></li>
+<li><a href="#org321c82f">34.8. <span class="done DONE">DONE</span> Review thirty four 97%</a></li>
+<li><a href="#org0f59c29">34.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 09:41&gt;</span></span>98.3%</a></li>
+<li><a href="#org3b8f479">34.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 15:10&gt;</span></span>98.9%</a></li>
+<li><a href="#org3c3e80c">34.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 08:33&gt;</span></span>99.4%</a></li>
+</ul>
+</li>
+<li><a href="#orgb016c9d">35. <span class="done DONE">DONE</span> thirty five 95%</a>
+<ul>
+<li><a href="#org1b71dee">35.1. <span class="done DONE">DONE</span> Review Thirty Five 93.3%</a></li>
+<li><a href="#org269a033">35.2. <span class="done DONE">DONE</span> Review Thirty Five 95.6%</a></li>
+<li><a href="#org0ba9468">35.3. <span class="done DONE">DONE</span> Review thirty five</a></li>
+<li><a href="#org38c7c12">35.4. <span class="done DONE">DONE</span> Reveiw Thrity five 96.6%</a></li>
+<li><a href="#org6600e41">35.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 04:57&gt;</span></span>98%</a></li>
+<li><a href="#org96086cc">35.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 19:47&gt;</span></span>98.1%</a></li>
+<li><a href="#org81d15e5">35.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-08 Thu 05:43&gt;</span></span>97.2%</a></li>
+<li><a href="#org3a70dbb">35.8. Lesson 35</a></li>
+<li><a href="#orgfeae94c">35.9. text</a>
+<ul>
+<li><a href="#org605747e">35.9.1. a sweater</a></li>
+<li><a href="#org7f4c0bd">35.9.2. socks</a></li>
+<li><a href="#orgd87c421">35.9.3. tights</a></li>
+<li><a href="#org578257c">35.9.4. a coat</a></li>
+<li><a href="#orgc2e98ca">35.9.5. a tank top</a></li>
+<li><a href="#orgbe148d6">35.9.6. a blouse</a></li>
+<li><a href="#orgeca266c">35.9.7. loose pants</a></li>
+<li><a href="#org12ae4ed">35.9.8. a light coat</a></li>
+<li><a href="#org9e983b4">35.9.9. a long skirt</a></li>
+<li><a href="#org73bb2f2">35.9.10. a short skirt</a></li>
+<li><a href="#org5795b53">35.9.11. tight pants</a></li>
+<li><a href="#org872c577">35.9.12. a warm sweater</a></li>
+<li><a href="#org952a983">35.9.13. to cut</a></li>
+<li><a href="#orga103a7d">35.9.14. to knit</a></li>
+<li><a href="#org76ff393">35.9.15. to sew</a></li>
+<li><a href="#org57b667e">35.9.16. to embroider</a></li>
+<li><a href="#org76fdba4">35.9.17. fabric</a></li>
+<li><a href="#org2d06ec7">35.9.18. thread</a></li>
+<li><a href="#org1133682">35.9.19. a needle and thread</a></li>
+<li><a href="#orgaa9cffc">35.9.20. a needle</a></li>
+<li><a href="#orgbfbd041">35.9.21. scissors</a></li>
+<li><a href="#orgb6ddc0e">35.9.22. embroidery</a></li>
+</ul>
+</li>
+<li><a href="#org7ccf95f">35.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 18:31&gt;</span></span>98.8%</a></li>
+</ul>
+</li>
+<li><a href="#orgffd7c0d">36. <span class="done DONE">DONE</span> thirty six 95.7%</a>
+<ul>
+<li><a href="#orge0efb92">36.1. <span class="done DONE">DONE</span> Review thirty six 94.5%</a></li>
+<li><a href="#orgdb7d9f8">36.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 05:12&gt;</span></span>99.2%</a></li>
+<li><a href="#org09104da">36.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 14:53&gt;</span></span>97.9%</a></li>
+<li><a href="#org6dcefa5">36.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-08 Thu 07:40&gt;</span></span>97.7%</a></li>
+<li><a href="#org67f84e0">36.5. Lesson 36</a></li>
+<li><a href="#org4123f23">36.6. text</a></li>
+</ul>
+</li>
+<li><a href="#org1efee5f">37. <span class="done DONE">DONE</span> thirty seven 95.1%</a>
+<ul>
+<li><a href="#org980014a">37.1. <span class="done DONE">DONE</span> Review thirty seven 96.3%-&gt;96.9%</a></li>
+<li><a href="#org3eaebcd">37.2. <span class="done DONE">DONE</span> thirty seven 96.3%</a></li>
+<li><a href="#org01cb6c1">37.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 20:16&gt;</span></span>99.1%</a></li>
+<li><a href="#orgb87c786">37.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 05:35&gt;</span></span>98%</a></li>
+<li><a href="#orga6d7d56">37.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 11:00&gt;</span></span>98.5%</a></li>
+<li><a href="#org123117a">37.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-09 Fri 03:08&gt;</span></span>97.7%</a></li>
+<li><a href="#orga28c3d6">37.7. Lesson thirty seven</a></li>
+<li><a href="#orgb711a78">37.8. text</a></li>
+<li><a href="#orgd953737">37.9. How do yellow leaves fall? Yellow leaves fall slowy.</a></li>
+<li><a href="#org007ee97">37.10. text</a>
+<ul>
+<li><a href="#org8e04437">37.10.1. a super market</a></li>
+<li><a href="#org31965ca">37.10.2. chenge</a></li>
+<li><a href="#org9a7b84a">37.10.3. a receipt</a></li>
+<li><a href="#org0fe37eb">37.10.4. a cash register</a></li>
+<li><a href="#org4ca4d94">37.10.5. a market</a></li>
+<li><a href="#org183ffa0">37.10.6. a counter</a></li>
+<li><a href="#orgf135bc6">37.10.7. cake</a></li>
+<li><a href="#org9e1452e">37.10.8. chocolate</a></li>
+<li><a href="#orgcbca1b4">37.10.9. perfume</a></li>
+<li><a href="#org8bf3bbd">37.10.10. produce</a></li>
+<li><a href="#org5d15be7">37.10.11. souvenirs</a></li>
+<li><a href="#orgedef0ab">37.10.12. a purchase</a></li>
+<li><a href="#orgdb6885e">37.10.13. to pick up</a></li>
+<li><a href="#org05e3678">37.10.14. to pick out</a></li>
+<li><a href="#orge9ae185">37.10.15. to carry</a></li>
+<li><a href="#orga0a14fc">37.10.16. to weight</a></li>
+<li><a href="#org143bd0b">37.10.17. to wrap</a></li>
+<li><a href="#orgdd81c1a">37.10.18. poor</a></li>
+<li><a href="#org7d5d0d1">37.10.19. rich</a></li>
+<li><a href="#org460d87d">37.10.20. whole</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orgf622062">38. <span class="done DONE">DONE</span> </a></li>
+<li><a href="#orgb6cd9f3">39. <span class="done DONE">DONE</span> Thirty eight 96.6%</a>
+<ul>
+<li><a href="#orgd3baced">39.1. <span class="done DONE">DONE</span> Review thirty eight 95.6%</a></li>
+<li><a href="#org5d21939">39.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 05:25&gt;</span></span>97.8%</a></li>
+<li><a href="#org91ca50b">39.3. <span class="todo STARTED">STARTED</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 14:08&gt;</span></span></a></li>
+<li><a href="#orgdb338eb">39.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 05:11&gt;</span></span>98.6%</a></li>
+<li><a href="#orgf53bac8">39.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-16 Wed 03:56&gt;</span></span>96.1%</a></li>
+<li><a href="#org2bbc073">39.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-26 Sat 06:05&gt;</span></span>96.9%</a></li>
+<li><a href="#orgdd1f78f">39.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-09 Fri 04:26&gt;</span></span>96.7%</a></li>
+<li><a href="#orgc544345">39.8. Lesson 38</a></li>
+<li><a href="#orga82b419">39.9. text</a>
+<ul>
+<li><a href="#org40e4767">39.9.1. film</a></li>
+<li><a href="#org67a7795">39.9.2. music</a></li>
+<li><a href="#org26c330c">39.9.3. a drum</a></li>
+<li><a href="#orgc99b22d">39.9.4. a guitar</a></li>
+<li><a href="#orgd237ba0">39.9.5. a violin</a></li>
+<li><a href="#org6b5f162">39.9.6. dance</a></li>
+<li><a href="#org43cf0df">39.9.7. A carnival costume</a></li>
+<li><a href="#org03c1ea7">39.9.8. candy</a></li>
+<li><a href="#org23230c2">39.9.9. a wig</a></li>
+<li><a href="#orgd953fdb">39.9.10. mask</a></li>
+<li><a href="#org0596b1f">39.9.11. a bouquet</a></li>
+<li><a href="#org3b36cca">39.9.12. a carnival</a></li>
+<li><a href="#org747ded5">39.9.13. to celebrate</a></li>
+<li><a href="#orgcb74dbe">39.9.14. to leave the city</a></li>
+<li><a href="#orge58eec8">39.9.15. to love to do something</a></li>
+<li><a href="#org89e53a5">39.9.16. to collect</a></li>
+<li><a href="#org8f056c0">39.9.17. text</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org1d1d01d">40. <span class="done DONE">DONE</span> Thirty nine 96.9%</a>
+<ul>
+<li><a href="#org641866f">40.1. <span class="done DONE">DONE</span> Review thirty nine 96.9-&gt;96.4%</a></li>
+<li><a href="#orgca70815">40.2. <span class="done DONE">DONE</span> Review thirty nine 97.3%</a></li>
+<li><a href="#orga247825">40.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 04:42&gt;</span></span>98.3%</a></li>
+<li><a href="#orgfafd6ac">40.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 10:48&gt;</span></span>99.2%</a></li>
+<li><a href="#org84f131f">40.5. <span class="done DONE">DONE</span> Lesson thirty nine<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-15 Tue 05:26&gt;</span></span>97.2%</a></li>
+<li><a href="#org9b13ca2">40.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-15 Tue 18:47&gt;</span></span>96.8%</a></li>
+<li><a href="#org227847b">40.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-16 Wed 03:33&gt;</span></span>97.6%</a></li>
+<li><a href="#org31c9c87">40.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-26 Sat 05:42&gt;</span></span>98.6%</a></li>
+<li><a href="#orgadcd93b">40.9. Lesson thirty nine</a></li>
+<li><a href="#orgab1a96b">40.10. text</a>
+<ul>
+<li><a href="#orgb3b9258">40.10.1. a cow</a></li>
+</ul>
+</li>
+<li><a href="#orgb98ebd2">40.11. text</a></li>
+</ul>
+</li>
+<li><a href="#orgfb1209d">41. <span class="done DONE">DONE</span> continue</a>
+<ul>
+<li><a href="#org4064e2c">41.1. text</a></li>
+</ul>
+</li>
+<li><a href="#orgae3063c">42. <span class="done DONE">DONE</span> Forty  93.2%-&gt;97.4%</a>
+<ul>
+<li><a href="#org90c7e9e">42.1. <span class="done DONE">DONE</span> Review Forty</a></li>
+<li><a href="#org917b308">42.2. <span class="done DONE">DONE</span> Review 96.2%</a></li>
+<li><a href="#org07c9746">42.3. <span class="done DONE">DONE</span> Review forty 95.1%</a></li>
+<li><a href="#org0bcea6a">42.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 05:35&gt;</span></span>99.1%</a></li>
+<li><a href="#org0fd6261">42.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 07:42&gt;</span></span>99.1%</a></li>
+<li><a href="#orgfdda85c">42.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 04:23&gt;</span></span></a></li>
+<li><a href="#org089dff6">42.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 08:50&gt;</span></span>98.8%</a></li>
+<li><a href="#orgc08c94e">42.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 19:10&gt;</span></span>96%</a></li>
+<li><a href="#orgbfc08a8">42.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 08:12&gt;</span></span>97.8%</a></li>
+<li><a href="#org734a4fa">42.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 09:10&gt;</span></span>99.0%</a></li>
+<li><a href="#org434a8b5">42.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 11:25&gt;</span></span>99.7%</a></li>
+<li><a href="#org96ea2ed">42.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 16:11&gt;</span></span>96.5%</a></li>
+<li><a href="#orge651e34">42.13. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 20:57&gt;</span></span>97.2%</a></li>
+<li><a href="#org2ce079a">42.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 05:20&gt;</span></span>98.9%</a></li>
+<li><a href="#orgcff3263">42.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 05:58&gt;</span></span>98.3%</a></li>
+<li><a href="#org64c71a1">42.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 19:56&gt;</span></span>98.8%</a></li>
+<li><a href="#org635c6e5">42.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 06:01&gt;</span></span>98.3%</a></li>
+<li><a href="#orgd786d30">42.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 06:28&gt;</span></span>97.7%</a></li>
+<li><a href="#orge33478b">42.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-03 Thu 15:51&gt;</span></span>98.2%</a></li>
+<li><a href="#orgc643517">42.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 05:26&gt;</span></span>98.2%</a>
+<ul>
+<li><a href="#org4ed28e9">42.20.1. Detergent</a></li>
+</ul>
+</li>
+<li><a href="#orgb01cd90">42.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 13:51&gt;</span></span>98.1%</a></li>
+<li><a href="#org0369cdc">42.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 16:14&gt;</span></span>98.7%</a></li>
+<li><a href="#org290f401">42.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 04:44&gt;</span></span>97.6%</a></li>
+<li><a href="#orgc220773">42.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 09:22&gt;</span></span>97.5%</a></li>
+<li><a href="#orgc030a07">42.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 14:16&gt;</span></span>98.2%</a></li>
+<li><a href="#org58f95df">42.26. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 19:36&gt;</span></span></a></li>
+<li><a href="#orge55baed">42.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 05:47&gt;</span></span>99.3%</a></li>
+<li><a href="#org3027978">42.28. <span class="done DONE">DONE</span> Wrting<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 15:13&gt;</span></span></a></li>
+<li><a href="#org64e1359">42.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 16:52&gt;</span></span>99.2%</a></li>
+<li><a href="#org6fa4626">42.30. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 06:35&gt;</span></span>98.4%</a></li>
+<li><a href="#orgcac7d1d">42.31. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 20:34&gt;</span></span>99.5%</a></li>
+<li><a href="#org5a3bc92">42.32. Lesson 40</a></li>
+<li><a href="#org7a0e87e">42.33. text</a>
+<ul>
+<li><a href="#org3f14e6a">42.33.1. a bucket</a></li>
+<li><a href="#org995e535">42.33.2. laundry detergent</a></li>
+<li><a href="#org1e1f641">42.33.3. soap</a></li>
+<li><a href="#org859173c">42.33.4. a brush</a></li>
+<li><a href="#orge4bbce2">42.33.5. a dishwasher</a></li>
+<li><a href="#orgb321fe9">42.33.6. an ironing board</a></li>
+<li><a href="#orgd99bb68">42.33.7. an iron</a></li>
+<li><a href="#org31a21dc">42.33.8. a vacuum cleanery</a></li>
+<li><a href="#orgeb851ec">42.33.9. a washing machine</a></li>
+<li><a href="#org9f9c986">42.33.10. a mopj</a></li>
+<li><a href="#org9e1e137">42.33.11. words</a></li>
+</ul>
+</li>
+<li><a href="#org5ba3fe2">42.34. <span class="done DONE">DONE</span> contiune</a></li>
+</ul>
+</li>
+<li><a href="#org28079c2">43. <span class="done DONE">DONE</span> Forty one 91.6%</a>
+<ul>
+<li><a href="#org41edfb0">43.1. <span class="done DONE">DONE</span> Review e 95.9% igh 95.9%t 95.9%</a></li>
+<li><a href="#org61349ca">43.2. <span class="done DONE">DONE</span> Review Forty one 95.2%</a></li>
+<li><a href="#orgb274776">43.3. <span class="done DONE">DONE</span> Review 95.6%</a></li>
+<li><a href="#orgbf39785">43.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 19:41&gt; </span></span> 95.4%</a></li>
+<li><a href="#org34e0447">43.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 20:36&gt; </span></span> 96%</a></li>
+<li><a href="#org4f85dab">43.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 04:47&gt; </span></span> 97.7%</a></li>
+<li><a href="#org5e0891b">43.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 16:39&gt; </span></span> 96.3%</a></li>
+<li><a href="#org24e1785">43.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 04:39&gt;</span></span>99%</a></li>
+<li><a href="#orgdf6f3e7">43.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 20:41&gt;</span></span>99.1%</a></li>
+<li><a href="#orga61250e">43.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 05:49&gt;</span></span>99.2%</a></li>
+<li><a href="#orgdb45545">43.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 17:22&gt;</span></span>99.3%</a></li>
+<li><a href="#org8b0434e">43.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 04:53&gt;</span></span>99.4%</a></li>
+<li><a href="#org24df021">43.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 13:44&gt;</span></span>98.6%</a></li>
+<li><a href="#org55eee77">43.14. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 05:21&gt;</span></span>98.2%</a></li>
+<li><a href="#orgf93d880">43.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 20:29&gt;</span></span>97.8%</a></li>
+<li><a href="#org5c2df8f">43.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 20:59&gt;</span></span>98%</a></li>
+<li><a href="#orgadb0b70">43.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 06:02&gt;</span></span>98.8%</a></li>
+<li><a href="#org19dd607">43.18. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 06:44&gt;</span></span></a></li>
+<li><a href="#org2ffe939">43.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 08:31&gt;</span></span>99.3%</a></li>
+<li><a href="#orgcc16d04">43.20. <span class="done DONE">DONE</span> Words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-04 Sat 05:02&gt;</span></span></a></li>
+<li><a href="#org80ecc34">43.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-04 Sat 15:51&gt;</span></span>99.2%</a></li>
+<li><a href="#org32d64c9">43.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 08:32&gt;</span></span>98.8%</a></li>
+<li><a href="#orgba10d88">43.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 20:09&gt;</span></span>98.9%</a></li>
+<li><a href="#org5d3cfc1">43.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 15:25&gt;</span></span>99.4%</a></li>
+<li><a href="#org329f0fb">43.25. Lesson 41</a>
+<ul>
+<li><a href="#org0423198">43.25.1. <span class="done DONE">DONE</span> words<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 Tue 05:11&gt;</span></span>98%</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orgf126798">44. <span class="done DONE">DONE</span> Forty two 96.3%</a>
+<ul>
+<li><a href="#org26bfe2e">44.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 20:55&gt; </span></span> 95.9%</a></li>
+<li><a href="#org8007759">44.2. <span class="done DONE">DONE</span> Review and write<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 04:30&gt; </span></span> 96%</a></li>
+<li><a href="#org63c2950">44.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 18:38&gt;</span></span>97.7%</a></li>
+<li><a href="#orgba2a020">44.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 09:24&gt;</span></span>98.8%</a></li>
+<li><a href="#org2bbe69a">44.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 20:43&gt;</span></span>99.3%</a></li>
+<li><a href="#org05a95c8">44.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 09:41&gt;</span></span>97.1%</a></li>
+<li><a href="#orgf8ece6d">44.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 20:56&gt;</span></span>99.1%</a></li>
+<li><a href="#org7711618">44.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 05:24&gt;</span></span>99.1%</a></li>
+<li><a href="#org0178c96">44.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 09:19&gt;</span></span>98.1%</a></li>
+<li><a href="#orgb76de53">44.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 15:55&gt;</span></span>97.6%</a></li>
+<li><a href="#orgc394766">44.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 19:16&gt;</span></span>97.3%</a></li>
+<li><a href="#orgca1f867">44.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 05:56&gt;</span></span>98.1%</a></li>
+<li><a href="#org729a96d">44.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 05:48&gt;</span></span>98%</a></li>
+<li><a href="#orga57c719">44.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 15:37&gt;</span></span>97.9%</a></li>
+<li><a href="#org513819e">44.15. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 18:48&gt;</span></span></a></li>
+<li><a href="#orgfe8d2c5">44.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 19:45&gt;</span></span>98.5%</a></li>
+<li><a href="#org7edd56b">44.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 09:16&gt;</span></span>98.0%</a></li>
+<li><a href="#org2ba178c">44.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 17:44&gt;</span></span>99.3%</a></li>
+<li><a href="#org24bd066">44.19. Lesson 42</a></li>
+</ul>
+</li>
+<li><a href="#org46a9d3b">45. <span class="done DONE">DONE</span> Forty three 94.5%</a>
+<ul>
+<li><a href="#orged8aac0">45.1. <span class="done DONE">DONE</span> Review 94.8%</a></li>
+<li><a href="#org9073cca">45.2. <span class="done DONE">DONE</span> Review 96%</a></li>
+<li><a href="#orgfc7c6fd">45.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 05:22&gt; </span></span> 95.7%</a></li>
+<li><a href="#orgea15857">45.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 10:42&gt; </span></span> 95.7%</a></li>
+<li><a href="#org75fe130">45.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 20:00&gt; </span></span> 96.5%</a></li>
+<li><a href="#org136bb58">45.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 Fri 04:27&gt; </span></span> 97.1%</a></li>
+<li><a href="#org88fab6c">45.7. text</a>
+<ul>
+<li><a href="#org16f1557">45.7.1. a credit card</a></li>
+<li><a href="#orgf055abc">45.7.2. creddit</a></li>
+<li><a href="#org837170a">45.7.3. a mailbox</a></li>
+<li><a href="#orgc45b748">45.7.4. an ATM</a></li>
+<li><a href="#org67fe0a0">45.7.5. a postman</a></li>
+<li><a href="#orgcea63c0">45.7.6. a bank</a></li>
+<li><a href="#org5944a1f">45.7.7. a post office</a></li>
+<li><a href="#orged86e82">45.7.8. a package</a></li>
+<li><a href="#org7e420f9">45.7.9. an envelop</a></li>
+<li><a href="#org0ccc055">45.7.10. a postcard</a></li>
+<li><a href="#org00e9659">45.7.11. a stamp</a></li>
+<li><a href="#org55b7644">45.7.12. a letter</a></li>
+<li><a href="#orgf62e5c6">45.7.13. a telegram</a></li>
+<li><a href="#orgfa69105">45.7.14. a checkbook</a></li>
+<li><a href="#org882903b">45.7.15. a loan</a></li>
+<li><a href="#orgdee60c4">45.7.16. a deposit account</a></li>
+<li><a href="#org0e8f512">45.7.17. deposit</a></li>
+<li><a href="#orgf23e3f8">45.7.18. account</a></li>
+<li><a href="#org9bc134f">45.7.19. a check</a></li>
+<li><a href="#org3430795">45.7.20. percent</a></li>
+<li><a href="#org382722c">45.7.21. an account</a></li>
+</ul>
+</li>
+<li><a href="#orgc7203e5">45.8. text</a>
+<ul>
+<li><a href="#org43d0aa2">45.8.1. to receive</a></li>
+</ul>
+</li>
+<li><a href="#org8dde5b7">45.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 05:46&gt;</span></span>98.5%</a></li>
+<li><a href="#org0312264">45.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 04:23&gt;</span></span>97.5</a></li>
+<li><a href="#org48265f0">45.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 06:12&gt;</span></span>96.2%</a></li>
+<li><a href="#org0444ae5">45.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 05:21&gt;</span></span>98.9%</a></li>
+<li><a href="#org6395733">45.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 05:13&gt;</span></span>98.7%</a></li>
+<li><a href="#org44ff9bf">45.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 13:57&gt;</span></span>99.2%</a></li>
+<li><a href="#org9a0ed1e">45.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 10:46&gt;</span></span>95.6%</a></li>
+<li><a href="#org01686bd">45.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 19:48&gt;</span></span>97.2%</a></li>
+<li><a href="#org14cdf8c">45.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 14:24&gt;</span></span>95.5%</a></li>
+<li><a href="#org9c4f1e2">45.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 08:45&gt;</span></span>98.2%</a></li>
+<li><a href="#org88768fe">45.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 05:21&gt;</span></span>98.7%</a></li>
+<li><a href="#org98fb7d6">45.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 14:31&gt;</span></span>97.1%</a></li>
+<li><a href="#orgfbdab2a">45.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-10 Thu 06:40&gt;</span></span>97.3%</a></li>
+<li><a href="#org63c0e37">45.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-12 Sat 10:21&gt;</span></span>97.6%</a></li>
+<li><a href="#orgf8fa084">45.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 07:11&gt;</span></span>96.6%</a></li>
+<li><a href="#orgddb5ea7">45.24. <span class="done DONE">DONE</span> Writing <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 10:21&gt;</span></span></a></li>
+<li><a href="#org54ae36b">45.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 19:55&gt;</span></span>99.0%</a></li>
+<li><a href="#orgd48eee8">45.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-06 Mon 07:51&gt;</span></span>98.3%</a></li>
+<li><a href="#orgd890af0">45.27. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-06 Mon 19:29&gt;</span></span>two pages</a></li>
+<li><a href="#orgee11dc0">45.28. <span class="done DONE">DONE</span> Read aloud<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 05:19&gt;</span></span></a></li>
+<li><a href="#org468e563">45.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 05:57&gt;</span></span>98.9%</a></li>
+<li><a href="#org2d8de6f">45.30. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 08:18&gt;</span></span>99.4%</a></li>
+<li><a href="#orgd7fc5e6">45.31. Lesson 43</a></li>
+</ul>
+</li>
+<li><a href="#orgc763474">46. <span class="done DONE">DONE</span> Forty four 96%</a>
+<ul>
+<li><a href="#org17d14d0">46.1. <span class="done DONE">DONE</span> Review 94%</a></li>
+<li><a href="#org70a8b55">46.2. <span class="done DONE">DONE</span> Review 95.3%</a></li>
+<li><a href="#org32791c2">46.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 Fri 05:31&gt;</span></span>95.8%</a></li>
+<li><a href="#orgb2150a8">46.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 03:57&gt;</span></span>97.4%</a></li>
+<li><a href="#org70b27fe">46.5. text</a>
+<ul>
+<li><a href="#org373e51e">46.5.1. text</a></li>
+<li><a href="#orgee0a4b5">46.5.2. vitamins</a></li>
+<li><a href="#orgb3f37fa">46.5.3. a thermometer</a></li>
+<li><a href="#org9cd4777">46.5.4. medicine</a></li>
+<li><a href="#org267f7d4">46.5.5. aspirin</a></li>
+<li><a href="#orgd56948f">46.5.6. a syringe</a></li>
+<li><a href="#org3b2ec47">46.5.7. a bandage</a></li>
+<li><a href="#org54df4e6">46.5.8. to take temperature</a></li>
+<li><a href="#org04e8ecd">46.5.9. to take blood pressure</a></li>
+<li><a href="#org1353a44">46.5.10. to operate</a></li>
+<li><a href="#org010f455">46.5.11. to treat</a></li>
+<li><a href="#orgbdf8456">46.5.12. to dress</a></li>
+<li><a href="#orgdefc073">46.5.13. to give a shot</a></li>
+<li><a href="#org9e415f9">46.5.14. an operation</a></li>
+<li><a href="#orgb0be76d">46.5.15. temperature</a></li>
+<li><a href="#org4d7a9aa">46.5.16. a cold</a></li>
+<li><a href="#org9d1871e">46.5.17. a wound</a></li>
+<li><a href="#orgc2790e5">46.5.18. blood pressure</a></li>
+<li><a href="#org53f75a7">46.5.19. a cough</a></li>
+<li><a href="#org0e0227a">46.5.20. a dentist</a></li>
+<li><a href="#org4e2d263">46.5.21. a cardiologist</a></li>
+<li><a href="#orgdc837cd">46.5.22. a nurse</a></li>
+<li><a href="#orgcd100bf">46.5.23. a surgeon</a></li>
+<li><a href="#org3317713">46.5.24. ophthalmologist</a></li>
+<li><a href="#org0bd0dc9">46.5.25. a physician</a></li>
+</ul>
+</li>
+<li><a href="#orge452ddc">46.6. <span class="done DONE">DONE</span> Review Lesson Forty four 94.9%</a></li>
+<li><a href="#org1a7e424">46.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 20:11&gt;</span></span>95.8%</a></li>
+<li><a href="#orgcb2ce9e">46.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 06:21&gt;</span></span>96.2%</a></li>
+<li><a href="#org6f60893">46.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 04:42&gt;</span></span>99.1%</a></li>
+<li><a href="#orgcdf76cf">46.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 09:01&gt;</span></span>99.3%</a></li>
+<li><a href="#orgb4437bd">46.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 Thu 10:11&gt;</span></span>93.3%</a></li>
+<li><a href="#orga32893d">46.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 03:56&gt;</span></span>97.1%</a></li>
+<li><a href="#org7bb82a4">46.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 21:06&gt;</span></span>99%</a></li>
+<li><a href="#org2f5e821">46.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 06:30&gt;</span></span>97%</a></li>
+<li><a href="#org1830f86">46.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 06:11&gt;</span></span>96.7%</a></li>
+<li><a href="#org48a76b6">46.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 07:32&gt;</span></span>97.6%</a></li>
+<li><a href="#org52ba4ac">46.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 07:40&gt;</span></span>96.%</a></li>
+<li><a href="#org3eae3b8">46.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 19:58&gt;</span></span>98.1%</a>
+<ul>
+<li><a href="#orgab2d4a7">46.18.1. A surgeon is a doctor who is specially trained to perform surgery. 外科医生</a></li>
+</ul>
+</li>
+<li><a href="#orge737142">46.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 04:59&gt;</span></span>98.2%</a></li>
+<li><a href="#org94f7008">46.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 08:29&gt;</span></span>97.8%</a></li>
+<li><a href="#org06daf23">46.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 09:21&gt;</span></span>95.9%</a></li>
+<li><a href="#org69cbe69">46.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 21:18&gt;</span></span>97.2%</a></li>
+<li><a href="#org6bb9bba">46.23. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 05:20&gt;</span></span></a></li>
+<li><a href="#org59e15aa">46.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 06:37&gt;</span></span>98.5%</a></li>
+<li><a href="#orgc6472d3">46.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 08:21&gt;</span></span>95.5%</a></li>
+<li><a href="#org554d925">46.26. <span class="done DONE">DONE</span> study words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 19:14&gt;</span></span>99.1%</a></li>
+<li><a href="#org22f15bc">46.27. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 05:42&gt;</span></span></a></li>
+<li><a href="#org5345ee6">46.28. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 06:37&gt;</span></span>99.7%</a></li>
+<li><a href="#org0afa967">46.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 15:39&gt;</span></span>98.6%</a></li>
+<li><a href="#org928de17">46.30. Lesson 44</a></li>
+</ul>
+</li>
+<li><a href="#org1222f37">47. <span class="done DONE">DONE</span> Forty five 96.3%</a>
+<ul>
+<li><a href="#org35d3e5c">47.1. <span class="done DONE">DONE</span> Review 95.4%</a></li>
+<li><a href="#orgca7ac18">47.2. <span class="done DONE">DONE</span> Review 96.9%</a></li>
+<li><a href="#orgf3840f6">47.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 04:58&gt;</span></span>96.6%</a></li>
+<li><a href="#org3862ed1">47.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 05:00&gt;</span></span>96.9%</a></li>
+<li><a href="#org54a8838">47.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 06:06&gt;</span></span>98.7%</a></li>
+<li><a href="#org9148d83">47.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 11:06&gt;</span></span>98.7%</a></li>
+<li><a href="#orgfc49286">47.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 14:56&gt;</span></span>99.6%</a></li>
+<li><a href="#org368540b">47.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 Wed 20:43&gt;</span></span>96%</a></li>
+<li><a href="#orge7b1968">47.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 Thu 08:30&gt;</span></span>96%</a></li>
+<li><a href="#orge957f37">47.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 17:31&gt;</span></span>99.1%</a></li>
+<li><a href="#orgca12391">47.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 21:11&gt;</span></span>97.1%</a></li>
+<li><a href="#org36c295e">47.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 05:57&gt;</span></span>98.6%</a></li>
+<li><a href="#org86bbe18">47.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 05:21&gt;</span></span>97.4%</a></li>
+<li><a href="#org08655d4">47.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 06:25&gt;</span></span>97.8%</a></li>
+<li><a href="#orgd57476b">47.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 10:42&gt;</span></span>98.4%</a></li>
+<li><a href="#org9ea9daa">47.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 17:56&gt;</span></span>98.1%</a></li>
+<li><a href="#org2c039c1">47.17. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 06:32&gt;</span></span>98.5%</a></li>
+<li><a href="#org57f546d">47.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 06:17&gt;</span></span>97.6%</a></li>
+<li><a href="#org4fee55f">47.19. <span class="done DONE">DONE</span> Writing</a></li>
+<li><a href="#org84a3994">47.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 07:04&gt;</span></span>98.3%</a></li>
+<li><a href="#org9c066ed">47.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 21:02&gt;</span></span>98.4%</a></li>
+<li><a href="#org5360abc">47.22. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 09:42&gt;</span></span></a></li>
+<li><a href="#orgf848300">47.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 10:13&gt;</span></span>99.6%</a></li>
+<li><a href="#org851970a">47.24. <span class="done DONE">DONE</span> read aloud<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 05:26&gt;</span></span>45,44,43,42</a></li>
+<li><a href="#org2de61e6">47.25. <span class="done DONE">DONE</span> Writing words and review words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 06:14&gt;</span></span>five texts</a></li>
+<li><a href="#org5975f5f">47.26. Lesson 45</a></li>
+<li><a href="#org37f6ff4">47.27. text</a>
+<ul>
+<li><a href="#org34d29b1">47.27.1. elderly people</a></li>
+<li><a href="#orgce45ee8">47.27.2. a child</a></li>
+<li><a href="#org274ae75">47.27.3. an elderly man</a></li>
+<li><a href="#org80f6750">47.27.4. an adult</a></li>
+<li><a href="#orgb06aae5">47.27.5. an elderly woman</a></li>
+<li><a href="#orgb3c1eff">47.27.6. a teenager</a></li>
+<li><a href="#org9b1801c">47.27.7. to live</a></li>
+<li><a href="#org1dae95c">47.27.8. to be born</a></li>
+<li><a href="#org59440f4">47.27.9. to die</a></li>
+<li><a href="#orge7ec292">47.27.10. to grow old</a></li>
+<li><a href="#org9efb767">47.27.11. to mature</a></li>
+<li><a href="#org9d00bbe">47.27.12. to grow up</a></li>
+<li><a href="#org17f86c7">47.27.13. more often</a></li>
+<li><a href="#org47cf003">47.27.14. more rarely</a></li>
+<li><a href="#org78a5a6d">47.27.15. often</a></li>
+<li><a href="#org01f210d">47.27.16. slowly</a></li>
+<li><a href="#org63f5fe1">47.27.17. rarely</a></li>
+<li><a href="#org34d3f24">47.27.18. fast</a></li>
+<li><a href="#orgbdd0a08">47.27.19. a bald man</a></li>
+<li><a href="#org0fd449f">47.27.20. a gray man</a></li>
+<li><a href="#org81bcb2e">47.27.21. bald</a></li>
+<li><a href="#orgf80a281">47.27.22. a gray woman</a></li>
+<li><a href="#orgaf5cecc">47.27.23. a bald cat</a></li>
+<li><a href="#orga89e86c">47.27.24. gray</a></li>
+</ul>
+</li>
+<li><a href="#org9df869c">47.28. text</a>
+<ul>
+<li><a href="#org8dcb790">47.28.1. 英  [eɪdʒ]   美  [edʒ]</a></li>
+<li><a href="#org7ffa2ed">47.28.2. Children don't grow old, they grow up.</a></li>
+<li><a href="#org01173da">47.28.3. Teenagers also don't grow old, they mature.</a></li>
+<li><a href="#orged5377a">47.28.4. Elderly people grow old and die.</a></li>
+</ul>
+</li>
+<li><a href="#org897adaf">47.29. text</a>
+<ul>
+<li><a href="#org4d3e48b">47.29.1. stair</a></li>
+</ul>
+</li>
+<li><a href="#org789ebf0">47.30. It's hard for elderly people to climb the stairs.</a>
+<ul>
+<li><a href="#orgdfab32f">47.30.1. elevate</a></li>
+</ul>
+</li>
+<li><a href="#org5eba54e">47.31. Elderly people often have heart pain.</a></li>
+</ul>
+</li>
+<li><a href="#orgd402b4d">48. <span class="done DONE">DONE</span> Forty six 95.5%</a>
+<ul>
+<li><a href="#org68cbdc3">48.1. <span class="done DONE">DONE</span> Review forty six 96.6%</a></li>
+<li><a href="#orgccddee2">48.2. <span class="done DONE">DONE</span> Review 93.2%</a></li>
+<li><a href="#org7970598">48.3. <span class="done DONE">DONE</span> Review 95.9%</a></li>
+<li><a href="#org4106062">48.4. <span class="done DONE">DONE</span> Review 96.5%</a></li>
+<li><a href="#org920c474">48.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 05:06&gt;</span></span>96.4%</a></li>
+<li><a href="#org529792a">48.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 Tue 05:24&gt;</span></span>94.9%</a></li>
+<li><a href="#org6f9fb3b">48.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 Tue 14:20&gt; </span></span> 95.9%</a></li>
+<li><a href="#org7a0b965">48.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 04:46&gt;</span></span>96.8%</a></li>
+<li><a href="#orgb247671">48.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2003-09-19 Fri&gt;</span></span>96.9%</a></li>
+<li><a href="#org1bbe5c0">48.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 04:02&gt;</span></span>97.3%</a></li>
+<li><a href="#orge00932d">48.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 04:48&gt;</span></span>99.1%</a></li>
+<li><a href="#orge6ee2ca">48.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 20:51&gt;</span></span>94.1%</a></li>
+<li><a href="#org140c2a1">48.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 Wed 06:10&gt;</span></span>96.1%</a></li>
+<li><a href="#org591bdc7">48.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 14:07&gt;</span></span>98.9%</a></li>
+<li><a href="#orge25a85e">48.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 19:13&gt;</span></span>99.2%</a></li>
+<li><a href="#org28b5a19">48.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 14:45&gt;</span></span>95.7%</a></li>
+<li><a href="#orgdf62e79">48.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 05:30&gt;</span></span>96.5%</a></li>
+<li><a href="#orgea9fa26">48.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 06:20&gt;</span></span>97.7%</a></li>
+<li><a href="#org3acd54f">48.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-24 Tue 06:28&gt;</span></span>97.3%</a></li>
+<li><a href="#org107abba">48.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-24 Tue 09:15&gt;</span></span>98.2%</a></li>
+<li><a href="#orgd8c09fe">48.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 20:24&gt;</span></span>98.2%</a></li>
+<li><a href="#org3ee996a">48.22. text</a>
+<ul>
+<li><a href="#org00ae4a9">48.22.1. a bracelet</a></li>
+<li><a href="#orgbc0da39">48.22.2. a pendant</a></li>
+<li><a href="#org931b0ee">48.22.3. earrings</a></li>
+<li><a href="#orgd16fcba">48.22.4. a ring</a></li>
+<li><a href="#orgacb8200">48.22.5. chain</a></li>
+<li><a href="#org19d9440">48.22.6. a necklace</a></li>
+<li><a href="#org4999667">48.22.7. gold</a></li>
+<li><a href="#org5e3abec">48.22.8. a jeweler</a></li>
+<li><a href="#org537b47d">48.22.9. a jewelry store</a></li>
+<li><a href="#orga98bade">48.22.10. a silver</a></li>
+<li><a href="#orged2c24e">48.22.11. diamond</a></li>
+<li><a href="#orgc203726">48.22.12. jewels</a></li>
+<li><a href="#org0e9f534">48.22.13. text</a></li>
+<li><a href="#org7f07b37">48.22.14. a jewelry store</a></li>
+<li><a href="#org2595bbe">48.22.15. a silver</a></li>
+<li><a href="#org493de80">48.22.16. diamond</a></li>
+<li><a href="#org1b16a8f">48.22.17. jewels</a></li>
+</ul>
+</li>
+<li><a href="#orga174b82">48.23. text</a></li>
+<li><a href="#org2a5d912">48.24. Lesson 46</a></li>
+<li><a href="#orgbdfb2ef">48.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 19:39&gt;</span></span>97.5%</a></li>
+</ul>
+</li>
+<li><a href="#org040e17c">49. <span class="done DONE">DONE</span> Forty seven</a>
+<ul>
+<li><a href="#org19e0f37">49.1. <span class="done DONE">DONE</span> Review 92.5%</a></li>
+<li><a href="#org64a23f7">49.2. <span class="done DONE">DONE</span> Review 96.9%</a></li>
+<li><a href="#orgfae7252">49.3. <span class="done DONE">DONE</span> Review 96.7%</a></li>
+<li><a href="#orgce272c7">49.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 06:31&gt;</span></span>95%</a></li>
+<li><a href="#org0888834">49.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 04:36&gt;</span></span>97%</a></li>
+<li><a href="#orgf35a49c">49.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 05:03&gt;</span></span>98.2%</a></li>
+<li><a href="#orga892d3a">49.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 09:22&gt;</span></span>98.9%</a></li>
+<li><a href="#orgcabe6c0">49.8. text</a>
+<ul>
+<li><a href="#org0efad25">49.8.1. legs</a></li>
+<li><a href="#org0f80e8b">49.8.2. The chest</a></li>
+<li><a href="#orgb50e68f">49.8.3. arms</a></li>
+<li><a href="#org1c8b417">49.8.4. the head</a></li>
+<li><a href="#org40d075e">49.8.5. the belly</a></li>
+<li><a href="#org7b5449d">49.8.6. the mouth</a></li>
+<li><a href="#org66ecb19">49.8.7. the brain</a></li>
+<li><a href="#org2682578">49.8.8. the teeth</a></li>
+<li><a href="#org3a95783">49.8.9. the lungs</a></li>
+<li><a href="#org8c5662c">49.8.10. the tongue</a></li>
+<li><a href="#org05ed16e">49.8.11. the liver</a></li>
+<li><a href="#orgea57af3">49.8.12. the stomach</a></li>
+<li><a href="#orgc5540f9">49.8.13. to see</a></li>
+<li><a href="#org477e635">49.8.14. to speak</a></li>
+<li><a href="#org375a91b">49.8.15. to think</a></li>
+<li><a href="#orgd045f8e">49.8.16. to bite</a></li>
+<li><a href="#orgcfbba72">49.8.17. to breathe</a></li>
+<li><a href="#org9b186b0">49.8.18. to chew</a></li>
+<li><a href="#org8850367">49.8.19. strong teeth</a></li>
+<li><a href="#org66f1ecc">49.8.20. fragile bones</a></li>
+<li><a href="#org63aa67c">49.8.21. strong bones</a></li>
+<li><a href="#org353bda6">49.8.22. strong</a></li>
+<li><a href="#org3b0001a">49.8.23. fragile</a></li>
+<li><a href="#orga970b4f">49.8.24. fragile teeth</a></li>
+</ul>
+</li>
+<li><a href="#orgb99c44a">49.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 03:36&gt;</span></span>97.7%</a></li>
+<li><a href="#orgf7f7f3d">49.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 07:48&gt;</span></span>96.5%</a></li>
+<li><a href="#org0291eda">49.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 14:11&gt;</span></span>97.7%</a></li>
+<li><a href="#org0dbd098">49.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 04:26&gt;</span></span>99.1%</a></li>
+<li><a href="#org7604de8">49.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 05:46&gt;</span></span>99.6%</a></li>
+<li><a href="#org1519ab5">49.14. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 11:50&gt;</span></span>96.3%</a></li>
+<li><a href="#org74489f5">49.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 05:57&gt;</span></span>97.2%</a></li>
+<li><a href="#orgd91bc42">49.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 14:39&gt;</span></span>97.3%</a></li>
+<li><a href="#org3f6208a">49.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 19:14&gt;</span></span>97.6%</a></li>
+<li><a href="#orgde6c928">49.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 13:56&gt;</span></span>97.8%</a></li>
+<li><a href="#org0bb914a">49.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 10:26&gt;</span></span>98.1%</a></li>
+<li><a href="#orga19138b">49.20. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 12:04&gt;</span></span></a></li>
+<li><a href="#orgaf84e2b">49.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 05:56&gt;</span></span>99.1%</a></li>
+<li><a href="#org174a89a">49.22. text</a></li>
+</ul>
+</li>
+<li><a href="#org8595453">50. <span class="done DONE">DONE</span> Lesson Forty eitht 94.8%</a>
+<ul>
+<li><a href="#org209de41">50.1. <span class="done DONE">DONE</span> Review 92.6%</a></li>
+<li><a href="#orgf7bdcc3">50.2. <span class="done DONE">DONE</span> Review 95%</a></li>
+<li><a href="#org8b416c0">50.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 06:02&gt;</span></span>97.4%</a></li>
+<li><a href="#org7ec35c5">50.4. <span class="done DONE">DONE</span> Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 09:02&gt;</span></span>97%</a></li>
+<li><a href="#org54d9381">50.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 05:33&gt;</span></span>99.1%</a></li>
+<li><a href="#org9508231">50.6. text</a>
+<ul>
+<li><a href="#orga701849">50.6.1. a sculptor</a></li>
+<li><a href="#org1f1452e">50.6.2. a ballerina</a></li>
+<li><a href="#orgf011f89">50.6.3. a poet</a></li>
+<li><a href="#org4998ce1">50.6.4. an actor</a></li>
+<li><a href="#org2136c41">50.6.5. a painter</a></li>
+<li><a href="#org086f2e8">50.6.6. a singer</a></li>
+<li><a href="#orgaada094">50.6.7. paints</a></li>
+<li><a href="#orgc0f6d59">50.6.8. wood</a></li>
+<li><a href="#orga2c7041">50.6.9. pencial</a></li>
+<li><a href="#org5e40d98">50.6.10. canvas</a></li>
+<li><a href="#org648c244">50.6.11. clay</a></li>
+<li><a href="#orgd24f652">50.6.12. brushes</a></li>
+<li><a href="#org8f98851">50.6.13. to sculpt</a></li>
+<li><a href="#orgc4b6fa5">50.6.14. to sing</a></li>
+<li><a href="#org5c4facd">50.6.15. to write</a></li>
+<li><a href="#org5432ee0">50.6.16. to carve</a></li>
+<li><a href="#org1bb1215">50.6.17. to dance</a></li>
+<li><a href="#org5d8c360">50.6.18. to draw</a></li>
+<li><a href="#org2d36826">50.6.19. opera</a></li>
+<li><a href="#orgced2da4">50.6.20. a sculpture</a></li>
+<li><a href="#org82af39f">50.6.21. poems</a></li>
+<li><a href="#org66492fe">50.6.22. ballet</a></li>
+<li><a href="#org538cffc">50.6.23. painting</a></li>
+<li><a href="#orgcc81978">50.6.24. a museum</a></li>
+<li><a href="#org7e48063">50.6.25. a famous  painting hangs in a museum.</a></li>
+</ul>
+</li>
+<li><a href="#org99ada8f">50.7. <span class="done DONE">DONE</span> Revew<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-10 Mon 20:27&gt;</span></span>95.7%</a></li>
+<li><a href="#org7ced958">50.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 06:15&gt;</span></span>97.5%</a></li>
+<li><a href="#org986ac3b">50.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 20:45&gt;</span></span>98.9%</a></li>
+<li><a href="#org3c87e52">50.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 03:59&gt;</span></span>99.5%</a></li>
+<li><a href="#org1b59d2c">50.11. <span class="done DONE">DONE</span> Revew<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 07:31&gt;</span></span>96.6%</a></li>
+<li><a href="#orgfeb384c">50.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 10:19&gt;</span></span>97.6%</a></li>
+<li><a href="#orgb4b5b14">50.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 18:27&gt;</span></span>98.9%</a></li>
+<li><a href="#org1645c4e">50.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 21:02&gt;</span></span>98.5</a></li>
+<li><a href="#org27659f4">50.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 07:09&gt;</span></span>99.4%</a></li>
+<li><a href="#orgce80096">50.16. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 08:40&gt;</span></span></a></li>
+<li><a href="#org83dc3ec">50.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 09:53&gt;</span></span>99.8%</a></li>
+<li><a href="#orgc2c055e">50.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 05:32&gt;</span></span>98.8%</a></li>
+<li><a href="#orgdb653af">50.19. Lesson forty eight</a></li>
+</ul>
+</li>
+<li><a href="#orgb2d9553">51. <span class="done DONE">DONE</span> Forty nine 96.3%</a>
+<ul>
+<li><a href="#org830106a">51.1. <span class="done DONE">DONE</span> Review 94.7%</a></li>
+<li><a href="#org9c9142b">51.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 04:17&gt;</span></span>96%</a></li>
+<li><a href="#orgcffe261">51.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 04:46&gt;</span></span>99.0%</a></li>
+<li><a href="#org774579a">51.4. text</a></li>
+<li><a href="#org4190b1f">51.5. a capital</a></li>
+<li><a href="#org6cc305e">51.6. an emblem</a>
+<ul>
+<li><a href="#org065a0c8">51.6.1. a building</a></li>
+<li><a href="#orga8376b9">51.6.2. a flag</a></li>
+<li><a href="#orgcc95146">51.6.3. a country</a></li>
+<li><a href="#org04313f1">51.6.4. a city</a></li>
+<li><a href="#org9e780a3">51.6.5. a government</a></li>
+<li><a href="#orgae451bc">51.6.6. a president</a></li>
+<li><a href="#org58a3bc0">51.6.7. a citizen</a></li>
+<li><a href="#orgcce3172">51.6.8. a government building</a></li>
+<li><a href="#orgf0a0f6c">51.6.9. to run</a></li>
+<li><a href="#org7311a95">51.6.10. The government is located in the capital.</a></li>
+<li><a href="#orga231cd7">51.6.11. A weak government doesn't ensure peace in the country.</a></li>
+<li><a href="#org08ae6cb">51.6.12. A weak government doesn't ensure peace in the country.</a></li>
+</ul>
+</li>
+<li><a href="#org762ab6a">51.7. <span class="done DONE">DONE</span> Review Forty nine 95.3%</a></li>
+<li><a href="#org66ace8f">51.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 04:34&gt;</span></span>98.7%</a></li>
+<li><a href="#org418c1ba">51.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 14:17&gt;</span></span>95.1%</a></li>
+<li><a href="#orgb3441f3">51.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 19:18&gt;</span></span>97.1%</a></li>
+<li><a href="#org841a841">51.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 20:27&gt;</span></span>96.7%</a></li>
+<li><a href="#org824c075">51.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 06:08&gt;</span></span>97.7%</a></li>
+<li><a href="#org6792d66">51.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 07:32&gt;</span></span>98.5%</a></li>
+<li><a href="#org5f77072">51.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 19:11&gt;</span></span>99.3%</a></li>
+<li><a href="#org45f7799">51.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 11:13&gt;</span></span>96.2%</a></li>
+<li><a href="#orgaadfafa">51.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 12:18&gt;</span></span>97.8%</a></li>
+<li><a href="#orgb9b7ec3">51.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 20:29&gt;</span></span>98.1%</a></li>
+<li><a href="#orgfd637da">51.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 06:24&gt;</span></span>98.5%</a></li>
+<li><a href="#orgba0083d">51.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 20:22&gt;</span></span>98.6%</a></li>
+<li><a href="#orgc89ed84">51.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 09:59&gt;</span></span>98.5%</a></li>
+<li><a href="#orgf8311c8">51.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 17:25&gt;</span></span>98.8%</a></li>
+<li><a href="#org8b0f498">51.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 17:52&gt;</span></span>99.3%</a></li>
+<li><a href="#orgb939381">51.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 21:10&gt;</span></span>96.5%</a></li>
+<li><a href="#org9978d5a">51.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 20:29&gt;</span></span>98.5%</a></li>
+<li><a href="#org567d42d">51.25. Lesson forty nine</a></li>
+</ul>
+</li>
+<li><a href="#orgabed31b">52. <span class="done DONE">DONE</span> Fifty 95.0%</a>
+<ul>
+<li><a href="#org17b44b6">52.1. Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 12:11&gt;</span></span>98.8%</a></li>
+<li><a href="#org0279f3c">52.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 18:39&gt;</span></span>99.2%</a></li>
+<li><a href="#org0612fe8">52.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 02:20&gt;</span></span>99.1%</a></li>
+<li><a href="#orgb483837">52.4. text</a></li>
+<li><a href="#org48d1015">52.5. <span class="done DONE">DONE</span> Review Fifty 96.7%</a></li>
+<li><a href="#org3c2ebb7">52.6. <span class="done DONE">DONE</span> Review 96.4%</a></li>
+<li><a href="#org7f652bc">52.7. <span class="done DONE">DONE</span> Review 96.7%</a></li>
+<li><a href="#orgc4f18d6">52.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 03:56&gt;</span></span>99.1%</a></li>
+<li><a href="#orgf867b14">52.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 05:02&gt;</span></span>99.6%</a></li>
+<li><a href="#orgbf9e0af">52.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 06:33&gt;</span></span>98.6%</a></li>
+<li><a href="#org1a3c2e8">52.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 19:49&gt;</span></span>99.3%</a></li>
+<li><a href="#org122053a">52.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 05:31&gt;</span></span>99.4%</a></li>
+<li><a href="#orgbe2c476">52.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 16:16&gt;</span></span>97.1%</a></li>
+<li><a href="#org0d0f9a1">52.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 17:51&gt;</span></span>98.8%</a></li>
+<li><a href="#org6c975c4">52.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 05:56&gt;</span></span>98.2%</a></li>
+<li><a href="#org93e75bf">52.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-08 Tue 05:01&gt;</span></span>98.3%</a></li>
+<li><a href="#org2cd922a">52.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-14 Mon 06:10&gt;</span></span>97.4%</a></li>
+<li><a href="#orgda5b1da">52.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-20 Fri 05:52&gt;</span></span>97.1%</a></li>
+<li><a href="#orgad4b653">52.19. <span class="done DONE">DONE</span> Writing</a></li>
+<li><a href="#org65aea10">52.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-20 Fri 21:21&gt;</span></span>97.5%</a></li>
+<li><a href="#org2f2573b">52.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-21 Sat 06:27&gt;</span></span>98.5%</a></li>
+<li><a href="#org7c0cf16">52.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 11:55&gt;</span></span>98.2%</a></li>
+<li><a href="#orge0bdaf6">52.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 20:10&gt;</span></span>98.4%</a></li>
+<li><a href="#org0bbaa79">52.24. Lesson fifty</a></li>
+</ul>
+</li>
+<li><a href="#org0857226">53. <span class="done DONE">DONE</span> listen</a></li>
+<li><a href="#orgb9130e0">54. <span class="done DONE">DONE</span> listen 英语发音unit one</a>
+<ul>
+<li><a href="#org5e56f2d">54.1. words</a>
+<ul>
+<li><a href="#orgffa1906">54.1.1. neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 Tue&gt;</span></span></a></li>
+</ul>
+</li>
+<li><a href="#org29f8e13">54.2. <span class="todo TODO">TODO</span> </a>
+<ul>
+<li><a href="#org7aebd4f">54.2.1. text</a></li>
+<li><a href="#orgbe0e4f3">54.2.2. to receive</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orge8a4195">55. <span class="done DONE">DONE</span> Wrting<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 15:13&gt;</span></span></a></li>
 </ul>
 </div>
 </div>
 
-# DONE Lesson one     :one:<a id="orgheadline9"></a>
+<a id="org02e4241"></a>
 
-## text<a id="orgheadline1"></a>
+# Lesson one     :one:
+
+
+<a id="orgdb80def"></a>
+
+## learn history
+
+
+<a id="orgafdcf55"></a>
+
+### text
 
 a man
 a woman
@@ -1172,13 +1523,76 @@ a flower
 
 The monkey is sitting down.
 The woman is  STARTElying down
-The boy is\*\* DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 五 19:10&gt;</span></span>96%
- \*\* DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 五 19:10&gt;</span></span>96%
-   CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-10-14 五 19:48]</span></span>
+The bo=>\*\* Lesson forty six
+a necklace a pendant a  chain a ring a bracelet earrings
 
-CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-10-14 五 19:48]</span></span>
+a jeweler silver jewels gold a  jewelry store a diamond
 
-19:10]--<span class="timestamp-wrapper"><span class="timestamp">[2016-10-14 五 19:48] </span></span> =>  0:38
+to give to be happy to marry to court to love to propose
+
+a golden ring
+silver earrings with small diamonds.
+a pendant with a diamond on a golden chair.
+a necklace with jewels.
+a golden necklace with large jewels.
+a silver bracelet
+
+expensive
+more expensive
+cheap
+cheaper
+bigger
+smaller
+
+Jewelry with diamonds is expensive even with a discount.
+Golden and silver jewelry is very expensive.
+A jeweler makes jewelry with jewels.
+People love to buy golden jewelrty with a discount.
+In the jewelry store there's a sale - there are many shoppers.
+A woman is looking at the jewelry in the jewelry store.
+
+The man is telling the woman that he loves her. He is proposing to her.
+The man is giving the woman a golden ring because he wants to marry her.
+A woman likes it when she is courted - she loves flowers and jewelry.
+The man is courting the woman - he's giving her flowers and jewelry.
+The man is giving the woman expensive jewelry because he loves her.
+The woman takes the golden ring because she also loves the man.
+
+Women are always happy if they're given flowers and jewels.
+A man is sad if he can't give his wife a golden pendant.
+When a rich man courts a woman, he gives her diamonds.
+When a poor man courts a woman, he gives her flowers.
+The man is giving his wife a golden neaclace with diamonds, so she is happy.
+The woman can't buy a golden bracelet with jewels, so she is sad.
+
+Women love jewels more than flowers.
+There are fewer jewels on the bracelet than on the necklace.
+A woman wears more jewelry in a nightclub than at work.
+Golden jewelrty is more expensive than silver jewelry.
+A woman loves to go to a jewelry store more than a market.
+Silver jewelry is less expensive than golden jewelry.
+
+Why is the boyfriend giving his girlfriend a pendant? He's courting her. He
+loves her.
+Why are there so may people in the jewelry store? In the store there's a sale.
+People are buying jewelry with a discount.
+Why is the girl happy? Her dad gives her golden earring. She loves jewelry.
+Why are the boyfriend and girlfriend picking out a ring? They want to marry.
+They love to each other.
+Why are these earrings so expensive? There are very expensive diamonds in them.
+Diamonds is very expensive jewels.
+Why is the woman sad? She can't buy a golden pendant. She has little money.
+
+their 2:26
+
+y <span class="timestamp-wrapper"><span class="timestamp">[2016-10-28 Fri 08:40]</span></span>
+is\*\* DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 19:10&gt;</span></span>96%
+ \*\* DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 19:10&gt;</span></span>96%
+   CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-10-14 Fri 19:48]</span></span>
+
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-10-14 Fri 19:48]</span></span>
+
+19:10]--<span class="timestamp-wrapper"><span class="timestamp">[2016-10-14 Fri 19:48] </span></span> =>  0:38
 
  sitting down
 The monkey is standing
@@ -1187,7 +1601,7 @@ The girl is standing
 the woman is walk
 ing
 The giraffe is walking.
-The boy is r|&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;+-&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;+&#x2013;&#x2014;&#x2014;+&#x2014;&#x2014;|
+The boy is r|-------------&#x2013;&#x2014;+--------------------------------------&#x2013;&#x2014;+---&#x2013;&#x2014;+-&#x2013;&#x2014;|
 unning.
 The woman is standing.
 The girl is running.
@@ -1227,119 +1641,271 @@ Is the monkey walking? No,the monkey is sitting down.
 Is the girl standing up? No, the girl is sitting down.
 Is the bird running? No, the bird is flying.
 
-## DONE Review 98.4%<a id="orgheadline2"></a>
 
-## 复习98.7%     :one:<a id="orgheadline3"></a>
+<a id="orga4eca75"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 五 06:41&gt; </span></span> 99.4%<a id="orgheadline4"></a>
+### Review 98.4%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 20:33&gt; </span></span> 99.7%<a id="orgheadline5"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 五 15:08&gt;</span></span>99.9%<a id="orgheadline6"></a>
+<a id="orgcfb831f"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 07:08&gt;</span></span>99.9%<a id="orgheadline7"></a>
+### 复习98.7%     :one:
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 09:06&gt;</span></span>100%     :LOGBOOK:<a id="orgheadline8"></a>
 
--   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-10-02 日 00:06]</span></span>
+<a id="org7ab51f8"></a>
 
-# DONE Lesson two 97.9%     :two:<a id="orgheadline17"></a>
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 06:41&gt; </span></span> 99.4%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 五 14:25&gt; </span></span> 98.9%<a id="orgheadline10"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 五 15:33&gt;</span></span>98.2%<a id="orgheadline11"></a>
+<a id="org95c3c01"></a>
 
-## DONE R#eview <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 03:41&gt; </span></span> 99.2%<a id="orgheadline12"></a>
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 20:33&gt; </span></span> 99.7%
 
-## text<a id="orgheadline13"></a>
 
-black
-red
-blue
-white
-green
+<a id="orgbf346ae"></a>
 
-a horse
-a banana
-a car
-a dress
-a bag
-an orange
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 15:08&gt;</span></span>99.9%
 
-big
-small
-short
-a man and a woman
-a boy and a girl
-long
 
-a white horse
-blue sky
-a green tree
-a black car
-a white plate
-a red :bag
+<a id="org16b3142"></a>
 
-a short yellow dress
-a big red bag
-a long black dress
-a short yellow dress
-a small yellow car
-a long white car
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 07:08&gt;</span></span>99.9%
 
-a small green tree
-a big tree
-a blue bag
-a small black horse
-a blue dress
 
-a small pink bag
-a black bag
-a pink flower
-blue sky
-pink dress
-A boy is eating a yellow banana.
+<a id="org4a47da5"></a>
 
-The black monkey is walking.
-a yellow flower
-a long white dress
-a white flower
-The white bear is swimming.
-The white plate is flying.
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 09:06&gt;</span></span>100%     :LOGBOOK:
 
-Is the bag red? Yes, the bag is red.
-Is the dress blue? Yes, the dress is blue.
-Is the car black? Yes, the car is black.
-Is the banana yellow? Yes, the banana is yellow.
-Is the tree green? Yes, the tree is green.
-Is the bear white?  Yes, the bear is white.
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-10-02 Sun 00:06]</span></span>
 
-Is the black dress long? No, it's short.
-Is the long dress white? No, it's black.
-Is the plate big? No, it is small.
-Is the green tree big? No, it is small.
-Is the plate small? No, it is big.
-Is the tree small? No, it is big.
 
-## DONE Review 99%<a id="orgheadline14"></a>
+<a id="org4ae9d68"></a>
 
-## DONE 复习98.9%<a id="orgheadline15"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 06:30&gt;</span></span>99.4%
+
+
+<a id="org576d6cd"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 06:33&gt;</span></span>99.3%
+
+
+<a id="orgceebafa"></a>
+
+## Lesson 1
+
+a man
+a woman
+a boy
+a girl
+a monkey
+a giraffe
+
+to stand
+to walk
+to sit
+to run
+to eat
+to drink
+
+a plate
+a bird
+a fish
+a helicopter
+a tree
+a flower
+
+The woman is lying down.
+The man is lying down.
+The boy is sitting down.
+The monkey is standing.
+The monkey is sitting down.
+The woman is sitting down.
+
+The giraffe is walking.
+The woman is standing.
+The woman is walking.
+The girl is standing.
+The girl is running.
+The boy is running.
+
+The plate is flying.
+The bird is flying.
+The helicopter is flying.
+The man is swimming.
+The fish is swimming.
+The man is flying.
+
+The man is eating.
+The boy is eating.
+The bird is drinking.
+The girl is drinking.
+The man is drinking.
+The monkey is eating.
+
+The girl is walking.
+The bear is lying down.
+The giraffe is walking.
+The boy is running.
+The girl is running.
+The monkey is walking.
+
+Is the woman drinking? Yes, the woman is drinking.
+Is the giraffe eating? Yes, the giraffe is eating.
+Is the man walking? Yes, the man is walking.
+Is the boy walking? Yes, the boy is walking.
+Is the bear swimming? Yes, the bear is swimming.
+Is the bird eating? Yes, the bird is eating.
+
+Is the bird running? No, the bird is flying.
+Is the fish flying? No, the fish is swimming.
+Is the giraffe running? No, the giraffe is standing.
+Is the monkey walking? No, the monkey is sitting down.
+Is the bar eating? No, the bear is swimming.
+Is the girl standing up? No, the girl is sitting down.
+
+
+<a id="orga3abc33"></a>
+
+# Lesson two
+
+
+<a id="org1c45111"></a>
+
+## learn history
+
+
+<a id="org58b64d4"></a>
+
+### Review 99%
+
+
+<a id="orgb057c2d"></a>
+
+### 复习98.9%
 
 :LOGBOOK:
 
 -   State "DONE"       from "STARTED"    [2016-07-25
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 六 18:41&gt;</span></span>100%<a id="orgheadline16"></a>
 
-# DONE Lesson three 97.4%     :three:<a id="orgheadline35"></a>
+<a id="org5ba7fc1"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 五 14:41&gt; </span></span> 98.5%<a id="orgheadline18"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 18:41&gt;</span></span>100%
 
-## DONE 复习98.3<a id="orgheadline19"></a>
 
-## DONE Review three 97.2%<a id="orgheadline20"></a>
+<a id="org23cef3b"></a>
 
-## text<a id="orgheadline21"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 06:29&gt;</span></span>99.8%
+
+
+<a id="org11e73aa"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 07:05&gt;</span></span>99.4%
+
+
+<a id="org02d5d0a"></a>
+
+## Lesson 2
+
+red
+yellow
+green
+black
+white
+blue
+
+a car
+a horse
+a bag
+a dress
+an orange
+a banana
+
+long
+short
+big
+small
+a man and a woman
+a boy and a girl
+
+a red bag
+a white horse
+blue sky
+a green tree
+a black car
+a white plate
+
+a small yellow car
+a big red bag
+a short red dress
+a long black dress
+a short yellow dress
+a long white car
+
+a blue bag
+a big tree
+a blue car
+a small black horse
+a blue dress
+a small green tree
+
+A boy is eating a yellow banana.
+a small pink bag
+blue sky
+a pink flower
+pink dress
+a black bag
+
+The black monkey is walking.
+The white plate is flying.
+a long white dress
+The white bear is swimming.
+a yellow flower
+a white flower
+
+Is the bear white? Yes, the bear is white.
+Is the dress blue? Yes, the dress is blue.
+Is the tree green? Yes, the tree is green.
+Is the bag red? Yes, the bag is red.
+Is the banana yellow? Yes, the banana is yellow.
+Is the car black? Yes, the car is black.
+
+Is the long dress white? No, it's black.
+Is the plate big? No, it is small.
+Is the plate small? No, it is big.
+Is the black dress long? No, it's short.
+Is the tree small? No, it is big.
+Is the green tree big? No, it is small.
+
+
+<a id="orgdb3f141"></a>
+
+# Lesson three 97.4%     :three:
+
+
+<a id="org48abc4e"></a>
+
+## learning history
+
+
+<a id="org9ec13b3"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 14:41&gt; </span></span> 98.5%
+
+
+<a id="org35ad1ce"></a>
+
+### 复习98.3
+
+
+<a id="orgeaa9a37"></a>
+
+### Review three 97.2%
+
+
+<a id="org1074018"></a>
+
+### text
 
 water
 grass
@@ -1381,7 +1947,7 @@ The woman and man are in the shop.
 water in a glass.
 The woman and the man are in the shop.
 A flower in a glass.
-The boy and the girl are sitting in a car.
+The boy and he girl are sitting in a car.
 The woman and the man are in a resgtaurant.
 
 A woman with a white bear.
@@ -1414,59 +1980,219 @@ Is the monkey under the water? No, the bird is over the water.
 Is the man with a glass on the right? No, he is on the left.
 Is the woman with a bag? No, she is under a big umbrella.
 
-## DONE Review 98%<a id="orgheadline22"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 10:00&gt;</span></span>98.8%<a id="orgheadline23"></a>
+<a id="org588d66c"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 05:36&gt;</span></span>99.1%<a id="orgheadline24"></a>
+### Review 98%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 05:51&gt;</span></span>99.5%<a id="orgheadline25"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 六 09:39&gt;</span></span>99.6%<a id="orgheadline26"></a>
+<a id="org09dc682"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 三 07:35&gt;</span></span>99.6%<a id="orgheadline27"></a>
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 10:00&gt;</span></span>98.8%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 四 19:49&gt;</span></span>99.7%<a id="orgheadline28"></a>
+
+<a id="orgfa3485b"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 05:36&gt;</span></span>99.1%
+
+
+<a id="orge622485"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 05:51&gt;</span></span>99.5%
+
+
+<a id="orgfba1b0a"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 09:39&gt;</span></span>99.6%
+
+
+<a id="org08ce971"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 07:35&gt;</span></span>99.6%
+
+
+<a id="org24ff083"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 19:49&gt;</span></span>99.7%
 
 :LOGBOOK:
 
--   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-29 四 20:06]</span></span>
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-29 Thu 20:06]</span></span>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 13:55&gt;</span></span>99.3%<a id="orgheadline29"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 14:15&gt;</span></span>99.6%<a id="orgheadline30"></a>
+<a id="orga3991ef"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 14:31&gt;</span></span>99.9%<a id="orgheadline31"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 13:55&gt;</span></span>99.3%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 19:19&gt;</span></span>99.9%<a id="orgheadline32"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 19:37&gt;</span></span>99.9%<a id="orgheadline33"></a>
+<a id="org8eb5a47"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 一 10:36&gt;</span></span>100%<a id="orgheadline34"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 14:15&gt;</span></span>99.6%
 
-# DONE Lesson four 98%     :four:<a id="orgheadline47"></a>
 
-## DONE 复习98.3%<a id="orgheadline36"></a>
+<a id="org699607f"></a>
 
-## DONE Review 98.7%<a id="orgheadline37"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 14:31&gt;</span></span>99.9%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 五 16:12&gt; </span></span> 96.1%<a id="orgheadline38"></a>
 
-## DONE Review four 98.3%<a id="orgheadline39"></a>
+<a id="org7947cc8"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 10:18&gt;</span></span>99.3%<a id="orgheadline40"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 19:19&gt;</span></span>99.9%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 09:27&gt;</span></span>99.3%<a id="orgheadline41"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 10:50&gt;</span></span>99.6%<a id="orgheadline42"></a>
+<a id="org69bfaf2"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 06:12&gt;</span></span>99.9%<a id="orgheadline43"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 19:37&gt;</span></span>99.9%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;1970-10-19 一&gt;</span></span>99.8%<a id="orgheadline44"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 20:08&gt;</span></span>100%<a id="orgheadline45"></a>
+<a id="org3ff499a"></a>
 
-## text<a id="orgheadline46"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 10:36&gt;</span></span>100%
+
+
+<a id="orgf48248b"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 09:08&gt;</span></span>99.6%
+
+
+<a id="org3b154d2"></a>
+
+## Lesson 3
+
+water
+grass
+stone
+sand
+an umbrella
+a glass
+
+over
+under
+behind
+in front of
+with
+without
+
+on the left
+on the right
+around
+between
+in
+on
+
+The woman is between the men.
+A man is over the water.
+A man is over the grass.
+The man is between the women.
+The man is standing under a blue umbrella.
+The man is sitting under a tree.
+
+A gir is on the giraffe.
+a woman in red
+The woman is sitting on the sand.
+A big stone is on the grass.
+A woman is on a big stone.
+The woman is lying on the grass.
+
+The boy and the girl are sitting in a car.
+a man in the water
+The woman and the man are in a restaurant.
+water in a glass
+The woman and the man are in the shop.
+a flower in a glass
+
+a woman without an umbrella
+a woman with an umbrella
+Flowers are around the water.
+a girl without an orange
+a girl with an orange
+a woman with a white bear
+
+The boy without bananas is on the left.
+a man in front of a car
+The woman without a glass is on the right.
+The woman with the bananas is on the right.
+The man with a glass is on the left.
+a man behind a car
+
+Are the oranges around a plate? Yes, the oranges are around a plate.
+Are the oranges on a plate? Yes, the oranges are on a plate.
+Are the boys behind a tree? Yes, they are behind a tree.
+Is the woman with bananas? Yes, she is with bananas.
+Is the girl standing between the man and the woman? Yes, she is standing between the man and the woman.
+Are the boys sitting in front of a tree? Yes, the boys are sitting in front of a tree.
+
+Is the woman lying? No, she is sitting on a stone.
+Are the women in the water? No, they are lying on the sand.
+Is the woman wearing green? No, she is wearing red.
+Is the monkey under the water? No, the bird is over the water.
+Is the man with a glass on the right? No, he is on the left.
+Is the woman with a bag? No, she is under a big umbrella.
+
+
+<a id="orgd5bc38c"></a>
+
+# Lesson four 98%     :four:
+
+
+<a id="orgf7b6c78"></a>
+
+## Learning history
+
+
+<a id="orgad38768"></a>
+
+### 复习98.3%
+
+
+<a id="org2a40a10"></a>
+
+### Review 98.7%
+
+
+<a id="org8fecba3"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 16:12&gt; </span></span> 96.1%
+
+
+<a id="orgb9652b6"></a>
+
+### Review four 98.3%
+
+
+<a id="org2a67adc"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 10:18&gt;</span></span>99.3%
+
+
+<a id="orgc9ba1fa"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 09:27&gt;</span></span>99.3%
+
+
+<a id="orge18c23a"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 10:50&gt;</span></span>99.6%
+
+
+<a id="org3ebf9e8"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 06:12&gt;</span></span>99.9%
+
+
+<a id="orgdd04e6a"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;1970-10-19 Mon&gt;</span></span>99.8%
+
+
+<a id="org72ca5f7"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 20:08&gt;</span></span>100%
+
+
+<a id="org52f6c69"></a>
+
+### text
 
 I
 you
@@ -1541,47 +2267,186 @@ Is the boy reading a book? No, he is sitting in front of the television.
 Is she running? No, she is writing.
 Are they speaking with a flower? No, they are speaking on the telephone.
 
-# DONE Lesson five 97.2%<a id="orgheadline68"></a>
 
-## DONE Review 95.8%&#x2013;>97.6%<a id="orgheadline48"></a>
+<a id="org3bcd85c"></a>
 
-## DONE Review 96.7%<a id="orgheadline49"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 09:57&gt;</span></span>99.7%
 
-## DONE learn97.7%<a id="orgheadline50"></a>
 
-## DONE Review 97.8%<a id="orgheadline51"></a>
+<a id="org89ea5c1"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 六 16:12&gt; </span></span> 98%<a id="orgheadline52"></a>
+## Lesson 4
 
-## DONE Review five 97.2%<a id="orgheadline53"></a>
+I
+you
+he
+she
+it
+they
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 14:13&gt; </span></span> 97.9%<a id="orgheadline54"></a>
+to read
+to write
+to draw
+to speak
+to look
+to listen
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 11:08&gt;</span></span>98.9%<a id="orgheadline55"></a>
+a book
+a television
+a piece of paper
+a computer
+a telephone
+a clock
 
--   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-10 六 11:31]</span></span>
+They are reading.
+She is looking.
+They are speaking.
+He is looking.
+He is speaking.
+She is reading.
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 11:36&gt;</span></span>99.2%<a id="orgheadline56"></a>
+She is listening and then speaking.
+They are writing.
+He is writing.
+It is listening.
+She is drawing.
+He is drawing.
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 15:19&gt;</span></span>99.4%<a id="orgheadline57"></a>
+They are holding some books.
+She is sitting on some books.
+They are holding a big piece of paper.
+She is holding a small clock.
+She is holding a big clock.
+He is holding a piece of paper.
+
+It's in the computer.
+an old television
+He is with a computer.
+He is with a telephone and a computer.
+He is with a telephone.
+She is holding a bag.
+
+They are sitting under a tree reading books.
+He is looking at the computer.
+He is drawing on a piece of paper.
+He is speaking on the telephone.
+He is looking at the clock.
+She is listening to a shell.
+
+Is he looking at the computer? Yes, he is looking at the computer.
+Are they speaking on the telephone? Yes, they are speaking on the telephone.
+Is the clock in the book? Yes, it is in the book.
+Is the woman in red holding a piece of paper? Yes, she is holding a piece of paper.
+Is the computer on top of the books? Yes, the computer is on top of the books.
+Is he drawing on a piece of paper? Yes, he is drawing on a piece of paper.
+
+Is the boy reading a book? No, he is sitting in front of the television.
+Is the boy lying on the sand? No, he is speaking on the telephone.
+Are they speaking with a flower? No, they are speaking on the telephone.
+Is she running? No, she is writing.
+Is she sitting in the grass? No, she is drawing.
+Is he holding a book? No, he is holding a piece of paper.
+
+
+<a id="org33fcc5e"></a>
+
+# Lesson five 97.2%
+
+
+<a id="org1c87b67"></a>
+
+## learning history
+
+
+<a id="org7f7dd3f"></a>
+
+### Review 95.8%&#x2013;>97.6%
+
+
+<a id="orgb8195f4"></a>
+
+### Review 96.7%
+
+
+<a id="orgda95ad2"></a>
+
+### learn97.7%
+
+
+<a id="orgd705413"></a>
+
+### Review 97.8%
+
+
+<a id="org93ab0e0"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 16:12&gt; </span></span> 98%
+
+
+<a id="org8ca0e11"></a>
+
+### Review five 97.2%
+
+
+<a id="org27c72be"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 14:13&gt; </span></span> 97.9%
+
+
+<a id="orga413d52"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 11:08&gt;</span></span>98.9%
+
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-10 Sat 11:31]</span></span>
+
+
+<a id="org6043690"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 11:36&gt;</span></span>99.2%
+
+
+<a id="org83d0443"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 15:19&gt;</span></span>99.4%
 
 :LOGBOOK:
 
--   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-13 二 15:43]</span></span>
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-13 Tue 15:43]</span></span>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 一 20:05&gt;</span></span>99.7%<a id="orgheadline58"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 20:23&gt;</span></span>99.5%<a id="orgheadline59"></a>
+<a id="org00e1d8c"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-04 二 10:56&gt;</span></span>99.3%<a id="orgheadline60"></a>
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 20:05&gt;</span></span>99.7%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 04:18&gt;</span></span>99.6%<a id="orgheadline61"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 04:38&gt;</span></span>99.8%<a id="orgheadline62"></a>
+<a id="orga56378e"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 05:03&gt;</span></span>99.5%<a id="orgheadline63"></a>
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 20:23&gt;</span></span>99.5%
 
-## text<a id="orgheadline64"></a>
+
+<a id="org166b11a"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-04 Tue 10:56&gt;</span></span>99.3%
+
+
+<a id="orgfca4ee1"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 04:18&gt;</span></span>99.6%
+
+
+<a id="org58fa441"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 04:38&gt;</span></span>99.8%
+
+
+<a id="orgd1fddba"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 05:03&gt;</span></span>99.5%
+
+
+<a id="org9a83087"></a>
+
+### text
 
 a woman
 a woman with long hair
@@ -1657,23 +2522,146 @@ A woman with short white hair in red.
 The woman with black hair is writing.
 a woman with short white hair.
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 11:47&gt;</span></span>99.7%<a id="orgheadline65"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 日 16:03&gt;</span></span>99.1%<a id="orgheadline66"></a>
+<a id="orgbb14003"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 日 09:36&gt;</span></span>99.6%<a id="orgheadline67"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 11:47&gt;</span></span>99.7%
 
-# DONE Lesson six 99.1% good<a id="orgheadline82"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 六 16:34&gt; </span></span> 98%<a id="orgheadline69"></a>
+<a id="orgb88e5f1"></a>
 
-## DONE Review six 97.3%<a id="orgheadline70"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 16:03&gt;</span></span>99.1%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 日 06:48&gt;</span></span>98%<a id="orgheadline71"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 五 14:06&gt;</span></span>99.4%<a id="orgheadline72"></a>
+<a id="org55c76b5"></a>
 
-## text<a id="orgheadline73"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 09:36&gt;</span></span>99.6%
+
+
+<a id="orga3b62ed"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 19:29&gt;</span></span>99.8%
+
+
+<a id="org6b3ec44"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-10 Thu 11:32&gt;</span></span>
+
+
+<a id="orgce1048d"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 11:59&gt;</span></span>99.3%
+
+
+<a id="orgb83e495"></a>
+
+## Lesson 5
+
+A man is taking a photograph of a dog and a woman with long blak hair.
+She is sitting with a dog.
+A woman with long black hair and a dog.
+A woman with long hair.
+a woman
+a dog
+
+a bottle of Coca Cola
+The woman with short black hair is drinking.
+The woman with long white hair is sitting down.
+a woman with short black hair
+The woman with short black hair and the woman with long white hair are sitting
+on a bench.
+a woman with long white hair
+
+a man wearing glasses
+A man wearing glasses is sitting under a tree and reading a newspaper.
+A man wearing glasses is sitting down and reading.
+A man wearing glasses is sitting down.
+glasses
+a newspaper
+
+a camera
+a man with a long beard
+a beard
+a man with a camera
+The man with the camera is sittind down.
+The man with the long beard is sitting down.
+
+a woman
+The girl with black hair is sitting with the girl with white hair.
+A woman with a green umbrella
+The girl with white hair is drinking.
+The woman with a green umbrella is standing.
+The girl with black hair is sitting down.
+
+The woman with a small blue umbrella and a red and yellow flower in her black hair.
+a woman with black hair
+A girl with long white hair is sitting on a horse.
+a girl with long white hair
+a girl
+the woman with a red and yellow flower in her black hair.
+
+A man with a small black beard
+The man with a small black beard is sitting with the woman in a pink shawl.
+a woman in a pink shawl
+The woman in a pink shawl is sitting down.
+The man with a small black beard is sitting down.
+a shawl
+
+a boy with white hair
+A white plate is in front of the man with the black beard.
+The boy with white hair is on a bicycle.
+a bicycle
+A man with a black beard is wearing a yellow cap.
+a cap
+
+a red house on the water
+a red house
+a fan
+a woman with a fan
+a woman
+a house
+
+The woman with black hair is writing.
+A woman with black hair
+a woman with short white hair
+a woman with short white hair in red
+A woman is writing.
+The woman with short white hair is writing.
+
+
+<a id="orgdb6586f"></a>
+
+# Lesson six 99.1% good
+
+
+<a id="org053df0f"></a>
+
+## learn history
+
+
+<a id="org548934e"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 16:34&gt; </span></span> 98%
+
+
+<a id="orge103898"></a>
+
+### Review six 97.3%
+
+
+<a id="org54df323"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 06:48&gt;</span></span>98%
+
+
+<a id="org4151652"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 14:06&gt;</span></span>99.4%
+
+
+<a id="orgdcbd262"></a>
+
+### text
 
 autumn
 spring
@@ -1746,43 +2734,189 @@ Is it day or night? It is night.
 Is it autumn? No, it is winter: a monkey is sitting down in the snow.
 Is it summer? No, it is winter: a woman is running in the snow.
 
-## DONE learn six 97.4%<a id="orgheadline74"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 17:14&gt;</span></span>98%<a id="orgheadline75"></a>
+<a id="orgf5960c8"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 15:34&gt;</span></span>99.4%<a id="orgheadline76"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-29 Thu 05:35&gt;</span></span>99.6%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 20:05&gt;</span></span>99.6%<a id="orgheadline77"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 五 16:13&gt;</span></span>99.7%<a id="orgheadline78"></a>
+<a id="orgcff3dd9"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 15:26&gt;</span></span>99.6%<a id="orgheadline79"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 15:53&gt;</span></span>99.7%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 15:43&gt;</span></span>99.7%<a id="orgheadline80"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 日 16:00&gt;</span></span>99.4%<a id="orgheadline81"></a>
+<a id="org3059f1c"></a>
 
-# DONE Lesson seven 97.7%<a id="orgheadline92"></a>
+### learn six 97.4%
 
-## DONE Review 99.1%<a id="orgheadline83"></a>
 
-## DONE Review Seven 97.7%<a id="orgheadline84"></a>
+<a id="org94634f5"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 17:14&gt;</span></span>98%
+
+
+<a id="org4602497"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 15:34&gt;</span></span>99.4%
+
+
+<a id="orgb411cf9"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 20:05&gt;</span></span>99.6%
+
+
+<a id="org2ad625a"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 16:13&gt;</span></span>99.7%
+
+
+<a id="org78c00f2"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 15:26&gt;</span></span>99.6%
+
+
+<a id="org88b23f0"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 15:43&gt;</span></span>99.7%
+
+
+<a id="orgef99164"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 16:00&gt;</span></span>99.4%
+
+
+<a id="orgc91d7bc"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 05:50&gt;</span></span>99.9%
+
+
+<a id="org19d0641"></a>
+
+## Lesson6
+
+autumn
+winter
+spring
+summer
+night
+day
+
+snow
+rain
+wind
+ice
+a puddle
+dirt
+
+a car covered in snow
+A boy is in the snow.
+A woman with long hair is in the wind.
+a flower on the snow
+A man is in the wind.
+A glass is in the snow.
+
+a man and a woman on the ice
+a glass with ice
+Snow is dirty.
+The boy is dirty.
+a fish under the ice
+Car is dirty.
+
+a big puddle
+a little puddle
+A horse is drinking from a puddle.
+A bird is drinking from a puddle.
+An umbrella is in the rain.
+A woman with a red umbrella is in the rain.
+
+an autumn night
+a summer's night
+a spring day
+a winter's night
+a tree in spring time
+a winter's day
+
+Summer: a man on a bicycle in a puddle.
+Spring: a flower on the snow.
+Winter: a fish on the snow.
+Winter: a girl on the ice.
+Winter: a stone covered in snow.
+Summer: a woman on the sand.
+
+A tree in the snow at night
+a tree in the snow in the daytime
+a rainy night
+a green tree at night
+a woman in the wind in the daytime
+a rainy day
+
+Are there birds on the ice? Yes, there are birds on the ice.
+Is the car in a puddle? Yes, the car is in a puddle.
+Is the boy sitting down in the snow? Yes, the boy is sitting down in the snow.
+Is there ice on the grass? Yes, there is ice on the grass.
+Is the stone in a big puddle? Yes, the stone is in a big puddle.
+Is the woman sitting down in the snow? Yes, the woman is sitting down in the snow.
+
+Is it spring? No, it is winter: a girl is on the ice.
+Is it autumn? No, it is winter: a monkey is sitting down in the snow.
+Is it winter? No, it is summer: a woman is on the sand.
+Is it summer? No, it is winter: a woman is running in the snow.
+Is it night or day? It is day.
+Is it day or night? It is night.
+
+
+<a id="orgd810309"></a>
+
+# Lesson seven 97.7%
+
+
+<a id="org829ab3b"></a>
+
+## history
+
+
+<a id="org9c79d17"></a>
+
+### Review 99.1%
+
+
+<a id="org792bc14"></a>
+
+### Review Seven 97.7%
 
 前者的每一个字母各代表一个步骤，即预习(Preview)、提问(Question)、阅读(Read)、笔
 记(Write)、背诵(Recite)、复习(Review),是一种行之有效地与速读结合的阅读学习方法；
 后者是美国芝加哥大学教育研究所的哥特．莫斯博士发明的一种学习方法，旨在强化个人&#x2026;
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 六 19:20&gt; </span></span> 98%<a id="orgheadline85"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 日 10:03&gt;</span></span>99%<a id="orgheadline86"></a>
+<a id="orgc79177c"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 04:49&gt;</span></span>99.3%<a id="orgheadline87"></a>
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 19:20&gt; </span></span> 98%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 21:01&gt;</span></span>99.7%<a id="orgheadline88"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 日&gt;</span></span>99.6%<a id="orgheadline89"></a>
+<a id="org66c1c85"></a>
 
-## text<a id="orgheadline90"></a>
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 10:03&gt;</span></span>99%
+
+
+<a id="orge59561d"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 04:49&gt;</span></span>99.3%
+
+
+<a id="org90a5ffb"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 21:01&gt;</span></span>99.7%
+
+
+<a id="org5a50e05"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun&gt;</span></span>99.6%
+
+
+<a id="org96a39aa"></a>
+
+### text
 
 hot
 clean
@@ -1853,142 +2987,449 @@ An orange and a banana? No, an orange and a lemon.
 Tea with a flower? No, tea with lemon.
 Hot green tea? No, cold red juice.
 
-## DONE Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 18:41&gt;</span></span>99.8%<a id="orgheadline91"></a>
 
-# DONE lesson eight 97.9%<a id="orgheadline103"></a>
+<a id="org6bda6bd"></a>
 
-## DONE Review 98.4%<a id="orgheadline93"></a>
+### Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 18:41&gt;</span></span>99.8%
 
-## DONE Review 99.1%<a id="orgheadline94"></a>
 
-## DONE Review Eight 98.8% very good<a id="orgheadline95"></a>
+<a id="orgae2f1bb"></a>
 
-## DONE Review eight 96.8%<a id="orgheadline96"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 06:37&gt;</span></span>99%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 10:38&gt; </span></span> 98.2%<a id="orgheadline97"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 日 12:03&gt;</span></span>98.5%<a id="orgheadline98"></a>
+<a id="org1237ccf"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 05:07&gt;</span></span>99.6%<a id="orgheadline99"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 07:53&gt;</span></span>98.8%
 
-## DONE Review 99.8%<a id="orgheadline100"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 三 20:56&gt;</span></span>99.7%<a id="orgheadline101"></a>
+<a id="org4c4a054"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 四 08:55&gt;</span></span>99.9%<a id="orgheadline102"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 08:14&gt;</span></span>99%
 
-# DONE Lesson nine 97.6%<a id="orgheadline115"></a>
 
-## DONE Review<a id="orgheadline105"></a>
+<a id="org25aa201"></a>
 
-### text<a id="orgheadline104"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:16&gt;</span></span>99.1%
 
-a sofa
-a lamp
-a stool
-a bed
+
+<a id="org016c336"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 19:50&gt;</span></span>99.5%
+
+
+<a id="org549a171"></a>
+
+## Lesson 7
+
+cold
+hot
+wet
+dry
+clean
+dirty
+
+juice
+tea
+lemon
+a leaf
+shoes
+excavator
+
+autumn leaves
+yellow and brown leaves on a tree
+yellow juice in a glass
+juice and a plate
+orange juice
+green leaves in the snow
+
+A boy is eating a lemon.
+Tea in a cup on a small plate
+tea with ice
+a glass with orange juice
+a woman with a lemon
+tea in a cup in the snow
+
+yellow shoes with flowers
+a yellow excavator is on the snow.
+A yellow excavator is in the sand.
+a yellow excavator at night
+a man with a black shoe
+black shoes and a glass with green water
+
+A dry bird is on a tree.
+a dry umbrella
+a dry red dress
+A wet bird is in a puddle.
+a wet white dress
+a wet umbrella
+
+a dirty plate
+a clean plate
+a dirty excavator
+a clean excavator
+dirty black shoes
+clean white shoes
+
+Shoes are on some leaves.
+cold water
+hot water
+cold tea
+hot tea
+A flower is on some dry leaves.
+
+Is the fish cold? Yes, the fish is cold.
+Are the green shoes dirty? Yes, the green shoes are dirty.
+Is the fish hot? Yes, the fish is hot.
+Is the man in clean yellow shoes? Yes, the man is in clean yellow shoes.
+Is the grass wet? Yes, the grass is wet.
+Is the flower wet? Yes, the flower is wet.
+
+Tea with a flower? No, tea with lemon.
+A hot fish? No, a cold leaf.
+Is the girl on the car? No, the girl is on the excavator.
+Hot green tea? No, cold red juice.
+Banana juice? No, lemon juice.
+An orange and a banana? No, an orange and a lemon.
+
+
+<a id="org3b4b03c"></a>
+
+# lesson eight 97.9%
+
+
+<a id="org5d3f2b2"></a>
+
+## history
+
+
+<a id="org89e9c9b"></a>
+
+### Review 98.4%
+
+
+<a id="orgd0c8262"></a>
+
+### Review 99.1%
+
+
+<a id="org313a3de"></a>
+
+### Review Eight 98.8% very good
+
+
+<a id="orgd77dfa1"></a>
+
+### Review eight 96.8%
+
+
+<a id="orgc52719e"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 10:38&gt; </span></span> 98.2%
+
+
+<a id="orgde97ace"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 12:03&gt;</span></span>98.5%
+
+
+<a id="org61a1ff0"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 05:07&gt;</span></span>99.6%
+
+
+<a id="org7ae43f2"></a>
+
+### Review 99.8%
+
+
+<a id="org9594446"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 20:56&gt;</span></span>99.7%
+
+
+<a id="org891c5e0"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 08:55&gt;</span></span>99.9%
+
+
+<a id="org3436dab"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:30&gt;</span></span>99.1%
+
+
+<a id="org2be45f8"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 07:33&gt;</span></span>98.7%
+
+
+<a id="orge881362"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 07:44&gt;</span></span>
+
+
+<a id="org6e48ef7"></a>
+
+## Lesson 8
+
+a skirt
+a scarf
+a cap
+trousers
+a swimsuit
+a shirt
+
+grey
+white
+brown
+blue
+pink
+violet
+
+cheerful
+sad
+young
+old
+big
+slim
+
+A cheerful old man with a girl
+a cheerful old man in green
+a sad old woman
+a slim woman
+cheerful women
+a big man
+
+a grey car
+a grey bear
+a white bear
+a brown bear
+a brown horse
+a white bag
+
+a pink bird
+a pink flower
+a violet umbrella
+a woman in a violet dress
+an old blue car
+a boy with blue flowers
+
+wet swimsuits
+a young woman in a violet swimsuit
+a young woman in a pink scarf
+a cheeful old man in green
+a girl in a brown cap
+a girl in a pink cap
+
+a young woman in a short blue skirt
+a young woman in white trousers
+a man in a blue shirt
+a young woman in a long brown skirt
+a young woman in black trousers
+a man in a pink shirt
+
+Is the big woman sad? Yes, the big woman is sad.
+Is the old man in the black cap cheerful? Yes, the old man in the black cap is cheerful.
+Is the big young man with a woman in blue water cheerful? Yes, the big young
+man with a woman in blue water is cheerful.
+Is the big old woman in a blue swimsuit cheerful? Yes, the big old woman in a
+blue swimsuit is cheerful.
+Is the old man with a dog cheerful? Yes, the old man with a dog is cheerful.
+Is the big woman cheerful? Yes, the big woman is cheerful.
+
+A red flower? No, a grey bird.
+Is the old woman with flowers wearing a red skirt? No, the old woman with
+flowers is wearing a yellow cap.
+Is the wet girl wearing a grey dress? No, the wet girl is wearing a black
+swimsuit.
+An old white car? No, a pink old car.
+Is the man in a black cap? No, the man is in a blue cap.
+Is the woman in a green shirt and a green scarf? No, the woman is in a pink
+swimsuit and a pink skirt.
+
+
+<a id="org740b614"></a>
+
+# Lesson nine 97.6%
+
+
+<a id="org46734f6"></a>
+
+## history
+
+
+<a id="org209a29c"></a>
+
+### Review Nine 99.0% very good
+
+
+<a id="org82b9701"></a>
+
+### Review nine 95.9%
+
+
+<a id="org746da46"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 11:43&gt; </span></span> 96.7%
+
+
+<a id="orgd2be0d8"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 19:08&gt;</span></span>98.4%
+
+
+<a id="org17204c5"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 08:17&gt;</span></span>99.3%
+
+
+<a id="orgd0bbeb2"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 19:24&gt;</span></span>99.5%
+
+
+<a id="org7b2b03e"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 19:53&gt;</span></span>99.6%
+
+
+<a id="orgb403ee8"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 14:17&gt;</span></span>99.9%
+
+
+<a id="orgf7727d5"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 04:41&gt;</span></span>99.9%
+
+
+<a id="orgd8389d5"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:51&gt;</span></span>98.8%
+
+
+<a id="orgfb9e42b"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 08:20&gt;</span></span>99%
+
+
+<a id="org083697d"></a>
+
+## Lesson 9
+
 a chair
+a bed
+a sofa
 a wardrobe
+a stool
+a lamp
 
+high
+low
+wide
 narrow
 a lot of
 a few
-low
-wide
-high
 
+a red sofa
 a yellow sofa
 a woman on a bed
 a man on a bed
 a grey wardrobe
-shirts in a wardrboe
-a red sofa
+shirts in a wardrobe
 
-a bule stool
-a chair is on the water.
+a red stool
+a blue stool
+A chair is on the water.
 A man is sitting on a big blue chair.
 The chairs are around the table.
 The stools are around the table.
-a red stool
 
 a yellow lamp
 a blue lamp
-A lamp is near the bed.
 A bed is between the lamps.
+A lamp is above the flowers.
 A little girl is sitting in front of a white sofa.
-a yellow lamp
+A lamp is near the bed.
 
-high chair
 low chair
-low-heeled shoes
-low chair
-high-heeled shoes
-She is sitting on a high stool.
+high stool
 She is sitting on a low red stool.
+She is sitting on a high stool.
 high chair
+high-heeled shoes
+low-heeled shoes
 
-a few shoes
-a few white chairs
-A woman is sitting on a high chair.
-A lot of white chairs
-a lot of shoes
 a lot of lamps
+a few white chairs
+a lot of shoes
+A woman is sitting on a high chair.
+a few shoes
+a lot of white chairs
 
 a narrow wardrobe
-a man in wide trousers
-a man in narrow trousers.
-a narrow bed
-a wide bed
 a wide wardrobe
+a wide bed
+a narrow bed
+a man in narrow trousers
+a man in wide trousers
 
-Is the man with a bear sitting on a chair? Yes, he is sitting on a chair.
-Is the girl between the books? Yes, the girl is between the books.
-Is the giraffe tall? Yes, it is very tall.
-Are the chiars around a table? Yes, the chairs are around a table.
 Is the woman sitting on a yellow chair? Yes, she is sitting on a yellow chair.
+Is the giraffe tall? Yes, it is very tall.
 Is the woman sleeping on a bed? Yes, the woman is sleeping on a bed.
+Is the man with a bear sitting on a chair? Yes, he is sitting
+on a chair.
+Are the chairs around a table? Yes, the chairs are around a table.
+Is the girl between the books? Yes, the girl is between the books.
 
-Is the woman sitting with men? No, she is lying on a narrow sofa.
-Is the big lamp hanging over the table? No, the big red lamp is hanging over a
-wide bed.
 Is the woman sitting on a low chair? No, she is sitting on a high stool.
-Is the man with a computer sitting on a sofa? No, the man with a computer is sitting
-on a stool.
+Is the woman sitting with men? No, she is lying on a narrow sofa.
+Is the man with a computer sitting on a sofa? No, the man with a computer is sitting on a stool.
 Are there few shirts in the wardrobe? No, there are a lot of shirts in the
 wardrobe.
-Are the men standing around  a table? No, they are sitting around the a table.
+Is the big lamp hanging over the table? No, the big red lamp is hanging over a
+wide bed.
+Are the men standing around a table? No, they are sitting around a table.
 
-## DONE Review Nine 99.0% very good<a id="orgheadline106"></a>
 
-## DONE Review nine 95.9%<a id="orgheadline107"></a>
+<a id="org1c4bef2"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 11:43&gt; </span></span> 96.7%<a id="orgheadline108"></a>
+# Lesson ten 97.9%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 日 19:08&gt;</span></span>98.4%<a id="orgheadline109"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 08:17&gt;</span></span>99.3%<a id="orgheadline110"></a>
+<a id="orgc322f09"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 一 19:24&gt;</span></span>99.5%<a id="orgheadline111"></a>
+## history
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 二 19:53&gt;</span></span>99.6%<a id="orgheadline112"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 六 14:17&gt;</span></span>99.9%<a id="orgheadline113"></a>
+<a id="org75d0885"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 四 04:41&gt;</span></span>99.9%<a id="orgheadline114"></a>
+### Review 96.3%
 
-# DONE Lesson ten 97.9%<a id="orgheadline124"></a>
 
-## DONE Review 96.3%<a id="orgheadline116"></a>
+<a id="orgcd2e875"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 15:15&gt; </span></span> 97.6%<a id="orgheadline117"></a>
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 15:15&gt; </span></span> 97.6%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 日 20:09&gt;</span></span>98.1%<a id="orgheadline118"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 08:46&gt;</span></span>99.3%<a id="orgheadline119"></a>
+<a id="org364c8f5"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 一 19:43&gt;</span></span>99.6%<a id="orgheadline120"></a>
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 20:09&gt;</span></span>98.1%
 
-## text<a id="orgheadline121"></a>
+
+<a id="org45df54b"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 08:46&gt;</span></span>99.3%
+
+
+<a id="org9321b96"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 19:43&gt;</span></span>99.6%
+
+
+<a id="org0442233"></a>
+
+### text
 
 a shop
 a nightclub
@@ -2067,41 +3508,475 @@ dancing.
 
 dancing.
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 六 14:35&gt;</span></span>99.7%<a id="orgheadline122"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 四 07:01&gt;</span></span>99.7%<a id="orgheadline123"></a>
+<a id="org7df5b86"></a>
 
-# DONE Lesson eleven 98.8%<a id="orgheadline130"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 14:35&gt;</span></span>99.7%
 
-## DONE Review 98%<a id="orgheadline125"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 16:05&gt;</span></span>98.5%<a id="orgheadline126"></a>
+<a id="org6980e2c"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 一 10:27&gt;</span></span>98%<a id="orgheadline127"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 07:01&gt;</span></span>99.7%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 一 17:20&gt;</span></span>99.5%<a id="orgheadline128"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 09:24&gt;</span></span>99.9%<a id="orgheadline129"></a>
+<a id="org7215c69"></a>
 
-# DONE Lesson twelve 98.4%<a id="orgheadline142"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 07:23&gt;</span></span>99.3%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 一 18:45&gt;</span></span>97.9%<a id="orgheadline131"></a>
 
-## DONE Review 97.7%<a id="orgheadline132"></a>
+<a id="org9e2cb5e"></a>
 
-## DONE Review twelve 97.5%<a id="orgheadline133"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 10:23&gt;</span></span>99.7%
 
-## DONE Review eleven and twelve<a id="orgheadline134"></a>
 
--   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-07-28 四 06:13]</span></span>
+<a id="org888ed14"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 一 17:42&gt;</span></span>99%<a id="orgheadline135"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 17:25&gt;</span></span>99.6%
 
-## DONE Review eleven 98.6%<a id="orgheadline136"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 11:46&gt;</span></span>99.8%<a id="orgheadline137"></a>
+<a id="orgd5c443d"></a>
 
-## text<a id="orgheadline138"></a>
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 08:07&gt;</span></span>98.7%
+
+
+<a id="org2507efd"></a>
+
+### Lession 10<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 05:41&gt;</span></span>98.4%
+
+Lesson 10
+a restaurant
+a café
+a museum
+a cinema
+a shop
+a nightclub
+
+to buy
+to sell
+to take
+to give
+to hold
+to dance
+
+a table
+a mirror
+a ticket
+an armchair
+a picture
+money
+
+a night café
+Women with fans are dancing at night.
+a big restaurant
+a woman in a café
+The woman is dancing in a nightclub.
+a small restaurant
+
+a mirror opposite a table
+a table in a café
+a white table and chairs in a café
+women in a shop
+a mirror above a sofa
+a man in a shop
+
+a small museum
+red chairs in a cinema
+an armchair in a museum
+a big museum
+A man and a woman are looking at a picture.
+They are sitting in a cinema at night.
+
+A ticket in a passport
+The woman is selling a bottle of Fanta.
+They are buying tickets.
+The boy is giving bananas.
+The boy is buying a bottle of Fanta.
+The woman is taking bananas.
+
+a picture above a sofa
+The women are holding a shirt in a shop.
+a clock on the table in a museum.
+The man and the woman are at the table in a restaurant.
+The woman is holding some bags.
+The man is holding the woman.
+
+A nightclub? Yes, a nightclub.
+Is the money on the table? Yes, money is on the table.
+Is the woman holding a skirt near the mirror? Yes, the woman is holding a skirt
+near the mirror.
+Is the woman in white looking at a  mirror? Yes, the woman is looking at the
+mirror.
+Is the old white table in a museum? Yes, the old white table is in a museum.
+Are the black armchairs in a cinema? Yes, the black armchairs are in a cinema.
+
+Is the woman giving a bear to the man? No, the man is giving a bear to the
+woman.
+Is the boy holding a cup of tea? No, the boy is holding money.
+Is the man in a black shirt reading? No, a woman in a short black dress is
+dancing.
+Are the table and chairs in a cinema? No, the table and chairs are in a café.
+Is there a drawing of a car on the piece of paper? No, a man is in the picture.
+Are the young women in a nighclub? No, they are in a shop.
+
+
+<a id="org172105b"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 13:24&gt;</span></span>97.1%
+
+
+<a id="org15f0264"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 10:30&gt;</span></span>99.3%
+
+
+<a id="org3e73cee"></a>
+
+## Lesson 10
+
+a café
+a restaurant
+a shop
+a museum
+a cinema
+a nightclub
+
+to buy
+to sell
+to dance
+to take
+to give
+to hold
+
+money
+a picture
+a table
+a mirror
+a ticket
+an armchair
+
+a woman in a café
+a big restaurant
+a night café
+a small restaurant
+Women with fans are dancing at night.
+The woman is dancing in a nightclub.
+
+a mirror above a sofa
+A white table and chairs in a café
+a table in a café
+women in a shop
+a man in a shop
+a mirror opposite a table
+
+red chairs in a cinema
+a big museum
+A man and a woman are looking at a picture.
+They are sitting in a cinema at night.
+a small museum
+an armchair in a museum
+
+The boy is giving bananas.
+They are buying tickets.
+The woman is selling a bottle of Fanta.
+The boy is buying a bottle of Fanta.
+The woman is taking bananas.
+a ticket in a passport
+
+The womem are holding a shirt in a shop.
+The woman is holding some bags.
+The man and the woman are at the table in a restaurant.
+a picture above a sofa
+a clock on the table in a museum
+The man is holding the woman.
+
+Are the black armchairs in a cinema? Yes, the black armchairs are in a
+cinema.
+Is the money on the table? Yes, money is on the table.
+Is the old white table in a museum? Yes, the old white table is in a museum.
+A nightclub? Yes, a nightclub.
+Is the woman holding a skirt near the mirror? Yes, the woman is holding a skirt
+near the mirror.
+Is the woman in white looking at a mirror? Yes, the woman is looking at the
+mirror.
+
+Is the man in a black shirt reading? No, a woman in a short black dress is
+dancing.
+Are the young women in a nightclub? No, they are in a shop.
+Is there a drawing of a car on the piece of paper? No, a man is in the picture.
+Is the boy holding a cup of tea? No, the boy is holding money.
+Is the woman giving a bear to the man? No, the man is giving a bear to the
+woman.
+Are the table and chairs in a cinema? No, the table and chairs are in a café.
+
+
+<a id="org5dcabf4"></a>
+
+# Lesson eleven 98.8%
+
+
+<a id="orgc7b7126"></a>
+
+## history
+
+
+<a id="org5dccc5e"></a>
+
+### Review 98%
+
+
+<a id="org9d13f42"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 16:05&gt;</span></span>98.5%
+
+
+<a id="org1a35c68"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 10:27&gt;</span></span>98%
+
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-09-05 Mon 10:53]</span></span>
+
+
+<a id="orgce7d356"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 17:20&gt;</span></span>99.5%
+
+
+<a id="org550389a"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 09:24&gt;</span></span>99.9%
+
+
+<a id="org188ab51"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 20:35&gt;</span></span>98.5%
+
+
+<a id="orgd52beb2"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 18:54&gt;</span></span>98.8%
+
+Lesson 11
+
+a wall
+a door
+a floor
+a room
+a window
+a house
+
+a bedroom
+a cooker
+a kitchen
+a sitting room
+a fridge
+a bathroom
+
+There is a big window in the room.
+There are table and chairs in the room.
+The house is big.
+The house is covered in snow.
+a big room
+a bench in front of the house
+
+The dog is in front of the door.
+The boy is drawing on the wall.
+The dog is sitting on the floor.
+The boy is standing at the window.
+The chair is near the door.
+Flowers on the wall
+
+There is a big white cooker in the kitchen.
+It is dirty in the kitchen.
+The man is sitting on the floor in front of the pink wall.
+a small kitchen
+The fridge is white.
+The woman is standing at the window.
+
+In the sitting-room there is a clock on the wall.
+The girl is sitting on the floor in the sitting-room.
+The cooker is clean.
+There is a big sofa in the sitting-room.
+The woman is near the cooker.
+The man and the woman are dancing in the sitting-room at night.
+
+There is a black wall in the bathroom.
+The woman is in the bedroom. She is sleeping in bed.
+There is a white floor in the bathroom.
+There is a window in the bedroom.
+There is a big mirror in the bathroom.
+A woman is standing in front of the mirror in the bedroom.
+
+The cat is not eating the banana.
+The banana is on the floor under the table.
+He is eating the banana.
+He is giving the banana to the cat.
+The boy is taking the banana from the fridge.
+There is a banana in the fridge.
+
+Is the umbrella to the right of the door? Yes, the umbrella is to the
+right of the door.
+Is this a fridge or a cooker? It's a cooker.
+The man isn't sleeping. Is he reading in the bedroom? Yes, he is reading in the
+bedroom.
+Is the umbrella to the left of the door? Yes, the umbrella is to the left of the
+door.
+Is there a television in the sitting-room? Yes, there is a television in the
+sitting-room.
+Is this a wall or a window? It's a window.
+
+Is there a sofa in the bedroom? No, there is a wide bed in the bedroom.
+Is the house made of wood? No, the house is made of stone.
+Is the man sitting on the floor? No, the dog is sitting on the floor.
+Is the banana on the table? No, the banana is in the fridge.
+Is the man sitting in front of the door? No, the dog is sitting in front of the
+door.
+Is the table in the kitchen dirty? No, the table in the kitchen is clean.
+
+
+<a id="orga4f418f"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 16:14&gt;</span></span>99.4%
+
+
+<a id="orgbf938b4"></a>
+
+## Lesson 11
+
+a wall
+a window
+a floor
+a door
+a room
+a house
+
+a kitchen
+a bathroom
+a sitting room
+a cooker
+a fridge
+a bedroom
+
+The house is big.
+a big room
+a bench in front of the house.
+There are table and chairs in the room.
+There is a big window in the room.
+The house is covered in snow.
+
+The boy is drawing on the wall.
+The boy is standing at the window.
+Flowers on the wall
+The chair is near the door.
+The dog is sitting on the floor.
+The dog is in front of the door.
+
+It is dirty in the kitchen.
+The man is sitting on the floor in front of the pink wall.
+The woman is standing at the window.
+The fridge is white.
+a small kitchen
+There is a big white cooker in the kitchen.
+
+The cooker is clean.
+The girl is sitting on the floor in the sitting-room.
+The woman is near the cooker.
+There is a big sofa in the sitting-room.
+The man and the woman are dancing in the sitting-room at night.
+In the sitting-room there is a clock on the wall.
+
+The woman is in the bedroom. She is sleeping in the bed.
+There is a black wall in the bathroom.
+There is a white floor in the bathroom.
+A woman is standing in front of the mirror in the bedroom.
+There is a window in the bedroom.
+There is a big mirror in the bathroom.
+
+The boy is taking the banana from the fridge.
+He is giving the banana to the cat.
+He is eating the banana.
+The cat is not eating the banana.
+There is a banana in the fridge.
+The banana is on the floor under the table.
+
+The man isn't sleeping. Is he reading in the bedroom? Yes, he is reading in the
+bedroom.
+Is the umbrella to the right of the door? Yes, the umbrella is to the right of
+the door.
+Is this a fridge or a cooker? It's a cooker.
+Is the umbrella to the left of the door? Yes, the umbrella is to the left of the
+door.
+Is this a wall or a window? It's a window.
+Is there a television in the sitting-room? Yes, there is a television in the
+sitting-room.
+
+Is the house made of wood? No, the house is made of stone.
+Is there a sofa in the bedroom? No, there is a wide bed in the bedroom.
+Is the table in the kitchen dirty? No, the table in the kitchen is clean.
+Is the banana on the table? No, the banana is in the fridge.
+Is the man sitting on the floor? No, the dog is sitting on the floor.
+Is the man sitting in front of the door? No, the dog is sitting in front of the
+door.
+
+
+<a id="org5f5c35a"></a>
+
+# Lesson twelve 98.4%
+
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-07-22 Fri 20:25]</span></span>
+
+
+<a id="org85c9c24"></a>
+
+## history
+
+
+<a id="org8339440"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 18:45&gt;</span></span>97.9%
+
+
+<a id="org97b1613"></a>
+
+### Review 97.7%
+
+
+<a id="org16491d6"></a>
+
+### Review twelve 97.5%
+
+
+<a id="orgc208aaf"></a>
+
+### Review eleven and twelve
+
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-07-28 Thu 06:12]</span></span>
+
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-07-28 Thu 06:13]</span></span>
+
+
+<a id="orgc8827b2"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 17:42&gt;</span></span>99%
+
+
+<a id="org6e28556"></a>
+
+### Review eleven 98.6%
+
+
+<a id="orgc0d0af1"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 11:46&gt;</span></span>99.8%
+
+
+<a id="org42ed629"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 21:04&gt;</span></span>98.5%
+
+
+<a id="org55ad1fa"></a>
+
+### text
 
 son
 daughter
@@ -2173,9 +4048,15 @@ Is grandad feeding his granddaughter? No, mother is feeding her son.
 Are grandma and grandad crying? No, grandma and grandad are luaghing.
 Is the mother washing her daughter? No, mother is playing with her son in the sand.
 
-## words<a id="orgheadline139"></a>
 
-## CANCELLED text<a id="orgheadline141"></a>
+<a id="orgec0a628"></a>
+
+### words
+
+
+<a id="org3ba891e"></a>
+
+### text
 
 a window
 a door
@@ -2250,11 +4131,193 @@ Is the table in the kitchen dirty? No, the table in the kitchen is clean.
 Is there sofa in the bedroom? No, there is a wide bed in the bedroom.
 Is the man sitting on the floor? The dog is sitting on the floor.
 
-### words<a id="orgheadline140"></a>
 
-# DONE Lesson thirteen<a id="orgheadline154"></a>
+<a id="org69e495a"></a>
 
-## DONE Review 98.1%<a id="orgheadline143"></a>
+### words
+
+
+<a id="orgc24e5d7"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-26 Mon 03:37&gt;</span></span>99.4%
+
+Lesson 12
+
+a family
+father
+mother
+parents
+daughter
+son
+
+grandma and granddaughter
+brother and sister
+grandad and grandson
+grandson and granddaugher
+grandma and grandad
+a big family
+
+to play
+to cry
+to laugh
+to hug
+to wash
+to feed
+
+Grandma is holding her grandson.
+A family photo without grandma and grandad.
+a family photo with grandma and grandad.
+Grandma is holding her granddaughter.
+Grandad is holding his granddaughter.
+Grandad is holding his grandson.
+
+Sister is sitting on her brother.
+Sister is holding her little brother.
+Grandma and grandad with grandchildren.
+The brothers are reading a book.
+The sisters are reading a book.
+Sister is sitting behind her brother.
+
+A boy with his parents.
+A girl with her parents.
+Mother and father are holding their daughter.
+Mother and father with their daughter and son. The son is sitting on his father.
+Mother is holding her son.
+Father is holding his daughter.
+
+The man is washing a car.
+The boy is playing with a dog.
+The boy is feeding a horse.
+The man is washing a window.
+Mother is feeding her son.
+The girl is playing in the sand.
+
+Grandad is hugging grandma.
+Mother is washing her son.
+The parents are laughing.
+Mother is playing with her daughter.
+Mother is hugging her son.
+The daughter is crying.
+
+Is this a big family or a small family? It's a big family.
+Mother is hugging her daughter. Is the daughter crying or laughing? The daughter
+is crying.
+Are the sisters hugging each other? Yes, the sisters are hugging each other.
+Mother is hugging her son. Is her son crying or laughing? Her son is laughing.
+Are grandad and grandma hugging each other? Yes, they are hugging each other.
+Are these the boy's parents? Yes, they are the boy's mother and father.
+
+Is the mother washing her daugheter? No, mother is playing with her son in the
+sand.
+Are these the brother and sister of the girl with long hair? No, they are the
+parents of the girl with long hair.
+Is grandad feeding his granddaughter? No, mother is feeding her son.
+Are the parents feeding their sons? No, the parents are playing with their sons.
+Are these the parents of the girl? No, they are her grandma and grandad.
+Are grandma and grandad crying? No, grandma and grandad are laughing.
+
+
+<a id="org3a0483e"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 20:02&gt;</span></span>99%
+
+
+<a id="org040c1c6"></a>
+
+### writing
+
+
+<a id="org9521db5"></a>
+
+## Lesson 12
+
+a family
+mother
+father
+son
+daughter
+parents
+
+a big family
+brother and sister
+grandma and grandad
+grandma and granddaugher
+grandad and grandson
+grandson and granddaugher
+
+to wash
+to feed
+to play
+to cry
+to laugh
+to hug
+
+Grandma is holding her grandson.
+A family photo with grandma and grandad.
+Grandma is holding her granddaughter.
+Grandad is holding his grandson.
+A family photo without grandma and grandad.
+Grandad is holding his granddaughter.
+
+The brothers are reading a book.
+The sisters are reading a book.
+grandma and grandad with grandchildren
+Sister is sitting on her brother.
+Sister is sitting behind her brother.
+Sister is holding her little brother.
+
+a girl with her parents
+Father is holding his daughter.
+Mother and father with their daughter and son. The son is sitting on his father.
+Mother is holding her son.
+Mother and father are holding their daughter.
+a boy with his parents
+
+The man is washing a window.
+The boy is feeding a horse.
+The man is washing a car.
+Mother is feeding her son.
+The girl is playing in the sand.
+The boy is playing with a dog.
+
+Mother is playing with her daughter.
+Grandad is hugging grandma.
+Mother is washing her son.
+The daughter is crying.
+The parents are laughing.
+Mother is hugging her son.
+
+Is this a big family or a small family? It's a big family.
+Are the sisters hugging each other? Yes, the sisters are hugging each other.
+Are these the boy's parents? Yes, they are the boy's mother and father.
+Mother is hugging her son. Is her son crying or laughing? Her son is laughing.
+Are grandad and grandma hugging each other? Yes, they are hugging each other.
+Mother is hugging her daughter. Is the daughter crying or laughing? The daughter
+is crying.
+
+Is the mother washing her daughter? No, mother is playing with her son in the
+sand.
+Are the parents feeding their sons? No, the parents are playing with their sons.
+Are these the  parents of the girl? No, they are her grandma and grandad.
+Are these the brother and siter of the girl with long hair? No, they are the
+parents of the girl with long hair.
+Is grandad feeding his granddaughter? No, mother is feeding her son.
+Are grandma and grandad crying? No, grandma and grandad are laughing.
+
+
+<a id="orgaa51915"></a>
+
+# Lesson thirteen
+
+
+<a id="org30aef94"></a>
+
+## history
+
+
+<a id="orgd80ec62"></a>
+
+### Review 98.1%
 
 中间一小时拜访杜科长、大姐家。
 Why does the giraffe like to eat leaves from tall trees? It like to do
@@ -2276,7 +4339,10 @@ taking photos of it because it is beautiful.
 Why are people sleeping on the grass? They are sleeping here because
 they do not have a home.
 
-## Lesson thirteen<a id="orgheadline144"></a>
+
+<a id="org9cdbe86"></a>
+
+### Lesson thirteen
 
 This elderly man is wearing glasses. he is hugging a large white dog
 around the  neck and laughing.
@@ -2392,13 +4458,154 @@ Why are these girls not working and instead spending time at the
 beach? They are spending time at the beach because they are on
 holiday.
 
-## DONE 复习lesson thirty 98.7%<a id="orgheadline145"></a>
 
-## DONE Review 97.6%<a id="orgheadline146"></a>
+<a id="org1011cc5"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 一 20:09&gt; </span></span> 97.9%<a id="orgheadline147"></a>
+### 复习lesson thirty 98.7%
 
-## text<a id="orgheadline148"></a>
+
+<a id="orga219804"></a>
+
+### Review 97.6%
+
+
+<a id="org5bf9543"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 20:09&gt; </span></span> 97.9%
+
+
+<a id="orgc7b512e"></a>
+
+### Review thirteen 97.7%
+
+
+<a id="org184e7d8"></a>
+
+### Revie:98.1%
+
+:LOG98.1%98.1%BOOK:
+
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-05 Mon 20:24]</span></span>
+
+
+<a id="org540dde6"></a>
+
+### Review thirteen 97.7%
+
+
+<a id="orga0ec0aa"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 20:50&gt; </span></span> 99.1%
+
+
+<a id="orga9d91d4"></a>
+
+### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 14:52&gt;</span></span>99.7%
+
+\*\* DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 19:51&gt;</span></span>99.8%
+  CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-10-19 Wed 20:11]</span></span>
+
+
+<a id="orgc013475"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 05:53&gt;</span></span>99.0%
+
+
+<a id="org8fe30d2"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 05:25&gt;</span></span>98.7%
+
+
+<a id="orgce8a4ad"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-26 Mon 05:43&gt;</span></span>98.5%
+
+Lesson 13
+
+a wedding
+husband and wife
+a child
+children
+grown-ups
+bride and groom
+
+to wait
+to walk
+to meet
+to sing
+to kiss
+to live
+
+The wife is kissing her husband.
+The children are dancing.
+Wedding outdoors
+The bride and groom are dancing.
+The grown-ups are dancing.
+a cheerful wedding
+
+The child is sleeping.
+The child is crying.
+The child is playing.
+The grown-ups are playing with the children.
+The family lives in a big house.
+The children are playing.
+
+Father meets his son.
+The man is waiting.
+The dog is waiting by the window.
+The people have no home. They live ourdoors.
+Father meets his daughter.
+Grandad and grandma are walking.
+
+The man is singing.
+There are a lot of people at the wedding.
+Mother is kissing her daughter.
+Brother and sister are walking.
+Mother is kissing her son.
+The woman is singing.
+
+The grown-up is kissing the child.
+Mother and father are walking with their child.
+There aren't any children at the wedding. There are a bride and a groom at the
+wedding.
+The husband is kissing his wife.
+The husband and wife are walking.
+The child is kissing a little dog.
+
+The people are singing.
+The boy is waiting for the bus.
+The wife is waiting for her husband by the window.
+The grown-ups are waiting for the bus.
+The children are singing.
+Are the children talking to each other? Yes, the children are talking to each
+other.
+
+Is this a wedding car? Yes, this is a wedding car.
+Does he live in London? No, he lives in Paris.
+Are the parents walking with their child? Yes, the parents are walking with
+their child.
+Are the children kissing their father? Yes, the chilldren are kissing their
+father.
+Are there a lot of children at the table? Yes, there are a lot of children at
+the table.
+Is the man kissing the bird? Yes, the man is kissing the bird.
+
+Is the granddaughter hugging her grandad? No, she is hugging her grandma.
+What are they waiting for? They are waiting for the bus.
+Is the mother meeting her son? No, the father is meeting his son.
+Who is waiting at the window? The dog is waiting at the window.
+a bus stop
+Are they brother and sister? No, they are husband and wife.
+
+
+<a id="org7b71d7a"></a>
+
+### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 10:52&gt;</span></span>99.4%
+
+
+<a id="org6e061db"></a>
+
+## Lesson13
 
 grown-ups
 a child
@@ -2475,39 +4682,65 @@ Are they brother and sister? No, they are husband and wife.
 Who is waiting at the window? The dog is waiting at the window.
 98.7%
 
-## DONE Review thirteen 97.7%<a id="orgheadline149"></a>
 
-## DONE Revie:98.1%<a id="orgheadline150"></a>
+<a id="orgfb37b73"></a>
 
-:LOG98.1%98.1%BOOK:
+# lesson fourteen 98.3
 
--   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-05 一 20:24]</span></span>
 
-## DONE Review thirteen 97.7%<a id="orgheadline151"></a>
+<a id="org283034b"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 一 20:50&gt; </span></span> 99.1%<a id="orgheadline152"></a>
+## Review fourteen 97.4%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 14:52&gt;</span></span>99.7%<a id="orgheadline153"></a>
 
-# DONE lesson fourteen 98.3<a id="orgheadline166"></a>
+<a id="org4347980"></a>
 
-## DONE Review fourteen 97.4%<a id="orgheadline155"></a>
+## Review fourteen 96.8%
 
-## DONE Review fourteen 96.8%<a id="orgheadline156"></a>
 
-## DONE Review fourteen 97.7%<a id="orgheadline157"></a>
+<a id="org9fa57da"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 一 20:59&gt; </span></span> 98%<a id="orgheadline158"></a>
+## Review fourteen 97.7%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 05:20&gt;</span></span>97.5%<a id="orgheadline159"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 20:36&gt;</span></span>98.8%<a id="orgheadline160"></a>
+<a id="org735d8da"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 09:59&gt;</span></span>99.5%<a id="orgheadline161"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 20:59&gt; </span></span> 98%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 六 09:56&gt;</span></span>99.5%<a id="orgheadline162"></a>
 
-## text<a id="orgheadline165"></a>
+<a id="org61a6698"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 05:20&gt;</span></span>97.5%
+
+
+<a id="org3b45991"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 20:36&gt;</span></span>98.8%
+
+
+<a id="org1e2e8fd"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 09:59&gt;</span></span>99.5%
+
+
+<a id="orgd7dcea5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 09:56&gt;</span></span>99.5%
+
+
+<a id="orge8ef6bd"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 20:31&gt;</span></span>99.7%
+
+
+<a id="org7ab5e6d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 06:02&gt;</span></span>98.1%
+
+
+<a id="orgc840c4b"></a>
+
+## text
 
 a mobile phone
 dishes
@@ -2579,7 +4812,10 @@ Are the dishes on the floor? No, the dishes are on the table.
 Is the girl drawing? No, she is playing with some toys.
 Is the towel on the wall? No, it is on the floor.
 
-### words<a id="orgheadline164"></a>
+
+<a id="orgb6a7f44"></a>
+
+### words
 
 1.  DONE towel
 
@@ -2640,25 +4876,138 @@ Is the towel on the wall? No, it is on the floor.
     他拧干了毛巾。
     She twisted a wet towel a
 
-# DONE Lesson fifteen<a id="orgheadline183"></a>
 
-## DONE Review 97.3%<a id="orgheadline167"></a>
+<a id="org32db19e"></a>
 
-## DONE Review fifteen 96.8%<a id="orgheadline168"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-27 Tue 10:36&gt;</span></span>99%
 
-## DONE Review fifteen 96.5%<a id="orgheadline169"></a>
 
-## DONE Review fifteen 98.1%<a id="orgheadline170"></a>
+<a id="org2520cfe"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 02:55&gt;</span></span>99.8%<a id="orgheadline171"></a>
+## Lesson 14
 
-## text<a id="orgheadline177"></a>
+dishes
+toys
+a towel
+opened
+closed
+a mobile phone
 
-### salt<a id="orgheadline172"></a>
+to open
+to close
+not to want
+to switch on
+to switch off
+to want
+
+There is a red mobile phone on the table.
+There are a lot of dirty dishes in the kitchen.
+The girl is speaking on a mobile phone.
+The dishes are in a cupboard in the kitchen.
+There are a lot of clean dishes in the kitchen.
+There is a black mobile phone on the table.
+
+The child is holding a toy.
+Mother and her child are playing with toys in the sand.'
+There are white towels in the bathroom.
+The child is lying on a towel.
+Mother gives her son a towel.
+The child plays with his toys with his grandma.
+
+The door in the house is closed.
+The book is open.
+The book is closed.
+The door in the house is open.
+The window in the house is open.
+The window in the house is closed.
+
+The lamp is switched on.
+The man is switching on the television.
+The boy is switching off the computer.
+The lamp is switched off.
+The boy is switching on the computer.
+The man is switching off the television.
+
+The woman is opening the bag.
+The child doesn't want to sleep.
+The woman is closing the bag.
+The child wants to listen.
+The girl wants to sleep.
+The child does not want to listen.
+
+The boy wants to play with some toys.
+The man does not want to watch.
+The clean dishes are on the towel.
+The mobile phone is open.
+The man wants to watch.
+The mobile phone is closed.
+
+Does the woman want to listen, or doesn't she? She does not want to listen.
+Is the door open or closed? The door is open.
+Does the man want to sleep? Yes, he wants to sleep.
+Does the child want to play with the dog? Yes, he wants to play with the dog.
+Is the girl speaking on a mobile phone? Yes, she is speaking on a mobile
+phone.
+Is the lamp switched on or off? The lamp is switched on.
+
+Is the girl drawing? No, she is playing with some toys.
+Is the dog waiting at an open window? No, it is waiting at a closed window.
+Is the man writing? No, he is speaking on a mobile phone.
+Is the towel on the wall? No, it's on the floor.
+Is the boy sitting on the floor with a book? No, he is sitting with a toy.
+Are the dishes on the floor? No, the dishes are on the table.
+
+
+<a id="orga313f66"></a>
+
+# Lesson fifteen
+
+
+<a id="orgbefd6b1"></a>
+
+## Review 97.3%
+
+
+<a id="org77c8a74"></a>
+
+## Review fifteen 96.8%
+
+
+<a id="org16f5d75"></a>
+
+## Review fifteen 96.5%
+
+
+<a id="orgb6176e8"></a>
+
+## Review fifteen 98.1%
+
+
+<a id="org090bfc9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 02:55&gt;</span></span>99.8%
+
+
+<a id="org9963620"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 08:01&gt;</span></span>98.1%
+
+
+<a id="org65d245a"></a>
+
+## text
+
+
+<a id="org09afc10"></a>
+
+### salt
 
 an egg
 
-### bread<a id="orgheadline173"></a>
+
+<a id="orgb672ba6"></a>
+
+### bread
 
 Bread is a very common food made from flour, water, and usually yeast. 面包
 brown bread 黑面包
@@ -2668,7 +5017,10 @@ daily bread n. 日常食品；生计
 a piece of bread 一片面包
 white bread 白面包
 
-### Sugar<a id="orgheadline174"></a>
+
+<a id="org15c9fdd"></a>
+
+### Sugar
 
 英  ['ʃʊgə] 美  ['ʃʊgɚ]
 n. 糖；食糖；甜言蜜语
@@ -2711,7 +5063,10 @@ sugar cane 甘蔗
 cane sugar n. 蔗糖
 reducing sugar 还原糖
 
-### DONE cheese<a id="orgheadline175"></a>
+
+<a id="orge7a987d"></a>
+
+### cheese
 
 英  [tʃiːz]  美  [tʃiz]
 n. [食品] 奶酪；干酪；要人
@@ -2748,7 +5103,10 @@ big cheese 大人物，重要人物；愚蠢或粗鲁的男人
 cottage cheese （由脱脂凝乳制成的）白软干酪，松软干酪
 parmesan cheese 帕玛森乳酪；帕玛森芝士
 
-### butter<a id="orgheadline176"></a>
+
+<a id="org7dabde0"></a>
+
+### butter
 
 英  ['bʌtə] 美  ['bʌtɚ]
 vt. 涂黄油于；讨好
@@ -2860,23 +5218,135 @@ Is the girl eating fish? No, she is eating chicken.
 Does the boy want a pear? No, the boy wants meat.
 97.8%
 
-## words<a id="orgheadline178"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 二 10:10&gt; </span></span> 96.5%<a id="orgheadline179"></a>
+<a id="orge0f35d0"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 06:15&gt;</span></span>98.1%<a id="orgheadline180"></a>
+## words
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 07:44&gt;</span></span>97.9%<a id="orgheadline181"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 10:10&gt;</span></span>98.8%<a id="orgheadline182"></a>
+<a id="orgdc78f1d"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 Tue 10:10&gt; </span></span> 96.5%
+
+
+<a id="org3fbd4fb"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 06:15&gt;</span></span>98.1%
+
+
+<a id="orgf2eeb91"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 07:44&gt;</span></span>97.9%
+
+
+<a id="orgdd045a0"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 10:10&gt;</span></span>98.8%
 
 中间友道科技董波来访
 
-# Lesson Sixteen<a id="orgheadline196"></a>
 
-## DONE Review 97.2%<a id="orgheadline186"></a>
+<a id="org5812b26"></a>
 
-### words<a id="orgheadline184"></a>
+## Review98.1%
+
+
+<a id="org7d9cf94"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-28 Wed 04:34&gt;</span></span>99.1%
+
+
+<a id="org4dd73e5"></a>
+
+## Lesson 15
+
+butter
+sugar
+salt
+an egg
+bread
+cheese
+
+a pear
+grapes
+a cucumber
+potatoes
+an apple
+a tomato
+
+fish
+meat
+chicken
+icecream
+food
+sausage
+
+The child is eating some bread.
+There is salt on the table.
+bread on a plate
+There are eggs, cheese, and meat on the table.
+butter on a plate
+bread and butter
+
+cheese on a palte
+There is meat in front of the boy.
+The child is eating icecream.
+The children are eating icecream.
+The icecream is on the floor.
+The girl is looking at the cheese.
+
+fish on a plate
+chicken on a plate
+There is a lot of food in the fridge.
+lemon with sugar
+There is sugar on the table.
+There isn't any sugar on the table.
+
+There are pears on the plate, but no grapes.
+The boy is eating a tomato.
+There are a lot of big red apples on the tree.
+The children are sitting at the table and eating tomatoes.
+There are grapes and pears on the plate.
+There aren't any apples on the tree.
+
+There isn't any food on the plate.
+There is a big sausage on the plate.
+hot potatoes
+a wet green cucumber
+potatoes with cucumbers on a plate
+There are lots of plates of food on the table.
+
+Is there chicken with potatoes on the plate? Yes, there is chicken with potatoes
+on the plate.
+Do they sell eggs in the shop? Yes, they sell eggs in the shop.
+Does he have tea with or without sugar? He has tea with sugar.
+Is father giving his son icecream? Yes, he is giving his son icecream.
+Is there a lot or a little food in the fridge? There is a little food in the
+fridge.
+Is grandma eating an apple? Yes, she is eating an apple.
+
+Is the woman kissing a cat? No, she is kissing an apple.
+Is the woman sitting at a table where there is a little food? No, she is
+sitting at a table where there is lots of food.
+Is the girl eating a sausage? No, she is eating icecream.
+Is the girl eating fish? No, she is eating chicken.
+Does the boy want a pear? No, the boy wants  meat.
+Is the woman holding sugar? No, she is holding grapes.
+
+
+<a id="orgbe28037"></a>
+
+# Lesson Sixteen
+
+
+<a id="org5a3407c"></a>
+
+## Review 97.2%
+
+
+<a id="org06878ca"></a>
+
+### words
 
 menu
  英  ['menjuː]   美  ['mɛnju]
@@ -2980,7 +5450,10 @@ a fork
 a cup
 a wineglass
 
-### text<a id="orgheadline185"></a>
+
+<a id="orgd221ec8"></a>
+
+### text
 
 They are sitting at the table in a restaturant.
 The wife orders chicken with potatoes.
@@ -3031,13 +5504,25 @@ They like to swim.
 The girl like to sing.
 The man likes the woman.
 
-## DONE Review sixteen 97.5%<a id="orgheadline187"></a>
 
-## DONE Review sixteen 96.4%<a id="orgheadline189"></a>
+<a id="org1f723d0"></a>
 
-### DONE text <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 三 05:39&gt;</span></span><a id="orgheadline188"></a>
+## Review sixteen 97.5%
 
-## DONE write 97.6%<a id="orgheadline190"></a>
+
+<a id="org5bdee88"></a>
+
+## Review sixteen 96.4%
+
+
+<a id="orgac963f3"></a>
+
+### text <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 05:39&gt;</span></span>
+
+
+<a id="org10669d9"></a>
+
+## write 97.6%
 
 a tablecloth
 a menu
@@ -3108,35 +5593,265 @@ The girl likes icecream.
 The man likes the woman.
 It likes to dance.
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 03:35&gt;</span></span>98.8%<a id="orgheadline191"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 16:55&gt;</span></span>98.5%<a id="orgheadline192"></a>
+<a id="orge3e56a0"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 10:55&gt;</span></span>99.2%<a id="orgheadline193"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 03:35&gt;</span></span>98.8%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 六 10:39&gt;</span></span>98.1%<a id="orgheadline194"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 六 20:50&gt;</span></span>98.5%<a id="orgheadline195"></a>
+<a id="orgbcbd3eb"></a>
 
-# Lesson seventeen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-22 三 06:19&gt;</span></span><a id="orgheadline208"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 16:55&gt;</span></span>98.5%
 
-## DONE Review seventeen 97.6%<a id="orgheadline197"></a>
 
-## DONE Review seventeen 96.8%<a id="orgheadline198"></a>
+<a id="orgd1249d1"></a>
 
-## DONE Review 96.1%<a id="orgheadline199"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 10:55&gt;</span></span>99.2%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 三 17:01&gt;</span></span>98.1%<a id="orgheadline200"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 19:51&gt;</span></span>99.1%<a id="orgheadline201"></a>
+<a id="org8d68087"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 04:43&gt;</span></span>98.3%<a id="orgheadline202"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 10:39&gt;</span></span>98.1%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 17:29&gt;</span></span>98.2%<a id="orgheadline203"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 17:48&gt;</span></span>99.6%<a id="orgheadline204"></a>
+<a id="org3ea9d29"></a>
 
-## text<a id="orgheadline205"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 20:50&gt;</span></span>98.5%
+
+
+<a id="orgfd79f21"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 17:23&gt;</span></span>98.3%
+
+
+<a id="orga35fd90"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 19:45&gt;</span></span>98.9%
+
+
+<a id="org639b82b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 08:19&gt;</span></span>97.6%
+
+
+<a id="orgfa920ca"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-19 Thu 16:14&gt;</span></span>97.1%
+
+
+<a id="orgec27ae5"></a>
+
+## lesson 16
+
+a tray
+a bill
+a napkin
+a menu
+a tablecloth
+a waiter
+
+to bring
+to take away
+to taste
+to pour
+to like
+to order
+
+a spoon
+a knife
+a fork
+a cup
+a wineglass
+wine
+
+The husband and wife go to a restaurant.
+The wife orders chicken with potatoes.
+The waiter brings the menu.
+They read the menu.
+The husband orders meat.
+They are sitting at the table in a restaurant.
+
+There are plates and bottles on the tray.
+The waiter pours out some wine.
+There is water in the bottle.
+He is pouring some wine into a glass.
+The waiter brings a tray.
+There is wine in the bottle.
+
+There is a wineglass behind the plate.
+The fork is on the left of the plate.
+A clean white tablecloth is on the table.
+The knife and spoon are on the right of the plate.
+There are plates on the tablecloth.
+There are napkins near the plates.
+
+The wife is pouring water into a glass, She does not want wine.
+He likes meat.
+The husband is drinking wine. He does not want water.
+He says to his wife: "I like meat very much".
+The husband is tasting the meat.
+The husband and wife are hungry.
+
+She does not like the chicken. The chicken is cold.
+The wife puts sugar into hot coffee.
+She looks at the menu.
+The waiter takes the chicken away.
+The waiter brings cups of coffee.
+The wife is tasting the chicken.
+
+The husband looks at the bill.
+The waiter brigns the bill.
+The waiter takes the dirty dishes away.
+The wife drinks coffee with sugar.
+The husband drinks coffee without sugar.
+He pays the waiter.
+
+The girl likes to sing.
+They like to swim.
+The girl likes icecream.
+The man likes spaghetti.
+The man likes the woman.
+It likes to dance.
+
+
+<a id="org8cb6213"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-30 Fri 05:30&gt;</span></span>98.8%
+
+
+<a id="orgefb86d7"></a>
+
+# Lesson seventeen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-22 Wed 06:19&gt;</span></span>
+
+
+<a id="orgec95290"></a>
+
+## Review seventeen 97.6%
+
+
+<a id="org4ffcd97"></a>
+
+## Review seventeen 96.8%
+
+
+<a id="orgd99e345"></a>
+
+## Review 96.1%
+
+
+<a id="org4bb7910"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 17:01&gt;</span></span>98.1%
+
+
+<a id="org516912c"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 19:51&gt;</span></span>99.1%
+
+
+<a id="org2142efc"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 04:43&gt;</span></span>98.3%
+
+
+<a id="orgc1ceb1b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 17:29&gt;</span></span>98.2%
+
+
+<a id="org74747de"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 17:48&gt;</span></span>99.6%
+
+
+<a id="org63a0a38"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 18:49&gt;</span></span>97.6%
+
+
+<a id="orgc12a7eb"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-31 Sat 15:19&gt;</span></span>98.6%
+
+
+<a id="orgbb55b33"></a>
+
+## Lesson 17
+
+sale
+price
+discount
+a counter
+a shop assistant
+a customer
+
+expensive
+new
+old
+to pay cash
+to pay by card
+cheap
+
+clothes
+a jacket
+a hat
+a robe
+gloves
+goods
+
+There are lots of customers in the shop.
+The shop sells clothes.
+The shop assistant is selling goods.
+There are lots of goods in the big shop.
+There is a sale in the shop.
+The shop assistant is standing behind the counter.
+
+The car is expensive.
+The shop has a lot of goods at a discount.
+The customers enjoy the sale.
+There are high prices in the shop. Customers don't like high prices.
+The clothes are cheap.
+They like to buy goods at a discount.
+
+There aren't any people in the expensive shop.
+The shop sells hats.
+The shop doesn't have any old dresses. All the dresses are new.
+The woman wants to buy a new dress.
+The man has an old hat.
+The girl wants to buy cheap clothes.
+
+The man does not like to shop.
+The woman likes to shop.
+The little girl wants to buy some gloves.
+The boy pays cash.
+The girl is paying by card.
+The shop assistant is giving her gloves.
+
+She likes the white robe.
+The little girl wants to buy a scarf.
+The man wants to buy a suit.
+The woman wants to buy a robe.
+He likes the black suit.
+The shop sells a lot of scarves.
+
+Are the shoes old? Yes, they are old.
+Is the car expensive? Yes, it's expensive.
+Is the fruit cheap? Yes, it's cheap.
+Is the man paying cash? Yes, he is paying cash.
+Is the dress new? Yes, it is new.
+Is the girl paying by card? Yes, she is paying by card.
+
+Does the shop sell goods at a discount or without a discount? It sells goods at a discount.
+Is the woman buying a dress or some gloves? She is buying a dress.
+Is the man buying a suit or a hat? He is buying a hat.
+Who is behind the counter? The shop assistant is behind the counter.
+Does the shop sell clothes or food? They sell clothes here.
+Is the customer paying cash or by card? He is paying cash.
+
+
+<a id="org4756edf"></a>
+
+## text
 
 a customer
 sale
@@ -3209,9 +5924,15 @@ Is the woman buying a dress or some gloves? She is buying a dress.
 Does the shop sell clothes or food? They sell clothes here.
 Is the man buying a suit or a hat? He is buying a hat.
 
-## words<a id="orgheadline206"></a>
 
-## neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 二&gt;</span></span><a id="orgheadline207"></a>
+<a id="org074af59"></a>
+
+## words
+
+
+<a id="orgda8e524"></a>
+
+## neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 Tue&gt;</span></span>
 
  英  [nek]   美  [nɛk]
 n. 脖子；衣领；海峡
@@ -3282,21 +6003,125 @@ Neck
 The neck is the part of the body, on many terrestrial or secondarily aquatic vertebrates, that distinguishes the head from the torso or trunk. The adjective (from Latin) signifying "of the neck" is cervical (though in non-technical contexts, this is more frequently used to describe the cervix).
 来源于：维基百科
 
-# lesson eighteen<a id="orgheadline222"></a>
 
-## DONE Review 97.2%<a id="orgheadline209"></a>
+<a id="orga84f37a"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 三 21:15&gt; </span></span> 96%<a id="orgheadline210"></a>
+# lesson eighteen
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 三 21:42&gt; </span></span> 97.5%<a id="orgheadline211"></a>
 
-## DONE Review eithteen 97.3%<a id="orgheadline212"></a>
+<a id="org3135562"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 四 06:37&gt;</span></span>97%<a id="orgheadline213"></a>
+## Review 97.2%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 06:41&gt;</span></span>98%<a id="orgheadline214"></a>
 
-## text<a id="orgheadline217"></a>
+<a id="org5151eb8"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 21:15&gt; </span></span> 96%
+
+
+<a id="org2df42a5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 21:42&gt; </span></span> 97.5%
+
+
+<a id="orgfed2f03"></a>
+
+## Review eithteen 97.3%
+
+
+<a id="org6701e86"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 06:37&gt;</span></span>97%
+
+
+<a id="org4d86ef8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 06:41&gt;</span></span>98%
+
+
+<a id="orgd7459b9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-01 Sun 05:44&gt;</span></span>90%
+
+
+<a id="orgae3abab"></a>
+
+## Lesson18
+
+to wear
+to have not
+to have
+to try on
+to take off
+to put on
+
+The boy doesn't have a flower.
+The woman doesn't have any toys.
+The girl has a flower.
+The man doesn't have a bicycle.
+The boy has a bicycle.
+The girl has toys.
+
+The girl has a big dog.
+The girl has a brother.
+The girl has a grandma and a grandad.
+The girl has an apple.
+The girl has parents.
+The girl has a yellow dress.
+
+The boy doesn't have long hair.
+The boy doesn't have a helicopter or a giraffe.
+The boy doesn't have a dress.
+The boy doesn't have a dog.
+The boy doesn't have a sister.
+The giraffe hasn't got any money.
+
+The man is trying on a shirt.
+The man is trying on some shoes.
+The woman is trying on a shirt.
+The girl is trying on a skirt in front of the mirror.
+The girl is trying on some shoes.
+The little girl wants to try on a skirt.
+
+The girl is taking off a green sweater.
+The man is taking off a shirt.
+The man is putting on some gloves.
+The woman is putting on some glvoes.
+The girl is taking off a black-and-white dress.
+The woman is putting on boots.
+
+The girl wears a dress.
+The woman wears shoes.
+The boy isn't wearing a dress.
+The giraffe does not wear clothes.
+Grandma wears glasses.
+Grandad has a moustache and a beard.
+
+Girls like to wear short skirts.
+The girl has a new pink bag.
+The man doesn't have any money. He can't buy anything.
+The family has a big new house.
+The man has a lot of money. He can buy a car.
+The woman is putting on a white dress for the wedding.
+
+Do they wear swimsuits in summer? Yes, they wear swimsuits in summer.
+Has the boy got a bicycle? Yes, he has a bicycle.
+Do men wear skirts? Yes, they wear skirts sometimes.
+Does grandma wear glasses? Yes, grandma wears glasses.
+Do women wear skirts? Yes, they wear skirts.
+Do they wear gloves in winter? Yes, they wear glvoes in winter.
+
+Has the dog got any money? No, it has not got any money.
+Who is trying on the skirt? The girl in front of the mirror is trying on the skirt.
+Has the dog got any clothes? No, it has not got any clothes.
+Is the woman putting on shoes or gloves? She is putting on glovoes.
+Who has a beard? Grandad has a beard.
+What is the girl take off? She is taking off a black-and-white dress.
+
+
+<a id="orgc6cc309"></a>
+
+## text
 
 to have
 to have not
@@ -3333,7 +6158,10 @@ The woman is trying on a shirt
 The girl is trying on a skirt in front of the mirror.
 The girl is trying on some shoes.
 
-### sweater<a id="orgheadline215"></a>
+
+<a id="org7ab286c"></a>
+
+### sweater
 
  英  ['swetə]   美  ['swɛtɚ]
 n. 毛线衣，运动衫；大量出汗的人，发汗剂
@@ -3347,7 +6175,10 @@ The man is taking off a shirt.
 
 The boy isn't wearing a dress.
 
-### moustache<a id="orgheadline216"></a>
+
+<a id="orgce2d104"></a>
+
+### moustache
 
  英  [mə'stɑːʃ]   美  [mə'stɑʃ]
 n. 小胡子；髭；触须
@@ -3387,7 +6218,10 @@ Who has a beard? Grandad has a beard.
 Is the woman putting on shoes or gloves? She is putting on gloves.
 95.4%
 
-## text<a id="orgheadline218"></a>
+
+<a id="orgdb2d59d"></a>
+
+## text
 
 trousers
 a scarf
@@ -3465,27 +6299,86 @@ swimsuit and a pink skirt.
 An old white car? No, a pink old car.
 A red flower? No, a grey bird.
 
-## DONE Review eithteen 97.9%<a id="orgheadline219"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 四 10:41&gt;</span></span>97.7%<a id="orgheadline220"></a>
+<a id="org12e24a9"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 20:19&gt;</span></span>99.1%<a id="orgheadline221"></a>
+## Review eithteen 97.9%
 
-# lesson ninteen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-07 四&gt;</span></span><a id="orgheadline234"></a>
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-07-29 Fri 10:18]</span></span>
 
-## DONE Review 96.7%<a id="orgheadline223"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 04:21&gt; </span></span> 96%<a id="orgheadline224"></a>
+<a id="org2146e92"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 四 17:11&gt;</span></span>96.8%<a id="orgheadline225"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 10:41&gt;</span></span>97.7%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 五 06:00&gt;</span></span>98.2%<a id="orgheadline226"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 07:04&gt;</span></span>98.4%<a id="orgheadline227"></a>
+<a id="orgf275805"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 20:48&gt;</span></span>99.8%<a id="orgheadline228"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 20:19&gt;</span></span>99.1%
 
-## text<a id="orgheadline229"></a>
+
+<a id="org13226a4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-25 Tue 10:30&gt;</span></span>97.9%
+
+
+<a id="org5c00e9c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-25 Tue 11:28&gt;</span></span>98.8%
+
+:LOGBOOK:
+
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-10-25 Tue 11:48]</span></span>
+
+
+<a id="org10e0532"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun&gt;</span></span>98.2%
+
+
+<a id="org76ef928"></a>
+
+# lesson ninteen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-07 Thu&gt;</span></span>
+
+
+<a id="org6c5e02f"></a>
+
+## Review 96.7%
+
+
+<a id="orgbba6824"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 04:21&gt; </span></span> 96%
+
+
+<a id="org7b86227"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 17:11&gt;</span></span>96.8%
+
+
+<a id="org3d9bbec"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 06:00&gt;</span></span>98.2%
+
+
+<a id="org673976c"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 07:04&gt;</span></span>98.4%
+
+
+<a id="orgab97f17"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 20:48&gt;</span></span>99.8%
+
+
+<a id="org204c833"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 20:43&gt;</span></span>97.7%
+
+
+<a id="org1036015"></a>
+
+## text
 
 a cheek
 an ear
@@ -3563,29 +6456,153 @@ Is the child's face clean or dirty? His face is clean.
 Are the child's feet big or small? His feet are small.
 96.9%
 
-## DONE Review ninteen 97.4<a id="orgheadline230"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 五 10:51&gt;</span></span>98.2%<a id="orgheadline231"></a>
+<a id="org606e7da"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 五 14:42&gt;</span></span>97.8%<a id="orgheadline232"></a>
+## Review ninteen 97.4
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-10-11 日&gt;</span></span>97.6%<a id="orgheadline233"></a>
 
-# DONE lesson twenty<a id="orgheadline243"></a>
+<a id="orgcb52853"></a>
 
-## DONE Review twenty 96.9%<a id="orgheadline235"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 10:51&gt;</span></span>98.2%
 
-## DONE Review 96.8%<a id="orgheadline236"></a>
 
-## CANCELLED MG: <span class="timestamp-wrapper"><span class="timestamp">[2016-09-12 一 13:42]</span></span><a id="orgheadline237"></a>
+<a id="org7a19c69"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 13:43&gt;</span></span>98.1%<a id="orgheadline238"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 14:42&gt;</span></span>97.8%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 18:30&gt;</span></span>99.3%<a id="orgheadline239"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 11:44&gt;</span></span>99.5%<a id="orgheadline240"></a>
+<a id="orgcd01c23"></a>
 
-## text<a id="orgheadline241"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-10-11 Sun&gt;</span></span>97.6%
+
+
+<a id="orgb10fd3d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-02 Mon 09:07&gt;</span></span>98.7%
+
+
+<a id="org5d0ca3a"></a>
+
+## Lesson19
+
+a nose
+a face
+a mouth
+an eye
+a cheek
+an ear
+
+a head
+a back
+a body
+a stomach
+a neck
+shoulders
+
+a hand
+an arm
+a foot
+a leg
+knees
+a finger
+
+a man's face
+a woman's face
+The man is on his knees.
+The woman has a long neck.
+a child's face
+The giraffe has a very long neck.
+
+big stomach
+The boy has a big nose.
+Mother kisses her son's pink cheek.
+The boy has dirty cheeks.
+The man has a wide back.
+The girl is wearing a scarf on her neck and a cap on her head.
+
+open eyes
+a closed mouth
+a woman's ear
+an open mouth
+a finger on the computer.
+closed eyes
+
+The woman is putting a glove on her hand.
+The girl has shoes on her feet.
+The girl does not have any shoes on her feet.
+The son is sitting on his father's shoulders.
+a woman with her eyes closed.
+The child is sitting on his mother's knee.
+
+The man is holding a finger in his mouth.
+The child's foot is in his mother's hands.
+a grown-up's foot
+The child's hand is holding his mother's finger.
+a grown-up's leg
+The child is in his mother's arms.
+
+Is the white-haired girl speaking in the black-haired girl's ear? Yes, she is
+speaking in the black-haired girl's ear.
+Is the woman putting a hat on her head? Yes, she is putting a hat on her head.
+Is the boy speaking in his friend's ear? Yes, he is speaking in his friend's
+ear.
+Is this face sad? Yes, it is sad.
+Is this face cheerful? Yes, it is cheerful.
+Does the bear have a short neck? Yes, it does have a short neck.
+
+Is mother kissing her son's cheek or nose? She is kissing her son's cheek.
+Are the child's feet big or small? His feet are small.
+Is the child sitting on his mother's or his grandma's knee? He is sitting on his
+grandma's knee.
+Is this a woman's face or a man's face? This is a man's face.
+Is the child's face clean or dirty? His face is clean.
+Is the child's head big or small? His head is small.
+
+
+<a id="org9c75b97"></a>
+
+# lesson twenty
+
+
+<a id="orgfabd783"></a>
+
+## Review twenty 96.9%
+
+
+<a id="org7789a60"></a>
+
+## Review 96.8%
+
+
+<a id="org1255a26"></a>
+
+## MG: <span class="timestamp-wrapper"><span class="timestamp">[2016-09-12 Mon 13:42]</span></span>
+
+
+<a id="orga32a34c"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 13:43&gt;</span></span>98.1%
+
+
+<a id="org227aa18"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 18:30&gt;</span></span>99.3%
+
+
+<a id="org93bcac5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 11:44&gt;</span></span>99.5%
+
+
+<a id="org26d0600"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-12 Mon 07:21&gt;</span></span>98.6%
+
+
+<a id="orgb92410a"></a>
+
+## text
 
 a policeman
 a teacher
@@ -3656,21 +6673,131 @@ Is sleeping a job? No, it is not a job.
 Is teaching children a teacher's job or a waiter's job? It is a teacher's job.
 96.5%
 
-## DONE Review twenty 96.8%<a id="orgheadline242"></a>
 
-# DONE lesson twenty one<a id="orgheadline255"></a>
+<a id="org2538325"></a>
 
-## DONE Review twenty one 97.7%<a id="orgheadline244"></a>
+## Review twenty 96.8%
 
-## DONE Review 96.1%<a id="orgheadline245"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 19:01&gt; </span></span> 98.1%<a id="orgheadline246"></a>
+<a id="org344a2d1"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 三 20:22&gt;</span></span>99.3%<a id="orgheadline247"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-03 Tue 06:47&gt;</span></span>97.9%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 15:19&gt;</span></span>99.7%<a id="orgheadline248"></a>
 
-## text<a id="orgheadline249"></a>
+<a id="org5e65f01"></a>
+
+## lesson 20
+
+a cook
+a driver
+a builder
+a policeman
+a doctor
+a teacher
+
+to teach
+to cook
+to build
+to drive
+to jump
+to treat
+
+a lesson
+a schoolboy
+a hospital
+a patient
+a stadium
+a school
+
+The cook is cooking food.
+The teacher is giving a lesson.
+The drive is driving a car.
+The policeman is running with a dog.
+The builders are building a house.
+The doctor is treating a patient.
+
+The teacher works in a school.
+The policeman works outdoors.
+The cook works in a restaurant.
+The shop assistant works in a shop.
+The waiter also works in a restaurant.
+The doctors work in a hospital.
+
+The builder's job is to build houses.
+The driver's job is to drive a car.
+The waiter's job is to bring food.
+The doctor's job is to treat patients.
+The cook's job is to cook food.
+The teacher's job is to teach children.
+
+The policeman is riding a horse through the street.
+The sportsman is jumping at the stadium.
+The schoolchildren are listening to the teacher.
+The shop assistant is speaking to the customer.
+This is a sportsman. He is running.
+The teachers are sitting at the table.
+
+There are a lot of schoolchildren in the school.
+There is a lot of food on the cook's table.
+There are a lot of sprotsmen at the stadium.
+There are a lot of people in the restaurant.
+The policeman has a lot of work outdoors.
+There are a lot of patients in the hospital.
+
+Where does the policeman work? He works outdoors.
+Where does the cook work? He works in a restaurant.
+Where does the shop assistant work? He works in a shop.
+Where does the builder work? He works outdoors.
+Where does the teacher work? He works in a school.
+Where does the waiter work? He works in a restaurant too.
+
+Is teaching children a teacher's job or a waiter's job? It is a teacher's job.
+Is sleeping a job? No, it is not a job.
+Is building houses a shop assistant's job or a builder's job? It is a builder's
+job.
+Is drinking coffee a job? No, it is not a job.
+Is eating a job? No, it is not a job.
+Is treating patients a sportsman's job or a doctor's job? It is a doctor's job.
+
+
+<a id="org806aade"></a>
+
+# lesson twenty one
+
+
+<a id="org535d80f"></a>
+
+## Review twenty one 97.7%
+
+
+<a id="org0060b51"></a>
+
+## Review 96.1%
+
+
+<a id="org13f4412"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 19:01&gt; </span></span> 98.1%
+
+
+<a id="org772350b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 20:22&gt;</span></span>99.3%
+
+
+<a id="orgd00bf8b"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 15:19&gt;</span></span>99.7%
+
+
+<a id="org5d29d33"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-12 Mon 20:31&gt;</span></span>98.0%
+
+
+<a id="orgf1d6e3c"></a>
+
+## text
 
 The policeman is wearing a blue cap.
 The doctor is wearing a white gown.
@@ -3728,9 +6855,15 @@ There are six forks on the table.
 
 97.4%
 
-## words<a id="orgheadline253"></a>
 
-### gown<a id="orgheadline250"></a>
+<a id="orgbc15ae8"></a>
+
+## words
+
+
+<a id="org213b7f2"></a>
+
+### gown
 
 英  [gaʊn] 美  [ɡaʊn]
 n. 长袍，长外衣；礼服；睡袍；法衣
@@ -3757,7 +6890,10 @@ dressing gown 晨衣，便袍
 bridal gown 新娘服装，新娘礼服
 cap and gown n. 方帽长袍
 
-### patient<a id="orgheadline251"></a>
+
+<a id="orga817b95"></a>
+
+### patient
 
 英  ['peɪʃ(ə)nt]   美  ['peʃnt]
 adj. 有耐心的，能容忍的
@@ -3800,7 +6936,10 @@ patient care 病人护工；病人照护；病患照顾
 patient safety 病人安全
 mental patient 精神病人
 
-### couch<a id="orgheadline252"></a>
+
+<a id="orgbeb4722"></a>
+
+### couch
 
 英  [kaʊtʃ] 美  [kaʊtʃ]
 n. 睡椅，长沙发；床；卧榻
@@ -3830,21 +6969,129 @@ Bucky couch 布凯氏滤线器床
 96.7%
 **\*\***
 
-## DONE Review twenty one 96.9%<a id="orgheadline254"></a>
 
-# DONE lesson twenty two<a id="orgheadline264"></a>
+<a id="org6f5b2a8"></a>
 
-## DONE Review twenty two 93.6%<a id="orgheadline256"></a>
+## Review twenty one 96.9%
 
-## DONE Review twenty two 95.2%<a id="orgheadline257"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 19:31&gt; </span></span> 96.2%<a id="orgheadline258"></a>
+<a id="org2392220"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 19:41&gt;</span></span>98.8%<a id="orgheadline259"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-08 Sun 17:20&gt;</span></span>98.9%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 六 04:15&gt;</span></span>99%<a id="orgheadline260"></a>
 
-## text<a id="orgheadline263"></a>
+<a id="orgab345d0"></a>
+
+## Lesson21
+
+The patient in the red gown is lying on the couch.
+The builders are wearing black clothing.
+The customer is trying on the shirt.
+The doctor is wearing a white gown.
+The bride is wearing a white dress.
+The policeman is wearing a blue cap.
+
+What colour is the flower in the girl's hand? It is red.
+What colour is the excavator? It is yellow.
+What colour is the umbrella? It is red.
+What colour is the doctor's gown? It is white.
+What colour are the woman's shoes? They are black.
+What colour is the sky? It is blue.
+
+To whom is the bridegroom giving the flowers? He's giving them to the bride.
+Who is the customer paying? He is paying the shop assistant.
+To whom is the shop assistant selling? He is selling to the customer.
+Who is the doctor treating? He is treating the patent.
+Who is the driver driving? He is driving the girl.
+To whom is the boy giving the banana? He is giving the banana to the cat.
+
+Who is paying money? The customer is paying money.
+Who is building the house? The builders.
+Who is teaching the children? The teacher.
+Who is jumping at the stadium? The sportsman.
+Who is bringing the plates of food? The waiter.
+Who is treating the patients? The doctor.
+
+What is the driver driving? He is driving a car.
+What is the waiter bringing? He is bringing plates of food.
+What are the builders building? They are building the house.
+What are the children reading in the lesson? They are reading a book.
+What is the cook cooking? He is cooking food.
+What is the shop assistant selling? He is selling clothing.
+
+Where do they build the houses? Outside.
+Where do they watch the sportsmen? At the stadium.
+Where do they buy shoes? They also buy them at the shop.
+Where do they teach children? At school.
+Where do they cook the food? In the kitchen.
+Where do they buy food? At the shop.
+
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+more
+less
+
+How many fingers does a person have on one hand? A person has five fingers.
+How many legs does a person have? A person has two legs.
+How many bicycles does the boy have? He has one bicycle.
+How many legs does a dog have? A dog has four legs.
+How many eyes does a person have? A person has two eyes.
+How many fingers does a person have on two hands? A perso has ten fingers.
+
+A dog has more legs than a person.
+There are nine apples here.
+There are four chairs around the table.
+There are six forks on the table.
+There are three children in the family.
+A child has fewer legs than a cat.
+
+
+<a id="org112d88a"></a>
+
+# lesson twenty two
+
+
+<a id="orge853806"></a>
+
+## Review twenty two 93.6%
+
+
+<a id="orgd396440"></a>
+
+## Review twenty two 95.2%
+
+
+<a id="org650a572"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 19:31&gt; </span></span> 96.2%
+
+
+<a id="orgb62da84"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 19:41&gt;</span></span>98.8%
+
+
+<a id="orge716020"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 04:15&gt;</span></span>99%
+
+
+<a id="orgeafc908"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 05:34&gt;</span></span>95.9%
+
+
+<a id="orgab29758"></a>
+
+## text
 
 an artist
 a secretary
@@ -3918,23 +7165,129 @@ The singer on stage is singing and playing the guitar.
 The photographer has interesting work.
 95.9%
 
-### words<a id="orgheadline262"></a>
+
+<a id="org7ce5986"></a>
+
+### words
 
 1.  94.6%
 
-# DONE lesson twenty three<a id="orgheadline272"></a>
 
-## DONE Review twenty three 97.1%<a id="orgheadline265"></a>
+<a id="org19a2cd5"></a>
 
-## DONE review twenty three 94.9%<a id="orgheadline266"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-09 Mon 06:21&gt;</span></span>98.7%
+
+
+<a id="org028e2ae"></a>
+
+## Lesson 22
+
+a photographer
+an artist
+a singer
+a musician
+a secretary
+an actor
+
+performance
+stage
+a spectator
+a mask
+theatre
+concert
+
+to play the guitar
+beautiful
+ugly
+interesting
+boring
+to play a role
+
+jazz concert
+jazz musicians
+a jolly performance
+the spectators at the stadium
+theatre building
+the spectators in the theatre
+
+These are venetian masks.
+This is a small stage in a small theatre.
+This is a boy in a black mask.
+There are no people on this stage.
+This is the actress before the performance.
+These are the musicians during the concert.
+
+To draw this is the work of an artist.
+To play on the stage this is the work of an actor.
+To photograph this is the work of a photographer.
+To perform a concert this is the work of musicians.
+To sing this is the work of a singer.
+To speak on the telephone this is the one of the jobs of a secretary.
+
+This man is playing the role of a woman.
+This actress acts in the theatre.
+This actor acts in film.
+The boy in blue is playing the guitar.
+The boy with the long black hair is playing the guitar.
+The man and the woman are playing their roles in masks.
+
+a beautiful wife
+not such a beautiful wife
+a beautiful apple
+an ugly apple
+a beautiful wall
+an ugly wall
+
+boring work
+an interesting book
+an interesting lesson
+a boring book
+a boring lesson
+interesting work
+
+The artist is painting a beautiful picture.
+The photographer has interesting work.
+There are two musicians on stage.
+The spectators are waiting for the performance.
+The secretary has a lot of boring work.
+The singer on stage is singing and playing the guitar.
+
+
+<a id="org5d19d5d"></a>
+
+# lesson twenty three
+
+
+<a id="org2241f61"></a>
+
+## Review twenty three 97.1%
+
+
+<a id="org271ea89"></a>
+
+## review twenty three 94.9%
 
 有点累了，精力不继。效果打折。
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 日 11:19&gt;</span></span>98.9%<a id="orgheadline267"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 日 19:33&gt;</span></span>99.4%<a id="orgheadline268"></a>
+<a id="org886ff5e"></a>
 
-## text<a id="orgheadline271"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 11:19&gt;</span></span>98.9%
+
+
+<a id="org5c347da"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 19:33&gt;</span></span>99.4%
+
+
+<a id="org7b8e121"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 07:20&gt;</span></span>97.1%
+
+
+<a id="org2275d40"></a>
+
+## text
 
 countryside
 a statue
@@ -4110,7 +7463,10 @@ Where are there many tall buildings? There are many tall buildings in the city.
 There is a traffic jam on the bridge? Yes, there is a traffic jam on the bridge.
 Where is the statue? The statue is on the square.
 
-### traffic jam<a id="orgheadline269"></a>
+
+<a id="org4872c1c"></a>
+
+### traffic jam
 
 英   美
 交通阻塞，塞车
@@ -4128,21 +7484,128 @@ They detoured around the traffic jam by heading south.
 97.9%
 98.1%
 
-### words<a id="orgheadline270"></a>
 
-# DONE twenty four<a id="orgheadline282"></a>
+<a id="orgab8d0e6"></a>
 
-## DONE Review twenty four 96.8%<a id="orgheadline273"></a>
+### words
 
-## DONE Review twenty four 96.4%<a id="orgheadline274"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 二 11:15&gt;</span></span>98.3%<a id="orgheadline275"></a>
+<a id="org6c2269e"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 二 15:00&gt;</span></span>99.3%<a id="orgheadline276"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-10 Tue 07:41&gt;</span></span>98.4%
+
+
+<a id="org2042d8c"></a>
+
+## Lesson 23
+
+a building
+traffic jam
+a city
+countryside
+a statue
+a bridge
+
+a river
+a lake
+a fountain
+a park
+a road
+a square
+
+a beautiful city
+a beautiful building
+beautiful flowers in the park
+The river is in the countryside.
+a beautiful square
+There is ice and snow on the river.
+
+This building is a school.
+The large stone monkey is a statue.
+This building is a hospital.
+The man on the horse is a statue.
+This building is a museum.
+This girl is not a statue.
+
+There is a long wooden bridge above the river.
+There is a wide river in the city.
+There are many buildings in the city.
+Paris is a big city.
+London is also a big city.
+There is a bridge above the river.
+
+In the city there is a large square with a statue.
+There are people taking photos on the square.
+There is a bench on the square.
+There are more trees and grass in the countryside than in the city.
+There are less buildings in the countryside than in the city.
+Many people are walking on the square.
+
+There are fountains and flowers in the park.
+People are walking in the park.
+There is a fountain on the square.
+There is a lake in the park.
+There are flowers around the fountain.
+Dogs are playing in the park.
+
+There are cheerful, wet people around the fountain.
+The water in the lake is blue.
+There is a traffic jam on the bridge.
+There are people swimming in the lake.
+There are no buildings in the park.
+There are birds swimming in the lake.
+
+This is a statue, not a person.
+These people live in the city, not in the countryside.
+This is neither a flat nor stadium. this is a park.
+This is a road, not a river.
+This is a river, not a lake.
+These are neither bicycles nor helicopters. These are cars.
+
+Is the girl standing behind the statue? No, she is standing in front of the
+statue.
+Where is the statue? The statue is on the square.
+Is there a traffic jam on the bridge? Yes, there is a traffic jam on the bridge.
+Who is standing on the bridge? There is a family standing on the bridge.
+Where is the grandmother sitting? She is sitting on a bench in the park.
+Where are there many tall buildings? There are many tall buildings in the city.
+
+
+<a id="orgae9ef54"></a>
+
+# twenty four
+
+
+<a id="orgb58d8ff"></a>
+
+## Review twenty four 96.8%
+
+
+<a id="org6037135"></a>
+
+## Review twenty four 96.4%
+
+
+<a id="orgb8663e6"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 11:15&gt;</span></span>98.3%
+
+
+<a id="org385de58"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 15:00&gt;</span></span>99.3%
 
 千锋科技来访，打断了。时间较长。
 
-## text<a id="orgheadline281"></a>
+
+<a id="orgde0beef"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 07:44&gt;</span></span>97.2%
+
+
+<a id="org0cdaff8"></a>
+
+## text
 
 underground
 a plane b
@@ -4215,7 +7678,10 @@ Do the cars move when there is a red light? No, they stop.
 Are there many cars in this parking lot? No, there are many bikes here.
 96.6%
 
-### words<a id="orgheadline280"></a>
+
+<a id="org5f6f1ea"></a>
+
+### words
 
 1.  transport
 
@@ -4314,23 +7780,138 @@ Are there many cars in this parking lot? No, there are many bikes here.
     means of transportation 交通设施
     96.5%
 
-# DONE twenty  five<a id="orgheadline291"></a>
 
-## DONE Review twenty five 96.6%<a id="orgheadline283"></a>
+<a id="org4c757ee"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-11 Wed 20:59&gt;</span></span>98.7%
+
+
+<a id="orgcb27656"></a>
+
+## Lesson24
+
+a plane
+underground
+a ship
+transport
+a bus
+a train
+
+a railway station
+a parking lot
+a traffic light
+a driver's license
+a train car
+an airport
+
+to get on
+go get off
+to move
+fast
+slow
+to wait in a queue
+
+The old bus is in the sand.
+People are waiting in a queue at the airport.
+The woman is getting off the bus.
+The woman is not driving a car, she is walking.
+The girl is getting on the bus.
+The children do not have bicycles, they are walking.
+
+There is a traffic light on the city street.
+The people are getting off the train car.
+The cars in the traffic jam are moving very slowly.
+The boy is walking with his dog.
+People are waiting in a queue at the bus stop.
+The man is waiting for the train.
+
+The queue is moving slowly.
+A plane is a very quick means of transport.
+Behind the husband and wife there is a beautiful white ship.
+The train is a quick means of transport.
+A bus moves slower than a train.
+A ship moves slower than a plane.
+
+People are getting on the underground car.
+When there is a yellow light, the cars come to a stop.
+The toy train has two cars. One is red, and one is green.
+When there is a red light, the cars do not move.
+When there is a green light, the cars move.
+The underground is a fast means of transport.
+
+There are planes at the airport.
+The railway station is gray.
+There are cars in the large parking lot.
+The policeman is looking at the woman's driver's license.
+People with large bags are walking around the airport.
+The driver has a driver's license.
+
+The bride is getting out of the wedding car.
+The men are getting out of the car at the restaurant.
+The boy is running very quickly.
+The man is sitting in the underground car.
+The grandmother is getting into the car.
+The man and woman with bicycles are in the train car.
+
+Does a plane move faster than a ship? Yes, it moves faster.
+Are the cars stopped  when there ia a green light? No, they move.
+Do the cars move when there is a red light? No, they stop.
+Are there many cars in this parking lot? No, there are many bikes here.
+Are the grandmother and grandfather walking slowly? Yes, they are walking very
+slowly.
+Are these two elderly women walking quickly? No, they are walking very slowly.
+
+
+<a id="org914737f"></a>
+
+# twenty  five
+
+
+<a id="orgb18627f"></a>
+
+## Review twenty five 96.6%
 
 比较流畅。
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 09:04&gt; </span></span> 95.8%<a id="orgheadline284"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 一 15:32&gt;</span></span>98.8%<a id="orgheadline285"></a>
+<a id="org49fb10f"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 一 19:01&gt;</span></span>99.4%<a id="orgheadline286"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 09:04&gt; </span></span> 95.8%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 四 19:16&gt;</span></span>98.9%<a id="orgheadline287"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 五 05:16&gt;</span></span>99.2%<a id="orgheadline288"></a>
+<a id="orgef2d0a1"></a>
 
-## text<a id="orgheadline289"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 15:32&gt;</span></span>98.8%
+
+
+<a id="org9a7651e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 19:01&gt;</span></span>99.4%
+
+
+<a id="org7e64625"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 Thu 19:16&gt;</span></span>98.9%
+
+
+<a id="orgf74bc64"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 Fri 05:16&gt;</span></span>99.2%
+
+
+<a id="orgf61165b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 08:59&gt;</span></span>97.1%
+
+
+<a id="orgdc8a710"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 04:43&gt;</span></span>96.9%
+
+
+<a id="org127aac1"></a>
+
+## text
 
 a sun
 the sea
@@ -4403,17 +7984,120 @@ Is the blue-green seawater in the sun beautiful? Yes, it is very beautiful.
 Is the child working? No, he can't work. He is still very small.
 96.7%
 
-## words<a id="orgheadline290"></a>
 
-# DONE twenty six<a id="orgheadline306"></a>
+<a id="orgbbed6e6"></a>
 
-## DONE Review twenty six 95.2%<a id="orgheadline292"></a>
+## words
 
-## DONE Review twenty six 95.7%<a id="orgheadline293"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 三 04:42&gt;</span></span>97.9%<a id="orgheadline294"></a>
+<a id="org200b904"></a>
 
-## text<a id="orgheadline295"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 05:31&gt;</span></span>97.5%
+
+
+<a id="orgb7fa095"></a>
+
+## Lesson 25
+
+the mountains
+the beach
+the ports
+the sea
+the sun
+relaxation
+
+travel to America
+to travel by plane
+to travel by car
+to travel on bicycle
+to travel  by ship
+travel to Europe
+
+to climb
+to tan
+to spend time
+to spend holiday
+to relax
+to decsend
+
+People are having a good time on the ship.
+Children spend time at the beach in the summer.
+The ship is entering the port.
+People are sailing around the sea.
+Children spend a lot of time in school in the winter.
+Young people want to spend time in the club.
+
+The elderly woman is spending a lot of time on the bench in the garden.
+People are climbing the tall mountain.
+People are decsending the tall mountain.
+Many people are tanning at the beach.
+The children are spending a lot of time in the water.
+Boys and girls are playing in the sand on the beach.
+
+The children are spending a lot time on the computer.
+Grandmother is also spending a lot of time with a book.
+Grandfather is spending a lot of time reading.
+Many people like to lie in the sun.
+The girls like to spend holiday at the sea.
+The parents are spending their holiday with their children.
+
+A holiday at home is inexpensive.
+Swimming is also a very good way of relaxation.
+A holiday at the sea is expensive.
+A holiday in the mountains is also expensive.
+Reading is a very good way of relaxation.
+This family likes to relax at home.
+
+Grandfather is relaxing in the armchair.
+Some people don't want to relax.
+These people are travelling by dogsled.
+Some people are spending their holiday under the water.
+Travel is a very good, though expensive, way of relaxation.
+The little girl in the pink bathing suit and pink hat is going into the sea.
+
+Are these girls working? No, they are tanning on the beach.
+Are these people travelling by helicopter? No, they are travelling by car.
+Are the people getting on the train car? No, they are getting off the train car.
+Is this man relaxing? No, he is working.
+Do children like to spend time at the sea? Yes, they like to spend time at the sea very much.
+Do children like to tan or to swim? They like to swim.
+
+Is the blue-green seawater in the sun beautiful? Yes, it is very beautiful.
+Are the musicians on stage relaxing? No, they are working, and the spectators are relaxing.
+Is the child working? No, he can't work, he is still very small.
+Is the waiter relaxing? No, he is working. The young people at the table are relaxing.
+Are these dogs relaxing? No, they are working.
+Is this dog working? No, it is relaxing.
+
+
+<a id="org473935b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 09:48&gt;</span></span>98.2%
+
+
+<a id="org5c5084d"></a>
+
+# twenty six
+
+
+<a id="orga1658b1"></a>
+
+## Review twenty six 95.2%
+
+
+<a id="orgbda4d63"></a>
+
+## Review twenty six 95.7%
+
+
+<a id="org1a323b3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 04:42&gt;</span></span>97.9%
+
+
+<a id="org190e398"></a>
+
+## text
 
 a tour guide
 a group
@@ -4493,9 +8177,15 @@ When does a tourguide have more work, in the winter or in the summer? He
 usually has more work in the summer.
 96.6%
 
-## word<a id="orgheadline301"></a>
 
-### tourist<a id="orgheadline296"></a>
+<a id="orgf39ffb3"></a>
+
+## word
+
+
+<a id="org86003ab"></a>
+
+### tourist
 
 ['tʊərɪst] 美  ['tʊrɪst]
 n. 旅行者，观光客
@@ -4511,12 +8201,18 @@ N-COUNT A tourist is a person who is visiting a place for pleasure and interest,
 &#x2026;a tourist attraction.
 …一处旅游景点。
 
-### tourguide<a id="orgheadline297"></a>
+
+<a id="orga4590ca"></a>
+
+### tourguide
 
 导游
 tourguide word 导游词
 
-### adults<a id="orgheadline298"></a>
+
+<a id="org8c0851f"></a>
+
+### adults
 
 英  [ˈædʌlts]   美  [ə'dʌlts]
 n. 成年人（adult 的复数形式）
@@ -4559,7 +8255,10 @@ mature adult 成熟的成年人
 
 95.8%aa
 
-### port<a id="orgheadline299"></a>
+
+<a id="org963f778"></a>
+
+### port
 
 英  [pɔːt]  美  [pɔrt]
 n. 港口，口岸；（计算机的）端口；左舷；舱门
@@ -4617,7 +8316,10 @@ serial port [计]串行端口；序列埠
 port city n. 港口城市
 port area 码头区；港口区；喷口面积
 
-### beach<a id="orgheadline300"></a>
+
+<a id="org8842edb"></a>
+
+### beach
 
 [biːtʃ]  美  [bitʃ]
 n. 海滩；湖滨
@@ -4639,21 +8341,144 @@ The boat beached on a mud flat.
 船在泥沼上搁浅了。
 96.2%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 三 13:39&gt;</span></span>98.3%<a id="orgheadline302"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 三 18:44&gt;</span></span>98.9%<a id="orgheadline303"></a>
+<a id="org76efd03"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 四 07:05&gt;</span></span>99%<a id="orgheadline304"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 13:39&gt;</span></span>98.3%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 五 05:46&gt;</span></span>99.2%<a id="orgheadline305"></a>
 
-# DONE lesson twenty seven<a id="orgheadline311"></a>
+<a id="orgfb8961f"></a>
 
-## DONE Review twenty seven 95.7%<a id="orgheadline307"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 18:44&gt;</span></span>98.9%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 三 06:08&gt;</span></span>98.6%<a id="orgheadline308"></a>
 
-## text<a id="orgheadline309"></a>
+<a id="org347567b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 Thu 07:05&gt;</span></span>99%
+
+
+<a id="orgda09e44"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 Fri 05:46&gt;</span></span>99.2%
+
+
+<a id="org96e2ad8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-08 Tue 18:46&gt;</span></span>98.5%
+
+
+<a id="org6f80691"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 07:56&gt;</span></span>97.1%
+
+
+<a id="orgbe005e3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 14:43&gt;</span></span>98.8%
+
+
+<a id="org0775822"></a>
+
+## Lesson 26
+
+a group
+a street
+a map
+a guided tour
+a tourist
+a tour guide
+
+to ask
+to answer
+to show
+to visit
+to cross the street
+to arrive
+
+The schoolboy answers in the lesson.
+The schoolgirl also wants to answer in the lesson.
+The woman in red wants to ask the woman in black about something.
+The teacher is asking the schoolgirl.
+One of the jobs of a secretary is to answer phonecalls.
+The schoolboy wants to answer the teacher in the lesson.
+
+The airplane is arriving into the airport.
+There is a car on the narrow city street.
+The train is arriving into the station.
+The ship is arriving into the port.
+The boy with his dog is crossing the street.
+People are crossing the street on the green light.
+
+Many people visit Rome.
+The patient is visiting the doctor.
+The man is showing his drawing.
+The shop assistant is showing his product.
+The woman with long hair is showing the girl a street on the map.
+A lot of spectators attend the theatre.
+
+This is a group of children.
+There is only one woman on the beach.
+There is a large group of tourists on the bus.
+These people are tourists.
+Two people are looking at a map of the city.
+There are four people in this group.
+
+The tourists on the guided tour are climbing a mountain.
+The tourists are travelling around Europe on bicycles.
+The tourists are visiting a museum during the guided tour.
+The tourists have a map of the city.
+During the guided tour, the tourguide shows the tourists interesting paintings
+at the museum.
+The work of a tourguide is to show tourists the city.
+
+This is not a group of tourists, it is a group of builders.
+A group of people is standing on the street.
+The ship of tourists is arriving into the port.
+These are not tourist buses, they are police cars.
+Tourists are crossing the street.
+There are many tourists visiting Paris.
+
+Is the traffic light on or off? The traffic light is on.
+Where is the plane arriving, into the airport or into the port? The plane is
+arriving into the airport.
+Does a tourguide or a secretary work with the tourists? A tourguide works with
+them.
+Where is the train arriving, into the railway station or into the airport? The
+train is arriving into the railway station.
+Is this group of people on the street or in the park? The group is on the
+street.
+Where is the ship arriving, into the railway station or into the port? The ship
+is arriving into the port.
+
+When people arrive to a restaurant, do they look at a menu or at a map of the
+city? They look at a menu.
+When does a tourguide have more work, in the winter or in the summer? He usually
+has more work in the summer.
+To whom does the tourguide show the museum, children or adults? He shows the
+museum to adults.
+What do tourists visit, museums or hospitals? They visit museums.
+When women travel, do they wear long dresses or jeans? They wear jeans.
+When people cross the street, does trasport move or stop? Transport stops.
+
+
+<a id="org4ba25f0"></a>
+
+# lesson twenty seven
+
+
+<a id="org9307124"></a>
+
+## Review twenty seven 95.7%
+
+
+<a id="org9a9fa0e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 06:08&gt;</span></span>98.6%
+
+
+<a id="orgcfcc51f"></a>
+
+## text
 
 holiday
 morning
@@ -4728,21 +8553,142 @@ Do they eat bread and butter for breakfast? Yes, they do.
 Do they eat cheese for breakfast? Yes, they do.
 97.4%
 
-## DONE Review twenty severn 96.6%<a id="orgheadline310"></a>
 
-# lesson twenty eight<a id="orgheadline328"></a>
+<a id="orgf2482bc"></a>
 
-## DONE Review twenty eight 95.3%<a id="orgheadline312"></a>
+## Review twenty severn 96.6%
+
+
+<a id="org7b8a62a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 08:27&gt;</span></span>97.1%
+
+
+<a id="org1e1cdb2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-13 Fri 08:06&gt;</span></span>98.8%
+
+
+<a id="orgf5be39a"></a>
+
+## Lesson 27
+
+holiday
+morning
+evening
+lunch
+dinner
+breakfast
+
+to congratulate
+to give as a present
+to celebrate
+to eat dinner
+to eat breakfast
+to eat lunch
+
+birthday
+winter evening
+evening walk
+sunny morning
+present
+evening by the sea
+
+This is a business lunch.
+The man drinks coffee and reads the  newspaper in the morning before work.
+Cat also does not like to get up early in the morning very much.
+Adults do not like to get up earyly in the morning very much.
+Both children and adults like presents very much.
+There are few cars on the streets at night.
+
+The young husband and wife are eating lunch on the grass.
+People eat lunch during the day.
+People eat breakfast in the morning.
+The businesswoman is eating lunch on the bench in the park.
+People eat dinner in the evening after work.
+People sleep at night.
+
+They bring presents on a birthday.
+They bring prsents for the bridegroom and bride.
+There are many beautiful dishes on the holiday table.
+Dinner in a beautiful restaurant is a good way to relax after a working
+day.
+A birthday is a joyous holiday.
+It is a big job to cook for a holiday.
+
+The young people are having a good time at the party.
+A car is an expensive present.
+The young man is giving the girl a toy.
+The adults are celebrating a wedding.
+The children are celebrating a birthday.
+The young man is giving the girl flowers.
+
+The parents and their children are having breakfast in the moring.
+This girl is sad, because she is not celebrating her birthday.
+The parents and the children are having lunch during the day.
+The family is having dinner in the evening.
+The girl is celebrating her birthday.
+There is a lot of delicious food at the holiday table.
+
+Do they usually drink orange juice for breakfast or for dinner? They usually
+drink orange juice for breakfast.
+Do children like to celebrate their birthday? Yes, they like to celebrate
+holidays very much.
+Do people tan in the evening or in the moring? People tan in the moringing.
+Do people eat breakfast or eat dinner in the morning? People eat breakfast in
+the morning.
+Do people sleep or eat lunch at night? People sleep at night.
+Is a birthday a sad or a joyous holiday? A birthday is a joyous holiday.
+
+Do they drink wine for breakfast? No, they drink wine for dinner and for lunch.
+Do they eat eggs for breakfast or lunch? They usually eat eggs for
+breakfast.
+Do they eat cheese for breakfast? Yes, they do.
+Do they eat meat for lunch? Yes, a lot of people eat meat for lunch.
+Do they eat bread and butter for breakfast? Yes, they do.
+Do the guests like the party? Yes, the guests like the party very much.
+
+
+<a id="orga7bcd37"></a>
+
+## Review handwriteing
+
+
+<a id="org10ca53d"></a>
+
+# lesson twenty eight
+
+
+<a id="org195b26c"></a>
+
+## Review twenty eight 95.3%
 
 good
 
-## DONE Review twenty eight 93.4<a id="orgheadline313"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 六 05:32&gt;</span></span>99.1%<a id="orgheadline314"></a>
+<a id="org710da12"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 六 19:45&gt;</span></span>99.7%<a id="orgheadline315"></a>
+## Review twenty eight 93.4
 
-## text<a id="orgheadline316"></a>
+
+<a id="org45d1aff"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 05:32&gt;</span></span>99.1%
+
+
+<a id="orga7075c4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 19:45&gt;</span></span>99.7%
+
+
+<a id="orge8f9e33"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 20:37&gt;</span></span>97.2%
+
+
+<a id="orgf0ecb2b"></a>
+
+## text
 
 a view of the sea
 a cactus
@@ -4815,18 +8761,30 @@ This is a view of the sea in good weather.
 Both people and animals  like good weather.
 95.7%
 
-## workds<a id="orgheadline327"></a>
 
-### mountain<a id="orgheadline317"></a>
+<a id="org1606e1b"></a>
+
+## workds
+
+
+<a id="orgd6faf29"></a>
+
+### mountain
 
 n.山；山脉
 A mountain is a very high area of land whith steep sides
 
-### forest<a id="orgheadline318"></a>
+
+<a id="org831ba60"></a>
+
+### forest
 
 A forest is a large area where trees grow close together.
 
-### palm<a id="orgheadline319"></a>
+
+<a id="orgfb3e815"></a>
+
+### palm
 
 英  [pɑːm]   美  [pɑm]
 n. 手掌；棕榈树；掌状物
@@ -4857,14 +8815,20 @@ palm beach 棕榈滩（位于美国佛罗里达州东南部）
 
 1.  I kissed his palm
 
-### cactus<a id="orgheadline320"></a>
+
+<a id="orgc1f3c28"></a>
+
+### cactus
 
 美  ['kæktəs]
 n. [园艺] 仙人掌
 A cactus is a thick, fleshy plant that grows in many hot,dry parts of the world.
 Cacti have no leaves and many of them are covered in prickles.
 
-### camel<a id="orgheadline321"></a>
+
+<a id="org63e410f"></a>
+
+### camel
 
 英  ['kæm(ə)l]   美  ['kæml]
 n. [畜牧][脊椎] 骆驼；打捞浮筒；工作作风官僚
@@ -4875,7 +8839,10 @@ A camel is a large animal that lives in deserts and is used for carrying goods
 and people. Camels have long necks and one or two lmmps on their backs called
 humps.
 
-### swan<a id="orgheadline322"></a>
+
+<a id="orga9158a0"></a>
+
+### swan
 
 英  [swɒn] 美  [swɑn]
 n. 天鹅；天鹅星座
@@ -4890,15 +8857,24 @@ trumpeter swan [鸟]喇叭天鹅
 Toads pursuit of swans, swan disdain said: If I as long as you die!
 癞蛤蟆追求天鹅，天鹅不屑地说：我要是长成你这样早去死了！
 
-### seagull<a id="orgheadline323"></a>
+
+<a id="org26b6b6b"></a>
+
+### seagull
 
 N-COUNT A seagull is a common kind of bird with white or grey feathers. 海鸥
 
-### squirrel<a id="orgheadline324"></a>
+
+<a id="orgd731b25"></a>
+
+### squirrel
 
 N-COUNT A squirrel is a small animal with a long furry tail. Squirrels live mainly in trees. 松鼠
 
-### parrot<a id="orgheadline325"></a>
+
+<a id="org3d9855f"></a>
+
+### parrot
 
 英  ['pærət] 美  ['pærət]
 n. 鹦鹉；学舌者，应声虫；机械模仿别人的人
@@ -4908,7 +8884,10 @@ vt. 机械地模仿
 2.  He talks like a parrot and just repeat what he heard.
 3.  Generations of students have learned to parrot the standard explanations.
 
-### fruit<a id="orgheadline326"></a>
+
+<a id="org03d4f7f"></a>
+
+### fruit
 
 英  [fruːt]  美  [frut]
 n. 水果；产物
@@ -4936,13 +8915,107 @@ Eleanor's work among the women will, I trust, bear fruit.
 埃莉诺在这些妇女中所做的工作我相信会有成效。
 96.5 %
 
-# lesson twenty nine<a id="orgheadline345"></a>
 
-## DONE Review twenty nine 96.3%<a id="orgheadline329"></a>
+<a id="org5b646aa"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-13 Fri 14:41&gt;</span></span>98%
+
+
+<a id="org09cffbe"></a>
+
+## Lesson 28
+
+a forest
+a desert
+a cactus
+a palm
+a view of the sea
+a view of the mountains
+
+a turtle
+a parrot
+a swan
+a seagull
+a camel
+a squirrel
+
+fruits
+plants
+good weather
+bad weather
+vegetables
+animals
+
+This is a view of the mountains covered with snow.
+Many trees grow in the forest.
+Trees do not grow in the desert.
+There is no water in the desert, only sand.
+Cacti grow in the desert.
+This cactus grows in the window.
+
+There is a camel near the palm.
+There is a beautiful green forest around the small lake.
+The squirrel is eating on the park bench.
+A woman is feeding the squirrel from her hand.
+The man is travelling across the desert on a camel.
+A palm grows on the beach.
+
+A turtle lives in the sea.
+A squirrel lives in a tree in the forest.
+A parrot also lives in the forest.
+A seagull flies above the sea.
+This parrot lives in a house.
+A swan lives in the lake.
+
+A potato is a vegetable, not a fruit.
+A cucmber and a tomato are vegetables.
+Vegetables and fruits are good food.
+A pear is a fruit, not a vegetable.
+Fruits grow on trees.
+An apple, an orange, and a banana are all fruits.
+
+Many animals live in the sea.
+A camel is an animal that lives in the desert.
+A cat is also an animal.
+Some animals live in a house.
+A dog is an animal.
+A squirrel is an animal that lives in the forest.
+
+There are many plants in the sea.
+A palm is a plant.
+There are very few plants in the desert.
+A cactus is a plant.
+Flowers are plants.
+Trees are plants.
+
+Sunny weather is good weather.
+Rainy weather is bad weather.
+This is a view of the sea in good weather.
+Both people and animals like good weather.
+This is a view of the city in bad weather.
+People do not like to walk in bad weather.
+
+
+<a id="org7363e06"></a>
+
+## Review writing
+
+
+<a id="org66d6205"></a>
+
+# lesson twenty nine
+
+
+<a id="org852f6cc"></a>
+
+## Review twenty nine 96.3%
 
 better
 
-## text<a id="orgheadline342"></a>
+
+<a id="orge46dbf5"></a>
+
+## text
 
 Who is drinking from the puddle? The horse.
 Who is singing and playing the guitar? The musicias.
@@ -5017,7 +9090,10 @@ The young woman is sitting on the beach. There is good sunny weather at the sea.
 The woman is playing with sand.
 96.9%
 
-### word <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-18 一&gt;</span></span><a id="orgheadline341"></a>
+
+<a id="org0e106b7"></a>
+
+### word <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-18 Mon&gt;</span></span>
 
 1.  puddle
 
@@ -5083,7 +9159,7 @@ The woman is playing with sand.
     n. (Closet)人名；(法)克洛塞
     N-COUNT A closet is a very small room for storing things, especially one without windows. 储藏室
     Where are the shirts? They are in the closet.
-    <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-18 一 05:53&gt;</span></span>
+    <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-18 Mon 05:53&gt;</span></span>
 
 6.  violet
 
@@ -5282,23 +9358,259 @@ The woman is playing with sand.
     A Bronze Pair 青铜双像
     96.5%
 
-## DONE Review twenty nine 96%<a id="orgheadline343"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 六 20:05&gt;</span></span>99.4%<a id="orgheadline344"></a>
+<a id="orgbb2b70c"></a>
 
-# lesson thirty<a id="orgheadline384"></a>
+## Review twenty nine 96%
 
-## DONE Review thirty 93.9%<a id="orgheadline346"></a>
+
+<a id="org99d1757"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 20:05&gt;</span></span>99.4%
+
+
+<a id="org93007b5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-15 Thu 07:24&gt;</span></span>97.3%
+
+
+<a id="orge214a43"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-14 Sat 05:35&gt;</span></span>98.8%
+
+
+<a id="orgf1b2f80"></a>
+
+## Lesson 29
+
+Who is waiting at the door? The dog.
+Who is drinking from the puddle? The horse.
+Who is carrying the flowers? The bride.
+Who is crying in bed? The child.
+Who is singing and playing the guitar? The musician.
+Who is sitting on the pink stool? The young artist.
+
+Where is the man sitting? He is sitting in a large blue chair.
+Where is the child sitting? He is sitting on his father's shoulders.
+Where does the turtle live? It lives in the sea.
+Where are the dishes? They are in the tray.
+Where are the actors poerforming? They are performaing in the park.
+Where are the shirts? They are in the closet.
+
+How many people are in this photograph? There are three people in the photograph.
+How many palms are growing on the beach? There are two palms growing on the beach.
+How many legs does a giraffe have? A giraffe has four legs.
+How many chairs are around the table? There are five chairs are around the table.
+How many dogs are playing in the park? There are two dogs playing in the park.
+How many windows are there in this room? There is one window in the room.
+
+What colour is the grass at the stadium? It is green.
+What colour is the train? It is blue.
+What colour is the car on the mountain road? It is white.
+What colour is the girl's dress? It is violet.
+What colour are the legs of this bird? They are pink.
+What colour are the flowers around the fountain? They are red and yellow.
+
+What are they selling in the shop? They are selling clothes there.
+What are the guests bringing? They are bringing presents.
+What is the boy eating? He is eating bread.
+What is the man holding in his hand? He is holding a pair of glasses.
+What are the travellers looking at? They are looking at the mountains covered with snow.
+What is the doctor putting on? She is putting on white gloves.
+
+What is the sportsman doing? He is jumping at the stadium.
+What is the girl doing? She is drawing.
+What are the tourists doing? They are taking photographs.
+What are the young people doing? They are dancing.
+What is the boy doing? He is giving the woman a banana.
+What is the doctor doing? He is treating the patient.
+
+Which animal has a very long neck? A giraffe has a very long neck.
+Who is the grandfather hugging? He is hugging his granddaughter.
+When are the trees covered with snow? In the winter.
+Which bird has a long neck? A swan has a long neck.
+Who is the mother kissing? She is kissing her little son.
+When are the leaves on the trees yellow? In the autumn.
+
+Is there a clock in the room? Yes, there is a clock here.
+Is there a television in the kitchen? No, there is no television here.
+Are there any spectators at the theatre? Yes, there are some spectators here.
+Is there a bench near the house? Yes, there is a bench here.
+Is there food in the refrigerator? Yes, there is a lot of food here.
+Are there fruits on the table? No, there are no fruits here.
+
+Is the child laughing or crying? He is laughing.
+Is the child on the floor or on the sofa? The child is on the floor.
+Is the person working or relaxing? He is relaxing.
+Are people swimming in the sea or in the river? They are swimming in the sea.
+Is this a street in the city or a road in the countryside? This is a road in the countryside.
+Is this an artist or a musician? This is an aritist.
+
+The young woman is sitting on the beach. There is good sunny weather at the sea.
+The woman is playing with sand.
+These are swans are on the ice. They are white and grey. Swans are very
+beautiful birds.
+This is the city beach. The beach is near a bridge. Young people are playing on
+the beach.
+This man is an artist. There are many paintings aroung him. On the paintings are
+views of the cities.
+This is a train car. A policeman in a grey cap and blue shirt is sitting in the
+train car. He is sleeping.
+This is a square in a big city. There are groups of tourists on the square.
+There are many beautiful buildings around the square.
+
+
+<a id="orgb590f06"></a>
+
+## Review writing
+
+
+<a id="org5ce63f6"></a>
+
+# lesson thirty
+
+
+<a id="org22a017c"></a>
+
+## Review thirty 93.9%
 
 three pargraph
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-25 日 08:18&gt;</span></span>97.2%<a id="orgheadline347"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 一 05:25&gt;</span></span>97.9%<a id="orgheadline348"></a>
+<a id="orgc6135f2"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 二 05:15&gt;</span></span>98.4%<a id="orgheadline349"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-25 Sun 08:18&gt;</span></span>97.2%
 
-## text<a id="orgheadline350"></a>
+
+<a id="org7e1f736"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 05:25&gt;</span></span>97.9%
+
+
+<a id="org2dc1b02"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 05:15&gt;</span></span>98.4%
+
+
+<a id="orga824250"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-25 Fri 05:27&gt;</span></span>98.4%
+
+
+<a id="orgd29f0d4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-15 Thu 08:09&gt;</span></span>95.9%
+
+
+<a id="org738c262"></a>
+
+## Lesson 30
+
+This is a view of the desert. A group of people are travelling on canmels. Three
+camels are lying the sand, and two are standing.
+This is a small, beautiful monkey. It is eating lunch. In front of it are two
+plates of food.
+This elderly man is wearing glasses. He is hugging a large white dog around the
+neck and laughing.
+It is a sunny day. The sportsmen are relaxing at a table in the café. One of
+them is drinking water from a bottle.
+These young people are also travelling across the desert. They like to travel on
+fourwheelers.
+It is a summer's day in the countryside. There is a horse standing under the
+tree. It is relaxing.
+
+The elderly man is sitting on a stool under the tree. His white cap is lying on
+the grass.
+The young man is taking a photo of the girl with long black hair. There is a
+small white dog sitting on the girl's lap.
+Two girls are sitting on a bench in the park. They are wearing white pants. One
+of them is holding an umbrella.
+The girl with glasses is drawing. There is a fish and beautiful sea plants in the picture.
+Two girl are looking at her work.
+This is a restaurant. The young man is paying the waiter in cash. There is a cup
+of coffee on the table in front of him.
+A knife and a fork are lying on a napkin, the napkin is lying on a white
+tablecloth, and the tablecloth is lying on a table.
+
+A seagull is a bird that lives at the sea.
+A turtle is an animal that moves very slowly.
+The customer who is standing in front of the mirror wants to buy a skirt.
+The woman who is sitting to the left of the boy is a teacher.
+Rome is a city that tourists like very much.
+A cactus is a plant that is able to live in the desert.
+
+When it is raining, people open their umbrellas.
+Many customers come to the big shop when there is a sale.
+When the parents work, the child plays with his grandmother.
+When there is good weather outside, the window in the house is open.
+When there is a traffic jam, the policemen have a lot of work.
+When a person is ill, he goes to the doctor.
+
+The man is drinking wine, because he likes it.
+The woman is drinking water, because she does not want to drink wine.
+The waiter is taking away the chicken, beause the woman does not like it.
+The boy is turning off the computer, because he does not want to play any longer.
+The tourists are travelling on the ship, because they do not like to fly on airplanes.
+The man is turning off the television, becuase he does not want to watch it any longer.
+
+The boy is turning on the computer in order to play.
+The man is turning on the television in order to watch an interesting programme.
+The actors are going to the theatre in order to perform on stage.
+The customers are going to the shop at the time of a sale in order to buy cheap goods.
+The woman is not drinking wine in order to drive the car well.
+The spectators are going to the theatre in order to watch the performace.
+
+The boy is turning on the computer, although his parents would rather him not.
+The girl is not happy, even though today is her birthday.
+The woman is drinking water, although she likes wine.
+The woman wants to buy a new dress, even though she has many dresses.
+The woman does not like the chicken, although it tastes good.
+The girl likes to walk in the forest, though it is raining.
+
+Today is the little boy's birthday. He is holding a present in his hands. He
+likes this holiday very much.
+The weather is rainy. The boy is looking out of the window. He is bored, and
+wants to walk and play outside.
+Two women in the park are looking at the big grey bird. One woman is holding an
+orange. She wants to feed the bird.
+There is a beautiful, tan saleswoman behind the counter in the small shop. There
+is only one customer in the shop, and he is looking at wine and fruits.
+The woman is standing by the sea. She is neither bathing nor tanning. She is
+looking at the sea and waiting for a ship.
+This is the bus stop. A man is sitting on the bench and reading the newspaper.
+He is waiting for the bus.
+
+The bride and groom are celebrating their wedding on the beach at the sea. The
+groom is holding the bride in his arms. She is wearing a long white dress and
+has flowers in her hand.
+The man wants to give flowers to the woman in the beautiful dress. He is holding
+them behind his back, and she is looking at him and laughing.
+Two cheerful girls are walking in the autumn park. They like to play with the
+beautiful yellow leaves.
+This is a large, beautiful, red and white house. Next to the house is a table
+and four chairs. There are small trees growing across from the house.
+This is a large brown bear. It is getting out of the water, and the lake and
+mountains are behind him.
+This is a yound woman in blue. She has long hair and beautiful blue eyes. She is
+holding a white cup.
+
+Why are the swans not talking on the telephone? They are not talking on the
+telephone because they do not have a telephone.
+Why are there many tourist taking photos of the square? They are taking photos
+of it because it is beautiful.
+Why are people sleeping on the grass? They are sleeping here because they do not
+have a home.
+Why are these girls not working and instead spending time at the beach? They are
+spending time at the beach beause they are on holiday.
+Why does the giraffe like to eat leaves from tall trees? It likes to do so
+because it has a long nect.
+Why are the girls sleeping during the lesson? They are sleeping because the
+lesson is boring.
+
+
+<a id="org62e2033"></a>
+
+## text
 
 It is a summer's day in the countryside. There is a horse standing under the
 tree. It is relaxing.
@@ -5423,9 +9735,15 @@ Why are there many tourists taking photos of the square? They are taking photos
 of it because it is beautiful.
 96.2%后两节抄的。
 
-## word<a id="orgheadline379"></a>
 
-### desert<a id="orgheadline355"></a>
+<a id="org2b21bbd"></a>
+
+## word
+
+
+<a id="org36b18d4"></a>
+
+### desert
 
 A desert is a large area of land, usually in a hot region, Where there is almost no water,rain, trees, or plants.
 the Sahara Desert
@@ -5460,20 +9778,32 @@ She led them into a deserted sidestreet.
         If someone deserts, or deserts a job, especially a job in the armed forces, they
         leave that job without persission.
 
-### permission n 允许，许可<a id="orgheadline356"></a>
 
-### pants<a id="orgheadline359"></a>
+<a id="orgfeb73b9"></a>
+
+### permission n 允许，许可
+
+
+<a id="org07d72ec"></a>
+
+### pants
 
 1.  n. Pants are a piece of clothing that covers the lower part of your body and each leg.
 
 2.  n. Pants are piece of underwear which two holes to put your legs through and elastic around the top to hold them up around your waist or hips.内裤
 
-### lap<a id="orgheadline360"></a>
+
+<a id="org79ef3d7"></a>
+
+### lap
 
 n.膝盖
 If you have something on your lap when you are sitting down, it is on top of your legs and near to your body.(人坐着时的）大腿部
 
-### parents<a id="orgheadline361"></a>
+
+<a id="org3b46668"></a>
+
+### parents
 
  英  ['perənts]   美  ['pɛrənts]
 n. 父母；双亲（parent 的复数）
@@ -5484,7 +9814,10 @@ foster parents 养父母
 Jane braved the wrath of her parents by refusing to marry the man they had
 chosen.
 
-### customer<a id="orgheadline362"></a>
+
+<a id="org818bf9d"></a>
+
+### customer
 
 n. 客户；[贸易] 顾客
 A customer is someone who buys goods or services, especially from a shop.
@@ -5497,37 +9830,55 @@ a satisfied customer.
 The quality of customer service is extremely important.
 客户服务质量极其重要。
 
-### sale<a id="orgheadline363"></a>
+
+<a id="orgd6b1bb1"></a>
+
+### sale
 
  英  [seɪl]   美  [sel]
 n. 销售；出售；拍卖；销售额；廉价出售
 n. (Sale)人名；(意、塞、瑞典)萨莱；(英、萨摩)塞尔；(法)萨尔
 A sale is an occasion when a shop sells things at less than their normal price.
 
-### person<a id="orgheadline364"></a>
+
+<a id="org0b90ae1"></a>
+
+### person
 
 n. A person is a man,woman, or child.
 At least one person died and serveral others were injured.
 
-### traffic jam<a id="orgheadline365"></a>
+
+<a id="orgea8b4b8"></a>
+
+### traffic jam
 
 交通阻塞，塞车
 A traffic jam is a long line of vehicles that cannot move forward because there
 is too much traffic, or because the road is blcoked by something.
 
-### vehicles<a id="orgheadline366"></a>
+
+<a id="orgd86f8e3"></a>
+
+### vehicles
 
  英  [ˈviːɪk(ə)lz]   美  ['viɪklz]
 n. [车辆] 车辆（vehicle 的复数形式）；交通工具
 A vehicle is a machine with an engine, such as a bus, car, or truck, that
 carries people or things from place to place.
 
-### in order to<a id="orgheadline367"></a>
+
+<a id="org1573b52"></a>
+
+### in order to
 
 为了，以便；想要
 In order to compass our object we must work hard.
 
-### spectator<a id="orgheadline368"></a>
+
+<a id="org93e2196"></a>
+
+### spectator
 
 n. 观众；旁观者
 N-COUNT A spectator is someone who watches something, especially a sports event. (尤指体育赛事的) 观众
@@ -5547,7 +9898,10 @@ a spectator 旁观者
 But this is not a spectator sport.
 但是你们不能只做观众
 
-### performance<a id="orgheadline369"></a>
+
+<a id="orgba4e16d"></a>
+
+### performance
 
 n. 性能；绩效；表演；执行
 N-COUNT A performance involves entertaining an audience by doing something such as singing, dancing, or acting. 表演
@@ -5571,13 +9925,19 @@ He devoted in excess of seventy hours a week to the performance of his duties.
 performance management
 绩效管理业绩管理 性能管理
 
-### programme<a id="orgheadline370"></a>
+
+<a id="org3befb03"></a>
+
+### programme
 
 n. 计划，规划；节目；程序
 vi. 编程序；制作节目
 vt. 规划；拟…计划
 
-### though<a id="orgheadline371"></a>
+
+<a id="orgb225a0e"></a>
+
+### though
 
 adv. 可是，虽然；不过；然而
 conj. 虽然；尽管
@@ -5585,26 +9945,41 @@ prep. 但
 Everything I told them was correct, though I forgot a few things.
 I like him. Though he makes me angry sometimes.
 
-### even though<a id="orgheadline372"></a>
+
+<a id="org01d0bc3"></a>
+
+### even though
 
 虽然，即使
 
-### although<a id="orgheadline373"></a>
+
+<a id="orga4c59dd"></a>
+
+### although
 
 conj. 尽管；虽然；但是；然而
 
-### would rather 宁愿，宁可<a id="orgheadline374"></a>
+
+<a id="org5c95efb"></a>
+
+### would rather 宁愿，宁可
 
 I would rather stay than go.
 I would rather have noodles than rice.
 I would rather do what makes me fulfilled.
 
-### celebrate<a id="orgheadline375"></a>
+
+<a id="org785efee"></a>
+
+### celebrate
 
 vt. 庆祝；举行；赞美；祝贺；宣告
 vi. 庆祝；过节；举行宗教仪式
 
-### across from<a id="orgheadline376"></a>
+
+<a id="orgb5d43b2"></a>
+
+### across from
 
 在…对面
 The library is just acroos from our school.
@@ -5612,13 +9987,19 @@ The library is just acroos from our school.
 I looked up at my friend sitting across from me.
 我抬头看向坐在我对面的朋友。
 
-### instead<a id="orgheadline377"></a>
+
+<a id="org71a125a"></a>
+
+### instead
 
 adv. 代替；反而；相反
 Instead of abating, the wind is blowing even harder.
 风不但没停，反而越刮越大了。
 
-### boring<a id="orgheadline378"></a>
+
+<a id="org53574da"></a>
+
+### boring
 
 n. 钻孔
 adj. 无聊的；令人厌烦的
@@ -5626,9 +10007,15 @@ v. 钻孔；使厌烦；挖空（bore 的 ing 形式）
 n. (Boring)人名；(英、瑞典)博林
 96.9%
 
-## DONE Review thirty 95.8% &#x2013;>96.9%<a id="orgheadline380"></a>
 
-## across<a id="orgheadline381"></a>
+<a id="org3d5427a"></a>
+
+## Review thirty 95.8% &#x2013;>96.9%
+
+
+<a id="org0e93942"></a>
+
+## across
 
  英  [ə'krɒs]   美  [ə'krɔs]
 prep. 穿过；横穿
@@ -5726,7 +10113,10 @@ He moseyed across to the bar.
 We can gain some time if we cut across this field.
 我们如果抄近路穿过这片田野可以省下一些时间。
 
-## cross<a id="orgheadline382"></a>
+
+<a id="orgacd1419"></a>
+
+## cross
 
  英  [krɒs]   美  [krɔs]
 n. 交叉，十字；十字架，十字形物
@@ -5823,7 +10213,10 @@ The general pinned the Military Cross on the brave soldier’s chest.
 The Chinese Red Cross contributed a generous sum to the relief of the physically disabled.
 中国红十字会慷慨捐赠一笔巨款以救济残疾人。
 
-## lap<a id="orgheadline383"></a>
+
+<a id="org863bc8f"></a>
+
+## lap
 
  英  [læp]   美  [læp]
 n. 一圈；膝盖；下摆；山坳
@@ -5831,9 +10224,15 @@ vt. 使重叠；拍打；包围
 vi. 重叠；轻拍；围住
 n. (Lap)人名；(越)立
 
-# DONE Lesson thirty one 95%<a id="orgheadline391"></a>
 
-## DONE 复习 95.0%<a id="orgheadline385"></a>
+<a id="org9865b3b"></a>
+
+# Lesson thirty one 95%
+
+
+<a id="org50bc203"></a>
+
+## 复习 95.0%
 
 registration
  英  [redʒɪ'streɪʃ(ə)n]   美  ['rɛdʒɪ'streʃən]
@@ -5997,13 +10396,22 @@ The customs official is checking their passports.
 The man is checking where his money is.
 The woman is checking her flight on her ticket.
 
-## DONE 复习96.2%<a id="orgheadline386"></a>
 
-## DONE Review thirty one 94.8%<a id="orgheadline387"></a>
+<a id="org6b0e278"></a>
 
-## DONE Review Thirty one 95.3%->94.9%<a id="orgheadline388"></a>
+## 复习96.2%
 
-CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-08-15 一 05:41]</span></span>
+
+<a id="orge7fc529"></a>
+
+## Review thirty one 94.8%
+
+
+<a id="org016fa34"></a>
+
+## Review Thirty one 95.3%->94.9%
+
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-08-15 Mon 05:41]</span></span>
 
 skirt
 shirt
@@ -6012,21 +10420,214 @@ clock
 computer
 s
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 二 16:20&gt;</span></span>97.6%<a id="orgheadline389"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 三 05:00&gt;</span></span>99.4%<a id="orgheadline390"></a>
+<a id="org90163a9"></a>
 
-# DONE Lesson thirty two 96.2%<a id="orgheadline406"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 16:20&gt;</span></span>97.6%
 
-## DONE Review thirty two 95.5%<a id="orgheadline392"></a>
 
-## text<a id="orgheadline398"></a>
+<a id="org90184a4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 05:00&gt;</span></span>99.4%
+
+
+<a id="org10aa771"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-21 Mon 05:23&gt;</span></span>98.2%
+
+
+<a id="org3a4fda3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-06 Tue 07:14&gt;</span></span>97.4%
+
+
+<a id="org7b7bbda"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-07 Wed 04:46&gt;</span></span>96.5%
+
+
+<a id="orgcaa9ff5"></a>
+
+## Lesson 31
+
+passport control customs control registration flight a currency exchange booth a
+waiting area
+
+to go through
+to carry
+to check baggage
+to exchange currency
+to claim baggage
+to check
+
+a boarding pass
+a stewardess
+a gate
+a customs official
+a seat
+a passenger
+
+heavy a light computer a light bag light a heavy book a heavy suitcase
+
+Is this book heavy? No, it's light. You carry it in a bag.
+The brother is light, but his sister is heavy.
+This suitcase is big and heavy.
+The sister is holding her little brother. He's light.
+The brother isn't holding his sister. She's heavy.
+Is the bag light? Yes, it's light: Children can carry it.
+
+The people are claiming their baggage.
+The boy is claiming his baggage. He's taking his light bag.
+The woman also is checking her baggage.
+The man is checking his baggage.
+The girl isn't checking her baggage. She's taking her bag onto the plane.
+The woman is claiming her baggage. She's taking her heavy suitcase.
+
+The man is going through registration. He's showing his ticket and passport.
+At registration people check their baggage and receive their boarding pass.
+On the boarding pass is the seat number on the plane.
+In the big waiting area people wait for their flights.
+People with boarding passes go to the waiting area.
+The woman also is going through registration with her children. She also is
+showing their tickets and passports.
+
+The woman is exchanging currency.
+The stewardess brings the passengers food.
+The man also is exchanging currency.
+The stewardess shows the passengers their seats on the plane.
+The stewaress meets the passengers by the plane.
+The man is going to the currency exchange booth. He wants to exchange currency.
+
+The customs official is checking his baggage.
+The man is going through customs control.
+The woman is checking her flight on her ticket.
+The customs official is checking their passports.
+The woman is going through passport control with her child.
+The man is checking where his money is .
+
+Is the man going through passport or customs control? He's going through customs
+control.
+Is the boy exchanging currency or buying icecream? He is buying icecream.
+Is the woman checking her baggage or claiming it? The woman is checking her baggage.
+Are the children sitting on the plane or in the waiting area? The children are
+sitting in the waiting area.
+Is the woman checking her baggage or claiming it? The woman is claiming her baggage.
+Is the man going through passport or customs control? He is going through
+passport control.
+
+What is the man doing? He's going through registration and receiving his
+boarding pass.
+What is the customs official doing? He is checking baggage.
+What is the stewardess doing? She is bringing the man a glass of water.
+What are the boy and the girl doing? They are playing in the waiting area.
+What is the woman doing? She is going through passport control with her child.
+What are the man and the woman doing? They are waiting for their flight.
+
+
+<a id="orga10fed5"></a>
+
+# Lesson thirty two 96.2%
+
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-07-26 Tue 05:40]</span></span>
+
+
+<a id="org3de3d1b"></a>
+
+## Review thirty two 95.5%
+
+
+<a id="org1d0c1c9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-20 Sun 05:26&gt;</span></span>98.2%
+
+
+<a id="orgaa1d53c"></a>
+
+## Lesson 32
+
+a hotel a reception desk a form a room a floor a receptionist
+
+to fill out to take a shower to offer to choose to wash up
+to make a reservation
+
+the kitchen before the kitchen aften the painting before the painting after
+the oranges before the oranges after
+
+a key a door a bathroom a shower a window a bathtob
+
+a hard chair the first floor the second floor a double room a single room a soft
+chair
+
+The woman also has reserved a room.
+The man is filling out a form. The woman also is filling out the form.
+Behind the reception desk stands a receptionist.
+The tourists are entering the hotel.
+The man is saying to the receptionist:I have reserved a room.
+The receptionist is giving the man and the woman forms.
+
+The man chooses an expensive room with a view of the sea on the second floor.
+The woman chooses an inexpensive double room with a view of the mountains on the first
+floor.
+The woman is paying with cash and taking the keys.
+The man is paying with a credit card and taking the keys.
+The receptionist is offering the woman and her child a double room.
+The receptionist is offering the man a single room.
+
+The woman doesn't need to go up in the elevator.
+The man is going up in the elevator.
+The girl is going down in the elevator.
+The man is waiting for the elevator. He also wants to go down in the elevator.
+The man is opening the door with the key.
+The woman is giving her daughter the key.
+
+The woman is sleeping in the soft bed.
+The man is sitting on the soft chair.
+The girl is lying on the hard floor.
+a hard couch
+The receptionist is sleeping on the hard chair.
+a soft bed
+
+The woman is going down to the restaurant before dinner.
+The woman is filling out a form after her arrival at the hotel.
+The children are washing up before breakfast.
+The man is going up to his room after breakfast.
+The tourist is taking a shower after a walk.
+The man has reserved a room before his arrival at the hotel.
+
+The girl is taking a shower.
+The woman is washing up.
+The mother is washing her dirty child in the bathtub.
+The boy also wants to take a shower.
+The man is washing up.
+The clean child is sitting in the big white bathtub.
+
+In the morning before breakfast people wash up.
+The tourists are reserving a hotel before buying the plane tickets.
+The little boy is sleeping in a soft bed before dinner.
+After the rain there are many puddles on the street.
+After a shower the woman puts on a long white robe.
+After the excursion to the mountains the tourists want to take a shower.
+
+The boy is smiling because he likes the hotel.
+The family is going to this hotel because they have reserved a room in it.
+The girl is taking a shower because she's dirty.
+The woman is going up in the elevator because she has a heavy suitcase.
+The woman gives the key to her daughter because she has a bag in her arms.
+The man is lying on the soft couch because he's watching television.
+
+
+<a id="org30d9f5b"></a>
+
+## text
 
 a form
 a floor
 a room
 
-### a reception desk<a id="orgheadline393"></a>
+
+<a id="orgf66718f"></a>
+
+### a reception desk
 
 英  [rɪ'sepʃ(ə)n]  美  [rɪ'sɛpʃən]
 n. 接待；接收；招待会；感受；反应
@@ -6084,7 +10685,10 @@ She was asked to pour at a little reception for the performers after the concert
 
 a hotel
 
-### a receptionist<a id="orgheadline394"></a>
+
+<a id="orgf0cdd17"></a>
+
+### a receptionist
 
 英  [rɪ'sepʃ(ə)nɪst]  美  [rɪ'sɛpʃənɪst]
 n. 接待员；传达员
@@ -6098,11 +10702,17 @@ arrive. (办公室或医院) 接待员
 N-COUNT In a hotel, the receptionist is the person whose job is to reserve rooms
 for people and answer their questions. (宾馆前台) 接待员
 
-### to wash up<a id="orgheadline395"></a>
+
+<a id="org0f9c9d4"></a>
+
+### to wash up
 
 洗漱 to wash the face and rinse the mouth 洗碗 to do the dishes;
 
-### to offer<a id="orgheadline396"></a>
+
+<a id="org012c1b0"></a>
+
+### to offer
 
 英  ['ɒfə]   美  ['ɔfɚ]
 vt. 提供；出价；试图
@@ -6254,7 +10864,10 @@ N-COUNT A reservation is an area of land that is kept separate for a particular 
 Seventeen thousand Indians live in Arizona on a reservation.
 17000名印第安人居住在亚利桑那州的保留地内。
 
-### to take a shower 洗澡<a id="orgheadline397"></a>
+
+<a id="org203922e"></a>
+
+### to take a shower 洗澡
 
 英  ['ʃaʊə]   美  ['ʃaʊɚ]
 n. 淋浴；（倾泻般出现的）一阵，一大批；阵雨
@@ -6333,19 +10946,34 @@ Behind the recepation desk stands a receptionist.
 The man is saying to the receptionist: I have reserved a room.
 The receptionist is giving the man and the woman forms.
 
-## DONE Review Thirty two 96.5%<a id="orgheadline399"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 三 05:44&gt;</span></span>98.7%<a id="orgheadline400"></a>
+<a id="org52dabd0"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 三 09:33&gt;</span></span>99%<a id="orgheadline401"></a>
+## Review Thirty two 96.5%
 
-## DONE section six 96.2%<a id="orgheadline403"></a>
+
+<a id="org18a146a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 05:44&gt;</span></span>98.7%
+
+
+<a id="orgaf3d377"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 09:33&gt;</span></span>99%
+
+
+<a id="orgb2ef8c8"></a>
+
+## section six 96.2%
 
 The man choose an expensive room with a view of the sea on the second floor.
 The receptionist is offering the man a single room.
 The man is paying with a credit card and taking the keys.
 
-### 信用卡；记帐卡<a id="orgheadline402"></a>
+
+<a id="org0359988"></a>
+
+### 信用卡；记帐卡
 
 credit card
 N-COUNT A credit card is a plastic card that you use to buy goods on credit. Compare . 信用卡
@@ -6418,15 +11046,30 @@ The boy is smiling because he likes the hotel.
 The woman is going up in the elevator because has a heavy suitcase.
 The man is lying on the soft couch because he's watching television.
 
-## DONE Review Thirty two 97.1%<a id="orgheadline404"></a>
 
-## DONE Lesson thirty three<a id="orgheadline405"></a>
+<a id="org881d67f"></a>
 
-# DONE Review thirty three 95.3%<a id="orgheadline433"></a>
+## Review Thirty two 97.1%
 
-## text<a id="orgheadline426"></a>
 
-### blinds<a id="orgheadline407"></a>
+<a id="orgff32b28"></a>
+
+## Lesson thirty three
+
+
+<a id="orgeb924bf"></a>
+
+# Review thirty three 95.3%
+
+
+<a id="org9ee7d93"></a>
+
+## text
+
+
+<a id="org5d94c1c"></a>
+
+### blinds
 
 英  [blaɪnd]  美  [blaɪnd]
 adj. 盲目的；瞎的
@@ -6510,7 +11153,10 @@ Groping with his hands in the dark along the wall, the blind man finds his way t
 People who cannot distinguish between colours are said to be colour-blind.
 不能分辨颜色的人被称为色盲。
 
-### ceiling<a id="orgheadline408"></a>
+
+<a id="orgdde1409"></a>
+
+### ceiling
 
 英  ['siːlɪŋ]  美  ['silɪŋ]
 n. 天花板；上限
@@ -6554,7 +11200,10 @@ The walls are green, while the ceiling is white.
 A high ceiling gives a feeling of airness and spaciousness.
 天花板高给人一种通风和宽敞的感觉。
 
-### drapes<a id="orgheadline409"></a>
+
+<a id="org0113ab1"></a>
+
+### drapes
 
 英  [dreɪp]  美  [drep]
 vt. 用布帘覆盖；使呈褶裥状
@@ -6604,9 +11253,15 @@ article.yeeyan.org
 Others drape them over chairs or throw them on the floor or bed, and sorting through them later becomes a major chore.
 别人会将它们褶盖在椅子上或者将他们扔在地板上，留着之后收拾。 这便成了主要的家庭杂务。
 
-### a floor<a id="orgheadline410"></a>
 
-### balcony<a id="orgheadline411"></a>
+<a id="orga1e6179"></a>
+
+### a floor
+
+
+<a id="org8fd403e"></a>
+
+### balcony
 
 英  ['bælkənɪ]  美  ['bælkəni]
 n. 阳台；包厢；戏院楼厅
@@ -6634,7 +11289,10 @@ She will pot plants from her garden and put on her balcony.
 She gestured her intention of joining them by waving from the balcony.
 她在阳台上挥手示意要加入他们队伍。
 
-### fireplace<a id="orgheadline412"></a>
+
+<a id="org36d6337"></a>
+
+### fireplace
 
 英  ['faɪəpleɪs]  美  ['faɪɚples]
 n. 壁炉
@@ -6669,11 +11327,17 @@ They squatted themselves before the fireplace.
 When we turned to leave, she spanked us hard on our rear with the fireplace shovel.
 当我们转身离开时，她用壁炉铲重重地打了一下我们的后屁股。
 
-### to look for 寻找<a id="orgheadline413"></a>
+
+<a id="orga5fbaaf"></a>
+
+### to look for 寻找
 
 to stand
 
-### hang<a id="orgheadline414"></a>
+
+<a id="orgd5b452f"></a>
+
+### hang
 
 英  [hæŋ]   美  [hæŋ]
 vt. 悬挂，垂下；装饰；绞死；使悬而未决
@@ -6761,7 +11425,10 @@ Hang it in an airy place.
 He ran a nail into the wall to hang his painting.
 他在墙上钉了一个钉子挂上他的绘画。
 
-### fit<a id="orgheadline415"></a>
+
+<a id="org9cc9046"></a>
+
+### fit
 
 英  [fɪt]   美  [fɪt]
 vt. 安装；使……适应；使……合身；与……相符
@@ -6883,7 +11550,10 @@ www.kfyes.com
 You should fit your style of living to your circumstances.
 你应当让你的生活方式适应环境。
 
-### chandelier<a id="orgheadline416"></a>
+
+<a id="orgf771a7e"></a>
+
+### chandelier
 
 英  [,ʃændə'lɪə]  美  [,ʃændə'lɪr]
 n. 枝形吊灯
@@ -6896,7 +11566,10 @@ N-COUNT A chandelier is a large, decorative frame which holds light bulbs or can
 A crystal chandelier lit the room.
 一盏水晶吊灯照亮了房间。
 
-### rug<a id="orgheadline417"></a>
+
+<a id="org1e28e56"></a>
+
+### rug
 
 英  [rʌg]   美  [rʌɡ]
 n. 小地毯；毛皮地毯；男子假发
@@ -6917,7 +11590,10 @@ PHRASE If someone pulls the rug from under a person or thing or pulls the rug fr
 If the banks opt to pull the rug from under the ill-fated project, it will go into liquidation.
 如果这些银行选择不再支持那项倒霉的工程，它就将破产。
 
-### 英  ['pɪləʊ]  美  ['pɪlo]<a id="orgheadline418"></a>
+
+<a id="orgb9c838f"></a>
+
+### 英  ['pɪləʊ]  美  ['pɪlo]
 
 n. 枕头
 vt. 垫；枕于…；使…靠在
@@ -6955,9 +11631,15 @@ She fluffed up the pillow.
 She was sobbing her loneliness into her pillow.
 她伏枕啜泣以泄心中的孤寂。
 
-### a floor lamp<a id="orgheadline419"></a>
 
-### bed sheets<a id="orgheadline420"></a>
+<a id="org9b9ba57"></a>
+
+### a floor lamp
+
+
+<a id="orgb5711f9"></a>
+
+### bed sheets
 
 英  [ʃiːt]   美  [ʃit]
 n. 薄片，纸张；薄板；床单
@@ -7024,7 +11706,10 @@ She spread a sheet on the sofa for me.
 She laid a spring mattress under the sheet.
 她在床单下面铺了一个弹簧床垫。
 
-### a blanket<a id="orgheadline421"></a>
+
+<a id="orgdce1266"></a>
+
+### a blanket
 
 英  ['blæŋkɪt]  美  ['blæŋkɪt]
 n. 毛毯，毯子；毯状物，覆盖层
@@ -7076,11 +11761,17 @@ They muffled up her head with a blanket.
 He lapped his daughter in a warm blanket.
 他把女儿裹在一个暖和的毯子里。
 
-### the other 英   美<a id="orgheadline422"></a>
+
+<a id="orgc1dcdfa"></a>
+
+### the other 英   美
 
 另一个
 
-### none<a id="orgheadline423"></a>
+
+<a id="orgf1292e5"></a>
+
+### none
 
 英  [nʌn]   美  [nʌn]
 pron. 没有人；一个也没有；没有任何东西
@@ -7142,7 +11833,10 @@ None knows he's narking for the police.
 None of this was discussed or communicated to me. He went his own way.
 此事根本没有讨论过， 也没有通知过我， 是他独断独行。
 
-### outside<a id="orgheadline424"></a>
+
+<a id="org855884f"></a>
+
+### outside
 
 英  [aʊt'saɪd; 'aʊtsaɪd]  美  [,aʊt'saɪd]
 adj. 外面的，外部的；外来的
@@ -7249,7 +11943,10 @@ National policies should not be determined by outside influence.
 Members are asked not to ventilate club problems outside this meeting.
 会员不得在这次会议之外公开谈论俱乐部问题。
 
-### inside<a id="orgheadline425"></a>
+
+<a id="org48488b6"></a>
+
+### inside
 
 英  [ɪn'saɪd]  美  ['ɪn'saɪd]
 n. 里面；内部；内情；内脏
@@ -7370,9 +12067,15 @@ This rug doesn't hang one the wall. It lies on the ground.
 On the ceiling hangs a beautiful, valuable, big chandelier.
 On the window in the living room hang beautiful, grren drapes.
 
-## DONE Review Thirty three 96.4%<a id="orgheadline427"></a>
 
-## DONE continue thirty tree<a id="orgheadline428"></a>
+<a id="org4ab9f0f"></a>
+
+## Review Thirty three 96.4%
+
+
+<a id="org526aa90"></a>
+
+## continue thirty tree
 
 A boy is lying on the wooden floor and looking at the beautiful shandelier on the ceiling.
 A big, white, soft pillow is lying on the floor.
@@ -7388,7 +12091,10 @@ On all of the windows hang blinds.
 One this window hang blinds, but on the other - curtains.
 In all of the expensive hotel rooms there is a beautiful fireplace.
 
-## DONE continue learn 32 96.1%<a id="orgheadline429"></a>
+
+<a id="org687a18d"></a>
+
+## continue learn 32 96.1%
 
 A mother and daughter are sitting at a table inside the cafe. They don't see the
 people who are sitting outside.
@@ -7431,21 +12137,198 @@ The boy doesn't find money, so he doesn't buy ice cream.
 The woman works in the hotel, so she brings clean bed sheets to the room.
 The book isn't on the table, so the man is looking for it in the cabinet.
 
-## DONE Review 33<a id="orgheadline430"></a>
 
-## DONE Review 33 95.2%<a id="orgheadline431"></a>
+<a id="org4451613"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 三 16:11&gt;</span></span>98.5%<a id="orgheadline432"></a>
+## Review 33
 
-# DONE thirty four<a id="orgheadline472"></a>
 
-## DONE Review thirty four 97->95.4%<a id="orgheadline434"></a>
+<a id="orgaeb7584"></a>
+
+## Review 33 95.2%
+
+
+<a id="orgf2295d9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 16:11&gt;</span></span>98.5%
+
+
+<a id="org26bbb1a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-19 Sat 09:54&gt;</span></span>98.4%
+
+
+<a id="org3805bf1"></a>
+
+## Lesson 33
+
+a floor a ceiling drapes blinds a fireplace a balcony
+
+to hang to lie to find to stand to fit to look for
+
+a rug a pillow a chandelier bed sheets a blanket a floor lamp
+
+this the other none all outside inside
+
+To the right of the bed stands a lamp, not a television.
+On the fireplace stands a clock, not a computer.
+In the room to the right of the bed stands a beautiful floor lamp.
+This rug doesn't hang on the wall. Tt lies on the ground.
+On the window in the living room hang beautiful, green  drapes.
+On the ceiling hangs a beautiful, valuable, big chandelier.
+
+A soft blanket is lying on the bed.
+A big, white, soft pillow is lying on the floor.
+A girl is standing on the balcony. She is looking at the tall buildings.
+A woman is bringing clean bed sheets to the room.
+In front of the bed on the floor lies a soft rug.
+A boy is lying on the wooden floor and looking at the beautiful chandelier on the
+ceiling.
+
+In this room there's a balcony, but in the other room there's not.
+On this window hang blinds, but on the other - curtains.
+All of the blinds on the windows are closed.
+This key doesn't fit this door. It is the other key.
+In all of the expensive hotel rooms there is a beautiful fireplace.
+On all of the windows hang blinds.
+The bag is outside the closet.
+The clothes are inside the closet.
+Inside the house it's warm, but outside it's cold.
+A father and son are sitting at a table outside. They don't see the people who
+are sitting inside.
+Inside the fireplace it's dirty, but outside it's clean.
+A mother and daughter are sitting at a table inside the cafe. They don't see the
+people who are sitting outside.
+
+In the winter no one opens the balcony.
+None of the students in the school wears a red jacket.
+All brides wear a white dress to the wedding.
+None of the brides wears a blue dress.
+In the room it's hot. No one is sleeping under a blanket.
+All the students in the school wear blue jackets.
+
+The woman finds the key on the floor.
+The girl finds a beautiful flower in the grass.
+The woman before the door is looking for the key in her bag.
+The boy finds a gift under the pillow.
+The boy and the girl are looking for their younger brother in the room.
+The student is looking for a book on the shelf.
+
+The woman finds a key on the floor, but it doesn't fit.
+The mother is looking for her son outside, but he's inside the house.
+The man is looking for the pillow, but he doesn't find it.
+The student is looking for the book in the bag, but it's lying on the table.
+The woman is looking for the blanket, but she doesn't find it.
+The boy is looking for the towel, but it's hanging in the bathroom.
+
+The woman works in the hotel, so she brings clean bed sheets to the room.
+The boy doesn't find money, so he doesn't buy ice cream.
+On the ceiling hangs a beautiful chandelier, so the girl is looking at the ceiling.
+The book isn't on the table, so the man is looking for it in the cabinet.
+In the room it's cold, so the boy is lying under a thick blanket.
+The cat isn't in the room, so the boy is looking for it in the cabinet.
+
+
+<a id="orgd57eedc"></a>
+
+# thirty four
+
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-07-29 Fri 06:53]</span></span>
+
+
+<a id="org6ebde5d"></a>
+
+## Review thirty four 97->95.4%
 
 左手痛。效果打折。
 
-## text<a id="orgheadline465"></a>
 
-### salad<a id="orgheadline435"></a>
+<a id="orgf324c2c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-19 Sat 05:38&gt;</span></span>96.9%
+
+
+<a id="org33c4cce"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-07 Wed 07:59&gt;</span></span>97.7%
+
+
+<a id="orgf516c46"></a>
+
+## Lesson 34
+
+soup salad onion cabbage mushrooms mashed potatoes
+
+to cook to boil to fry to bake to bring food to try
+
+hot boiled fried fresh tasty cold
+
+pie with meat pie with cabbage pie with potato pie with onion and egg pie with
+mushrooms.
+
+a bar drinks strong drinks milk appetizers a café
+drinks
+
+fresh cabbage boiled cabbage
+mushroom soup fried onion
+vegetabel salad fresh onion
+
+The woman is eating vegetable salad for breakfast.
+The mother is feeding her son mashed potatoes.
+The cat is drinking cold milk.
+The boy doesn't drink warm milk. He wants cold juice.
+The children don't love onion.
+The children love hot pies with potatoes and milk.
+
+The man is ordering a pie with meat in the café.
+The chef bakes tasty pies.
+The mother is making vegetable soup for her children.
+Dad is making mashed potatoes from boiled potatoes.
+Mom is preparing tasty food, and dad is trying it.
+The chef is boiling cabbage in the pot.
+
+The chef is frying chicken because the man and woman want fried chicken.
+The chef in the café makes tasty soup, so many people go to the café.
+The woman is frying potatoes because she's making lunch for the family.
+The father wants fried potatoes for lunch, but his son wants fresh vegetable
+salad.
+The children love pies with meat, so their mom is baking pies with meat.
+Mom is baking a pie with onion and egg, and dad is making vegetable soup.
+
+At the bar they sell drinks and appetizers.
+Men come to the bar to drink strong drinks.
+The man is asking the waiter to bring appetizers.
+The women are drinking wine at the bar.
+The child doesn't drink strong drinks. His mom gives him water with lemon.
+The man and the woman are sitting in the dark bar and drinking strong drinks.
+
+In order to prepare tasty vegetable soup, you need fresh vegetables.
+For salad you need fresh vegetables.
+In order to bake pie with egg, you need to fry eggs.
+For mashed potatoes, you need boiled potatoes, not fried.
+For mushroom soup you need mushrooms, not meet.(mistake meet->meat)
+In order to fry chicken, you need a roasting pan.
+
+Does the grandma know how to bake tasty pies with cabbage? Yes, grandma knows
+how to bake tasty pies.
+Does the boy know how to fry potatoes? No, he doesn't know how to fry
+potatoes. He's still very small.
+Does the man know how to bake pies? No, he doesn't know how to bake pies.
+Does the chef know how to cook? Yes, he prepares very tasty food.
+Does mom know how to make tasty soup? Yes, mom knows how to make tasty
+soups.
+Does the girl know how to prepare vegetable salad? Yes, she prepares vegetable
+salad well.
+
+
+<a id="org4dce5b1"></a>
+
+## text
+
+
+<a id="orgde2021d"></a>
+
+### salad
 
 英  ['sæləd]   美  ['sæləd]
 n. 色拉；尤指莴苣
@@ -7481,7 +12364,10 @@ He lunched off cold meat and salad.
 He mixed his son a salad.
 他为儿子调制了一盘色拉。
 
-### mushrooms<a id="orgheadline436"></a>
+
+<a id="orgcadd4c8"></a>
+
+### mushrooms
 
 英  [ˈmʌʃrʊms]   美  [mʌʃrʊms]
 n. 蘑菇；蕈类（mushroom的复数形式）
@@ -7525,7 +12411,10 @@ At the level of our cells, humans have far more in common with mushrooms, magnol
 我们人类的细胞水平与蘑菇、玉兰类的植物和金盏花有更多的共同性，远远多于与细菌的相似之处。
 article.yeeyan.org
 
-### cabbage<a id="orgheadline437"></a>
+
+<a id="orgea4dd0c"></a>
+
+### cabbage
 
 英  [ˈkæbɪdʒ]  美  [ˈkæbɪdʒ]
 n. 卷心菜，甘蓝菜，洋白菜；（俚)脑袋；（非正式、侮辱）植物人（常用于英式英语）；（俚）钱，尤指纸币（常用于美式俚语）
@@ -7562,7 +12451,10 @@ www.kekenet.com
 When the water boils add the meat and the cabbage.
 水开时加入肉和洋白菜。
 
-### onion<a id="orgheadline438"></a>
+
+<a id="org6211a23"></a>
+
+### onion
 
 英  ['ʌnjən]   美  ['ʌnjən]
 n. 洋葱；洋葱头
@@ -7602,7 +12494,10 @@ I always fry potatoes in hot fat with a bit of onion.
 As you peel away the onion skin,you will find another skin underneath.
 你剥去洋葱皮时，你会发现皮下还有皮。
 
-### mashed potatoes<a id="orgheadline439"></a>
+
+<a id="org5a049f8"></a>
+
+### mashed potatoes
 
 土豆泥，马铃薯泥
 英  [mæʃt]   美  [mæʃ]
@@ -7638,7 +12533,10 @@ Put it into the pan with potatoes – boiled and mashed.
 将它倒入装有煮熟捣碎的土豆的平底锅内。
 article.yeeyan.org
 
-### soup<a id="orgheadline440"></a>
+
+<a id="orgce2e31b"></a>
+
+### soup
 
 英  [suːp]   美  [sup]
 n. 汤，羹；马力
@@ -7651,15 +12549,30 @@ N-MASS Soup is liquid food made by boiling meat, fish, or vegetables in water. �
 &#x2026;home-made chicken soup.
 …自家做的鸡汤。
 
-### to bring food<a id="orgheadline441"></a>
 
-### to cook<a id="orgheadline442"></a>
+<a id="org562c6d3"></a>
 
-### to bake<a id="orgheadline443"></a>
+### to bring food
 
-### to boil<a id="orgheadline444"></a>
 
-### to fry<a id="orgheadline445"></a>
+<a id="org947a5ad"></a>
+
+### to cook
+
+
+<a id="org63147c1"></a>
+
+### to bake
+
+
+<a id="org8e020a9"></a>
+
+### to boil
+
+
+<a id="orgd8af99c"></a>
+
+### to fry
 
 英  [fraɪ]   美  [fraɪ]
 n. 鱼苗；油炸食物
@@ -7670,11 +12583,20 @@ n. (Fry)人名；(芬)弗吕；(英)弗赖伊；(德、英、法、西)弗里
 fry *fraɪ*  CET4
 V-T When you fry food, you cook it in a pan that contains hot fat or oil. 炸
 
-### to try<a id="orgheadline446"></a>
 
-### hot<a id="orgheadline447"></a>
+<a id="org8e0c44b"></a>
 
-### boiled<a id="orgheadline448"></a>
+### to try
+
+
+<a id="orgb5cb715"></a>
+
+### hot
+
+
+<a id="orgbc348dd"></a>
+
+### boiled
 
 英  [bɒɪld]   美  [bɔɪld]
 adj. 煮沸的，煮熟的
@@ -7746,9 +12668,15 @@ Here's some boiled water. Have a drink whenever you're thirsty.
 这里有开水，渴了请随便喝。
 www.kfyes.com
 
-### cold<a id="orgheadline449"></a>
 
-### fried<a id="orgheadline450"></a>
+<a id="orgb3f438c"></a>
+
+### cold
+
+
+<a id="orgf72c6d2"></a>
+
+### fried
 
 英  [fraɪd]   美  [fraid]
 adj. 油炸的，油煎的；喝醉了的
@@ -7779,7 +12707,10 @@ fried fish 炸鱼
 kentucky fried 肯德基（来自美国的著名连锁快餐厅）
 kentucky fried chicken 肯德基
 
-### tasty<a id="orgheadline451"></a>
+
+<a id="org1200861"></a>
+
+### tasty
 
 英  ['teɪstɪ]   美  ['testi]
 adj. 美味的；高雅的；有趣的
@@ -7814,7 +12745,10 @@ They might look tasty but you probably wouldn't want one of these on your toast 
 它们看上去可能很美味，但早晨你或许不想在你的烤面包上享用它们中的任何一个。
 article.yeeyan.org
 
-### fresh<a id="orgheadline452"></a>
+
+<a id="orge872177"></a>
+
+### fresh
 
 英  [freʃ]   美  [frɛʃ]
 adj. 新鲜的；清新的；淡水的；无经验的
@@ -7892,7 +12826,10 @@ I believe in fresh air and exercise for my healthy.
 To make sure that the eggs are fresh, we had better candle them one by one.
 为了查明鸡蛋是否新鲜，我们最好将鸡蛋一一对着光检查一遍。
 
-### pie with cabbage<a id="orgheadline453"></a>
+
+<a id="org72c6854"></a>
+
+### pie with cabbage
 
 英  [paɪ]   美  [paɪ]
 n. 馅饼；饼图；爱说话的人
@@ -7943,19 +12880,40 @@ She quartered the pie and gave each one a piece.
 Can you see the little fellow walking into the pie?
 你能看到那个正贪婪吃馅饼的小家伙吗?
 
-### pie with mashrooms<a id="orgheadline454"></a>
 
-### pie with potato<a id="orgheadline455"></a>
+<a id="org94379a8"></a>
 
-### pie with meat<a id="orgheadline456"></a>
+### pie with mashrooms
 
-### pie with onion and egg<a id="orgheadline457"></a>
 
-### pie<a id="orgheadline458"></a>
+<a id="org442b4e3"></a>
 
-### drinks<a id="orgheadline459"></a>
+### pie with potato
 
-### appetizers<a id="orgheadline460"></a>
+
+<a id="orge13e690"></a>
+
+### pie with meat
+
+
+<a id="orgf6dcf0c"></a>
+
+### pie with onion and egg
+
+
+<a id="orgf2e9c9a"></a>
+
+### pie
+
+
+<a id="orgbc0ad6e"></a>
+
+### drinks
+
+
+<a id="org67c33b3"></a>
+
+### appetizers
 
 英   美
 n. 开胃菜；头盘餐前小品；头盘（appetizer的复数）
@@ -7964,7 +12922,10 @@ n. 开胃菜；头盘餐前小品；头盘（appetizer的复数）
 appetizer *ˈæpɪˌtaɪzə*
 N-COUNT An appetizer is the first course of a meal. It consists of a small amount of food. 开胃菜
 
-### a bar<a id="orgheadline461"></a>
+
+<a id="org007e2ff"></a>
+
+### a bar
 
 英  [bɑː]   美  [bɑr]
 n. 条，棒；酒吧；障碍；法庭
@@ -8064,13 +13025,22 @@ status
  英  ['steɪtəs]   美  [ˈstætəs; ˈstetəs]
 n. 地位；状态；情形；重要身份
 
-### strong drinks<a id="orgheadline462"></a>
+
+<a id="orgfb2704d"></a>
+
+### strong drinks
 
 烈性饮料；高酒度酒（strong drink的复数形式）
 
-### a café<a id="orgheadline463"></a>
 
-### milk<a id="orgheadline464"></a>
+<a id="orgf793dfe"></a>
+
+### a café
+
+
+<a id="orgdc9dc96"></a>
+
+### milk
 
 The children love hot pies with potatoes and milk.
 The cat is drinking cold milk.
@@ -8118,11 +13088,17 @@ Does mom know how to make tasty soup? Yes, mom knows how to make tasty soups.
 Does grandma know how to bake tasty pies with cabbage? Yes, grandma knows how to
 bake tasty pies.
 
-## DONE Review Thirty Four 94.2%<a id="orgheadline466"></a>
+
+<a id="org1db743e"></a>
+
+## Review Thirty Four 94.2%
 
 中间有事中断了。
 
-## DONE thirty four 95.4%<a id="orgheadline467"></a>
+
+<a id="org1007c29"></a>
+
+## thirty four 95.4%
 
 Does the girl know how to prepare vegetable salad? Yes, she prepares vegetable
 salad well.
@@ -8135,33 +13111,157 @@ Does the chef know how to cook? Yes, he prepares very tasty food.
 Does the grandma know how to bake tasty pies with cabaage? Yes, grandma knows
 how to bake tasty pies.
 
-## DONE Review thirty four 97%<a id="orgheadline468"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 四 09:41&gt;</span></span>98.3%<a id="orgheadline469"></a>
+<a id="org321c82f"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 四 15:10&gt;</span></span>98.9%<a id="orgheadline470"></a>
+## Review thirty four 97%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 五 08:33&gt;</span></span>99.4%<a id="orgheadline471"></a>
 
-# DONE thirty five 95%<a id="orgheadline502"></a>
+<a id="org0f59c29"></a>
 
-## DONE Review Thirty Five 93.3%<a id="orgheadline473"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 09:41&gt;</span></span>98.3%
 
-## DONE Review Thirty Five 95.6%<a id="orgheadline474"></a>
 
-## DONE Review thirty five<a id="orgheadline475"></a>
+<a id="org3b8f479"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 15:10&gt;</span></span>98.9%
+
+
+<a id="org3c3e80c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 08:33&gt;</span></span>99.4%
+
+
+<a id="orgb016c9d"></a>
+
+# thirty five 95%
+
+
+<a id="org1b71dee"></a>
+
+## Review Thirty Five 93.3%
+
+
+<a id="org269a033"></a>
+
+## Review Thirty Five 95.6%
+
+
+<a id="org0ba9468"></a>
+
+## Review thirty five
 
 :LOGBOOK:
 
--   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-07-30 六 15:58]</span></span>
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-07-30 Sat 15:58]</span></span>
 
-## DONE Reveiw Thrity five 96.6%<a id="orgheadline476"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 五 04:57&gt;</span></span>98%<a id="orgheadline477"></a>
+<a id="org38c7c12"></a>
 
-## text<a id="orgheadline500"></a>
+## Reveiw Thrity five 96.6%
 
-### a sweater<a id="orgheadline478"></a>
+
+<a id="org6600e41"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 04:57&gt;</span></span>98%
+
+
+<a id="org96086cc"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 19:47&gt;</span></span>98.1%
+
+
+<a id="org81d15e5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-08 Thu 05:43&gt;</span></span>97.2%
+
+
+<a id="org3a70dbb"></a>
+
+## Lesson 35
+
+a blouse a tank top a coat a sweater tights socks
+
+a light coat a long skirt loose pants tight pants
+a short skirt a warm sweater
+
+to sew to cut to put on to take off to knit to embroider
+
+a needle embroidery fabric scissors thread a needle and thread
+
+size a coat my size a small-sized coat a big size
+a large-sized coat a small size
+
+heel women's shoes
+women's shoes with a high heel
+women's shoes with a low heel
+women's shoes without a heel.
+women's shoes with a mid heel
+
+The girl is holding scissors in her right hand, and fabric in her left. She
+wants to cut.
+The girl gets a needle with red thread. She wants to embroider.
+In order to sew a coat, you need fabric.
+In order to embroider, you need a needle and thread.
+The woman is holding a needle with black thread in her right hand, and fabric in
+her left. She wants to sew.
+In order to cut thread, you need scissors.
+
+The man doesn't know how to sew. His wife sews pants and a jacket for him.
+The woman is embroidering a red flower on white fabric.
+The boy doesn't know how to sew. He sews a red shirt with green thread.
+The woman knows how to sew. She sews pants and a jacket for her husband.
+The granddaughter also knows how to knit. She kints a hat for her bear.
+The grandmother is knitting a warm, grey sweater for her grandson.
+
+The woman takes off light, grey tights.
+The salesperson is showing the woman a coat.
+The woman in the long dress with the embroidery is entering the restaurant.
+The boy in the white tank top is sitting on the bench.
+There is no embroidery on the tank top.
+The man puts on warm, white socks.
+
+The girl is wearing a short, tight, small-sized skirt.
+The woman is giving the salesperson a tight coat - it's not her size.
+The girl is trying on a white,thin small-sized blouse without embroidery.
+The boy is wearing a loose, large-sized shirt.
+The woman is trying on a red, large-sized dress with beautiful embroidery.
+The man is trying on the blue shirt. It's his size.
+
+The man is wearing shoes without a heel.
+The women is trying on fall boots with a mid heel.
+The girl has shoes with a low heel.
+The woman is trying on winter boots with a low heel.
+Men like women in high heels.
+The woman is trying on red high heels.
+
+The woman wants to sew a beautiful dress, but doesn't know how.
+The boy doesn't know how to embroider, but really wants to.
+The woman knows how to knit, but doesn't want to.
+The man doesn't know how to knit and doesn't want to.
+The boy wants to knit socks, but he doesn't know how.
+The girl wants to walk in high heels, but she doesn't know how.
+
+Do all women like a dress with embroidery? No, there are women who don't like
+this dress.
+Do all men like women in white blouses with embroidery? Yes, all men like such
+women.
+Do all grandmothers like to sew warm socks for their grandchildren? Yes, they like
+it.
+Do all girls like to sew? Yes, but not all know how.
+Do all men like women in high heels? Yes, all men like such women.
+Does the whote family like the clothing that grandma knits? Yes, the whole
+family likes this clothing.
+
+
+<a id="orgfeae94c"></a>
+
+## text
+
+
+<a id="org605747e"></a>
+
+### a sweater
 
 sweater
 英  ['swetə]   美  ['swɛtɚ]
@@ -8170,7 +13270,10 @@ n. 毛线衣，运动衫；大量出汗的人，发汗剂
 sweater *ˈswɛtə*  CET4 TEM4
 N-COUNT A sweater is a warm knitted piece of clothing which covers the upper part of your body and your arms. 毛线衫
 
-### socks<a id="orgheadline479"></a>
+
+<a id="org7f4c0bd"></a>
+
+### socks
 
 英  [sɒks]   美  [sɑks]
 n. 袜子（sock的复数）
@@ -8190,7 +13293,10 @@ Phil got socked with a bill for nearly $1,000.
 菲尔因一张近$1000的账单蒙受损失。
 N a forceful blow 劲风
 
-### tights<a id="orgheadline480"></a>
+
+<a id="orgd87c421"></a>
+
+### tights
 
 英  [taɪts]   美  [taɪts]
 紧身裤袜
@@ -8234,7 +13340,10 @@ article.yeeyan.org
 “Cheap fashion fixes like coloured tights and bright gloves and scarves will give dated outfits a lift,” said Mirror fashion editor Amber Morales. Don't dry clean either.
 镜报时尚编辑安博·莫拉尔说：“便宜的时尚装备如彩色的紧身衣和亮丽的手套和领带能赋予陈旧的装备新的气息。”
 
-### a coat<a id="orgheadline481"></a>
+
+<a id="org578257c"></a>
+
+### a coat
 
 coat
 英  [kəʊt]   美  [kot]
@@ -8290,7 +13399,10 @@ Do up your coat.
 Flinging aside his coat,he chased after his attacker.
 他把外衣扔到一边，去追逐袭击他的人。
 
-### a tank top<a id="orgheadline482"></a>
+
+<a id="orgc2e98ca"></a>
+
+### a tank top
 
 油罐顶盖；背心装
 tank
@@ -8328,7 +13440,10 @@ storage tank 储油罐；储蓄槽
 fuel tank 燃料箱
 in the tank 跳水；坐牢
 
-### a blouse<a id="orgheadline483"></a>
+
+<a id="orgbe148d6"></a>
+
+### a blouse
 
 英  ['blaʊz]   美  [blaʊs]
 n. 宽松的上衣；女装衬衫
@@ -8360,7 +13475,10 @@ Maybe you could dye that skirt to match your blouse.
 You might have told her the blouse was…an interesting choice.
 你也许应该告诉她衬衫是一个&#x2026;有趣的选择。
 
-### loose pants<a id="orgheadline484"></a>
+
+<a id="orgeca266c"></a>
+
+### loose pants
 
 英  [luːs]   美  [lus]
 adj. 宽松的；散漫的；不牢固的；不精确的
@@ -8447,19 +13565,40 @@ She trimmed off the loose threads.
 I have a loose tooth.
 我的一个牙齿松动了。
 
-### a light coat<a id="orgheadline485"></a>
 
-### a long skirt<a id="orgheadline486"></a>
+<a id="org12ae4ed"></a>
 
-### a short skirt<a id="orgheadline487"></a>
+### a light coat
 
-### tight pants<a id="orgheadline488"></a>
 
-### a warm sweater<a id="orgheadline489"></a>
+<a id="org9e983b4"></a>
 
-### to cut<a id="orgheadline490"></a>
+### a long skirt
 
-### to knit<a id="orgheadline491"></a>
+
+<a id="org73bb2f2"></a>
+
+### a short skirt
+
+
+<a id="org5795b53"></a>
+
+### tight pants
+
+
+<a id="org872c577"></a>
+
+### a warm sweater
+
+
+<a id="org952a983"></a>
+
+### to cut
+
+
+<a id="orga103a7d"></a>
+
+### to knit
 
 knit
 英  [nɪt]   美  [nɪt]
@@ -8518,7 +13657,10 @@ How long will it take you to knit up this sweater?
 Best of all, you can even knit yourself into the wedding party.
 最好的就是你甚至可以把自己也编织进这个婚宴中去。
 
-### to sew<a id="orgheadline492"></a>
+
+<a id="org76ff393"></a>
+
+### to sew
 
 英  [səʊ]   美  [so]
 vt. 缝合，缝上；缝纫
@@ -8560,7 +13702,10 @@ www.englishtang.com
 Neither was a new Easter dress for her or my sister, not if Mama could find some material, fashion a pattern, and sew it herself.
 还有，如果妈妈能找到一些布料，设计一种样式，为自己或我妹妹缝制复活节连衣裙的话，也决不买新的。
 
-### to embroider<a id="orgheadline493"></a>
+
+<a id="org57b667e"></a>
+
+### to embroider
 
 英  [ɪm'brɒɪdə; em-]   美  [ɪm'brɔɪdɚ]
 vt. 刺绣；装饰；镶边
@@ -8607,7 +13752,10 @@ www.ebigear.com
 Henceforth every morning the Queen, the Countess and Mrs Seton sat down to embroider together. Gathered in the light of the window with their heads bent over their work, they grew very friendly.
 从此以后，每个早晨女王、伯爵夫人和西顿夫人都会凑在一起，借着窗前的光线低头刺绣，彼此变得十分亲密。
 
-### fabric<a id="orgheadline494"></a>
+
+<a id="org76fdba4"></a>
+
+### fabric
 
 英  ['fæbrɪk]  美  ['fæbrɪk]
 n. 织物；布；组织；构造；建筑物
@@ -8623,7 +13771,10 @@ N-SING The fabric of a society or system is its basic structure, with all the cu
 The fabric of society has been deeply damaged by the previous regime.
 社会结构已被上届执政者严重地破坏了。
 
-### thread<a id="orgheadline495"></a>
+
+<a id="org2d06ec7"></a>
+
+### thread
 
 英  [θred]   美  [θrɛd]
 n. 线；螺纹；思路；衣服；线状物；玻璃纤维；路线
@@ -8698,9 +13849,15 @@ Would you please rewind the thread onto the reel?
 Let me pluck away that piece of thread from your skirt.
 让我把那根线头从你的裙子上拉掉。
 
-### a needle and thread<a id="orgheadline496"></a>
 
-### a needle<a id="orgheadline497"></a>
+<a id="org1133682"></a>
+
+### a needle and thread
+
+
+<a id="orgaa9cffc"></a>
+
+### a needle
 
 英  ['niːd(ə)l]   美  ['nidl]
 n. 针；指针；刺激；针状物
@@ -8764,7 +13921,10 @@ She feel very awkward with a needle.
 The doctor stuck my finger with a needle to get blood sample.
 医师用一根针刺破我的手指取血样。
 
-### scissors<a id="orgheadline498"></a>
+
+<a id="orgbfbd041"></a>
+
+### scissors
 
 英  ['sɪzəz]   美  ['sɪzɚz]
 n. 剪刀；剪式跳法
@@ -8777,7 +13937,10 @@ N-PLURAL Scissors are a small cutting tool with two sharp blades that are screwe
 He told me to get some scissors.
 他叫我去拿几把剪刀。
 
-### embroidery<a id="orgheadline499"></a>
+
+<a id="orgb6ddc0e"></a>
+
+### embroidery
 
 英  [ɪm'brɒɪd(ə)rɪ; em-]  美  [ɪm'brɔɪdəri]
 n. 刺绣；刺绣品；粉饰
@@ -8848,15 +14011,101 @@ Do all girls like to sew? Yes, but not all know how.
 Does the whole family like the clothing that grandma knits? Yes, the whole
 family likes this clothing.
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 五 18:31&gt;</span></span>98.8%<a id="orgheadline501"></a>
 
-# DONE thirty six 95.7%<a id="orgheadline506"></a>
+<a id="org7ccf95f"></a>
 
-## DONE Review thirty six 94.5%<a id="orgheadline503"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 18:31&gt;</span></span>98.8%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 六 05:12&gt;</span></span>99.2%<a id="orgheadline504"></a>
 
-## text<a id="orgheadline505"></a>
+<a id="orgffd7c0d"></a>
+
+# thirty six 95.7%
+
+
+<a id="orge0efb92"></a>
+
+## Review thirty six 94.5%
+
+
+<a id="orgdb7d9f8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 05:12&gt;</span></span>99.2%
+
+
+<a id="org09104da"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 14:53&gt;</span></span>97.9%
+
+
+<a id="org6dcefa5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-08 Thu 07:40&gt;</span></span>97.7%
+
+
+<a id="org67f84e0"></a>
+
+## Lesson 36
+
+a market a counter a supermaket change a cash register a receipt
+
+a purchase perfume produce cake chocolate souvenirs
+
+to help to give to carry to weigh to wrap to pick out
+
+light cheap expensive rich dark poor
+
+half a whole apple a who pie half of a pie half
+
+a bright room
+a dark bar
+a big, bright supermarket
+The man is buying produce at the supermarket.
+At the market produce is inexpensive, at the supermarket it's expensive.
+The woman is buying produce at the market.
+
+The salesperson is helping the customer pick out cake.
+The tall man is helping the woman carry her purchase.
+The tourists are picking out souvenirs.
+The grandmother is helping her granddaughter wrap a gift for her mother.
+The woman is picking out perfume.
+The girl is picking out chocolate.
+
+attend meeting
+
+an expensive purchase.
+The customers are standing in line for the cash register.
+a cheap purchase
+The salesperson is carrying produce to the counter.
+The woman is carrying her purchase to the car.
+The girl is carrying chocolate to the cash register.
+
+The salesperson gives the customer the receipt and change.
+The woman is wrapping a gift for her husband.
+The waiter brings the change and receipt on a tray.
+The salesperson is wrapping a souvenir.
+The customer takes the change and receipt from the salesperson.
+The salesperson is weighing apples.
+
+In the small dark room live poor people.
+In the big bright house live rich people.
+A rich man gives her wife expensive perfume, but a poor man - cheap perfume.
+A rich man drivers a new, expensive car, but a poor man - an old, cheap car.
+A rich woman buys an expensive dress with embroidery, but a poor woman - a cheap
+dress with a discount.(mistake cheep->cheap)
+A rich man reserves an expensive room in a hotel, but a poor man - a cheap
+room.
+
+What is the boy doing? He's putting half a cake on a plate.
+The mother gives her son half a glass of juice.
+What is the salesperson doing? He's weighing half a chicken.
+The boy is cutting a piece of paper in half.
+What is the waiter doing? He's carrying a whole cake on a tray.
+What is the chef doing? He's frying a whole chicken.
+
+
+<a id="org4123f23"></a>
+
+## text
 
 a market
 a cash register
@@ -8937,15 +14186,126 @@ What is the chef doing? He's frying a whole chicken.
 The boy is cutting a piece of paper in half.
 What is the waiter doing? He's carrying a whole cake on a tray.
 
-# DONE thirty seven 95.1%<a id="orgheadline533"></a>
 
-## DONE Review thirty seven 96.3%->96.9%<a id="orgheadline507"></a>
+<a id="org1efee5f"></a>
 
-## DONE thirty seven 96.3%<a id="orgheadline508"></a>
+# thirty seven 95.1%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 六 20:16&gt;</span></span>99.1%<a id="orgheadline509"></a>
 
-## text<a id="orgheadline510"></a>
+<a id="org980014a"></a>
+
+## Review thirty seven 96.3%->96.9%
+
+
+<a id="org3eaebcd"></a>
+
+## thirty seven 96.3%
+
+
+<a id="org01cb6c1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 20:16&gt;</span></span>99.1%
+
+
+<a id="orgb87c786"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 05:35&gt;</span></span>98%
+
+
+<a id="orga6d7d56"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 11:00&gt;</span></span>98.5%
+
+
+<a id="org123117a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-09 Fri 03:08&gt;</span></span>97.7%
+
+
+<a id="orga28c3d6"></a>
+
+## Lesson thirty seven
+
+north south west east a compass a needle
+
+the moon sunset the sun night day sunrise
+
+fast slowly early late near far
+
+to rise to flow to float to swim to grow to fall
+
+a cloud a river a coast stars the rainbow the sky
+
+In the north it's cold.
+In the west women wear tight pants.
+In the south the grass grows all year.
+In the east women wear long, dark dresses.
+In the north there is snow all year.
+In the south it's hot.
+
+At night the moon and the starts are in the sky.
+A man and women are looking at the beautiful sunset.
+At sunset there are red clouds in the sky.
+After rain there is a rainbow in the sky.
+Clouds are covering the sun.
+The sun is a star.
+
+The children don't swim to the ship, because the ship is very far from the coast.
+The bench is near.
+The tree is far.
+In this hotel there are many tourists, because it's near the sea.
+The ship is far from the coast.
+The rock is near the coast.
+
+a beach
+A woman is standing on the beach and looking at the blue sky and the white
+clouds.
+On the riverbank grows a tall tree.
+The girl is walking along the beach.
+A boy is playing in the sand on the beach.
+A man and woman are meeting the sunrise on the beach because it's very
+beautiful.
+
+The boy gets up and goes to wash up.
+Birds get up at sunrise and sing songs.
+On weekends everyone gets up late.
+On work days children and parents get up early.
+The woman gets up and goes to take a shower.
+No one likes to get up early.
+
+In the fall yellow leaves fall from trees.
+The girl falls and gets up.
+Stars sometimes fall on the earth.
+The moon doesn't fall on the earth.
+The glass falls on the floor.
+The girl falls on the sand.
+
+Polar bears swim in the sea in the north, because in the north the sea is cold.
+The big river flows slowly.
+The river flows from the west to the east.
+The small river flows fast.
+Water flows.
+People swim in the sea in the south, because in the south the sea is warm.
+
+The compass needle points north.
+The tourist is finding the path in the mountains by his compass.
+In the south it rains half the year.
+The tourist is holding a compass in his right hand, a map in his right.
+In the north half the year it is day, and half it is night.
+All tourists bring with them a compass when they go into the woods.
+
+How do yellow leaves fall from trees? Yellow leaves fall from trees slowly.
+Where is the boy looking? He's looking at the stars.
+How do mushrooms in the forest grow after rain? Mushrooms in the forest grow
+fast aften rain.
+How does the moon wax? The moon wases slowly.
+Where is the ship going? The ship is going from the east to the west.
+Where does the compass needle point? The compass needle points north.
+
+
+<a id="orgb711a78"></a>
+
+## text
 
 a compass
 英  ['kʌmpəs]  美  ['kʌmpəs]
@@ -9431,7 +14791,10 @@ Where is the ship going? The ship is going from the east to the west.
 
 How does the moon move wax? The moon waxes slowly.
 
-## How do yellow leaves fall? Yellow leaves fall slowy.<a id="orgheadline511"></a>
+
+<a id="orgd953737"></a>
+
+## How do yellow leaves fall? Yellow leaves fall slowy.
 
 Where is the boy looking? He's looking at the stars.
 
@@ -9439,9 +14802,15 @@ How do mushrooms in the forest grow after rain? Mushrooms in the forest grow
 
 fast after rain.
 
-## text<a id="orgheadline532"></a>
 
-### a super market<a id="orgheadline512"></a>
+<a id="org007ee97"></a>
+
+## text
+
+
+<a id="org8e04437"></a>
+
+### a super market
 
 英  ['mɑːkɪt]  美  ['mɑrkɪt]
 n. 市场；行情；股票市场；市面；集市；销路；商店
@@ -9529,7 +14898,10 @@ The market absorbed all the computers we could build.
 He often rakes around the market for some art treasure.
 他经常在市场上到处寻找艺术珍品。
 
-### chenge<a id="orgheadline513"></a>
+
+<a id="org31965ca"></a>
+
+### chenge
 
 英  [tʃeɪn(d)ʒ]   美  [tʃendʒ]
 vt. 改变；交换
@@ -9540,7 +14912,10 @@ N-UNCOUNT Your change is the money that you receive when you pay for something w
 "There's your change."—"Thanks very much."
 “那是找你的钱。”— “非常感谢。”
 
-### a receipt<a id="orgheadline514"></a>
+
+<a id="org9a7b84a"></a>
+
+### a receipt
 
 英  [rɪ'siːt]   美  [rɪ'sit]
 n. 收到；收据；收入
@@ -9595,7 +14970,10 @@ Here's the receipt for half payment on goods.
 His main work is to receipt for each lot of goods.
 他的主要工作是给每一批货物开收据。
 
-### a cash register<a id="orgheadline515"></a>
+
+<a id="org0fe37eb"></a>
+
+### a cash register
 
 英  [kæʃ]   美  [kæʃ]
 n. 现款，现金
@@ -9720,11 +15098,20 @@ To avoid miscarriage you'd better register your letter.
 A lawyer or doctor who is struck off the official register of the profession is debarred from practising.
 被从正式的职业登记册中除名的律师或医生不准继续开业。
 
-### a market<a id="orgheadline516"></a>
 
-### a counter<a id="orgheadline517"></a>
+<a id="org4ca4d94"></a>
 
-### cake<a id="orgheadline518"></a>
+### a market
+
+
+<a id="org183ffa0"></a>
+
+### a counter
+
+
+<a id="orgf135bc6"></a>
+
+### cake
 
 英  [keɪk]   美  [kek]
 n. 蛋糕；块状物；利益总额
@@ -9784,7 +15171,10 @@ He tasted of the cake.
 There was only one piece of cake, but we cut it in two.
 只有一块蛋糕， 但我们把它切成两半儿。
 
-### chocolate<a id="orgheadline519"></a>
+
+<a id="org9e1452e"></a>
+
+### chocolate
 
 英  ['tʃɒk(ə)lət]  美  ['tʃɑklət]
 n. 巧克力，巧克力糖；巧克力色
@@ -9833,7 +15223,10 @@ hot chocolate 热巧克力；巧克力热饮
 white chocolate 白巧克力
 chocolate bar 巧克力棒；巧克力条
 
-### perfume<a id="orgheadline520"></a>
+
+<a id="orgcbca1b4"></a>
+
+### perfume
 
 英  ['pɜːfjuːm]  美  [pɚ'fjum]
 n. 香水；香味
@@ -9870,7 +15263,10 @@ perfume spray 香水喷壶
 perfume spray 喷鼻水喷雾器
 perfume spray 喷鼻水喷子
 
-### produce<a id="orgheadline521"></a>
+
+<a id="org8bf3bbd"></a>
+
+### produce
 
 英  [prə'djuːs]  美  [prə'dus]
 vt. 生产；引起；创作；生育，繁殖
@@ -9928,7 +15324,10 @@ produce electricity 发电
 produce results 产生结果
 native produce 土特产品，土产品
 
-### souvenirs<a id="orgheadline522"></a>
+
+<a id="org5d15be7"></a>
+
+### souvenirs
 
 英  [,suːvə'nɪə]  美  [,suvə'nɪr]
 n. 纪念品；礼物
@@ -9967,7 +15366,10 @@ Despite the caves' perches, high above the river valley, the treasures inside ar
 尽管洞窟位于河谷上方的高地，但其中的宝藏还是会遭受来自抢劫者、纪念收藏家的损坏，
 以及侵蚀、地震和罕见的暴雨的威胁。
 
-### a purchase<a id="orgheadline523"></a>
+
+<a id="orgedef0ab"></a>
+
+### a purchase
 
 英  ['pɜ:tʃəs]   美  ['pɝtʃəs]
 n. 购买；紧握；起重装置
@@ -10022,7 +15424,10 @@ He gave his son some money for the purchase of his school books.
 They deposited a large amount of money toward the purchase of the car.
 他们预付了一大笔钱作为购买那辆汽车的定金。
 
-### to pick up<a id="orgheadline524"></a>
+
+<a id="orgdb6885e"></a>
+
+### to pick up
 
 英   美
 捡起；获得；收拾；（汽车；飞机）乘载；不费力地学会
@@ -10111,12 +15516,18 @@ I will probably pick up some new ideas and understanding from them, which I'll r
 或许我将会从他们那儿学到一些新的想法和认识，所有的这些，在下次我们相遇的时候，我都会教给你。
 www.elanso.com
 
-### to pick out<a id="orgheadline525"></a>
+
+<a id="org05e3678"></a>
+
+### to pick out
 
 英   美
 挑选出
 
-### to carry<a id="orgheadline526"></a>
+
+<a id="orge9ae185"></a>
+
+### to carry
 
   ['kærɪ]   美  ['kæri]
 vt. 拿，扛；携带；支持；搬运
@@ -10206,7 +15617,10 @@ carry forward 发扬；推进
 carry through 贯彻；完成；坚持下去
 carry in 携带；输入
 
-### to weight<a id="orgheadline527"></a>
+
+<a id="orga0a14fc"></a>
+
+### to weight
 
   [weɪt]   美  [wet]
 n. 重量，重力；负担；砝码；重要性
@@ -10303,7 +15717,10 @@ What is your weight?
 These columns bear the weight of the roof.
 这些柱子支承着屋顶的重量。
 
-### to wrap<a id="orgheadline528"></a>
+
+<a id="org143bd0b"></a>
+
+### to wrap
 
 英  [ræp]   美  [ræp]
 vt. 包；缠绕；隐藏；掩护
@@ -10362,7 +15779,10 @@ Please wrap this for me.
 请帮我把这个包起来。
 www.ebigear.com
 
-### poor<a id="orgheadline529"></a>
+
+<a id="orgdd81c1a"></a>
+
+### poor
 
 英  [pɔː; pʊə]   美  [pʊr]
 adj. 贫穷的；可怜的；贫乏的；卑鄙的
@@ -10450,7 +15870,10 @@ You should allow for her poor eyesight.
 He played the poor fish until it rolled, belly up, from exhaustion.
 他让那可怜的鱼儿挣扎，直到肚子朝天、精疲力竭为止。
 
-### rich<a id="orgheadline530"></a>
+
+<a id="org7d5d0d1"></a>
+
+### rich
 
 英  [rɪtʃ]   美  [rɪtʃ]
 adj. 富有的；肥沃的；昂贵的
@@ -10552,7 +15975,10 @@ rich man 富翁；财主；阔佬
 get rich 发家致富
 rich color 浓色
 
-### whole<a id="orgheadline531"></a>
+
+<a id="org460d87d"></a>
+
+### whole
 
  英  [həʊl]   美  [hol]
 adj. 完整的；纯粹的
@@ -10601,30 +16027,152 @@ What is the salesperson doing? He's weighing half a chicken.
 What is the boy doing? He's putting half a cake on a plate.
 What is the chef doing ? He's frying a whole chicken.
 
-# DONE <a id="orgheadline534"></a>
+
+<a id="orgf622062"></a>
+
+# 
 
 :LOGBOOK:
 
--   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-08-03 三 04:53]</span></span>
--   State "STARTED"    from "DONE"       <span class="timestamp-wrapper"><span class="timestamp">[2016-08-03 三 04:25]</span></span>
--   State "DONE"       from "WAITING"    <span class="timestamp-wrapper"><span class="timestamp">[2016-08-03 三 04:25]</span></span>
--   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-08-02 二 21:11]</span></span>
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-08-03 Wed 04:53]</span></span>
+-   State "STARTED"    from "DONE"       <span class="timestamp-wrapper"><span class="timestamp">[2016-08-03 Wed 04:25]</span></span>
+-   State "DONE"       from "WAITING"    <span class="timestamp-wrapper"><span class="timestamp">[2016-08-03 Wed 04:25]</span></span>
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-08-02 Tue 21:11]</span></span>
 
 :END:98.8%
 
-# DONE Thirty eight 96.6%<a id="orgheadline574"></a>
 
-## DONE Review thirty eight 95.6%<a id="orgheadline535"></a>
+<a id="orgb6cd9f3"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 三 05:25&gt;</span></span>97.8%<a id="orgheadline536"></a>
+# Thirty eight 96.6%
 
-## STARTED Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 三 14:08&gt;</span></span><a id="orgheadline537"></a>
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-08-02 Tue 09:19]</span></span>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 05:11&gt;</span></span>98.6%<a id="orgheadline538"></a>
 
-## text<a id="orgheadline573"></a>
+<a id="orgd3baced"></a>
 
-### film<a id="orgheadline539"></a>
+## Review thirty eight 95.6%
+
+
+<a id="org5d21939"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 05:25&gt;</span></span>97.8%
+
+
+<a id="org91ca50b"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 14:08&gt;</span></span>
+
+
+<a id="orgdb338eb"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 05:11&gt;</span></span>98.6%
+
+
+<a id="orgf53bac8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-16 Wed 03:56&gt;</span></span>96.1%
+
+
+<a id="org2bbc073"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-26 Sat 06:05&gt;</span></span>96.9%
+
+
+<a id="orgdd1f78f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-09 Fri 04:26&gt;</span></span>96.7%
+
+
+<a id="orgc544345"></a>
+
+## Lesson 38
+
+a drum film a guitar dance music a voilin
+
+a varnival costume
+candy a wig a bouquet a mask a carnival
+
+to throw to celebrate to collect to leave the city to catch
+to love to do something
+
+an old-fashioned cabinet
+modern an old-fashioned clock a modern clock old-fashioned
+a modern cabinet
+
+a classmate a friend a girlfriend
+These girls are peers.
+These boys are classmates.
+a peer
+
+The friends are celebrating a holiday.
+In the store the friends are picking out clothing.
+These boys are classmates. They study in the same class at school.
+These girls are peers. They study in the same grade at the university.
+The girl invites her classmates to her birthday party.
+These children are friends. They're watching an interesting film about old-fashioned clothes on TV.
+
+The boys play the drums.
+The musicians are playing old-fashioned music on violins.
+During a carnival music plays.
+The friends are putting on carnival costumes.
+These musicians are playing modern music on a violin and a guitar.
+The musician also plays the drums.
+
+The woman with the bouquet of white flowers is dancing on the grass.
+The actor puts on a wig.
+A man and a woman are dancing in old-fashioned costumes.
+The actors are dressed in old-fashioned dresses and wigs.
+During a carnival people put on old-fashioned dresses and wigs.
+The woman is wearing a wig.
+
+The family leaves the city to ralax in nature.
+The girl is crying because she has no candy.
+The young man is playing the violin, and the young woman is listening to the music.
+The boy is happy because his mom gave him candy.
+The friends leave the city to fry meat and drink beer.
+The boy gives the girl candy.
+
+The man in the carnival costume gives the woman in the old-fashioned dress and
+wig a bouquet of flowers.
+The girl throws the ball, and the boy catches the ball.
+The bride throws her bouquet, and her fridends catch it.
+At a wedding the bride throws her bouquet to her friends.
+The man is in a modern suit, and the woman is in an old-fashioned dress.
+The bride holds a bouquet of white flowers.
+
+The girl loves dancing. She loves to dance.
+The woman collects masks.
+The boy loves photogarphy. He loves to photograph his friends.
+The young man collects old-fashioned watches.
+The man collects phones.
+The girl loves musci. She plays the violin.
+
+Are the friends watching a film or leaving the city? The friends are watching
+a film.
+In the city is there a carnival or a traffic? In the city there is a carnival.
+Is this a modern or an old-fashioned building? This is a modern building.
+Are the musicians playing violins or drums? The musicians are playing violins.
+Does the bride catch or throw the bouquet? The bride throws the bouquet.
+Is the woman holding a bouquet of flowers or a wig? The woman is holding a
+bouquet of flowers.
+
+When do actors wear masks? They wear masks during a spectacle.
+When do men put on wigs? They put on wigs at a varnival.
+Where are the friends going? They are leaving the city.
+What does the man collect? He collects paintings.
+What do the friends love to do? They love to dance.
+When are children happy? Children are happy when they're given candy and toys.
+
+
+<a id="orga82b419"></a>
+
+## text
+
+
+<a id="org40e4767"></a>
+
+### film
 
 英  [fɪlm]   美  [fɪlm]
 n. 电影；薄膜；胶卷；轻烟
@@ -10688,7 +16236,10 @@ She costarred with her twin sister in a new film.
 With this instant film the picture develops in only one minute.
 用这种快速胶卷，照片仅用一分钟就会显影。
 
-### music<a id="orgheadline540"></a>
+
+<a id="org67a7795"></a>
+
+### music
 
 英  ['mjuːzɪk]  美  ['mjuzɪk]
 n. 音乐，乐曲
@@ -10745,7 +16296,10 @@ He gets off on loud music,but I don't.
 Do you like music?
 你喜欢音乐吗?
 
-### a drum<a id="orgheadline541"></a>
+
+<a id="org26c330c"></a>
+
+### a drum
 
 英  [drʌm]   美  [drʌm]
 vt. 击鼓；大力争取
@@ -10798,7 +16352,10 @@ www.ebigear.com
 The saxophonist doubled the drum in the band.
 那位萨克斯管吹奏员在乐队中兼作鼓手。
 
-### a guitar<a id="orgheadline542"></a>
+
+<a id="orgc99b22d"></a>
+
+### a guitar
 
 英  [gɪ'tɑː]   美  [ɡɪ'tɑr]
 n. 吉他，六弦琴
@@ -10837,7 +16394,10 @@ Before singing, he noodled at his guitar.
 Guitar is played by plucking at the wires.
 吉他可用手指在弦线上弹拨。
 
-### a violin<a id="orgheadline543"></a>
+
+<a id="orgd237ba0"></a>
+
+### a violin
 
 英  [vaɪə'lɪn; 'vaɪəlɪn]  美  [,vaɪə'lɪn]
 n. 小提琴；小提琴手
@@ -10875,7 +16435,10 @@ The music of the violin blended sweetly with her voice.
 He keyed up all the strings of his violin before his performance.
 他在表演前将小提琴所有的弦都调好了。
 
-### dance<a id="orgheadline544"></a>
+
+<a id="org6b5f162"></a>
+
+### dance
 
 英  [dɑːns]   美  [dæns]
 n. 舞蹈；舞会；舞曲
@@ -10955,7 +16518,10 @@ Will you dance with me?
 They dance in a round.
 他们围成圆圈跳舞。
 
-### A carnival costume<a id="orgheadline547"></a>
+
+<a id="org43cf0df"></a>
+
+### A carnival costume
 
 1.  carnival
 
@@ -11040,7 +16606,10 @@ They dance in a round.
     迷信：孔雀羽毛应该永远不带上舞台，不能作为服装元素，道具或者布景的一部分，否则混乱将接踵而来。
     article.yeeyan.org
 
-### candy<a id="orgheadline548"></a>
+
+<a id="org03c1ea7"></a>
+
+### candy
 
 英  ['kændɪ]  美  ['kændi]
 vt. 用糖煮；使结晶为砂糖；美化
@@ -11084,7 +16653,10 @@ Her baby sister bother her for candy.
 He conciliated his angry daughter with a piece of candy.
 他用一块糖果来哄他发脾气的女儿。
 
-### a wig<a id="orgheadline549"></a>
+
+<a id="org23230c2"></a>
+
+### a wig
 
 英  [wɪg]   美  [wɪɡ]
 n. 假发；要人；头脑
@@ -11127,7 +16699,10 @@ So now, students at the University of Washington that are studying these crows d
 正是这样的缘故，现在华盛顿大学做 乌鸦研究的学生都带上巨大的假发，还套上脸罩。
 article.yeeyan.org
 
-### mask<a id="orgheadline550"></a>
+
+<a id="orgd953fdb"></a>
+
+### mask
 
 英  [mɑːsk]   美  [mæsk]
 n. 面具；口罩；掩饰
@@ -11191,7 +16766,10 @@ They contrived a mask against poison gas.
 He ripped away the mask of pretence which covered their activities.
 他剥掉了遮盖他们行动的假面具。
 
-### a bouquet<a id="orgheadline551"></a>
+
+<a id="org0596b1f"></a>
+
+### a bouquet
 
 英  [bʊ'keɪ; bəʊ'keɪ; 'bʊkeɪ]   美  [bu'ke]
 n. 花束；酒香
@@ -11235,17 +16813,32 @@ gb.cri.cn
 If I concentrate hard enough, I can smell the sweetness of your wedding bouquet as you held it so proudly for everyone to see.
 让我再想一想，我还能闻到那婚礼花束的甜香，你那麽骄傲地捧著花，让每一个人分享你的幸福时光。
 
-### a carnival<a id="orgheadline552"></a>
 
-### to celebrate<a id="orgheadline553"></a>
+<a id="org3b36cca"></a>
 
-### to leave the city<a id="orgheadline554"></a>
+### a carnival
 
-### to love to do something<a id="orgheadline555"></a>
+
+<a id="org747ded5"></a>
+
+### to celebrate
+
+
+<a id="orgcb74dbe"></a>
+
+### to leave the city
+
+
+<a id="orge58eec8"></a>
+
+### to love to do something
 
 喜欢做的事情
 
-### to collect<a id="orgheadline568"></a>
+
+<a id="org89e53a5"></a>
+
+### to collect
 
 英  [kə'lekt]   美  [kə'lɛkt]
 
@@ -12070,7 +17663,10 @@ Good as it is to inherit a library, it is better to collect one.
     
     article.yeeyan.org
 
-### text<a id="orgheadline572"></a>
+
+<a id="org8f056c0"></a>
+
+### text
 
 These girls are peers. They studay in the same grade at the university.
 
@@ -12400,19 +17996,115 @@ The boy loves photography. He loves to photograph his friends.
     
     article.yeeyan.org
 
-# DONE Thirty nine 96.9%<a id="orgheadline605"></a>
 
-## DONE Review thirty nine 96.9->96.4%<a id="orgheadline575"></a>
+<a id="org1d1d01d"></a>
 
-## DONE Review thirty nine 97.3%<a id="orgheadline576"></a>
+# Thirty nine 96.9%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 三 04:42&gt;</span></span>98.3%<a id="orgheadline577"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 日 10:48&gt;</span></span>99.2%<a id="orgheadline578"></a>
+<a id="org641866f"></a>
 
-## text<a id="orgheadline603"></a>
+## Review thirty nine 96.9->96.4%
 
-### a cow<a id="orgheadline602"></a>
+
+<a id="orgca70815"></a>
+
+## Review thirty nine 97.3%
+
+
+<a id="orga247825"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 04:42&gt;</span></span>98.3%
+
+
+<a id="orgfafd6ac"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 10:48&gt;</span></span>99.2%
+
+
+<a id="org84f131f"></a>
+
+## Lesson thirty nine<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-15 Tue 05:26&gt;</span></span>97.2%
+
+
+<a id="org9b13ca2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-15 Tue 18:47&gt;</span></span>96.8%
+
+
+<a id="org227847b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-16 Wed 03:33&gt;</span></span>97.6%
+
+
+<a id="org31c9c87"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-26 Sat 05:42&gt;</span></span>98.6%
+
+
+<a id="orgadcd93b"></a>
+
+## Lesson thirty nine
+
+a cow a chicken a ram a sheep a rooster a bull
+
+a tiger a rabbit a lion a deer a wolf a leopard
+
+to hide to hunt to give fur to graze to lay eggs to give milk
+
+striped spotted herbivorous carnivorous full hungry
+
+a spotted cow
+The spotted leopard chaese a yellow deer. It's hunting.
+a spotted leopard
+a striped tiger
+a black bull on green grass
+a grey rabbit on yellow sand.
+
+A wolf is a carnivorous animal. It eats meat.
+A leopard also is a carnivorous animal.
+The sheep is standing by the house and esting grass.
+The lion is lying under a tree and eating meat.
+The wolf is hunting a deer.
+The deer is grazing in the forest.
+
+A cow also is a herbivorous animal.
+Sheep and rams give fur.
+Chickens lay eggs.
+The hungry tiger is hunting a deer.
+Cows give milk.
+A sheep is herbivorous animal. It eats grass.
+
+The rabbit is hiding behind a tree.
+The full lion is sleeping under a tree.
+The small, full lion is jumping on the tree. He's playing.
+The cows and bull are crossing the street. They are looking for grass.
+The chicken is walking by the house. It's looking for food.
+The hungry wolf is looking around. He's looking for a rabbit.
+
+If a deer is thirsty, it goes to the river.
+If lions sleep, they're not hungry.
+A leopard is spotted. It's invisible among the trees.
+If a leopard is hungry, it hunts.
+In the winter a rabbit is white. It's invisible in the snow. It doesn't hide.
+In the country grazes cows and sheep, but there are no leopards or wolves.
+
+What gives fur? A sheep and a ram give fur.
+What is striped and carnivorous? A tiger is striped and carnivorous.
+What is spotted and herbivorous? A deer is spotted and herbivorous.
+What sings at dawn? A rooster sings at dawn
+What hunts rabbits? Hungry wolves hunt rabbits.
+What lays eggs? Chickens lay eggs.
+
+
+<a id="orgab1a96b"></a>
+
+## text
+
+
+<a id="orgb3b9258"></a>
+
+### a cow
 
 英  [kaʊ]   美  [kaʊ]
 
@@ -13773,7 +19465,10 @@ The cow is expected to calve next week.
     His cheeks were spotted with blackheads.
     他的双颊上曾斑斑点点地长了些黑头。
 
-## text<a id="orgheadline604"></a>
+
+<a id="orgb98ebd2"></a>
+
+## text
 
 A spotted leopard.
 
@@ -13787,9 +19482,15 @@ a black bull on green grass.
 
 The spotted leopard chases a yellow deer. It's hunting.
 
-# DONE continue<a id="orgheadline607"></a>
 
-## text<a id="orgheadline606"></a>
+<a id="orgfb1209d"></a>
+
+# continue
+
+
+<a id="org4064e2c"></a>
+
+## text
 
 The wolf is hunting a deer.
 
@@ -13855,13 +19556,25 @@ What gives fur? A sheep and a ram give fur.
 
 What lays eggs? Chickens lay eggs.
 
-# DONE Forty  93.2%->97.4%<a id="orgheadline634"></a>
 
-## DONE Review Forty<a id="orgheadline608"></a>
+<a id="orgae3063c"></a>
 
-## DONE Review 96.2%<a id="orgheadline609"></a>
+# Forty  93.2%->97.4%
 
-## DONE Review forty 95.1%<a id="orgheadline610"></a>
+
+<a id="org90c7e9e"></a>
+
+## Review Forty
+
+
+<a id="org917b308"></a>
+
+## Review 96.2%
+
+
+<a id="org07c9746"></a>
+
+## Review forty 95.1%
 
 rag
 
@@ -13929,27 +19642,247 @@ The ragged man drags a wangon of rag fragments.
 那个衣衫褴褛的人拉着一货车破布碎片.
 www.ebigear.com
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 一 05:35&gt;</span></span>99.1%<a id="orgheadline611"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 二 07:42&gt;</span></span>99.1%<a id="orgheadline612"></a>
+<a id="org0bcea6a"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 一 04:23&gt;</span></span><a id="orgheadline613"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 05:35&gt;</span></span>99.1%
+
+
+<a id="org0fd6261"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 07:42&gt;</span></span>99.1%
+
+
+<a id="orgfdda85c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 04:23&gt;</span></span>
 
 还有两节，下一次再续。
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 一 08:50&gt;</span></span>98.8%<a id="orgheadline614"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 五 19:10&gt;</span></span>96%<a id="orgheadline615"></a>
+<a id="org089dff6"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 六 08:12&gt;</span></span>97.8%<a id="orgheadline616"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 08:50&gt;</span></span>98.8%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 六 09:10&gt;</span></span>99.0%<a id="orgheadline617"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 六 11:25&gt;</span></span>99.7%<a id="orgheadline618"></a>
+<a id="orgc08c94e"></a>
 
-## text<a id="orgheadline632"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 19:10&gt;</span></span>96%
 
-### a bucket<a id="orgheadline619"></a>
+
+<a id="orgbfc08a8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 08:12&gt;</span></span>97.8%
+
+
+<a id="org734a4fa"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 09:10&gt;</span></span>99.0%
+
+
+<a id="org434a8b5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 11:25&gt;</span></span>99.7%
+
+
+<a id="org96ea2ed"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 16:11&gt;</span></span>96.5%
+
+
+<a id="orge651e34"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 20:57&gt;</span></span>97.2%
+
+
+<a id="org2ce079a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 05:20&gt;</span></span>98.9%
+
+
+<a id="orgcff3263"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 05:58&gt;</span></span>98.3%
+
+
+<a id="org64c71a1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 19:56&gt;</span></span>98.8%
+
+
+<a id="org635c6e5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 06:01&gt;</span></span>98.3%
+
+
+<a id="orgd786d30"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 06:28&gt;</span></span>97.7%
+
+
+<a id="orge33478b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-03 Thu 15:51&gt;</span></span>98.2%
+
+
+<a id="orgc643517"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 05:26&gt;</span></span>98.2%
+
+
+<a id="org4ed28e9"></a>
+
+### Detergent
+
+    is a chemical substance, usually in the form of a powder or liquid, which is
+used for washing things such as clothes or dishes. 清洁剂
+
+A bucket is a round metal or plastic container with a handle attached to its
+sides. Buckets are often used for holding and carrying water. (有提梁的) 桶
+
+a coin washing machine.
+
+
+<a id="orgb01cd90"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 13:51&gt;</span></span>98.1%
+
+
+<a id="org0369cdc"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 16:14&gt;</span></span>98.7%
+
+
+<a id="org290f401"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 04:44&gt;</span></span>97.6%
+
+
+<a id="orgc220773"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 09:22&gt;</span></span>97.5%
+
+
+<a id="orgc030a07"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 14:16&gt;</span></span>98.2%
+
+
+<a id="org58f95df"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 19:36&gt;</span></span>
+
+
+<a id="orge55baed"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 05:47&gt;</span></span>99.3%
+
+
+<a id="org3027978"></a>
+
+## Wrting<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 15:13&gt;</span></span>
+
+
+<a id="org64e1359"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 16:52&gt;</span></span>99.2%
+
+
+<a id="org6fa4626"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 06:35&gt;</span></span>98.4%
+
+
+<a id="orgcac7d1d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 20:34&gt;</span></span>99.5%
+
+
+<a id="org5a3bc92"></a>
+
+## Lesson 40
+
+soap a bucket detergent laundry detergent a cloth a brush
+
+an iron an ironing board a washing machine a dishwasher a mop a vacuum cleaner
+
+to clean to wipe off to iron to clean up
+to wash to vacuum
+
+order disorder
+The room is in order.
+The room is in disorder.
+The table is in order.
+The table is in disorder.
+
+The girl is holding a bucket with water and a cloth. She wants to wash the floor in the
+room.
+A wet cloth is lying on the bucket.
+The soap is lying on the shelf under the mirror in the bathroom.
+The laundry detergent is standing on the washing machine.
+The vacuum cleaner is standing on the rug.
+A dry cloth is lying on the floor.
+
+The man is washing his things in the washing machine.
+The man is turning on the washing machine.
+The boy is washing the floor with a mop and a cloth. He's helping his mom.
+The woman washes her clothing with her hands. She doesn't have a washing machine.
+The woman is washing the big, dirty window. No one is helping her.
+Grandma washes dishes with her hands. She doesn't have a dishwasher.
+
+The room is in disorder.
+The boy isn't washing the floor. He's cleaning up the shelf.
+The kitchen is in order.
+The man is cleaning up the table.
+The woman isn't washing clothes. She's cleaning up the kitchen.
+The girl is cleaning up the room.
+
+The bathroom is in order - the laundry detergent and soap are lying on the shelf,
+and the towel is hanging.
+The bathroom is in disorder - the laundry detergent,soap and towel are lying on
+the floor.
+The room is in order - the books are standing on the shelf and the clothes are
+lying in the cabinet.
+The room is in disorder - books, clothes and toys are lying on the floor.
+The kitchen is in disorder - dirty dishes are on the table, and the tablecloth
+is lying on the floor.
+The kitchen is in order - clean dishes are standing in the cabinet.
+
+In order to wash clothes, you need laundry detergent and a washing machine.
+In order to iron pants, you need an iron and an ironing board.
+In order to wash the stove, you need detergent.
+In order to wash the floor, you need a mop and bucket.
+In order to clean shoes, you need a shoe brush.
+In order to vacuum the rug, you need a vacuum cleaner.
+
+The father is ironing a shirt and talking on the phone.
+The mother is washing glasses, and her daughter is drying them.
+The woman is washing dirty dishes and listening to happy music.
+The boy is vacuuming the rug and smiling.
+The woman is ironing a beautiful dress and thinking about a party.
+The mother is washing the window, and her daughter is washing the floor.
+
+With what is the girl drying  the plate? She's drying the plate with a clean
+white towel.
+Is the woman washing clothes with her hands? No, she is washing them in the
+washing machine.
+What are the children doing? The children are helping their mom clean up in the
+room.
+With what is the man cleaning his shoes? He's cleaning them with a shoe brush.
+With what is the woman washing the floor? She's washing the floor with a mop and
+a wet rag.
+Is the grandmother washing dishes with her hands? Yes, she doesn't have a
+dishwasher.
+
+
+<a id="org7a0e87e"></a>
+
+## text
+
+
+<a id="org3f14e6a"></a>
+
+### a bucket
 
 英  ['bʌkɪt]   美  ['bʌkɪt]
 
@@ -14023,7 +19956,10 @@ She reeled up her fishing line and went back with an empty bucket.
 
 她把鱼线收回，提着一个空桶回来了。
 
-### laundry detergent<a id="orgheadline622"></a>
+
+<a id="org995e535"></a>
+
+### laundry detergent
 
 1.  laundry
 
@@ -14121,7 +20057,8 @@ She reeled up her fishing line and went back with an empty bucket.
     
     detergent *dɪˈtɜːdʒənt*  CET6+ TEM4
     
-    N-MASS Detergent is a chemical substance, usually in the form of a powder or liquid, which is used for washing things such as clothes or dishes. 清洁剂
+    N-MASS Detergent is a chemical substance, usually in the form of a powder or
+    liquid, which is used for washing things such as clothes or dishes. 清洁剂
     
     例：
     
@@ -14178,7 +20115,10 @@ She reeled up her fishing line and went back with an empty bucket.
     
     这种洗衣粉去年曾被广泛使用。
 
-### soap<a id="orgheadline623"></a>
+
+<a id="org1e1f641"></a>
+
+### soap
 
 英  [səʊp]   美  [sop]
 
@@ -14199,7 +20139,10 @@ N-MASS Soap is a substance that you use with water for washing yourself or somet
 
 …一块熏衣草肥皂。
 
-### a brush<a id="orgheadline624"></a>
+
+<a id="org859173c"></a>
+
+### a brush
 
 英  [brʌʃ]   美  [brʌʃ]
 
@@ -14213,7 +20156,9 @@ vi. 刷；擦过；掠过；（经过时）轻触
 
 brush *brʌʃ*  CET4 TEM4
 
-N-COUNT A brush is an object that has a large number of bristles or hairs fixed to it. You use brushes for painting, for cleaning things, and for making your hair neat. 画笔; 刷子
+N-COUNT A brush is an object that has a large number of bristles or hairs fixed
+to it. You use brushes for painting, for cleaning things, and for making your
+hair neat. 画笔; 刷子
 
 例：
 
@@ -14352,13 +20297,19 @@ He dipped the brush into the paint bucket.
 
 他拿画笔蘸颜料桶中的颜料。
 
-### a dishwasher<a id="orgheadline625"></a>
+
+<a id="orge4bbce2"></a>
+
+### a dishwasher
 
 英  ['dɪʃwɒʃə]   美  ['dɪʃwɔʃɚ]
 
 n. 洗碗工；洗碟机
 
-### an ironing board<a id="orgheadline626"></a>
+
+<a id="orgb321fe9"></a>
+
+### an ironing board
 
 英  [bɔːd]   美  [bɔrd]
 
@@ -14370,7 +20321,10 @@ vi. 寄宿
 
 n. (Board)人名；(英、西)博德
 
-### an iron<a id="orgheadline627"></a>
+
+<a id="orgd99bb68"></a>
+
+### an iron
 
 英  ['aɪən]   美  ['aɪɚn]
 n. 熨斗；烙铁；坚强
@@ -14443,7 +20397,10 @@ Too many irons in the fire can sap your energy and prevent you from seeing which
 
 同时做太多的事情可能会消耗你的精力，使你看不清该走哪条路。
 
-### a vacuum cleanery<a id="orgheadline628"></a>
+
+<a id="org31a21dc"></a>
+
+### a vacuum cleanery
 
 英  ['vækjʊəm]   美  ['vækjʊəm]
 
@@ -14453,13 +20410,19 @@ adj. 真空的；利用真空的；产生真空的
 
 vt. 用真空吸尘器清扫
 
-### a washing machine<a id="orgheadline629"></a>
+
+<a id="orgeb851ec"></a>
+
+### a washing machine
 
 洗衣机，洗涤机
 
 N-COUNT A washing machine is a machine that you use to wash clothes in. 洗衣机
 
-### a mopj<a id="orgheadline630"></a>
+
+<a id="org9f9c986"></a>
+
+### a mopj
 
 英  [mɒp]   美  [mɑp]
 vt. 擦干；用拖把拖洗
@@ -14474,7 +20437,10 @@ V-T If you mop a surface such as a floor, you clean it with a mop. 用拖把擦
 There was a woman mopping the stairs.
 有个女人正在拖楼梯。
 
-### words<a id="orgheadline631"></a>
+
+<a id="org9e1e137"></a>
+
+### words
 
 to iron
 to clean up
@@ -14537,7 +20503,10 @@ The kitchen is in order.
 
 The man is cleaning up the table.
 
-## DONE contiune<a id="orgheadline633"></a>
+
+<a id="org5ba3fe2"></a>
+
+## contiune
 
 The room is in order - The books are standing on the shelf and clothes are lying on
 the cabinet.
@@ -14606,31 +20575,135 @@ white towel.
 Is the woman washing clothes with her hands? No, she is washing them in a
 washing machine.
 
-# DONE Forty one 91.6%<a id="orgheadline656"></a>
 
-## DONE Review e 95.9% igh 95.9%t 95.9%<a id="orgheadline635"></a>
+<a id="org28079c2"></a>
 
-## DONE Review Forty one 95.2%<a id="orgheadline636"></a>
+# Forty one 91.6%
 
-## DONE Review 95.6%<a id="orgheadline637"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 六 19:41&gt; </span></span> 95.4%<a id="orgheadline638"></a>
+<a id="org41edfb0"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 20:36&gt; </span></span> 96%<a id="orgheadline639"></a>
+## Review e 95.9% igh 95.9%t 95.9%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 一 04:47&gt; </span></span> 97.7%<a id="orgheadline640"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 一 16:39&gt; </span></span> 96.3%<a id="orgheadline641"></a>
+<a id="org61349ca"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 一 04:39&gt;</span></span>99%<a id="orgheadline642"></a>
+## Review Forty one 95.2%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 一 20:41&gt;</span></span>99.1%<a id="orgheadline643"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 二 05:49&gt;</span></span>99.2%<a id="orgheadline644"></a>
+<a id="orgb274776"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 六 17:22&gt;</span></span>99.3%<a id="orgheadline645"></a>
+## Review 95.6%
 
-## text<a id="orgheadline655"></a>
+
+<a id="orgbf39785"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 19:41&gt; </span></span> 95.4%
+
+
+<a id="org34e0447"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 20:36&gt; </span></span> 96%
+
+
+<a id="org4f85dab"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 04:47&gt; </span></span> 97.7%
+
+
+<a id="org5e0891b"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 16:39&gt; </span></span> 96.3%
+
+
+<a id="org24e1785"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 04:39&gt;</span></span>99%
+
+
+<a id="orgdf6f3e7"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 20:41&gt;</span></span>99.1%
+
+
+<a id="orga61250e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 05:49&gt;</span></span>99.2%
+
+
+<a id="orgdb45545"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 17:22&gt;</span></span>99.3%
+
+
+<a id="org8b0434e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 04:53&gt;</span></span>99.4%
+
+
+<a id="org24df021"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 13:44&gt;</span></span>98.6%
+
+
+<a id="org55eee77"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 05:21&gt;</span></span>98.2%
+
+
+<a id="orgf93d880"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 20:29&gt;</span></span>97.8%
+
+
+<a id="org5c2df8f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 20:59&gt;</span></span>98%
+
+
+<a id="orgadb0b70"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 06:02&gt;</span></span>98.8%
+
+
+<a id="org19dd607"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 06:44&gt;</span></span>
+
+
+<a id="org2ffe939"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 08:31&gt;</span></span>99.3%
+
+
+<a id="orgcc16d04"></a>
+
+## Words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-04 Sat 05:02&gt;</span></span>
+
+
+<a id="org80ecc34"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-04 Sat 15:51&gt;</span></span>99.2%
+
+
+<a id="org32d64c9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 08:32&gt;</span></span>98.8%
+
+
+<a id="orgba10d88"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 20:09&gt;</span></span>98.9%
+
+
+<a id="org5d3cfc1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 15:25&gt;</span></span>99.4%
+
+
+<a id="org329f0fb"></a>
+
+## Lesson 41
 
 a pen
 a pencil
@@ -14710,7 +20783,10 @@ regular, and the girl draws with a colored pencil.
 Where does the teacher write the assignment? The teacher writes the assignment
 on the board.
 
-### DONE words<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 二 05:11&gt;</span></span>98%<a id="orgheadline654"></a>
+
+<a id="org0423198"></a>
+
+### words<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 Tue 05:11&gt;</span></span>98%
 
 1.  school
 
@@ -15228,23 +21304,105 @@ on the board.
     他刚刚结束了一项艰巨任务。
      arrive office and begin learning
 
-# DONE Forty two 96.3%<a id="orgheadline665"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 六 20:55&gt; </span></span> 95.9%<a id="orgheadline657"></a>
+<a id="orgf126798"></a>
 
-## DONE Review and write<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 04:30&gt; </span></span> 96%<a id="orgheadline658"></a>
+# Forty two 96.3%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 日 18:38&gt;</span></span>97.7%<a id="orgheadline659"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 日 09:24&gt;</span></span>98.8%<a id="orgheadline660"></a>
+<a id="org26bfe2e"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 日 20:43&gt;</span></span>99.3%<a id="orgheadline661"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 20:55&gt; </span></span> 95.9%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 五 09:41&gt;</span></span>97.1%<a id="orgheadline662"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 六 20:56&gt;</span></span>99.1%<a id="orgheadline663"></a>
+<a id="org8007759"></a>
 
-## text<a id="orgheadline664"></a>
+## Review and write<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 04:30&gt; </span></span> 96%
+
+
+<a id="org63c2950"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 18:38&gt;</span></span>97.7%
+
+
+<a id="orgba2a020"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 09:24&gt;</span></span>98.8%
+
+
+<a id="org2bbe69a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 20:43&gt;</span></span>99.3%
+
+
+<a id="org05a95c8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 09:41&gt;</span></span>97.1%
+
+
+<a id="orgf8ece6d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 20:56&gt;</span></span>99.1%
+
+
+<a id="org7711618"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 05:24&gt;</span></span>99.1%
+
+
+<a id="org0178c96"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 09:19&gt;</span></span>98.1%
+
+
+<a id="orgb76de53"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 15:55&gt;</span></span>97.6%
+
+
+<a id="orgc394766"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 19:16&gt;</span></span>97.3%
+
+
+<a id="orgca1f867"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 05:56&gt;</span></span>98.1%
+
+
+<a id="org729a96d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 05:48&gt;</span></span>98%
+
+
+<a id="orga57c719"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 15:37&gt;</span></span>97.9%
+
+
+<a id="org513819e"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 18:48&gt;</span></span>
+
+
+<a id="orgfe8d2c5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 19:45&gt;</span></span>98.5%
+
+
+<a id="org7edd56b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 09:16&gt;</span></span>98.0%
+
+
+<a id="org2ba178c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 17:44&gt;</span></span>99.3%
+
+
+<a id="org24bd066"></a>
+
+## Lesson 42
 
 a calendar
 a day
@@ -15267,7 +21425,7 @@ to move
 to conduct
 to start
 
-You may talk on the phone at home.
+You may talk oFloating Little Leaves of Coden the phone at home.
 You may not
 you may
 You may cross the street when the light is green.
@@ -15338,23 +21496,50 @@ Men like to talk about sports, but it's boring for women.
 It's fun for children to play with a ball.
 Men don't like to shop. It's boring for them in stores.
 
-# DONE Forty three 94.5%<a id="orgheadline703"></a>
 
-## DONE Review 94.8%<a id="orgheadline666"></a>
+<a id="org46a9d3b"></a>
 
-## DONE Review 96%<a id="orgheadline667"></a>
+# Forty three 94.5%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 05:22&gt; </span></span> 95.7%<a id="orgheadline668"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 10:42&gt; </span></span> 95.7%<a id="orgheadline669"></a>
+<a id="orged8aac0"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 四 20:00&gt; </span></span> 96.5%<a id="orgheadline670"></a>
+## Review 94.8%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 五 04:27&gt; </span></span> 97.1%<a id="orgheadline671"></a>
 
-## text<a id="orgheadline693"></a>
+<a id="org9073cca"></a>
 
-### a credit card<a id="orgheadline672"></a>
+## Review 96%
+
+
+<a id="orgfc7c6fd"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 05:22&gt; </span></span> 95.7%
+
+
+<a id="orgea15857"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 10:42&gt; </span></span> 95.7%
+
+
+<a id="org75fe130"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 20:00&gt; </span></span> 96.5%
+
+
+<a id="org136bb58"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 Fri 04:27&gt; </span></span> 97.1%
+
+
+<a id="org88fab6c"></a>
+
+## text
+
+
+<a id="org16f1557"></a>
+
+### a credit card
 
  英   美
 信用卡；记帐卡
@@ -15373,7 +21558,10 @@ article.yeeyan.org
 Can I pay by credit card?
 我可以用信用卡支付吗？
 
-### creddit<a id="orgheadline673"></a>
+
+<a id="orgf055abc"></a>
+
+### creddit
 
 英  ['kredɪt]   美  ['krɛdɪt]
 n. 信用，信誉；[金融] 贷款；学分；信任；声望
@@ -15464,7 +21652,10 @@ I think our credit has been overextended to diversify.
 You must pass the examination to get credit for the course.
 你必须通过考试才能获得那门课程的学分。
 
-### a mailbox<a id="orgheadline674"></a>
+
+<a id="org837170a"></a>
+
+### a mailbox
 
 英  ['meɪlbɒks]  美  ['mel'bɑks]
 n. 邮箱；邮筒
@@ -15501,9 +21692,15 @@ One way to do this is to use a script that accesses the mailbox just like any ot
 要完成这项任务，其中一种方法是使用脚本，该脚本可以像任何其他的客户端那样访问邮箱，
 然后根据脚本中嵌入的某些规则，组织和过滤您的电子邮件。
 
-### an ATM<a id="orgheadline675"></a>
 
-### a postman<a id="orgheadline676"></a>
+<a id="orgc45b748"></a>
+
+### an ATM
+
+
+<a id="org67fe0a0"></a>
+
+### a postman
 
 英  ['pəʊs(t)mən]  美  ['postmən]
 n. 邮递员；邮差
@@ -15554,7 +21751,10 @@ been used for many years.[citation needed]
 
 来源于：维基百科
 
-### a bank<a id="orgheadline677"></a>
+
+<a id="orgcea63c0"></a>
+
+### a bank
 
 英  [bæŋk]   美  [bæŋk]
 n. 银行；岸；浅滩；储库
@@ -15615,7 +21815,10 @@ Who do you bank with?
 These figures check with the bank statement.
 这些数字与银行结单核对无误。
 
-### a post office<a id="orgheadline678"></a>
+
+<a id="org5944a1f"></a>
+
+### a post office
 
 英  [ˈpəust ɔfis]  美  [ˈpost ɔfɪs]
 n. 邮局
@@ -15632,7 +21835,10 @@ N-SING The Post Office is sometimes used to refer to the U.S. Postal Service, wh
 The Post Office has confirmed that up to fifteen thousand jobs could be lost.
 美国邮政局已证实可能会丧失多达15000个就业岗位。
 
-### a package<a id="orgheadline679"></a>
+
+<a id="orged86e82"></a>
+
+### a package
 
 英  ['pækɪdʒ]  美  ['pækɪdʒ]
 n. 包，包裹；套装软件，[计] 程序包
@@ -15695,7 +21901,10 @@ He seized the package from my hand.
 She directed her package to her boy friend.
 她在包裹上写上她男友的姓名地址。
 
-### an envelop<a id="orgheadline680"></a>
+
+<a id="org7e420f9"></a>
+
+### an envelop
 
 英  [ɪn'veləp; en-]   美  [ɪn'vɛləp]
 vt. 包围；包封；遮盖
@@ -15757,7 +21966,10 @@ overextended and cut off from friendly forces by an enemy counterattack, or the
 enemy can counterattack against the fixing force.According to the United States
 Army there exist four types of envelopment:
 
-### a postcard<a id="orgheadline681"></a>
+
+<a id="org0ccc055"></a>
+
+### a postcard
 
 英  ['pəʊs(t)kɑːd]  美  ['post'kɑrd]
 n. 明信片
@@ -15792,7 +22004,10 @@ Once, long, long ago, almost forty years back, he passed through Ravenna and sen
 曾经在很久很久以前，大约四十年前吧，他经过拉文纳时给我寄来了一张这些著名的马赛克的明信片。
 article.yeeyan.org
 
-### a stamp<a id="orgheadline682"></a>
+
+<a id="org00e9659"></a>
+
+### a stamp
 
   [stæmp]  美  [stæmp]
 n. 邮票；印记；标志；跺脚
@@ -15871,7 +22086,10 @@ It is a good way to soak off the stamp from an envelope.
 He carefully stripped away the transparent paper and took out a valuable stamp.
 他小心地剥去透明纸，拿出了一张名贵的邮票。
 
-### a letter<a id="orgheadline683"></a>
+
+<a id="org55b7644"></a>
+
+### a letter
 
 英  ['letə]   美  ['lɛtɚ]
 n. 信；字母，文字；证书；文学，学问；字面意义
@@ -15927,7 +22145,10 @@ Her letter hints of her love to (towards) me.
 The letter passed from one to another until everyone had read it.
 这封信从一个人转手到另一个人直到每个人都看过。
 
-### a telegram<a id="orgheadline684"></a>
+
+<a id="orgf62e5c6"></a>
+
+### a telegram
 
 英  ['telɪgræm]   美  ['tɛlɪɡræm]
 n. 电报
@@ -15966,7 +22187,10 @@ He was not alarmed at receiving the telegram.
 They rifled through the whole file but could not find the secret telegram.
 他们把整个卷宗翻了一遍，也没有找到那份秘密电报。
 
-### a checkbook<a id="orgheadline685"></a>
+
+<a id="orgfa69105"></a>
+
+### a checkbook
 
 英  ['tʃekbuk]   美  ['tʃekbuk]
 n. 支票簿
@@ -16001,7 +22225,10 @@ article.yeeyan.org
 Teach someone a useful skill – cooking, changing a tire, balancing a checkbook.
 教给他人一项有用的技术——例如烹调、拆换轮胎，平衡支票簿。
 
-### a loan<a id="orgheadline686"></a>
+
+<a id="org882903b"></a>
+
+### a loan
 
 英  [ləʊn]   美  [lon]
 n. 贷款；借款
@@ -16064,7 +22291,10 @@ If you ask him for a loan, he'll come through.
 The company won't keep going unless we can get some loan.
 除非我们能搞到贷款，否则公司就维持不下去了。
 
-### a deposit account<a id="orgheadline687"></a>
+
+<a id="orgdee60c4"></a>
+
+### a deposit account
 
 美
 [金融] 存款帐户；储蓄存款
@@ -16073,7 +22303,10 @@ The company won't keep going unless we can get some loan.
 deposit account
 N-COUNT A deposit account is the same as a savings account. 定期存款账户 (savings account)
 
-### deposit<a id="orgheadline688"></a>
+
+<a id="org0e8f512"></a>
+
+### deposit
 
  英  [dɪ'pɒzɪt]  美  [dɪ'pɑzɪt]
 n. 存款；押金；订金；保证金；沉淀物
@@ -16141,7 +22374,10 @@ There is some deposit in the bottom of the flask.
 To reach iron-ore deposit,they had to bore through solid rock.
 为了达到铁矿矿床，他们只好钻透坚硬的岩石。
 
-### account<a id="orgheadline689"></a>
+
+<a id="orgf23e3f8"></a>
+
+### account
 
  英  [ə'kaʊnt]   美  [ə'kaʊnt]
 n. 账户；解释；账目，账单；理由；描述
@@ -16226,7 +22462,7 @@ account executive 客户经理
   更多结果
 词组短语 同近义词 同根词
 
-account of 在某人帐上重视，    记帐
+account of 在某人帐上重视，	记帐
 account for 对…负有责任；对…做出解释；说明……的原因
 your account 您的帐号
 take into account 考虑；重视；体谅
@@ -16241,7 +22477,10 @@ These figures disagree with our account.
 You must account to father what you have done.
 你必须把你的所作所为对父亲解释清楚。
 
-### a check<a id="orgheadline690"></a>
+
+<a id="org9bc134f"></a>
+
+### a check
 
 check
  英  [tʃek]   美  [tʃɛk]
@@ -16323,16 +22562,25 @@ Please check out these names and numbers.
 Each month we reconcile our check book with the bank statement.
 我们每个月都把支票簿与银行结账单核对一次。
 
-### percent<a id="orgheadline691"></a>
+
+<a id="org3430795"></a>
+
+### percent
 
 英  [pə'sent]   美  [pɚ'sɛnt]
 n. 百分比，百分率；部分；百分数
 adj. 百分之…的
 adv. 以百分之…地
 
-### an account<a id="orgheadline692"></a>
 
-## text<a id="orgheadline698"></a>
+<a id="org382722c"></a>
+
+### an account
+
+
+<a id="orgc7203e5"></a>
+
+## text
 
 to close an account
 
@@ -16587,7 +22835,10 @@ The yield of rice will rise to 700 kilograms per mu.
     The new novel engaged his attention and interest.
     这部新小说引起了他的注意和兴趣。
 
-### to receive<a id="orgheadline697"></a>
+
+<a id="org43d0aa2"></a>
+
+### to receive
 
 英  [rɪ'siːv]   美  [rɪ'siv]
 vt. 收到；接待；接纳
@@ -16913,27 +23164,220 @@ The man is investing money in an account at the bank.
     
     In order to open an account, you need to go to the bank.
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 六 05:46&gt;</span></span>98.5%<a id="orgheadline699"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 五 04:23&gt;</span></span>97.5<a id="orgheadline700"></a>
+<a id="org8dde5b7"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 五 06:12&gt;</span></span>96.2%<a id="orgheadline701"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 05:46&gt;</span></span>98.5%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 日 05:21&gt;</span></span>98.9%<a id="orgheadline702"></a>
 
-# DONE Forty four 96%<a id="orgheadline743"></a>
+<a id="org0312264"></a>
 
-## DONE Review 94%<a id="orgheadline704"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 04:23&gt;</span></span>97.5
 
-## DONE Review 95.3%<a id="orgheadline705"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 五 05:31&gt;</span></span>95.8%<a id="orgheadline706"></a>
+<a id="org48265f0"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 03:57&gt;</span></span>97.4%<a id="orgheadline707"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 06:12&gt;</span></span>96.2%
 
-## text<a id="orgheadline735"></a>
 
-### text<a id="orgheadline708"></a>
+<a id="org0444ae5"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 05:21&gt;</span></span>98.9%
+
+
+<a id="org6395733"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 05:13&gt;</span></span>98.7%
+
+
+<a id="org44ff9bf"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 13:57&gt;</span></span>99.2%
+
+
+<a id="org9a0ed1e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 10:46&gt;</span></span>95.6%
+
+
+<a id="org01686bd"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 19:48&gt;</span></span>97.2%
+
+
+<a id="org14cdf8c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 14:24&gt;</span></span>95.5%
+
+
+<a id="org9c4f1e2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 08:45&gt;</span></span>98.2%
+
+
+<a id="org88768fe"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 05:21&gt;</span></span>98.7%
+
+
+<a id="org98fb7d6"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 14:31&gt;</span></span>97.1%
+
+
+<a id="orgfbdab2a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-10 Thu 06:40&gt;</span></span>97.3%
+
+
+<a id="org63c0e37"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-12 Sat 10:21&gt;</span></span>97.6%
+
+
+<a id="orgf8fa084"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 07:11&gt;</span></span>96.6%
+
+
+<a id="orgddb5ea7"></a>
+
+## Writing <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 10:21&gt;</span></span>
+
+
+<a id="org54ae36b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 19:55&gt;</span></span>99.0%
+
+
+<a id="orgd48eee8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-06 Mon 07:51&gt;</span></span>98.3%
+
+
+<a id="orgd890af0"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-06 Mon 19:29&gt;</span></span>two pages
+
+
+<a id="orgee11dc0"></a>
+
+## Read aloud<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 05:19&gt;</span></span>
+
+
+<a id="org468e563"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 05:57&gt;</span></span>98.9%
+
+
+<a id="org2d8de6f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 08:18&gt;</span></span>99.4%
+
+
+<a id="orgd7fc5e6"></a>
+
+## Lesson 43
+
+a post offcie a mailbox a postman an ATM a credit car a post office a bank
+
+a telegram a postcard a letter an envelope a package a stamp
+
+a deposit account a check a checkbook an account a loan percent
+
+to open an account to deposit money to write out a check. to withdraw money to
+take out a loan
+
+to deliver to enter to exit to send to yeild interest to receive to enter
+
+Across from the hotel there's a bank.
+The postman delivers letters and telegrams.
+To the right of the bank there's a post office.
+In the hotel there's an ATM.
+The postman with the big, heavy bag is exiting the post office.
+The woman with the small, red bag is entering the bank.
+
+The boy is sending a letter with his photograph to his grandma.
+The woman finds a postcard from her mother in the mailbox.
+The man is sending a package with presents to his family.
+The girl buys an envelope and stamps at the bank.
+The girl is putting the postcard into the mailbox.
+The woman receives a telegram from her father.
+
+The woman is writing out a check.
+The man is making a purchase in the store. He's not write out a check. He's
+paying with a credit card.
+The woman wants to cash a check.
+The man is opening an account at the bank.
+The man in the bank is getting out his check book.
+The yound man is withdrawing money at the ATM because the ATM is close to home.
+
+The man wants to take out a loan at the bank.
+The man is investing money in an account at the bank.
+He's searching for a loan with small interest.
+A woman is withdrawing money from an account at the bank.
+The deposit account yields interest, but an account at the bank doesn't.
+The family opens a deposit account at the bank.
+
+At the bank you don't send letters. There you open an account or take out a
+loan.
+The mailman doesn't deliver checkbooks. You get those at the bank.
+The bank works five days a week, but the post office works six.
+The bank works half the day, but the post office works the whole day.
+A telegram travels fast, but a letter - slowly.
+At the post office you don't take out a loan. There you receive and send
+letters.
+
+The family likes this house. They want to take out a loan and buy it.
+The man doesn't like this bank. He want to close his account.
+A woman wants to pay with her credit card and not withdraw money from her
+account.
+The woman likes this bank. she wants to open a deposit account.
+The man wants to take out a loan, but he doesn't want to pay the bank interest.
+The boy wants to write out a check, but he doesn't have a checkbook.
+
+In order to send a telegram, you need to go to the post office.
+In order to take out a loan, you need a passport.
+In order to make an expensive purchase, you need to have a lot of money in your
+account.
+In order to send a letter, you need an envelope and stamps.
+In order to open an account, you need to go to the bank.
+In order to send a package, you need to fill out a form.
+
+
+<a id="orgc763474"></a>
+
+# Forty four 96%
+
+
+<a id="org17d14d0"></a>
+
+## Review 94%
+
+
+<a id="org70a8b55"></a>
+
+## Review 95.3%
+
+
+<a id="org32791c2"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 Fri 05:31&gt;</span></span>95.8%
+
+
+<a id="orgb2150a8"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 03:57&gt;</span></span>97.4%
+
+
+<a id="org70b27fe"></a>
+
+## text
+
+
+<a id="org373e51e"></a>
+
+### text
 
 The child has a strong cough.
 
@@ -17007,7 +23451,10 @@ Why is the dad lying on the couch? He has a high temperature.
 
 Why isn't the athlete running? His leg hurts.
 
-### vitamins<a id="orgheadline709"></a>
+
+<a id="orgee0a4b5"></a>
+
+### vitamins
 
 英  ['vaɪtəmɪnz]   美  ['vaɪtəmɪnz]
 n. [生化] 维生素；[生化] 维他命
@@ -17019,7 +23466,10 @@ N-COUNT Vitamins are substances that you need in order to remain healthy, which 
 Lack of vitamin D is another factor to consider.
 缺乏维生素D是另一个需要考虑的因素。
 
-### a thermometer<a id="orgheadline710"></a>
+
+<a id="orgb3f37fa"></a>
+
+### a thermometer
 
 英  [θə'mɒmɪtə]  美  [θɚ'mɑmɪtɚ]
 n. 温度计；体温计
@@ -17059,7 +23509,10 @@ This thermometer is calibrated by centigrade.
 I never go anywhere without a thermometer, a gargle, a raincoat and a parachute.
 如果没有体温计，漱口水，雨衣和降落伞的话，我是绝不会去的
 
-### medicine<a id="orgheadline711"></a>
+
+<a id="org9cd4777"></a>
+
+### medicine
 
 英  ['meds(ə)n; 'medɪsɪn]  美  ['mɛdsn]
 n. 药；医学；内科；巫术
@@ -17108,11 +23561,17 @@ Normally there are no complications with the medicine.
 If you take this medicine,all your symptoms will fall away.
 如果你使用这种药物，你的所有症状将会消失。
 
-### aspirin<a id="orgheadline712"></a>
+
+<a id="org267f7d4"></a>
+
+### aspirin
 
 n. 阿司匹林（解热镇痛药）
 
-### a syringe<a id="orgheadline713"></a>
+
+<a id="orgd56948f"></a>
+
+### a syringe
 
 英  [sɪ'rɪn(d)ʒ; 'sɪ-]  美  [sɪ'rɪndʒ]
 vt. 注射，冲洗
@@ -17146,7 +23605,10 @@ He boiled his syringe and fired his knife to sterilize them.
 Parents of children in the no treatment group received an empty syringe, and therefore were aware of their child’s treatment group.
 未受药物治疗的孩子们的家长收到空的注射器，因此他们知道自己的孩子属于哪个治疗团体。
 
-### a bandage<a id="orgheadline714"></a>
+
+<a id="org3b2ec47"></a>
+
+### a bandage
 
 英  ['bændɪdʒ]  美  ['bændɪdʒ]
 n. 绷带
@@ -17191,7 +23653,10 @@ Don't tie the bandage too tight.
 His head has been hung over with thick bandage except two eyes.
 除了两只眼睛，他的头裹上了厚厚的绷带。
 
-### to take temperature<a id="orgheadline715"></a>
+
+<a id="org54df4e6"></a>
+
+### to take temperature
 
 英  [temprətʃə(r)]  美  ['tɛmprətʃɚ]
 n. 温度；体温；气温；发烧
@@ -17249,7 +23714,10 @@ Her temperature came down in the evening.
 The temperature here varies greatly between day and night.
 这里白天和夜晚的温差很大。
 
-### to take blood pressure<a id="orgheadline718"></a>
+
+<a id="org04e8ecd"></a>
+
+### to take blood pressure
 
 1.  pressure
 
@@ -17396,7 +23864,10 @@ The temperature here varies greatly between day and night.
     Tears mingled with the blood from the cut on her face.
     在她脸上的伤口处，眼泪和血混在一起。
 
-### to operate<a id="orgheadline719"></a>
+
+<a id="org1353a44"></a>
+
+### to operate
 
 英  ['ɒpəreɪt]   美  ['ɑpə'ret]
 vi. 运转；动手术；起作用
@@ -17466,7 +23937,10 @@ article.yeeyan.org
 The Air Services are not yet sound enough economically to operate without government subsidies.
 航空公司还不景气， 没有政府的补贴就难以经营。
 
-### to treat<a id="orgheadline720"></a>
+
+<a id="org010f455"></a>
+
+### to treat
 
  英  [triːt]   美  [trit]
 vt. 治疗；对待；探讨；视为
@@ -17535,28 +24009,55 @@ www.kfyes.com
 We shouldn't philander solemnly with that point of view. On the contrary,we should treat it seriously.
 我们不应该貌似认真地对待这一观点，相反，我们应该认真严肃地对待它。
 
-### to dress<a id="orgheadline721"></a>
 
-### to give a shot<a id="orgheadline722"></a>
+<a id="orgbdf8456"></a>
 
-### an operation<a id="orgheadline723"></a>
+### to dress
 
-### temperature<a id="orgheadline724"></a>
 
-### a cold<a id="orgheadline725"></a>
+<a id="orgdefc073"></a>
 
-### a wound<a id="orgheadline726"></a>
+### to give a shot
+
+
+<a id="org9e415f9"></a>
+
+### an operation
+
+
+<a id="orgb0be76d"></a>
+
+### temperature
+
+
+<a id="org4d7a9aa"></a>
+
+### a cold
+
+
+<a id="org9d1871e"></a>
+
+### a wound
 
 英  [wuːnd]   美  [wund]
 n. 创伤，伤口
 vt. 使受伤
 vi. 受伤，伤害
 
-### blood pressure<a id="orgheadline727"></a>
 
-### a cough<a id="orgheadline728"></a>
+<a id="orgc2790e5"></a>
 
-### a dentist<a id="orgheadline729"></a>
+### blood pressure
+
+
+<a id="org53f75a7"></a>
+
+### a cough
+
+
+<a id="org0e0227a"></a>
+
+### a dentist
 
 英  ['dentɪst]  美  ['dɛntɪst]
 n. 牙科医生
@@ -17598,7 +24099,10 @@ Could you put me on to a good dentist?
 The word “dentist”denotes a doctor whose work is the care of teeth.
 “牙科医生”一词意谓其工作是医治牙齿的医生。
 
-### a cardiologist<a id="orgheadline730"></a>
+
+<a id="org4e2d263"></a>
+
+### a cardiologist
 
 英  [,ka:di'ɔlədʒist]  美  ['kɑrdɪ'ɑlədʒɪst]
 n. 心脏病学家；心脏病科医师
@@ -17638,7 +24142,10 @@ However, according to renowned cardiologist Dr. Chauncey Crandall, there are som
 但著名心脏病专家昌西 克兰多尔博士说，还有一些症候非常微小，和多人都忽视了，或者将它们归咎于不太危险的小病引起的症状。
 article.yeeyan.org
 
-### a nurse<a id="orgheadline731"></a>
+
+<a id="orgdc837cd"></a>
+
+### a nurse
 
 英  [nɜːs]   美  [nɝs]
 vt. 看护，护理；照顾；培养；给…喂奶
@@ -17694,7 +24201,10 @@ The patient nurse administered to the dying man.
 The patient nurse ministered to the dying old man.
 耐心的护士照料着那个垂死的老人。
 
-### a surgeon<a id="orgheadline732"></a>
+
+<a id="orgcd100bf"></a>
+
+### a surgeon
 
 英  ['sɜːdʒ(ə)n]  美  ['sɝdʒən]
 n. 外科医生
@@ -17734,7 +24244,10 @@ The plastic surgeon undercut the skin of her cheek.
 As far as I can recollect, his father was a surgeon at that time.
 就我所记得的，他的父亲那时是个外科医生。
 
-### ophthalmologist<a id="orgheadline733"></a>
+
+<a id="org3317713"></a>
+
+### ophthalmologist
 
 英  [,ɒfθæl'mɒlədʒɪst]   美  [,ɑfθæl'mɑlədʒɪst]
 n. 眼科医师
@@ -17771,7 +24284,10 @@ For three years afterward, I had partial sight, but my ophthalmologist told me t
 在之后的三年里，我只有部分视力，但是我的眼科医生告诉我说，我最终会失明。
 article.yeeyan.org
 
-### a physician<a id="orgheadline734"></a>
+
+<a id="org0bd0dc9"></a>
+
+### a physician
 
 英  [fɪ'zɪʃ(ə)n]  美  [fɪ'zɪʃən]
 n. [医] 医师；内科医师
@@ -17822,73 +24338,460 @@ The grandmother's eyes hurt.
 
 The woman has a stomachache.
 
-## DONE Review Lesson Forty four 94.9%<a id="orgheadline736"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 20:11&gt;</span></span>95.8%<a id="orgheadline737"></a>
+<a id="orge452ddc"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 日 06:21&gt;</span></span>96.2%<a id="orgheadline738"></a>
+## Review Lesson Forty four 94.9%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 六 04:42&gt;</span></span>99.1%<a id="orgheadline739"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 六 09:01&gt;</span></span>99.3%<a id="orgheadline740"></a>
+<a id="org1a7e424"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 四 10:11&gt;</span></span>93.3%<a id="orgheadline741"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 20:11&gt;</span></span>95.8%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 五 03:56&gt;</span></span>97.1%<a id="orgheadline742"></a>
 
-# DONE Forty five 96.3%<a id="orgheadline784"></a>
+<a id="orgcb2ce9e"></a>
 
-## DONE Review 95.4%<a id="orgheadline744"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 06:21&gt;</span></span>96.2%
 
-## DONE Review 96.9%<a id="orgheadline745"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 六 04:58&gt;</span></span>96.6%<a id="orgheadline746"></a>
+<a id="org6f60893"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 一 05:00&gt;</span></span>96.9%<a id="orgheadline747"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 04:42&gt;</span></span>99.1%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 06:06&gt;</span></span>98.7%<a id="orgheadline748"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 11:06&gt;</span></span>98.7%<a id="orgheadline749"></a>
+<a id="orgcdf76cf"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 14:56&gt;</span></span>99.6%<a id="orgheadline750"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 09:01&gt;</span></span>99.3%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 三 20:43&gt;</span></span>96%<a id="orgheadline751"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 四 08:30&gt;</span></span>96%<a id="orgheadline752"></a>
+<a id="orgb4437bd"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 日 17:31&gt;</span></span>99.1%<a id="orgheadline753"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 Thu 10:11&gt;</span></span>93.3%
 
-## text<a id="orgheadline778"></a>
 
-### elderly people<a id="orgheadline754"></a>
+<a id="orga32893d"></a>
 
-### a child<a id="orgheadline755"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 03:56&gt;</span></span>97.1%
 
-### an elderly man<a id="orgheadline756"></a>
 
-### an adult<a id="orgheadline757"></a>
+<a id="org7bb82a4"></a>
 
-### an elderly woman<a id="orgheadline758"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 21:06&gt;</span></span>99%
 
-### a teenager<a id="orgheadline759"></a>
 
-### to live<a id="orgheadline760"></a>
+<a id="org2f5e821"></a>
 
-### to be born<a id="orgheadline761"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 06:30&gt;</span></span>97%
 
-### to die<a id="orgheadline762"></a>
 
-### to grow old<a id="orgheadline763"></a>
+<a id="org1830f86"></a>
 
-### to mature<a id="orgheadline764"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 06:11&gt;</span></span>96.7%
 
-### to grow up<a id="orgheadline765"></a>
 
-### more often<a id="orgheadline766"></a>
+<a id="org48a76b6"></a>
 
-### more rarely<a id="orgheadline767"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 07:32&gt;</span></span>97.6%
 
-### often<a id="orgheadline768"></a>
+
+<a id="org52ba4ac"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 07:40&gt;</span></span>96.%
+
+
+<a id="org3eae3b8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 19:58&gt;</span></span>98.1%
+
+
+<a id="orgab2d4a7"></a>
+
+### A surgeon is a doctor who is specially trained to perform surgery. 外科医生
+
+
+<a id="orge737142"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 04:59&gt;</span></span>98.2%
+
+
+<a id="org94f7008"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 08:29&gt;</span></span>97.8%
+
+
+<a id="org06daf23"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 09:21&gt;</span></span>95.9%
+
+
+<a id="org69cbe69"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 21:18&gt;</span></span>97.2%
+
+
+<a id="org6bb9bba"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 05:20&gt;</span></span>
+
+
+<a id="org59e15aa"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 06:37&gt;</span></span>98.5%
+
+
+<a id="orgc6472d3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 08:21&gt;</span></span>95.5%
+
+
+<a id="org554d925"></a>
+
+## study words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 19:14&gt;</span></span>99.1%
+
+
+<a id="org22f15bc"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 05:42&gt;</span></span>
+
+
+<a id="org5345ee6"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 06:37&gt;</span></span>99.7%
+
+
+<a id="org0afa967"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 15:39&gt;</span></span>98.6%
+
+
+<a id="org928de17"></a>
+
+## Lesson 44
+
+a bandage vitamins a syringe aspirin a thermometer medicine
+
+to operate to take temperature to treat to give a shot to take blood pressure to
+dress
+
+a wound an operation temperture a cold a cough
+
+a cardioloist a nurse a dentist ophthalmologist a surgeon a physician
+
+The child has a toothache.
+The grandmother's eyes hurt.
+The grandfather's heart hurts.
+The athlete's leg hurts.
+The woman has a stomachache.
+The man has a headache.
+
+The policeman has a serious wound.
+The woman has a high temperature.
+The child has a strong cough.
+The patient has a high blood pressure.
+The man has a sore throat.
+The child has a strong cold.
+
+A surgeon operates on a patient.
+A physician takes a patient's blood pressure
+An ophthalmogist treats eyes.
+A nurse dresses a wound with a bandage.
+A nurse gives a shot.
+A dentist treats teeth.
+
+A child with a cold stays at home, not in a hospital.
+A man with a wound stays in a hospital, not at home.
+A surgeon operates in a hospital, not at home.
+A cardiologist treats the heart, not the eyes.
+The woman is giving a shot at home, not in a hospital.
+An ophthalmologist treats the eyes, not the heart.
+
+If an athlete's leg hurts, he sits on a bench and doesn't jump.
+In order to dress a wound, you need a bandage.
+If mom has a headache she stays in bed and doesn't to shopping.
+In order to give a shot, you need a syringe.
+If a child has a cold and a cough, he stays at home and doesn't go to school.
+In order to take someone's temperature, you need a thermometer.
+
+One who doesn't want to get sick takes vitamins.
+One who has a high temperature takes aspirin.
+One who has a toothache goes to a dentist.
+One who's heart hurts goes to a cardiologst.
+One who has a strong cough takes medicine.
+One who's eyes hurt goes to an ophthalmologist.
+
+Why is the child crying? He has a stomach ache.
+Why does the grandmother take medicine? She has high blood pressure.
+Why is dad lying on the couch? He has a hight tempoerture.
+Why is the doctor holding a syringe? He wants to give a shot.
+Why isn't the athlete running? His leg hurts.
+Why do the man's eyes hurt? He works a lot on the computer.
+
+
+<a id="org1222f37"></a>
+
+# Forty five 96.3%
+
+
+<a id="org35d3e5c"></a>
+
+## Review 95.4%
+
+
+<a id="orgca7ac18"></a>
+
+## Review 96.9%
+
+
+<a id="orgf3840f6"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 04:58&gt;</span></span>96.6%
+
+
+<a id="org3862ed1"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 05:00&gt;</span></span>96.9%
+
+
+<a id="org54a8838"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 06:06&gt;</span></span>98.7%
+
+
+<a id="org9148d83"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 11:06&gt;</span></span>98.7%
+
+
+<a id="orgfc49286"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 14:56&gt;</span></span>99.6%
+
+
+<a id="org368540b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 Wed 20:43&gt;</span></span>96%
+
+
+<a id="orge7b1968"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 Thu 08:30&gt;</span></span>96%
+
+
+<a id="orge957f37"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 17:31&gt;</span></span>99.1%
+
+
+<a id="orgca12391"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 21:11&gt;</span></span>97.1%
+
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-10-20 Thu 21:11]</span></span>
+
+
+<a id="org36c295e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 05:57&gt;</span></span>98.6%
+
+
+<a id="org86bbe18"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 05:21&gt;</span></span>97.4%
+
+
+<a id="org08655d4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 06:25&gt;</span></span>97.8%
+
+
+<a id="orgd57476b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 10:42&gt;</span></span>98.4%
+
+
+<a id="org9ea9daa"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 17:56&gt;</span></span>98.1%
+
+
+<a id="org2c039c1"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 06:32&gt;</span></span>98.5%
+
+
+<a id="org57f546d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 06:17&gt;</span></span>97.6%
+
+
+<a id="org4fee55f"></a>
+
+## Writing
+
+
+<a id="org84a3994"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 07:04&gt;</span></span>98.3%
+
+
+<a id="org9c066ed"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 21:02&gt;</span></span>98.4%
+
+
+<a id="org5360abc"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 09:42&gt;</span></span>
+
+
+<a id="orgf848300"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 10:13&gt;</span></span>99.6%
+
+
+<a id="org851970a"></a>
+
+## read aloud<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 05:26&gt;</span></span>45,44,43,42
+
+
+<a id="org2de61e6"></a>
+
+## Writing words and review words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 06:14&gt;</span></span>five texts
+
+
+<a id="org5975f5f"></a>
+
+## Lesson 45
+
+a child a teenager an elderly man an eldery woman an adult an elderly people
+
+to grow up to mature to grow old to live to die to be born
+
+often more often rarely more arely slowly fast
+
+a gray man a gray woman bald a bald man a bald cat a gray man
+
+The gray, old woman is looking at herself in the mirror and is sad.
+The small, bald cat is sitting on the chair.
+The boy isn't bald. He has long, black hair.
+The gray, old man is looking out the window and is bored.
+The cat is bald, not the boy.
+The woman has light, not gray hair.
+
+Children don't grow old, they grow up.
+Elderly people grow old and die.
+A baby grows slowly.
+Adults don't grow up, they age.
+Teenagers also don't grow old, they mature.
+A kitten grows fast.
+
+The old woman is buying medicine.
+It's hard for elderly people to climb the stairs.
+The teenagers are running down the stairs.
+The teenager rarely has a backache.
+The grandfather often has a backache.
+The teenagers are listening to the lecture.
+
+Elderly people often have elevated blood pressure.
+Elderly people often have heart pain.
+Teenagers rarely have elevated blood pressure.
+Elderly people often take medicine.
+Children often have stomachaches.
+Teenagers also take medicine, but rarely.
+
+The grandfather has a bachache, not a stomachache.
+Adults take the elevator, not the stairs.
+Adults grow old, not children.
+The child matures, but doesn't grow old.
+A woman buys medicine, not a child.
+Children grow up, but not old people.
+
+Elderly people have elevated blood pressure more often than teenagers.
+Children get sick more often than adults.
+Men prepare food less often than women.
+Students watch TV less often than elderly people.
+Elderly people die more often than young people.
+Elderly people take medicine more often than young people.
+
+
+<a id="org37f6ff4"></a>
+
+## text
+
+
+<a id="org34d29b1"></a>
+
+### elderly people
+
+
+<a id="orgce45ee8"></a>
+
+### a child
+
+
+<a id="org274ae75"></a>
+
+### an elderly man
+
+
+<a id="org80f6750"></a>
+
+### an adult
+
+
+<a id="orgb06aae5"></a>
+
+### an elderly woman
+
+
+<a id="orgb3c1eff"></a>
+
+### a teenager
+
+
+<a id="org9b1801c"></a>
+
+### to live
+
+
+<a id="org1dae95c"></a>
+
+### to be born
+
+
+<a id="org59440f4"></a>
+
+### to die
+
+
+<a id="orge7ec292"></a>
+
+### to grow old
+
+
+<a id="org9efb767"></a>
+
+### to mature
+
+
+<a id="org9d00bbe"></a>
+
+### to grow up
+
+
+<a id="org17f86c7"></a>
+
+### more often
+
+
+<a id="org47cf003"></a>
+
+### more rarely
+
+
+<a id="org78a5a6d"></a>
+
+### often
 
 英  ['ɒf(tə)n]   美  ['ɔf(tə)n; 'ɑf(tə)n]
 adv. 常常，时常
@@ -17944,13 +24847,25 @@ He often lunches out with his friends.
 They often mucked about with some girls.
 他们常和一些姑娘们鬼混。
 
-### slowly<a id="orgheadline769"></a>
 
-### rarely<a id="orgheadline770"></a>
+<a id="org01f210d"></a>
 
-### fast<a id="orgheadline771"></a>
+### slowly
 
-### a bald man<a id="orgheadline772"></a>
+
+<a id="org63f5fe1"></a>
+
+### rarely
+
+
+<a id="org34d3f24"></a>
+
+### fast
+
+
+<a id="orgbdd0a08"></a>
+
+### a bald man
 
 英  [bɔːld]   美  [bɔld]
 adj. 秃顶的；光秃的；单调的；无装饰的
@@ -18004,7 +24919,10 @@ There is a whole world of anxiety and disillusion behind those bald employment f
 在那些光秃秃的就业数字背后是整个世界的焦虑和幻灭。
 article.yeeyan.org
 
-### a gray man<a id="orgheadline773"></a>
+
+<a id="org0fd449f"></a>
+
+### a gray man
 
 英  [greɪ]   美  [ɡre]
 adj. 灰色的；苍白的；灰白头发的；阴郁的
@@ -18038,15 +24956,30 @@ It's gray when you take it out of the head.
 当你把它从头颅中取出的时候,它就变成了灰色
 v.163.com
 
-### bald<a id="orgheadline774"></a>
 
-### a gray woman<a id="orgheadline775"></a>
+<a id="org81bcb2e"></a>
 
-### a bald cat<a id="orgheadline776"></a>
+### bald
 
-### gray<a id="orgheadline777"></a>
 
-## text<a id="orgheadline782"></a>
+<a id="orgf80a281"></a>
+
+### a gray woman
+
+
+<a id="orgaf5cecc"></a>
+
+### a bald cat
+
+
+<a id="orga89e86c"></a>
+
+### gray
+
+
+<a id="org9df869c"></a>
+
+## text
 
 The cat is bald, not the boy.
 
@@ -18066,7 +24999,11 @@ A baby grows slowly.
 
 Adults dont' grow up, they age.
 
-英  [eɪdʒ]   美  [edʒ]
+
+<a id="org8dcb790"></a>
+
+### 英  [eɪdʒ]   美  [edʒ]
+
 n. 年龄；时代；寿命，使用年限；阶段
 vi. 成熟；变老
 vt. 使成熟；使变老，使上年纪
@@ -18186,9 +25123,15 @@ I measured myself not against adults but against age-mates.
 When the two files are crossed, a new list is created containing only unregistered adults.
 将两种文件一对比，漏登记的成人名单就出来了。
 
-### Children don't grow old, they grow up.<a id="orgheadline779"></a>
 
-### Teenagers also don't grow old, they mature.<a id="orgheadline780"></a>
+<a id="org7ffa2ed"></a>
+
+### Children don't grow old, they grow up.
+
+
+<a id="org01173da"></a>
+
+### Teenagers also don't grow old, they mature.
 
 英  ['tiːneɪdʒə]  美  ['tinedʒɚ]
 n. 十几岁的青少年；十三岁到十九岁的少年
@@ -18301,15 +25244,25 @@ That may be because I am a wordsmith, but also because it is the most mature.
 这可能是因为我是一个富文本编辑器用户 ，而且还因为它是目前最成熟的。
 article.yeeyan.org
 
-### Elderly people grow old and die.<a id="orgheadline781"></a>
 
-## text<a id="orgheadline783"></a>
+<a id="orged5377a"></a>
+
+### Elderly people grow old and die.
+
+
+<a id="org897adaf"></a>
+
+## text
 
 The teenagers are listening to the lecture.
 
 The teenagers are running down the stairs.
 
-stair
+
+<a id="org4d3e48b"></a>
+
+### stair
+
  英  [steə]   美  [stɛr]
 n. 楼梯，阶梯；梯级
 n. (Stair)人名；(英、葡)斯泰尔
@@ -18353,7 +25306,10 @@ Go for a run or a brisk walk, or jump on the stair stepper for half of an hour. 
 当然，你也不需要为运动发狂，慢跑，轻松的散步，或者半小时的跳台阶练习都可以视为运动，一次运动时间至少在30分钟到60分钟，天数则是越多越好。
 www.elanso.com
 
-It's hard for elderly people to climb the stairs.
+
+<a id="org789ebf0"></a>
+
+## It's hard for elderly people to climb the stairs.
 
 The old woman is buying medicine.
 
@@ -18367,7 +25323,11 @@ Elderly people often take medicine.
 
 Elderly people often have a elevated blood pressure.
 
-elevate
+
+<a id="orgdfab32f"></a>
+
+### elevate
+
  英  ['elɪveɪt]   美  ['ɛlɪvet]
 vt. 提升；举起；振奋情绪等；提升…的职位
  柯林斯英汉双解大词典  21世纪大英汉词典
@@ -18433,7 +25393,10 @@ elevated blood pressure
 基于9个网页-相关网页
  血压升高
 
-Elderly people often have heart pain.
+
+<a id="org5eba54e"></a>
+
+## Elderly people often have heart pain.
 
 heart pain
 网络释义
@@ -18468,47 +25431,135 @@ Elderly people die more often than young people.
 
 Children get sick more often than adults.
 
-# DONE Forty six 95.5%<a id="orgheadline819"></a>
 
-## DONE Review forty six 96.6%<a id="orgheadline785"></a>
+<a id="orgd402b4d"></a>
+
+# Forty six 95.5%
+
+
+<a id="org68cbdc3"></a>
+
+## Review forty six 96.6%
 
 不错
 
-## DONE Review 93.2%<a id="orgheadline786"></a>
 
-## DONE Review 95.9%<a id="orgheadline787"></a>
+<a id="orgccddee2"></a>
 
-## DONE Review 96.5%<a id="orgheadline788"></a>
+## Review 93.2%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 一 05:06&gt;</span></span>96.4%<a id="orgheadline789"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 二 05:24&gt;</span></span>94.9%<a id="orgheadline790"></a>
+<a id="org7970598"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 二 14:20&gt; </span></span> 95.9%<a id="orgheadline791"></a>
+## Review 95.9%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 三 04:46&gt;</span></span>96.8%<a id="orgheadline792"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2003-09-19 五&gt;</span></span>96.9%<a id="orgheadline793"></a>
+<a id="org4106062"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 04:02&gt;</span></span>97.3%<a id="orgheadline794"></a>
+## Review 96.5%
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 五 04:48&gt;</span></span>99.1%<a id="orgheadline795"></a>
+
+<a id="org920c474"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 05:06&gt;</span></span>96.4%
+
+
+<a id="org529792a"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 Tue 05:24&gt;</span></span>94.9%
+
+
+<a id="org6f9fb3b"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 Tue 14:20&gt; </span></span> 95.9%
+
+
+<a id="org7a0b965"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 04:46&gt;</span></span>96.8%
+
+
+<a id="orgb247671"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2003-09-19 Fri&gt;</span></span>96.9%
+
+
+<a id="org1bbe5c0"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 04:02&gt;</span></span>97.3%
+
+
+<a id="orge00932d"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 04:48&gt;</span></span>99.1%
 
 :LOGBOOK:
 
--   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-16 五 05:31]</span></span>
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-16 Fri 05:31]</span></span>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 二 20:51&gt;</span></span>94.1%<a id="orgheadline796"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 三 06:10&gt;</span></span>96.1%<a id="orgheadline797"></a>
+<a id="orge6ee2ca"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 二 14:07&gt;</span></span>98.9%<a id="orgheadline798"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 20:51&gt;</span></span>94.1%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 二 19:13&gt;</span></span>99.2%<a id="orgheadline799"></a>
 
-## text<a id="orgheadline817"></a>
+<a id="org140c2a1"></a>
 
-### a bracelet<a id="orgheadline800"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 Wed 06:10&gt;</span></span>96.1%
+
+
+<a id="org591bdc7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 14:07&gt;</span></span>98.9%
+
+
+<a id="orge25a85e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 19:13&gt;</span></span>99.2%
+
+:LOGBOOK:
+
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-10-18 Tue 19:39]</span></span>
+
+
+<a id="org28b5a19"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 14:45&gt;</span></span>95.7%
+
+
+<a id="orgdf62e79"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 05:30&gt;</span></span>96.5%
+
+
+<a id="orgea9fa26"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 06:20&gt;</span></span>97.7%
+
+
+<a id="org3acd54f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-24 Tue 06:28&gt;</span></span>97.3%
+
+
+<a id="org107abba"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-24 Tue 09:15&gt;</span></span>98.2%
+
+
+<a id="orgd8c09fe"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 20:24&gt;</span></span>98.2%
+
+
+<a id="org3ee996a"></a>
+
+## text
+
+
+<a id="org00ae4a9"></a>
+
+### a bracelet
 
 英  [ˈbreɪslət]  美  [ˈbreslɪt]
 n. 手镯；手链
@@ -18542,7 +25593,10 @@ article.yeeyan.org
 His friends remember his easy smile; I remember Ryan because of the bracelet his mother gave me that I wear every day.
 他的朋友还记得他那纯真的笑容，我记得瑞恩是因为我天天都戴着他母亲送给我的手镯。
 
-### a pendant<a id="orgheadline801"></a>
+
+<a id="orgbc0da39"></a>
+
+### a pendant
 
 英  ['pend(ə)nt]  美  ['pɛndənt]
 n. 下垂物，垂饰
@@ -18578,7 +25632,10 @@ news.iciba.com
 Yeah, the jewelers have been advertising this completely cheesy heart-shaped pendant for the last few weeks but that doesn’t mean that anybody actually wants it.
 是的，临近情人节的最后几个星期，珠宝商一直在宣传那些俗气的心形吊坠的广告，但并不意味着每个人都想拥有。
 
-### earrings<a id="orgheadline802"></a>
+
+<a id="org931b0ee"></a>
+
+### earrings
 
 earrings
  英  ['iəriŋz]   美  ['ɪr,rɪŋ]
@@ -18617,7 +25674,10 @@ article.yeeyan.org
 On display in a showroom in Tokyo are versions of the famous feline in everything from tiny earrings to melon-sized figurines.
 在东京一个陈列室里展出了这个著名的猫的各种东西，从小耳环到瓜型的小雕像都有。
 
-### a ring<a id="orgheadline803"></a>
+
+<a id="orgd16fcba"></a>
+
+### a ring
 
 英  [rɪŋ]   美  [rɪŋ]
 vi. 按铃；敲钟；回响；成环形
@@ -18711,7 +25771,10 @@ It beats me how she found her lost ring .
 Mary babbled on and on about her new ring.
 玛丽喋喋不休地谈论她的新戒指。
 
-### chain<a id="orgheadline804"></a>
+
+<a id="orgacb8200"></a>
+
+### chain
 
  英  [tʃeɪn]   美  [tʃen]
 n. 链；束缚；枷锁
@@ -18782,7 +25845,10 @@ These jewels are strung together on a silver chain.
 The chain has fallen foul of some plants in the water.
 锚链与水中的一些植物缠在一起了。
 
-### a necklace<a id="orgheadline805"></a>
+
+<a id="org19d9440"></a>
+
+### a necklace
 
 英  ['neklɪs]   美  ['nɛkləs]
 n. 项链
@@ -18819,7 +25885,10 @@ A diamond necklace adorned her neck.
 The girl blubbered something about a lost necklace.
 那女孩哭诉说丢了项链之类东西。
 
-### gold<a id="orgheadline806"></a>
+
+<a id="org4999667"></a>
+
+### gold
 
 英  [gəʊld]   美  [ɡold]
 n. 金，黄金；金色；金币
@@ -18885,7 +25954,10 @@ The miser gloated over his gold.
 The gold glinted in the sunlight.
 金子在阳光下闪闪发光。
 
-### a jeweler<a id="orgheadline807"></a>
+
+<a id="org5e3abec"></a>
+
+### a jeweler
 
   ['dʒuələ]  美  ['dʒuələ]
 n. 珠宝商；宝石匠；钟表匠；钟表商
@@ -18921,7 +25993,10 @@ I promised my girlfriend a gold necklace for her birthday, but when the jeweler 
 我答应过我的女朋友过生日进送她一条金项链。 可是当珠宝商报出我们看中的那条项链的
 价格时，我低低地打了个长口哨。
 
-### a jewelry store<a id="orgheadline808"></a>
+
+<a id="org537b47d"></a>
+
+### a jewelry store
 
 英  ['dʒuːəlrɪ]  美  ['dʒʊəlri]
 n. 珠宝；珠宝类
@@ -18956,7 +26031,10 @@ The robbers buried the jewelry chest on the mountain.
 They buy jewelry and clothes for themselves with images of cats on them.
 他们为自己购买带有猫咪图象的珠宝饰物和衣服。
 
-### a silver<a id="orgheadline809"></a>
+
+<a id="orga98bade"></a>
+
+### a silver
 
 英  ['sɪlvə]   美  ['sɪlvɚ]
 n. 银；银器；银币；银质奖章；餐具；银灰色
@@ -19016,7 +26094,10 @@ Her teeth were capped with silver.
 The workers parted gold from silver in the workshop.
 在车间里工人们把金子从银子中提炼出来。
 
-### diamond<a id="orgheadline810"></a>
+
+<a id="orged2c24e"></a>
+
+### diamond
 
 英  ['daɪəmənd]  美  ['daɪəmənd]
 n. 钻石，金刚石；菱形；方块牌
@@ -19078,7 +26159,10 @@ It was a large diamond, but it had a flaw.
 The salesman fobbed off an imitation diamond on the lady.
 推销员用欺骗手段把假钻石卖给了这位太太。
 
-### jewels<a id="orgheadline811"></a>
+
+<a id="orgc203726"></a>
+
+### jewels
 
 英   美
 n. 珠宝；[宝] 宝石（jewel的复数形式）
@@ -19122,7 +26206,10 @@ She fondled her jewels.
 I wondered where he got all those jewels. He must have knocked them over.
 我猜测着他在哪儿弄到的那么多珠宝。他一定是偷来的。
 
-### text<a id="orgheadline812"></a>
+
+<a id="org0e9f534"></a>
+
+### text
 
 to be happy
 
@@ -19318,7 +26405,10 @@ sliver earrings with samll diamonds
 
 a golden ring
 
-### a jewelry store<a id="orgheadline813"></a>
+
+<a id="org7f07b37"></a>
+
+### a jewelry store
 
 英  ['dʒuːəlrɪ]  美  ['dʒʊəlri]
 n. 珠宝；珠宝类
@@ -19353,7 +26443,10 @@ The robbers buried the jewelry chest on the mountain.
 They buy jewelry and clothes for themselves with images of cats on them.
 他们为自己购买带有猫咪图象的珠宝饰物和衣服。
 
-### a silver<a id="orgheadline814"></a>
+
+<a id="org2595bbe"></a>
+
+### a silver
 
 英  ['sɪlvə]   美  ['sɪlvɚ]
 n. 银；银器；银币；银质奖章；餐具；银灰色
@@ -19413,7 +26506,10 @@ Her teeth were capped with silver.
 The workers parted gold from silver in the workshop.
 在车间里工人们把金子从银子中提炼出来。
 
-### diamond<a id="orgheadline815"></a>
+
+<a id="org493de80"></a>
+
+### diamond
 
 英  ['daɪəmənd]  美  ['daɪəmənd]
 n. 钻石，金刚石；菱形；方块牌
@@ -19475,7 +26571,10 @@ It was a large diamond, but it had a flaw.
 The salesman fobbed off an imitation diamond on the lady.
 推销员用欺骗手段把假钻石卖给了这位太太。
 
-### jewels<a id="orgheadline816"></a>
+
+<a id="org1b16a8f"></a>
+
+### jewels
 
 英   美
 n. 珠宝；[宝] 宝石（jewel的复数形式）
@@ -19519,7 +26618,10 @@ She fondled her jewels.
 I wondered where he got all those jewels. He must have knocked them over.
 我猜测着他在哪儿弄到的那么多珠宝。他一定是偷来的。
 
-## text<a id="orgheadline818"></a>
+
+<a id="orga174b82"></a>
+
+## text
 
 to be happy
 
@@ -19901,25 +27003,124 @@ loves her.
 Why are there so many people in the jewelry store? In the store there's a sale.
 People are buying jewelry wtih a discount.
 
-# DONE Forty seven<a id="orgheadline857"></a>
 
-## DONE Review 92.5%<a id="orgheadline820"></a>
+<a id="org2a5d912"></a>
 
-## DONE Review 96.9%<a id="orgheadline821"></a>
+## Lesson 46
 
-## DONE Review 96.7%<a id="orgheadline822"></a>
+a necklace a pendant a chain a ring a bracelet earrings
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 四 06:31&gt;</span></span>95%<a id="orgheadline823"></a>
+a jeweler silver jewels gold a jewelry store a diamond
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 五 04:36&gt;</span></span>97%<a id="orgheadline824"></a>
+to give to be happy to marry to court to love to propose
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 五 05:03&gt;</span></span>98.2%<a id="orgheadline825"></a>
+a golden ring
+silver earrings with small diamonds.
+a pendant with a diamond on a golden chair.
+a necklace with jewels.
+a golden necklace with large jewels.
+a silver bracelet
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 09:22&gt;</span></span>98.9%<a id="orgheadline826"></a>
+expensive
+more expensive
+cheap
+cheaper
+bigger
+smaller
 
-## text<a id="orgheadline851"></a>
+Jewelry with diamonds is expensive even with a discount.
+Golden and silver jewelry is very expensive.
+A jeweler makes jewelry with jewels.
+People love to buy golden jewelrty with a discount.
+In the jewelry store there's a sale - there are many shoppers.
+A woman is looking at the jewelry in the jewelry store.
 
-### legs<a id="orgheadline827"></a>
+The man is telling the woman that he loves her. He is proposing to her.
+The man is giving the woman a golden ring because he wants to marry her.
+A woman likes it when she is courted - she loves flowers and jewelry.
+The man is courting the woman - he's giving her flowers and jewelry.
+The man is giving the woman expensive jewelry because he loves her.
+The woman takes the golden ring because she also loves the man.
+
+Women are always happy if they're given flowers and jewels.
+A man is sad if he can't give his wife a golden pendant.
+When a rich man courts a woman, he gives her diamonds.
+When a poor man courts a woman, he gives her flowers.
+The man is giving his wife a golden neaclace with diamonds, so she is happy.
+The woman can't buy a golden bracelet with jewels, so she is sad.
+
+Women love jewels more than flowers.
+There are fewer jewels on the bracelet than on the necklace.
+A woman wears more jewelry in a nightclub than at work.
+Golden jewelry is more expensive than silver jewelry.
+A woman loves to go to a jewelry store more than a market.
+Silver jewelry is less expensive than golden jewelry.
+
+Why is the boyfriend giving his girlfriend a pendant? He's courting her. He
+loves her.
+Why are there so may people in the jewelry store? In the store there's a sale.
+People are buying jewelry with a discount.
+Why is the girl happy? Her dad gives her golden earring. She loves jewelry.
+Why are the boyfriend and girlfriend picking out a ring? They want to marry.
+They love to each other.
+Why are these earrings so expensive? There are very expensive diamonds in them.
+Diamonds is very expensive jewels.
+Why is the woman sad? She can't buy a golden pendant. She has little money.
+
+
+<a id="orgbdfb2ef"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 19:39&gt;</span></span>97.5%
+
+
+<a id="org040e17c"></a>
+
+# Forty seven
+
+
+<a id="org19e0f37"></a>
+
+## Review 92.5%
+
+
+<a id="org64a23f7"></a>
+
+## Review 96.9%
+
+
+<a id="orgfae7252"></a>
+
+## Review 96.7%
+
+
+<a id="orgce272c7"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 06:31&gt;</span></span>95%
+
+
+<a id="org0888834"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 04:36&gt;</span></span>97%
+
+
+<a id="orgf35a49c"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 05:03&gt;</span></span>98.2%
+
+
+<a id="orga892d3a"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 09:22&gt;</span></span>98.9%
+
+
+<a id="orgcabe6c0"></a>
+
+## text
+
+
+<a id="org0efad25"></a>
+
+### legs
 
 英  [leg]   美  [lɛɡ]
 n. 腿；支柱
@@ -19981,7 +27182,10 @@ The dog struck at my leg.
 The doctor knifes carefully along a bone in his leg.
 医生小心地沿着他的一块腿骨用刀切过。
 
-### The chest<a id="orgheadline828"></a>
+
+<a id="org0f80e8b"></a>
+
+### The chest
 
 英  [tʃest]   美  [tʃɛst]
 n. 胸，胸部；衣柜；箱子；金库
@@ -20032,7 +27236,10 @@ She plimmed her chest towards them.
 Help me lift the chest up on the table.
 帮我把这个箱子搭到桌子上。
 
-### arms<a id="orgheadline829"></a>
+
+<a id="orgb50e68f"></a>
+
+### arms
 
 英  [ɑːm]   美  [ɑrm]
 n. 手臂；武器；袖子；装备；部门
@@ -20119,7 +27326,10 @@ He snatched at my arm.
 He dragged at her arm.
 他抓住她的手臂。
 
-### the head<a id="orgheadline830"></a>
+
+<a id="org1c8b417"></a>
+
+### the head
 
 head
  英  [hed]   美  [hɛd]
@@ -20191,7 +27401,10 @@ She banged her head on the low ceiling.
 He blacked out after they hit him on the head.
 他们击打他的头之后，他晕过去了。
 
-### the belly<a id="orgheadline831"></a>
+
+<a id="org40d075e"></a>
+
+### the belly
 
 belly
  英  ['belɪ]   美  ['bɛli]
@@ -20240,7 +27453,10 @@ He played the poor fish until it rolled, belly up, from exhaustion.
 When that happens, no matter what you do, don't pick him up around the belly.
 发生这一切后，不论你做什么，不要抓住他的肚子把他抱起来。
 
-### the mouth<a id="orgheadline832"></a>
+
+<a id="org7b5449d"></a>
+
+### the mouth
 
 mouth
  英  [maʊθ]   美  [maʊθ]
@@ -20329,7 +27545,10 @@ The blood caked around his mouth.
 Her mouth quirked gently.
 她的嘴微微一撇。
 
-### the brain<a id="orgheadline833"></a>
+
+<a id="org66ecb19"></a>
+
+### the brain
 
 brain
  英  [breɪn]   美  [bren]
@@ -20386,7 +27605,10 @@ The difficult question tasked my brain.
 Can your brain absorb all this information?
 你的脑袋能吸收这全部信息吗?
 
-### the teeth<a id="orgheadline834"></a>
+
+<a id="org2682578"></a>
+
+### the teeth
 
 teeth
  英  [tiːθ]   美  [tiθ]
@@ -20425,7 +27647,10 @@ Cavities in teeth are caused by decay.
 The teeth in one wheel engage with those of another.
 一个齿轮的齿与另一齿轮的齿相啮合。
 
-### the lungs<a id="orgheadline835"></a>
+
+<a id="org3a95783"></a>
+
+### the lungs
 
 lungs
  英   美
@@ -20467,7 +27692,10 @@ Blood is aerated with oxygen in the lungs.
 So this had been a trick to lure the tiger from the mountain! Zhu Laogong's lungs nearly burst with rage.
 朱老巩明白过来， 是调虎离山计， 一时气炸了肺。
 
-### the tongue<a id="orgheadline836"></a>
+
+<a id="org8c5662c"></a>
+
+### the tongue
 
 tongue
  英  [tʌŋ]   美  [tʌŋ]
@@ -20572,7 +27800,10 @@ article.yeeyan.org
 Beginning with breakfast, list every food, drink, and snack you consume in the left column.
 从早饭开始，在左面一栏列出你吃的每一样食物、饮料和零食。
 
-### the liver<a id="orgheadline837"></a>
+
+<a id="org05ed16e"></a>
+
+### the liver
 
 liver
  英  ['lɪvə]   美  ['lɪvɚ]
@@ -20622,7 +27853,10 @@ article.yeeyan.org
 Her life was finally extinguished by the onset of liver complaint.
 她的生命之火终因肝病发作而被掐灭了。
 
-### the stomach<a id="orgheadline838"></a>
+
+<a id="orgea57af3"></a>
+
+### the stomach
 
 stomach
  英  ['stʌmək]  美  ['stʌmək]
@@ -20686,13 +27920,25 @@ The blow found his stomach.
 His stomach bulged out over his belt.
 他的肚子在皮带上凸出来。
 
-### to see<a id="orgheadline839"></a>
 
-### to speak<a id="orgheadline840"></a>
+<a id="orgc5540f9"></a>
 
-### to think<a id="orgheadline841"></a>
+### to see
 
-### to bite<a id="orgheadline842"></a>
+
+<a id="org477e635"></a>
+
+### to speak
+
+
+<a id="org375a91b"></a>
+
+### to think
+
+
+<a id="orgd045f8e"></a>
+
+### to bite
 
 bite
  英  [baɪt]   美  [baɪt]
@@ -20794,7 +28040,10 @@ This scar is from the bite of a dog.
 The scored jaws of a vise help it bite the work.
 台钳上有刻痕的虎钳牙帮助它紧咬住工件。
 
-### to breathe<a id="orgheadline843"></a>
+
+<a id="orgcfbba72"></a>
+
+### to breathe
 
 breathe
  英  [briːð]   美  [brið]
@@ -20847,7 +28096,10 @@ They know how to breathe.
 他们知道怎么呼吸。
 article.yeeyan.org
 
-### to chew<a id="orgheadline844"></a>
+
+<a id="org9b186b0"></a>
+
+### to chew
 
 chew
  英  [tʃuː]   美  [tʃʊ]
@@ -20910,9 +28162,15 @@ The greens are full of fibres that you can't chew.
 You must chew your food well before you swallow it.
 你必须先把食物嚼碎再咽下去。
 
-### strong teeth<a id="orgheadline845"></a>
 
-### fragile bones<a id="orgheadline846"></a>
+<a id="org8850367"></a>
+
+### strong teeth
+
+
+<a id="org66f1ecc"></a>
+
+### fragile bones
 
 fragile
  英  ['frædʒaɪl]   美  ['frædʒəl]
@@ -21019,9 +28277,15 @@ The broken bones in his leg soon knitted together.
 After the injury the bones did not articulate as well as before.
 受伤后骨的关节不如以前连接得好。
 
-### strong bones<a id="orgheadline847"></a>
 
-### strong<a id="orgheadline848"></a>
+<a id="org63aa67c"></a>
+
+### strong bones
+
+
+<a id="org353bda6"></a>
+
+### strong
 
 英  [strɒŋ]   美  [strɔŋ]
 adj. 坚强的；强壮的；牢固的；擅长的
@@ -21184,35 +28448,205 @@ Her wrinkles showed up in the strong sunlight.
 Only the chairman's strong control was able to impart some sense of seriousness to the meeting.
 只有主席强有力的掌握会场的能力才能使会议具有某种严肃感。
 
-### fragile<a id="orgheadline849"></a>
 
-### fragile teeth<a id="orgheadline850"></a>
+<a id="org3b0001a"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 03:36&gt;</span></span>97.7%<a id="orgheadline852"></a>
+### fragile
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 二 07:48&gt;</span></span>96.5%<a id="orgheadline853"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 二 14:11&gt;</span></span>97.7%<a id="orgheadline854"></a>
+<a id="orga970b4f"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 二 04:26&gt;</span></span>99.1%<a id="orgheadline855"></a>
+### fragile teeth
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 二 05:46&gt;</span></span>99.6%<a id="orgheadline856"></a>
 
-# DONE Lesson Forty eitht 94.8%<a id="orgheadline893"></a>
+<a id="orgb99c44a"></a>
 
-## DONE Review 92.6%<a id="orgheadline858"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 03:36&gt;</span></span>97.7%
 
-## DONE Review 95%<a id="orgheadline859"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 06:02&gt;</span></span>97.4%<a id="orgheadline860"></a>
+<a id="orgf7f7f3d"></a>
 
-## DONE Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 六 09:02&gt;</span></span>97%<a id="orgheadline861"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 07:48&gt;</span></span>96.5%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 05:33&gt;</span></span>99.1%<a id="orgheadline862"></a>
 
-## text<a id="orgheadline888"></a>
+<a id="org0291eda"></a>
 
-### a sculptor<a id="orgheadline863"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 14:11&gt;</span></span>97.7%
+
+
+<a id="org0dbd098"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 04:26&gt;</span></span>99.1%
+
+
+<a id="org7604de8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 05:46&gt;</span></span>99.6%
+
+
+<a id="org1519ab5"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 11:50&gt;</span></span>96.3%
+
+
+<a id="org74489f5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 05:57&gt;</span></span>97.2%
+
+
+<a id="orgd91bc42"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 14:39&gt;</span></span>97.3%
+
+
+<a id="org3f6208a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 19:14&gt;</span></span>97.6%
+
+
+<a id="orgde6c928"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 13:56&gt;</span></span>97.8%
+
+
+<a id="org0bb914a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 10:26&gt;</span></span>98.1%
+
+
+<a id="orga19138b"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 12:04&gt;</span></span>
+
+
+<a id="orgaf84e2b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 05:56&gt;</span></span>99.1%
+
+
+<a id="org174a89a"></a>
+
+## text
+
+the chest the mouth legs the belly the head arms
+
+the teeth the liver the lungs the tongue the brain the stomach
+
+to breathe to chew  to see  to bite  to speak  to think
+
+strong fragile strong teeth fragile teeth strong borns fragile bones
+
+The brain is in the head.
+
+The lungs and heart are in the chest.
+
+The teeth are in the mouth.
+
+The tongue is in the mouth.
+
+The stomach and liver are in the belly.
+
+In the lungs there is air.
+
+The human and animals breathe with their lungs.
+
+The boy is chewing tough chicken.
+
+The grandmother can't bite a hard apple. She has  fragile teeth.
+
+The girl is biting a big apple with her teeth. She has strong teeth.
+
+The cow is chewing soft grass.
+
+Fish don't breath with lungs. They don't have lungs.
+
+The woman is thinking of what to wear on the walk.
+
+The man is thinking about his beautiful wife.
+
+The man is thinking of how to cook chicken.
+
+The woman is thinking about the warm sea.
+
+The cat is thinking of how to eat the fish.
+
+The students in class are thinking over a hard assignment.
+
+In order to think, you need a brain.
+
+In order to breathe, you need lungs.
+
+In order to bite and chew, you need strong teeth.
+
+In order to speak, you need a tongue.
+
+In order to run, you need legs.
+
+In order to see, you need eyes.
+
+If an old man has heart pain, he takes medicine and goes to a cardiologist.
+
+If a person drinks a lot of strong drinks, his liver hurts.
+
+If a man sees poorly, he goes to an ophthalmologist.
+
+If a person works a lot on the computer, his eyes hurt.
+
+If a person eats a lot, he gets a stomachache.
+
+If a person thinks a lot, he gets a headache.
+
+You shouldn't drink a lot of cold milk, because your throat will hurt.
+
+You shouldn't walk quickly on ice because you can fall and break your leg.
+
+You shouldn't read a book when it's dark because your eyes will hurt.
+
+You shouldn't chew with an open mouth because it's impolite.
+
+You shouldn't drink a lot of beer because your liver will hurt.
+
+You shouldn't eat a lot of pizza because your stomach will hurt.
+
+
+<a id="org8595453"></a>
+
+# Lesson Forty eitht 94.8%
+
+
+<a id="org209de41"></a>
+
+## Review 92.6%
+
+
+<a id="orgf7bdcc3"></a>
+
+## Review 95%
+
+
+<a id="org8b416c0"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 06:02&gt;</span></span>97.4%
+
+
+<a id="org7ec35c5"></a>
+
+## Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 09:02&gt;</span></span>97%
+
+
+<a id="org54d9381"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 05:33&gt;</span></span>99.1%
+
+
+<a id="org9508231"></a>
+
+## text
+
+
+<a id="orga701849"></a>
+
+### a sculptor
 
 sculptor
  英  ['skʌlptə]  美  ['skʌlptɚ]
@@ -21249,7 +28683,10 @@ www.examw.com
 This is what the sculptor must do.
 而雕塑家就必须做到这一点。
 
-### a ballerina<a id="orgheadline864"></a>
+
+<a id="org1f1452e"></a>
+
+### a ballerina
 
 ballerina
  英  [bælə'riːnə]  美  [,bælə'rinə]
@@ -21286,7 +28723,10 @@ article.yeeyan.org
 As a ballerina, to embody the duality of the Swan Queen and the black swan can be a fiendishly difficult task.
 作为一名芭蕾舞女演员，去体现天鹅女王和黑天鹅的两面性可能是一个残忍的困难的任务。
 
-### a poet<a id="orgheadline865"></a>
+
+<a id="orgf011f89"></a>
+
+### a poet
 
 poet
  英  ['pəʊɪt]   美  ['poət]
@@ -21323,9 +28763,15 @@ He is the only poet in this country that deserves the name.
 A poet's work may be potentiated by his experience of war and of suffering.
 诗人对于战争以及苦难的体验会使其作品更有力量。
 
-### an actor<a id="orgheadline866"></a>
 
-### a painter<a id="orgheadline867"></a>
+<a id="org4998ce1"></a>
+
+### an actor
+
+
+<a id="org2136c41"></a>
+
+### a painter
 
 painter
  英  ['peɪntə]  美  ['pentɚ]
@@ -21369,7 +28815,10 @@ The painter lined the silhouette of a girl.
 Don't nibble at your picture if you want to be a painter.
 如果你想成为一名画家，你就不要缩手缩脚地不敢下笔。
 
-### a singer<a id="orgheadline868"></a>
+
+<a id="org086f2e8"></a>
+
+### a singer
 
 singer
  英  ['sɪŋə(r)]   美  ['sɪŋɚ]
@@ -21408,7 +28857,10 @@ The newspaper report twisted what the pop singer had said.
 The girl was beguiled into thinking she could become a famous singer.
 这女孩被诱骗，误以为她能成为一名著名歌唱家。
 
-### paints<a id="orgheadline869"></a>
+
+<a id="orgaada094"></a>
+
+### paints
 
 paints [peints]
 
@@ -21490,7 +28942,10 @@ The boy could not paint on,because his mother wanted him to be a teacher.
 Thoughtless boys defaced the gate of the school with rude message in blue paint.
 轻率的男孩们用蓝油漆在学校大门上涂写了一些粗鲁话。
 
-### wood<a id="orgheadline870"></a>
+
+<a id="orgc0f6d59"></a>
+
+### wood
 
 wood
  英  [wʊd]   美  [wʊd]
@@ -21551,7 +29006,10 @@ Can you knock this nail into the wood?
 This wood burns so quickly that we have to make the fire up every half hour.
 这种木材烧得很快，每半个小时我们就得添加燃料。
 
-### pencial<a id="orgheadline871"></a>
+
+<a id="orga2c7041"></a>
+
+### pencial
 
 pencil
  英  ['pens(ə)l; -sɪl]  美  ['pɛnsl]
@@ -21595,7 +29053,10 @@ Do you usually take notes in class with a pen or pencil?
 You must ink over your signature. Pencil writing is not allowed.
 你必须把签名用墨水描一下。铅笔书写是不允许的。
 
-### canvas<a id="orgheadline872"></a>
+
+<a id="org5e40d98"></a>
+
+### canvas
 
 canvas
  英  ['kænvəs]  美  ['kænvəs]
@@ -21643,7 +29104,10 @@ They toted canvas sacks over their shoulders.
 Starting with paintings like this one, the canvas is the whole object, the whole universe, and there is nothing beyond it.
 从诸如这样的绘画开始，画布就成为一个完整的对象，完整的宇宙，没有任何东西可以超越。
 
-### clay<a id="orgheadline873"></a>
+
+<a id="org648c244"></a>
+
+### clay
 
 clay
  英  [kleɪ]   美  [kle]
@@ -21694,7 +29158,10 @@ Bricks are made from clay.
 He models in clay.
 他用粘土做模型。
 
-### brushes<a id="orgheadline874"></a>
+
+<a id="orgd24f652"></a>
+
+### brushes
 
 brushes
  英   美
@@ -21779,7 +29246,10 @@ Among the program features you should check are the ability to tag resources lik
 您应该检查的程序特性包括标记资源（比如画笔、调色板、渐变色、图层组、画布上文本编
 辑）的能力和新的绘图动力系统。
 
-### to sculpt<a id="orgheadline875"></a>
+
+<a id="org8f98851"></a>
+
+### to sculpt
 
 sculpt
  英  [skʌlpt]   美  [skʌlpt]
@@ -21830,11 +29300,20 @@ article.yeeyan.org
 Willard enters a meditative state in which his heartbeat is slowed, allowing him to reduce hand tremors and sculpt between pulse beats.
 威拉德在创作时接近于冥想状态，脉搏减慢，这使他可以减少手颤，并在心跳间隙进行雕刻。
 
-### to sing<a id="orgheadline876"></a>
 
-### to write<a id="orgheadline877"></a>
+<a id="orgc4b6fa5"></a>
 
-### to carve<a id="orgheadline878"></a>
+### to sing
+
+
+<a id="org5c4facd"></a>
+
+### to write
+
+
+<a id="org5432ee0"></a>
+
+### to carve
 
 carve
  英  [kɑːv]   美  [kɑrv]
@@ -21886,7 +29365,10 @@ article.yeeyan.org
 Your future is like that block of stone, your future has greatness inside it, but you have to carve the greatness out.
 你的未来就像一块石头，你的未来拥有无限可能，但是你需要通过自己的努力将它雕琢出来。
 
-### to dance<a id="orgheadline879"></a>
+
+<a id="org1bb1215"></a>
+
+### to dance
 
 dance
  英  [dɑːns]   美  [dæns]
@@ -21967,7 +29449,10 @@ Will you dance with me?
 They dance in a round.
 他们围成圆圈跳舞。
 
-### to draw<a id="orgheadline880"></a>
+
+<a id="org5d8c360"></a>
+
+### to draw
 
 draw
  英  [drɔː]   美  [drɔ]
@@ -22024,7 +29509,10 @@ www.kfyes.com
 She was unlucky enough to draw kitchen cleanup twice in one week.
 她够倒霉的，在一周内两次抽签得下厨打扫。
 
-### opera<a id="orgheadline881"></a>
+
+<a id="org2d36826"></a>
+
+### opera
 
 opera
  英  ['ɒp(ə)rə]   美  ['ɑprə]
@@ -22072,7 +29560,10 @@ She dialled into the opera broadcast.
 The audience applauded wildly at the end of the opera.
 观众在歌剧结束时狂热地鼓掌喝彩。
 
-### a sculpture<a id="orgheadline882"></a>
+
+<a id="orgced2da4"></a>
+
+### a sculpture
 
 sculpture
  英  ['skʌlptʃə]  美  ['skʌlptʃɚ]
@@ -22117,7 +29608,10 @@ She has built these scraps of metal into a sculpture.
 The ivory Buddha carved by Shen Weizhong, a contemporary Chinese sculptor, is the world's smallest piece of sculpture, its size being just four-fifths that of a grain of rice.
 中国当代雕刻工艺师沈为众雕刻的象牙佛像是世界上最小的雕刻。 这个象牙佛像只有一粒米的五分之四大。
 
-### poems<a id="orgheadline883"></a>
+
+<a id="org82af39f"></a>
+
+### poems
 
 poems
  英   美  ['poɪm]
@@ -22154,7 +29648,10 @@ It is very interesting to read poems around in the class.
 This collection is made up of three parts: poems, essays and short stories.
 这本集子是由诗、散文和短篇小说三部分组合而成的。
 
-### ballet<a id="orgheadline884"></a>
+
+<a id="org66492fe"></a>
+
+### ballet
 
 ballet
  英  ['bæleɪ; -lɪ]  美  [bæ'le]
@@ -22198,9 +29695,15 @@ She danced the principal role in the ballet.
 Ballet dancers practise their skill every day.
 芭蕾舞演员每天练功。
 
-### painting<a id="orgheadline885"></a>
 
-### a museum<a id="orgheadline886"></a>
+<a id="org538cffc"></a>
+
+### painting
+
+
+<a id="orgcc81978"></a>
+
+### a museum
 
 museum
  英  [mjuː'zɪəm]  美  [mju'ziəm]
@@ -22242,7 +29745,10 @@ Someone stole a painting from the museum.
 As the guide was showing us round the museum, two or three foreign tourists joined themselves on to our party.
 导游领着我们参观博物馆时， 有两三个外国游客也加入了我们的行列。
 
-### a famous  painting hangs in a museum.<a id="orgheadline887"></a>
+
+<a id="org7e48063"></a>
+
+### a famous  painting hangs in a museum.
 
 a great singer
 
@@ -22395,34 +29901,201 @@ If there are many paintings in a room, it's a museum.
 
 If they dance in the theater, it's ballet.
 
-## DONE Revew<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-10 一 20:27&gt;</span></span>95.7%<a id="orgheadline889"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 二 06:15&gt;</span></span>97.5%<a id="orgheadline890"></a>
+<a id="org99ada8f"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 一 20:45&gt;</span></span>98.9%<a id="orgheadline891"></a>
+## Revew<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-10 Mon 20:27&gt;</span></span>95.7%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 二 03:59&gt;</span></span>99.5%<a id="orgheadline892"></a>
 
-# DONE Forty nine 96.3%<a id="orgheadline923"></a>
+<a id="org7ced958"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 06:15&gt;</span></span>97.5%
+
+
+<a id="org986ac3b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 20:45&gt;</span></span>98.9%
+
+
+<a id="org3c87e52"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 03:59&gt;</span></span>99.5%
+
+
+<a id="org1b59d2c"></a>
+
+## Revew<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 07:31&gt;</span></span>96.6%
+
+
+<a id="orgfeb384c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 10:19&gt;</span></span>97.6%
+
+
+<a id="orgb4b5b14"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 18:27&gt;</span></span>98.9%
+
+
+<a id="org1645c4e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 21:02&gt;</span></span>98.5
+
+
+<a id="org27659f4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 07:09&gt;</span></span>99.4%
+
+
+<a id="orgce80096"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 08:40&gt;</span></span>
+
+
+<a id="org83dc3ec"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 09:53&gt;</span></span>99.8%
+
+
+<a id="orgc2c055e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 05:32&gt;</span></span>98.8%
+
+
+<a id="orgdb653af"></a>
+
+## Lesson forty eight
+
+a ballerina an actor a poet a sculptor a singer a painter
+
+clay canvas a pencil wood paints brushes
+
+to dance to sculpt to sing to carve to draw to write
+
+a sculpture ballet painting a museum opera poems
+
+A famous painting hangs in a museum.
+
+a famous painting
+
+a great ballerina
+
+A great ballerina dances on stage.
+
+A great singer sings on stage.
+
+A great singer.
+
+The great poet is reading his poems.
+
+The spectators in the theater are listening to an opera.
+
+A painter paints on canvas.
+
+A sculptor sculpts a sculpture.
+
+The spectators in the theater are watching a bellet.
+
+A poet writes poems.
+
+A girl cuts a doll out of paper.
+
+A painter needs paints and brushes in order to paint paintings.
+
+People sculpt clay and cut paper.
+
+The girl sculpts a bear out of clay.
+
+A poet needs a pencil and paper in order to write poems.
+
+White paper and yellow clay
+
+Painting on canvas is more difficult than drawing on paper.
+
+To carve wood is difficult.
+
+Cutting paper is easier than sculpting clay.
+
+To sculpt clay is easy.
+
+Carving wood is more difficult than sculpting clay.
+
+Writing poems is more difficult than writing a letter.
+
+This toy is made out of wood.
+
+This is a famous sculpture by a great sculptor.
+
+This is a famous painting by a great artist.
+
+This is a big stone for a sculpture.
+
+These dishes are made out of clay.
+
+This is a big canvas for a painting.
+
+What does a poet do? He writes poems.
+
+What does a ballerina do? She dances on stage.
+
+What is this woman doing? She's sculpting a toy.
+
+What does a sculptor do? He sculpts clay.
+
+What is the grandfather doing? He's carving dishes out of wood.
+
+What does a singer do? He sings in the opera.
+
+If there are many paintings in a room, it's a museum.
+
+If a ballerina dances very beautifully, she's a great ballerina.
+
+If they sing in the theater, it's opera.
+
+If a painter paints very beautifully, he's a great painter.
+
+If there are many sculptures in a room, it's also a museum.
+
+If they dance in the theater, it's ballet.
+
+
+<a id="orgb2d9553"></a>
+
+# Forty nine 96.3%
 
 :LO
 
 GBOOK:
 
--   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-08-14 日 06:43]</span></span>
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-08-14 Sun 06:43]</span></span>
 
--   State "STARTED"    from "DONE"       <span class="timestamp-wrapper"><span class="timestamp">[2016-08-14 日 06:20]</span></span>
--   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-08-14 日 05:29]</span></span>
+-   State "STARTED"    from "DONE"       <span class="timestamp-wrapper"><span class="timestamp">[2016-08-14 Sun 06:20]</span></span>
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-08-14 Sun 05:29]</span></span>
 
-## DONE Review 94.7%<a id="orgheadline894"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 04:17&gt;</span></span>96%<a id="orgheadline895"></a>
+<a id="org830106a"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 四 04:46&gt;</span></span>99.0%<a id="orgheadline896"></a>
+## Review 94.7%
 
-## text<a id="orgheadline907"></a>
 
-### a capital<a id="orgheadline897"></a>
+<a id="org9c9142b"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 04:17&gt;</span></span>96%
+
+
+<a id="orgcffe261"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 04:46&gt;</span></span>99.0%
+
+
+<a id="org774579a"></a>
+
+## text
+
+
+<a id="org4190b1f"></a>
+
+## a capital
 
 英  ['kæpɪt(ə)l]   美  ['kæpɪtl]
 n. 首都，省会；资金；大写字母；资本家
@@ -22495,7 +30168,10 @@ All our capital is locked up in that enterprise.
 I remember meeting you one evening at the Capital Theatre.
 我记得有一天晚上在首都剧场遇到你。
 
-### an emblem<a id="orgheadline898"></a>
+
+<a id="org6cc305e"></a>
+
+## an emblem
 
 英  ['embləm]  美  ['ɛmbləm]
 n. 象征；徽章；符号
@@ -22540,9 +30216,15 @@ www.who.int
 But no government wants to see the tiger, an emblem of India, go extinct on its watch.
 但是没有哪届政府希望看到印度的象征之物——老虎在其任期内灭绝。
 
-### a building<a id="orgheadline899"></a>
 
-### a flag<a id="orgheadline900"></a>
+<a id="org065a0c8"></a>
+
+### a building
+
+
+<a id="orga8376b9"></a>
+
+### a flag
 
 英  [flæg]   美  [flæg]
 vi. 标记；衰退；枯萎
@@ -22601,7 +30283,10 @@ We draped the flag round the coffin.
 You can get anything of these prizes,if you can string this flag up on the top of the flagpole.
 如果你能把这面旗子挂到旗杆顶部，你就可以拿这些奖品中的任何一件。
 
-### a country<a id="orgheadline901"></a>
+
+<a id="orgcc95146"></a>
+
+### a country
 
 英  ['kʌntrɪ]   美  ['kʌntri]
 n. 国家，国土；国民；乡下，农村；乡村；故乡
@@ -22665,9 +30350,15 @@ These soldiers deserved well of their country.
 They contracted an alliance with another country.
 他们与另外一个国家结成了同盟。
 
-### a city<a id="orgheadline902"></a>
 
-### a government<a id="orgheadline903"></a>
+<a id="org04313f1"></a>
+
+### a city
+
+
+<a id="org9e780a3"></a>
+
+### a government
 
 英  ['gʌv(ə)n,m(ə)nt; 'gʌvəm(ə)nt]  美  ['ɡʌvɚnmənt]
 n. 政府；政体；管辖
@@ -22715,7 +30406,10 @@ Her special job is to liaise with government officials.
 Every member of the government plumped for the premier’s new suggestion.
 政府每一位成员都坚决支持总理的新建议。
 
-### a president<a id="orgheadline904"></a>
+
+<a id="orgae451bc"></a>
+
+### a president
 
 president
  英  ['prezɪd(ə)nt]  美  ['prɛzɪdənt]
@@ -22761,7 +30455,10 @@ They divested the president of all his power.
 The president and some governors have the power to kill a bill by pocketing it.
 总统和一些省长有权用不予签署的办法否决一项议案。
 
-### a citizen<a id="orgheadline905"></a>
+
+<a id="org58a3bc0"></a>
+
+### a citizen
 
 英  ['sɪtɪz(ə)n]  美  ['sɪtɪzn]
 n. 公民；市民；老百姓
@@ -22809,13 +30506,19 @@ bbs.24en.com
 And it should mean something to every member of Congress and every citizen.
 它应该对国会每一个成员和每一个市民都有意义。
 
-### a government building<a id="orgheadline906"></a>
+
+<a id="orgcce3172"></a>
+
+### a government building
 
 This woman is a citizen.
 
 citizens
 
-## to run<a id="orgheadline909"></a>
+
+<a id="orgf0a0f6c"></a>
+
+### to run
 
 to obey the law
 
@@ -22841,95 +30544,98 @@ Every country has a national emblem.
 
 The government issurs laws.
 
-### issue<a id="orgheadline908"></a>
+1.  issue
 
- 英  ['ɪʃuː; 'ɪsjuː]  美  ['ɪʃu]
-n. 问题；流出；期号；发行物
-vt. 发行，发布；发给；放出，排出
-vi. 发行；流出；造成…结果；传下
- 柯林斯英汉双解大词典  21世纪大英汉词典
+     英  ['ɪʃuː; 'ɪsjuː]  美  ['ɪʃu]
+    n. 问题；流出；期号；发行物
+    vt. 发行，发布；发给；放出，排出
+    vi. 发行；流出；造成…结果；传下
+     柯林斯英汉双解大词典  21世纪大英汉词典
+    
+    issue *ˈɪʃjuː*  CET4 TEM4
+    N-COUNT An issue is an important subject that people are arguing about or discussing. 议题
+    例：
+    Agents will raise the issue of prize-money for next year's world championships.
+    代理商们会提出明年世界锦标赛的奖金问题。
+    例：
+    A key issue for higher education in the 1990s is the need for greater diversity of courses.
+    20世纪90年代高等教育的一个关键问题是需要使课程更加多样化。
+    N-SING If something is the issue, it is the thing you consider to be the most important part of a situation or discussion. 要点
+    例：
+    I was earning a lot of money, but that was not the issue.
+    我是挣着很多钱，但那不是问题的关键。
+    例：
+    Do not draw it on the chart, however, as this will confuse the issue.
+    但是不要把它画在图表上，因为这将使要点模糊不清。
+    N-COUNT An issue of something such as a magazine or newspaper is the version of it that is published, for example, in a particular month or on a particular day. (杂志或报刊的) 期
+    例：
+    The growing problem is underlined in the latest issue of the Scientific American.
+    这一日益严重的问题在最新一期的《科学美国人》上得到强调。
+    V-T If you issue a statement or a warning, you make it known formally or publicly. 发表 (声明); 发出 (警告)
+    例：
+    Last night he issued a statement denying the allegations.
+    昨天晚上，他发表了一项声明否认那些说法。
+    例：
+    The government issued a warning that the strikers should end their action or face dismissal.
+    该政府发出了警告，罢工者们应停止他们的行动，否则将被免职。
+    V-T If you are issued with something, it is officially given to you. 分发
+    例：
+    On your appointment you will be issued with a written statement of particulars of employment.
+    你上任时会收到一份聘用细则的书面材料。
+    N-UNCOUNT Issue is also a noun. 分发
+    例：
+    &#x2026;a standard army issue rifle.
+    …一支标准的军队配发的步枪。
+    PHRASE The question or point at issue is the question or point that is being argued about or discussed. 争论中的
+    例：
+    The problems of immigration were not the question at issue.
+    移民问题不在争论之列。
+    PHRASE If you make an issue of something, you try to make other people think about it or discuss it, because you are concerned or annoyed about it. 挑起对…的争论
+    例：
+    It seemed the Colonel had no desire to make an issue of the affair.
+    那位上校似乎不愿挑起对此事的争论。
+    PHRASE If you take issue with someone or something they said, you disagree with them, and start arguing about it. 对…持异议
+    例：
+    I will not take issue with the fact that we have a recession.
+    我不会对我们经历经济衰退这一事实表示异议。
+    PHRASE If someone has issues with a particular aspect of their life, they have problems connected with it. 有…方面的问题
+    例：
+    Once you have issues with food, you're going to have them for the rest of your life.
+    一旦你在食物方面有问题，你以后的生活中就一直会有这样的问题。
+    网络释义 专业释义 英英释义
+    
+     发行
+     问题
+     发出
+     一期
+    短语
+    Bonus issue 派送红股
+    Bonus issue 红股发行
+    Bonus issue 派送股份
+    Bonus issue 发放红利股
+    rights issue 供股
+      更多结果
+    词组短语 同近义词 同根词
+    
+    issue in v. 导致
+    new issue n. 新发行的证券
+    key issue 关键议题
+    in the issue 结果，终于
+    make an issue 制造争端；引起争论
+      更多词组短语
+    双语例句 原声例句 权威例句
+    
+    The king adventured his crown upon the issue.
+    国王在此问题上拿他的王冠冒险。
+    His ideas and mine jump together on this issue.
+    在这个问题上，他和我的意见完全一致。
+    I suggest that you keep off political issue in negotiations with them.
+    我建议你在与他们谈判时避开政治问题。
 
-issue *ˈɪʃjuː*  CET4 TEM4
-N-COUNT An issue is an important subject that people are arguing about or discussing. 议题
-例：
-Agents will raise the issue of prize-money for next year's world championships.
-代理商们会提出明年世界锦标赛的奖金问题。
-例：
-A key issue for higher education in the 1990s is the need for greater diversity of courses.
-20世纪90年代高等教育的一个关键问题是需要使课程更加多样化。
-N-SING If something is the issue, it is the thing you consider to be the most important part of a situation or discussion. 要点
-例：
-I was earning a lot of money, but that was not the issue.
-我是挣着很多钱，但那不是问题的关键。
-例：
-Do not draw it on the chart, however, as this will confuse the issue.
-但是不要把它画在图表上，因为这将使要点模糊不清。
-N-COUNT An issue of something such as a magazine or newspaper is the version of it that is published, for example, in a particular month or on a particular day. (杂志或报刊的) 期
-例：
-The growing problem is underlined in the latest issue of the Scientific American.
-这一日益严重的问题在最新一期的《科学美国人》上得到强调。
-V-T If you issue a statement or a warning, you make it known formally or publicly. 发表 (声明); 发出 (警告)
-例：
-Last night he issued a statement denying the allegations.
-昨天晚上，他发表了一项声明否认那些说法。
-例：
-The government issued a warning that the strikers should end their action or face dismissal.
-该政府发出了警告，罢工者们应停止他们的行动，否则将被免职。
-V-T If you are issued with something, it is officially given to you. 分发
-例：
-On your appointment you will be issued with a written statement of particulars of employment.
-你上任时会收到一份聘用细则的书面材料。
-N-UNCOUNT Issue is also a noun. 分发
-例：
-&#x2026;a standard army issue rifle.
-…一支标准的军队配发的步枪。
-PHRASE The question or point at issue is the question or point that is being argued about or discussed. 争论中的
-例：
-The problems of immigration were not the question at issue.
-移民问题不在争论之列。
-PHRASE If you make an issue of something, you try to make other people think about it or discuss it, because you are concerned or annoyed about it. 挑起对…的争论
-例：
-It seemed the Colonel had no desire to make an issue of the affair.
-那位上校似乎不愿挑起对此事的争论。
-PHRASE If you take issue with someone or something they said, you disagree with them, and start arguing about it. 对…持异议
-例：
-I will not take issue with the fact that we have a recession.
-我不会对我们经历经济衰退这一事实表示异议。
-PHRASE If someone has issues with a particular aspect of their life, they have problems connected with it. 有…方面的问题
-例：
-Once you have issues with food, you're going to have them for the rest of your life.
-一旦你在食物方面有问题，你以后的生活中就一直会有这样的问题。
-网络释义 专业释义 英英释义
 
- 发行
- 问题
- 发出
- 一期
-短语
-Bonus issue 派送红股
-Bonus issue 红股发行
-Bonus issue 派送股份
-Bonus issue 发放红利股
-rights issue 供股
-  更多结果
-词组短语 同近义词 同根词
+<a id="org7311a95"></a>
 
-issue in v. 导致
-new issue n. 新发行的证券
-key issue 关键议题
-in the issue 结果，终于
-make an issue 制造争端；引起争论
-  更多词组短语
-双语例句 原声例句 权威例句
-
-The king adventured his crown upon the issue.
-国王在此问题上拿他的王冠冒险。
-His ideas and mine jump together on this issue.
-在这个问题上，他和我的意见完全一致。
-I suggest that you keep off political issue in negotiations with them.
-我建议你在与他们谈判时避开政治问题。
-
-## The government is located in the capital.<a id="orgheadline911"></a>
+### The government is located in the capital.
 
 A president is the main person in the government.
 
@@ -22965,176 +30671,182 @@ The police control law enforcement.
 
 The police ensure peace on the streets.
 
-### ensure<a id="orgheadline910"></a>
+1.  ensure
 
- 英  [ɪn'ʃɔː; -'ʃʊə; en-]   美  [ɪn'ʃʊr]
-vt. 保证，确保；使安全
- 柯林斯英汉双解大词典  21世纪大英汉词典
+     英  [ɪn'ʃɔː; -'ʃʊə; en-]   美  [ɪn'ʃʊr]
+    vt. 保证，确保；使安全
+     柯林斯英汉双解大词典  21世纪大英汉词典
+    
+    ensure *ɛnˈʃʊə*  CET4 TEM4
+    V-T To ensure something, or to ensure that something happens, means to make certain that it happens. 确保
+    例：
+    We must ensure that all patients have access to high quality care.
+    我们必须确保所有的病人都能够得到高质量的护理。
+    网络释义 专业释义 英英释义
+    
+     确保
+     保证
+     担保
+     保护
+    短语
+    to ensure 确保
+    to ensure 保证
+    to ensure 表示目的
+    to ensure 以保证
+    Ensure health 确保健康
+      更多结果
+    词组短语 同近义词
+    
+    ensure public security 保安
+    ensure from v. 保护
+    双语例句 原声例句 权威例句
+    
+    I cannot ensure his being on time.
+    我不能保证他会准时。
+    We ensure that the work shall be done in the right way.
+    我们保证把这项工作做好。
+    www.kfyes.com
+    In order to ensure success we must have a complete and thorough plan.
+    为了保证成功， 我们必须要有一个周密的计划。
 
-ensure *ɛnˈʃʊə*  CET4 TEM4
-V-T To ensure something, or to ensure that something happens, means to make certain that it happens. 确保
-例：
-We must ensure that all patients have access to high quality care.
-我们必须确保所有的病人都能够得到高质量的护理。
-网络释义 专业释义 英英释义
 
- 确保
- 保证
- 担保
- 保护
-短语
-to ensure 确保
-to ensure 保证
-to ensure 表示目的
-to ensure 以保证
-Ensure health 确保健康
-  更多结果
-词组短语 同近义词
+<a id="orga231cd7"></a>
 
-ensure public security 保安
-ensure from v. 保护
-双语例句 原声例句 权威例句
+### A weak government doesn't ensure peace in the country.
 
-I cannot ensure his being on time.
-我不能保证他会准时。
-We ensure that the work shall be done in the right way.
-我们保证把这项工作做好。
-www.kfyes.com
-In order to ensure success we must have a complete and thorough plan.
-为了保证成功， 我们必须要有一个周密的计划。
+1.  weak
 
-## A weak government doesn't ensure peace in the country.<a id="orgheadline913"></a>
+     英  [wiːk]   美  [wik]
+    adj. [经] 疲软的；虚弱的；无力的；不牢固的
+     柯林斯英汉双解大词典  21世纪大英汉词典
+    
+    weak *wiːk*  CET4 TEM4
+    ADJ If someone is weak, they are not healthy or do not have good muscles, so that they cannot move quickly or carry heavy things. 虚弱的
+    例：
+    I was too weak to move or think or speak.
+    我太虚弱了，不能动、不能思维、不能说话。
+    ADV 虚弱地
+    例：
+    "I'm all right," Max said weakly, but his breathing came in jagged gasps.
+    “我没事，”马克斯虚弱地说，但是他呼吸艰难，长短不均。
+    ADJ If someone has an organ or sense that is weak, it is not very effective or powerful, or is likely to fail. (人的器官、感官) 衰弱的
+    例：
+    She tired easily and had a weak heart.
+    她容易疲劳，心脏也比较弱。
+    ADJ If you describe someone as weak, you mean that they are not very confident or determined, so that they are often frightened or worried, or easily influenced by other people. 懦弱的
+    例：
+    He was a nice doctor, but a weak man who wasn't going to stick his neck out.
+    他是个好医生，但为人懦弱，遇事不敢出头。
+    N-UNCOUNT 懦弱
+    例：
+    Many people felt that admitting to stress was a sign of weakness.
+    很多人认为，承认压力是懦弱的表现。
+    ADJ If you describe someone's voice or smile as weak, you mean that it not very loud or big, suggesting that the person lacks confidence, enthusiasm, or physical strength. (声音、微笑等) 微弱的
+    例：
+    His weak voice was almost inaudible.
+    他声音微弱得几乎听不到。
+    ADV 微弱地
+    例：
+    He smiled weakly at reporters.
+    他朝记者们淡淡一笑。
+    ADJ If an object or surface is weak, it breaks easily and cannot support a lot of weight or resist a lot of strain. 易碎的; 薄弱的
+    例：
+    The owner said the bird may have escaped through a weak spot in the aviary.
+    主人说那只鸟可能是从鸟舍的一个薄弱处逃出去的。
+    ADV A weak physical force does not have much power or intensity. (力量) 微弱的
+    例：
+    The molecules in regular liquids are held together by relatively weak bonds.
+    常规液体中的分子被相对较弱的结合物聚合在一起。
+    例：
+    Strong winds can turn boats when the tide is weak.
+    潮汐微弱时，强风可以掀翻船只。
+    ADV 微弱地
+    例：
+    The mineral is weakly magnetic.
+    这种矿石有轻微的磁性。
+    ADJ If individuals or groups are weak, they do not have any power or influence. (个人或团体) 弱小的; 缺少力量和影响力的
+    例：
+    The council was too weak to do anything about it.
+    理事会软弱无能，对此无能为力。
+    N-PLURAL The weak are people who are weak. 弱势群体
+    例：
+    He voiced his solidarity with the weak and defenseless.
+    他表示自己站在弱势无助群体一边。
+    N-UNCOUNT 软弱无能
+    例：
+    It made me feel patronized, in a position of weakness.
+    这让我感到受惠于人，处于弱势。
+    ADJ A weak government or leader does not have much control, and is not prepared or able to act firmly or severely. (政府或领导人) 软弱无力的
+    例：
+    The changes come after mounting criticism that the government is weak and indecisive.
+    随着对政府软弱无能、优柔寡断的批评不断高涨，情况终于有了变化。
+    ADV 软弱无力地
+    例：
+    &#x2026;the weakly-led movement for reform.
+    …领导乏力的改革运动。
+    ADJ If you describe something such a country's currency, economy, industry, or government as weak, you mean that it is not successful, and may be likely to fail or collapse. (货币、经济、工业、政府等) 疲软的
+    例：
+    The weak dollar means American goods are relative bargains for foreigners.
+    美元疲软意味着美国产品对外国顾客来说是相对便宜的。
+    N-UNCOUNT 疲软
+    例：
+    The weakness of his regime is showing more and more.
+    他政权的疲弱性日益显露。
+    ADJ If something such as an argument or case is weak, it is not convincing or there is little evidence to support it. (论点) 没有说服力的; (案例) 缺少证据的
+    例：
+    Do you think the prosecution made any particular errors, or did they just have a weak case?
+    你认为控方是真的出了纰漏，还是只是证据不足？
+    ADV 没有说服力地
+    例：
+    Bush listened to that statement and responded rather weakly.
+    布什听了那个声明，做的回应却相当没有说服力。
+    ADJ A weak drink, chemical, or drug contains very little of a particular substance, for example, because a lot of water has been added to it. 稀薄的
+    例：
+    Grace poured a cup of weak tea.
+    格莱斯倒了一杯淡茶。
+    ADJ Your weak points are the qualities or talents you do not possess, or the things you are not very good at. 弱的
+    例：
+    Geography was my weak subject.
+    地理课是我的弱项。
+    N-VAR 弱点
+    例：
+    His only weakness is his temperament.
+    他惟一的弱点是他的脾气。
+    → see also weakness
+    网络释义 专业释义 英英释义
+    
+     虚弱的
+     弱的
+     薄弱
+     弱者
+    短语
+    weak acid 弱酸
+    weak acid 弱酸盐
+    weak acid 弱酸性
+    weak acid 弱酸类
+    Weak isospin 弱同位旋
+      更多结果
+    词组短语 同近义词 同根词
+    
+    weak point 弱点（心理或身体上的残疾）；缺点
+    weak link 薄弱环节；弱键
+    weak force 弱作用力；弱核力；弱相互作用
+    weak acid 弱酸
+    weak rock 软弱岩石
+      更多词组短语
+    双语例句 原声例句 权威例句
+    
+    She is not so weak as she looks.
+    她并不像看上去那么虚弱。
+    She was very weak after haemorrhaging.
+    大出血后她的身体十分虚弱。
+    He picked himself up and walked on with weak knees.
+    他站了起来，双膝无力地继续向前走。
 
-### weak<a id="orgheadline912"></a>
 
- 英  [wiːk]   美  [wik]
-adj. [经] 疲软的；虚弱的；无力的；不牢固的
- 柯林斯英汉双解大词典  21世纪大英汉词典
+<a id="org08ae6cb"></a>
 
-weak *wiːk*  CET4 TEM4
-ADJ If someone is weak, they are not healthy or do not have good muscles, so that they cannot move quickly or carry heavy things. 虚弱的
-例：
-I was too weak to move or think or speak.
-我太虚弱了，不能动、不能思维、不能说话。
-ADV 虚弱地
-例：
-"I'm all right," Max said weakly, but his breathing came in jagged gasps.
-“我没事，”马克斯虚弱地说，但是他呼吸艰难，长短不均。
-ADJ If someone has an organ or sense that is weak, it is not very effective or powerful, or is likely to fail. (人的器官、感官) 衰弱的
-例：
-She tired easily and had a weak heart.
-她容易疲劳，心脏也比较弱。
-ADJ If you describe someone as weak, you mean that they are not very confident or determined, so that they are often frightened or worried, or easily influenced by other people. 懦弱的
-例：
-He was a nice doctor, but a weak man who wasn't going to stick his neck out.
-他是个好医生，但为人懦弱，遇事不敢出头。
-N-UNCOUNT 懦弱
-例：
-Many people felt that admitting to stress was a sign of weakness.
-很多人认为，承认压力是懦弱的表现。
-ADJ If you describe someone's voice or smile as weak, you mean that it not very loud or big, suggesting that the person lacks confidence, enthusiasm, or physical strength. (声音、微笑等) 微弱的
-例：
-His weak voice was almost inaudible.
-他声音微弱得几乎听不到。
-ADV 微弱地
-例：
-He smiled weakly at reporters.
-他朝记者们淡淡一笑。
-ADJ If an object or surface is weak, it breaks easily and cannot support a lot of weight or resist a lot of strain. 易碎的; 薄弱的
-例：
-The owner said the bird may have escaped through a weak spot in the aviary.
-主人说那只鸟可能是从鸟舍的一个薄弱处逃出去的。
-ADV A weak physical force does not have much power or intensity. (力量) 微弱的
-例：
-The molecules in regular liquids are held together by relatively weak bonds.
-常规液体中的分子被相对较弱的结合物聚合在一起。
-例：
-Strong winds can turn boats when the tide is weak.
-潮汐微弱时，强风可以掀翻船只。
-ADV 微弱地
-例：
-The mineral is weakly magnetic.
-这种矿石有轻微的磁性。
-ADJ If individuals or groups are weak, they do not have any power or influence. (个人或团体) 弱小的; 缺少力量和影响力的
-例：
-The council was too weak to do anything about it.
-理事会软弱无能，对此无能为力。
-N-PLURAL The weak are people who are weak. 弱势群体
-例：
-He voiced his solidarity with the weak and defenseless.
-他表示自己站在弱势无助群体一边。
-N-UNCOUNT 软弱无能
-例：
-It made me feel patronized, in a position of weakness.
-这让我感到受惠于人，处于弱势。
-ADJ A weak government or leader does not have much control, and is not prepared or able to act firmly or severely. (政府或领导人) 软弱无力的
-例：
-The changes come after mounting criticism that the government is weak and indecisive.
-随着对政府软弱无能、优柔寡断的批评不断高涨，情况终于有了变化。
-ADV 软弱无力地
-例：
-&#x2026;the weakly-led movement for reform.
-…领导乏力的改革运动。
-ADJ If you describe something such a country's currency, economy, industry, or government as weak, you mean that it is not successful, and may be likely to fail or collapse. (货币、经济、工业、政府等) 疲软的
-例：
-The weak dollar means American goods are relative bargains for foreigners.
-美元疲软意味着美国产品对外国顾客来说是相对便宜的。
-N-UNCOUNT 疲软
-例：
-The weakness of his regime is showing more and more.
-他政权的疲弱性日益显露。
-ADJ If something such as an argument or case is weak, it is not convincing or there is little evidence to support it. (论点) 没有说服力的; (案例) 缺少证据的
-例：
-Do you think the prosecution made any particular errors, or did they just have a weak case?
-你认为控方是真的出了纰漏，还是只是证据不足？
-ADV 没有说服力地
-例：
-Bush listened to that statement and responded rather weakly.
-布什听了那个声明，做的回应却相当没有说服力。
-ADJ A weak drink, chemical, or drug contains very little of a particular substance, for example, because a lot of water has been added to it. 稀薄的
-例：
-Grace poured a cup of weak tea.
-格莱斯倒了一杯淡茶。
-ADJ Your weak points are the qualities or talents you do not possess, or the things you are not very good at. 弱的
-例：
-Geography was my weak subject.
-地理课是我的弱项。
-N-VAR 弱点
-例：
-His only weakness is his temperament.
-他惟一的弱点是他的脾气。
-→ see also weakness
-网络释义 专业释义 英英释义
-
- 虚弱的
- 弱的
- 薄弱
- 弱者
-短语
-weak acid 弱酸
-weak acid 弱酸盐
-weak acid 弱酸性
-weak acid 弱酸类
-Weak isospin 弱同位旋
-  更多结果
-词组短语 同近义词 同根词
-
-weak point 弱点（心理或身体上的残疾）；缺点
-weak link 薄弱环节；弱键
-weak force 弱作用力；弱核力；弱相互作用
-weak acid 弱酸
-weak rock 软弱岩石
-  更多词组短语
-双语例句 原声例句 权威例句
-
-She is not so weak as she looks.
-她并不像看上去那么虚弱。
-She was very weak after haemorrhaging.
-大出血后她的身体十分虚弱。
-He picked himself up and walked on with weak knees.
-他站了起来，双膝无力地继续向前走。
-
-## A weak government doesn't ensure peace in the country.<a id="orgheadline914"></a>
+### A weak government doesn't ensure peace in the country.
 
 A strong country controls week countries.
 
@@ -23168,31 +30880,218 @@ A child shouldn't drive a car.
 
 A child should help his parents.
 
-## DONE Review Forty nine 95.3%<a id="orgheadline915"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 04:34&gt;</span></span>98.7%<a id="orgheadline916"></a>
+<a id="org762ab6a"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 六 14:17&gt;</span></span>95.1%<a id="orgheadline917"></a>
+## Review Forty nine 95.3%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 六 19:18&gt;</span></span>97.1%<a id="orgheadline918"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 六 20:27&gt;</span></span>96.7%<a id="orgheadline919"></a>
+<a id="org66ace8f"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 日 06:08&gt;</span></span>97.7%<a id="orgheadline920"></a>
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 04:34&gt;</span></span>98.7%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 一 07:32&gt;</span></span>98.5%<a id="orgheadline921"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 一 19:11&gt;</span></span>99.3%<a id="orgheadline922"></a>
+<a id="org418c1ba"></a>
 
-# DONE Fifty 95.0%<a id="orgheadline936"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 14:17&gt;</span></span>95.1%
 
-## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 12:11&gt;</span></span>98.8%<a id="orgheadline924"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 日 18:39&gt;</span></span>99.2%<a id="orgheadline925"></a>
+<a id="orgb3441f3"></a>
 
-## DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 一 02:20&gt;</span></span>99.1%<a id="orgheadline926"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 19:18&gt;</span></span>97.1%
 
-## text<a id="orgheadline927"></a>
+
+<a id="org841a841"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 20:27&gt;</span></span>96.7%
+
+
+<a id="org824c075"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 06:08&gt;</span></span>97.7%
+
+
+<a id="org6792d66"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 07:32&gt;</span></span>98.5%
+
+
+<a id="org5f77072"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 19:11&gt;</span></span>99.3%
+
+
+<a id="org45f7799"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 11:13&gt;</span></span>96.2%
+
+
+<a id="orgaadfafa"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 12:18&gt;</span></span>97.8%
+
+
+<a id="orgb9b7ec3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 20:29&gt;</span></span>98.1%
+
+
+<a id="orgfd637da"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 06:24&gt;</span></span>98.5%
+
+
+<a id="orgba0083d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 20:22&gt;</span></span>98.6%
+
+
+<a id="orgc89ed84"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 09:59&gt;</span></span>98.5%
+
+
+<a id="orgf8311c8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 17:25&gt;</span></span>98.8%
+
+
+<a id="org8b0f498"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 17:52&gt;</span></span>99.3%
+
+
+<a id="orgb939381"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 21:10&gt;</span></span>96.5%
+
+
+<a id="org9978d5a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 20:29&gt;</span></span>98.5%
+
+
+<a id="org567d42d"></a>
+
+## Lesson forty nine
+
+a city a capital an emblem a building a flag a country
+
+This woman is a citizen.
+
+citizens a government a president a government building a citizen
+
+To issue laws to obey the law to keep the peace to control to elect a president
+to run
+
+Not every country has a president.
+
+A small country
+
+Every country has a flag.
+
+Every country has a national emblem.
+
+A big country.
+
+In every country there's a capital.
+
+A president is the main person in the government.
+
+The government issues laws.
+
+The citizens obey the law.
+
+The government runs the country.
+
+The government is located in the capital.
+
+A capital is the main city of a  country.
+
+The woman has lived in this country for three years, but she isn't a citizen.
+
+The man was born in this country. He is a citizen of this country.
+
+These people aren't citizens of this country. They're here on vacation.
+
+Citizens elect the government of their country.
+
+The president lives in the capital.
+
+Citizens also elect the president.
+
+The athlete is wearing the flag of his country.
+
+Above the government building there's a flag of the country.
+
+The citizens control the work of the government.
+
+The police control law enforcement.
+
+This man has his national emblem on his clothes.
+
+The nation emblem is on the passports.
+
+A strong country controls week countries.
+
+The main doctor runs the hospital.
+
+A strong government ensures a good life in the country.
+
+The police ensure peace on the streets.
+
+A weak government doesn't ensure peace in the country.
+
+A president runs the country.
+
+The government should issue laws.
+
+All citizens should obey the law.
+
+A student should fulfill a teacher's assignment.
+
+The police should ensure peace on the streets.
+
+A doctor should treat people.
+
+The president and the government should ensure peace in the country.
+
+A driver shouldn't stop at a green light.
+
+A child shouldn't drive a car.
+
+A teacher shouldn't wash the floors in the school.
+
+A child should help his parents.
+
+A chef shouldn't run the country.
+
+Parents should feed their child.
+
+
+<a id="orgabed31b"></a>
+
+# Fifty 95.0%
+
+
+<a id="org17b44b6"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 12:11&gt;</span></span>98.8%
+
+
+<a id="org0279f3c"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 18:39&gt;</span></span>99.2%
+
+
+<a id="org0612fe8"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 02:20&gt;</span></span>99.1%
+
+
+<a id="orgb483837"></a>
+
+## text
 
 a bench
 
@@ -23331,29 +31230,227 @@ Why are people digging up earth? They want to plant a tree in the park.
 Why is the woman digging up earth in front of her house? She's planting flowers
 there.
 
-## DONE Review Fifty 96.7%<a id="orgheadline928"></a>
 
-## DONE Review 96.4%<a id="orgheadline929"></a>
+<a id="org48d1015"></a>
 
-## DONE Review 96.7%<a id="orgheadline930"></a>
+## Review Fifty 96.7%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 二 03:56&gt;</span></span>99.1%<a id="orgheadline931"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 四 05:02&gt;</span></span>99.6%<a id="orgheadline932"></a>
+<a id="org3c2ebb7"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 日 06:33&gt;</span></span>98.6%<a id="orgheadline933"></a>
+## Review 96.4%
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 日 19:49&gt;</span></span>99.3%<a id="orgheadline934"></a>
 
-## DONE Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 一 05:31&gt;</span></span>99.4%<a id="orgheadline935"></a>
+<a id="org7f652bc"></a>
 
-# DONE listen<a id="orgheadline937"></a>
+## Review 96.7%
 
-# DONE listen 英语发音unit one<a id="orgheadline960"></a>
 
-## words<a id="orgheadline939"></a>
+<a id="orgc4f18d6"></a>
 
-### neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 二&gt;</span></span><a id="orgheadline938"></a>
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 03:56&gt;</span></span>99.1%
+
+
+<a id="orgf867b14"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 05:02&gt;</span></span>99.6%
+
+
+<a id="orgbf9e0af"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 06:33&gt;</span></span>98.6%
+
+
+<a id="org1a3c2e8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 19:49&gt;</span></span>99.3%
+
+
+<a id="org122053a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 05:31&gt;</span></span>99.4%
+
+
+<a id="orgbe2c476"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 16:16&gt;</span></span>97.1%
+
+
+<a id="org0d0f9a1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 17:51&gt;</span></span>98.8%
+
+
+<a id="org6c975c4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 05:56&gt;</span></span>98.2%
+
+
+<a id="org93e75bf"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-08 Tue 05:01&gt;</span></span>98.3%
+
+
+<a id="org2cd922a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-14 Mon 06:10&gt;</span></span>97.4%
+
+
+<a id="orgda5b1da"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-20 Fri 05:52&gt;</span></span>97.1%
+
+
+<a id="orgad4b653"></a>
+
+## Writing
+
+
+<a id="org65aea10"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-20 Fri 21:21&gt;</span></span>97.5%
+
+
+<a id="org2f2573b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-21 Sat 06:27&gt;</span></span>98.5%
+
+
+<a id="org7c0cf16"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 11:55&gt;</span></span>98.2%
+
+
+<a id="orge0bdaf6"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 20:10&gt;</span></span>98.4%
+
+
+<a id="org0bbaa79"></a>
+
+## Lesson fifty
+
+a park a yard a region a bench kindergarten playground
+
+to come to take to plant to dig to leave to live
+
+a child a neighbor neighbors a kindergarten teacher
+
+The women are neighbors.
+
+This woman is our neighbor.
+
+quiet a loud yard a quiet region loud a quiet yard a loud region
+
+A small park next to the building.
+
+a loud playground in a yard.
+
+a quiet yard in a small region
+
+a loud region in a big city.
+
+a quiet yard in a small city.
+
+a quiet park in a loud region.
+
+Neighbors live next door.
+
+The neighbors are going for a walk with their children in the playground.
+
+The neighbors are sitting on a bench in the yard.
+
+These neighbors live in small homes.
+
+The husband and wife are meeting their neighbors in the park.
+
+These neighbors live in a big, loud building.
+
+The kindergarten teacher in the kindergarten is reading the children a book.
+
+The kindergarten teacher takes the children on a walk.
+
+The father is takeing his children to the playground.
+
+The mother takes her children to kindergarten.
+
+Children are playing with the kindergarten teacher.
+
+The kindergarten teacher is taking the children from the playground to the
+kindergarten.
+
+In the summer the family leaves to the south.
+
+The woman comes to a quiet region to live.
+
+People don't want to live in this region: Here there isn't a kindergarten.
+
+The family leaves for vacation.
+
+The children don't want to leave this region - here there's a big playground.
+
+People come to this quiet park to go for a walk and relax.
+
+The daughter is helping her mother plant flowers.
+
+The mother is planting flowers in the small garden next to the house.
+
+In the spring the neighbors dig up earth in the park.
+
+The excavator is digging up earth in the yard.
+
+Children dig in the sand in the playground.
+
+They plant trees and flowers in their region.
+
+From where do people come to the big park?
+
+People come from loud regions of the city.
+
+Where do the tourists come from? They come from different cities.
+
+Where do parents take children? Parents take children to the playground.
+
+Where are the neighbors coming from? They're coming from a store.
+
+Where does the kindergarten teacher take children? She takes them to the
+kindergarten.
+
+Where does the family leave in the winter? In the winter the family leaves to
+the south.
+
+Why are the children digging in the sand? They're building a sandcastle.
+
+Where do children dig in the sand? They dig in the sand in a playground.
+
+Why are people digging up earth? They want to plant a tree in the park.
+
+Why is the woman digging up earth in front of her house? She's planting flowers
+there.
+
+Where do they plant flowers? They plant flowers in the park.
+
+Where are the women talking? They're talking on a bench in the park.
+
+
+<a id="org0857226"></a>
+
+# listen
+
+
+<a id="orgb9130e0"></a>
+
+# listen 英语发音unit one
+
+
+<a id="org5e56f2d"></a>
+
+## words
+
+
+<a id="orgffa1906"></a>
+
+### neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 Tue&gt;</span></span>
 
  英  [Thursday   28 July 2016
  journal:     4:02- 4:04 Clocked:   (0:02) STARTED benek]   美  [nɛk]
@@ -23361,7 +31458,10 @@ n. 脖子；衣6领；海峡
 vi. 搂著脖子亲吻；变狭窄
 vt. teen thousand jobs could be lost.
 
-## TODO <a id="orgheadline959"></a>
+
+<a id="org29f8e13"></a>
+
+## 
 
 美国邮政局已证实可能会丧失多达15000个就业岗位。
 
@@ -23959,7 +32059,7 @@ vt. teen thousand jobs could be lost.
       更多结果
     词组短语 同近义词 同根词
     
-    account of 在某人帐上重视，    记帐
+    account of 在某人帐上重视，	记帐
     account for 对…负有责任；对…做出解释；说明……的原因
     your account 您的帐号
     take into account 考虑；重视；体谅
@@ -24065,7 +32165,10 @@ vt. teen thousand jobs could be lost.
 
 14. an account
 
-### text<a id="orgheadline955"></a>
+
+<a id="org7aebd4f"></a>
+
+### text
 
 to close an account
 
@@ -24320,7 +32423,10 @@ The yield of rice will rise to 700 kilograms per mu.
     The new novel engaged his attention and interest.
     这部新小说引起了他的注意和兴趣。
 
-### to receive<a id="orgheadline958"></a>
+
+<a id="orgbe0e4f3"></a>
+
+### to receive
 
 英  [rɪ'siːv]   美  [rɪ'siv]
 vt. 收到；接待；接纳
@@ -24752,3 +32858,9 @@ The man is investing money in an account at the bank.
     
     Literacy is traditionally understood as the ability to read and write. The term's meaning has been expanded to include the ability to use language, numbers, images and other means to understand and use the dominant symbol systems of a culture. The concept of literacy is expanding in OECD countries to include skills to access knowledge through technology and ability to assess complex contexts.Literacy represents the lifelong, intellectual process of gaining meaning from a critical interpretation of written or printed text. The key to all literacy is reading development, a progression of skills that begins with the ability to understand spoken words and decode written words, and culminates in the deep understanding of text. Reading development involves a range of complex language underpinnings including awareness of speech sounds (phonology), spelling patterns (orthography), word meaning (semantics), grammar (syntax) and patterns of word formation (morphology), all of which provide a necessary platform for reading fluency and comprehension. Once these skills are acquired, the reader can attain full language literacy, which includes the abilities to apply to printed material critical analysis, inference and synthesis; to write with accuracy and coherence; and to use information and insights from text as the basis for informed decisions and creative thought. The inability to do so is called illiteracy or analphabetism.The United Nations Educational, Scientific and Cultural Organization (UNESCO) defines literacy as the "ability to identify, understand, interpret, create, communicate and compute, using printed and written materials associated with varying contexts. Literacy involves a continuum of learning in enabling individuals to achieve their goals, to develop their knowledge and potential, and to participate fully in their community and wider society".
     来源于：维基百科
+
+
+<a id="orge8a4195"></a>
+
+# Wrting<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 15:13&gt;</span></span>
+
