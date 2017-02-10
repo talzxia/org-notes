@@ -3965,7 +3965,26 @@ crm cra
 
 ** STARTED [#B]free browse and study
    :LOGBOOK:
-   CLOCK: [2017-02-09 Thu 20:52]
+   CLOCK: [2017-02-09 Thu 20:52]--[2017-02-10 Fri 05:24] =>  8:32
+   :END:
+
+** DONE [#B] free studay
+   CLOSED: [2017-02-10 Fri 17:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-10 Fri 17:07]
+   CLOCK: [2017-02-10 Fri 15:32]--[2017-02-10 Fri 17:07] =>  1:35
+   :END:
+
+** DONE [#B]relax and listen to happy music
+   CLOSED: [2017-02-10 Fri 19:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-10 Fri 19:54]
+   CLOCK: [2017-02-10 Fri 17:46]--[2017-02-10 Fri 19:54] =>  2:08
+   :END:
+
+** STARTED [#B] relax and listen to music
+   :LOGBOOK:
+   CLOCK: [2017-02-10 五 20:56]
    :END:
 
 * Cocos2D-X

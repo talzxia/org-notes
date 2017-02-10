@@ -23154,6 +23154,38 @@ Children get sick more often than adults.
    - State "DONE"       from "STARTED"    [2017-02-09 Thu 20:51]
    CLOCK: [2017-02-09 Thu 20:23]--[2017-02-09 Thu 20:51] =>  0:28
    :END:
+** DONE Writing <2017-02-10 Fri 06:30>
+   CLOSED: [2017-02-10 Fri 06:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-10 Fri 06:35]
+   CLOCK: [2017-02-10 Fri 05:30]--[2017-02-10 Fri 06:35] =>  1:05
+   :END:
+** DONE Review<2017-02-10 Fri 09:12>98.2%
+   CLOSED: [2017-02-10 Fri 09:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-10 Fri 09:36]
+   CLOCK: [2017-02-10 Fri 09:12]--[2017-02-10 Fri 09:36] =>  0:24
+   :END:
+** DONE Review<2017-02-10 Fri 17:08>98.7%
+   CLOSED: [2017-02-10 五 20:55]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2017-02-10 五 20:55]
+   - State "DONE"       from "STARTED"    [2017-02-10 Fri 20:05]
+   - State "MEETING"    from "CANCELLED"  [2017-02-10 Fri 20:05]
+   - State "SOMEDAY"    from "WAITING"    [2017-02-10 Fri 20:03]
+   - State "DONE"       from "STARTED"    [2017-02-10 Fri 19:54]
+   - State "MEETING"    from "CANCELLED"  [2017-02-10 Fri 19:53]
+   - State "SOMEDAY"    from "WAITING"    [2017-02-10 Fri 19:53]
+   - State "DONE"       from "STARTED"    [2017-02-10 Fri 19:53]
+   - State "DONE"       from "STARTED"    [2017-02-10 Fri 17:32]
+   CLOCK: [2017-02-10 Fri 17:08]--[2017-02-10 Fri 17:32] =>  0:24
+   :END:
+** DONE Review<2017-02-10 五 20:30>99.3%
+   CLOSED: [2017-02-10 五 20:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-10 五 20:54]
+   CLOCK: [2017-02-10 五 20:30]--[2017-02-10 五 20:54] =>  0:24
+   :END:
 ** text
 *** a bracelet
 英  [ˈbreɪslət]  美  [ˈbreslɪt]
