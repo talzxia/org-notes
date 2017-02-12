@@ -4084,6 +4084,49 @@ crm cra
    CLOCK: [2017-02-11 六 16:50]--[2017-02-11 六 19:17] =>  2:27
    :END:
 
+** STARTED [#B]relax and listen to music
+   :LOGBOOK:
+   CLOCK: [2017-02-12 日 06:14]--[2017-02-12 日 06:46] =>  0:32
+   :END:
+
+** DONE [#B]I'll going to home and have to breakfast.
+   CLOSED: [2017-02-12 日 08:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-12 日 08:45]
+   CLOCK: [2017-02-12 日 07:34]--[2017-02-12 日 08:45] =>  1:11
+   :END:
+wash the floor:sitting room, daughter bedroom,master bedroom,kitchen,dining room
+The dining room is the room in a house where people have their meals, or a room
+in a hoetel where meals are served.
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2017-02-12 日 11:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-12 日 11:46]
+   CLOCK: [2017-02-12 日 10:47]--[2017-02-12 日 11:46] =>  0:59
+   :END:
+
+** DONE [#B] I'am going to home and have lunch.
+   CLOSED: [2017-02-12 日 14:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-12 日 14:13]
+   CLOCK: [2017-02-12 日 12:30]--[2017-02-12 日 14:13] =>  1:43
+   :END:
+
+** DONE [#B]take water and relax
+   CLOSED: [2017-02-12 日 17:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-12 日 17:55]
+   CLOCK: [2017-02-12 日 16:00]--[2017-02-12 日 17:55] =>  1:55
+   :END:
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2017-02-12 日 19:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-12 日 19:24]
+   CLOCK: [2017-02-12 日 18:24]--[2017-02-12 日 19:24] =>  1:00
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
