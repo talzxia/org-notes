@@ -23198,6 +23198,27 @@ Children get sick more often than adults.
    - State "DONE"       from "STARTED"    [2017-02-11 Sat 07:06]
    CLOCK: [2017-02-11 Sat 06:43]--[2017-02-11 Sat 07:06] =>  0:23
    :END:
+** DONE Loud Read<2017-02-13 一 05:22>46-50
+   CLOSED: [2017-02-13 一 07:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-13 一 07:13]
+   - State "STARTED"    from "DONE"       [2017-02-13 一 06:45]
+   CLOCK: [2017-02-13 一 06:45]--[2017-02-13 一 07:13] =>  0:28
+   - State "DONE"       from "STARTED"    [2017-02-13 一 05:50]
+   CLOCK: [2017-02-13 一 05:22]--[2017-02-13 一 05:50] =>  0:28
+   :END:
+** DONE Review<2017-02-14 二 08:37>98.5%
+   CLOSED: [2017-02-14 二 08:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-14 二 08:59]
+   CLOCK: [2017-02-14 二 08:37]--[2017-02-14 二 08:59] =>  0:22
+   :END:
+** DONE Writing and Review<2017-02-14 二 20:25>
+   CLOSED: [2017-02-14 二 20:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-14 二 20:42]
+   CLOCK: [2017-02-14 二 20:25]--[2017-02-14 二 20:42] =>  0:17
+   :END:
 ** text
 *** a bracelet
 英  [ˈbreɪslət]  美  [ˈbreslɪt]
@@ -26024,6 +26045,12 @@ Only the chairman's strong control was able to impart some sense of seriousness 
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-12 日 11:47]
    :END:
+** DONE Review <2017-02-14 二 09:00>99.6%
+   CLOSED: [2017-02-14 二 09:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-14 二 09:19]
+   CLOCK: [2017-02-14 二 09:00]--[2017-02-14 二 09:19] =>  0:19
+   :END:
 ** text
 
    the chest the mouth legs the belly the head arms
@@ -27395,6 +27422,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2017-02-12 日 15:51]
    CLOCK: [2017-02-12 日 15:29]--[2017-02-12 日 15:51] =>  0:22
    :END:
+** DONE Review<2017-02-14 二 09:20>99.4%
+   CLOSED: [2017-02-14 二 09:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-14 二 09:39]
+   CLOCK: [2017-02-14 二 09:20]--[2017-02-14 二 09:39] =>  0:19
+   :END:
 ** Lesson forty eight
 
 a ballerina an actor a poet a sculptor a singer a painter
@@ -28370,6 +28403,24 @@ A child should help his parents.
    - State "DONE"       from "STARTED"    [2017-02-12 日 07:33]
    CLOCK: [2017-02-12 日 07:13]--[2017-02-12 日 07:33] =>  0:20
    :END:
+** DONE Review<2017-02-13 一 11:44>99.5%
+   CLOSED: [2017-02-13 一 12:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-13 一 12:03]
+   CLOCK: [2017-02-13 一 11:44]--[2017-02-13 一 12:03] =>  0:19
+   :END:
+** DONE Review<2017-02-14 二 11:17>99.0%
+   CLOSED: [2017-02-14 二 11:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-14 二 11:36]
+   CLOCK: [2017-02-14 二 11:17]--[2017-02-14 二 11:36] =>  0:19
+   :END:
+** DONE Review<2017-02-14 二 17:38>98.9%
+   CLOSED: [2017-02-14 二 17:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-14 二 17:58]
+   CLOCK: [2017-02-14 二 17:38]--[2017-02-14 二 17:58] =>  0:20
+   :END:
 ** Lesson forty nine
 a city a capital an emblem a building a flag a country
 
@@ -28775,6 +28826,30 @@ there.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-12 日 18:22]
    CLOCK: [2017-02-12 日 17:57]--[2017-02-12 日 18:22] =>  0:25
+   :END:
+** DONE Review <2017-02-13 一 11:19>98.6%
+   CLOSED: [2017-02-13 一 11:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-13 一 11:43]
+   CLOCK: [2017-02-13 一 11:19]--[2017-02-13 一 11:43] =>  0:24
+   :END:
+** DONE Review<2017-02-13 一 15:14>99.8%
+   CLOSED: [2017-02-13 一 15:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-13 一 15:41]
+   CLOCK: [2017-02-13 一 15:14]--[2017-02-13 一 15:41] =>  0:27
+   :END:
+** DONE Loud Read<2017-02-14 二 05:27>50-46
+   CLOSED: [2017-02-14 二 06:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-14 二 06:32]
+   CLOCK: [2017-02-14 二 05:27]--[2017-02-14 二 06:32] =>  1:05
+   :END:
+** DONE Review<2017-02-14 二 11:37>99.6%
+   CLOSED: [2017-02-14 二 12:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-14 二 12:02]
+   CLOCK: [2017-02-14 二 11:37]--[2017-02-14 二 12:02] =>  0:25
    :END:
 ** Lesson fifty
 
