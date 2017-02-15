@@ -23219,6 +23219,18 @@ Children get sick more often than adults.
    - State "DONE"       from "STARTED"    [2017-02-14 二 20:42]
    CLOCK: [2017-02-14 二 20:25]--[2017-02-14 二 20:42] =>  0:17
    :END:
+** DONE Loud Read<2017-02-15 三 05:30>
+   CLOSED: [2017-02-15 三 06:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-15 三 06:41]
+   CLOCK: [2017-02-15 三 05:30]--[2017-02-15 三 06:41] =>  1:11
+   :END:
+** DONE Review<2017-02-15 三 08:38>99.6%
+   CLOSED: [2017-02-15 三 09:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-15 三 09:01]
+   CLOCK: [2017-02-15 三 08:37]--[2017-02-15 三 09:01] =>  0:24
+   :END:
 ** text
 *** a bracelet
 英  [ˈbreɪslət]  美  [ˈbreslɪt]
@@ -26051,6 +26063,12 @@ Only the chairman's strong control was able to impart some sense of seriousness 
    - State "DONE"       from "STARTED"    [2017-02-14 二 09:19]
    CLOCK: [2017-02-14 二 09:00]--[2017-02-14 二 09:19] =>  0:19
    :END:
+** DONE Review<2017-02-15 三 20:48>90.0%
+   CLOSED: [2017-02-15 三 21:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-15 三 21:09]
+   CLOCK: [2017-02-15 三 20:48]--[2017-02-15 三 21:09] =>  0:21
+   :END:
 ** text
 
    the chest the mouth legs the belly the head arms
@@ -27428,6 +27446,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2017-02-14 二 09:39]
    CLOCK: [2017-02-14 二 09:20]--[2017-02-14 二 09:39] =>  0:19
    :END:
+** DONE Review<2017-02-15 三 14:53>99.6%
+   CLOSED: [2017-02-15 三 15:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-15 三 15:13]
+   CLOCK: [2017-02-15 三 14:52]--[2017-02-15 三 15:13] =>  0:21
+   :END:
 ** Lesson forty eight
 
 a ballerina an actor a poet a sculptor a singer a painter
@@ -28420,6 +28444,30 @@ A child should help his parents.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-14 二 17:58]
    CLOCK: [2017-02-14 二 17:38]--[2017-02-14 二 17:58] =>  0:20
+   :END:
+** DONE Review<2017-02-15 三 06:42>99.3%
+   CLOSED: [2017-02-15 三 07:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-15 三 07:01]
+   CLOCK: [2017-02-15 三 06:42]--[2017-02-15 三 07:01] =>  0:19
+   :END:
+** DONE Review<2017-02-15 三 08:16>99.3%
+   CLOSED: [2017-02-15 三 08:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-15 三 08:36]
+   CLOCK: [2017-02-15 三 08:16]--[2017-02-15 三 08:36] =>  0:20
+   :END:
+** DONE Review<2017-02-15 三 09:40>99.2%
+   CLOSED: [2017-02-15 三 09:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-15 三 09:59]
+   CLOCK: [2017-02-15 三 09:40]--[2017-02-15 三 09:59] =>  0:19
+   :END:
+** DONE Review<2017-02-15 三 15:18>99.8%
+   CLOSED: [2017-02-15 三 15:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-15 三 15:36]
+   CLOCK: [2017-02-15 三 15:18]--[2017-02-15 三 15:36] =>  0:18
    :END:
 ** Lesson forty nine
 a city a capital an emblem a building a flag a country

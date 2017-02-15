@@ -4193,6 +4193,32 @@ clean up my office and relax
    CLOCK: [2017-02-14 二 17:59]--[2017-02-14 二 20:24] =>  2:25
    :END:
 
+** DONE [#B] go home and to have breakfast
+   CLOSED: [2017-02-15 三 08:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-15 三 08:16]
+   CLOCK: [2017-02-15 三 07:02]--[2017-02-15 三 08:16] =>  1:14
+   :END:
+
+** DONE [#B] relax
+   CLOSED: [2017-02-15 三 09:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-15 三 09:40]
+   CLOCK: [2017-02-15 三 09:03]--[2017-02-15 三 09:40] =>  0:37
+   :END:
+
+** DONE [#B] relax and walk
+   CLOSED: [2017-02-15 三 14:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-15 三 14:52]
+   CLOCK: [2017-02-15 三 10:33]--[2017-02-15 三 14:52] =>  4:19
+   :END:
+
+** STARTED [#B] I'am tired. I'll to relax.
+   :LOGBOOK:
+   CLOCK: [2017-02-15 三 15:38]--[2017-02-15 三 20:48] =>  5:10
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
