@@ -17619,6 +17619,18 @@ a coin washing machine.
    - State "DONE"       from "STARTED"    [2017-02-08 Wed 21:01]
    CLOCK: [2017-02-08 Wed 20:34]--[2017-02-08 Wed 21:01] =>  0:27
    :END:
+** DONE Loud Read<2017-02-18 六 04:56>45,44,43
+   CLOSED: [2017-02-18 六 05:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-18 六 05:43]
+   CLOCK: [2017-02-18 六 04:56]--[2017-02-18 六 05:43] =>  0:47
+   :END:
+** DONE Review<2017-02-18 六 21:15>99.3%
+   CLOSED: [2017-02-18 六 21:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-18 六 21:43]
+   CLOCK: [2017-02-18 六 21:15]--[2017-02-18 六 21:43] =>  0:28
+   :END:
 ** Lesson 40
 soap a bucket detergent laundry detergent a cloth a brush
 
@@ -18526,6 +18538,12 @@ The man is cleaning up the table.
    - State "DONE"       from "STARTED"    [2017-02-09 Thu 15:50]
    CLOCK: [2017-02-09 Thu 15:25]--[2017-02-09 Thu 15:50] =>  0:25
    :END:
+** DONE Review<2017-02-18 六 20:48>99.3%
+   CLOSED: [2017-02-18 六 21:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-18 六 21:13]
+   CLOCK: [2017-02-18 六 20:48]--[2017-02-18 六 21:13] =>  0:25
+   :END:
 ** Lesson 41
 a pen
 a pencil
@@ -19234,6 +19252,18 @@ He has just come off a difficult assignment.
    CLOCK: [2017-02-08 Wed 17:44]--[2017-02-08 Wed 18:09] =>  0:25
    :END:
 
+** DONE Writing Review<2017-02-18 六 16:35>
+   CLOSED: [2017-02-18 六 17:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-18 六 17:17]
+   CLOCK: [2017-02-18 六 16:35]--[2017-02-18 六 17:17] =>  0:42
+   :uEND:
+** DONE Review<2017-02-18 六 20:20>99%
+   CLOSED: [2017-02-18 六 20:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-18 六 20:45]
+   CLOCK: [2017-02-18 六 20:20]--[2017-02-18 六 20:45] =>  0:25
+   :END:
 ** Lesson 42
 a calendar
 a day
@@ -21069,6 +21099,27 @@ In order to open an account, you need to go to the bank.
    - State "DONE"       from "STARTED"    [2017-02-09 四 08:45]
    CLOCK: [2017-02-09 四 08:18]--[2017-02-09 四 08:45] =>  0:27
    :END:
+** DONE Review<2017-02-18 六 07:30>99.1%
+   CLOSED: [2017-02-18 六 07:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-18 六 07:58]
+   CLOCK: [2017-02-18 六 07:30]--[2017-02-18 六 07:58] =>  0:28
+   :END:
+** DONE Writing<2017-02-18 六 09:17>
+   CLOSED: [2017-02-18 六 12:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-18 六 12:16]
+   - State "STARTED"    from "DONE"       [2017-02-18 六 11:37]
+   CLOCK: [2017-02-18 六 11:37]--[2017-02-18 六 12:16] =>  0:39
+   - State "DONE"       from "STARTED"    [2017-02-18 六 09:34]
+   CLOCK: [2017-02-18 六 09:17]--[2017-02-18 六 09:34] =>  0:17
+   :END:
+** DONE Review<2017-02-18 六 16:08>99.6%
+   CLOSED: [2017-02-18 六 16:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-18 六 16:31]
+   CLOCK: [2017-02-18 六 16:08]--[2017-02-18 六 16:31] =>  0:23
+   :END:
 ** Lesson 43
 a post offcie a mailbox a postman an ATM a credit car a post office a bank
 
@@ -22169,6 +22220,12 @@ The woman has a stomachache.
    - State "DONE"       from "STARTED"    [2017-02-08 Wed 17:42]
    CLOCK: [2017-02-08 Wed 15:39]--[2017-02-08 Wed 17:42] =>  2:03
    :END:
+** DONE Review<2017-02-18 六 07:07>99%
+   CLOSED: [2017-02-18 六 07:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-18 六 07:29]
+   CLOCK: [2017-02-18 六 07:07]--[2017-02-18 六 07:29] =>  0:22
+   :END:
 ** Lesson 44
 a bandage vitamins a syringe aspirin a thermometer medicine
 
@@ -22398,6 +22455,12 @@ Why do the man's eyes hurt? He works a lot on the computer.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-17 五 20:02]
    CLOCK: [2017-02-17 五 19:44]--[2017-02-17 五 20:02] =>  0:18
+   :END:
+** DONE Review<2017-02-18 六 06:49>99.1%
+   CLOSED: [2017-02-18 六 07:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-18 六 07:07]
+   CLOCK: [2017-02-18 六 06:49]--[2017-02-18 六 07:07] =>  0:18
    :END:
 ** Lesson 45
 a child a teenager an elderly man an eldery woman an adult an elderly people
