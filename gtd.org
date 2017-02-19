@@ -4306,6 +4306,15 @@ clean up the office
    CLOCK: [2017-02-19 日 19:00]--[2017-02-19 日 20:35] =>  1:35
    :END:
 
+** DONE [#B] relax
+   CLOSED: [2017-02-20 一 05:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-20 一 05:38]
+   CLOCK: [2017-02-20 一 04:28]--[2017-02-20 一 05:38] =>  1:10
+   :END:
+
+** TODO [#B] go home and to have breakfast
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
