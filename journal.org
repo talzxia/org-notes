@@ -3126,6 +3126,7 @@ http://news.ifeng.com/a/20170209/50670773_0.shtml
      - State "DONE"       from "STARTED"    [2017-02-15 三 08:16]
      CLOCK: [2017-02-15 三 05:29]--[2017-02-15 三 05:30] =>  0:01
      :END:
+<<<<<<< Updated upstream
 *** 2017-02-18 星期六
 
 **** DONE arrive office and begin to study
@@ -3140,6 +3141,19 @@ http://news.ifeng.com/a/20170209/50670773_0.shtml
      CLOSED: [2017-02-19 日 07:37]
      :LOGBOOK:
      - State "DONE"       from "STARTED"    [2017-02-19 日 07:37]
+     :END:
+=======
+*** 2017-02-17 Friday
+
+**** 在济南，4点起，在车里学习四课
+>>>>>>> Stashed changes
+*** 2017-02-21 Tuesday
+
+**** DONE gets up and begin to learn
+     CLOSED: [2017-02-21 Tue 12:17]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2017-02-21 Tue 12:17]
+     CLOCK: [2017-02-21 Tue 05:16]--[2017-02-21 Tue 05:17] =>  0:01
      :END:
 
 * 2017-01-21 星期六

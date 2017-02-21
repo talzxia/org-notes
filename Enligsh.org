@@ -12148,6 +12148,12 @@ What is the waiter doing? He's carrying a whole cake on a tray.
    CLOCK: [2016-12-09 Fri 03:04]--[2016-12-09 Fri 03:37] =>  0:33
 
    :END:
+** DONE Review<2017-02-21 Tue 21:58>97.8%
+   CLOSED: [2017-02-21 Tue 22:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-21 Tue 22:28]
+   CLOCK: [2017-02-21 Tue 21:58]--[2017-02-21 Tue 22:28] =>  0:30
+   :END:
 ** Lesson thirty seven
 north south west east a compass a needle
 
@@ -13906,6 +13912,21 @@ What is the chef doing ? He's frying a whole chicken.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-09 Fri 05:04]
    CLOCK: [2016-12-09 Fri 04:26]--[2016-12-09 Fri 05:04] =>  0:38
+   :END:
+** DONE Loud Read<2017-02-21 Tue 05:58>96.4%
+   CLOSED: [2017-02-21 Tue 07:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-21 Tue 07:09]
+   CLOCK: [2017-02-21 Tue 05:58]--[2017-02-21 Tue 07:09] =>  1:11
+   :END:
+** DONE Review<2017-02-22 Wed 17:03>97.5%
+   CLOSED: [2017-02-21 Tue 18:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-21 Tue 18:20]
+   - State "STARTED"    from "DONE"       [2017-02-21 Tue 17:48]
+   CLOCK: [2017-02-21 Tue 17:48]--[2017-02-21 Tue 18:20] =>  0:32
+   - State "DONE"       from "STARTED"    [2017-02-21 Tue 17:07]
+   CLOCK: [2017-02-21 Tue 17:03]--[2017-02-21 Tue 17:07] =>  0:04
    :END:
 ** Lesson 38
 a drum film a guitar dance music a voilin
@@ -15828,6 +15849,12 @@ article.yeeyan.org
    - State "DONE"       from "STARTED"    [2016-11-26 六 06:05]
    CLOCK: [2016-11-26 六 05:42]--[2016-11-26 六 06:05] =>  0:23
    :END:
+** DONE Review <2017-02-21 Tue 13:36>98.5%
+   CLOSED: [2017-02-21 Tue 13:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-21 Tue 13:56]
+   CLOCK: [2017-02-21 Tue 13:36]--[2017-02-21 Tue 13:56] =>  0:20
+   :END:
 ** Lesson thirty nine
 a cow a chicken a ram a sheep a rooster a bull
 
@@ -15879,6 +15906,12 @@ What sings at dawn? A rooster sings at dawn
 What hunts rabbits? Hungry wolves hunt rabbits.
 What lays eggs? Chickens lay eggs.
 
+** DONE Loud Read<2017-02-21 Tue 05:17>96.7%
+   CLOSED: [2017-02-21 Tue 05:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-21 Tue 05:54]
+   CLOCK: [2017-02-21 Tue 05:17]--[2017-02-21 Tue 05:54] =>  0:37
+   :END:
 ** text
 
 *** a cow
@@ -18508,6 +18541,7 @@ The man is cleaning up the table.
    - State "DONE"       from "STARTED"    [2016-11-04 五 21:22]
    CLOCK: [2016-11-04 五 20:59]--[2016-11-04 五 21:22] =>  0:23
    :END:
+<<<<<<< Updated upstream
 ** DONE Review<2017-02-02 四 06:02>98.8%
    CLOSED: [2017-02-02 四 06:28]
    :LOGBOOK:
@@ -18525,6 +18559,13 @@ The man is cleaning up the table.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-02 四 08:55]
    CLOCK: [2017-02-02 四 08:31]--[2017-02-02 四 08:55] =>  0:24
+=======
+** DONE Review<2017-02-01 Wed 20:41>96.9%
+   CLOSED: [2017-02-01 Wed 21:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-01 Wed 21:14]
+   CLOCK: [2017-02-01 Wed 20:40]--[2017-02-01 Wed 21:14] =>  0:34
+>>>>>>> Stashed changes
    :END:
 ** DONE Words<2017-02-04 六 05:02>
    CLOSED: [2017-02-04 六 06:47]
@@ -18568,6 +18609,13 @@ The man is cleaning up the table.
    - State "DONE"       from "STARTED"    [2017-02-19 日 10:22]
    CLOCK: [2017-02-19 日 10:00]--[2017-02-19 日 10:22] =>  0:22
    :END:
+** DONE Review<2017-02-20 Mon 11:09>98.3%
+   CLOSED: [2017-02-20 Mon 12:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-20 Mon 12:36]
+   CLOCK: [2017-02-20 Mon 11:09]--[2017-02-20 Mon 12:36] =>  1:27
+   :END:
+贾院长来座谈半小时，后到餐厅吃饭。
 ** Lesson 41
 a pen
 a pencil
@@ -19161,6 +19209,7 @@ Your assignment is to dissect the poem.
 He has just come off a difficult assignment.
 他刚刚结束了一项艰巨任务。
  arrive office and begin learning
+
 * DONE Forty two 96.3%
   CLOSED: [2016-08-25 四 05:34]
   :LOGBOOK:
@@ -19293,6 +19342,12 @@ He has just come off a difficult assignment.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-19 日 10:44]
    CLOCK: [2017-02-19 日 10:23]--[2017-02-19 日 10:44] =>  0:21
+   :END:
+** DONE Review<2017-02-20 Mon 15:54>97.6%
+   CLOSED: [2017-02-20 Mon 16:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-20 Mon 16:16]
+   CLOCK: [2017-02-20 Mon 15:54]--[2017-02-20 Mon 16:16] =>  0:22
    :END:
 ** Lesson 42
 a calendar
@@ -21158,6 +21213,12 @@ In order to open an account, you need to go to the bank.
    CLOCK: [2017-02-19 日 11:48]--[2017-02-19 日 12:01] =>  0:13
    - State "DONE"       from "STARTED"    [2017-02-19 日 10:56]
    CLOCK: [2017-02-19 日 10:45]--[2017-02-19 日 10:56] =>  0:11
+   :END:
+** DONE Review<2017-02-20 Mon 19:29>98%
+   CLOSED: [2017-02-20 Mon 19:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-20 Mon 19:50]
+   CLOCK: [2017-02-20 Mon 19:29]--[2017-02-20 Mon 19:50] =>  0:21
    :END:
 ** Lesson 43
 a post offcie a mailbox a postman an ATM a credit car a post office a bank

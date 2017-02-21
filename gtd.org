@@ -3741,6 +3741,7 @@ crm cra
    CLOCK: [2017-02-03 五 17:23]--[2017-02-03 五 19:52] =>  2:29
    :END:
 
+<<<<<<< Updated upstream
 ** DONE [#B] relax
    CLOSED: [2017-02-04 六 06:48]
    :LOGBOOK:
@@ -4082,49 +4083,12 @@ crm cra
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-11 六 19:17]
    CLOCK: [2017-02-11 六 16:50]--[2017-02-11 六 19:17] =>  2:27
-   :END:
+=======
+** STARTED [#B] relax
 
-** STARTED [#B]relax and listen to music
+** STARTED [#B] charge test
    :LOGBOOK:
-   CLOCK: [2017-02-12 日 06:14]--[2017-02-12 日 06:46] =>  0:32
-   :END:
-
-** DONE [#B]I'll going to home and have to breakfast.
-   CLOSED: [2017-02-12 日 08:45]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-02-12 日 08:45]
-   CLOCK: [2017-02-12 日 07:34]--[2017-02-12 日 08:45] =>  1:11
-   :END:
-wash the floor:sitting room, daughter bedroom,master bedroom,kitchen,dining room
-The dining room is the room in a house where people have their meals, or a room
-in a hoetel where meals are served.
-
-** DONE [#B] relax and listen to music
-   CLOSED: [2017-02-12 日 11:46]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-02-12 日 11:46]
-   CLOCK: [2017-02-12 日 10:47]--[2017-02-12 日 11:46] =>  0:59
-   :END:
-
-** DONE [#B] I'am going to home and have lunch.
-   CLOSED: [2017-02-12 日 14:13]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-02-12 日 14:13]
-   CLOCK: [2017-02-12 日 12:30]--[2017-02-12 日 14:13] =>  1:43
-   :END:
-
-** DONE [#B]take water and relax
-   CLOSED: [2017-02-12 日 17:55]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-02-12 日 17:55]
-   CLOCK: [2017-02-12 日 16:00]--[2017-02-12 日 17:55] =>  1:55
-   :END:
-
-** DONE [#B] relax and listen to music
-   CLOSED: [2017-02-12 日 19:24]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-02-12 日 19:24]
-   CLOCK: [2017-02-12 日 18:24]--[2017-02-12 日 19:24] =>  1:00
+>>>>>>> Stashed changes
    :END:
 
 ** DONE [#B]Bring my daughter to zixingyuang<2017-02-13 一 05:50>
@@ -4219,6 +4183,7 @@ clean up my office and relax
    CLOCK: [2017-02-15 三 15:38]--[2017-02-15 三 20:48] =>  5:10
    :END:
 
+<<<<<<< Updated upstream
 ** DONE [#B] relax and listen to music
    CLOSED: [2017-02-17 五 21:41]
    :LOGBOOK:
@@ -4315,9 +4280,59 @@ clean up the office
 
 ** TODO [#B] go home and to have breakfast
 
-** STARTED [#B] relax and listen to musci
+** DONE [#B] relax and listen to music
+   CLOSED: [2017-02-20 Mon 11:03]
    :LOGBOOK:
-   CLOCK: [2017-02-20 一 07:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-20 Mon 11:03]
+   :END:
+
+政协会议报到，贾院长来访，整理房间
+自己清洁必须之处。
+=======
+** DONE [#B] relax
+   CLOSED: [2017-02-17 Fri 06:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-17 Fri 06:19]
+   CLOCK: [2017-02-17 Fri 06:12]--[2017-02-17 Fri 06:19] =>  0:07
+>>>>>>> Stashed changes
+   :END:
+
+** STARTED [#B] relax
+   :LOGBOOK:
+   CLOCK: [2017-02-20 Mon 12:39]--[2017-02-20 Mon 15:54] =>  3:15
+   :END:
+
+** DONE [#B] relax
+   CLOSED: [2017-02-20 Mon 19:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-20 Mon 19:28]
+   CLOCK: [2017-02-20 Mon 16:17]--[2017-02-20 Mon 19:28] =>  3:11
+   :END:
+I wants to sleep.
+
+** DONE [#B] 上午全体委员会议8：30、集体合影至11：20归
+   CLOSED: [2017-02-21 Tue 12:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-21 Tue 12:24]
+   CLOCK: [2017-02-21 Tue 8:30]--[2017-02-21 Tue 11:24] =>  2:54
+   :END:
+
+** DONE [#B] 二组分组讨论，地点六楼每人都发言。
+   CLOSED: [2017-02-21 Tue 18:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-21 Tue 18:22]
+   - State "STARTED"    from "DONE"       [2017-02-21 Tue 18:21]
+   CLOCK: [2017-02-21 Tue 18:21]--[2017-02-21 Tue 18:22] =>  0:01
+   - State "DONE"       from "STARTED"    [2017-02-21 Tue 16:48]
+   CLOCK: [2017-02-21 Tue 14:00]--[2017-02-21 Tue 16:48] =>  2:48
+   :END:
+
+** DONE [#B] relax and listen to happy music
+   CLOSED: [2017-02-21 Tue 21:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-21 Tue 21:57]
+   CLOCK: [2017-02-21 Tue 18:22]--[2017-02-21 Tue 21:57] =>  3:35
    :END:
 
 * Cocos2D-X
