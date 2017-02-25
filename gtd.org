@@ -4419,6 +4419,53 @@ I wants to sleep.
    CLOCK: [2017-02-23 Thu 19:23]--[2017-02-23 Thu 21:35] =>  2:12
    :END:
 
+** DONE [#B] relax and listen to happy music
+   CLOSED: [2017-02-25 Sat 05:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-25 Sat 05:41]
+   CLOCK: [2017-02-25 六 05:26]--[2017-02-25 Sat 05:41] =>  0:15
+   :END:
+
+** DONE [#B] 开政协会，今天闭幕
+   CLOSED: [2017-02-25 Sat 10:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-25 Sat 10:40]
+   CLOCK: [2017-02-25 Sat 06:42]--[2017-02-25 Sat 10:40] =>  3:58
+   :END:
+
+** DONE [#B] go to home in order to have lunch
+   CLOSED: [2017-02-25 Sat 15:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-25 Sat 15:18]
+   CLOCK: [2017-02-25 Sat 12:07]--[2017-02-25 Sat 15:18] =>  3:11
+   :END:
+
+** DONE [#B] relax in nature
+   CLOSED: [2017-02-25 Sat 17:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-25 Sat 17:59]
+   CLOCK: [2017-02-25 Sat 15:47]--[2017-02-25 Sat 17:59] =>  2:12
+   :END:
+
+** DONE [#B] go to home to have dinner
+   CLOSED: [2017-02-25 Sat 20:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-25 Sat 20:21]
+   CLOCK: [2017-02-25 Sat 18:48]--[2017-02-25 Sat 20:21] =>  1:33
+   :END:
+
+** DONE [#B] study Vim
+   CLOSED: [2017-02-25 六 21:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-25 六 21:32]
+   CLOCK: [2017-02-25 Sat 20:52]--[2017-02-25 六 21:32] =>  0:40
+   :END:
+control b backpage PageDown
+control f frontpage PageUp
+G file end
+gg file first
+
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
