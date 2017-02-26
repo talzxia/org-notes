@@ -4465,6 +4465,62 @@ control f frontpage PageUp
 G file end
 gg file first
 
+** DONE [#B] relax and listen to happy music
+   CLOSED: [2017-02-26 Sun 06:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-26 Sun 06:40]
+   - State "STARTED"    from "DONE"       [2017-02-26 Sun 06:35]
+   CLOCK: [2017-02-26 Sun 06:35]--[2017-02-26 Sun 06:40] =>  0:05
+   - State "DONE"       from "STARTED"    [2017-02-26 日 06:33]
+   CLOCK: [2017-02-26 日 05:21]--[2017-02-26 日 06:33] =>  1:12
+   :END:
+
+** DONE [#B]go home to have breakfast
+   CLOSED: [2017-02-26 Sun 07:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-26 Sun 07:59]
+   CLOCK: [2017-02-26 Sun 06:40]--[2017-02-26 Sun 07:59] =>  1:19
+   :END:
+
+** DONE [#B] relax and prepare tea
+   CLOSED: [2017-02-26 Sun 08:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-26 Sun 08:41]
+   CLOCK: [2017-02-26 Sun 08:30]--[2017-02-26 Sun 08:41] =>  0:11
+   :END:
+
+** DONE [#B] 送老人做礼拜
+   CLOSED: [2017-02-26 Sun 15:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-26 Sun 15:12]
+   CLOCK: [2017-02-26 Sun 08:42]--[2017-02-26 Sun 15:12] =>  6:30
+   :END:
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2017-02-26 Sun 16:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-26 Sun 16:51]
+   CLOCK: [2017-02-26 Sun 15:44]--[2017-02-26 Sun 16:25] =>  0:41
+   :END:
+
+** DONE [#B] relax and to walk
+   CLOSED: [2017-02-26 Sun 18:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-26 Sun 18:29]
+   CLOCK: [2017-02-26 Sun 16:55]--[2017-02-26 Sun 18:29] =>  1:34
+   :END:
+
+** DONE [#B] study Vim and check students
+   CLOSED: [2017-02-26 Sun 19:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-26 Sun 19:33]
+   CLOCK: [2017-02-26 Sun 18:30]--[2017-02-26 Sun 19:33] =>  1:03
+   :END:
+
+** STARTED [#B] relax,because I am so tired.
+   :LOGBOOK:
+   CLOCK: [2017-02-26 Sun 20:11]
+   :END:
 
 * Cocos2D-X
 

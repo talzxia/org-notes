@@ -3157,8 +3157,10 @@ http://news.ifeng.com/a/20170209/50670773_0.shtml
      :END:
 *** 2017-02-23 Thursday
 
-**** STARTED get up and begin to loud read<2017-02-23 Thu 05:14>
+**** DONE get up and begin to loud read<2017-02-23 Thu 05:14>
+     CLOSED: [2017-02-26 日 05:20]
      :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2017-02-26 日 05:20]
      - State "STARTED"    from "DONE"       [2017-02-23 Thu 23:08]
      CLOCK: [2017-02-23 Thu 23:08]--[2017-02-24 Fri 05:14] =>  6:06
      - State "DONE"       from "STARTED"    [2017-02-23 Thu 07:59]
@@ -3169,12 +3171,22 @@ http://news.ifeng.com/a/20170209/50670773_0.shtml
 *** 2017-02-25 星期六
 
 **** arrive office and begin to study<2017-02-25 六 04:51>
+*** 2017-02-26 星期日
+
+**** DONE arrive to office and begin to study<2017-02-26 日 03:53>
+     CLOSED: [2017-02-26 日 05:20]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2017-02-26 日 05:20]
+     CLOCK: [2017-02-26 日 03:53]--[2017-02-26 日 04:02] =>  0:09
+     :END:
 
 * 2017-02-24 Friday
 
-** STARTED gets up and begin to study<2017-02-24 Fri 05:14>
+** DONE gets up and begin to study<2017-02-24 Fri 05:14>
+   CLOSED: [2017-02-26 日 05:20]
 <<<<<<< Updated upstream
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-26 日 05:20]
    CLOCK: [2017-02-24 Fri 05:14]--[2017-02-24 Fri 05:16] =>  0:02
    :END:
 =======
@@ -3182,7 +3194,11 @@ http://news.ifeng.com/a/20170209/50670773_0.shtml
 
 * 2017-02-22 Wednesday
 
-** STARTED gets up and begin to study
+** DONE gets up and begin to study
+   CLOSED: [2017-02-26 日 05:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-26 日 05:20]
+   :END:
 
 * 2017-01-21 星期六
 
