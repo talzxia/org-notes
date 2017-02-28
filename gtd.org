@@ -533,8 +533,10 @@ go home <2016-08-13 Sat 11:09>
    CLOCK: [2016-08-14 日 10:59]--[2016-08-14 日 14:12] =>  3:13
    :END:
 
-** STARTED [#B] relaxing
+** DONE [#B] relaxing
+   CLOSED: [2017-02-28 二 09:21]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
    - State "STARTED"    from "DONE"       [2016-08-14 日 15:22]
    - State "DONE"       from "STARTED"    [2016-08-14 日 15:22]
    :END:
@@ -2379,7 +2381,11 @@ http://mt.sohu.com/20160817/n464605736.shtml
    :END:
 录入35页
 
-** STARTED [#B] free browse and listen to music
+** DONE [#B] free browse and listen to music
+   CLOSED: [2017-02-28 二 09:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
+   :END:
 
 ** TODO [#B]
 
@@ -2433,8 +2439,10 @@ http://mt.sohu.com/20160817/n464605736.shtml
 启动时按住shift key所有个性化设置失效，g可以输入了。更改了密码。以后避开g key.
 此算是bug吧。
 
-** STARTED [#B] leave office to go relax
+** DONE [#B] leave office to go relax
+   CLOSED: [2017-02-28 二 09:21]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
    CLOCK: [2016-09-30 Fri 10:31]--[2016-09-30 Fri 14:06] =>  3:35
    :END:
 
@@ -2479,8 +2487,10 @@ http://mt.sohu.com/20160817/n464605736.shtml
    CLOCK: [2016-10-01 六 20:53]--[2016-10-01 六 21:24] =>  0:31
    :END:
 
-** STARTED [#B]relax and listen to music
+** DONE [#B]relax and listen to music
+   CLOSED: [2017-02-28 二 09:21]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
    CLOCK: [2016-10-02 日 06:03]--[2016-10-02 日 06:22] =>  0:19
    :END:
 
@@ -2592,8 +2602,10 @@ http://mt.sohu.com/20160817/n464605736.shtml
    :END:
 page41
 
-** STARTED [#B] browse and read
+** DONE [#B] browse and read
+   CLOSED: [2017-02-28 二 09:21]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
    CLOCK: [2016-10-08 六 19:43]--[2016-10-08 六 20:27] =>  0:44
    :END:
 
@@ -2633,7 +2645,11 @@ fished page 42
    CLOCK: [2016-10-12 三 14:37]--[2016-10-12 三 17:10] =>  2:33
    :END:
 
-** STARTED [#B] browse and listen to music
+** DONE [#B] browse and listen to music
+   CLOSED: [2017-02-28 二 09:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
+   :END:
 
 ** DONE [#B] today updata spacemacs break
    CLOSED: [2016-10-13 Thu 08:11]
@@ -2711,7 +2727,11 @@ watch n iphone7 plus tests
    :END:
 finished page 45
 
-** STARTED [#B] just eats lunch so browse and listen to musci
+** DONE [#B] just eats lunch so browse and listen to musci
+   CLOSED: [2017-02-28 二 09:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
+   :END:
 
 ** DONE [#B] relax and listen to music
    CLOSED: [2016-10-16 Sun 06:53]
@@ -2862,8 +2882,10 @@ finished page 50
    - State "DONE"       from "STARTED"    [2016-10-21 Fri 06:52]
    :END:
 
-** STARTED [#B] browse and listen to music
+** DONE [#B] browse and listen to music
+   CLOSED: [2017-02-28 二 09:21]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
    CLOCK: [2016-10-22 六 15:19]--[2016-10-22 日 15:51] =>  0:32
    :END:
 
@@ -2951,8 +2973,10 @@ lesson 43 97.2%
    CLOCK: [2016-10-27 四 08:05]--[2016-10-27 四 08:26] =>  0:21
    :END:
 
-** STARTED [#B] browse and free read
+** DONE [#B] browse and free read
+   CLOSED: [2017-02-28 二 09:21]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
    CLOCK: [2016-10-27 四 08:42]--[2016-10-27 四 09:55] =>  1:13
    :END:
 
@@ -3218,12 +3242,18 @@ sound is so low
    CLOCK: [2016-11-02 三 08:00]--[2016-11-02 三 08:23] =>  0:23
    :END:
 
-** STARTED [#B] read Ruby
+** DONE [#B] read Ruby
+   CLOSED: [2017-02-28 二 09:21]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
    CLOCK: [2016-11-02 三 09:04]--[2016-11-02 三 20:29] => 11:25
    :END:
 
-** STARTED [#B] transport data
+** DONE [#B] transport data
+   CLOSED: [2017-02-28 二 09:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
+   :END:
 
 ** DONE [#B] browse and free learn
    CLOSED: [2016-11-04 五 21:54]
@@ -3246,13 +3276,17 @@ sound is so low
    CLOCK: [2016-11-05 Sat 18:22]--[2016-11-05 Sat 19:57] =>  1:35
    :END:
 
-** STARTED [#B] relax and listen to music
+** DONE [#B] relax and listen to music
+   CLOSED: [2017-02-28 二 09:21]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
    CLOCK: [2016-11-06 日 06:13]--[2016-11-06 日 10:42] =>  4:29
    :END:
 
-** STARTED [#B] relax and free learn
+** DONE [#B] relax and free learn
+   CLOSED: [2017-02-28 二 09:21]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
    CLOCK: [2016-11-06 日 11:03]--[2016-11-06 日 17:56] =>  6:53
    :END:
 
@@ -3379,7 +3413,11 @@ crm cra
    CLOCK: [2016-12-11 Sun 09:03]--[2016-12-11 Sun 17:40] =>  8:37
    :END:
 
-** STARTED [#B] charge
+** DONE [#B] charge
+   CLOSED: [2017-02-28 二 09:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
+   :END:
 
 ** DONE [#B] use time
    CLOSED: [2016-12-14 Wed 09:00]
@@ -3401,18 +3439,24 @@ crm cra
    CLOCK: [2016-12-25 日 05:16]--[2016-12-25 日 05:40] =>  0:24
    :END:
 
-** STARTED [#B]arrive office begin to learn
+** DONE [#B]arrive office begin to learn
+   CLOSED: [2017-02-28 二 09:21]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:21]
    CLOCK: [2016-12-26 一 03:30]--[2016-12-26 一 03:37] =>  0:07
    :END:
 
-** STARTED [#B]learn English
+** DONE [#B]learn English
+   CLOSED: [2017-02-28 二 09:22]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:22]
    CLOCK: [2016-12-27 二 10:35]--[2016-12-27 二 10:36] =>  0:01
    :END:
 
-** STARTED [#B] relax and browse
+** DONE [#B] relax and browse
+   CLOSED: [2017-02-28 二 09:22]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:22]
    CLOCK: [2016-12-30 五 06:18]--[2016-12-31 六 15:19] => 33:01
    :END:
 
@@ -3562,8 +3606,10 @@ crm cra
    CLOCK: [2017-02-02 四 10:00]--[2017-02-02 四 12:05] =>  2:05
    :END:
 
-** STARTED [#B]relax and listen to music
+** DONE [#B]relax and listen to music
+   CLOSED: [2017-02-28 二 09:22]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:22]
    CLOCK: [2017-02-02 四 14:45]--[2017-02-02 四 19:36] =>  4:51
    :END:
 
@@ -3938,8 +3984,10 @@ crm cra
 
 这个年份，各级党政主官，更需有所作为。习总已擂响战鼓，各位要打起精神冲锋了。第一个一百年的节点，还有三年，时间太紧了。
 
-** STARTED [#B] relax and browse free studay
+** DONE [#B] relax and browse free studay
+   CLOSED: [2017-02-28 二 09:22]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:22]
    CLOCK: [2017-02-09 四 06:47]--[2017-02-09 四 08:18] =>  1:31
    :END:
 
@@ -3964,8 +4012,10 @@ crm cra
    CLOCK: [2017-02-09 Thu 15:52]--[2017-02-09 Thu 20:22] =>  4:30
    :END:
 
-** STARTED [#B]free browse and study
+** DONE [#B]free browse and study
+   CLOSED: [2017-02-28 二 09:22]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:22]
    CLOCK: [2017-02-09 Thu 20:52]--[2017-02-10 Fri 05:24] =>  8:32
    :END:
 
@@ -4084,10 +4134,16 @@ crm cra
    - State "DONE"       from "STARTED"    [2017-02-11 六 19:17]
    CLOCK: [2017-02-11 六 16:50]--[2017-02-11 六 19:17] =>  2:27
 =======
-** STARTED [#B] relax
-
-** STARTED [#B] charge test
+** DONE [#B] relax
+   CLOSED: [2017-02-28 二 09:22]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:22]
+   :END:
+
+** DONE [#B] charge test
+   CLOSED: [2017-02-28 二 09:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:22]
 >>>>>>> Stashed changes
    :END:
 
@@ -4178,8 +4234,10 @@ clean up my office and relax
    CLOCK: [2017-02-15 三 10:33]--[2017-02-15 三 14:52] =>  4:19
    :END:
 
-** STARTED [#B] I'am tired. I'll to relax.
+** DONE [#B] I'am tired. I'll to relax.
+   CLOSED: [2017-02-28 二 09:22]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:22]
    CLOCK: [2017-02-15 三 15:38]--[2017-02-15 三 20:48] =>  5:10
    :END:
 
@@ -4298,8 +4356,10 @@ clean up the office
 >>>>>>> Stashed changes
    :END:
 
-** STARTED [#B] relax
+** DONE [#B] relax
+   CLOSED: [2017-02-28 二 09:22]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:22]
    CLOCK: [2017-02-20 Mon 12:39]--[2017-02-20 Mon 15:54] =>  3:15
    :END:
 
@@ -4369,8 +4429,10 @@ I wants to sleep.
    CLOCK: [2017-02-22 Wed 17:02]--[2017-02-22 Wed 18:59] =>  1:57
    :END:
 
-** STARTED [#B] 周五铝业学院来访，张青准备好平台，ppt,王树兵汇报学生管理
+** DONE [#B] 周五铝业学院来访，张青准备好平台，ppt,王树兵汇报学生管理
+   CLOSED: [2017-02-28 二 09:22]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:22]
    CLOCK: [2017-02-22 Wed 19:01]--[2017-02-22 Wed 19:44] =>  0:43
    :END:
 
@@ -4702,6 +4764,99 @@ gg file first
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-27 Mon 21:30]
    CLOCK: [2017-02-27 Mon 21:22]--[2017-02-27 Mon 21:30] =>  0:08
+   :END:
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2017-02-28 二 09:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:22]
+   CLOCK: [2017-02-28 二 05:38]--[2017-02-28 二 06:23] =>  0:45
+   :END:
+
+** DONE [#B] go to home in order to have breakfast<2017-02-28 二 06:53>
+   CLOSED: [2017-02-28 二 08:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 08:10]
+   CLOCK: [2017-02-28 二 06:53]--[2017-02-28 二 08:00] =>  1:07
+   :END:
+
+** DONE [#B] washing floor
+   CLOSED: [2017-02-28 二 08:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 08:09]
+   CLOCK: [2017-02-28 二 08:00]--[2017-02-28 二 08:09] =>  0:09
+   :END:
+
+** DONE [#B] learn Vim<2017-02-28 二 08:12>
+   CLOSED: [2017-02-28 二 09:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:01]
+   CLOCK: [2017-02-28 二 08:12]--[2017-02-28 二 09:01] =>  0:49
+   :END:
+
+** DONE [#B] 检查教学情况<2017-02-28 二 09:02>
+   CLOSED: [2017-02-28 二 09:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 09:18]
+   CLOCK: [2017-02-28 二 09:02]--[2017-02-28 二 09:18] =>  0:16
+   :END:
+
+** DONE [#B]go to library
+   CLOSED: [2017-02-28 二 11:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 11:22]
+   CLOCK: [2017-02-28 二 09:24]--[2017-02-28 二 11:22] =>  1:58
+   :END:
+到图书馆，李海青，李军祥、张林
+回办公室后书写32课，批阅教师考核办法
+
+** DONE [#B] relax and browse
+   CLOSED: [2017-02-28 二 11:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 11:53]
+   CLOCK: [2017-02-28 二 11:25]--[2017-02-28 二 11:53] =>  0:28
+   :END:
+
+** DONE [#B] going to home and to have lunch
+   CLOSED: [2017-02-28 二 14:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 14:30]
+   CLOCK: [2017-02-28 二 11:54]--[2017-02-28 二 14:30] =>  2:36
+   :END:
+
+** DONE [#B] learn Vim
+   CLOSED: [2017-02-28 二 14:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 14:44]
+   CLOCK: [2017-02-28 二 14:37]--[2017-02-28 二 14:44] =>  0:07
+   :END:
+
+** DONE [#B] prepare meeting adendas
+   CLOSED: [2017-02-28 二 18:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 18:40]
+   CLOCK: [2017-02-28 二 15:21]--[2017-02-28 二 18:40] =>  3:19
+   :END:
+carry wife to home
+and eating dinner
+
+** DONE [#B] 上课405
+   CLOSED: [2017-02-28 二 19:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 19:44]
+   CLOCK: [2017-02-28 二 18:44]--[2017-02-28 二 19:44] =>  1:00
+   :END:
+
+** DONE [#B] I am so tired. so must to relax,but prepare moddle
+   CLOSED: [2017-02-28 二 21:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 21:02]
+   CLOCK: [2017-02-28 二 19:45]--[2017-02-28 二 21:02] =>  1:17
+   :END:
+
+** STARTED [#B] going to home
+   :LOGBOOK:
+   CLOCK: [2017-02-28 二 21:22]
    :END:
 
 * Cocos2D-X

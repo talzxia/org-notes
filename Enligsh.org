@@ -1340,6 +1340,12 @@ Is it summer? No, it is winter: a woman is running in the snow.
    - State "DONE"       from "STARTED"    [2016-10-19 三 06:07]
    CLOCK: [2016-10-19 三 05:50]--[2016-10-19 三 06:07] =>  0:17
    :END:
+*** DONE Review<2017-02-28 二 21:03>99.2%
+    CLOSED: [2017-02-28 二 21:20]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-02-28 二 21:20]
+    CLOCK: [2017-02-28 二 21:03]--[2017-02-28 二 21:20] =>  0:17
+    :END:
 ** Lesson6
 
 autumn
@@ -8713,6 +8719,12 @@ The woman is checking her flight on her ticket.
    - State "DONE"       from "STARTED"    [2016-12-07 Wed 05:17]
    CLOCK: [2016-12-07 Wed 04:46]--[2016-12-07 Wed 05:17] =>  0:31
    :END:
+** DONE Loud Read<2017-02-28 二 04:46>33,32,34
+   CLOSED: [2017-02-28 二 05:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 05:37]
+   CLOCK: [2017-02-28 二 04:46]--[2017-02-28 二 05:37] =>  0:51
+   :END:
 ** Lesson 31
 passport control customs control registration flight a currency exchange booth a
 waiting area
@@ -9302,6 +9314,19 @@ The man is lying on the soft couch because he's watching television.
    - State "DONE"       from "STARTED"    [2016-07-27 Wed 05:55]
    CLOCK: [2016-07-27 Wed 05:03]--[2016-07-27 Wed 05:55] =>  0:52
    :END:
+** DONE Review<2017-02-28 二 06:23>97.8%
+   CLOSED: [2017-02-28 二 06:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 06:52]
+   CLOCK: [2017-02-28 二 06:23]--[2017-02-28 二 06:52] =>  0:29
+   :END:
+** DONE Review<2017-02-28 二 14:45>98%
+   CLOSED: [2017-02-28 二 15:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-28 二 15:20]
+   CLOCK: [2017-02-28 二 14:45]--[2017-02-28 二 15:20] =>  0:35
+   :END:
+千锋科技来访
 * DONE Review thirty three 95.3%
   CLOSED: [2016-08-03 Wed 04:53]
   :LOGBOOK:
