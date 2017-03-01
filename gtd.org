@@ -4855,8 +4855,69 @@ and eating dinner
    :END:
 
 ** STARTED [#B] going to home
+
+** DONE [#B] relax and browse
+   CLOSED: [2017-03-01 Wed 06:51]
    :LOGBOOK:
-   CLOCK: [2017-02-28 二 21:22]
+   - State "DONE"       from "STARTED"    [2017-03-01 Wed 06:51]
+   CLOCK: [2017-03-01 Wed 06:12]--[2017-03-01 Wed 06:51] =>  0:39
+   :END:
+reivew seven 99.1%
+
+** DONE [#B] go home and to have breakfast
+   CLOSED: [2017-03-01 Wed 08:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-01 Wed 08:06]
+   CLOCK: [2017-03-01 Wed 06:52]--[2017-03-01 Wed 08:06] =>  1:14
+   :END:
+
+** STARTED [#B] arrive office and begin to work
+   :LOGBOOK:
+   CLOCK: [2017-03-01 Wed 08:06]--[2017-03-01 Wed 08:14] =>  0:08
+   :END:
+
+** DONE [#B] relax <2017-03-01 Wed 09:03>
+   CLOSED: [2017-03-01 Wed 09:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-01 Wed 09:37]
+   CLOCK: [2017-03-01 Wed 09:03]--[2017-03-01 Wed 09:37] =>  0:34
+   :END:
+走一圈，检查教学。书法课学生玩游戏。
+
+** DONE [#B] learn Vim<2017-03-01 Wed 09:37>
+   CLOSED: [2017-03-01 Wed 12:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-01 Wed 12:06]
+   CLOCK: [2017-03-01 Wed 09:37]--[2017-03-01 Wed 12:06] =>  2:29
+   :END:
+南京五十五所谈合作共建云专业
+拿三分之一80万分期投入教学
+** DONE [#B] to have lunch
+   CLOSED: [2017-03-01 Wed 14:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-01 Wed 14:18]
+   CLOCK: [2017-03-01 Wed 12:06]--[2017-03-01 Wed 14:18] =>  2:12
+   :END:
+
+** DONE [#B] learn vim
+   CLOSED: [2017-03-01 Wed 14:33]
+
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-01 Wed 14:33]
+   CLOCK: [2017-03-01 Wed 14:18]--[2017-03-01 Wed 14:33] =>  0:15
+   :END:
+
+** DONE [#B]relax then meeting
+   CLOSED: [2017-03-01 Wed 18:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-01 Wed 18:35]
+   CLOCK: [2017-03-01 Wed 15:33]--[2017-03-01 Wed 18:35] =>  3:02
+   :END:
+to have dinner
+
+** STARTED [#B] teaching spacemacs<2017-03-01 Wed 16:51>
+   :LOGBOOK:
+   CLOCK: [2017-03-01 Wed 18:51]
    :END:
 
 * Cocos2D-X
