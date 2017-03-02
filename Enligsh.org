@@ -8743,6 +8743,12 @@ The woman is checking her flight on her ticket.
    - State "DONE"       from "STARTED"    [2017-02-28 二 05:37]
    CLOCK: [2017-02-28 二 04:46]--[2017-02-28 二 05:37] =>  0:51
    :END:
+** DONE Review<2017-03-02 Thu 18:14>95.5%
+   CLOSED: [2017-03-02 Thu 18:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-02 Thu 18:48]
+   CLOCK: [2017-03-02 Thu 18:14]--[2017-03-02 Thu 18:48] =>  0:34
+   :END:
 ** Lesson 31
 passport control customs control registration flight a currency exchange booth a
 waiting area
@@ -9345,6 +9351,12 @@ The man is lying on the soft couch because he's watching television.
    CLOCK: [2017-02-28 二 14:45]--[2017-02-28 二 15:20] =>  0:35
    :END:
 千锋科技来访
+** DONE Loud Read<2017-03-02 Thu 05:29>32,33,34
+   CLOSED: [2017-03-02 Thu 06:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-02 Thu 06:11]
+   CLOCK: [2017-03-02 Thu 05:29]--[2017-03-02 Thu 06:11] =>  0:42
+   :END:
 * DONE Review thirty three 95.3%
   CLOSED: [2016-08-03 Wed 04:53]
   :LOGBOOK:
@@ -30873,3 +30885,10 @@ amming
  来源于：维基百科
 
 * DONE Wrting<2017-02-03 五 15:13>
+* Writing
+** DONE Lesson 33<2017-03-02 Thu 09:34>
+   CLOSED: [2017-03-02 Thu 10:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-02 Thu 10:34]
+   CLOCK: [2017-03-02 Thu 09:34]--[2017-03-02 Thu 10:34] =>  1:00
+   :END:

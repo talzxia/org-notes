@@ -4929,6 +4929,75 @@ to have dinner
    CLOCK: [2017-03-01 Wed 20:10]--[2017-03-01 Wed 21:28] =>  1:18
    :END:
 
+** DONE [#B] relax and browse<2017-03-02 Thu 06:13>
+   CLOSED: [2017-03-02 Thu 08:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-02 Thu 08:32]
+   CLOCK: [2017-03-02 Thu 06:13]--[2017-03-02 Thu 08:00] =>  2:02
+   :END:
+to have breakfast
+** DONE [#B] clean up the office
+   CLOSED: [2017-03-02 Thu 08:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-02 Thu 08:30]
+   CLOCK: [2017-03-02 Thu 08:00]--[2017-03-02 Thu 08:30] =>  0:30
+   :END:
+
+** DONE [#B] study Vim second
+   CLOSED: [2017-03-02 Thu 08:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-02 Thu 08:53]
+   CLOCK: [2017-03-02 Thu 08:34]--[2017-03-02 Thu 08:51] =>  0:17
+   :END:
+
+** DONE [#B] 检查教学情况
+   CLOSED: [2017-03-02 Thu 09:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-02 Thu 09:33]
+   CLOCK: [2017-03-02 Thu 09:20]--[2017-03-02 Thu 09:33] =>  0:13
+   :END:
+15级上课情况一般，安排学生会检查、上课老师报考勤，通报班主任谈话。
+
+** DONE [#B] check moddle
+   CLOSED: [2017-03-02 Thu 11:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-02 Thu 11:31]
+   CLOCK: [2017-03-02 Thu 10:34]--[2017-03-02 Thu 11:31] =>  0:57
+   :END:
+
+** DONE [#B] go home to have lunch
+   CLOSED: [2017-03-02 Thu 14:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-02 Thu 14:20]
+   CLOCK: [2017-03-02 Thu 11:33]--[2017-03-02 Thu 14:20] =>  2:47
+   :END:
+
+** DONE [#B] 锐捷公司牛壮来访
+   CLOSED: [2017-03-02 Thu 15:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-02 Thu 15:35]
+   CLOCK: [2017-03-02 Thu 14:21]--[2017-03-02 Thu 15:35] =>  1:14
+   :END:
+
+** DONE [#B] 参加教研活动
+   CLOSED: [2017-03-02 Thu 16:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-02 Thu 16:15]
+   CLOCK: [2017-03-02 Thu 15:36]--[2017-03-02 Thu 16:15] =>  0:39
+   :END:
+
+** DONE [#B] prepare tonight lesson
+   CLOSED: [2017-03-02 Thu 18:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-02 Thu 18:14]
+   CLOCK: [2017-03-02 Thu 16:16]--[2017-03-02 Thu 18:14] =>  1:58
+   :END:
+
+** STARTED [#B] give a lecture
+   :LOGBOOK:
+   CLOCK: [2017-03-02 Thu 18:50]
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
