@@ -5014,6 +5014,77 @@ to have breakfast
    CLOCK: [2017-03-02 Thu 21:10]--[2017-03-02 Thu 21:21] =>  0:11
    :END:
 
+** DONE [#B] relax and browse
+   CLOSED: [2017-03-03 Fri 06:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-03 Fri 06:50]
+   CLOCK: [2017-03-03 Fri 06:23]--[2017-03-03 Fri 06:50] =>  0:27
+   :END:
+
+** DONE [#B] to have breakfast
+   CLOSED: [2017-03-03 Fri 07:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-03 Fri 07:57]
+   CLOCK: [2017-03-03 Fri 06:51]--[2017-03-03 Fri 07:57] =>  1:06
+   :END:
+
+** DONE [#B] clean up office<2017-03-03 Fri 07:57>
+   CLOSED: [2017-03-03 Fri 08:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-03 Fri 08:17]
+   CLOCK: [2017-03-03 Fri 07:57]--[2017-03-03 Fri 08:17] =>  0:20
+   :END:
+
+** DONE [#B] relax
+   CLOSED: [2017-03-03 Fri 10:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-03 Fri 10:07]
+   CLOCK: [2017-03-03 Fri 09:27]--[2017-03-03 Fri 10:07] =>  0:40
+   :END:
+
+** DONE [#B] 教学检查
+   CLOSED: [2017-03-03 Fri 10:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-03 Fri 10:53]
+   CLOCK: [2017-03-03 Fri 10:08]--[2017-03-03 Fri 10:53] =>  0:45
+   :END:
+到财经系学习、交流，安排老师及学生学习ERP事宜。
+
+** DONE [#B] practice<2017-03-03 Fri 10:55>
+   CLOSED: [2017-03-03 Fri 11:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-03 Fri 11:30]
+   CLOCK: [2017-03-03 Fri 10:55]--[2017-03-03 Fri 11:30] =>  0:35
+   :END:
+
+** DONE [#B] to have lunch<2017-03-03 Fri 11:41>
+   CLOSED: [2017-03-03 Fri 14:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-03 Fri 14:20]
+   CLOCK: [2017-03-03 Fri 11:41]--[2017-03-03 Fri 14:20] =>  2:39
+   :END:
+
+** DONE [#B] practice<2017-03-03 Fri 14:21>11,12
+   CLOSED: [2017-03-03 Fri 15:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-03 Fri 15:20]
+   CLOCK: [2017-03-03 Fri 14:21]--[2017-03-03 Fri 15:20] =>  0:59
+   :END:
+
+** DONE [#B] relax
+   CLOSED: [2017-03-03 Fri 21:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-03 Fri 21:13]
+   CLOCK: [2017-03-03 Fri 15:21]--[2017-03-03 Fri 21:13] =>  5:52
+   :END:
+dinner:
+liu jui wantjx taish.lushi,zhanglixia,??
+
+** STARTED [#B] go home
+   :LOGBOOK:
+   CLOCK: [2017-03-03 Fri 21:14]
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
