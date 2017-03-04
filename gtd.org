@@ -5080,9 +5080,68 @@ to have breakfast
 dinner:
 liu jui wantjx taish.lushi,zhanglixia,??
 
-** STARTED [#B] go home
+** DONE [#B] go home
+   CLOSED: [2017-03-04 Sat 05:48]
    :LOGBOOK:
-   CLOCK: [2017-03-03 Fri 21:14]
+   - State "DONE"       from "STARTED"    [2017-03-04 Sat 05:48]
+   CLOCK: [2017-03-03 Fri 21:14]--[2017-03-03 Sat 21:15] =>  0:01
+   :END:
+
+** DONE [#B] relax
+   CLOSED: [2017-03-04 Sat 06:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-04 Sat 06:34]
+   CLOCK: [2017-03-04 Sat 05:52]--[2017-03-04 Sat 06:34] =>  0:42
+   :END:
+
+** DONE [#B] walk outside<2017-03-04 Sat 06:35>
+   CLOSED: [2017-03-04 Sat 07:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-04 Sat 07:57]
+   CLOCK: [2017-03-04 Sat 06:35]--[2017-03-04 Sat 07:57] =>  1:22
+   :END:
+to have breakfast
+
+** DONE [#B] 策划党派政协委员活动
+   CLOSED: [2017-03-04 Sat 08:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-04 Sat 08:32]
+   CLOCK: [2017-03-04 Sat 07:50]--[2017-03-04 Sat 08:32] =>  0:42
+   :END:
+*** 成员：致公党常委政协委员（邀请统战、政协领导）学院领导
+*** 媒体：泰山电视台、泰安日报
+*** 主题“撸起袖子加油干”---致公党人大代表、政协委员履职纪实
+*** 地点：泰山职业技术学院信息技术工程系
+调研内容：落实国家大数据发展战略，推动泰山市大数据产业发展
+实地考察大数据、云技术在教育教学中的应用
+*** 信息技术工程系介绍大数据教学及管理应用情况
+**** 理念引领，文化熏陶
+**** 平台支撑，精细培养
+**** 凤凰涅槃，成效着著
+*** 致公党主委总结讲话，强调服务于泰安市中心工作，做好本职、及委员工作。
+其它领导讲话。
+
+** DONE [#B]to relax in nature
+   CLOSED: [2017-03-04 Sat 13:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-04 Sat 13:59]
+   CLOCK: [2017-03-04 Sat 08:54]--[2017-03-04 Sat 13:59] =>  5:05
+   :END:
+汽车缺电，叫救援，后一车帮忙，启动。
+下午去换电池。
+
+** DONE [#B] 换电瓶<2017-03-04 Sat 14:20>
+   CLOSED: [2017-03-04 Sat 17:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-04 Sat 17:26]
+   CLOCK: [2017-03-04 Sat 14:20]--[2017-03-04 Sat 17:26] =>  3:06
+   :END:
+
+** DONE [#B] relax and listen to music
+   CLOSED: [2017-03-04 Sat 18:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-04 Sat 18:32]
+   CLOCK: [2017-03-04 Sat 17:28]--[2017-03-04 Sat 18:32] =>  1:04
    :END:
 
 * Cocos2D-X
