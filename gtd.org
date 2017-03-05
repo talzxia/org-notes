@@ -5144,6 +5144,72 @@ to have breakfast
    CLOCK: [2017-03-04 Sat 17:28]--[2017-03-04 Sat 18:32] =>  1:04
    :END:
 
+** STARTED [#B] arrive office and begin to study<2017-03-05 Sun 04:59>
+   :LOGBOOK:
+   CLOCK: [2017-03-05 Sun 04:59]--[2017-03-05 Sun 05:00] =>  0:01
+   :END:
+
+**  DONE [#B] relax and browse
+   CLOSED: [2017-03-05 Sun 06:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-05 Sun 06:46]
+   CLOCK: [2017-03-05 Sun 05:32]--[2017-03-05 Sun 06:46] =>  1:14
+   :END:
+
+** DONE [#B] to have breakfast<2017-03-05 Sun 07:02>
+   CLOSED: [2017-03-05 Sun 09:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-05 Sun 09:01]
+   CLOCK: [2017-03-05 Sun 07:02]--[2017-03-05 Sun 09:01] =>  1:59
+   :END:
+送孩子去东方驾校学车
+
+** DONE [#B] relax and listen music<2017-03-05 Sun 10:04>
+   CLOSED: [2017-03-05 Sun 14:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-05 Sun 14:24]
+   CLOCK: [2017-03-05 Sun 10:04]--[2017-03-05 Sun 14:24] =>  4:20
+   :END:
+take wife and grandma
+to have lunch
+
+** DONE [#B] relax<2017-03-05 Sun 15:05>
+   CLOSED: [2017-03-05 Sun 15:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-05 Sun 15:36]
+   CLOCK: [2017-03-05 Sun 15:05]--[2017-03-05 Sun 15:36] =>  0:31
+   :END:
+listen to English songs and read speacemacs of zilongshanren
+
+** DONE [#B] relax because I have backache.
+   CLOSED: [2017-03-05 Sun 19:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-05 Sun 19:12]
+   CLOCK: [2017-03-05 Sun 15:58]--[2017-03-05 Sun 19:12] =>  3:14
+   :END:
+to relax in hushan park and back to home for dinner
+
+** DONE [#B] test Engilsh<2017-03-05 Sun 19:13>10,11,12:98.8,99.6,99.4
+   CLOSED: [2017-03-05 Sun 20:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-05 Sun 20:09]
+   CLOCK: [2017-03-05 Sun 19:13]--[2017-03-05 Sun 20:09] =>  0:56
+   :END:
+
+** DONE [#B] check the evening study<2017-03-05 Sun 20:11>
+   CLOSED: [2017-03-05 Sun 20:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-05 Sun 20:28]
+   CLOCK: [2017-03-05 Sun 20:11]--[2017-03-05 Sun 20:28] =>  0:17
+   :END:
+
+** DONE [#B] relax and listen to happy music
+   CLOSED: [2017-03-05 Sun 21:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-05 Sun 21:08]
+   CLOCK: [2017-03-05 Sun 20:28]--[2017-03-05 Sun 21:08] =>  0:40
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
