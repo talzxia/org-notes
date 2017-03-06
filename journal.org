@@ -3202,19 +3202,38 @@ http://news.ifeng.com/a/20170209/50670773_0.shtml
      :END:
 *** 2017-03-03 Friday
 
-**** STARTED arrive office begin to study
+**** DONE arrive office begin to study
+     CLOSED: [2017-03-05 Sun 21:30]
      :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2017-03-05 Sun 21:30]
      CLOCK: [2017-03-03 Fri 05:28]--[2017-03-03 Fri 05:31] =>  0:03
      :END:
 *** 2017-03-04 Saturday
 
-**** STARTED arrive office and begin to study
+**** DONE arrive office and begin to study
+     CLOSED: [2017-03-05 Sun 21:30]
      :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2017-03-05 Sun 21:30]
      CLOCK: [2017-03-04 Sat 03:46]--[2017-03-04 Sat 04:09] =>  0:23
      :END:
 *** 2017-03-05 Sunday
 
 **** home break<2017-03-05 Sun 21:27>
+*** 2017-03-06 星期一
+
+**** STARTED arrive office and begin to study<2017-03-06 一 04:20>
+     :LOGBOOK:
+     CLOCK: [2017-03-06 一 04:20]--[2017-03-06 一 04:21] =>  0:01
+     :END:
+
+**** arrive office begin to work <2017-03-06 一 07:25>
+
+**** finish today work<2017-03-06 一 15:04>
+
+**** STARTED finish today <2017-03-06 一 21:33>
+     :LOGBOOK:
+     CLOCK: [2017-03-06 一 21:33]
+     :END:
 
 * 2017-02-24 Friday
 
