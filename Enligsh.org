@@ -1658,6 +1658,12 @@ An orange and a banana? No, an orange and a lemon.
   - State "DONE"       from "STARTED"    [2016-07-23 Sat 16:43]
   CLOCK: [2016-07-23 Sat 16:03]--[2016-07-23 Sat 16:43] =>  0:40
   :END:
+** DONE Review<2017-03-07 二 16:29>98%
+   CLOSED: [2017-03-07 二 18:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-07 二 18:50]
+   CLOCK: [2017-03-07 二 18:29]--[2017-03-07 二 18:50] =>  0:21
+   :END:
 ** history
 *** DONE Review 98.4%
    CLOSED: [2016-08-19 五 21:15]
@@ -7999,6 +8005,18 @@ There are many beautiful buildings around the square.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-06 一 05:10]
    CLOCK: [2017-03-06 一 04:21]--[2017-03-06 一 05:10] =>  0:49
+   :END:
+** DONE Loud Read<2017-03-07 二 03:44>
+   CLOSED: [2017-03-07 二 03:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-07 二 03:57]
+   CLOCK: [2017-03-07 二 03:43]--[2017-03-07 二 03:57] =>  0:14
+   :END:
+** DONE Review<2017-03-07 二 04:02>97.3%
+   CLOSED: [2017-03-07 二 04:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-07 二 04:54]
+   CLOCK: [2017-03-07 二 04:02]--[2017-03-07 二 04:54] =>  0:52
    :END:
 ** Lesson 30
 This is a view of the desert. A group of people are travelling on canmels. Three
@@ -18050,6 +18068,12 @@ a coin washing machine.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-20 一 07:49]
    CLOCK: [2017-02-20 一 07:24]--[2017-02-20 一 07:49] =>  0:25
+   :END:
+** DONE Review<2017-03-07 二 06:30>98.6%
+   CLOSED: [2017-03-07 二 06:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-07 二 06:56]
+   CLOCK: [2017-03-07 二 06:30]--[2017-03-07 二 06:56] =>  0:26
    :END:
 ** Lesson 40
 soap a bucket detergent laundry detergent a cloth a brush

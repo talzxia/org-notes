@@ -3230,10 +3230,22 @@ http://news.ifeng.com/a/20170209/50670773_0.shtml
 
 **** finish today work<2017-03-06 一 15:04>
 
-**** STARTED finish today <2017-03-06 一 21:33>
+**** DONE finish today <2017-03-06 一 21:33>
+     CLOSED: [2017-03-06 一 21:35]
      :LOGBOOK:
-     CLOCK: [2017-03-06 一 21:33]
+     - State "DONE"       from "STARTED"    [2017-03-06 一 21:35]
+     CLOCK: [2017-03-06 一 21:33]--[2017-03-06 一 21:35] =>  0:02
      :END:
+*** 2017-03-07 星期二
+
+**** DONE arrive office and begin to study<2017-03-07 二 03:39>
+     CLOSED: [2017-03-07 二 04:56]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2017-03-07 二 04:56]
+     CLOCK: [2017-03-07 二 03:39]--[2017-03-07 二 03:43] =>  0:04
+     :END:
+
+**** arrive office and begin to work<2017-03-07 二 08:04>
 
 * 2017-02-24 Friday
 
