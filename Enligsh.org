@@ -2217,6 +2217,12 @@ Are the young women in a nighclub? No, they are in a shop.
     - State "DONE"       from "STARTED"    [2017-01-18 Wed 10:48]
     CLOCK: [2017-01-18 Wed 10:30]--[2017-01-18 Wed 10:48] =>  0:18
     :END:
+*** DONE Review<2017-03-08 三 16:48>98.3%
+    CLOSED: [2017-03-08 三 19:05]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-03-08 三 19:05]
+    CLOCK: [2017-03-08 三 18:48]--[2017-03-08 三 19:05] =>  0:17
+    :END:
 ** Lesson 10
 
 a café
@@ -2430,6 +2436,12 @@ Is the table in the kitchen dirty? No, the table in the kitchen is clean.
     CLOCK: [2017-01-16 一 18:41]--[2017-01-16 一 18:57] =>  0:16
     - State "DONE"       from "STARTED"    [2017-01-16 一 16:41]
     CLOCK: [2017-01-16 一 16:14]--[2017-01-16 一 16:41] =>  0:27
+    :END:
+*** DONE Review<2017-03-08 三 19:07>99.0%
+    CLOSED: [2017-03-08 三 19:25]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-03-08 三 19:25]
+    CLOCK: [2017-03-08 三 19:07]--[2017-03-08 三 19:25] =>  0:18
     :END:
 ** Lesson 11
 
@@ -8868,6 +8880,18 @@ The woman is checking her flight on her ticket.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-04 Sat 04:46]
    CLOCK: [2017-03-04 Sat 04:09]--[2017-03-04 Sat 04:46] =>  0:37
+   :END:
+** DONE Loud Read<2017-03-08 三 04:14>30,31
+   CLOSED: [2017-03-08 三 04:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-08 三 04:57]
+   CLOCK: [2017-03-08 三 04:13]--[2017-03-08 三 04:57] =>  0:44
+   :END:
+** DONE Writing<2017-03-08 三 08:27>
+   CLOSED: [2017-03-08 三 09:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-08 三 09:15]
+   CLOCK: [2017-03-08 三 08:27]--[2017-03-08 三 09:15] =>  0:48
    :END:
 ** Lesson 31
 passport control customs control registration flight a currency exchange booth a
