@@ -5505,7 +5505,62 @@ lesson nine 97.9%
    :END:
 watch it creay two films
 
-** STARTED [#B]go home and sleeping<2017-03-08 三 21:12>
+** DONE [#B]go home and sleeping<2017-03-08 三 21:12>
+   CLOSED: [2017-03-09 四 06:41]
    :LOGBOOK:
-   CLOCK: [2017-03-08 三 21:12]
+   - State "DONE"       from "STARTED"    [2017-03-09 四 06:41]
+   CLOCK: [2017-03-08 三 21:12]--[2017-03-09 四 05:00] =>  7:48
+   :END:
+
+** DONE [#B]relax and browse<2017-03-09 四 06:01>
+   CLOSED: [2017-03-09 四 06:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-09 四 06:41]
+   CLOCK: [2017-03-09 四 06:01]--[2017-03-09 四 06:41] =>  0:40
+   :END:
+
+** DONE [#B] writing<2017-03-09 四 08:15>
+   CLOSED: [2017-03-09 四 11:40]
+
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-09 四 11:40]
+   CLOCK: [2017-03-09 四 08:15]--[2017-03-09 四 11:40] =>  3:25
+   :END:
+9:10到王院长汇报工作
+1.下周一或二下午政协委员来我系调研：大数据云技术教学及管理应用
+2.开学两周工作情况
+a.任务目标分解，任务检查落实
+b.管理提升情况。
+c.对学生的新要求
+10：00：学术委员会开会推荐“万人名师”一名
+审报人：张莹、赵京兰、王萍
+10：30-11:30：济南博赛网络王来访
+
+** DONE [#B] 对时间管理及工作作规划
+  CLOSED: [2017-03-09 四 11:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-09 四 11:48]
+   CLOCK: [2017-03-09 四 11:42]--[2017-03-09 四 11:48] =>  0:06
+   :END:
+sleep.org 记录每天睡眠时间
+work.org  记录每天的工作及时间
+way.org   记录每天在路途中时间
+home.org  记录每天在家的学习时间
+English.org 记录英语学习时间
+Vim-learning.org 记录学习此技能时间
+等等：
+下午落实实施
+
+** DONE [#B] go home to have lunch<2017-03-09 四 11:49>
+   CLOSED: [2017-03-09 四 14:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-09 四 14:00]
+   CLOCK: [2017-03-09 四 11:49]--[2017-03-09 四 14:00] =>  2:11
+   :END:
+
+** DONE [#B] finish morning plan<2017-03-09 四 14:02>
+   CLOSED: [2017-03-09 四 14:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-09 四 14:19]
+   CLOCK: [2017-03-09 四 14:02]--[2017-03-09 四 14:06] =>  0:04
    :END:

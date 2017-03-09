@@ -11506,6 +11506,26 @@ bake tasty pies.
    - State "DONE"       from "STARTED"    [2017-03-05 Sun 05:32]
    CLOCK: [2017-03-05 Sun 05:00]--[2017-03-05 Sun 05:32] =>  0:32
    :END:
+** DONE Loud Read<2017-03-09 四 05:33>
+   CLOSED: [2017-03-09 四 06:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-09 四 06:00]
+   CLOCK: [2017-03-09 四 05:33]--[2017-03-09 四 05:47] =>  0:14
+   :END:
+** DONE Review<2017-03-09 四 06:44>95.2%
+   CLOSED: [2017-03-09 四 08:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-09 四 08:13]
+   CLOCK: [2017-03-09 四 06:44]--[2017-03-09 四 08:13] =>  1:29
+   :END:
+** DONE Review<2017-03-09 四 20:38>97.4%
+   CLOSED: [2017-03-09 四 21:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-09 四 21:11]
+   CLOCK: [2017-03-09 四 20:38]--[2017-03-09 四 21:11] =>  0:33
+   :END:
+6:50 go to home in order to have breakfast
+7:45 arrive office countiue study
 ** Lesson 35
 a blouse a tank top a coat a sweater tights socks
 
@@ -11577,7 +11597,7 @@ Do all grandmothers like to sew warm socks for their grandchildren? Yes, they li
 it.
 Do all girls like to sew? Yes, but not all know how.
 Do all men like women in high heels? Yes, all men like such women.
-Does the whote family like the clothing that grandma knits? Yes, the whole
+Does the whole family like the clothing that grandma knits? Yes, the whole
 family likes this clothing.
 
 ** text
@@ -12271,6 +12291,12 @@ family likes this clothing.
    - State "DONE"       from "STARTED"    [2016-12-08 Thu 08:03]
    CLOCK: [2016-12-08 Thu 07:40]--[2016-12-08 Thu 08:03] =>  0:23
    :END:
+** DONE Loud Read<2017-03-09 四 05:47>
+   CLOSED: [2017-03-09 四 06:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-09 四 06:00]
+   CLOCK: [2017-03-09 四 05:47]--[2017-03-09 四 06:00] =>  0:13
+   :END:
 ** Lesson 36
 a market a counter a supermaket change a cash register a receipt
 
@@ -12280,7 +12306,7 @@ to help to give to carry to weigh to wrap to pick out
 
 light cheap expensive rich dark poor
 
-half a whole apple a who pie half of a pie half
+half a whole apple a whole pie half of a pie half
 
 a bright room
 a dark bar
