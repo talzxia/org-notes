@@ -19,3 +19,21 @@
     - State "DONE"       from "STARTED"    [2017-03-09 四 21:27]
     CLOCK: [2017-03-09 四 21:13]--[2017-03-09 四 21:27] =>  0:14
     :END:
+*** DONE Relax and browse<2017-03-10 五 04:44>
+    CLOSED: [2017-03-10 五 07:01]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-03-10 五 07:01]
+    CLOCK: [2017-03-10 五 04:44]--[2017-03-10 五 07:01] =>  2:17
+    :END:
+*** DONE go home to have dinner<2017-03-10 五 17:16>
+    CLOSED: [2017-03-10 五 19:27]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-03-10 五 19:27]
+    CLOCK: [2017-03-10 五 17:16]--[2017-03-10 五 19:27] =>  2:11
+    :END:
+*** DONE listen to happy music and browse news<2017-03-10 五 20:01>
+    CLOSED: [2017-03-10 五 21:10]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-03-10 五 21:10]
+    CLOCK: [2017-03-10 五 20:01]--[2017-03-10 五 21:10] =>  1:09
+    :END:

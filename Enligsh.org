@@ -8893,6 +8893,18 @@ The woman is checking her flight on her ticket.
    - State "DONE"       from "STARTED"    [2017-03-08 三 09:15]
    CLOCK: [2017-03-08 三 08:27]--[2017-03-08 三 09:15] =>  0:48
    :END:
+** DONE Loud Read<2017-03-10 五 04:09>
+   CLOSED: [2017-03-10 五 04:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-10 五 04:22]
+   CLOCK: [2017-03-10 五 04:09]--[2017-03-10 五 04:22] =>  0:13
+   :END:
+** DONE Review<2017-03-10 五 21:12>96.9%
+   CLOSED: [2017-03-10 五 21:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-10 五 21:39]
+   CLOCK: [2017-03-10 五 21:12]--[2017-03-10 五 21:39] =>  0:27
+   :END:
 ** Lesson 31
 passport control customs control registration flight a currency exchange booth a
 waiting area
@@ -11526,6 +11538,18 @@ bake tasty pies.
    :END:
 6:50 go to home in order to have breakfast
 7:45 arrive office countiue study
+** DONE Loud Read<2017-03-10 五 04:23>
+   CLOSED: [2017-03-10 五 04:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-10 五 04:43]
+   CLOCK: [2017-03-10 五 04:23]--[2017-03-10 五 04:43] =>  0:20
+   :END:
+** DONE Review<2017-03-10 五 19:28>98.2%
+   CLOSED: [2017-03-10 五 20:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-10 五 20:00]
+   CLOCK: [2017-03-10 五 19:28]--[2017-03-10 五 20:00] =>  0:32
+   :END:
 ** Lesson 35
 a blouse a tank top a coat a sweater tights socks
 
