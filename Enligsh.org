@@ -8030,6 +8030,24 @@ There are many beautiful buildings around the square.
    - State "DONE"       from "STARTED"    [2017-03-07 二 04:54]
    CLOCK: [2017-03-07 二 04:02]--[2017-03-07 二 04:54] =>  0:52
    :END:
+** DONE Loud Read<2017-03-11 六 05:22>
+   CLOSED: [2017-03-11 六 05:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-11 六 05:49]
+   CLOCK: [2017-03-11 六 05:22]--[2017-03-11 六 05:49] =>  0:27
+   :END:
+** DONE Review<2017-03-11 六 06:17>97.3%
+   CLOSED: [2017-03-11 六 07:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-11 六 07:07]
+   CLOCK: [2017-03-11 六 06:17]--[2017-03-11 六 07:07] =>  0:50
+   :END:
+** DONE Loud Read<2017-03-12 日 07:15>
+   CLOSED: [2017-03-12 日 08:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-12 日 20:47]
+   CLOCK: [2017-03-12 日 07:15]--[2017-03-12 日 7:47] =>  0:32
+   :END:
 ** Lesson 30
 This is a view of the desert. A group of people are travelling on canmels. Three
 camels are lying the sand, and two are standing.
@@ -8904,6 +8922,18 @@ The woman is checking her flight on her ticket.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-10 五 21:39]
    CLOCK: [2017-03-10 五 21:12]--[2017-03-10 五 21:39] =>  0:27
+   :END:
+** DONE Review<2017-03-11 六 10:00>97.6%
+   CLOSED: [2017-03-11 六 10:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-11 六 10:27]
+   CLOCK: [2017-03-11 六 10:00]--[2017-03-11 六 10:27] =>  0:27
+   :END:
+** DONE Review<2017-03-12 日 20:48>97.6%
+   CLOSED: [2017-03-12 日 21:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-12 日 21:16]
+   CLOCK: [2017-03-12 日 20:48]--[2017-03-12 日 21:16] =>  0:28
    :END:
 ** Lesson 31
 passport control customs control registration flight a currency exchange booth a
@@ -31102,6 +31132,12 @@ amming
  Literacy is traditionally understood as the ability to read and write. The term's meaning has been expanded to include the ability to use language, numbers, images and other means to understand and use the dominant symbol systems of a culture. The concept of literacy is expanding in OECD countries to include skills to access knowledge through technology and ability to assess complex contexts.Literacy represents the lifelong, intellectual process of gaining meaning from a critical interpretation of written or printed text. The key to all literacy is reading development, a progression of skills that begins with the ability to understand spoken words and decode written words, and culminates in the deep understanding of text. Reading development involves a range of complex language underpinnings including awareness of speech sounds (phonology), spelling patterns (orthography), word meaning (semantics), grammar (syntax) and patterns of word formation (morphology), all of which provide a necessary platform for reading fluency and comprehension. Once these skills are acquired, the reader can attain full language literacy, which includes the abilities to apply to printed material critical analysis, inference and synthesis; to write with accuracy and coherence; and to use information and insights from text as the basis for informed decisions and creative thought. The inability to do so is called illiteracy or analphabetism.The United Nations Educational, Scientific and Cultural Organization (UNESCO) defines literacy as the "ability to identify, understand, interpret, create, communicate and compute, using printed and written materials associated with varying contexts. Literacy involves a continuum of learning in enabling individuals to achieve their goals, to develop their knowledge and potential, and to participate fully in their community and wider society".
  来源于：维基百科
 
+** DONE <2017-03-11 六 10:30>
+   CLOSED: [2017-03-11 六 10:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-11 六 10:55]
+   CLOCK: [2017-03-11 六 10:30]--[2017-03-11 六 10:55] =>  0:25
+   :END:
 * DONE Wrting<2017-02-03 五 15:13>
 * Writing
 ** DONE Lesson 33<2017-03-02 Thu 09:34>

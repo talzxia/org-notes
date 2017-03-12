@@ -37,3 +37,21 @@
     - State "DONE"       from "STARTED"    [2017-03-10 五 21:10]
     CLOCK: [2017-03-10 五 20:01]--[2017-03-10 五 21:10] =>  1:09
     :END:
+*** DONE stop loud read and relax<2017-03-11 六 05:49>
+    CLOSED: [2017-03-11 六 06:17]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-03-11 六 07:07]
+    CLOCK: [2017-03-11 六 05:49]--[2017-03-11 六 06:17] =>  0:28
+    :END:
+*** DONE I am so tried<2017-03-11 六 07:09>
+    CLOSED: [2017-03-11 六 07:15]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-03-11 六 07:15]
+    CLOCK: [2017-03-11 六 07:09]--[2017-03-11 六 07:15] =>  0:06
+    :END:
+*** DONE browse and free learn<2017-03-12 日 08:00>
+    CLOSED: [2017-03-12 日 21:28]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-03-12 日 21:28]
+    CLOCK: [2017-03-12 日 8:00]--[2017-03-12 日 20:47] => 12:47
+    :END:
