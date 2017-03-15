@@ -137,7 +137,38 @@ Writing Lesson 32 finished at time of 15:06
    CLOCK: [2017-03-14 二 10:21]--[2017-03-14 二 11:44] =>  1:23
    :END:
 dinner 邀请领导
-** STARTED arrive office and begin to work<2017-03-14 二 13:16>
+** DONE arrive office and begin to work<2017-03-14 二 13:16>
+   CLOSED: [2017-03-14 Tue 21:13]
    :LOGBOOK:
-   CLOCK: [2017-03-14 二 13:16]
+   - State "DONE"       from "STARTED"    [2017-03-14 Tue 21:13]
+   :END:
+** DONE begin work<2017-03-15 Wed 08:13>
+   CLOSED: [2017-03-15 Wed 11:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-15 Wed 11:51]
+   CLOCK: [2017-03-15 Wed 08:13]--[2017-03-15 Wed 11:50] =>  3:37
+   :END:
+** DONE work<2017-03-15 Wed 14:00>
+   CLOSED: [2017-03-15 Wed 19:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-15 Wed 19:42]
+   CLOCK: [2017-03-15 Wed 14:08]--[2017-03-15 Wed 17:12] =>  3:04
+   :END:
+** DONE check the assignments and give grades<2017-03-15 Wed 19:50>
+   CLOSED: [2017-03-15 Wed 20:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-15 Wed 20:00]
+   CLOCK: [2017-03-15 Wed 19:56]--[2017-03-15 Wed 20:00] =>  0:04
+   :END:
+** DONE check the evening study<2017-03-15 Wed 20:00>
+   CLOSED: [2017-03-15 Wed 20:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-15 Wed 20:19]
+   CLOCK: [2017-03-15 Wed 20:01]--[2017-03-15 Wed 20:19] =>  0:18
+   :END:
+** DONE browse and free study<2017-03-15 Wed 20:50>
+   CLOSED: [2017-03-15 Wed 21:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-15 Wed 21:32]
+   CLOCK: [2017-03-15 Wed 20:50]--[2017-03-15 Wed 21:32] =>  0:42
    :END:
