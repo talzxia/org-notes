@@ -36,7 +36,14 @@
    CLOCK: [2017-03-13 一 20:55]--[2017-03-14 二 05:24] =>  8:29
    :END:
 ** go to hemo to sleeping<2017-03-14 Tue 21:16>
-** STARTED go home sleep<2017-03-15 Wed 21:33>
+** DONE go home sleep<2017-03-15 Wed 21:33>
+   CLOSED: [2017-03-16 四 04:19]
    :LOGBOOK:
-   CLOCK: [2017-03-15 Wed 21:33]
+   - State "DONE"       from "STARTED"    [2017-03-16 四 04:19]
+     CLOCK: [2017-03-15 三 22:00]--[2017-03-16 四 04:00] =>  6:00
+
+   :END:
+** STARTED go to home sleeping<2017-03-16 四 21:03>
+   :LOGBOOK:
+   CLOCK: [2017-03-16 四 21:03]
    :END:

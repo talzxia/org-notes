@@ -12611,6 +12611,24 @@ What is the waiter doing? He's carrying a whole cake on a tray.
    - State "DONE"       from "STARTED"    [2017-03-15 Wed 20:47]
    CLOCK: [2017-03-15 Wed 20:19]--[2017-03-15 Wed 20:47] =>  0:28
    :END:
+** DONE Review<2017-03-16 Thu 06:31>98.8%
+   CLOSED: [2017-03-16 Thu 06:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-16 Thu 06:59]
+   CLOCK: [2017-03-16 Thu 06:31]--[2017-03-16 Thu 06:59] =>  0:28
+   :END:
+** DONE Writing<2017-03-16 Thu 08:50>
+   CLOSED: [2017-03-16 Thu 10:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-16 Thu 10:00]
+   CLOCK: [2017-03-16 Thu 08:50]--[2017-03-16 Thu 10:00] =>  1:10
+   :END:
+** DONE Review<2017-03-16 四 16:22>99.2%
+   CLOSED: [2017-03-16 四 16:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-16 四 16:48]
+   CLOCK: [2017-03-16 四 16:22]--[2017-03-16 四 16:48] =>  0:26
+   :END:
 ** Lesson thirty seven
 north south west east a compass a needle
 
@@ -14428,6 +14446,18 @@ What is the chef doing ? He's frying a whole chicken.
 1.思途教育科技郭丰强来访1小时
 2.orace小孟来访半小时
 3.致公党王支委，肥城党员来访2.5小时
+** DONE Review<2017-03-16 Thu 05:58>98.8%
+   CLOSED: [2017-03-16 Thu 06:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-16 Thu 06:30]
+   CLOCK: [2017-03-16 Thu 05:58]--[2017-03-16 Thu 06:30] =>  0:32
+   :END:
+** DONE Review<2017-03-16 四 18:53>99.1%
+   CLOSED: [2017-03-16 四 19:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-16 四 19:25]
+   CLOCK: [2017-03-16 四 18:53]--[2017-03-16 四 19:25] =>  0:32
+   :END:
 ** Lesson 38
 a drum film a guitar dance music a voilin
 
@@ -16471,6 +16501,24 @@ What lays eggs? Chickens lay eggs.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-15 Wed 11:49]
    CLOCK: [2017-03-15 Wed 11:28]--[2017-03-15 Wed 11:49] =>  0:21
+   :END:
+** DONE Loud Read<2017-03-16 四 04:29>39,38,37
+   CLOSED: [2017-03-16 四 05:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-16 四 05:12]
+   CLOCK: [2017-03-16 四 04:29]--[2017-03-16 四 05:12] =>  0:43
+   :END:
+** DONE Review<2017-03-16 Thu 05:38>99.3%
+   CLOSED: [2017-03-16 Thu 05:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-16 Thu 05:57]
+   CLOCK: [2017-03-16 Thu 05:38]--[2017-03-16 Thu 05:57] =>  0:19
+   :END:
+** DONE Review<2017-03-16 四 20:40>98.9%
+   CLOSED: [2017-03-16 四 20:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-16 四 20:59]
+   CLOCK: [2017-03-16 四 20:40]--[2017-03-16 四 20:59] =>  0:19
    :END:
 ** text
 

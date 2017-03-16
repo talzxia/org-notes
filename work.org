@@ -172,3 +172,15 @@ dinner 邀请领导
    - State "DONE"       from "STARTED"    [2017-03-15 Wed 21:32]
    CLOCK: [2017-03-15 Wed 20:50]--[2017-03-15 Wed 21:32] =>  0:42
    :END:
+** DONE get to work(start up,to work,set to work)<2017-03-16 Thu 08:15>
+   CLOSED: [2017-03-16 Thu 11:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-16 Thu 11:39]
+   CLOCK: [2017-03-16 Thu 08:15]--[2017-03-16 Thu 11:50] =>  3:35
+   :END:
+** DONE begin to work<2017-03-16 Thu 14:27>
+   CLOSED: [2017-03-16 四 16:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-16 四 16:49]
+   CLOCK: [2017-03-16 Thu 14:27]--[2017-03-16 四 16:50] =>  2:23
+   :END:
