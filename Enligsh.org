@@ -14458,6 +14458,12 @@ What is the chef doing ? He's frying a whole chicken.
    - State "DONE"       from "STARTED"    [2017-03-16 四 19:25]
    CLOCK: [2017-03-16 四 18:53]--[2017-03-16 四 19:25] =>  0:32
    :END:
+** DONE Wrting<2017-03-17 Fri 20:59>
+   CLOSED: [2017-03-17 Fri 21:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-17 Fri 21:51]
+   CLOCK: [2017-03-17 Fri 20:59]--[2017-03-17 Fri 21:51] =>  0:52
+   :END:
 ** Lesson 38
 a drum film a guitar dance music a voilin
 
@@ -16519,6 +16525,24 @@ What lays eggs? Chickens lay eggs.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-16 四 20:59]
    CLOCK: [2017-03-16 四 20:40]--[2017-03-16 四 20:59] =>  0:19
+   :END:
+** DONE Loud Read<2017-03-17 五 04:52>37,39
+   CLOSED: [2017-03-17 五 05:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-17 五 05:48]
+   CLOCK: [2017-03-17 五 04:52]--[2017-03-17 五 05:48] =>  0:56
+   :END:
+** DONE Review<2017-03-17 五 16:32>98.5%
+   CLOSED: [2017-03-17 五 16:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-17 五 16:54]
+   CLOCK: [2017-03-17 五 16:31]--[2017-03-17 五 16:54] =>  0:23
+   :END:
+** DONE Review<2017-03-17 五 17:20>99.%
+   CLOSED: [2017-03-17 五 17:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-17 五 17:41]
+   CLOCK: [2017-03-17 五 17:20]--[2017-03-17 五 17:41] =>  0:21
    :END:
 ** text
 
