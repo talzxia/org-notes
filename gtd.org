@@ -5598,3 +5598,17 @@ then sleep
    - State "DONE"       from "STARTED"    [2017-03-17 五 13:37]
    CLOCK: [2017-03-17 五 05:49]--[2017-03-17 五 13:37] =>  7:48
    :END:
+
+** DONE [#B] clean up in the office<2017-03-18 Sat 08:15>
+   CLOSED: [2017-03-18 Sat 08:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-18 Sat 08:44]
+   CLOCK: [2017-03-18 Sat 08:15]--[2017-03-18 Sat 08:44] =>  0:29
+   :END:
+
+** DONE [#B] free study<2017-03-18 Sat 14:20>
+   CLOSED: [2017-03-18 Sat 15:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-18 Sat 15:32]
+   CLOCK: [2017-03-18 Sat 14:20]--[2017-03-18 Sat 15:32] =>  1:12
+   :END:
