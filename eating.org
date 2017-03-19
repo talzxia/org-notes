@@ -80,3 +80,9 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-18 Sat 14:19]
    CLOCK: [2017-03-18 Sat 12:17]--[2017-03-18 Sat 14:19] =>  2:02
    :END:
+** DONE to have breakfast<2017-03-19 日 07:17>
+   CLOSED: [2017-03-19 日 08:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-19 日 08:23]
+   CLOCK: [2017-03-19 日 07:17]--[2017-03-19 日 08:23] =>  1:06
+   :END:
