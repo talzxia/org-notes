@@ -61,7 +61,9 @@
    - State "DONE"       from "STARTED"    [2017-03-19 Sun 05:15]
    CLOCK: [2017-03-18 Sat 21:51]--[2017-03-19 Sun 05:15] =>  7:24
    :END:
-** STARTED sleeping and goes to take a shower<2017-03-19 日 21:31>
+** DONE sleeping and goes to take a shower<2017-03-19 日 21:31>
+   CLOSED: [2017-03-20 一 05:23]
    :LOGBOOK:
-   CLOCK: [2017-03-19 日 21:31]
+   - State "DONE"       from "STARTED"    [2017-03-20 一 05:23]
+   CLOCK: [2017-03-19 日 21:31]--[2017-03-20 一 05:23] =>  7:52
    :END:

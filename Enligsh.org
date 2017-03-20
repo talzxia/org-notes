@@ -12641,6 +12641,18 @@ What is the waiter doing? He's carrying a whole cake on a tray.
    - State "DONE"       from "STARTED"    [2017-03-19 日 07:15]
    CLOCK: [2017-03-19 日 06:49]--[2017-03-19 日 07:15] =>  0:26
    :END:
+** DONE Loud Read<2017-03-20 一 05:24>37,38,38
+   CLOSED: [2017-03-20 一 06:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-20 一 06:18]
+   CLOCK: [2017-03-20 一 05:24]--[2017-03-20 一 06:18] =>  0:54
+   :END:
+** DONE Review <2017-03-20 一 10:52>98.8%
+   CLOSED: [2017-03-20  一 11:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-20 一 11:20]
+   CLOCK: [2017-03-20 一 10:52]--[2017-03-20 一 11:20] =>  0:28
+   :END:
 ** Lesson thirty seven
 north south west east a compass a needle
 
@@ -14502,6 +14514,12 @@ What is the chef doing ? He's frying a whole chicken.
    CLOCK: [2017-03-19 日 09:46]--[2017-03-19 日 09:55] =>  0:09
    - State "DONE"       from "STARTED"    [2017-03-19 日 08:48]
    CLOCK: [2017-03-19 日 08:24]--[2017-03-19 日 08:48] =>  0:24
+   :END:
+** DONE Review<2017-03-20 一 14:27>99.1%
+   CLOSED: [2017-03-20 一 14:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-20 一 14:57]
+   CLOCK: [2017-03-20 一 14:27]--[2017-03-20 一 14:57] =>  0:30
    :END:
 ** Lesson 38
 a drum film a guitar dance music a voilin
@@ -16594,6 +16612,12 @@ What lays eggs? Chickens lay eggs.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-19 日 21:30]
    CLOCK: [2017-03-19 日 20:58]--[2017-03-19 日 21:30] =>  0:32
+   :END:
+** DONE Review<2017-03-20 一 18:05>98.8%
+   CLOSED: [2017-03-20 一 18:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-20 一 18:24]
+   CLOCK: [2017-03-20 一 18:05]--[2017-03-20 一 18:24] =>  0:19
    :END:
 ** text
 
