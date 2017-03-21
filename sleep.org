@@ -73,3 +73,7 @@
    - State "DONE"       from "STARTED"    [2017-03-21 二 01:47]
    CLOCK: [2017-03-20 一 21:35]--[2017-03-21 二 01:47] =>  4:12
    :END:
+** STARTED sleeping<2017-03-21 二 21:23>
+   :LOGBOOK:
+   CLOCK: [2017-03-21 二 21:23]
+   :END:
