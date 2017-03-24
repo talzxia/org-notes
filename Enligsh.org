@@ -1695,6 +1695,12 @@ An orange and a banana? No, an orange and a lemon.
    - State "DONE"       from "STARTED"    [2017-03-24 五 11:39]
    CLOCK: [2017-03-24 五 11:21]--[2017-03-24 五 11:39] =>  0:18
    :END:
+** DONE Review<2017-03-25 六 06:10>99.3%
+   CLOSED: [2017-03-25 六 06:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-25 六 06:23]
+   CLOCK: [2017-03-25 六 06:10]--[2017-03-25 六 06:23] =>  0:13
+   :END:
 ** history
 *** DONE Review 98.4%
    CLOSED: [2016-08-19 五 21:15]
@@ -1939,6 +1945,19 @@ swimsuit and a pink skirt.
    - State "DONE"       from "STARTED"    [2017-03-24 五 15:59]
    CLOCK: [2017-03-24 五 15:38]--[2017-03-24 五 15:59] =>  0:21
    :END:
+** DONE Review<2017-03-25 六 04:27>99%
+   CLOSED: [2017-03-25 六 04:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-25 六 04:43]
+   CLOCK: [2017-03-25 六 04:27]--[2017-03-25 六 04:43] =>  0:16
+   :END:
+** DONE Review<2017-03-25 六 05:51>98.8%
+   CLOSED: [2017-03-25 六 06:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-25 六 06:07]
+   CLOCK: [2017-03-25 六 05:51]--[2017-03-25 六 06:07] =>  0:16
+   :END:
+
 ** Lesson 9
 
 a chair
@@ -2275,6 +2294,12 @@ Are the young women in a nighclub? No, they are in a shop.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-24 五 19:13]
    CLOCK: [2017-03-24 五 18:52]--[2017-03-24 五 19:13] =>  0:21
+   :END:
+** DONE Review<2017-03-25 六 04:09>98.4%
+   CLOSED: [2017-03-25 六 04:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-25 六 04:26]
+   CLOCK: [2017-03-25 六 04:08]--[2017-03-25 六 04:26] =>  0:18
    :END:
 ** Lesson 10
 

@@ -5661,3 +5661,8 @@ then sleep
    - State "DONE"       from "STARTED"    [2017-03-24 五 06:30]
    CLOCK: [2017-03-24 五 06:14]--[2017-03-24 五 06:30] =>  0:16
    :END:
+
+** STARTED [#B] go to shanghai<2017-03-25 六 06:25>
+   :LOGBOOK:
+   CLOCK: [2017-03-25 六 06:25]
+   :END:
