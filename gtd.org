@@ -5654,3 +5654,10 @@ then sleep
    - State "DONE"       from "STARTED"    [2017-03-21 二 06:29]
    CLOCK: [2017-03-21 二 05:27]--[2017-03-21 二 06:29] =>  1:02
    :END:
+
+** DONE [#B] Loud Read daodejing<2017-03-24 五 06:14>
+   CLOSED: [2017-03-24 五 06:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-24 五 06:30]
+   CLOCK: [2017-03-24 五 06:14]--[2017-03-24 五 06:30] =>  0:16
+   :END:

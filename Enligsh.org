@@ -398,29 +398,28 @@ Is the green tree big? No, it is small.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 16:07]
   CLOCK: [2016-07-24 Sun 15:32]--[2016-07-24 Sun 16:07] =>  0:35
   :END:
-** learning history
-*** DONE Review <2016-08-26 Fri 14:41> 98.5%
+** DONE Review <2016-08-26 Fri 14:41> 98.5%
    CLOSED: [2016-08-26 Fri 14:59]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-26 Fri 14:59]
-   CLOCK: [2016-08-26 Fri 14:41]--[2016-08-26 Fri 14:59] =>  0:18
-   :END:
-*** DONE 复习98.3
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-26 Fri 14:59]
+  CLOCK: [2016-08-26 Fri 14:41]--[2016-08-26 Fri 14:59] =>  0:18
+  :END:
+** DONE 复习98.3
    CLOSED: [2016-07-25 Mon 18:35]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-25 Mon 18:35]
-   CLOCK: [2016-07-25 Mon 18:17]--[2016-07-25 Mon 18:35] =>  0:18
-   :END:
-*** DONE Review three 97.2%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-07-25 Mon 18:35]
+  CLOCK: [2016-07-25 Mon 18:17]--[2016-07-25 Mon 18:35] =>  0:18
+  :END:
+** DONE Review three 97.2%
    CLOSED: [2016-08-06 Sat 10:51]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-06 Sat 10:51]
-   - State "STARTED"    from "DONE"       [2016-08-06 Sat 10:51]
-   - State "DONE"       from "STARTED"    [2016-08-06 Sat 10:50]
-    CLOCK: [2016-07-29 Fri 08:53]--[2016-07-29 Fri 09:11] =>  0:18
-   :END:
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-06 Sat 10:51]
+  - State "STARTED"    from "DONE"       [2016-08-06 Sat 10:51]
+  - State "DONE"       from "STARTED"    [2016-08-06 Sat 10:50]
+   CLOCK: [2016-07-29 Fri 08:53]--[2016-07-29 Fri 09:11] =>  0:18
+  :END:
 
-*** text
+** text
 water
 grass
 stone
@@ -494,88 +493,94 @@ Is the monkey under the water? No, the bird is over the water.
 Is the man with a glass on the right? No, he is on the left.
 Is the woman with a bag? No, she is under a big umbrella.
 
-*** DONE Review 98%
+** DONE Review 98%
    CLOSED: [2016-08-16 二 18:34]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-16 二 18:34]
-   CLOCK: [2016-08-16 二 18:06]--[2016-08-16 二 18:34] =>  0:28
-   :END:
-*** DONE Review <2016-09-03 Sat 10:00>98.8%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-16 二 18:34]
+  CLOCK: [2016-08-16 二 18:06]--[2016-08-16 二 18:34] =>  0:28
+  :END:
+** DONE Review <2016-09-03 Sat 10:00>98.8%
    CLOSED: [2016-09-03 Sat 10:18]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-03 Sat 10:18]
-   CLOCK: [2016-09-03 Sat 10:00]--[2016-09-03 Sat 10:18] =>  0:18
-   :END:
-*** DONE Review<2016-09-10 六 05:36>99.1%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-03 Sat 10:18]
+  CLOCK: [2016-09-03 Sat 10:00]--[2016-09-03 Sat 10:18] =>  0:18
+  :END:
+** DONE Review<2016-09-10 六 05:36>99.1%
    CLOSED: [2016-09-10 六 05:53]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-10 六 05:53]
-   CLOCK: [2016-09-10 六 05:36]--[2016-09-10 六 05:53] =>  0:17
-   :END:
-*** DONE Review<2016-09-13 二 05:51>99.5%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-10 六 05:53]
+  CLOCK: [2016-09-10 六 05:36]--[2016-09-10 六 05:53] =>  0:17
+  :END:
+** DONE Review<2016-09-13 二 05:51>99.5%
    CLOSED: [2016-09-13 二 06:11]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-13 二 06:11]
-   CLOCK: [2016-09-13 二 05:51]--[2016-09-13 二 06:11] =>  0:20
-   :END:
-*** DONE Review<2016-09-17 六 09:39>99.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-13 二 06:11]
+  CLOCK: [2016-09-13 二 05:51]--[2016-09-13 二 06:11] =>  0:20
+  :END:
+** DONE Review<2016-09-17 六 09:39>99.6%
    CLOSED: [2016-09-17 六 09:59]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-17 六 09:59]
-   CLOCK: [2016-09-17 六 09:39]--[2016-09-17 六 09:59] =>  0:20
-   :END:
-*** DONE Review<2016-09-28 三 07:35>99.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-17 六 09:59]
+  CLOCK: [2016-09-17 六 09:39]--[2016-09-17 六 09:59] =>  0:20
+  :END:
+** DONE Review<2016-09-28 三 07:35>99.6%
    CLOSED: [2016-09-28 三 07:54]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-28 三 07:54]
-   CLOCK: [2016-09-28 三 07:35]--[2016-09-28 三 07:54] =>  0:19
-   :END:
-*** DONE Review<2016-09-29 Thu 19:49>99.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-28 三 07:54]
+  CLOCK: [2016-09-28 三 07:35]--[2016-09-28 三 07:54] =>  0:19
+  :END:
+** DONE Review<2016-09-29 Thu 19:49>99.7%
    CLOSED: [2016-09-29 Thu 20:06]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-29 Thu 20:06]
-   CLOCK: [2016-09-29 Thu 19:49]--[2016-09
-*** DONE Review<2016-10-02 日 13:55>99.3%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-29 Thu 20:06]
+  CLOCK: [2016-09-29 Thu 19:49]--[2016-09
+** DONE Review<2016-10-02 日 13:55>99.3%
    CLOSED: [2016-10-02 日 14:13]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-02 日 14:13]
-   CLOCK: [2016-10-02 日 13:55]--[2016-10-02 日 14:13] =>  0:18
-   :END:
-*** DONE Review<2016-10-02 日 14:15>99.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-02 日 14:13]
+  CLOCK: [2016-10-02 日 13:55]--[2016-10-02 日 14:13] =>  0:18
+  :END:
+** DONE Review<2016-10-02 日 14:15>99.6%
    CLOSED: [2016-10-02 日 14:31]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-02 日 14:31]
-   CLOCK: [2016-10-02 日 14:14]--[2016-10-02 日 14:31] =>  0:17
-   :END:
-*** DONE Review<2016-10-02 日 14:31>99.9%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-02 日 14:31]
+  CLOCK: [2016-10-02 日 14:14]--[2016-10-02 日 14:31] =>  0:17
+  :END:
+** DONE Review<2016-10-02 日 14:31>99.9%
    CLOSED: [2016-10-02 日 14:48]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-02 日 14:48]
-   CLOCK: [2016-10-02 日 14:31]--[2016-10-02 日 14:48] =>  0:17
-   :END:
-*** DONE Review<2016-10-02 日 19:19>99.9%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-02 日 14:48]
+  CLOCK: [2016-10-02 日 14:31]--[2016-10-02 日 14:48] =>  0:17
+  :END:
+** DONE Review<2016-10-02 日 19:19>99.9%
    CLOSED: [2016-10-02 日 19:36]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-02 日 19:36]
-   CLOCK: [2016-10-02 日 19:19]--[2016-10-02 日 19:36] =>  0:17
-   :END:
-*** DONE Review<2016-10-02 日 19:37>99.9%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-02 日 19:36]
+  CLOCK: [2016-10-02 日 19:19]--[2016-10-02 日 19:36] =>  0:17
+  :END:
+** DONE Review<2016-10-02 日 19:37>99.9%
    CLOSED: [2016-10-02 日 19:52]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-02 日 19:52]
-   CLOCK: [2016-10-02 日 19:37]--[2016-10-02 日 19:52] =>  0:15
-   :END:
-*** DONE Review<2016-10-03 一 10:36>100%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-02 日 19:52]
+  CLOCK: [2016-10-02 日 19:37]--[2016-10-02 日 19:52] =>  0:15
+  :END:
+** DONE Review<2016-10-03 一 10:36>100%
    CLOSED: [2016-10-03 一 11:17]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-03 一 11:17]
-   CLOCK: [2016-10-03 一 10:36]--[2016-10-03 一 11:17] =>  0:41
-   :END:
-*** DONE Review<2017-01-15 日 09:08>99.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-03 一 11:17]
+  CLOCK: [2016-10-03 一 10:36]--[2016-10-03 一 11:17] =>  0:41
+  :END:
+** DONE Review<2017-01-15 日 09:08>99.6%
    CLOSED: [2017-01-15 日 09:43]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-01-15 日 09:43]
+  CLOCK: [2017-01-15 日 09:08]--[2017-01-15 日 09:43] =>  0:35
+  :END:
+** DONE Review<2017-03-24 五 03:59>99.2%
+   CLOSED: [2017-03-24 五 04:17]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-01-15 日 09:43]
-   CLOCK: [2017-01-15 日 09:08]--[2017-01-15 日 09:43] =>  0:35
+   - State "DONE"       from "STARTED"    [2017-03-24 五 04:17]
+   CLOCK: [2017-03-24 五 03:59]--[2017-03-24 五 04:17] =>  0:18
    :END:
 ** Lesson 3
 
@@ -655,69 +660,68 @@ Is the woman with a bag? No, she is under a big umbrella.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 10:14]
   CLOCK: [2016-07-24 Sun 09:43]--[2016-07-24 Sun 10:14] =>  0:31
   :END:
-** Learning history
-*** DONE 复习98.3%
+** DONE 复习98.3%
    CLOSED: [2016-07-25 Mon 20:37]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-25 Mon 20:37]
-   CLOCK: [2016-07-25 Mon 20:20]--[2016-07-25 Mon 20:37] =>  0:17
-   :END:
-*** DONE Review 98.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-07-25 Mon 20:37]
+  CLOCK: [2016-07-25 Mon 20:20]--[2016-07-25 Mon 20:37] =>  0:17
+  :END:
+** DONE Review 98.7%
    CLOSED: [2016-08-17 三 06:06]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-17 三 06:06]
-   CLOCK: [2016-08-17 三 05:49]--[2016-08-17 三 06:06] =>  0:17
-   :END:
-*** DONE Review <2016-08-26 五 16:12> 96.1%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-17 三 06:06]
+  CLOCK: [2016-08-17 三 05:49]--[2016-08-17 三 06:06] =>  0:17
+  :END:
+** DONE Review <2016-08-26 五 16:12> 96.1%
    CLOSED: [2016-08-26 五 21:41]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-26 五 21:41]
-   CLOCK: [2016-08-26 五 16:12]--[2016-08-26 五 21:41] =>  5:29
-   :END:
-*** DONE Review four 98.3%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-26 五 21:41]
+  CLOCK: [2016-08-26 五 16:12]--[2016-08-26 五 21:41] =>  5:29
+  :END:
+** DONE Review four 98.3%
    CLOSED: [2016-08-06 六 11:24]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-06 六 11:24]
-   CLOCK: [2016-08-06 六 11:09]--[2016-08-06 六 11:24] =>  0:15
-   :END:
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-06 六 11:24]
+  CLOCK: [2016-08-06 六 11:09]--[2016-08-06 六 11:24] =>  0:15
+  :END:
 
-*** DONE Review<2016-09-03 Sat 10:18>99.3%
+** DONE Review<2016-09-03 Sat 10:18>99.3%
    CLOSED: [2016-09-03 Sat 10:35]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-03 Sat 10:35]
-   CLOCK: [2016-09-03 Sat 10:19]--[2016-09-03 Sat 10:35] =>  0:16
-   :END:
-*** DONE Review <2016-09-10 六 09:27>99.3%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-03 Sat 10:35]
+  CLOCK: [2016-09-03 Sat 10:19]--[2016-09-03 Sat 10:35] =>  0:16
+  :END:
+** DONE Review <2016-09-10 六 09:27>99.3%
    CLOSED: [2016-09-10 六 09:43]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-10 六 09:43]
-   CLOCK: [2016-09-10 六 09:28]--[2016-09-10 六 09:43] =>  0:15
-   :END:
-*** DONE Review <2016-09-10 六 10:50>99.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-10 六 09:43]
+  CLOCK: [2016-09-10 六 09:28]--[2016-09-10 六 09:43] =>  0:15
+  :END:
+** DONE Review <2016-09-10 六 10:50>99.6%
    CLOSED: [2016-09-10 六 11:07]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-10 六 11:07]
-   CLOCK: [2016-09-10 六 10:51]--[2016-09-10 六 11:07] =>  0:16
-   :END:
-*** DONE Review<2016-09-13 二 06:12>99.9%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-10 六 11:07]
+  CLOCK: [2016-09-10 六 10:51]--[2016-09-10 六 11:07] =>  0:16
+  :END:
+** DONE Review<2016-09-13 二 06:12>99.9%
    CLOSED: [2016-09-13 二 06:28]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-13 二 06:28]
-   CLOCK: [2016-09-13 二 06:12]--[2016-09-13 二 06:28] =>  0:16
-   :END:
-*** DONE Review <1970-10-19 一>99.8%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-13 二 06:28]
+  CLOCK: [2016-09-13 二 06:12]--[2016-09-13 二 06:28] =>  0:16
+  :END:
+** DONE Review <1970-10-19 一>99.8%
    CLOSED: [2016-10-02 日 20:07]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-02 日 20:07]
-   CLOCK: [2016-10-02 日 19:52]--[2016-10-02 日 20:07] =>  0:15
-   :END:
-*** DONE Review<2016-10-02 日 20:08>100%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-02 日 20:07]
+  CLOCK: [2016-10-02 日 19:52]--[2016-10-02 日 20:07] =>  0:15
+  :END:
+** DONE Review<2016-10-02 日 20:08>100%
    CLOSED: [2016-10-02 日 20:22]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-02 日 20:22]
-   CLOCK: [2016-10-02 日 20:08]--[2016-10-02 日 20:22] =>  0:14
-   :END:
-*** text
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-02 日 20:22]
+  CLOCK: [2016-10-02 日 20:08]--[2016-10-02 日 20:22] =>  0:14
+  :END:
+** text
 I
 you
 she
@@ -791,12 +795,18 @@ Is the boy reading a book? No, he is sitting in front of the television.
 Is she running? No, she is writing.
 Are they speaking with a flower? No, they are speaking on the telephone.
 
-*** DONE Review<2017-01-15 日 09:57>99.7%
-    CLOSED: [2017-01-15 日 10:28]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2017-01-15 日 10:28]
-    CLOCK: [2017-01-15 日 09:57]--[2017-01-15 日 10:28] =>  0:31
-    :END:
+** DONE Review<2017-01-15 日 09:57>99.7%
+   CLOSED: [2017-01-15 日 10:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-15 日 10:28]
+   CLOCK: [2017-01-15 日 09:57]--[2017-01-15 日 10:28] =>  0:31
+   :END:
+** DONE Review<2017-03-24 五 04:19>99.5%
+   CLOSED: [2017-03-24 五 04:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-24 五 04:35]
+   CLOCK: [2017-03-24 五 04:19]--[2017-03-24 五 04:35] =>  0:16
+   :END:
 ** Lesson 4
 
 I
@@ -875,111 +885,110 @@ Is he holding a book? No, he is holding a piece of paper.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 09:34]
   CLOCK: [2016-07-24 Sun 08:44]--[2016-07-24 Sun 09:34] =>  0:50
   :END:
-** learning history
-*** DONE Review 95.8%-->97.6%
+** DONE Review 95.8%-->97.6%
    CLOSED: [2016-08-18 四 20:34]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-18 四 20:34]
-   CLOCK: [2016-08-18 四 20:15]--[2016-08-18 四 20:34] =>  0:19
-   - State "STARTED"    from "DONE"       [2016-08-18 四 20:14]
-   - State "DONE"       from "WAITING"    [2016-08-18 四 20:14]
-   - State "DONE"       from "STARTED"    [2016-08-18 四 19:07]
-   CLOCK: [2016-08-18 四 18:28]--[2016-08-18 四 19:07] =>  0:39
-   :END:
-*** DONE Review 96.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-18 四 20:34]
+  CLOCK: [2016-08-18 四 20:15]--[2016-08-18 四 20:34] =>  0:19
+  - State "STARTED"    from "DONE"       [2016-08-18 四 20:14]
+  - State "DONE"       from "WAITING"    [2016-08-18 四 20:14]
+  - State "DONE"       from "STARTED"    [2016-08-18 四 19:07]
+  CLOCK: [2016-08-18 四 18:28]--[2016-08-18 四 19:07] =>  0:39
+  :END:
+** DONE Review 96.7%
    CLOSED: [2016-08-18 四 20:53]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-18 四 20:53]
-   CLOCK: [2016-08-18 四 20:34]--[2016-08-18 四 20:53] =>  0:19
-   :END:
-*** DONE learn97.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-18 四 20:53]
+  CLOCK: [2016-08-18 四 20:34]--[2016-08-18 四 20:53] =>  0:19
+  :END:
+** DONE learn97.7%
    CLOSED: [2016-07-25 Mon 21:01]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-25 Mon 21:01]
-   CLOCK: [2016-07-25 Mon 20:41]--[2016-07-25 Mon 21:01] =>  0:20
-   :END:
-*** DONE Review 97.8%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-07-25 Mon 21:01]
+  CLOCK: [2016-07-25 Mon 20:41]--[2016-07-25 Mon 21:01] =>  0:20
+  :END:
+** DONE Review 97.8%
    CLOSED: [2016-08-19 五 05:41]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-19 五 05:41]
-   CLOCK: [2016-08-19 五 05:23]--[2016-08-19 五 05:41] =>  0:18
-   :END:
-*** DONE Review <2016-08-27 六 16:12> 98%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-19 五 05:41]
+  CLOCK: [2016-08-19 五 05:23]--[2016-08-19 五 05:41] =>  0:18
+  :END:
+** DONE Review <2016-08-27 六 16:12> 98%
    CLOSED: [2016-08-27 六 16:31]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-27 六 16:31]
-   CLOCK: [2016-08-27 六 16:13]--[2016-08-27 六 16:31] =>  0:18
-   :END:
-*** DONE Review five 97.2%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-27 六 16:31]
+  CLOCK: [2016-08-27 六 16:13]--[2016-08-27 六 16:31] =>  0:18
+  :END:
+** DONE Review five 97.2%
    CLOSED: [2016-08-06 六 11:51]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-06 六 11:51]
-   CLOCK: [2016-08-06 六 11:30]--[2016-08-06 六 11:51] =>  0:21
-   :END:
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-06 六 11:51]
+  CLOCK: [2016-08-06 六 11:30]--[2016-08-06 六 11:51] =>  0:21
+  :END:
 
-*** DONE Review <2016-09-03 Sat 14:13> 97.9%
+** DONE Review <2016-09-03 Sat 14:13> 97.9%
    CLOSED: [2016-09-03 Sat 14:31]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-03 Sat 14:31]
-   CLOCK: [2016-09-03 Sat 14:13]--[2016-09-03 Sat 14:31] =>  0:18
-   :END:
-*** DONE Review <2016-09-10 六 11:08>98.9%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-03 Sat 14:31]
+  CLOCK: [2016-09-03 Sat 14:13]--[2016-09-03 Sat 14:31] =>  0:18
+  :END:
+** DONE Review <2016-09-10 六 11:08>98.9%
    CLOSED: [2016-09-10 六 19:57]
-   :LOGBOOK:
-   :LOGBOOK:
-   - State "DONE"       from "WAITING"    [2016-09-10 六 19:57]
-   :END:
+  :LOGBOOK:
+  :LOGBOOK:
+  - State "DONE"       from "WAITING"    [2016-09-10 六 19:57]
+  :END:
 
-   - State "DONE"       from "STARTED"    [2016-09-10 六 11:31]
-   CLOCK: [2016-09-10 六 11:08]--[2016-09-10
-*** DONE Review <2016-09-10 六 11:36>99.2%
+  - State "DONE"       from "STARTED"    [2016-09-10 六 11:31]
+  CLOCK: [2016-09-10 六 11:08]--[2016-09-10
+** DONE Review <2016-09-10 六 11:36>99.2%
    CLOSED: [2016-09-10 六 11:55]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-10 六 11:55]
-   CLOCK: [2016-09-10 六 11:36]--[2016-09-10 六 11:55] =>  0:19
-   :END:
-*** DONE Review<2016-09-13 二 15:19>99.4%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-10 六 11:55]
+  CLOCK: [2016-09-10 六 11:36]--[2016-09-10 六 11:55] =>  0:19
+  :END:
+** DONE Review<2016-09-13 二 15:19>99.4%
    CLOSED: [2016-09-13 二 15:43]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-13 二 15:43]
-   CLOCK: [2016-09-13 二 15:19]--[2016-09-1
-*** DONE Review <2016-09-26 一 20:05>99.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-13 二 15:43]
+  CLOCK: [2016-09-13 二 15:19]--[2016-09-1
+** DONE Review <2016-09-26 一 20:05>99.7%
    CLOSED: [2016-09-26 一 20:23]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-26 一 20:23]
-   CLOCK: [2016-09-26 一 20:05]--[2016-09-26 一 20:23] =>  0:18
-   :END:
-*** DONE Review <2016-10-02 日 20:23>99.5%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-26 一 20:23]
+  CLOCK: [2016-09-26 一 20:05]--[2016-09-26 一 20:23] =>  0:18
+  :END:
+** DONE Review <2016-10-02 日 20:23>99.5%
    CLOSED: [2016-10-02 日 20:41]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-02 日 20:41]
-   CLOCK: [2016-10-02 日 20:23]--[2016-10-02 日 20:41] =>  0:18
-   :END:
-*** DONE Review <2016-10-04 二 10:56>99.3%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-02 日 20:41]
+  CLOCK: [2016-10-02 日 20:23]--[2016-10-02 日 20:41] =>  0:18
+  :END:
+** DONE Review <2016-10-04 二 10:56>99.3%
    CLOSED: [2016-10-04 二 11:13]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-04 二 11:13]
-   CLOCK: [2016-10-04 二 10:56]--[2016-10-04 二 11:13] =>  0:17
-   :END:
-*** DONE Review<2016-10-05 三 04:18>99.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-04 二 11:13]
+  CLOCK: [2016-10-04 二 10:56]--[2016-10-04 二 11:13] =>  0:17
+  :END:
+** DONE Review<2016-10-05 三 04:18>99.6%
    CLOSED: [2016-10-05 三 04:37]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-05 三 04:37]
-   CLOCK: [2016-10-05 三 04:18]--[2016-10-05 三 04:37] =>  0:19
-   :END:
-*** DONE Review<2016-10-05 三 04:38>99.8%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-05 三 04:37]
+  CLOCK: [2016-10-05 三 04:18]--[2016-10-05 三 04:37] =>  0:19
+  :END:
+** DONE Review<2016-10-05 三 04:38>99.8%
    CLOSED: [2016-10-05 三 05:03]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-05 三 05:03]
-   CLOCK: [2016-10-05 三 04:38]--[2016-10-05 三 05:03] =>  0:25
-   :END:
-*** DONE Review<2016-10-05 三 05:03>99.5%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-05 三 05:03]
+  CLOCK: [2016-10-05 三 04:38]--[2016-10-05 三 05:03] =>  0:25
+  :END:
+** DONE Review<2016-10-05 三 05:03>99.5%
    CLOSED: [2016-10-05 三 05:23]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-05 三 05:23]
-   CLOCK: [2016-10-05 三 05:03]--[2016-10-05 三 05:23] =>  0:20
-   :END:
-*** text
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-05 三 05:23]
+  CLOCK: [2016-10-05 三 05:03]--[2016-10-05 三 05:23] =>  0:20
+  :END:
+** text
 a woman
 a woman with long hair
 a woman with long black hair and a dog
@@ -1054,45 +1063,51 @@ A woman with short white hair in red.
 The woman with black hair is writing.
 a woman with short white hair.
 
-*** DONE Review<2016-10-05 三 11:47>99.7%
+** DONE Review<2016-10-05 三 11:47>99.7%
    CLOSED: [2016-10-05 三 12:07]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-05 三 12:07]
-   CLOCK: [2016-10-05 三 11:47]--[2016-10-05 三 12:07] =>  0:20
-   :END:
-*** DONE Review<2016-10-09 日 16:03>99.1%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-05 三 12:07]
+  CLOCK: [2016-10-05 三 11:47]--[2016-10-05 三 12:07] =>  0:20
+  :END:
+** DONE Review<2016-10-09 日 16:03>99.1%
    CLOSED: [2016-10-09 日 16:21]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-09 日 16:21]
-   CLOCK: [2016-10-09 日 16:03]--[2016-10-09 日 16:21] =>  0:18
-   :END:
-*** DONE Review<2016-10-16 Sun 09:36>99.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-09 日 16:21]
+  CLOCK: [2016-10-09 日 16:03]--[2016-10-09 日 16:21] =>  0:18
+  :END:
+** DONE Review<2016-10-16 Sun 09:36>99.6%
    CLOSED: [2016-10-16 Sun 09:54]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-16 Sun 09:54]
-   CLOCK: [2016-10-16 Sun 09:36]--[2016-10-16 Sun 09:54] =>  0:18
-   :END:
-*** DONE Review<2016-10-19 三 19:29>99.8%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-16 Sun 09:54]
+  CLOCK: [2016-10-16 Sun 09:36]--[2016-10-16 Sun 09:54] =>  0:18
+  :END:
+** DONE Review<2016-10-19 三 19:29>99.8%
    CLOSED: [2016-10-19 三 19:49]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-19 三 19:49]
+  CLOCK: [2016-10-19 三 19:29]--[2016-10-19 三 19:49] =>  0:20
+  :END:
+** STARTED Review<2016-11-10 四 11:32>
+  :LOGBOOK:
+  - State "STARTED"    from "DONE"       [2016-11-10 四 15:14]
+  - State "DONE"       from "STARTED"    [2016-11-10 四 11:40]
+  CLOCK: [2016-11-10 四 11:32]--[2016-11-10 四 11:40] =>  0:08
+  :END:
+** DONE Review<2017-01-15 日 11:59>99.3%
+   CLOSED: [2017-01-15 日 15:37]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-19 三 19:49]
-   CLOCK: [2016-10-19 三 19:29]--[2016-10-19 三 19:49] =>  0:20
+   - State "DONE"       from "STARTED"    [2017-01-15 日 15:37]
+   - State "STARTED"    from "DONE"       [2017-01-15 日 15:26]
+   CLOCK: [2017-01-15 日 15:26]--[2017-01-15 日 15:37] =>  0:11
+   - State "DONE"       from "STARTED"    [2017-01-15 日 12:29]
+   CLOCK: [2017-01-15 日 11:59]--[2017-01-15 日 12:29] =>  0:30
    :END:
-*** STARTED Review<2016-11-10 四 11:32>
+** DONE Review<2017-03-24 五 04:36>99.4%
+   CLOSED: [2017-03-24 五 04:54]
    :LOGBOOK:
-   - State "STARTED"    from "DONE"       [2016-11-10 四 15:14]
-   - State "DONE"       from "STARTED"    [2016-11-10 四 11:40]
-   CLOCK: [2016-11-10 四 11:32]--[2016-11-10 四 11:40] =>  0:08
+   - State "DONE"       from "STARTED"    [2017-03-24 五 04:54]
+   CLOCK: [2017-03-24 五 04:36]--[2017-03-24 五 04:54] =>  0:18
    :END:
-*** DONE Review<2017-01-15 日 11:59>99.3%
-    CLOSED: [2017-01-15 日 15:37]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2017-01-15 日 15:37]
-    - State "STARTED"    from "DONE"       [2017-01-15 日 15:26]
-    CLOCK: [2017-01-15 日 15:26]--[2017-01-15 日 15:37] =>  0:11
-    - State "DONE"       from "STARTED"    [2017-01-15 日 12:29]
-    CLOCK: [2017-01-15 日 11:59]--[2017-01-15 日 12:29] =>  0:30
-    :END:
 ** Lesson 5
 
 A man is taking a photograph of a dog and a woman with long blak hair.
@@ -1173,33 +1188,32 @@ The woman with short white hair is writing.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 05:37]
   CLOCK: [2016-07-24 Sun 04:52]--[2016-07-24 Sun 05:37] =>  0:45
   :END:
-** learn history
-*** DONE Review <2016-08-27 六 16:34> 98%
+** DONE Review <2016-08-27 六 16:34> 98%
    CLOSED: [2016-08-27 六 16:51]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-27 六 16:51]
-   CLOCK: [2016-08-27 六 16:34]--[2016-08-27 六 16:51] =>  0:17
-   :END:
-*** DONE Review six 97.3%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-27 六 16:51]
+  CLOCK: [2016-08-27 六 16:34]--[2016-08-27 六 16:51] =>  0:17
+  :END:
+** DONE Review six 97.3%
    CLOSED: [2016-08-06 六 13:06]
- :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2016-08-06 六 13:06]
-    CLOCK: [2016-08-06 六 12:50]--[2016-08-06 六 13:06] =>  0:16
-    :END:
+:LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-08-06 六 13:06]
+   CLOCK: [2016-08-06 六 12:50]--[2016-08-06 六 13:06] =>  0:16
+   :END:
 
-*** DONE Review <2016-09-04 Sun 06:48>98%
+** DONE Review <2016-09-04 Sun 06:48>98%
    CLOSED: [2016-09-04 Sun 07:05]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-04 Sun 07:05]
-   CLOCK: [2016-09-04 Sun 06:48]--[2016-09-04 Sun 07:05] =>  0:17
-   :END:
-*** DONE Review<2016-09-30 Fri 14:06>99.4%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-04 Sun 07:05]
+  CLOCK: [2016-09-04 Sun 06:48]--[2016-09-04 Sun 07:05] =>  0:17
+  :END:
+** DONE Review<2016-09-30 Fri 14:06>99.4%
    CLOSED: [2016-09-30 Fri 14:22]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-30 Fri 14:22]
-   CLOCK: [2016-09-30 Fri 14:06]--[2016-09-30 Fri 14:22] =>  0:16
-   :END:
-*** text
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-30 Fri 14:22]
+  CLOCK: [2016-09-30 Fri 14:06]--[2016-09-30 Fri 14:22] =>  0:16
+  :END:
+** text
 autumn
 spring
 summer
@@ -1271,81 +1285,87 @@ Is it day or night? It is night.
 Is it autumn? No, it is winter: a monkey is sitting down in the snow.
 Is it summer? No, it is winter: a woman is running in the snow.
 
-*** DONE Review<2016-12-29 四 05:35>99.6%
+** DONE Review<2016-12-29 四 05:35>99.6%
    CLOSED: [2016-12-29 四 06:27]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-12-29 四 06:27]
+  CLOCK: [2016-12-29 四 05:35]--[2016-12-29 四 06:27] =>  0:52
+  :END:
+
+** DONE Review<2017-01-15 日 15:53>99.7%
+   CLOSED: [2017-01-15 日 16:28]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-12-29 四 06:27]
-   CLOCK: [2016-12-29 四 05:35]--[2016-12-29 四 06:27] =>  0:52
+   - State "DONE"       from "STARTED"    [2017-01-15 日 16:28]
+   CLOCK: [2017-01-15 日 15:53]--[2017-01-15 日 16:28] =>  0:35
    :END:
 
-*** DONE Review<2017-01-15 日 15:53>99.7%
-    CLOSED: [2017-01-15 日 16:28]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2017-01-15 日 16:28]
-    CLOCK: [2017-01-15 日 15:53]--[2017-01-15 日 16:28] =>  0:35
-    :END:
-
-*** DONE learn six 97.4%
+** DONE learn six 97.4%
    CLOSED: [2016-07-26 Tue 15:27]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-26 Tue 15:27]
-   CLOCK: [2016-07-26 Tue 15:10]--[2016-07-26 Tue 15:27] =>  0:17
-   :END:
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-07-26 Tue 15:27]
+  CLOCK: [2016-07-26 Tue 15:10]--[2016-07-26 Tue 15:27] =>  0:17
+  :END:
 
-*** DONE Review <2016-09-03 Sat 17:14>98%
+** DONE Review <2016-09-03 Sat 17:14>98%
    CLOSED: [2016-09-03 Sat 17:30]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-03 Sat 17:30]
-   CLOCK: [2016-09-03 Sat 17:14]--[2016-09-03 Sat 17:30] =>  0:16
-   :END:
-*** DONE Review <2016-09-10 六 15:34>99.4%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-03 Sat 17:30]
+  CLOCK: [2016-09-03 Sat 17:14]--[2016-09-03 Sat 17:30] =>  0:16
+  :END:
+** DONE Review <2016-09-10 六 15:34>99.4%
    CLOSED: [2016-09-10 六 15:51]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-10 六 15:51]
-   CLOCK: [2016-09-10 六 15:35]--[2016-09-10 六 15:51] =>  0:16
-   :END:
-*** DONE Review <2016-09-13 二 20:05>99.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-10 六 15:51]
+  CLOCK: [2016-09-10 六 15:35]--[2016-09-10 六 15:51] =>  0:16
+  :END:
+** DONE Review <2016-09-13 二 20:05>99.6%
    CLOSED: [2016-09-13 二 20:22]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-13 二 20:22]
-   CLOCK: [2016-09-13 二 20:05]--[2016-09-13 二 20:22] =>  0:17
-   :END:
-*** DONE Review<2016-09-30 Fri 16:13>99.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-13 二 20:22]
+  CLOCK: [2016-09-13 二 20:05]--[2016-09-13 二 20:22] =>  0:17
+  :END:
+** DONE Review<2016-09-30 Fri 16:13>99.7%
    CLOSED: [2016-09-30 Fri 16:29]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-30 Fri 16:29]
-   CLOCK: [2016-09-30 Fri 16:13]--[2016-09-30 Fri 16:29] =>  0:16
-   :END:
-*** DONE Review<2016-10-05 三 15:26>99.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-30 Fri 16:29]
+  CLOCK: [2016-09-30 Fri 16:13]--[2016-09-30 Fri 16:29] =>  0:16
+  :END:
+** DONE Review<2016-10-05 三 15:26>99.6%
    CLOSED: [2016-10-05 三 15:42]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-05 三 15:42]
-   CLOCK: [2016-10-05 三 15:26]--[2016-10-05 三 15:42] =>  0:16
-   :END:
-*** DONE Review <2016-10-05 三 15:43>99.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-05 三 15:42]
+  CLOCK: [2016-10-05 三 15:26]--[2016-10-05 三 15:42] =>  0:16
+  :END:
+** DONE Review <2016-10-05 三 15:43>99.7%
    CLOSED: [2016-10-05 三 16:00]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-05 三 16:00]
-   CLOCK: [2016-10-05 三 15:43]--[2016-10-05 三 16:00] =>  0:17
-   :END:
-*** DONE Review<2016-10-16 Sun 16:00>99.4%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-05 三 16:00]
+  CLOCK: [2016-10-05 三 15:43]--[2016-10-05 三 16:00] =>  0:17
+  :END:
+** DONE Review<2016-10-16 Sun 16:00>99.4%
    CLOSED: [2016-10-16 Sun 16:16]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-16 Sun 16:16]
-   CLOCK: [2016-10-16 Sun 16:00]--[2016-10-16 Sun 16:15] =>  0:15
-   :END:
-*** DONE Review<2016-10-19 三 05:50>99.9%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-16 Sun 16:16]
+  CLOCK: [2016-10-16 Sun 16:00]--[2016-10-16 Sun 16:15] =>  0:15
+  :END:
+** DONE Review<2016-10-19 三 05:50>99.9%
    CLOSED: [2016-10-19 三 06:07]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-19 三 06:07]
+  CLOCK: [2016-10-19 三 05:50]--[2016-10-19 三 06:07] =>  0:17
+  :END:
+** DONE Review<2017-02-28 二 21:03>99.2%
+   CLOSED: [2017-02-28 二 21:20]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-19 三 06:07]
-   CLOCK: [2016-10-19 三 05:50]--[2016-10-19 三 06:07] =>  0:17
+   - State "DONE"       from "STARTED"    [2017-02-28 二 21:20]
+   CLOCK: [2017-02-28 二 21:03]--[2017-02-28 二 21:20] =>  0:17
    :END:
-*** DONE Review<2017-02-28 二 21:03>99.2%
-    CLOSED: [2017-02-28 二 21:20]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2017-02-28 二 21:20]
-    CLOCK: [2017-02-28 二 21:03]--[2017-02-28 二 21:20] =>  0:17
-    :END:
+** DONE Review<2017-03-24 五 05:44>98.8%
+   CLOSED: [2017-03-24 五 05:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-24 五 05:59]
+   CLOCK: [2017-03-24 五 05:44]--[2017-03-24 五 05:59] =>  0:15
+   :END:
 ** Lesson6
 
 autumn
@@ -1425,55 +1445,54 @@ Is it day or night? It is night.
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 04:36]
   CLOCK: [2016-07-24 Sun 03:52]--[2016-07-24 Sun 04:36] =>  0:44
   :END:
-** history
-*** DONE Review 99.1%
+** DONE Review 99.1%
    CLOSED: [2016-08-19 五 20:56]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-19 五 20:56]
-   CLOCK: [2016-08-19 五 20:41]--[2016-08-19 五 20:56] =>  0:15
-   :END:
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-19 五 20:56]
+  CLOCK: [2016-08-19 五 20:41]--[2016-08-19 五 20:56] =>  0:15
+  :END:
 
-*** DONE Review Seven 97.7%
+** DONE Review Seven 97.7%
    CLOSED: [2016-07-26 Tue 15:48]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2016-07-26 Tue 15:48]
-    CLOCK: [2016-07-26 Tue 15:32]--[2016-07-26 Tue 15:48] =>  0:16
-    :END:
- 前者的每一个字母各代表一个步骤，即预习(Preview)、提问(Question)、阅读(Read)、笔
- 记(Write)、背诵(Recite)、复习(Review),是一种行之有效地与速读结合的阅读学习方法；
- 后者是美国芝加哥大学教育研究所的哥特．莫斯博士发明的一种学习方法，旨在强化个人...
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2016-07-26 Tue 15:48]
+   CLOCK: [2016-07-26 Tue 15:32]--[2016-07-26 Tue 15:48] =>  0:16
+   :END:
+前者的每一个字母各代表一个步骤，即预习(Preview)、提问(Question)、阅读(Read)、笔
+记(Write)、背诵(Recite)、复习(Review),是一种行之有效地与速读结合的阅读学习方法；
+后者是美国芝加哥大学教育研究所的哥特．莫斯博士发明的一种学习方法，旨在强化个人...
 
-*** DONE Review <2016-08-27 六 19:20> 98%
+** DONE Review <2016-08-27 六 19:20> 98%
    CLOSED: [2016-08-27 六 19:36]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-27 六 19:36]
-   CLOCK: [2016-08-27 六 19:20]--[2016-08-27 六 19:36] =>  0:16
-   :END:
-*** DONE Review <2016-09-04 Sun 10:03>99%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-27 六 19:36]
+  CLOCK: [2016-08-27 六 19:20]--[2016-08-27 六 19:36] =>  0:16
+  :END:
+** DONE Review <2016-09-04 Sun 10:03>99%
    CLOSED: [2016-09-04 Sun 10:26]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-04 Sun 10:26]
-   CLOCK: [2016-09-04 Sun 10:04]--[2016-09-04 Sun 10:26] =>  0:22
-   :END:
-*** DONE Review <2016-09-11 日 04:49>99.3%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-04 Sun 10:26]
+  CLOCK: [2016-09-04 Sun 10:04]--[2016-09-04 Sun 10:26] =>  0:22
+  :END:
+** DONE Review <2016-09-11 日 04:49>99.3%
    CLOSED: [2016-09-11 日 05:06]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-11 日 05:06]
-   CLOCK: [2016-09-11 日 04:49]--[2016-09-11 日 05:06] =>  0:17
-   :END:
-*** DONE Review<2016-09-13 二 21:01>99.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-11 日 05:06]
+  CLOCK: [2016-09-11 日 04:49]--[2016-09-11 日 05:06] =>  0:17
+  :END:
+** DONE Review<2016-09-13 二 21:01>99.7%
    CLOSED: [2016-09-13 二 21:16]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-13 二 21:16]
-   CLOCK: [2016-09-13 二 21:01]--[2016-09-13 二 21:16] =>  0:15
-   :END:
-*** DONE Review<2016-10-16 日>99.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-13 二 21:16]
+  CLOCK: [2016-09-13 二 21:01]--[2016-09-13 二 21:16] =>  0:15
+  :END:
+** DONE Review<2016-10-16 日>99.6%
    CLOSED: [2016-10-05 三 16:16]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-05 三 16:16]
-   CLOCK: [2016-10-05 三 16:00]--[2016-10-05 三 16:16] =>  0:16
-   :END:
-*** text
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-05 三 16:16]
+  CLOCK: [2016-10-05 三 16:00]--[2016-10-05 三 16:16] =>  0:16
+  :END:
+** text
 hot
 clean
 dirty
@@ -1543,42 +1562,48 @@ An orange and a banana? No, an orange and a lemon.
 Tea with a flower? No, tea with lemon.
 Hot green tea? No, cold red juice.
 
-*** DONE Reivew <2016-10-05 Wed 18:41>99.8%
+** DONE Reivew <2016-10-05 Wed 18:41>99.8%
    CLOSED: [2016-10-05 Wed 18:43]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-05 Wed 18:43]
-   CLOCK: [2016-10-05 Wed 18:21]--[2016-10-05 Wed 18:43] =>  0:22
-   :END:
-*** DONE Review<2016-10-21 Fri 06:37>99%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-05 Wed 18:43]
+  CLOCK: [2016-10-05 Wed 18:21]--[2016-10-05 Wed 18:43] =>  0:22
+  :END:
+** DONE Review<2016-10-21 Fri 06:37>99%
    CLOSED: [2016-10-21 Fri 06:52]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-21 Fri 06:52]
-   CLOCK: [2016-10-21 Fri 06:37]--[2016-10-21 Fri 06:52] =>  0:15
-   :END:
-*** TODO Review<2016-10-21 Fri 07:53>98.8%
-   :LOGBOOK:
-   - State "STARTED"    from "DONE"       [2016-10-21 Fri 08:12]
-   - State "DONE"       from "WAITING"    [2016-10-21 Fri 08:11]
-   - State "DONE"       from "STARTED"    [2016-10-21 Fri 08:07]
-   CLOCK: [2016-10-21 Fri 07:53]--[2016-10-21 Fri 08:07] =>  0:14
-   :END:
-*** DONE Review<2016-10-21 Fri 08:14>99%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-21 Fri 06:52]
+  CLOCK: [2016-10-21 Fri 06:37]--[2016-10-21 Fri 06:52] =>  0:15
+  :END:
+** TODO Review<2016-10-21 Fri 07:53>98.8%
+  :LOGBOOK:
+  - State "STARTED"    from "DONE"       [2016-10-21 Fri 08:12]
+  - State "DONE"       from "WAITING"    [2016-10-21 Fri 08:11]
+  - State "DONE"       from "STARTED"    [2016-10-21 Fri 08:07]
+  CLOCK: [2016-10-21 Fri 07:53]--[2016-10-21 Fri 08:07] =>  0:14
+  :END:
+** DONE Review<2016-10-21 Fri 08:14>99%
    CLOSED: [2016-10-21 Fri 08:29]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-21 Fri 08:29]
-   CLOCK: [2016-10-21 Fri 08:14]--[2016-10-21 Fri 08:29] =>  0:15
-   :END:
-*** DONE Review<2016-12-10 Sat 07:16>99.1%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-21 Fri 08:29]
+  CLOCK: [2016-10-21 Fri 08:14]--[2016-10-21 Fri 08:29] =>  0:15
+  :END:
+** DONE Review<2016-12-10 Sat 07:16>99.1%
    CLOSED: [2016-12-10 Sat 07:29]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-12-10 Sat 07:29]
-   CLOCK: [2016-12-10 Sat 07:16]--[2016-12-10 Sat 07:29] =>  0:13
-   :END:
-*** DONE Review<2017-01-15 日 19:50>99.5%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-12-10 Sat 07:29]
+  CLOCK: [2016-12-10 Sat 07:16]--[2016-12-10 Sat 07:29] =>  0:13
+  :END:
+** DONE Review<2017-01-15 日 19:50>99.5%
    CLOSED: [2017-01-15 日 20:17]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-01-15 日 20:17]
+  CLOCK: [2017-01-15 日 19:50]--[2017-01-15 日 20:17] =>  0:27
+  :END:
+** DONE Review<2017-03-24 五 05:59>99.5%
+   CLOSED: [2017-03-24 五 06:13]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-01-15 日 20:17]
-   CLOCK: [2017-01-15 日 19:50]--[2017-01-15 日 20:17] =>  0:27
+   - State "DONE"       from "STARTED"    [2017-03-24 五 06:13]
+   CLOCK: [2017-03-24 五 05:59]--[2017-03-24 五 06:13] =>  0:14
    :END:
 ** Lesson 7
 
@@ -1663,6 +1688,12 @@ An orange and a banana? No, an orange and a lemon.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-07 二 18:50]
    CLOCK: [2017-03-07 二 18:29]--[2017-03-07 二 18:50] =>  0:21
+   :END:
+** DONE Review<2017-03-24 五 11:21>99.1%
+   CLOSED: [2017-03-24 五 11:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-24 五 11:39]
+   CLOCK: [2017-03-24 五 11:21]--[2017-03-24 五 11:39] =>  0:18
    :END:
 ** history
 *** DONE Review 98.4%
@@ -1826,82 +1857,87 @@ swimsuit and a pink skirt.
    - State "DONE"       from "STARTED"    [2016-07-23 Sat 16:01]
    CLOCK: [2016-07-23 Sat 15:06]--[2016-07-23 Sat 16:01] =>  0:55
    :END:
-** history
-*** DONE Review Nine 99.0% very good
+** DONE Review Nine 99.0% very good
    CLOSED: [2016-07-26 Tue 18:29]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-26 Tue 18:29]
-   CLOCK: [2016-07-26 Tue 18:09]--[2016-07-26 Tue 18:29] =>  0:20
-   :END:
-*** DONE Review nine 95.9%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-07-26 Tue 18:29]
+  CLOCK: [2016-07-26 Tue 18:09]--[2016-07-26 Tue 18:29] =>  0:20
+  :END:
+** DONE Review nine 95.9%
    CLOSED: [2016-08-06 六 21:17]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-06 六 21:17]
-   - State "STARTED"    from "DONE"       [2016-08-06 六 21:17]
-   - State "DONE"       from "WAITING"    [2016-08-06 六 21:17]
-   - State "DONE"       from "WAITING"    [2016-08-06 六 21:16]
-   - State "DONE"       from "STARTED"    [2016-08-06 六 21:14]
-   :END:
-*** DONE Review <2016-08-28 日 11:43> 96.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-06 六 21:17]
+  - State "STARTED"    from "DONE"       [2016-08-06 六 21:17]
+  - State "DONE"       from "WAITING"    [2016-08-06 六 21:17]
+  - State "DONE"       from "WAITING"    [2016-08-06 六 21:16]
+  - State "DONE"       from "STARTED"    [2016-08-06 六 21:14]
+  :END:
+** DONE Review <2016-08-28 日 11:43> 96.7%
    CLOSED: [2016-08-28 日 14:36]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-28 日 14:36]
-   CLOCK: [2016-08-28 日 11:44]--[2016-08-28 日 14:36] =>  2:52
-   :END:
-*** DONE Review <2016-09-04 日 19:08>98.4%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-28 日 14:36]
+  CLOCK: [2016-08-28 日 11:44]--[2016-08-28 日 14:36] =>  2:52
+  :END:
+** DONE Review <2016-09-04 日 19:08>98.4%
    CLOSED: [2016-09-04 日 19:27]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-04 日 19:27]
-   CLOCK: [2016-09-04 日 19:08]--[2016-09-04 日 19:27] =>  0:19
-   :END:
-*** DONE Review<2016-09-11 日 08:17>99.3%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-04 日 19:27]
+  CLOCK: [2016-09-04 日 19:08]--[2016-09-04 日 19:27] =>  0:19
+  :END:
+** DONE Review<2016-09-11 日 08:17>99.3%
    CLOSED: [2016-09-11 日 08:36]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-11 日 08:36]
-   CLOCK: [2016-09-11 日 08:17]--[2016-09-11 日 08:36] =>  0:19
-   :END:
-*** DONE Review <2016-09-26 一 19:24>99.5%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-11 日 08:36]
+  CLOCK: [2016-09-11 日 08:17]--[2016-09-11 日 08:36] =>  0:19
+  :END:
+** DONE Review <2016-09-26 一 19:24>99.5%
    CLOSED: [2016-09-26 一 19:42]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-26 一 19:42]
-   CLOCK: [2016-09-26 一 19:24]--[2016-09-26 一 19:42] =>  0:18
-   :END:
-*** DONE Review<2016-09-27 二 19:53>99.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-26 一 19:42]
+  CLOCK: [2016-09-26 一 19:24]--[2016-09-26 一 19:42] =>  0:18
+  :END:
+** DONE Review<2016-09-27 二 19:53>99.6%
    CLOSED: [2016-09-27 二 20:10]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-27 二 20:10]
-   CLOCK: [2016-09-27 二 19:53]--[2016-09-27 二 20:10] =>  0:17
-   :END:
-*** DONE Review<2016-10-01 六 14:17>99.9%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-27 二 20:10]
+  CLOCK: [2016-09-27 二 19:53]--[2016-09-27 二 20:10] =>  0:17
+  :END:
+** DONE Review<2016-10-01 六 14:17>99.9%
    CLOSED: [2016-10-01 六 14:34]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-01 六 14:34]
-   CLOCK: [2016-10-01 六 14:17]--[2016-10-01 六 14:34] =>  0:17
-   :END:
-*** DONE Review<2016-10-06 四 04:41>99.9%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-01 六 14:34]
+  CLOCK: [2016-10-01 六 14:17]--[2016-10-01 六 14:34] =>  0:17
+  :END:
+** DONE Review<2016-10-06 四 04:41>99.9%
    CLOSED: [2016-10-06 四 05:00]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-06 四 05:00]
-   CLOCK: [2016-10-06 四 04:41]--[2016-10-06 四 05:00] =>  0:19
-   :END:
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-06 四 05:00]
+  CLOCK: [2016-10-06 四 04:41]--[2016-10-06 四 05:00] =>  0:19
+  :END:
 
-*** DONE Review<2016-12-10 Sat 07:51>98.8%
+** DONE Review<2016-12-10 Sat 07:51>98.8%
    CLOSED: [2016-12-10 Sat 08:06]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-12-10 Sat 08:06]
-   CLOCK: [2016-12-10 Sat 07:51]--[2016-12-10 Sat 08:06] =>  0:15
-   :END:
-*** DONE Review<2017-01-16 一 08:20>99%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-12-10 Sat 08:06]
+  CLOCK: [2016-12-10 Sat 07:51]--[2016-12-10 Sat 08:06] =>  0:15
+  :END:
+** DONE Review<2017-01-16 一 08:20>99%
    CLOSED: [2017-01-16 一 08:55]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-01-16 一 08:55]
-   CLOCK: [2017-01-16 一 08:20]--[2017-01-16 一 08:55] =>  0:35
-   :END:
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-01-16 一 08:55]
+  CLOCK: [2017-01-16 一 08:20]--[2017-01-16 一 08:55] =>  0:35
+  :END:
 ** DONE Review<2017-03-23 四 19:18>9,10
    CLOSED: [2017-03-23 四 19:52]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-23 四 19:52]
    CLOCK: [2017-03-23 四 19:17]--[2017-03-23 四 19:52] =>  0:35
+   :END:
+** DONE Review<2017-03-24 五 15:38>97.5%
+   CLOSED: [2017-03-24 五 15:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-24 五 15:59]
+   CLOCK: [2017-03-24 五 15:38]--[2017-03-24 五 15:59] =>  0:21
    :END:
 ** Lesson 9
 
@@ -1985,38 +2021,37 @@ Are the men standing around a table? No, they are sitting around a table.
   - State "DONE"       from "STARTED"    [2016-07-23 Sat 05:54]
   CLOCK: [2016-07-23 Sat 05:01]--[2016-07-23 Sat 05:54] =>  0:53
   :END:
-** history
-*** DONE Review 96.3%
+** DONE Review 96.3%
    CLOSED: [2016-08-21 Sun 10:25]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-21 Sun 10:25]
-   CLOCK: [2016-08-21 Sun 10:04]--[2016-08-21 Sun 10:25] =>  0:21
-   :END:
-*** DONE Review <2016-08-28 日 15:15> 97.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-21 Sun 10:25]
+  CLOCK: [2016-08-21 Sun 10:04]--[2016-08-21 Sun 10:25] =>  0:21
+  :END:
+** DONE Review <2016-08-28 日 15:15> 97.6%
    CLOSED: [2016-08-28 日 15:34]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-28 日 15:34]
-   CLOCK: [2016-08-28 日 15:15]--[2016-08-28 日 15:34] =>  0:19
-   :END:
-*** DONE Review <2016-09-04 日 20:09>98.1%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-28 日 15:34]
+  CLOCK: [2016-08-28 日 15:15]--[2016-08-28 日 15:34] =>  0:19
+  :END:
+** DONE Review <2016-09-04 日 20:09>98.1%
    CLOSED: [2016-09-04 日 20:28]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-04 日 20:28]
-   CLOCK: [2016-09-04 日 20:09]--[2016-09-04 日 20:28] =>  0:19
-   :END:
-*** DONE Review <2016-09-11 日 08:46>99.3%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-04 日 20:28]
+  CLOCK: [2016-09-04 日 20:09]--[2016-09-04 日 20:28] =>  0:19
+  :END:
+** DONE Review <2016-09-11 日 08:46>99.3%
    CLOSED: [2016-09-11 日 09:08]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-11 日 09:08]
-   CLOCK: [2016-09-11 日 08:47]--[2016-09-11 日 09:08] =>  0:21
-   :END:
-*** DONE Review<2016-09-26 一 19:43>99.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-11 日 09:08]
+  CLOCK: [2016-09-11 日 08:47]--[2016-09-11 日 09:08] =>  0:21
+  :END:
+** DONE Review<2016-09-26 一 19:43>99.6%
    CLOSED: [2016-09-26 一 20:03]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-26 一 20:03]
-   CLOCK: [2016-09-26 一 19:43]--[2016-09-26 一 20:03] =>  0:20
-   :END:
-*** text
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-26 一 20:03]
+  CLOCK: [2016-09-26 一 19:43]--[2016-09-26 一 20:03] =>  0:20
+  :END:
+** text
 a shop
 a nightclub
 a cinema
@@ -2094,43 +2129,43 @@ dancing.
 
 dancing.
 
-*** DONE Review<2016-10-01 六 14:35>99.7%
+** DONE Review<2016-10-01 六 14:35>99.7%
    CLOSED: [2016-10-01 六 14:56]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-01 六 14:56]
-   CLOCK: [2016-10-01 六 14:35]--[2016-10-01 六 14:56] =>  0:21
-   :END:
-*** DONE Review<2016-10-06 四 07:01>99.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-01 六 14:56]
+  CLOCK: [2016-10-01 六 14:35]--[2016-10-01 六 14:56] =>  0:21
+  :END:
+** DONE Review<2016-10-06 四 07:01>99.7%
    CLOSED: [2016-10-06 四 07:21]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-06 四 07:21]
-   CLOCK: [2016-10-06 四 07:01]--[2016-10-06 四 07:21] =>  0:20
-   :END:
-*** DONE Review<2016-10-19 三 07:23>99.3%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-06 四 07:21]
+  CLOCK: [2016-10-06 四 07:01]--[2016-10-06 四 07:21] =>  0:20
+  :END:
+** DONE Review<2016-10-19 三 07:23>99.3%
    CLOSED: [2016-10-19 三 07:42]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-19 三 07:42]
-   CLOCK: [2016-10-19 三 07:23]--[2016-10-19 三 07:42] =>  0:19
-   :END:
-*** DONE Review<2016-10-19 三 10:23>99.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-19 三 07:42]
+  CLOCK: [2016-10-19 三 07:23]--[2016-10-19 三 07:42] =>  0:19
+  :END:
+** DONE Review<2016-10-19 三 10:23>99.7%
    CLOSED: [2016-10-19 三 10:40]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-19 三 10:40]
-   CLOCK: [2016-10-19 三 10:22]--[2016-10-19 三 10:40] =>  0:18
-   :END:
-*** DONE Review<2016-10-19 三 17:25>99.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-19 三 10:40]
+  CLOCK: [2016-10-19 三 10:22]--[2016-10-19 三 10:40] =>  0:18
+  :END:
+** DONE Review<2016-10-19 三 17:25>99.6%
    CLOSED: [2016-10-19 三 17:43]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-19 三 17:43]
-   CLOCK: [2016-10-19 三 17:25]--[2016-10-19 三 17:43] =>  0:18
-   :END:
-*** DONE Review<2016-12-10 Sat 08:07>98.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-19 三 17:43]
+  CLOCK: [2016-10-19 三 17:25]--[2016-10-19 三 17:43] =>  0:18
+  :END:
+** DONE Review<2016-12-10 Sat 08:07>98.7%
    CLOSED: [2016-12-10 Sat 08:22]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-12-10 Sat 08:22]
-   CLOCK: [2016-12-10 Sat 08:06]--[2016-12-10 Sat 08:22] =>  0:16
-   :END:
-*** DONE Lession 10<2016-12-25 日 05:41>98.4%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-12-10 Sat 08:22]
+  CLOCK: [2016-12-10 Sat 08:06]--[2016-12-10 Sat 08:22] =>  0:16
+  :END:
+** DONE Lession 10<2016-12-25 日 05:41>98.4%
    CLOSED: [2016-12-25 日 06:22]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-25 日 06:22]
@@ -2211,24 +2246,36 @@ Are the table and chairs in a cinema? No, the table and chairs are in a café.
 Is there a drawing of a car on the piece of paper? No, a man is in the picture.
 Are the young women in a nighclub? No, they are in a shop.
 
-*** DONE Review<2017-01-16 一 13:24>97.1%
+** DONE Review<2017-01-16 一 13:24>97.1%
    CLOSED: [2017-01-16 一 14:04]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-01-16 一 14:04]
+  CLOCK: [2017-01-16 一 13:24]--[2017-01-16 一 14:04] =>  0:40
+  :END:
+** DONE Review<2017-01-18 Wed 10:30>99.3%
+   CLOSED: [2017-01-18 Wed 10:48]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-01-16 一 14:04]
-   CLOCK: [2017-01-16 一 13:24]--[2017-01-16 一 14:04] =>  0:40
+   - State "DONE"       from "STARTED"    [2017-01-18 Wed 10:48]
+   CLOCK: [2017-01-18 Wed 10:30]--[2017-01-18 Wed 10:48] =>  0:18
    :END:
-*** DONE Review<2017-01-18 Wed 10:30>99.3%
-    CLOSED: [2017-01-18 Wed 10:48]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2017-01-18 Wed 10:48]
-    CLOCK: [2017-01-18 Wed 10:30]--[2017-01-18 Wed 10:48] =>  0:18
-    :END:
-*** DONE Review<2017-03-08 三 16:48>98.3%
-    CLOSED: [2017-03-08 三 19:05]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2017-03-08 三 19:05]
-    CLOCK: [2017-03-08 三 18:48]--[2017-03-08 三 19:05] =>  0:17
-    :END:
+** DONE Review<2017-03-08 三 16:48>98.3%
+   CLOSED: [2017-03-08 三 19:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-08 三 19:05]
+   CLOCK: [2017-03-08 三 18:48]--[2017-03-08 三 19:05] =>  0:17
+   :END:
+** DONE Review<2017-03-24 五 16:02>96.9%
+   CLOSED: [2017-03-24 五 16:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-24 五 16:23]
+   CLOCK: [2017-03-24 五 16:01]--[2017-03-24 五 16:23] =>  0:22
+   :END:
+** DONE Review<2017-03-24 五 18:52>98.9%
+   CLOSED: [2017-03-24 五 19:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-24 五 19:13]
+   CLOCK: [2017-03-24 五 18:52]--[2017-03-24 五 19:13] =>  0:21
+   :END:
 ** Lesson 10
 
 a café

@@ -642,3 +642,22 @@ http://tech.ifeng.com/a/20170320/44557228_0.shtml#p=19
    CLOCK: [2017-03-23 四 19:53]--[2017-03-23 四 21:20] =>  1:27
    :END:
 practice two lessons 1,2 99.5%,98.8%
+** DONE relax<2017-03-24 五 04:55>
+   CLOSED: [2017-03-24 五 05:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-24 五 05:43]
+   CLOCK: [2017-03-24 五 04:55]--[2017-03-24 五 05:43] =>  0:48
+   :END:
+** DONE relax<2017-03-24 五 10:00>
+   CLOSED: [2017-03-24 五 18:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-24 五 18:52]
+   - State "STARTED"    from "DONE"       [2017-03-24 五 16:25]
+   CLOCK: [2017-03-24 五 16:25]--[2017-03-24 五 18:52] =>  2:27
+   - State "DONE"       from "STARTED"    [2017-03-24 五 11:21]
+   CLOCK: [2017-03-24 五 10:00]--[2017-03-24 五 11:21] =>  1:21
+   :END:
+** STARTED relax<2017-03-24 五 20:17>
+   :LOGBOOK:
+   CLOCK: [2017-03-24 五 20:17]
+   :END:

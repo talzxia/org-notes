@@ -134,3 +134,15 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-23 四 16:32]
    CLOCK: [2017-03-23 四 11:39]--[2017-03-23 四 16:32] =>  4:53
    :END:
+** DONE to have breakfast<2017-03-24 五 06:30>
+   CLOSED: [2017-03-24 五 08:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-24 五 08:06]
+   CLOCK: [2017-03-24 五 06:30]--[2017-03-24 五 08:06] =>  1:36
+   :END:
+** DONE to have lunch<2017-03-24 五 11:40>
+   CLOSED: [2017-03-24 五 14:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-24 五 15:27]
+   CLOCK: [2017-03-24 五 11:40]--[2017-03-24 五 14:00] =>  2:20
+   :END:
