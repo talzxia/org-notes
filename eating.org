@@ -152,7 +152,8 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-27 Mon 06:54]
    CLOCK: [2017-03-27 Mon 05:52]--[2017-03-27 Mon 06:54] =>  1:02
    :END:
-** STARTED Review<2017-03-27 Mon 17:43>
+** DONE dinner<2017-03-27 Mon 17:43>
+   CLOSED: [2017-03-27 一 18:54]
    :LOGBOOK:
-   CLOCK: [2017-03-27 Mon 17:43]
+   - State "DONE"       from "STARTED"    [2017-03-27 一 18:54]
    :END:

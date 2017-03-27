@@ -8,7 +8,6 @@
   - State "DONE"       from "STARTED"    [2016-07-24 Sun 21:37]
   CLOCK: [2016-07-24 Sun 21:04]--[2016-07-24 Sun 21:39] =>  0:35
   :END:
-* learn history
 ** text
 a man
 a woman
@@ -232,6 +231,12 @@ Is the bird running? No, the bird is flying.
    - State "DONE"       from "STARTED"    [2017-03-26 Sun 09:56]
    CLOCK: [2017-03-26 Sun 09:40]--[2017-03-26 Sun 09:56] =>  0:16
    :END:
+** DONE Review<2017-03-27 一 19:00>99.5%
+   CLOSED: [2017-03-27 一 19:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-27 一 19:13]
+   CLOCK: [2017-03-27 一 19:00]--[2017-03-27 一 19:13] =>  0:13
+   :END:
 ** Lesson 1
 
 a man
@@ -343,6 +348,12 @@ Is the girl standing up? No, the girl is sitting down.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-26 Sun 10:10]
    CLOCK: [2017-03-26 Sun 09:57]--[2017-03-26 Sun 10:10] =>  0:13
+   :END:
+** DONE Review<2017-03-27 一 17:14>99.7%
+   CLOSED: [2017-03-27 一 19:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-27 一 19:26]
+   CLOCK: [2017-03-27 一 19:14]--[2017-03-27 一 19:26] =>  0:12
    :END:
 ** Lesson 2
 
@@ -618,6 +629,12 @@ Is the woman with a bag? No, she is under a big umbrella.
    - State "DONE"       from "STARTED"    [2017-03-26 Sun 10:27]
    CLOCK: [2017-03-26 Sun 10:10]--[2017-03-26 Sun 10:27] =>  0:17
    :END:
+** DONE Review<2017-03-27 一 19:27>99.6%
+   CLOSED: [2017-03-27 一 19:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-27 一 19:43]
+   CLOCK: [2017-03-27 一 19:27]--[2017-03-27 一 19:43] =>  0:16
+   :END:
 ** Lesson 3
 
 water
@@ -854,6 +871,12 @@ Are they speaking with a flower? No, they are speaking on the telephone.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-27 Mon 05:11]
    CLOCK: [2017-03-27 Mon 04:47]--[2017-03-27 Mon 05:11] =>  0:24
+   :END:
+** DONE Review<2017-03-27 一 20:28>99.4%
+   CLOSED: [2017-03-27 一 20:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-27 一 20:42]
+   CLOCK: [2017-03-27 一 20:28]--[2017-03-27 一 20:42] =>  0:14
    :END:
 ** Lesson 4
 
