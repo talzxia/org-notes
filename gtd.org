@@ -1,4 +1,4 @@
-  * Workspace
+* Workspace
 
 ** DONE [#B] test spacemacs zilong 山人的配置
    CLOSED: [2016-07-21 四 04:17]
@@ -4993,246 +4993,50 @@ to have breakfast
    CLOCK: [2017-03-02 Thu 16:16]--[2017-03-02 Thu 18:14] =>  1:58
    :END:
 
-** DONE [#B] give a lecture
-   CLOSED: [2017-03-02 Thu 20:12]
+** STARTED [#B] give a lecture
+
+** DONE [#B] sleep<2017-03-26 Sun 07:30>
+   CLOSED: [2017-03-26 Sun 09:00]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-02 Thu 20:12]
-   CLOCK: [2017-03-02 Thu 18:50]--[2017-03-02 Thu 20:12] =>  1:22
+   - State "DONE"       from "STARTED"    [2017-03-26 Sun 09:20]
+   CLOCK: [2017-03-26 Sun 09:18]--[2017-03-26 Sun 09:20] =>  0:02
    :END:
 
-** DONE [#B] relax and listen to music
-   CLOSED: [2017-03-02 Thu 21:03]
+** DONE [#B] clean up the room<2017-03-26 Sun 09:23>
+   CLOSED: [2017-03-26 Sun 10:28]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-02 Thu 21:03]
-   CLOCK: [2017-03-02 Thu 20:12]--[2017-03-02 Thu 21:03] =>  0:51
+   - State "DONE"       from "STARTED"    [2017-03-26 Sun 10:28]
+   CLOCK: [2017-03-26 Sun 09:23]--[2017-03-26 Sun 09:40] =>  0:17
    :END:
 
-** DONE [#B] talking with daughter
-   CLOSED: [2017-03-02 Thu 21:21]
+** DONE [#B] attend a celebrating wedding<2017-03-26 Sun 10:29>
+   CLOSED: [2017-03-26 Sun 17:41]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-02 Thu 21:21]
-   CLOCK: [2017-03-02 Thu 21:10]--[2017-03-02 Thu 21:21] =>  0:11
+   - State "DONE"       from "STARTED"    [2017-03-26 Sun 17:41]
+   CLOCK: [2017-03-26 Sun 10:29]--[2017-03-26 Sun 17:41] =>  7:12
    :END:
 
-** DONE [#B] relax and browse
-   CLOSED: [2017-03-03 Fri 06:50]
+** DONE [#B] take medicine<2017-03-26 Sun 17:42>
+   CLOSED: [2017-03-26 Sun 20:43]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-03 Fri 06:50]
-   CLOCK: [2017-03-03 Fri 06:23]--[2017-03-03 Fri 06:50] =>  0:27
+   - State "DONE"       from "STARTED"    [2017-03-26 Sun 20:43]
+   CLOCK: [2017-03-26 Sun 17:42]--[2017-03-26 Sun 20:43] =>  3:01
    :END:
 
-** DONE [#B] to have breakfast
-   CLOSED: [2017-03-03 Fri 07:57]
+** DONE [#B]back to taian<2017-03-27 Mon 06:55>
+   CLOSED: [2017-03-27 Mon 17:21]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-03 Fri 07:57]
-   CLOCK: [2017-03-03 Fri 06:51]--[2017-03-03 Fri 07:57] =>  1:06
+   - State "DONE"       from "STARTED"    [2017-03-27 Mon 17:21]
+   CLOCK: [2017-03-27 Mon 06:55]--[2017-03-27 Mon 09:47] =>  2:52
    :END:
-
-** DONE [#B] clean up office<2017-03-03 Fri 07:57>
-   CLOSED: [2017-03-03 Fri 08:17]
+3:30arrival at home
+relax till now
+** DONE [#B] free browse<2017-03-27 Mon 11:09>
+   CLOSED: [2017-03-27 Mon 12:06]
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-03 Fri 08:17]
-   CLOCK: [2017-03-03 Fri 07:57]--[2017-03-03 Fri 08:17] =>  0:20
+   - State "DONE"       from "STARTED"    [2017-03-27 Mon 12:06]
+   CLOCK: [2017-03-27 Mon 11:09]--[2017-03-27 Mon 12:06] =>  0:57
    :END:
-
-** DONE [#B] relax
-   CLOSED: [2017-03-03 Fri 10:07]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-03 Fri 10:07]
-   CLOCK: [2017-03-03 Fri 09:27]--[2017-03-03 Fri 10:07] =>  0:40
-   :END:
-
-** DONE [#B] 教学检查
-   CLOSED: [2017-03-03 Fri 10:53]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-03 Fri 10:53]
-   CLOCK: [2017-03-03 Fri 10:08]--[2017-03-03 Fri 10:53] =>  0:45
-   :END:
-到财经系学习、交流，安排老师及学生学习ERP事宜。
-
-** DONE [#B] practice<2017-03-03 Fri 10:55>
-   CLOSED: [2017-03-03 Fri 11:30]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-03 Fri 11:30]
-   CLOCK: [2017-03-03 Fri 10:55]--[2017-03-03 Fri 11:30] =>  0:35
-   :END:
-
-** DONE [#B] to have lunch<2017-03-03 Fri 11:41>
-   CLOSED: [2017-03-03 Fri 14:20]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-03 Fri 14:20]
-   CLOCK: [2017-03-03 Fri 11:41]--[2017-03-03 Fri 14:20] =>  2:39
-   :END:
-
-** DONE [#B] practice<2017-03-03 Fri 14:21>11,12
-   CLOSED: [2017-03-03 Fri 15:20]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-03 Fri 15:20]
-   CLOCK: [2017-03-03 Fri 14:21]--[2017-03-03 Fri 15:20] =>  0:59
-   :END:
-
-** DONE [#B] relax
-   CLOSED: [2017-03-03 Fri 21:13]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-03 Fri 21:13]
-   CLOCK: [2017-03-03 Fri 15:21]--[2017-03-03 Fri 21:13] =>  5:52
-   :END:
-dinner:
-liu jui wantjx taish.lushi,zhanglixia,??
-
-** DONE [#B] go home
-   CLOSED: [2017-03-04 Sat 05:48]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-04 Sat 05:48]
-   CLOCK: [2017-03-03 Fri 21:14]--[2017-03-03 Sat 21:15] =>  0:01
-   :END:
-
-** DONE [#B] relax
-   CLOSED: [2017-03-04 Sat 06:34]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-04 Sat 06:34]
-   CLOCK: [2017-03-04 Sat 05:52]--[2017-03-04 Sat 06:34] =>  0:42
-   :END:
-
-** DONE [#B] walk outside<2017-03-04 Sat 06:35>
-   CLOSED: [2017-03-04 Sat 07:57]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-04 Sat 07:57]
-   CLOCK: [2017-03-04 Sat 06:35]--[2017-03-04 Sat 07:57] =>  1:22
-   :END:
-to have breakfast
-
-** DONE [#B] 策划党派政协委员活动
-   CLOSED: [2017-03-04 Sat 08:32]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-04 Sat 08:32]
-   CLOCK: [2017-03-04 Sat 07:50]--[2017-03-04 Sat 08:32] =>  0:42
-   :END:
-*** 成员：致公党常委政协委员（邀请统战、政协领导）学院领导
-*** 媒体：泰山电视台、泰安日报
-*** 主题“撸起袖子加油干”---致公党人大代表、政协委员履职纪实
-*** 地点：泰山职业技术学院信息技术工程系
-调研内容：落实国家大数据发展战略，推动泰山市大数据产业发展
-实地考察大数据、云技术在教育教学中的应用
-*** 信息技术工程系介绍大数据教学及管理应用情况
-**** 理念引领，文化熏陶
-**** 平台支撑，精细培养
-**** 凤凰涅槃，成效着著
-*** 致公党主委总结讲话，强调服务于泰安市中心工作，做好本职、及委员工作。
-其它领导讲话。
-
-** DONE [#B]to relax in nature
-   CLOSED: [2017-03-04 Sat 13:59]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-04 Sat 13:59]
-   CLOCK: [2017-03-04 Sat 08:54]--[2017-03-04 Sat 13:59] =>  5:05
-   :END:
-汽车缺电，叫救援，后一车帮忙，启动。
-下午去换电池。
-
-** DONE [#B] 换电瓶<2017-03-04 Sat 14:20>
-   CLOSED: [2017-03-04 Sat 17:26]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-04 Sat 17:26]
-   CLOCK: [2017-03-04 Sat 14:20]--[2017-03-04 Sat 17:26] =>  3:06
-   :END:
-
-** DONE [#B] relax and listen to music
-   CLOSED: [2017-03-04 Sat 18:32]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-04 Sat 18:32]
-   CLOCK: [2017-03-04 Sat 17:28]--[2017-03-04 Sat 18:32] =>  1:04
-   :END:
-
-** STARTED [#B] arrive office and begin to study<2017-03-05 Sun 04:59>
-   :LOGBOOK:
-   CLOCK: [2017-03-05 Sun 04:59]--[2017-03-05 Sun 05:00] =>  0:01
-   :END:
-
-**  DONE [#B] relax and browse
-   CLOSED: [2017-03-05 Sun 06:46]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-05 Sun 06:46]
-   CLOCK: [2017-03-05 Sun 05:32]--[2017-03-05 Sun 06:46] =>  1:14
-   :END:
-
-** DONE [#B] to have breakfast<2017-03-05 Sun 07:02>
-   CLOSED: [2017-03-05 Sun 09:01]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-05 Sun 09:01]
-   CLOCK: [2017-03-05 Sun 07:02]--[2017-03-05 Sun 09:01] =>  1:59
-   :END:
-送孩子去东方驾校学车
-
-** DONE [#B] relax and listen music<2017-03-05 Sun 10:04>
-   CLOSED: [2017-03-05 Sun 14:24]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-05 Sun 14:24]
-   CLOCK: [2017-03-05 Sun 10:04]--[2017-03-05 Sun 14:24] =>  4:20
-   :END:
-take wife and grandma
-to have lunch
-
-** DONE [#B] relax<2017-03-05 Sun 15:05>
-   CLOSED: [2017-03-05 Sun 15:36]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-05 Sun 15:36]
-   CLOCK: [2017-03-05 Sun 15:05]--[2017-03-05 Sun 15:36] =>  0:31
-   :END:
-listen to English songs and read speacemacs of zilongshanren
-
-** DONE [#B] relax because I have backache.
-   CLOSED: [2017-03-05 Sun 19:12]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-05 Sun 19:12]
-   CLOCK: [2017-03-05 Sun 15:58]--[2017-03-05 Sun 19:12] =>  3:14
-   :END:
-to relax in hushan park and back to home for dinner
-
-** DONE [#B] test Engilsh<2017-03-05 Sun 19:13>10,11,12:98.8,99.6,99.4
-   CLOSED: [2017-03-05 Sun 20:09]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-05 Sun 20:09]
-   CLOCK: [2017-03-05 Sun 19:13]--[2017-03-05 Sun 20:09] =>  0:56
-   :END:
-
-** DONE [#B] check the evening study<2017-03-05 Sun 20:11>
-   CLOSED: [2017-03-05 Sun 20:28]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-05 Sun 20:28]
-   CLOCK: [2017-03-05 Sun 20:11]--[2017-03-05 Sun 20:28] =>  0:17
-   :END:
-
-** DONE [#B] relax and listen to happy music
-   CLOSED: [2017-03-05 Sun 21:08]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-05 Sun 21:08]
-   CLOCK: [2017-03-05 Sun 20:28]--[2017-03-05 Sun 21:08] =>  0:40
-   :END:
-
-** DONE [#B] relax and browse<2017-03-06 一 05:11>
-   CLOSED: [2017-03-06 一 05:33]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-06 一 05:33]
-   CLOCK: [2017-03-06 一 05:11]--[2017-03-06 一 05:33] =>  0:22
-   :END:
-
-** DONE [#B]to have breakfast<2017-03-06 一 05:53>
-   CLOSED: [2017-03-06 一 07:25]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-06 一 07:25]
-   CLOCK: [2017-03-06 一 05:53]--[2017-03-06 一 07:25] =>  1:32
-   :END:
-
-** DONE [#B] cleap up office<2017-03-06 一 07:43>
-   CLOSED: [2017-03-06 一 08:09]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-03-06 一 08:09]
-   CLOCK: [2017-03-06 一 07:43]--[2017-03-06 一 08:09] =>  0:26
-   :END:
-wash floor swipe off the desk and clean up the room
-
-** TODO [#B] study Vim<2017-03-06 一 08:10>
 
 * Cocos2D-X
 
@@ -5263,11 +5067,8 @@ wash floor swipe off the desk and clean up the room
 
   [2016-08-19 五 08:55]
 
-** STARTED [#A] updata spacemacs
-
-  [2017-03-11 六 09:54]
-
 * DONE [#B]看望任淑君老师
+<<<<<<< Updated upstream
 * Workspace
 
 ** DONE [#B]到宣传部<2017-03-06 一 09:02>
@@ -5654,6 +5455,7 @@ then sleep
    - State "DONE"       from "STARTED"    [2017-03-21 二 06:29]
    CLOCK: [2017-03-21 二 05:27]--[2017-03-21 二 06:29] =>  1:02
    :END:
+<<<<<<< Updated upstream
 
 ** DONE [#B] Loud Read daodejing<2017-03-24 五 06:14>
    CLOSED: [2017-03-24 五 06:30]
@@ -5662,7 +5464,10 @@ then sleep
    CLOCK: [2017-03-24 五 06:14]--[2017-03-24 五 06:30] =>  0:16
    :END:
 
-** STARTED [#B] go to shanghai<2017-03-25 六 06:25>
+** DONE [#B] go to shanghai<2017-03-25 六 06:25>
+   CLOSED: [2017-03-25 Sat 18:54]
    :LOGBOOK:
-   CLOCK: [2017-03-25 六 06:25]
+   - State "DONE"       from "STARTED"    [2017-03-25 Sat 18:54]
+   CLOCK: [2017-03-25 六 06:25]--[2017-03-25 Sat 18:54] => 12:29
    :END:
+考察北风网

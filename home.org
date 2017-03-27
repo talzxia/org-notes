@@ -78,10 +78,28 @@
    - State "DONE"       from "STARTED"    [2017-02-25 Sat 14:04]
    CLOCK: [2017-02-25 Sat 13:31]--[2017-02-25 Sat 14:04] =>  0:33
    :END:
+** DONE Review<2017-02-26 Sun 07:16>97%
+   CLOSED: [2017-02-26 Sun 11:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-02-26 Sun 11:59]
+   CLOCK: [2017-02-26 Sun 07:16]--[2017-02-26 Sun 11:59] =>  4:43
+   :END:
 * Lesson 33
 ** DONE Review<2017-02-25 Sat 19:25>97.9%
    CLOSED: [2017-02-25 Sat 19:58]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-25 Sat 19:58]
    CLOCK: [2017-02-25 Sat 19:24]--[2017-02-25 Sat 19:58] =>  0:34
+   :END:
+**  DONE Review<2017-03-05 Sun 12:28>97.7%
+   CLOSED: [2017-03-05 Sun 12:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-05 Sun 12:56]
+   CLOCK: [2017-03-05 Sun 12:27]--[2017-03-05 Sun 12:56] =>  0:29
+   :END:
+** DONE Review 38<2017-03-18 Sat 10:12>98.1%
+   CLOSED: [2017-03-18 Sat 10:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-18 Sat 10:42]
+   CLOCK: [2017-03-18 Sat 10:12]--[2017-03-18 Sat 10:42] =>  0:30
    :END:
