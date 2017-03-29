@@ -1191,6 +1191,12 @@ a woman with short white hair.
    - State "DONE"       from "STARTED"    [2017-03-27 Mon 05:48]
    CLOCK: [2017-03-27 Mon 05:31]--[2017-03-27 Mon 05:48] =>  0:17
    :END:
+** DONE Review<2017-03-28 二 04:32>99.5%
+   CLOSED: [2017-03-28 二 04:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-28 二 04:50]
+   CLOCK: [2017-03-28 二 04:32]--[2017-03-28 二 04:50] =>  0:18
+   :END:
 ** Lesson 5
 
 A man is taking a photograph of a dog and a woman with long blak hair.
@@ -1461,6 +1467,12 @@ Is it summer? No, it is winter: a woman is running in the snow.
    - State "DONE"       from "STARTED"    [2017-03-27 Mon 10:04]
    CLOCK: [2017-03-27 Mon 09:47]--[2017-03-27 Mon 10:04] =>  0:17
    :END:
+** DONE Review<2017-03-28 二 04:51>99.1%
+   CLOSED: [2017-03-28 二 05:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-28 二 05:07]
+   CLOCK: [2017-03-28 二 04:51]--[2017-03-28 二 05:07] =>  0:16
+   :END:
 ** Lesson6
 
 autumn
@@ -1712,6 +1724,12 @@ Hot green tea? No, cold red juice.
    - State "DONE"       from "STARTED"    [2017-03-27 Mon 10:20]
    CLOCK: [2017-03-27 Mon 10:05]--[2017-03-27 Mon 10:20] =>  0:15
    :END:
+** DONE Review<2017-03-28 二 05:31>99.0%
+   CLOSED: [2017-03-28 二 05:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-28 二 05:45]
+   CLOCK: [2017-03-28 二 05:30]--[2017-03-28 二 05:45] =>  0:15
+   :END:
 ** Lesson 7
 
 
@@ -1893,6 +1911,12 @@ An orange and a banana? No, an orange and a lemon.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-27 Mon 10:42]
    CLOCK: [2017-03-27 Mon 10:21]--[2017-03-27 Mon 10:42] =>  0:21
+   :END:
+** DONE Review<2017-03-28 二 05:46>99.2%
+   CLOSED: [2017-03-28 二 06:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-28 二 06:02]
+   CLOCK: [2017-03-28 二 05:46]--[2017-03-28 二 06:02] =>  0:16
    :END:
 ** Lesson 8
 
@@ -2509,46 +2533,45 @@ Are the table and chairs in a cinema? No, the table and chairs are in a café.
    - State "DONE"       from "STARTED"    [2016-07-23 Sat 03:43]
    CLOCK: [2016-07-23 Sat 02:51]--[2016-07-23 Sat 03:43] =>  0:52
    :END:
-** history
-*** DONE Review 98%
+** DONE Review 98%
    CLOSED: [2016-08-21 Sun 10:46]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-21 Sun 10:46]
-   CLOCK: [2016-08-21 Sun 10:27]--[2016-08-21 Sun 10:46] =>  0:19
-   :END:
-*** DONE Review<2016-08-28 日 16:05>98.5%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-21 Sun 10:46]
+  CLOCK: [2016-08-21 Sun 10:27]--[2016-08-21 Sun 10:46] =>  0:19
+  :END:
+** DONE Review<2016-08-28 日 16:05>98.5%
    CLOSED: [2016-08-28 日 18:33]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-28 日 18:33]
-   CLOCK: [2016-08-28 日 18:05]--[2016-08-28 日 18:33] =>  0:28
-   :END:
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-28 日 18:33]
+  CLOCK: [2016-08-28 日 18:05]--[2016-08-28 日 18:33] =>  0:28
+  :END:
 
-*** DONE Review <2016-09-05 一 10:27>98%
+** DONE Review <2016-09-05 一 10:27>98%
 
-   CLOSED: [2016-09-05 一 10:53]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-05 一 10:53]
-   CLOCK: [2016-09-05 一 10:27]--[2016-09-05 一 10:53] =>  0:26
-   :END:
-*** DONE Review <2016-09-05 Mon 17:20>99.5%
+  CLOSED: [2016-09-05 一 10:53]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-05 一 10:53]
+  CLOCK: [2016-09-05 一 10:27]--[2016-09-05 一 10:53] =>  0:26
+  :END:
+** DONE Review <2016-09-05 Mon 17:20>99.5%
    CLOSED: [2016-09-05 Mon 17:40]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-05 Mon 17:40]
-   CLOCK: [2016-09-05 Mon 17:20]--[2016-09-05 Mon 17:40] =>  0:20
-   :END:
-*** DONE Review <2016-09-11 日 09:24>99.9%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-05 Mon 17:40]
+  CLOCK: [2016-09-05 Mon 17:20]--[2016-09-05 Mon 17:40] =>  0:20
+  :END:
+** DONE Review <2016-09-11 日 09:24>99.9%
    CLOSED: [2016-09-11 日 09:46]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-11 日 09:46]
-   CLOCK: [2016-09-11 日 09:24]--[2016-09-11 日 09:36] =>  0:12
-   :END:
-*** DONE Review<2016-12-10 Sat 20:35>98.5%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-11 日 09:46]
+  CLOCK: [2016-09-11 日 09:24]--[2016-09-11 日 09:36] =>  0:12
+  :END:
+** DONE Review<2016-12-10 Sat 20:35>98.5%
    CLOSED: [2016-12-10 Sat 20:54]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-12-10 Sat 20:54]
-   CLOCK: [2016-12-10 Sat 20:34]--[2016-12-10 Sat 20:54] =>  0:20
-   :END:
-*** DONE Review<2016-12-25 日 18:54>98.8%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-12-10 Sat 20:54]
+  CLOCK: [2016-12-10 Sat 20:34]--[2016-12-10 Sat 20:54] =>  0:20
+  :END:
+** DONE Review<2016-12-25 日 18:54>98.8%
    CLOSED: [2016-12-25 日 19:39]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-25 日 19:39]
@@ -2631,21 +2654,27 @@ Is the man sitting in front of the door? No, the dog is sitting in front of the
 door.
 Is the table in the kitchen dirty? No, the table in the kitchen is clean.
 
-*** DONE Review<2017-01-16 一 16:14>99.4%
-    CLOSED: [2017-01-16 一 18:57]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2017-01-16 一 18:57]
-    - State "STARTED"    from "DONE"       [2017-01-16 一 18:41]
-    CLOCK: [2017-01-16 一 18:41]--[2017-01-16 一 18:57] =>  0:16
-    - State "DONE"       from "STARTED"    [2017-01-16 一 16:41]
-    CLOCK: [2017-01-16 一 16:14]--[2017-01-16 一 16:41] =>  0:27
-    :END:
-*** DONE Review<2017-03-08 三 19:07>99.0%
-    CLOSED: [2017-03-08 三 19:25]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2017-03-08 三 19:25]
-    CLOCK: [2017-03-08 三 19:07]--[2017-03-08 三 19:25] =>  0:18
-    :END:
+** DONE Review<2017-01-16 一 16:14>99.4%
+   CLOSED: [2017-01-16 一 18:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-16 一 18:57]
+   - State "STARTED"    from "DONE"       [2017-01-16 一 18:41]
+   CLOCK: [2017-01-16 一 18:41]--[2017-01-16 一 18:57] =>  0:16
+   - State "DONE"       from "STARTED"    [2017-01-16 一 16:41]
+   CLOCK: [2017-01-16 一 16:14]--[2017-01-16 一 16:41] =>  0:27
+   :END:
+** DONE Review<2017-03-08 三 19:07>99.0%
+   CLOSED: [2017-03-08 三 19:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-08 三 19:25]
+   CLOCK: [2017-03-08 三 19:07]--[2017-03-08 三 19:25] =>  0:18
+   :END:
+** DONE Review<2017-03-28 二 14:43>98.4%
+   CLOSED: [2017-03-28 二 15:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-28 二 15:03]
+   CLOCK: [2017-03-28 二 14:43]--[2017-03-28 二 15:03] =>  0:20
+   :END:
 ** Lesson 11
 
 a wall
@@ -2730,62 +2759,61 @@ door.
   - State "DONE"       from "STARTED"    [2016-07-22 Fri 20:25]
   CLOCK: [2016-07-22 Fri 19:22]--[2016-07-22 Fri 20:25] =>  1:03
   :END:
-** history
-*** DONE Review <2016-08-29 Mon 18:45>97.9%
+** DONE Review <2016-08-29 Mon 18:45>97.9%
    CLOSED: [2016-08-29 Mon 19:05]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-29 Mon 19:05]
-   CLOCK: [2016-08-29 Mon 18:45]--[2016-08-29 Mon 19:05] =>  0:20
-   :END:
-*** DONE Review 97.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-29 Mon 19:05]
+  CLOCK: [2016-08-29 Mon 18:45]--[2016-08-29 Mon 19:05] =>  0:20
+  :END:
+** DONE Review 97.7%
    CLOSED: [2016-08-21 Sun 14:13]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-21 Sun 14:13]
-   CLOCK: [2016-08-21 Sun 13:51]--[2016-08-21 Sun 14:13] =>  0:22
-   :END:
-*** DONE Review twelve 97.5%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-21 Sun 14:13]
+  CLOCK: [2016-08-21 Sun 13:51]--[2016-08-21 Sun 14:13] =>  0:22
+  :END:
+** DONE Review twelve 97.5%
    CLOSED: [2016-08-07 Sun 06:59]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:59]
-   CLOCK: [2016-08-07 Sun 06:38]--[2016-08-07 Sun 06:59] =>  0:21
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:59]
+  CLOCK: [2016-08-07 Sun 06:38]--[2016-08-07 Sun 06:59] =>  0:21
+  :END:
+** DONE Review eleven and twelve
+
+  CLOSED: [2016-07-28 Thu 06:12]
+   - State "DONE"       from "STARTED"    [2016-07-28 Thu 06:13]
+:LOGBOOK:
+   CLOCK: [2016-07-28 Thu 05:24]--[2016-07-28 Thu 06:13] =>  0:49
    :END:
-*** DONE Review eleven and twelve
 
-   CLOSED: [2016-07-28 Thu 06:12]
-    - State "DONE"       from "STARTED"    [2016-07-28 Thu 06:13]
- :LOGBOOK:
-    CLOCK: [2016-07-28 Thu 05:24]--[2016-07-28 Thu 06:13] =>  0:49
-    :END:
-
-*** DONE Review <2016-09-05 Mon 17:42>99%
+** DONE Review <2016-09-05 Mon 17:42>99%
    CLOSED: [2016-09-05 Mon 18:03]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-05 Mon 18:03]
-   CLOCK: [2016-09-05 Mon 17:42]--[2016-09-05 Mon 18:03] =>  0:21
-   :END:
-*** DONE Review eleven 98.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-05 Mon 18:03]
+  CLOCK: [2016-09-05 Mon 17:42]--[2016-09-05 Mon 18:03] =>  0:21
+  :END:
+** DONE Review eleven 98.6%
    CLOSED: [2016-09-11 日 12:08]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-11 日 12:08]
-   - State "MEETING"    from "CANCELLED"  [2016-08-28 日 10:36]
-   - State "SOMEDAY"    from "WAITING"    [2016-08-28 日 10:35]
-   - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:34]
-   CLOCK: [2016-08-07 Sun 06:14]--[2016-08-07 Sun 06:34] =>  0:20
-   :END:
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-11 日 12:08]
+  - State "MEETING"    from "CANCELLED"  [2016-08-28 日 10:36]
+  - State "SOMEDAY"    from "WAITING"    [2016-08-28 日 10:35]
+  - State "DONE"       from "STARTED"    [2016-08-07 Sun 06:34]
+  CLOCK: [2016-08-07 Sun 06:14]--[2016-08-07 Sun 06:34] =>  0:20
+  :END:
 
-*** DONE Review<2016-09-11 日 11:46>99.8%
+** DONE Review<2016-09-11 日 11:46>99.8%
    CLOSED: [2016-09-11 日 12:08]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-11 日 12:08]
-   CLOCK: [2016-09-11 日 11:46]--[2016-09-11 日 12:08] =>  0:22
-   :END:
-*** DONE Review<2016-12-10 Sat 21:04>98.5%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-11 日 12:08]
+  CLOCK: [2016-09-11 日 11:46]--[2016-09-11 日 12:08] =>  0:22
+  :END:
+** DONE Review<2016-12-10 Sat 21:04>98.5%
    CLOSED: [2016-12-10 Sat 21:23]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-12-10 Sat 21:23]
-   CLOCK: [2016-12-10 Sat 21:04]--[2016-12-10 Sat 21:23] =>  0:19
-   :END:
-*** text
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-12-10 Sat 21:23]
+  CLOCK: [2016-12-10 Sat 21:04]--[2016-12-10 Sat 21:23] =>  0:19
+  :END:
+** text
 son
 daughter
 parents
@@ -2856,8 +2884,8 @@ Is grandad feeding his granddaughter? No, mother is feeding her son.
 Are grandma and grandad crying? No, grandma and grandad are luaghing.
 Is the mother washing her daughter? No, mother is playing with her son in the sand.
 
-*** words
-*** CANCELLED text
+** words
+** CANCELLED text
    CLOSED: [2016-07-24 Sun 05:47]
    :PROPERTIES:
    :ID:       EBCAF1E8-94CD-4C70-9E0A-6B07FDAAFE98
@@ -2938,8 +2966,8 @@ Is the table in the kitchen dirty? No, the table in the kitchen is clean.
 Is there sofa in the bedroom? No, there is a wide bed in the bedroom.
 Is the man sitting on the floor? The dog is sitting on the floor.
 
-*** words
-*** DONE Review<2016-12-26 一 03:37>99.4%
+** words
+** DONE Review<2016-12-26 一 03:37>99.4%
    CLOSED: [2016-12-26 一 04:21]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-26 一 04:21]
@@ -3020,18 +3048,24 @@ Are the parents feeding their sons? No, the parents are playing with their sons.
 Are these the parents of the girl? No, they are her grandma and grandad.
 Are grandma and grandad crying? No, grandma and grandad are laughing.
 
-*** DONE Review<2017-01-16 一 20:02>99%
-    CLOSED: [2017-01-16 一 20:47]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2017-01-16 一 20:47]
-    CLOCK: [2017-01-16 一 20:02]--[2017-01-16 一 20:47] =>  0:45
-    :END:
-*** DONE writing
-    CLOSED: [2017-01-17 二 06:34]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2017-01-17 二 06:34]
-    CLOCK: [2017-01-17 二 05:38]--[2017-01-17 二 06:34] =>  0:56
-    :END:
+** DONE Review<2017-01-16 一 20:02>99%
+   CLOSED: [2017-01-16 一 20:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-16 一 20:47]
+   CLOCK: [2017-01-16 一 20:02]--[2017-01-16 一 20:47] =>  0:45
+   :END:
+** DONE writing
+   CLOSED: [2017-01-17 二 06:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-17 二 06:34]
+   CLOCK: [2017-01-17 二 05:38]--[2017-01-17 二 06:34] =>  0:56
+   :END:
+** DONE Review<2017-03-28 二 15:05>99%
+   CLOSED: [2017-03-28 二 15:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-28 二 15:24]
+   CLOCK: [2017-03-28 二 15:05]--[2017-03-28 二 15:24] =>  0:19
+   :END:
 ** Lesson 12
 
 a family
@@ -3112,8 +3146,7 @@ Are grandma and grandad crying? No, grandma and grandad are laughing.
    :LOGBOOK:
  - State "DONE"       from "STARTED"    [2016-08-08 一 08:52]
    :END:
-** history
-*** DONE Review 98.1%
+** DONE Review 98.1%
    CLOSED: [2016-08-21 Sun 16:57]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-08-21 Sun 16:57]
@@ -3140,167 +3173,167 @@ taking photos of it because it is beautiful.
 
 Why are people sleeping on the grass? They are sleeping here because
 they do not have a home.
-*** Lesson thirteen
- This elderly man is wearing glasses. he is hugging a large white dog
- around the  neck and laughing.
- This is a view of the desert. A group of people are travelling on
- camels. Three camels are lying in the sand, and two are standing.
- These young people are also travelling across the desert. They like to
- travel on fourwheelers.
- This is a small, beautiful money. It is eating for lunch. In front of
- it are two plates of food.
- It is a summer's day in the countryside. There is a horse standing
- under the tree. It is relaxing.
- It is a sunny day. The sportsmen are relaxing at a table in the
- café. One of them is drinking water from a bottle.
- The elderly man is sitting on a stool under the tree. His white cap is
- lying on the grass.
- A knife and a fork are lying on a napkin, the napkin is lying on a
- white tablecloth, and the tablecloth is lying on a table.
- This is a restaurant. The young man is paying the waiter in
- cash. There is a cup of coffee in front of him.
- The girl with glasses is drawing. There is a fish and beautiful sea
- plants in the picture. Two girl are looking at her work.
- The young man is taking a phone of the girl with long black
- hair. There is a small white dog sitting on the girl's lap.
- lap :n. 一圈；膝盖；下摆；山坳
- vt. 使重叠；拍打；包围
- vi. 重叠；轻拍；围住
- Two girls are sitting on a bench in the park. They are wearing white
- pants. One of them is holding an umbrella.
- The customer who is standing in front of the mirror wants to buy a
- skirt.
- The turtle is an animal that moves very slowly.
- The woman who is sitting to the left of the boy is a teacher.
- The cactus is a plant that is able to live in the desert.
- A seagull is a bird that lives at the sea.
- Rome is a city that tourists like very much.
- When there is good weather outside the window in the house is open.
- When a person is ill，he goes to the doctor.
- Many customers come to the big shop when there is a sale.
- When there is a trffice jam, the policemen have a lot of work.
- When it is raining, people open their umbrellas.
- When the parents work，the child plays with his grandmother.
+** Lesson thirteen
+This elderly man is wearing glasses. he is hugging a large white dog
+around the  neck and laughing.
+This is a view of the desert. A group of people are travelling on
+camels. Three camels are lying in the sand, and two are standing.
+These young people are also travelling across the desert. They like to
+travel on fourwheelers.
+This is a small, beautiful money. It is eating for lunch. In front of
+it are two plates of food.
+It is a summer's day in the countryside. There is a horse standing
+under the tree. It is relaxing.
+It is a sunny day. The sportsmen are relaxing at a table in the
+café. One of them is drinking water from a bottle.
+The elderly man is sitting on a stool under the tree. His white cap is
+lying on the grass.
+A knife and a fork are lying on a napkin, the napkin is lying on a
+white tablecloth, and the tablecloth is lying on a table.
+This is a restaurant. The young man is paying the waiter in
+cash. There is a cup of coffee in front of him.
+The girl with glasses is drawing. There is a fish and beautiful sea
+plants in the picture. Two girl are looking at her work.
+The young man is taking a phone of the girl with long black
+hair. There is a small white dog sitting on the girl's lap.
+lap :n. 一圈；膝盖；下摆；山坳
+vt. 使重叠；拍打；包围
+vi. 重叠；轻拍；围住
+Two girls are sitting on a bench in the park. They are wearing white
+pants. One of them is holding an umbrella.
+The customer who is standing in front of the mirror wants to buy a
+skirt.
+The turtle is an animal that moves very slowly.
+The woman who is sitting to the left of the boy is a teacher.
+The cactus is a plant that is able to live in the desert.
+A seagull is a bird that lives at the sea.
+Rome is a city that tourists like very much.
+When there is good weather outside the window in the house is open.
+When a person is ill，he goes to the doctor.
+Many customers come to the big shop when there is a sale.
+When there is a trffice jam, the policemen have a lot of work.
+When it is raining, people open their umbrellas.
+When the parents work，the child plays with his grandmother.
 
- The man is turning off the television, because he does not want to
- watch it any longer.
- The tourists are travelling on the ship, becasue they do not like to
- fly on airplanes.
- The waiter is taking away the chicken, because the woman does not like
- it.
- The woman is drinking water, because she does not want to drink wine.
- The man is drink wine, because he likes it.
- The boy is turning off the computer, because he does not want to play
- any longer.
+The man is turning off the television, because he does not want to
+watch it any longer.
+The tourists are travelling on the ship, becasue they do not like to
+fly on airplanes.
+The waiter is taking away the chicken, because the woman does not like
+it.
+The woman is drinking water, because she does not want to drink wine.
+The man is drink wine, because he likes it.
+The boy is turning off the computer, because he does not want to play
+any longer.
 
- The spectators are going to the theatre in order to watch the
- performance.
- The woman is not drinking wine in order to drive the car well.
- The man is turning on the television in order to watch an interesting
- programme.
- The actors are going to the theatre in order to perform on stage.
- The boy is turning on the computer in order to play.
- The customers are going to the shop at the time of sale in order to
- buy cheap goods.
+The spectators are going to the theatre in order to watch the
+performance.
+The woman is not drinking wine in order to drive the car well.
+The man is turning on the television in order to watch an interesting
+programme.
+The actors are going to the theatre in order to perform on stage.
+The boy is turning on the computer in order to play.
+The customers are going to the shop at the time of sale in order to
+buy cheap goods.
 
- The woman does not like the chicken, although it tastes good.
- The boy is turning on the computer, although his parents would rather
- him not.
- The woman wants to buy a new dress, even though she has many dresses.
- The girl likes to walk in the forest, though it is raining.
- The woman is drinking water, although she likes wine.
- The girl is not happy, even though today is her birthday.
+The woman does not like the chicken, although it tastes good.
+The boy is turning on the computer, although his parents would rather
+him not.
+The woman wants to buy a new dress, even though she has many dresses.
+The girl likes to walk in the forest, though it is raining.
+The woman is drinking water, although she likes wine.
+The girl is not happy, even though today is her birthday.
 
- Today is the little boy's birthday. He is holding a present in his
- hands. He likes this holiday very much.
- There is a beautiful, tan saleswoman behind the counter in the small
- shop. There is only one customer in the shop, and he is looking at
- wine and fruits.
- The weather is rainy. The boy is looking out of the window. He is
- bored, and wants to walk and play outside.
- This is a bus stop. A man is sitting on the bench and reading the
- newpaper. He is waiting for the bus.
- The woman is standing by the sea. She is neither bathing nor
- tanning. She is looking at the sea and waiting for a ship.
- Two women in the park are looking at the big grey bird. One woman is
- holding an orange. She wants to feed the bird.
+Today is the little boy's birthday. He is holding a present in his
+hands. He likes this holiday very much.
+There is a beautiful, tan saleswoman behind the counter in the small
+shop. There is only one customer in the shop, and he is looking at
+wine and fruits.
+The weather is rainy. The boy is looking out of the window. He is
+bored, and wants to walk and play outside.
+This is a bus stop. A man is sitting on the bench and reading the
+newpaper. He is waiting for the bus.
+The woman is standing by the sea. She is neither bathing nor
+tanning. She is looking at the sea and waiting for a ship.
+Two women in the park are looking at the big grey bird. One woman is
+holding an orange. She wants to feed the bird.
 
- Two cheerful girls are walking in the autumn park. They like to play
- with the beautiful yellow leaves.
- This is a young woman in blue. She has long hair and beautiful
- blue eyes. She is holding a white cup.
- This is a large brown bear. It is getting out of the water, and the
- lake and the mountains are behind him.
- The bride and groom are celebrating their wedding on the beach at the
- sea. The groom is holding the bride in his arms. She is wearing a long
- white dress and has flowers in her hand.
- This is a large, beautiful, red and white house. Next to the house is
- a table and four chairs. There are small trees growing across from the
- house.
- The man wants to give flowers to the woman in the beautiful dress. He
- is holding them behind his back, and she is looking at him and
- laughing.
+Two cheerful girls are walking in the autumn park. They like to play
+with the beautiful yellow leaves.
+This is a young woman in blue. She has long hair and beautiful
+blue eyes. She is holding a white cup.
+This is a large brown bear. It is getting out of the water, and the
+lake and the mountains are behind him.
+The bride and groom are celebrating their wedding on the beach at the
+sea. The groom is holding the bride in his arms. She is wearing a long
+white dress and has flowers in her hand.
+This is a large, beautiful, red and white house. Next to the house is
+a table and four chairs. There are small trees growing across from the
+house.
+The man wants to give flowers to the woman in the beautiful dress. He
+is holding them behind his back, and she is looking at him and
+laughing.
 
- Why does the giraffe like to eat leaves from tall tree? It likes to do
- so because it has a long neck.
- Why are there many tourists taking photos of the square? They are
- taking photos of it because it is beautiful.
- Why are the girls sleeping during the lesson? They are sleeping
- because the lesson is boring.
- Why are people  sleeping on the grass? They are sleeping here
- because they do not have a home.
- Why are the swans not talking on the telephone? They are not talking
- on the telephone because they do not have a telephone.
- Why are these girls not working and instead spending time at the
- beach? They are spending time at the beach because they are on
- holiday.
-*** DONE 复习lesson thirty 98.7%
+Why does the giraffe like to eat leaves from tall tree? It likes to do
+so because it has a long neck.
+Why are there many tourists taking photos of the square? They are
+taking photos of it because it is beautiful.
+Why are the girls sleeping during the lesson? They are sleeping
+because the lesson is boring.
+Why are people  sleeping on the grass? They are sleeping here
+because they do not have a home.
+Why are the swans not talking on the telephone? They are not talking
+on the telephone because they do not have a telephone.
+Why are these girls not working and instead spending time at the
+beach? They are spending time at the beach because they are on
+holiday.
+** DONE 复习lesson thirty 98.7%
    CLOSED: [2016-07-22 Fri 06:05]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-07-22 Fri 06:05]
-   CLOCK: [2016-07-22 Fri 05:13]--[2016-07-22 Fri 06:04] =>  0:51
-   :END:
-*** DONE Review 97.6%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-07-22 Fri 06:05]
+  CLOCK: [2016-07-22 Fri 05:13]--[2016-07-22 Fri 06:04] =>  0:51
+  :END:
+** DONE Review 97.6%
    CLOSED: [2016-08-22 一 15:22]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-22 一 15:22]
-   CLOCK: [2016-08-22 一 15:02]--[2016-08-22 一 15:22] =>  0:20
-   :END:
-*** DONE Review <2016-08-29 Mon 20:09> 97.9%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-22 一 15:22]
+  CLOCK: [2016-08-22 一 15:02]--[2016-08-22 一 15:22] =>  0:20
+  :END:
+** DONE Review <2016-08-29 Mon 20:09> 97.9%
    CLOSED: [2016-08-29 Mon 20:26]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-29 Mon 20:26]
-   CLOCK: [2016-08-29 Mon 20:09]--[2016-08-29 Mon 20:26] =>  0:17
-   :END:
-*** DONE Review thirteen 97.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-29 Mon 20:26]
+  CLOCK: [2016-08-29 Mon 20:09]--[2016-08-29 Mon 20:26] =>  0:17
+  :END:
+** DONE Review thirteen 97.7%
    CLOSED: [2016-08-08 一 16:01]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-08 一 16:01]
-   CLOCK: [2016-08-08 一 15:43]--[2016-08-08 一 16:01] =>  0:18
-   :END:
-*** DONE Revie:98.1%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-08-08 一 16:01]
+  CLOCK: [2016-08-08 一 15:43]--[2016-08-08 一 16:01] =>  0:18
+  :END:
+** DONE Revie:98.1%
    CLOSED: [2016-09-05 Mon 20:24]
-   :LOG98.1%98.1%BOOK:
-   - State "DONE"       from "STARTED"    [2016-09-05 Mon 20:24]
-   CLOCK: [2016-09-05 Mon 20:04]--[2016-09-05 Mon 20:24] =>  0:20
-   :END:
-   :END:
-*** DONE Review thirteen 97.7%
+  :LOG98.1%98.1%BOOK:
+  - State "DONE"       from "STARTED"    [2016-09-05 Mon 20:24]
+  CLOCK: [2016-09-05 Mon 20:04]--[2016-09-05 Mon 20:24] =>  0:20
+  :END:
+  :END:
+** DONE Review thirteen 97.7%
    CLOSED: [2016-09-05 Mon 20:31]
-   :LOGBOOK:
-   - State "DONE"       from "WAITING"    [2016-09-05 Mon 20:31]
-   - State "DONE"       from "WAITING"    [2016-09-05 Mon 20:31]
-   - State "DONE"       from "STARTED"    [2016-07-28 Thu 10:15]
-   CLOCK: [2016-07-28 Thu 09:57]--[2016-07-28 Thu 10:15] =>  0:18
-   :END:
+  :LOGBOOK:
+  - State "DONE"       from "WAITING"    [2016-09-05 Mon 20:31]
+  - State "DONE"       from "WAITING"    [2016-09-05 Mon 20:31]
+  - State "DONE"       from "STARTED"    [2016-07-28 Thu 10:15]
+  CLOCK: [2016-07-28 Thu 09:57]--[2016-07-28 Thu 10:15] =>  0:18
+  :END:
 
-*** DONE Review<2016-09-05 Mon 20:50> 99.1%
+** DONE Review<2016-09-05 Mon 20:50> 99.1%
    CLOSED: [2016-09-05 Mon 20:52]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-09-05 Mon 20:52]
-   CLOCK: [2016-09-05 Mon 20:33]--[2016-09-05 Mon 20:52] =>  0:19
-   :END:
-*** DONE Review <2016-09-11 日 14:52>99.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-09-05 Mon 20:52]
+  CLOCK: [2016-09-05 Mon 20:33]--[2016-09-05 Mon 20:52] =>  0:19
+  :END:
+** DONE Review <2016-09-11 日 14:52>99.7%
    CLOSED: [2016-09-11 日 15:12]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-11 日 15:12]
@@ -3312,19 +3345,19 @@ they do not have a home.
    - State "DONE"       from "STARTED"    [2016-10-19 三 20:11]
    CLOCK: [2016-10-19 三 19:51]--[2016-10-19 三 20:11] =>  0:20
    :END:
-*** DONE Review<2016-10-24 一 05:53>99.0%
+** DONE Review<2016-10-24 一 05:53>99.0%
    CLOSED: [2016-10-24 一 06:11]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-10-24 一 06:11]
-   CLOCK: [2016-10-24 一 05:53]--[2016-10-24 一 06:11] =>  0:18
-   :END:
-*** DONE Review<2016-12-11 Sun 05:25>98.7%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-10-24 一 06:11]
+  CLOCK: [2016-10-24 一 05:53]--[2016-10-24 一 06:11] =>  0:18
+  :END:
+** DONE Review<2016-12-11 Sun 05:25>98.7%
    CLOSED: [2016-12-11 Sun 05:41]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-12-11 Sun 05:41]
-   CLOCK: [2016-12-11 Sun 05:25]--[2016-12-11 Sun 05:41] =>  0:16
-   :END:
-*** DONE Review<2016-12-26 一 05:43>98.5%
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2016-12-11 Sun 05:41]
+  CLOCK: [2016-12-11 Sun 05:25]--[2016-12-11 Sun 05:41] =>  0:16
+  :END:
+** DONE Review<2016-12-26 一 05:43>98.5%
    CLOSED: [2016-12-26 一 06:14]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-26 一 06:14]
@@ -3407,12 +3440,12 @@ Who is waiting at the window? The dog is waiting at the window.
 a bus stop
 Are they brother and sister? No, they are husband and wife.
 
-*** DONE Review<2017-01-18 Wed 10:52>99.4%
-    CLOSED: [2017-01-18 Wed 11:11]
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2017-01-18 Wed 11:11]
-    CLOCK: [2017-01-18 Wed 10:52]--[2017-01-18 Wed 11:11] =>  0:19
-    :END:
+** DONE Review<2017-01-18 Wed 10:52>99.4%
+   CLOSED: [2017-01-18 Wed 11:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-01-18 Wed 11:11]
+   CLOCK: [2017-01-18 Wed 10:52]--[2017-01-18 Wed 11:11] =>  0:19
+   :END:
 ** DONE Review<2017-03-04 Sat 08:35>99.1%
    CLOSED: [2017-03-04 Sat 08:53]
    :LOGBOOK:
@@ -3424,6 +3457,13 @@ Are they brother and sister? No, they are husband and wife.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-05 Sun 21:25]
    CLOCK: [2017-03-05 Sun 21:09]--[2017-03-05 Sun 21:25] =>  0:16
+   :END:
+** DONE Review<2017-03-28 二 16:35>99.1%
+   CLOSED: [2017-03-29 三 04:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-29 三 04:07]
+   CLOCK: [2017-03-29 三 03:56]--[2017-03-29 三 04:07] =>  0:11
+   CLOCK: [2017-03-28 二 16:35]--[2017-03-28 二 21:30] =>  4:55
    :END:
 ** Lesson13
 grown-ups
@@ -3722,6 +3762,12 @@ She twisted a wet towel a
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-06 一 05:52]
    CLOCK: [2017-03-06 一 05:34]--[2017-03-06 一 05:52] =>  0:18
+   :END:
+** DONE Review<2017-03-29 三 04:09>98.9%
+   CLOSED: [2017-03-29 三 04:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-29 三 04:28]
+   CLOCK: [2017-03-29 三 04:09]--[2017-03-29 三 04:28] =>  0:19
    :END:
 ** Lesson 14
 
@@ -4085,6 +4131,12 @@ Does the boy want a pear? No, the boy wants meat.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-06 一 07:43]
    CLOCK: [2017-03-06 一 07:26]--[2017-03-06 一 07:43] =>  0:17
+   :END:
+** DONE Review<2017-03-29 三 05:30>98.0%
+   CLOSED: [2017-03-29 三 05:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-29 三 05:48]
+   CLOCK: [2017-03-29 三 05:30]--[2017-03-29 三 05:48] =>  0:18
    :END:
 ** Lesson 15
 
@@ -4480,6 +4532,12 @@ It likes to dance.
    - State "DONE"       from "STARTED"    [2017-03-04 Sat 21:32]
    CLOCK: [2017-03-04 Sat 21:15]--[2017-03-04 Sat 21:32] =>  0:17
    :END:
+** DONE Review<2017-03-29 三 05:49>98.5%
+   CLOSED: [2017-03-29 三 06:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-29 三 06:05]
+   CLOCK: [2017-03-29 三 05:49]--[2017-03-29 三 06:05] =>  0:16
+   :END:
 ** lesson 16
 
 a tray
@@ -4627,6 +4685,12 @@ It likes to dance.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-04 Sat 21:50]
    CLOCK: [2017-03-04 Sat 21:33]--[2017-03-04 Sat 21:50] =>  0:17
+   :END:
+** DONE Review<2017-03-29 三 09:45>99.0%
+   CLOSED: [2017-03-29 三 10:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-29 三 10:04]
+   CLOCK: [2017-03-29 三 09:45]--[2017-03-29 三 10:04] =>  0:19
    :END:
 ** Lesson 17
 
@@ -4888,6 +4952,12 @@ The neck is the part of the body, on many terrestrial or secondarily aquatic ver
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-01-01 日 06:39]
    CLOCK: [2017-01-01 日 05:44]--[2017-01-01 日 06:39] =>  0:55
+   :END:
+** DONE Review<2017-03-29 三 21:05>99.2%
+   CLOSED: [2017-03-29 三 21:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-29 三 21:26]
+   CLOCK: [2017-03-29 三 21:05]--[2017-03-29 三 21:26] =>  0:21
    :END:
 ** Lesson18
 
@@ -5167,6 +5237,12 @@ A red flower? No, a grey bird.
    - State "DONE"       from "STARTED"    [2017-03-05 Sun 14:46]
    CLOCK: [2017-03-05 Sun 14:26]--[2017-03-05 Sun 14:46] =>  0:20
    :END:
+** DONE Review<2017-03-29 三 10:05>99.3%
+   CLOSED: [2017-03-29 三 10:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-29 三 10:25]
+   CLOCK: [2017-03-29 三 10:05]--[2017-03-29 三 10:25] =>  0:20
+   :END:
 * lesson ninteen<2016-07-07 Thu>
 ** DONE Review 96.7%
    CLOSED: [2016-08-25 Thu 15:20]
@@ -5330,6 +5406,19 @@ Are the child's feet big or small? His feet are small.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-06 一 21:26]
    CLOCK: [2017-03-06 一 21:08]--[2017-03-06 一 21:26] =>  0:18
+   :END:
+** DONE Review<2017-03-29 三 14:10>98%
+   CLOSED: [2017-03-29 三 14:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-29 三 14:30]
+ CLOCK: [2017-03-29 三 14:10]--[2017-03-29 三 14:30] =>  0:20
+
+   :END:
+** DONE Review<2017-03-29 三 17:24>99.4%
+   CLOSED: [2017-03-29 三 17:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-29 三 17:42]
+   CLOCK: [2017-03-29 三 17:24]--[2017-03-29 三 17:42] =>  0:18
    :END:
 ** Lesson19
 
@@ -5541,6 +5630,18 @@ Is the child's head big or small? His head is small.
    CLOCK: [2017-03-06 一 20:48]--[2017-03-06 一 21:07] =>  0:19
    :END:
 
+** DONE Review<2017-03-29 三 14:31>98.8%
+   CLOSED: [2017-03-29 三 14:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-29 三 14:50]
+   CLOCK: [2017-03-29 三 14:31]--[2017-03-29 三 14:50] =>  0:19
+   :END:
+** DONE Review<2017-03-29 三 16:58>99.1%
+   CLOSED: [2017-03-29 三 17:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-29 三 17:22]
+   CLOCK: [2017-03-29 三 16:58]--[2017-03-29 三 17:22] =>  0:24
+   :END:
 ** lesson 20
 
 a cook

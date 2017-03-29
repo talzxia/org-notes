@@ -688,3 +688,27 @@ practice two lessons 1,2 99.5%,98.8%
    :LOGBOOK:
    CLOCK: [2017-03-27 一 19:45]--[2017-03-27 一 20:28] =>  0:43
    :END:
+** DONE relax<2017-03-28 二 05:07>
+   CLOSED: [2017-03-28 二 05:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-28 二 05:30]
+   CLOCK: [2017-03-28 二 05:07]--[2017-03-28 二 05:30] =>  0:23
+   :END:
+** DONE I'm tired. Relax<2017-03-28 二 15:24>
+   CLOSED: [2017-03-28 二 15:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-28 二 15:33]
+   CLOCK: [2017-03-28 二 15:24]--[2017-03-28 二 15:33] =>  0:09
+   :END:
+** DONE relax <2017-03-29 三 04:29>
+   CLOSED: [2017-03-29 三 05:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-29 三 05:24]
+   CLOCK: [2017-03-29 三 04:29]--[2017-03-29 三 05:24] =>  0:55
+   :END:
+** DONE relax<2017-03-29 三 14:54>
+   CLOSED: [2017-03-29 三 15:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-29 三 15:15]
+   CLOCK: [2017-03-29 三 14:53]--[2017-03-29 三 15:15] =>  0:22
+   :END:
