@@ -6010,3 +6010,39 @@ ten 99.3%
    CLOCK: [2017-03-30 四 16:24]--[2017-03-30 四 18:55] =>  2:31
    :END:
 and to have dinner
+** DONE Clean office<2017-03-31 五 08:00>
+   CLOSED: [2017-03-31 五 08:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-31 五 08:15]
+   CLOCK: [2017-03-31 五 08:00]--[2017-03-31 五 08:15] =>  0:15
+   :END:
+** DONE check teaching<2017-03-31 五 09:59>
+   CLOSED: [2017-03-31 五 10:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-31 五 10:52]
+   CLOCK: [2017-03-31 五 09:59]--[2017-03-31 五 10:52] =>  0:53
+   :END:
+与动漫社团交流并安排作全楼ai设计。
+** DONE free learn<2017-03-31 五 10:55>
+   CLOSED: [2017-03-31 五 11:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-31 五 11:26]
+   CLOCK: [2017-03-31 五 10:55]--[2017-03-31 五 11:26] =>  0:31
+   :END:
+** STARTED arrive office and begin to work<2017-03-31 五 14:31>
+   :LOGBOOK:
+   CLOCK: [2017-03-31 五 14:31]--[2017-03-31 五 14:35] =>  0:04
+   :END:
+** DONE put in order<2017-03-31 五 15:21>
+   CLOSED: [2017-03-31 五 16:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-31 五 16:19]
+   CLOCK: [2017-03-31 五 15:21]--[2017-03-31 五 16:19] =>  0:58
+   :END:
+李建林装机
+** DONE learn Vim<2017-03-31 五 16:21>
+   CLOSED: [2017-03-31 五 16:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-03-31 五 16:27]
+   CLOCK: [2017-03-31 五 16:21]--[2017-03-31 五 16:27] =>  0:06
+   :END:
