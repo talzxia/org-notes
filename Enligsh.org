@@ -4784,6 +4784,12 @@ It likes to dance.
    - State "DONE"       from "STARTED"    [2017-03-30 四 04:43]
    CLOCK: [2017-03-30 四 04:25]--[2017-03-30 四 04:43] =>  0:18
    :END:
+** DONE Review<2017-04-01 六 04:42>98.8%
+   CLOSED: [2017-04-01 六 04:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-01 六 04:59]
+   CLOCK: [2017-04-01 六 04:42]--[2017-04-01 六 04:59] =>  0:17
+   :END:
 ** Lesson 17
 
 sale
@@ -5335,6 +5341,12 @@ A red flower? No, a grey bird.
    - State "DONE"       from "STARTED"    [2017-03-29 三 10:25]
    CLOCK: [2017-03-29 三 10:05]--[2017-03-29 三 10:25] =>  0:20
    :END:
+** DONE Review<2017-04-01 六 05:00>98.8%
+   CLOSED: [2017-04-01 六 05:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-01 六 05:19]
+   CLOCK: [2017-04-01 六 05:00]--[2017-04-01 六 05:19] =>  0:19
+   :END:
 * lesson ninteen<2016-07-07 Thu>
 ** DONE Review 96.7%
    CLOSED: [2016-08-25 Thu 15:20]
@@ -5511,6 +5523,12 @@ Are the child's feet big or small? His feet are small.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-29 三 17:42]
    CLOCK: [2017-03-29 三 17:24]--[2017-03-29 三 17:42] =>  0:18
+   :END:
+** DONE Review<2017-04-01 六 05:20>98.2%
+   CLOSED: [2017-04-01 六 05:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-01 六 05:36]
+   CLOCK: [2017-04-01 六 05:20]--[2017-04-01 六 05:36] =>  0:16
    :END:
 ** Lesson19
 
@@ -5733,6 +5751,12 @@ Is the child's head big or small? His head is small.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-29 三 17:22]
    CLOCK: [2017-03-29 三 16:58]--[2017-03-29 三 17:22] =>  0:24
+   :END:
+** DONE Review<2017-04-01 六 05:37>98.4%
+   CLOSED: [2017-04-01 六 05:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-01 六 05:55]
+   CLOCK: [2017-04-01 六 05:37]--[2017-04-01 六 05:55] =>  0:18
    :END:
 ** lesson 20
 
@@ -8470,6 +8494,18 @@ There are many beautiful buildings around the square.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-31 Fri 06:27]
    CLOCK: [2017-03-31 Fri 06:03]--[2017-03-31 Fri 06:27] =>  0:24
+   :END:
+** DONE Review<2017-04-01 六 14:15>97.9%
+   CLOSED: [2017-04-01 六 15:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-01 六 15:01]
+   CLOCK: [2017-04-01 六 14:15]--[2017-04-01 六 15:01] =>  0:46
+   :END:
+** DONE Review<2017-04-01 六 18:59>98.2%
+   CLOSED: [2017-04-01 六 19:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-01 六 19:47]
+   CLOCK: [2017-04-01 六 18:59]--[2017-04-01 六 19:47] =>  0:48
    :END:
 ** Lesson 30
 This is a view of the desert. A group of people are travelling on canmels. Three
