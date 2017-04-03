@@ -127,7 +127,13 @@
    - State "DONE"       from "STARTED"    [2017-04-02 日 06:20]
    CLOCK: [2017-04-01 六 21:38]--[2017-04-02 日 06:20] =>  8:42
    :END:
-** STARTED today I'm tired, so wants to sleep early<2017-04-02 日 20:53>
+** DONE today I'm tired, so wants to sleep early<2017-04-02 日 20:53>
+   CLOSED: [2017-04-03 一 04:03]
    :LOGBOOK:
-   CLOCK: [2017-04-02 日 20:53]
+   - State "DONE"       from "STARTED"    [2017-04-03 一 04:03]
+   CLOCK: [2017-04-02 日 20:53]--[2017-04-03 一 04:03] =>  7:10
+   :END:
+** STARTED sleep<2017-04-03 一 20:45>
+   :LOGBOOK:
+   CLOCK: [2017-04-03 一 20:45]
    :END:
