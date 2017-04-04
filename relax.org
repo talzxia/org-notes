@@ -833,3 +833,25 @@ http://edu.sina.com.cn/ischool/2017-03-21/doc-ifycnpit2423564.shtml?cre=edupagep
    - State "DONE"       from "STARTED"    [2017-04-03 一 17:44]
    CLOCK: [2017-04-03 一 16:26]--[2017-04-03 一 17:44] =>  1:18
    :END:
+** DONE relax and browse<2017-04-04 二 05:02>
+   CLOSED: [2017-04-04 二 06:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-04 二 06:01]
+   CLOCK: [2017-04-04 二 05:02]--[2017-04-04 二 06:01] =>  0:59
+   :END:
+** DONE I has a backache. <2017-04-04 二 09:31>
+   CLOSED: [2017-04-04 二 11:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-04 二 11:34]
+   CLOCK: [2017-04-04 二 09:31]--[2017-04-04 二 11:34] =>  2:03
+   :END:
+到中百、三源走一圈
+** DONE relax<2017-04-04 二 11:51>
+   CLOSED: [2017-04-04 二 18:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-04 二 18:59]
+   - State "STARTED"    from "DONE"       [2017-04-04 二 18:18]
+   CLOCK: [2017-04-04 二 18:18]--[2017-04-04 二 18:59] =>  0:41
+   - State "DONE"       from "STARTED"    [2017-04-04 二 12:34]
+   CLOCK: [2017-04-04 二 11:51]--[2017-04-04 二 12:34] =>  0:43
+   :END:
