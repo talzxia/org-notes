@@ -139,7 +139,13 @@
    - State "DONE"       from "STARTED"    [2017-04-04 二 03:59]
    CLOCK: [2017-04-03 一 20:45]--[2017-04-04 二 03:59] =>  7:14
    :END:
-** STARTED I'm going to sleeping because I have backache<2017-04-04 二 20:24>
+** DONE I'm going to sleeping because I have backache<2017-04-04 二 20:24>
+   CLOSED: [2017-04-05 三 03:49]
    :LOGBOOK:
-   CLOCK: [2017-04-04 二 20:24]
+   - State "DONE"       from "STARTED"    [2017-04-05 三 03:49]
+   CLOCK: [2017-04-04 二 20:24]--[2017-04-05 三 03:49] =>  7:25
+   :END:
+** STARTED sleep<2017-04-05 三 20:41>
+   :LOGBOOK:
+   CLOCK: [2017-04-05 三 20:41]
    :END:

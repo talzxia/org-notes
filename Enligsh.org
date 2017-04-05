@@ -7495,6 +7495,12 @@ The boat beached on a mud flat.
    - State "DONE"       from "STARTED"    [2017-01-12 Thu 15:58]
    CLOCK: [2017-01-12 Thu 14:43]--[2017-01-12 Thu 15:58] =>  1:15
    :END:
+** DONE Review<2017-04-05 三 03:50>97.1%
+   CLOSED: [2017-04-05 三 04:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-05 三 04:20]
+   CLOCK: [2017-04-05 三 03:50]--[2017-04-05 三 04:20] =>  0:30
+   :END:
 ** Lesson 26
 
 a group
@@ -7687,6 +7693,12 @@ Do they eat cheese for breakfast? Yes, they do.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-01-13 Fri 09:27]
    CLOCK: [2017-01-13 Fri 08:06]--[2017-01-13 Fri 09:27] =>  1:21
+   :END:
+** DONE Review<2017-04-05 三 04:25>98.1%
+   CLOSED: [2017-04-05 三 04:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-05 三 04:49]
+   CLOCK: [2017-04-05 三 04:25]--[2017-04-05 三 04:49] =>  0:24
    :END:
 ** Lesson 27
 
@@ -7977,6 +7989,24 @@ Eleanor's work among the women will, I trust, bear fruit.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-01-13 Fri 15:45]
    CLOCK: [2017-01-13 Fri 14:41]--[2017-01-13 Fri 15:45] =>  1:04
+   :END:
+** DONE Review<2017-04-05 三 05:21>96.9%
+   CLOSED: [2017-04-05 三 05:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-05 三 05:38]
+   CLOCK: [2017-04-05 三 05:21]--[2017-04-05 三 05:38] =>  0:17
+   :END:
+** DONE Loud read<2017-04-05 三 05:40>
+   CLOSED: [2017-04-05 三 05:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-05 三 05:49]
+   CLOCK: [2017-04-05 三 05:40]--[2017-04-05 三 05:49] =>  0:09
+   :END:
+** DONE Review<2017-04-05 三 20:09>97.8%
+   CLOSED: [2017-04-05 三 20:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-05 三 20:26]
+   CLOCK: [2017-04-05 三 20:09]--[2017-04-05 三 20:26] =>  0:17
    :END:
 ** Lesson 28
 
@@ -8406,6 +8436,24 @@ A Bronze Pair 青铜双像
    - State "DONE"       from "STARTED"    [2017-01-14 Sat 07:11]
    CLOCK: [2017-01-14 Sat 05:35]--[2017-01-14 Sat 07:11] =>  1:36
    :END:
+** DONE Review<2017-04-05 三 07:35>97.4%
+   CLOSED: [2017-04-05 三 08:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-05 三 08:10]
+   CLOCK: [2017-04-05 三 07:35]--[2017-04-05 三 08:10] =>  0:35
+   :END:
+** DONE Writing<2017-04-05 三 14:28>
+   CLOSED: [2017-04-05 三 15:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-05 三 15:11]
+   CLOCK: [2017-04-05 三 14:28]--[2017-04-05 三 15:11] =>  0:43
+   :END:
+** DONE Review<2017-04-05 三 18:02>97.9%
+   CLOSED: [2017-04-05 三 18:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-05 三 18:33]
+   CLOCK: [2017-04-05 三 18:02]--[2017-04-05 三 18:33] =>  0:31
+   :END:
 ** Lesson 29
 
 Who is waiting at the door? The dog.
@@ -8656,6 +8704,15 @@ There are many beautiful buildings around the square.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-02 日 07:05]
    CLOCK: [2017-04-02 日 06:21]--[2017-04-02 日 07:05] =>  0:44
+   :END:
+** DONE Review<2017-04-05 三 11:19>97%
+   CLOSED: [2017-04-05 三 14:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-05 三 14:26]
+   - State "STARTED"    from "DONE"       [2017-04-05 三 14:02]
+   CLOCK: [2017-04-05 三 14:02]--[2017-04-05 三 14:26] =>  0:24
+   - State "DONE"       from "STARTED"    [2017-04-05 三 11:39]
+   CLOCK: [2017-04-05 三 11:19]--[2017-04-05 三 11:39] =>  0:20
    :END:
 ** Lesson 30
 This is a view of the desert. A group of people are travelling on canmels. Three
