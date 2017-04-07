@@ -1,0 +1,26 @@
+* Vim notes
+** 大家来学VIM（一个历久弥新的编辑器）
+难度问题：很多人认为难学！怎么办？
+你可以选学选用，需要用到的先学，其它的就放一边，只要能善用一些常用的功能，又何必
+要那么深入呢？使用中发现一些新功能，step by step ，你就有收获。
+** 为什么选 VIM?
+一个重要的原因是能正确处理中文（高效，程序员必备）
+. Vim 代表Vi iMproved。
+Vim 是慈善软件（Charity Ware).
+We Are The World
+Vim 的正则表达式颇完整（regular express),您可以有机会学regexp,是点学会regexp 会
+使您生活在Linux(Unix)的世界会更美好。学了regexp您会有点看不起windows系统中的寻找
+功能的。
+** Vim 的模式
+1. Normal mode (command mode c-mode):
+一进入Vim即此模式，只能执行命令，不能键入文字。
+如光标移动：h j k l 编辑指令：DD,x,O，也可以是查找替换命令
+2.Insert mode(i-mode):
+按i即进入i-mode， 此时才可以键入文字，录入文本。按Esc又回到c-mode.
+3.Ed mode(commom-line mode, e-mode):
+按冒号：即进入e-mode.按Esc回到c-mode
+如新建一文件：
+：e Vim notes.org(e 空格后为文件名）
+：w 保存文件
+：q 退出（不保存文件）
+：wq (存盘退出）

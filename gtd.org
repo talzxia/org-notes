@@ -846,6 +846,7 @@ arrvie office begin work
    DEADLINE: <2016-10-01 Sat 06:20 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2016-12-06 Tue 07:48]
+   :ID:       64EFC8F4-0BAB-458F-A905-A47232C5221E
    :END:
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-12-06 Tue 07:48]
@@ -895,6 +896,7 @@ arrvie office begin work
    DEADLINE: <2016-08-28 Sun 21:20 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2016-09-04 Sun 06:16]
+   :ID:       AEAB58C3-2443-4C5B-BA6C-CE8C6AE8261C
    :END:
    :LOGBOOK:
    - State "CANCELLED"  from "TODO"       [2016-09-04 Sun 06:16] \\
@@ -907,6 +909,7 @@ arrvie office begin work
    DEADLINE: <2016-09-14 三 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2016-08-28 日 06:14]
+   :ID:       7C517E08-D221-456E-A2E8-16628EEC4A39
    :END:
    :LOGBOOK:
    - State "SOMEDAY"    from "WAITING"    [2016-08-28 日 06:14]
@@ -937,6 +940,7 @@ arrvie office begin work
    DEADLINE: <2016-09-03 Sat +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2016-09-04 Sun 06:17]
+   :ID:       CF7D4C8C-4E25-4CF8-8294-EE1AC455CF63
    :END:
    :LOGBOOK:
    - State "DONE"       from "TODO"       [2016-09-04 Sun 06:17]
@@ -954,6 +958,7 @@ arrvie office begin work
    DEADLINE: <2016-09-03 Sat +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2016-09-04 Sun 06:18]
+   :ID:       CAF4A754-780E-4EB8-8F9A-2D9112069CD0
    :END:
    :LOGBOOK:
    - State "DONE"       from "TODO"       [2016-09-04 Sun 06:18]
@@ -1268,6 +1273,9 @@ third floor begin 16:00
    :END:
 
 ** WAITING [#B] install spacemacs for wangshubin
+   :PROPERTIES:
+   :ID:       9EA2CECB-5E19-49A0-BD17-7E7CBA993D8D
+   :END:
    :LOGBOOK:
    - State "WAITING"    from "STARTED"    [2016-09-01 Thu 10:41]
    CLOCK: [2016-09-01 Thu 09:28]--[2016-09-01 Thu 10:43] =>  1:15
@@ -1581,6 +1589,9 @@ http://wenku.baidu.com/link?url=zacfqqWNFH4MTfgF7YRp3aIy9iqfdHk-3vvqt0_abOaefv7f
 
 ** TODO [#B]晚上上课
    DEADLINE: <2016-09-08 四 19:00-20:00>
+   :PROPERTIES:
+   :ID:       D96AEFC1-307D-4C62-A51F-F12FE0E07D20
+   :END:
 
 ** DONE [#B]relax and listen music
    CLOSED: [2016-09-09 五 05:58]
@@ -1642,6 +1653,9 @@ http://wenku.baidu.com/link?url=zacfqqWNFH4MTfgF7YRp3aIy9iqfdHk-3vvqt0_abOaefv7f
    :END:
 
 ** TODO [#B] read Ruby
+   :PROPERTIES:
+   :ID:       3927E0ED-93C4-492E-A74D-0820D92B595C
+   :END:
    :LOGBOOK:
    CLOCK: [2016-09-10 六 16:50]--[2016-09-10 六 17:10] =>  0:20
    :END:
@@ -2388,6 +2402,9 @@ http://mt.sohu.com/20160817/n464605736.shtml
    :END:
 
 ** TODO [#B]
+   :PROPERTIES:
+   :ID:       9BC750C5-EAD1-4EA1-8BC9-CD0AE6BE52CD
+   :END:
 
 ** DONE [#B] going to stadium and watch sportsmen
    CLOSED: [2016-09-29 Thu 15:09]
@@ -3346,6 +3363,9 @@ sound is so low
    CLOCK: [2016-11-19 六 08:28]--[2016-11-19 六 09:53] =>  1:25
 =======
 ** TODO [#B]
+   :PROPERTIES:
+   :ID:       B2E7797C-B150-4E57-9437-302EC03B284C
+   :END:
 
 ** DONE [#B] from taian to jiniao
    CLOSED: [2016-11-11 Fri 20:03]
@@ -4337,6 +4357,9 @@ clean up the office
    :END:
 
 ** TODO [#B] go home and to have breakfast
+   :PROPERTIES:
+   :ID:       8BC95887-8FD5-4243-864B-7D7F9860908E
+   :END:
 
 ** DONE [#B] relax and listen to music
    CLOSED: [2017-02-20 Mon 11:03]
@@ -4855,6 +4878,9 @@ and eating dinner
    :END:
 
 ** STARTED [#B] going to home
+   :PROPERTIES:
+   :ID:       25A0182C-6F52-41E6-8F32-2DA519DFD7B2
+   :END:
 
 ** DONE [#B] relax and browse
    CLOSED: [2017-03-01 Wed 06:51]
@@ -4872,6 +4898,9 @@ reivew seven 99.1%
    :END:
 
 ** STARTED [#B] arrive office and begin to work
+   :PROPERTIES:
+   :ID:       D074F9FA-75D3-4A3D-A433-641210CD299F
+   :END:
    :LOGBOOK:
    CLOCK: [2017-03-01 Wed 08:06]--[2017-03-01 Wed 08:14] =>  0:08
    :END:
@@ -4994,6 +5023,9 @@ to have breakfast
    :END:
 
 ** STARTED [#B] give a lecture
+   :PROPERTIES:
+   :ID:       CB4B3182-5189-40D8-954C-8CEEEC862FBC
+   :END:
 
 ** DONE [#B] sleep<2017-03-26 Sun 07:30>
    CLOSED: [2017-03-26 Sun 09:00]
@@ -5197,6 +5229,17 @@ to go two brother's and sister's home
    - State "DONE"       from "STARTED"    [2017-04-05 三 20:40]
    CLOCK: [2017-04-05 三 20:27]--[2017-04-05 三 20:40] =>  0:13
    :END:
+
+** DONE [#B] Loud reading<2017-04-06 四 06:00>
+   CLOSED: [2017-04-06 四 06:25]
+   :PROPERTIES:
+   :ID:       8927C555-BD2E-4136-868A-4F3551AA24A2
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-06 四 06:25]
+   CLOCK: [2017-04-06 四 06:00]--[2017-04-06 四 06:25] =>  0:25
+   :END:
+
 
 * Cocos2D-X
 
