@@ -899,3 +899,16 @@ handwriting
    CLOCK: [2017-04-07 五 04:37]--[2017-04-07 五 06:00] =>  1:23
    :END:
 开会，工会预备会。
+** DONE browse <2017-04-08 六 05:16>
+   CLOSED: [2017-04-08 六 06:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-08 六 06:11]
+   CLOCK: [2017-04-08 六 05:15]--[2017-04-08 六 06:11] =>  0:56
+   :END:
+** DONE I'm tired<2017-04-08 六 15:00>
+   CLOSED: [2017-04-08 六 21:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-08 六 21:26]
+   CLOCK: [2017-04-08 六 14:59]--[2017-04-08 六 21:26] =>  6:27
+   :END:
+dinner with jeibping etc.
