@@ -7543,6 +7543,30 @@ The boat beached on a mud flat.
    - State "DONE"       from "STARTED"    [2017-04-08 六 06:40]
    CLOCK: [2017-04-08 六 06:12]--[2017-04-08 六 06:40] =>  0:28
    :END:
+** DONE Loud read <2017-04-09 日 05:21>
+   CLOSED: [2017-04-09 日 05:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-09 日 05:54]
+   CLOCK: [2017-04-09 日 05:21]--[2017-04-09 日 05:54] =>  0:33
+   :END:
+** DONE Review<2017-04-09 日 05:55>97.3%
+   CLOSED: [2017-04-09 日 06:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-09 日 06:20]
+   CLOCK: [2017-04-09 日 05:55]--[2017-04-09 日 06:20] =>  0:25
+   :END:
+** DONE Review<2017-04-09 日 14:43>98.1%
+   CLOSED: [2017-04-09 日 15:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-09 日 15:08]
+   CLOCK: [2017-04-09 日 14:43]--[2017-04-09 日 15:08] =>  0:25
+   :END:
+** DONE Review<2017-04-09 日 20:30>98.1%
+   CLOSED: [2017-04-09 日 20:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-09 日 20:57]
+   CLOCK: [2017-04-09 日 20:31]--[2017-04-09 日 20:57] =>  0:26
+   :END:
 ** Lesson 26
 
 a group
