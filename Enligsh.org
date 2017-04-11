@@ -6681,6 +6681,30 @@ They detoured around the traffic jam by heading south.
    - State "DONE"       from "STARTED"    [2017-04-04 二 14:51]
    CLOCK: [2017-04-04 二 14:33]--[2017-04-04 二 14:51] =>  0:18
    :END:
+** DONE Review<2017-04-11 二 04:53>98.8%
+   CLOSED: [2017-04-11 二 05:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-11 二 05:13]
+   CLOCK: [2017-04-11 二 04:53]--[2017-04-11 二 05:13] =>  0:20
+   :END:
+** DONE Loud read<2017-04-11 二 05:53>
+   CLOSED: [2017-04-11 二 06:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-11 二 06:22]
+   CLOCK: [2017-04-11 二 05:53]--[2017-04-11 二 06:22] =>  0:29
+   :END:
+** DONE Watch The It Crowd<2017-04-11 二 06:23>
+   CLOSED: [2017-04-11 二 06:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-11 二 06:37]
+   CLOCK: [2017-04-11 二 06:23]--[2017-04-11 二 06:37] =>  0:14
+   :END:
+** DONE Review<2017-04-11 二 18:13>98.1%
+   CLOSED: [2017-04-11 二 18:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-11 二 18:33]
+   CLOCK: [2017-04-11 二 18:13]--[2017-04-11 二 18:33] =>  0:20
+   :END:
 ** Lesson 23
 
 a building
@@ -6967,6 +6991,13 @@ means of transportation 交通设施
    - State "DONE"       from "STARTED"    [2017-04-10 一 20:06]
    CLOCK: [2017-04-10 一 19:46]--[2017-04-10 一 20:06] =>  0:20
    :END:
+** DONE Review<2017-04-11 二 04:22>97.8%
+   CLOSED: [2017-04-11 二 04:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-11 二 04:45]
+   CLOCK: [2017-04-11 二 04:22]--[2017-04-11 二 04:45] =>  0:23
+   :END:
+
 ** Lesson24
 
 a plane
