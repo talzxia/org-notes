@@ -962,3 +962,15 @@ dinner with jeibping etc.
    - State "DONE"       from "STARTED"    [2017-04-11 二 05:51]
    CLOCK: [2017-04-11 二 05:14]--[2017-04-11 二 05:51] =>  0:37
    :END:
+** DONE Relax<2017-04-12 三 06:25>
+   CLOSED: [2017-04-12 三 08:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-12 三 08:04]
+   CLOCK: [2017-04-12 三 06:25]--[2017-04-12 三 08:03] =>  1:38
+   :END:
+** DONE relax and writing<2017-04-12 三 20:09>
+   CLOSED: [2017-04-12 三 20:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-12 三 20:28]
+   CLOCK: [2017-04-12 三 20:09]--[2017-04-12 三 20:28] =>  0:19
+   :END:
