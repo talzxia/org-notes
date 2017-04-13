@@ -237,6 +237,12 @@ Is the bird running? No, the bird is flying.
    - State "DONE"       from "STARTED"    [2017-03-27 一 19:13]
    CLOCK: [2017-03-27 一 19:00]--[2017-03-27 一 19:13] =>  0:13
    :END:
+** DONE Review<2017-04-13 四 20:19>93.9%
+   CLOSED: [2017-04-13 四 20:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-13 四 20:26]
+   CLOCK: [2017-04-13 四 20:10]--[2017-04-13 四 20:26] =>  0:16
+   :END:
 ** Lesson 1
 
 a man
@@ -6748,6 +6754,12 @@ They detoured around the traffic jam by heading south.
    - State "DONE"       from "STARTED"    [2017-04-11 二 18:33]
    CLOCK: [2017-04-11 二 18:13]--[2017-04-11 二 18:33] =>  0:20
    :END:
+** DONE Review<2017-04-13 四 04:45>98.9%
+   CLOSED: [2017-04-13 四 05:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-13 四 05:04]
+   CLOCK: [2017-04-13 四 04:45]--[2017-04-13 四 05:04] =>  0:19
+   :END:
 ** Lesson 23
 
 a building
@@ -7046,6 +7058,12 @@ means of transportation 交通设施
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-12 三 06:24]
    CLOCK: [2017-04-12 三 06:03]--[2017-04-12 三 06:24] =>  0:21
+   :END:
+** DONE Review<2017-04-13 四 05:04>98.8%
+   CLOSED: [2017-04-13 四 05:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-13 四 05:24]
+   CLOCK: [2017-04-13 四 05:04]--[2017-04-13 四 05:24] =>  0:20
    :END:
 ** Lesson24
 
@@ -7355,6 +7373,18 @@ Is this dog working? No, it is relaxing.
    CLOCK: [2017-04-10 一 18:56]--[2017-04-10 一 19:05] =>  0:09
    - State "DONE"       from "STARTED"    [2017-04-10 一 17:24]
    CLOCK: [2017-04-10 一 17:11]--[2017-04-10 一 17:24] =>  0:13
+   :END:
+** DONE Review<2017-04-13 四 18:19>97.5%
+   CLOSED: [2017-04-13 四 18:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-13 四 18:42]
+   CLOCK: [2017-04-13 四 18:19]--[2017-04-13 四 18:42] =>  0:23
+   :END:
+** DONE Review<2017-04-13 四 21:12>98.6%
+   CLOSED: [2017-04-13 四 21:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-13 四 21:32]
+   CLOCK: [2017-04-13 四 21:12]--[2017-04-13 四 21:32] =>  0:20
    :END:
 * DONE twenty six
   DEADLINE: <2016-07-11 Mon 10:43>
