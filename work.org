@@ -6302,3 +6302,23 @@ Vipabc在线英语教育
    - State "DONE"       from "STARTED"    [2017-04-13 四 17:22]
      CLOCK: [2017-04-13 四 14:58]--[2017-04-13 四 17:22] =>  2:24
    :END:
+** DONE clean up office<2017-04-14 五 08:00>
+   CLOSED: [2017-04-14 五 08:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-14 五 08:47]
+   CLOCK: [2017-04-14 五 08:00]--[2017-04-14 五 08:47] =>  0:47
+   :END:
+** DONE check teaching and to relax<2017-04-14 五 09:36>
+   CLOSED: [2017-04-14 五 10:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-14 五 10:04]
+   CLOCK: [2017-04-14 五 09:36]--[2017-04-14 五 10:04] =>  0:28
+   :END:
+安排课堂关手机活动
+ps社团进展
+** DONE 配置spacemacs<2017-04-14 五 10:04>
+   CLOSED: [2017-04-14 五 11:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-14 五 11:06]
+   CLOCK: [2017-04-14 五 10:05]--[2017-04-14 五 11:06] =>  1:01
+   :END:

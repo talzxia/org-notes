@@ -7710,6 +7710,12 @@ The boat beached on a mud flat.
    - State "DONE"       from "STARTED"    [2017-04-10 一 01:49]
    CLOCK: [2017-04-10 一 01:21]--[2017-04-10 一 01:49] =>  0:28
    :END:
+** DONE Review<2017-04-14 五 04:59>97.5%
+   CLOSED: [2017-04-14 五 05:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-14 五 05:27]
+   CLOCK: [2017-04-14 五 04:59]--[2017-04-14 五 05:27] =>  0:28
+   :END:
 ** Lesson 26
 
 a group
@@ -7914,6 +7920,18 @@ Do they eat cheese for breakfast? Yes, they do.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-07 五 04:02]
    CLOCK: [2017-04-07 五 03:35]--[2017-04-07 五 04:02] =>  0:27
+   :END:
+** DONE Review<2017-04-14 五 05:32>97.8%
+   CLOSED: [2017-04-14 五 05:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-14 五 05:57]
+   CLOCK: [2017-04-14 五 05:32]--[2017-04-14 五 05:57] =>  0:25
+   :END:
+** DONE Loud read<2017-04-14 五 06:26>
+   CLOSED: [2017-04-14 五 06:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-14 五 06:48]
+   CLOCK: [2017-04-14 五 06:26]--[2017-04-14 五 06:48] =>  0:22
    :END:
 ** Lesson 27
 
@@ -8240,6 +8258,12 @@ Eleanor's work among the women will, I trust, bear fruit.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-06 四 14:56]
    CLOCK: [2017-04-06 四 14:36]--[2017-04-06 四 14:56] =>  0:20
+   :END:
+** DONE Review<2017-04-14 五 08:49>96.5%
+   CLOSED: [2017-04-14 五 09:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-14 五 09:21]
+   CLOCK: [2017-04-14 五 08:48]--[2017-04-14 五 09:21] =>  0:33
    :END:
 ** Lesson 28
 
@@ -8702,6 +8726,12 @@ A Bronze Pair 青铜双像
    - State "DONE"       from "STARTED"    [2017-04-07 五 06:28]
    CLOCK: [2017-04-07 五 06:00]--[2017-04-07 五 06:28] =>  0:28
    :END:
+** DONE Review<2017-04-14 五 14:08>97.7%
+   CLOSED: [2017-04-14 五 14:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-14 五 14:41]
+   CLOCK: [2017-04-14 五 14:08]--[2017-04-14 五 14:41] =>  0:33
+   :END:
 ** Lesson 29
 
 Who is waiting at the door? The dog.
@@ -8970,6 +9000,15 @@ There are many beautiful buildings around the square.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-06 四 04:46]
    CLOCK: [2017-04-06 四 04:02]--[2017-04-06 四 04:46] =>  0:44
+   :END:
+** DONE Review<2017-04-14 五 18:45>97%
+   CLOSED: [2017-04-14 五 20:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-14 五 20:46]
+   - State "STARTED"    from "DONE"       [2017-04-14 五 20:24]
+   CLOCK: [2017-04-14 五 20:24]--[2017-04-14 五 20:46] =>  0:22
+   - State "DONE"       from "STARTED"    [2017-04-14 五 19:09]
+   CLOCK: [2017-04-14 五 18:45]--[2017-04-14 五 19:09] =>  0:24
    :END:
 ** Lesson 30
 This is a view of the desert. A group of people are travelling on canmels. Three
