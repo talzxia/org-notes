@@ -1007,8 +1007,15 @@ dinner with jeibping etc.
 handwriting ten minutes
 loud read five minutes
 ** DONE Relax<2017-04-15 六 09:40>
-   CLOSED: [2017-04-15 六 11:44]
+   CLOSED: [2017-04-16 日 13:41]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-16 日 13:41]
+   - State "STARTED"    from "DONE"       [2017-04-16 日 10:16]
+   CLOCK: [2017-04-16 日 10:16]--[2017-04-16 日 13:41] =>  3:25
+接老人及吃午饭。
+   - State "DONE"       from "STARTED"    [2017-04-16 日 06:47]
+   - State "STARTED"    from "DONE"       [2017-04-16 日 06:01]
+   CLOCK: [2017-04-16 日 06:01]--[2017-04-16 日 06:47] =>  0:46
    - State "DONE"       from "STARTED"    [2017-04-15 六 11:44]
    CLOCK: [2017-04-15 六 09:40]--[2017-04-15 六 11:44] =>  2:04
    :END:
