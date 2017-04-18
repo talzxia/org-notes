@@ -425,3 +425,33 @@ take daughter ot learn drive
    - State "DONE"       from "STARTED"    [2017-04-16 日 09:34]
    CLOCK: [2017-04-16 日 06:51]--[2017-04-16 日 09:34] =>  2:43
    :END:
+** DONE to have breakfast<2017-04-17 一 06:34>
+   CLOSED: [2017-04-17 一 08:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-17 一 08:14]
+   CLOCK: [2017-04-17 一 06:37]--[2017-04-17 一 08:00] =>  1:23
+   :END:
+** DONE to have lunch<2017-04-17 一 11:34>
+   CLOSED: [2017-04-17 一 14:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-17 一 14:05]
+   CLOCK: [2017-04-17 一 11:33]--[2017-04-17 一 14:02] =>  2:29
+   :END:
+** DONE to have dinner<2017-04-17 一 16:56>
+   CLOSED: [2017-04-17 一 20:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-17 一 20:40]
+   CLOCK: [2017-04-17 一 16:56]--[2017-04-17 一 20:40] =>  3:44
+   :END:
+** DONE to have breakfast<2017-04-18 Tue 06:59>
+   CLOSED: [2017-04-18 Tue 07:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-18 Tue 07:57]
+   CLOCK: [2017-04-18 Tue 06:59]--[2017-04-18 Tue 07:57] =>  0:58
+   :END:
+** DONE to have dinner<2017-04-18 Tue 18:32>
+   CLOSED: [2017-04-18 Tue 19:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-18 Tue 19:39]
+   CLOCK: [2017-04-18 Tue 18:32]--[2017-04-18 Tue 19:39] =>  1:07
+   :END:

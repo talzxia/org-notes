@@ -5872,6 +5872,12 @@ Is the child's head big or small? His head is small.
    - State "DONE"       from "STARTED"    [2017-04-16 日 20:03]
    CLOCK: [2017-04-16 日 19:45]--[2017-04-16 日 20:03] =>  0:18
    :END:
+** DONE Review<2017-04-17 一 04:50>99.4%
+   CLOSED: [2017-04-17 一 05:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-17 一 05:14]
+   CLOCK: [2017-04-17 一 04:50]--[2017-04-17 一 05:14] =>  0:24
+   :END:
 ** lesson 20
 
 a cook
@@ -6193,6 +6199,12 @@ Bucky couch 布凯氏滤线器床
    - State "DONE"       from "STARTED"    [2017-04-16 日 19:28]
    CLOCK: [2017-04-16 日 19:05]--[2017-04-16 日 19:28] =>  0:23
    :END:
+** DONE Review<2017-04-17 一 05:17>99%
+   CLOSED: [2017-04-17 一 05:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-17 一 05:49]
+   CLOCK: [2017-04-17 一 05:17]--[2017-04-17 一 05:49] =>  0:32
+   :END:
 ** Lesson21
 
 The patient in the red gown is lying on the couch.
@@ -6424,6 +6436,12 @@ The photographer has interesting work.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-16 日 13:57]
    CLOCK: [2017-04-16 日 13:41]--[2017-04-16 日 13:57] =>  0:16
+   :END:
+** DONE Review<2017-04-17 一 08:27>98.5%
+   CLOSED: [2017-04-17 一 08:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-17 一 08:45]
+   CLOCK: [2017-04-17 一 08:27]--[2017-04-17 一 08:45] =>  0:18
    :END:
 ** Lesson 22
 
@@ -6784,6 +6802,12 @@ They detoured around the traffic jam by heading south.
    - State "DONE"       from "STARTED"    [2017-04-16 日 10:16]
    CLOCK: [2017-04-16 日 09:58]--[2017-04-16 日 10:16] =>  0:18
    :END:
+** DONE Review<2017-04-17 一 14:06>98.2%
+   CLOSED: [2017-04-17 一 14:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-17 一 14:29]
+   CLOCK: [2017-04-17 一 14:06]--[2017-04-17 一 14:29] =>  0:23
+   :END:
 ** Lesson 23
 
 a building
@@ -7094,6 +7118,12 @@ means of transportation 交通设施
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-16 日 09:54]
    CLOCK: [2017-04-16 日 09:35]--[2017-04-16 日 09:54] =>  0:19
+   :END:
+** DONE Review<2017-04-18 二 04:30>98.2%
+   CLOSED: [2017-04-18 二 04:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-18 二 04:58]
+   CLOCK: [2017-04-18 二 04:30]--[2017-04-18 二 04:58] =>  0:28
    :END:
 ** Lesson24
 
@@ -7421,6 +7451,18 @@ Is this dog working? No, it is relaxing.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-16 日 06:01]
    CLOCK: [2017-04-16 日 05:39]--[2017-04-16 日 06:01] =>  0:22
+   :END:
+** DONE Review<2017-04-18 二 05:11>98.2%
+   CLOSED: [2017-04-18 二 05:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-18 二 05:41]
+   CLOCK: [2017-04-18 二 05:11]--[2017-04-18 二 05:41] =>  0:30
+   :END:
+** DONE Loud read<2017-04-18 二 05:59>
+   CLOSED: [2017-04-18 二 06:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-18 二 06:11]
+   CLOCK: [2017-04-18 二 05:59]--[2017-04-18 二 06:11] =>  0:12
    :END:
 * DONE twenty six
   DEADLINE: <2016-07-11 Mon 10:43>
@@ -7758,6 +7800,12 @@ The boat beached on a mud flat.
    - State "DONE"       from "STARTED"    [2017-04-16 日 05:37]
    CLOCK: [2017-04-16 日 05:10]--[2017-04-16 日 05:37] =>  0:27
    :END:
+** DONE Review<2017-04-18 Tue 08:01>98.6%
+   CLOSED: [2017-04-18 Tue 08:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-18 Tue 08:29]
+   CLOCK: [2017-04-18 Tue 08:01]--[2017-04-18 Tue 08:29] =>  0:28
+   :END:
 ** Lesson 26
 
 a group
@@ -7838,6 +7886,7 @@ museum to adults.
 What do tourists visit, museums or hospitals? They visit museums.
 When women travel, do they wear long dresses or jeans? They wear jeans.
 When people cross the street, does trasport move or stop? Transport stops.
+
 
 * DONE lesson twenty seven
   CLOSED: [2016-07-12 Tue 04:48]
@@ -7980,6 +8029,12 @@ Do they eat cheese for breakfast? Yes, they do.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-15 六 18:35]
    CLOCK: [2017-04-15 六 18:12]--[2017-04-15 六 18:35] =>  0:23
+   :END:
+** DONE Review<2017-04-18 二 19:42>97.9%
+   CLOSED: [2017-04-18 二 20:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-18 二 20:27]
+   CLOCK: [2017-04-18 二 19:42]--[2017-04-18 二 20:27] =>  0:45
    :END:
 ** Lesson 27
 
@@ -9075,6 +9130,12 @@ There are many beautiful buildings around the square.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-15 六 05:16]
    CLOCK: [2017-04-15 六 04:29]--[2017-04-15 六 05:16] =>  0:47
+   :END:
+** DONE Loud read<2017-04-17 一 06:21>
+   CLOSED: [2017-04-17 一 06:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-17 一 06:34]
+   CLOCK: [2017-04-17 一 06:21]--[2017-04-17 一 06:34] =>  0:13
    :END:
 ** Lesson 30
 This is a view of the desert. A group of people are travelling on canmels. Three
