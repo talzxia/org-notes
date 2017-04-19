@@ -6488,3 +6488,57 @@ ps社团进展
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-18 Tue 18:29]
    :END:
+** DONE clean up office<2017-04-19 三 07:48>
+   CLOSED: [2017-04-19 三 08:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-19 三 08:27]
+   CLOCK: [2017-04-19 三 07:48]--[2017-04-19 三 07:49] =>  0:01
+   :END:
+** DONE meeting lilin<2017-04-18 二 14:30>
+   CLOSED: [2017-04-19 三 07:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-18 二 14：30]
+   CLOCK: [2017-04-18 二 14:30]--[2017-04-18 二 17:10] =>  2:40
+   :END:
+** DONE meeting zhangshuji<2017-04-18 二 11:00>
+   CLOSED: [2017-04-19 三 07:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-18 二 11：55]
+   CLOCK: [2017-04-18 二 11:00]--[2017-04-18 二 11:55] =>  0:55
+   :END:
+** DONE Power failure and then meeting wangyuanzhang<2017-04-18 二 09:00>
+   CLOSED: [2017-04-19 三 07:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-18 二 09：00]
+   CLOCK: [2017-04-18 二 09:00]--[2017-04-18 二 11:00] =>  2:00
+   :END:
+** DONE writing<2017-04-19 三 08:27>
+   CLOSED: [2017-04-19 三 09:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-19 三 09:03]
+   CLOCK: [2017-04-19 三 08:27]--[2017-04-19 三 09:03] =>  0:36
+   :END:
+** DONE Free browse<2017-04-19 三 09:04>
+   CLOSED: [2017-04-19 三 09:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-19 三 09:35]
+   CLOCK: [2017-04-19 三 09:04]--[2017-04-19 三 09:35] =>  0:31
+   :END:
+** DONE check teaching<2017-04-19 三 09:38>
+   CLOSED: [2017-04-19 三 11:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-19 三 11:16]
+   CLOCK: [2017-04-19 三 09:35]--[2017-04-19 三 11:16] =>  1:41
+   :END:
+** DONE Begin to work<2017-04-19 三 14:35>
+   CLOSED: [2017-04-19 三 19:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-19 三 19:37]
+   CLOCK: [2017-04-19 三 14:35]--[2017-04-19 三 14:39] =>  0:04
+   :END:
+** DONE train students<2017-04-19 三 19:37>
+   CLOSED: [2017-04-19 三 20:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-19 三 20:34]
+   CLOCK: [2017-04-19 三 19:37]--[2017-04-19 三 20:34] =>  0:57
+   :END:
