@@ -8865,6 +8865,12 @@ A Bronze Pair 青铜双像
    - State "DONE"       from "STARTED"    [2017-04-19 三 16:08]
    CLOCK: [2017-04-19 三 14:39]--[2017-04-19 三 16:08] =>  1:29
    :END:
+** DONE Review<2017-04-20 四 14:46>98.5%
+   CLOSED: [2017-04-20 四 15:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-20 四 15:31]
+   CLOCK: [2017-04-20 四 14:46]--[2017-04-20 四 15:31] =>  0:45
+   :END:
 ** Lesson 29
 
 Who is waiting at the door? The dog.
@@ -9160,6 +9166,18 @@ There are many beautiful buildings around the square.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-19 三 21:17]
    CLOCK: [2017-04-19 三 20:35]--[2017-04-19 三 21:17] =>  0:42
+   :END:
+** DONE Loud read<2017-04-20 四 05:30>
+   CLOSED: [2017-04-20 四 05:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-20 四 05:45]
+   CLOCK: [2017-04-20 四 05:30]--[2017-04-20 四 05:45] =>  0:15
+   :END:
+** DONE Review<2017-04-20 四 05:46>98.8%
+   CLOSED: [2017-04-20 四 06:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-20 四 06:44]
+   CLOCK: [2017-04-20 四 05:46]--[2017-04-20 四 06:44] =>  0:58
    :END:
 ** Lesson 30
 This is a view of the desert. A group of people are travelling on canmels. Three
