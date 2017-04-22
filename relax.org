@@ -1077,3 +1077,21 @@ loud read five minutes
    - State "DONE"       from "STARTED"    [2017-04-21 五 16:13]
    CLOCK: [2017-04-21 五 15:27]--[2017-04-21 五 16:13] =>  0:46
    :END:
+** DONE relaxing<2017-04-22 六 10:47>
+   CLOSED: [2017-04-22 六 10:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-22 六 10:52]
+   CLOCK: [2017-04-22 六 10:47]--[2017-04-22 六 10:52] =>  0:05
+   :END:
+** DONE Relaxing<2017-04-22 Sat 14:28>
+   CLOSED: [2017-04-22 Sat 18:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-22 Sat 18:10]
+   CLOCK: [2017-04-22 Sat 14:28]--[2017-04-22 Sat 18:10] =>  3:42
+   :END:
+wash the car
+take water from the mountains
+** STARTED relaxing<2017-04-22 Sat 20:11>
+   :LOGBOOK:
+   CLOCK: [2017-04-22 Sat 20:11]
+   :END:
