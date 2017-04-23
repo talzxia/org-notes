@@ -5337,9 +5337,38 @@ to go two brother's and sister's home
 seven 99.8%
 eight 99.6%
 
-** STARTED [#B] Handwriting<2017-04-22 Sat 20:04>
+** DONE [#B] Handwriting<2017-04-22 Sat 20:04>
+   CLOSED: [2017-04-23 Sun 06:38]
    :LOGBOOK:
-   CLOCK: [2017-04-22 Sat 20:04]
+   - State "DONE"       from "STARTED"    [2017-04-23 Sun 06:38]
+   CLOCK: [2017-04-22 Sat 20:04]--[2017-04-22 Sat 20:11] =>  0:07
+   :END:
+
+** DONE [#B] Handwriting<2017-04-23 Sun 06:24>
+   CLOSED: [2017-04-23 Sun 06:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-23 Sun 06:38]
+   CLOCK: [2017-04-23 Sun 06:24]--[2017-04-23 Sun 06:38] =>  0:14
+   :END:
+
+** DONE [#B]Loud read<2017-04-23 Sun 06:40>
+   CLOSED: [2017-04-23 Sun 06:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-23 Sun 06:51]
+   CLOCK: [2017-04-23 Sun 06:39]--[2017-04-23 Sun 06:51] =>  0:12
+   :END:
+
+** DONE [#B] system updata<2017-04-23 Sun 07:15>
+   CLOSED: [2017-04-23 Sun 07:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-23 Sun 07:19]
+   :END:
+
+** DONE [#B]treating students<2017-04-23 Sun 16:48>
+   CLOSED: [2017-04-23 Sun 17:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-23 Sun 17:08]
+   CLOCK: [2017-04-23 Sun 16:48]--[2017-04-23 Sun 17:08] =>  0:20
    :END:
 
 * Cocos2D-X
