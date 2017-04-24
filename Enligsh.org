@@ -3917,6 +3917,12 @@ She twisted a wet towel a
    - State "DONE"       from "STARTED"    [2017-04-02 日 15:37]
    CLOCK: [2017-04-02 日 15:19]--[2017-04-02 日 15:37] =>  0:18
    :END:
+** DONE Review<2017-04-25 Tue 05:30>99.2%
+   CLOSED: [2017-04-25 Tue 05:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-25 Tue 05:51]
+   CLOCK: [2017-04-25 Tue 05:30]--[2017-04-25 Tue 05:51] =>  0:21
+   :END:
 ** Lesson 14
 
 dishes
@@ -4304,6 +4310,12 @@ listen to happy music
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-02 日 18:48]
    CLOCK: [2017-04-02 日 18:31]--[2017-04-02 日 18:48] =>  0:17
+   :END:
+** DONE Review<2017-04-25 Tue 05:57>99.6%
+   CLOSED: [2017-04-25 Tue 06:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-25 Tue 06:16]
+   CLOCK: [2017-04-25 Tue 05:57]--[2017-04-25 Tue 06:16] =>  0:19
    :END:
 ** Lesson 15
 
