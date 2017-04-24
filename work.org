@@ -6799,7 +6799,30 @@ will have the biggest impact” 只去做那件有着最大影响的事情。—
    - State "DONE"       from "STARTED"    [2017-04-23 Sun 20:38]
    CLOCK: [2017-04-23 Sun 20:19]--[2017-04-23 Sun 20:38] =>  0:19
    :END:
-** STARTED watch The It Crowd<2017-04-23 Sun 20:40>
+** DONE watch The It Crowd<2017-04-23 Sun 20:40>
+   CLOSED: [2017-04-23 Sun 21:25]
    :LOGBOOK:
-   CLOCK: [2017-04-23 Sun 20:39]
+   - State "DONE"       from "STARTED"    [2017-04-23 Sun 21:25]
+   CLOCK: [2017-04-23 Sun 20:39]--[2017-04-23 Sun 21:25] =>  0:46
    :END:
+** DONE clean up office<2017-04-24 Mon 07:55>
+   CLOSED: [2017-04-24 Mon 08:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-24 Mon 08:20]
+   CLOCK: [2017-04-24 Mon 08:06]--[2017-04-24 Mon 08:20] =>  0:14
+   :END:
+** DONE meet secretary chen and exchange work<2017-04-24 Mon 08:25>
+   CLOSED: [2017-04-24 Mon 10:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-24 Mon 08:25]
+   CLOCK: [2017-04-24 Mon 08:25]--[2017-04-24 Mon 10:29] =>  2:04
+   :END:
+** DONE check teaching<2017-04-24 Mon 10:38>
+   CLOSED: [2017-04-24 Mon 11:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-24 Mon 11:37]
+   CLOCK: [2017-04-24 Mon 10:38]--[2017-04-24 Mon 11:37] =>  0:59
+   :END:
+to go to library and borrow two books
+A short history of America
+Madame Bovary
