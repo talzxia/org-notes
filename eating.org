@@ -528,11 +528,24 @@ take daughter ot learn drive
    - State "DONE"       from "STARTED"    [2017-04-24 Mon 08:06]
    CLOCK: [2017-04-24 Mon 06:49]--[2017-04-24 Mon 08:06] =>  1:17
    :END:
-** STARTED to have lunch<2017-04-24 Mon 11:40>
+** DONE to have lunch<2017-04-24 Mon 11:40>
+   CLOSED: [2017-04-24 Mon 14:57]
    :LOGBOOK:
+<<<<<<< Updated upstream
    CLOCK: [2017-04-24 Mon 11:40]--[2017-04-25 Tue 05:30] => 17:50
    :END:
-** STARTED to have breakfast<2017-04-25 Tue 06:41>
+** DONE to have breakfast<2017-04-25 Tue 06:41>
+   CLOSED: [2017-04-25 Tue 08:26]
    :LOGBOOK:
-   CLOCK: [2017-04-25 Tue 06:41]
+   - State "DONE"       from "STARTED"    [2017-04-25 Tue 08:26]
+=======
+   - State "DONE"       from "STARTED"    [2017-04-24 Mon 14:57]
+>>>>>>> Stashed changes
+   :END:
+finish meeting dangxiao
+** DONE to have dinner<2017-04-25 Tue 17:30>
+   CLOSED: [2017-04-25 Tue 21:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-25 Tue 21:45]
+   CLOCK: [2017-04-25 Tue 17:30]--[2017-04-25 Tue 21:40] =>  4:10
    :END:

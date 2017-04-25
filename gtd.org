@@ -5378,6 +5378,28 @@ eight 99.6%
    CLOCK: [2017-04-24 Mon 06:42]--[2017-04-24 Mon 06:49] =>  0:07
    :END:
 
+** DONE [#B] meeting<2017-04-25 Tue 09:00>
+   CLOSED: [2017-04-25 Tue 21:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-25 Tue 09:00]
+   CLOCK: [2017-04-25 Tue 09:00]--[2017-04-25 Tue 11:00] =>  2:00
+   :END:
+
+** DONE [#B] to have lunch<2017-04-25 Tue 11:50>
+   CLOSED: [2017-04-25 Tue 21:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-25 Tue 11:50]
+
+   CLOCK: [2017-04-25 Tue 11:50]--[2017-04-25 Tue 12:10] =>  0:20
+   :END:
+
+** DONE [#B] Listen to a lecture<2017-04-25 Tue 14:20>
+   CLOSED: [2017-04-25 Tue 21:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-25 Tue 14:20]
+   CLOCK: [2017-04-25 Tue 14:20]--[2017-04-25 Tue 17:10] =>  2:50
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
