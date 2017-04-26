@@ -5968,6 +5968,12 @@ Is the child's head big or small? His head is small.
    - State "DONE"       from "STARTED"    [2017-04-23 Sun 10:21]
    CLOCK: [2017-04-23 Sun 10:00]--[2017-04-23 Sun 10:21] =>  0:21
    :END:
+** DONE Review<2017-04-26 Wed 15:07>99.1%
+   CLOSED: [2017-04-26 Wed 15:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-26 Wed 15:32]
+   CLOCK: [2017-04-26 Wed 15:07]--[2017-04-26 Wed 15:32] =>  0:25
+   :END:
 ** lesson 20
 
 a cook
