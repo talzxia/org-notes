@@ -274,7 +274,9 @@
    - State "DONE"       from "STARTED"    [2017-04-27 Thu 05:20]
    CLOCK: [2017-04-26 Wed 22:13]--[2017-04-27 Thu 05:20] =>  7:07
    :END:
-** STARTED sleeping<2017-04-27 Thu 20:54>
+** DONE sleeping<2017-04-27 Thu 20:54>
+   CLOSED: [2017-04-28 Fri 04:11]
    :LOGBOOK:
-   CLOCK: [2017-04-27 Thu 20:54]
+   - State "DONE"       from "STARTED"    [2017-04-28 Fri 04:11]
+   CLOCK: [2017-04-27 Thu 20:54]--[2017-04-28 Fri 04:11] =>  7:17
    :END:
