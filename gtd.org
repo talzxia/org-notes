@@ -5714,6 +5714,16 @@ eight 99.6%
    CLOCK: [2017-04-26 Wed 13:40]--[2017-04-26 Wed 15:05] =>  1:25
    :END:
 
+** DONE [#B] Hangwriting<2017-04-27 Thu 11:29>
+   CLOSED: [2017-04-27 Thu 15:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-27 Thu 15:54]
+   - State "STARTED"    from "DONE"       [2017-04-27 Thu 15:16]
+   CLOCK: [2017-04-27 Thu 15:16]--[2017-04-27 Thu 15:54] =>  0:38
+   - State "DONE"       from "STARTED"    [2017-04-27 Thu 11:40]
+   CLOCK: [2017-04-27 Thu 11:29]--[2017-04-27 Thu 11:40] =>  0:11
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
