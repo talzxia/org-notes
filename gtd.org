@@ -5731,9 +5731,11 @@ eight 99.6%
    CLOCK: [2017-04-28 Fri 05:10]--[2017-04-28 Fri 05:32] =>  0:22
    :END:
 
-** STARTED [#B]listen to a lecture<2017-04-28 Fri 09:02>
+** DONE [#B]listen to a lecture<2017-04-28 Fri 09:02>
+   CLOSED: [2017-04-28 Fri 17:03]
    :LOGBOOK:
-   CLOCK: [2017-04-28 Fri 09:10]
+   - State "DONE"       from "STARTED"    [2017-04-28 Fri 17:03]
+   CLOCK: [2017-04-28 Fri 09:10]--[2017-04-28 Fri 11:00] =>  1:50
    :END:
 各民主党派的历史---主讲人：吉秀华
 邓演达 第三党
@@ -5984,6 +5986,21 @@ eight 99.6%
   统和基本经验是民主党派长期政治实践总结，是一笔珍贵的财富。坚持这些基本经验，把
   民主党派的优良传统发扬光大，民主党派必将在新世纪多党合作的伟大事业中，谱写出更
   加光辉灿烂的新篇章。
+
+** DONE [#B] meeting <2017-04-28 Fri 14:20>
+   CLOSED: [2017-04-28 Fri 17:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-28 Fri 17:10]
+   CLOCK: [2017-04-28 Fri 14:20]--[2017-04-28 Fri 17:10] =>  2:50
+   :END:
+党校培训班毕业及返程
+
+** DONE [#B] Handwriting<2017-04-28 Fri 18:00>
+   CLOSED: [2017-04-28 Fri 18:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-28 Fri 18:11]
+   CLOCK: [2017-04-28 Fri 18:00]--[2017-04-28 Fri 18:11] =>  0:11
+   :END:
 
 * Cocos2D-X
 

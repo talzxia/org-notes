@@ -9072,9 +9072,12 @@ A Bronze Pair 青铜双像
    - State "DONE"       from "STARTED"    [2017-04-21 五 15:26]
    CLOCK: [2017-04-21 五 14:52]--[2017-04-21 五 15:26] =>  0:34
    :END:
-** DONE Review<2017-04-28 Fri 08:41>
-   CLOSED: [2017-04-28 Fri 09:05]
+** DONE Review<2017-04-28 Fri 08:41>99.6%
+   CLOSED: [2017-04-28 Fri 17:58]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-28 Fri 17:58]
+   - State "STARTED"    from "DONE"       [2017-04-28 Fri 17:13]
+   CLOCK: [2017-04-28 Fri 17:13]--[2017-04-28 Fri 17:58] =>  0:45
    - State "DONE"       from "STARTED"    [2017-04-28 Fri 09:05]
    CLOCK: [2017-04-28 Fri 08:40]--[2017-04-28 Fri 09:05] =>  0:25
    :END:
