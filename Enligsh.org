@@ -8581,6 +8581,12 @@ Eleanor's work among the women will, I trust, bear fruit.
    - State "DONE"       from "STARTED"    [2017-04-28 Fri 05:56]
    CLOCK: [2017-04-28 Fri 05:32]--[2017-04-28 Fri 05:56] =>  0:24
    :END:
+** DONE Review<2017-04-29 Sat 21:38>99.2%
+   CLOSED: [2017-04-29 Sat 21:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-29 Sat 21:52]
+   CLOCK: [2017-04-29 Sat 21:38]--[2017-04-29 Sat 21:52] =>  0:14
+   :END:
 ** Lesson 28
 
 a forest
@@ -9081,6 +9087,12 @@ A Bronze Pair 青铜双像
    - State "DONE"       from "STARTED"    [2017-04-28 Fri 09:05]
    CLOCK: [2017-04-28 Fri 08:40]--[2017-04-28 Fri 09:05] =>  0:25
    :END:
+** DONE Review<2017-04-29 Sat 18:15>99.3%
+   CLOSED: [2017-04-29 Sat 18:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-29 Sat 18:46]
+   CLOCK: [2017-04-29 Sat 18:15]--[2017-04-29 Sat 18:46] =>  0:31
+   :END:
 ** Lesson 29
 
 Who is waiting at the door? The dog.
@@ -9394,6 +9406,18 @@ There are many beautiful buildings around the square.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-21 五 06:52]
    CLOCK: [2017-04-21 五 06:10]--[2017-04-21 五 06:52] =>  0:42
+   :END:
+** DONE Review<2017-04-29 Sat 03:02>99.4%
+   CLOSED: [2017-04-29 Sat 05:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-29 Sat 05:26]
+   CLOCK: [2017-04-29 Sat 03:02]--[2017-04-29 Sat 05:26] =>  2:24
+   :END:
+** DONE Review<2017-04-29 Sat 14:17>99.3%
+   CLOSED: [2017-04-29 Sat 15:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-29 Sat 15:00]
+   CLOCK: [2017-04-29 Sat 14:17]--[2017-04-29 Sat 15:00] =>  0:43
    :END:
 ** Lesson 30
 This is a view of the desert. A group of people are travelling on canmels. Three
@@ -13691,16 +13715,14 @@ family likes this clothing.
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-07-31 Sun 03:49]
   :END:
-** DONE Review thirty six 94.5%
-   CLOSED: [2016-08-03 三 19:18]
+** STARTED [#B] Review<2016-10-01 六 05:12>99.2%
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2016-08-03 三 19:18]
-   CLOCK: [2016-08-03 三 18:51]--[2016-08-03 三 19:18] =>  0:27
-   :END:
-
-** DONE Review<2016-10-01 六 05:12>99.2%
-   CLOSED: [2016-10-01 六 06:36]
-   :LOGBOOK:
+   - State "STARTED"    from "DONE"       [2017-04-29 Sat 06:51]
+   CLOCK: [2017-04-29 Sat 06:51]--[2017-04-29 Sat 06:58] =>  0:07
+   - State "DONE"       from "WAITING"    [2017-04-29 Sat 06:50]
+   - State "WAITING"    from "SOMEDAY"    [2017-04-29 Sat 06:50]
+   - State "SOMEDAY"    from "WAITING"    [2017-04-29 Sat 06:50]
+   - State "WAITING"    from "DONE"       [2017-04-29 Sat 06:49]
    - State "DONE"       from "STARTED"    [2016-10-01 六 06:36]
    CLOCK: [2016-10-01 六 05:12]--[2016-10-01 六 06:36] =>  1:24
    :END:
@@ -13784,7 +13806,7 @@ half a whole apple a whole pie half of a pie half
 a bright room
 a dark bar
 a big, bright supermarket
-The man is buying produce at the supermarket.
+The man is buying produce at the supermarket. good luck.
 At the market produce is inexpensive, at the supermarket it's expensive.
 The woman is buying produce at the market.
 

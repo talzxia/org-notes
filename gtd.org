@@ -6002,6 +6002,20 @@ eight 99.6%
    CLOCK: [2017-04-28 Fri 18:00]--[2017-04-28 Fri 18:11] =>  0:11
    :END:
 
+** DONE [#B] to have a good time with family<2017-04-28 Fri 20:00>
+   CLOSED: [2017-04-29 Sat 03:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-28 Fri 20:00]
+   CLOCK: [2017-04-28 Fri 20:00]--[2017-04-28 Fri 21:00] =>  1:00
+   :END:
+
+** DONE [#B] watch spacemacs<2017-04-29 Sat 08:05>
+   CLOSED: [2017-04-29 Sat 14:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-29 Sat 08:05]
+   CLOCK: [2017-04-29 Sat 08:05]--[2017-04-29 Sat 09:30] =>  1:25
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
