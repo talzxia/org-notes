@@ -1196,7 +1196,50 @@ handwriting three pages
    CLOCK: [2017-04-29 Sat 16:34]--[2017-04-29 Sat 18:13] =>  1:39
    :END:
 look at cars show
-** STARTED relaxing<2017-04-29 Sat 18:56>
+** DONE relaxing<2017-04-29 Sat 18:56>
+   CLOSED: [2017-04-29 Sat 19:23]
    :LOGBOOK:
-   CLOCK: [2017-04-29 Sat 18:56]
+   - State "DONE"       from "STARTED"    [2017-04-29 Sat 19:23]
+   CLOCK: [2017-04-29 Sat 18:56]--[2017-04-29 Sat 19:23] =>  0:27
+   :END:
+** DONE Relaxing and Handwriting<2017-04-30 Sun 05:50>
+   CLOSED: [2017-04-30 Sun 06:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 06:02]
+   CLOCK: [2017-04-30 Sun 05:50]--[2017-04-30 Sun 06:02] =>  0:12
+   :END:
+** DONE Relaxing<2017-04-30 Sun 06:12>
+   CLOSED: [2017-04-30 Sun 06:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 06:37]
+   :END:
+** DONE I'm tired, so I'm relaxing.<2017-04-30 Sun 09:27>
+   CLOSED: [2017-04-30 Sun 10:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 10:19]
+   CLOCK: [2017-04-30 Sun 09:27]--[2017-04-30 Sun 10:19] =>  0:52
+   :END:
+** DONE to go market<2017-04-30 Sun 10:20>
+   CLOSED: [2017-04-30 Sun 14:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 14:10]
+   CLOCK: [2017-04-30 Sun 10:20]--[2017-04-30 Sun 14:10] =>  3:50
+   :END:
+and to have lunch
+** DONE relaxing<2017-04-30 Sun 14:29>
+   CLOSED: [2017-04-30 Sun 15:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 15:15]
+   CLOCK: [2017-04-30 Sun 14:29]--[2017-04-30 Sun 15:15] =>  0:46
+   :END:
+** DONE go shopping<2017-04-30 Sun 15:15>
+   CLOSED: [2017-04-30 Sun 19:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 19:11]
+   CLOCK: [2017-04-30 Sun 15:15]--[2017-04-30 Sun 19:11] =>  3:56
+   :END:
+buy shoes
+** STARTED relaxing<2017-04-30 Sun 19:51>
+   :LOGBOOK:
+   CLOCK: [2017-04-30 Sun 19:51]
    :END:

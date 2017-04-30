@@ -5974,6 +5974,12 @@ Is the child's head big or small? His head is small.
    - State "DONE"       from "STARTED"    [2017-04-26 Wed 15:32]
    CLOCK: [2017-04-26 Wed 15:07]--[2017-04-26 Wed 15:32] =>  0:25
    :END:
+** DONE Review<2017-04-30 Sun 21:07>99.6%
+   CLOSED: [2017-04-30 Sun 21:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 21:22]
+   CLOCK: [2017-04-30 Sun 21:07]--[2017-04-30 Sun 21:22] =>  0:15
+   :END:
 ** lesson 20
 
 a cook
@@ -6313,6 +6319,12 @@ Bucky couch 布凯氏滤线器床
    - State "DONE"       from "STARTED"    [2017-04-27 Thu 05:53]
    CLOCK: [2017-04-27 Thu 05:21]--[2017-04-27 Thu 05:53] =>  0:32
    :END:
+** DONE Review<2017-04-30 Sun 19:30>99.6%
+   CLOSED: [2017-04-30 Sun 19:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 19:50]
+   CLOCK: [2017-04-30 Sun 19:30]--[2017-04-30 Sun 19:50] =>  0:20
+   :END:
 ** Lesson21
 
 The patient in the red gown is lying on the couch.
@@ -6562,6 +6574,12 @@ The photographer has interesting work.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-27 Thu 06:18]
    CLOCK: [2017-04-27 Thu 05:56]--[2017-04-27 Thu 06:18] =>  0:22
+   :END:
+** DONE Review<2017-04-30 Sun 19:12>99.4%
+   CLOSED: [2017-04-30 Sun 19:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 19:29]
+   CLOCK: [2017-04-30 Sun 19:12]--[2017-04-30 Sun 19:29] =>  0:17
    :END:
 ** Lesson 22
 
@@ -6942,6 +6960,12 @@ They detoured around the traffic jam by heading south.
    :END:
 meeting about training course
 meet shang hai ruiya 葛锡宝
+** DONE Review<2017-04-30 Sun 14:11>99.5%
+   CLOSED: [2017-04-30 Sun 14:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 14:28]
+   CLOCK: [2017-04-30 Sun 14:11]--[2017-04-30 Sun 14:28] =>  0:17
+   :END:
 ** Lesson 23
 
 a building
@@ -7271,6 +7295,12 @@ means of transportation 交通设施
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-27 Thu 15:15]
    CLOCK: [2017-04-27 Thu 14:52]--[2017-04-27 Thu 15:15] =>  0:23
+   :END:
+** DONE Review<2017-04-30 Sun 09:03>99.6%
+   CLOSED: [2017-04-30 Sun 09:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 09:26]
+   CLOCK: [2017-04-30 Sun 09:03]--[2017-04-30 Sun 09:26] =>  0:23
    :END:
 ** Lesson24
 
@@ -7622,6 +7652,12 @@ Is this dog working? No, it is relaxing.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-27 Thu 16:47]
    CLOCK: [2017-04-27 Thu 16:15]--[2017-04-27 Thu 16:47] =>  0:32
+   :END:
+** DONE Review<2017-04-30 Sun 08:30>99.7%
+   CLOSED: [2017-04-30 Sun 09:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 09:02]
+   CLOCK: [2017-04-30 Sun 08:31]--[2017-04-30 Sun 09:02] =>  0:31
    :END:
 * DONE twenty six
   DEADLINE: <2016-07-11 Mon 10:43>
@@ -7977,6 +8013,19 @@ The boat beached on a mud flat.
    - State "DONE"       from "STARTED"    [2017-04-27 Thu 19:41]
    CLOCK: [2017-04-27 Thu 19:03]--[2017-04-27 Thu 19:41] =>  0:38
    :END:
+** DONE Review<2017-04-30 Sun 05:19>99.5%
+   CLOSED: [2017-04-30 Sun 05:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 05:49]
+   CLOCK: [2017-04-30 Sun 05:19]--[2017-04-30 Sun 05:49] =>  0:30
+   :END:
+** DONE Loud read<2017-04-30 Sun 06:03>
+   CLOSED: [2017-04-30 Sun 06:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 06:11]
+   CLOCK: [2017-04-30 Sun 06:03]--[2017-04-30 Sun 06:11] =>  0:08
+   :END:
+
 ** Lesson 26
 
 a group
@@ -8224,6 +8273,12 @@ Do they eat cheese for breakfast? Yes, they do.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-28 Fri 04:52]
    CLOCK: [2017-04-28 Fri 04:14]--[2017-04-28 Fri 04:52] =>  0:38
+   :END:
+** DONE Review<2017-04-30 Sun 04:44>99.5%
+   CLOSED: [2017-04-30 Sun 05:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-04-30 Sun 05:18]
+   CLOCK: [2017-04-30 Sun 04:44]--[2017-04-30 Sun 05:18] =>  0:34
    :END:
 ** Lesson 27
 
