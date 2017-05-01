@@ -214,6 +214,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
+* April
 ** DONE to have breakfast<2017-04-01 六 06:35>
    CLOSED: [2017-04-01 六 08:04]
    :LOGBOOK:
@@ -610,4 +611,18 @@ to have noodles and then clean up the home
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-30 Sun 08:30]
    CLOCK: [2017-04-30 Sun 06:37]--[2017-04-30 Sun 08:30] =>  1:53
+   :END:
+* May
+** DONE to have breakfast<2017-05-01 Mon 06:32>
+   CLOSED: [2017-05-01 Mon 09:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-01 Mon 09:05]
+   CLOCK: [2017-05-01 Mon 06:34]--[2017-05-01 Mon 09:05] =>  2:31
+   :END:
+eat meat chinese buns
+** DONE to have lunch<2017-05-01 Mon 12:48>
+   CLOSED: [2017-05-01 Mon 14:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-01 Mon 14:29]
+   CLOCK: [2017-05-01 Mon 12:47]--[2017-05-01 Mon 14:29] =>  1:42
    :END:

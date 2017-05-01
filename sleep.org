@@ -121,6 +121,7 @@
    - State "DONE"       from "STARTED"    [2017-04-01 六 04:40]
    CLOCK: [2017-03-31 五 21:34]--[2017-04-01 六 04:40] =>  7:06
    :END:
+* April
 ** DONE sleeping<2017-04-01 六 21:38>
    CLOSED: [2017-04-02 日 06:20]
    :LOGBOOK:
@@ -292,7 +293,10 @@
    - State "DONE"       from "STARTED"    [2017-04-30 Sun 04:43]
    CLOCK: [2017-04-29 Sat 21:54]--[2017-04-30 Sun 04:43] =>  6:49
    :END:
-** STARTED sleeping<2017-04-30 Sun 21:30>
+** DONE sleeping<2017-04-30 Sun 21:30>
+   CLOSED: [2017-05-01 Mon 04:38]
    :LOGBOOK:
-   CLOCK: [2017-04-30 Sun 21:29]
+   - State "DONE"       from "STARTED"    [2017-05-01 Mon 04:38]
+   CLOCK: [2017-04-30 Sun 21:29]--[2017-05-01 Mon 04:38] =>  7:09
    :END:
+* May
