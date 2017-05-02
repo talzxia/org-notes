@@ -1280,3 +1280,11 @@ buy shoes
    - State "DONE"       from "STARTED"    [2017-05-01 Mon 21:05]
    CLOCK: [2017-05-01 Mon 19:14]--[2017-05-01 Mon 21:05] =>  1:51
    :END:
+** DONE relaxing<2017-05-02 Tue 04:28>
+   CLOSED: [2017-05-02 Tue 05:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-02 Tue 05:54]
+   - State "STARTED"    from "DONE"       [2017-05-02 Tue 05:24]
+   CLOCK: [2017-05-02 Tue 05:24]--[2017-05-02 Tue 05:54] =>  0:30
+   - State "DONE"       from "STARTED"    [2017-05-02 Tue 04:57]
+   :END:

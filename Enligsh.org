@@ -10427,6 +10427,12 @@ The woman is checking her flight on her ticket.
    - State "DONE"       from "STARTED"    [2017-03-13 一 19:39]
    CLOCK: [2017-03-13 一 19:13]--[2017-03-13 一 19:39] =>  0:26
    :END:
+** DONE Review<2017-05-02 Tue 03:52>96.3%
+   CLOSED: [2017-05-02 Tue 04:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-02 Tue 04:23]
+   CLOCK: [2017-05-02 Tue 03:52]--[2017-05-02 Tue 04:23] =>  0:31
+   :END:
 ** Lesson 31
 passport control customs control registration flight a currency exchange booth a
 waiting area
@@ -11046,6 +11052,18 @@ The man is lying on the soft couch because he's watching television.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-13 一 19:11]
    CLOCK: [2017-03-13 一 18:44]--[2017-03-13 一 19:11] =>  0:27
+   :END:
+** DONE Review<2017-05-02 Tue 04:58>97.9%
+   CLOSED: [2017-05-02 Tue 05:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-02 Tue 05:24]
+   CLOCK: [2017-05-02 Tue 04:58]--[2017-05-02 Tue 05:24] =>  0:26
+   :END:
+** DONE Review<2017-05-02 Tue 20:57>98.1%
+   CLOSED: [2017-05-02 Tue 21:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-02 Tue 21:26]
+   CLOCK: [2017-05-02 Tue 20:57]--[2017-05-02 Tue 21:26] =>  0:29
    :END:
 * DONE Review thirty three 95.3%
   CLOSED: [2016-08-03 Wed 04:53]
@@ -12109,6 +12127,20 @@ On the window in the living room hang beautiful, grren drapes.
    - State "DONE"       from "STARTED"    [2017-03-14 二 06:40]
    CLOCK: [2017-03-14 二 06:07]--[2017-03-14 二 06:40] =>  0:33
    :END:
+** DONE Review<2017-05-02 Tue 14:05>96.8%
+   CLOSED: [2017-05-02 Tue 14:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-02 Tue 14:35]
+   CLOCK: [2017-05-02 Tue 14:05]--[2017-05-02 Tue 14:35] =>  0:30
+   :END:
+** DONE Review<2017-05-02 Tue 18:19>98.2%
+   CLOSED: [2017-05-02 Tue 19:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-02 Tue 19:13]
+   CLOCK: [2017-05-02 Tue 18:19]--[2017-05-02 Tue 19:13] =>  0:54
+   :END:
+*** A chandelier is a large, decorative frame which holds light bulbs or candles and hangs from the ceiling.
+
 ** Lesson 33
 a floor a ceiling drapes blinds a fireplace a balcony
 
