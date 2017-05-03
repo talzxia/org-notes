@@ -217,7 +217,7 @@ www.vim.org         : 官方站点
 comp.editors        : 新闻组
 http://www.newriders.com/books/opl/ebooks/0735710015.html : Vim书籍
 http://vimdoc.sourceforge.net/cgi-bin/vim2html2.pl : 关于vim的可查询文档
-http://vimdoc.sourceforge.net/vimfaq.html          : VIM FAQ
+http://vimdoc.sourceforge.net/vimfaq.html          : vim faq
 ----------------------------------------
 # 基础
 ----------------------------------------
@@ -5920,11 +5920,13 @@ ten 99.3%
    - State "DONE"       from "STARTED"    [2017-03-28 二 11:34]
    CLOCK: [2017-03-28 二 10:28]--[2017-03-28 二 11:34] =>  1:06
    :END:
-** STARTED arrival office and begin to work<2017-03-28 二 13:39>
+** DONE arrival office and begin to work<2017-03-28 二 13:39>
+   CLOSED: [2017-05-03 Wed 07:43]
    :PROPERTIES:
    :ID:       99F8E1BA-2A81-4305-B881-307EDCD41207
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-03 Wed 07:43]
    CLOCK: [2017-03-28 二 13:39]--[2017-03-28 二 14:43] =>  1:04
    :END:
 ** DONE meeting<2017-03-28 二 15:33>
@@ -5954,11 +5956,13 @@ ten 99.3%
    - State "DONE"       from "STARTED"    [2017-03-29 三 11:16]
    CLOCK: [2017-03-29 三 10:26]--[2017-03-29 三 11:16] =>  0:50
    :END:
-** STARTED study English check app<2017-03-29 三 14:09>
+** DONE study English check app<2017-03-29 三 14:09>
+   CLOSED: [2017-05-03 Wed 07:43]
    :PROPERTIES:
    :ID:       7517FBD5-F500-4A30-BD62-6157E1CDDE62
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-03 Wed 07:43]
    CLOCK: [2017-03-29 三 14:09]--[2017-03-29 三 14:10] =>  0:01
    :END:
 ** DONE attend meeting<2017-03-29 三 15:15>
@@ -6865,4 +6869,35 @@ Madame Bovary
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-02 Tue 20:56]
    CLOCK: [2017-05-02 Tue 19:15]--[2017-05-02 Tue 20:56] =>  1:41
+   :END:
+** DONE clean up office<2017-05-03 Wed 07:42>
+   CLOSED: [2017-05-03 Wed 08:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-03 Wed 08:23]
+   :END:
+** DONE order files<2017-05-03 Wed 08:10>
+   CLOSED: [2017-05-03 Wed 08:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-03 Wed 08:30]
+   CLOCK: [2017-05-03 Wed 08:10]--[2017-05-03 Wed 08:30] =>  0:20
+   :END:
+** DONE learn spacemacs<2017-05-03 Wed 08:33>
+   CLOSED: [2017-05-03 Wed 09:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-03 Wed 09:24]
+   CLOCK: [2017-05-03 Wed 08:33]--[2017-05-03 Wed 09:24] =>  0:51
+   :END:
+资料整理
+Organising materials
+** DONE Reporting<2017-05-03 Wed 09:24>
+   CLOSED: [2017-05-03 Wed 10:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-03 Wed 10:00]
+   CLOCK: [2017-05-03 Wed 09:24]--[2017-05-03 Wed 10:00] =>  0:36
+   :END:
+** DONE I have backache<2017-05-03 Wed 10:00>
+   CLOSED: [2017-05-03 Wed 11:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-03 Wed 11:27]
+   CLOCK: [2017-05-03 Wed 10:00]--[2017-05-03 Wed 11:27] =>  1:27
    :END:
