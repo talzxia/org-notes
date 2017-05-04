@@ -312,3 +312,13 @@
    - State "DONE"       from "STARTED"    [2017-05-03 Wed 04:17]
    CLOCK: [2017-05-02 Tue 21:27]--[2017-05-03 Wed 04:17] =>  6:50
    :END:
+** DONE sleeping<2017-05-03 Wed 21:40>
+   CLOSED: [2017-05-04 Thu 05:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-03 Wed 21:40]
+   CLOCK: [2017-05-03 Wed 21:40]--[2017-05-04 Thu 05:23] =>  7:43
+   :END:
+** STARTED sleeping<2017-05-04 Thu 21:10>
+   :LOGBOOK:
+   CLOCK: [2017-05-04 Thu 21:09]
+   :END:
