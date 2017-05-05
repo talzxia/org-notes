@@ -6952,3 +6952,31 @@ can't connect
    - State "DONE"       from "STARTED"    [2017-05-04 Thu 21:08]
    CLOCK: [2017-05-04 Thu 18:30]--[2017-05-04 Thu 21:08] =>  2:38
    :END:
+** DONE Finishing clean up<2017-05-05 Fri 08:00>
+   CLOSED: [2017-05-05 Fri 08:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 08:09]
+   CLOCK: [2017-05-05 Fri 08:00]--[2017-05-05 Fri 08:09] =>  0:09
+   :END:
+** DONE manager moddle<2017-05-05 Fri 15:40>
+   CLOSED: [2017-05-05 Fri 18:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 18:03]
+   CLOCK: [2017-05-05 Fri 15:39]--[2017-05-05 Fri 18:03] =>  2:24
+   :END:
+test
+** DONE Hangwriting<2017-05-05 Fri 18:57>
+   CLOSED: [2017-05-05 Fri 19:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 19:34]
+   CLOCK: [2017-05-05 Fri 18:57]--[2017-05-05 Fri 19:34] =>  0:37
+   :END:
+** DONE meeting<2017-05-05 Fri 08:39>
+   CLOSED: [2017-05-05 Fri 11:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 11:47]
+   CLOCK: [2017-05-05 Fri 08:39]--[2017-05-05 Fri 11:47] =>  3:08
+   :END:
+situ education
+east education
+vr

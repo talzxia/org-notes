@@ -12299,6 +12299,12 @@ The cat isn't in the room, so the boy is looking for it in the cabinet.
    - State "DONE"       from "STARTED"    [2017-02-26 Sun 16:51]
    CLOCK: [2017-02-26 Sun 16:25]--[2017-02-26 Sun 16:51] =>  0:26
    :END:
+** DONE Review<2017-05-05 Fri 04:40>96.4%
+   CLOSED: [2017-05-05 Fri 05:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 05:07]
+   CLOCK: [2017-05-05 Fri 04:40]--[2017-05-05 Fri 05:07] =>  0:27
+   :END:
 ** Lesson 34
 
 soup salad onion cabbage mushrooms mashed potatoes
@@ -13883,6 +13889,18 @@ family likes this clothing.
    - State "DONE"       from "STARTED"    [2016-09-30 Fri 19:10]
    CLOCK: [2016-09-30 Fri 18:30]--[2016-09-30 Fri 19:10] =>  0:40
    :END:
+** DONE Review<2017-05-05 Fri 05:25>96.3%
+   CLOSED: [2017-05-05 Fri 05:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 05:56]
+   CLOCK: [2017-05-05 Fri 05:25]--[2017-05-05 Fri 05:56] =>  0:31
+   :END:
+** DONE Writing<2017-05-05 Fri 08:19>
+   CLOSED: [2017-05-05 Fri 11:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 11:47]
+   CLOCK: [2017-05-05 Fri 08:09]--[2017-05-05 Fri 11:47] =>  3:38
+   :END:
 * DONE thirty six 95.7%
   CLOSED: [2016-07-31 Sun 03:49]
   :LOGBOOK:
@@ -13964,6 +13982,12 @@ family likes this clothing.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-23 四 05:20]
    CLOCK: [2017-03-23 四 04:38]--[2017-03-23 四 05:20] =>  0:42
+   :END:
+** DONE Review<2017-05-05 Fri 15:10>95.4%
+   CLOSED: [2017-05-05 Fri 15:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 15:31]
+   CLOCK: [2017-05-05 Fri 15:10]--[2017-05-05 Fri 15:31] =>  0:21
    :END:
 ** Lesson 36
 a market a counter a supermaket change a cash register a receipt
@@ -14242,6 +14266,12 @@ What is the waiter doing? He's carrying a whole cake on a tray.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-21 二 03:21]
    CLOCK: [2017-03-21 二 02:53]--[2017-03-21 二 03:21] =>  0:28
+   :END:
+** DONE Review<2017-05-05 Fri 19:42>97.2%
+   CLOSED: [2017-05-05 Fri 20:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 20:06]
+   CLOCK: [2017-05-05 Fri 19:42]--[2017-05-05 Fri 20:06] =>  0:24
    :END:
 ** Lesson thirty seven
 north south west east a compass a needle

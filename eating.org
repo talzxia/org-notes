@@ -674,3 +674,15 @@ eat meat chinese buns
    - State "DONE"       from "STARTED"    [2017-05-04 Thu 14:23]
    CLOCK: [2017-05-04 Thu 11:56]--[2017-05-04 Thu 14:23] =>  2:27
    :END:
+** DONE to have lunch<2017-05-05 Fri 11:50>
+   CLOSED: [2017-05-05 Fri 14:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 14:58]
+   CLOCK: [2017-05-05 Fri 11:49]--[2017-05-05 Fri 14:58] =>  3:09
+   :END:
+** DONE to have dinner<2017-05-05 Fri 18:04>
+   CLOSED: [2017-05-05 Fri 18:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 18:57]
+   CLOCK: [2017-05-05 Fri 18:04]--[2017-05-05 Fri 18:57] =>  0:53
+   :END:

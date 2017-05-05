@@ -1308,3 +1308,18 @@ buy shoes
    :END:
 bring wife to home
 and to have dinner
+** DONE Relax and to have breakfast<2017-05-05 Fri 05:57>
+   CLOSED: [2017-05-05 Fri 07:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 07:58]
+   CLOCK: [2017-05-05 Fri 05:57]--[2017-05-05 Fri 07:58] =>  2:01
+   :END:
+** DONE Relaxing<2017-05-05 Fri 15:38>
+   CLOSED: [2017-05-05 Fri 21:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 21:05]
+   - State "STARTED"    from "DONE"       [2017-05-05 Fri 20:13]
+   CLOCK: [2017-05-05 Fri 20:13]--[2017-05-05 Fri 21:05] =>  0:52
+   - State "DONE"       from "STARTED"    [2017-05-05 Fri 18:04]
+   CLOCK: [2017-05-05 Fri 15:38]--[2017-05-05 Fri 15:39] =>  0:01
+   :END:
