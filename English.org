@@ -13899,15 +13899,18 @@ family likes this clothing.
    CLOSED: [2017-05-05 Fri 11:47]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-05 Fri 11:47]
-   CLOCK: [2017-05-05 Fri 08:09]--[2017-05-05 Fri 11:47] =>  3:38
+   CLOCK: [2017-05-05 Fri 08:09]--[2017-05-05 Fri 08:39] =>  0:30
    :END:
+
 * DONE thirty six 95.7%
   CLOSED: [2016-07-31 Sun 03:49]
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2016-07-31 Sun 03:49]
   :END:
-** STARTED [#B] Review<2016-10-01 六 05:12>99.2%
+** DONE [#B] Review<2016-10-01 六 05:12>99.2%
+   CLOSED: [2017-05-06 Sat 04:30]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-06 Sat 04:30]
    - State "STARTED"    from "DONE"       [2017-04-29 Sat 06:51]
    CLOCK: [2017-04-29 Sat 06:51]--[2017-04-29 Sat 06:58] =>  0:07
    - State "DONE"       from "WAITING"    [2017-04-29 Sat 06:50]
@@ -16150,6 +16153,12 @@ What is the chef doing ? He's frying a whole chicken.
    - State "DONE"       from "STARTED"    [2017-03-21 二 03:54]
    CLOCK: [2017-03-21 二 03:22]--[2017-03-21 二 03:54] =>  0:32
    :END:
+** DONE Review<2017-05-06 Sat 04:42>98.3%
+   CLOSED: [2017-05-06 Sat 05:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-06 Sat 05:21]
+   CLOCK: [2017-05-06 Sat 04:41]--[2017-05-06 Sat 05:21] =>  0:40
+   :END:
 ** Lesson 38
 a drum film a guitar dance music a voilin
 
@@ -18076,6 +18085,12 @@ article.yeeyan.org
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-02-21 Tue 13:56]
    CLOCK: [2017-02-21 Tue 13:36]--[2017-02-21 Tue 13:56] =>  0:20
+   :END:
+** DONE Review<2017-05-06 Sat 07:57>97.9%
+   CLOSED: [2017-05-06 Sat 08:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-06 Sat 08:19]
+   CLOCK: [2017-05-06 Sat 07:57]--[2017-05-06 Sat 08:19] =>  0:22
    :END:
 ** Lesson thirty nine
 a cow a chicken a ram a sheep a rooster a bull
@@ -20041,6 +20056,18 @@ a coin washing machine.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-19 日 15:44]
    CLOCK: [2017-03-19 日 15:17]--[2017-03-19 日 15:44] =>  0:27
+   :END:
+** DONE Review<2017-05-06 Sat 10:48>98.5%
+   CLOSED: [2017-05-06 Sat 11:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-06 Sat 11:15]
+   CLOCK: [2017-05-06 Sat 10:48]--[2017-05-06 Sat 11:15] =>  0:27
+   :END:
+** DONE Review<2017-05-06 Sat 20:40>97.5%
+   CLOSED: [2017-05-06 Sat 21:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-06 Sat 21:02]
+   CLOCK: [2017-05-06 Sat 20:40]--[2017-05-06 Sat 21:02] =>  0:22
    :END:
 ** Lesson 40
 soap a bucket detergent laundry detergent a cloth a brush

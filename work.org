@@ -6980,3 +6980,21 @@ test
 situ education
 east education
 vr
+** DONE check moddle<2017-05-06 Sat 11:50>
+   CLOSED: [2017-05-06 Sat 12:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-06 Sat 12:38]
+   CLOCK: [2017-05-06 Sat 11:50]--[2017-05-06 Sat 12:38] =>  0:48
+   :END:
+** DONE prepare lesson <2017-05-06 Sat 14:00>
+   CLOSED: [2017-05-06 Sat 15:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-06 Sat 14:00]
+   CLOCK: [2017-05-06 Sat 14:00]--[2017-05-06 Sat 15:19] =>  1:19
+   :END:
+** DONE relaxing<2017-05-06 Sat 15:20>
+   CLOSED: [2017-05-06 Sat 17:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-06 Sat 15:20]
+   CLOCK: [2017-05-06 Sat 15:20]--[2017-05-06 Sat 17:03] =>  1:43
+   :END:

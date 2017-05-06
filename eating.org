@@ -686,3 +686,24 @@ eat meat chinese buns
    - State "DONE"       from "STARTED"    [2017-05-05 Fri 18:57]
    CLOCK: [2017-05-05 Fri 18:04]--[2017-05-05 Fri 18:57] =>  0:53
    :END:
+** DONE to have breakfast<2017-05-06 Sat 06:22>
+   CLOSED: [2017-05-06 Sat 07:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-06 Sat 07:51]
+   CLOCK: [2017-05-06 Sat 06:22]--[2017-05-06 Sat 07:51] =>  1:29
+   :END:
+My wife has a backache. I need to prepare breakfast for the family.
+I have eated noodles with tasty soup.
+** DONE to have lunch<2017-05-06 Sat 12:38>
+   CLOSED: [2017-05-06 Sat 15:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-06 Sat 14:00]
+   CLOCK: [2017-05-06 Sat 12:38]--[2017-05-06 Sat 14:00] =>  1:22
+   :END:
+** DONE to have dinner<2017-05-06 Sat 17:05>
+   CLOSED: [2017-05-06 Sat 20:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-06 Sat 20:35]
+   CLOCK: [2017-05-06 Sat 17:05]--[2017-05-06 Sat 20:35] =>  3:30
+   :END:
+give students a  lecture two hours
