@@ -1335,3 +1335,17 @@ and to have dinner
    - State "DONE"       from "STARTED"    [2017-05-06 Sat 11:49]
    CLOCK: [2017-05-06 Sat 11:16]--[2017-05-06 Sat 11:49] =>  0:33
    :END:
+** DONE relaxing and browse moddle<2017-05-07 Sun 05:53>
+   CLOSED: [2017-05-07 Sun 20:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-07 Sun 20:50]
+   - State "STARTED"    from "DONE"       [2017-05-07 Sun 18:37]
+   CLOCK: [2017-05-07 Sun 18:37]--[2017-05-07 Sun 20:50] =>  2:13
+   - State "DONE"       from "STARTED"    [2017-05-07 Sun 13:17]
+   - State "STARTED"    from "DONE"       [2017-05-07 Sun 12:31]
+   CLOCK: [2017-05-07 Sun 12:31]--[2017-05-07 Sun 13:17] =>  0:46
+   - State "DONE"       from "STARTED"    [2017-05-07 Sun 07:29]
+   CLOCK: [2017-05-07 Sun 05:53]--[2017-05-07 Sun 07:29] =>  1:36
+   :END:
+watch TED
+how to teach computer to understand imges.

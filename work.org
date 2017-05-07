@@ -6998,3 +6998,9 @@ vr
    - State "DONE"       from "STARTED"    [2017-05-06 Sat 15:20]
    CLOCK: [2017-05-06 Sat 15:20]--[2017-05-06 Sat 17:03] =>  1:43
    :END:
+** DONE modifity moddle<2017-05-07 Sun 14:49>
+   CLOSED: [2017-05-07 Sun 17:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-07 Sun 17:53]
+   CLOCK: [2017-05-07 Sun 14:49]--[2017-05-07 Sun 17:53] =>  3:04
+   :END:
