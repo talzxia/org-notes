@@ -7004,3 +7004,22 @@ vr
    - State "DONE"       from "STARTED"    [2017-05-07 Sun 17:53]
    CLOCK: [2017-05-07 Sun 14:49]--[2017-05-07 Sun 17:53] =>  3:04
    :END:
+** DONE clean up<2017-05-08 Mon 07:41>
+   CLOSED: [2017-05-08 Mon 07:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-08 Mon 07:55]
+   CLOCK: [2017-05-08 Mon 07:41]--[2017-05-08 Mon 07:55] =>  0:14
+   :END:
+** DONE browse and free learning<2017-05-08 Mon 09:18>
+   CLOSED: [2017-05-08 Mon 10:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-08 Mon 10:43]
+   CLOCK: [2017-05-08 Mon 09:18]--[2017-05-08 Mon 10:43] =>  1:25
+   :END:
+meeting xiaguangfend
+** DONE manager moddle<2017-05-08 Mon 10:47>
+   CLOSED: [2017-05-08 Mon 11:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-08 Mon 11:46]
+   CLOCK: [2017-05-08 Mon 10:47]--[2017-05-08 Mon 11:46] =>  0:59
+   :END:
