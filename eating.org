@@ -737,3 +737,15 @@ give students a  lecture two hours
    - State "DONE"       from "STARTED"    [2017-05-08 Mon 21:33]
    CLOCK: [2017-05-08 Mon 16:59]--[2017-05-08 Mon 21:33] =>  4:34
    :END:
+** DONE to have breakfast<2017-05-09 Tue 07:05>
+   CLOSED: [2017-05-09 Tue 08:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-09 Tue 08:00]
+   CLOCK: [2017-05-09 Tue 07:05]--[2017-05-09 Tue 08:00] =>  0:55
+   :END:
+** DONE to have dinner<2017-05-09 Tue 18:06>
+   CLOSED: [2017-05-09 Tue 19:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-09 Tue 19:15]
+   CLOCK: [2017-05-09 Tue 18:06]--[2017-05-09 Tue 19:15] =>  1:09
+   :END:
