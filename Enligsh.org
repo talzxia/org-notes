@@ -10453,6 +10453,12 @@ The woman is checking her flight on her ticket.
    - State "DONE"       from "STARTED"    [2017-05-04 Thu 14:50]
    CLOCK: [2017-05-04 Thu 14:25]--[2017-05-04 Thu 14:50] =>  0:25
    :END:
+** DONE Review<2017-05-10 Wed 15:37>98.1%
+   CLOSED: [2017-05-10 Wed 16:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-10 Wed 16:02]
+   CLOCK: [2017-05-10 Wed 15:37]--[2017-05-10 Wed 16:02] =>  0:25
+   :END:
 ** Lesson 31
 passport control customs control registration flight a currency exchange booth a
 waiting area
@@ -10553,6 +10559,12 @@ What are the man and the woman doing? They are waiting for their flight.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-05 Sun 10:04]
    CLOCK: [2017-03-05 Sun 09:02]--[2017-03-05 Sun 10:04] =>  1:02
+   :END:
+** DONE Review <2017-05-10 Wed 06:01>97.9%
+   CLOSED: [2017-05-10 Wed 06:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-10 Wed 06:33]
+   CLOCK: [2017-05-10 Wed 06:01]--[2017-05-10 Wed 06:33] =>  0:32
    :END:
 ** Lesson 32
 a hotel a reception desk a form a room a floor a receptionist

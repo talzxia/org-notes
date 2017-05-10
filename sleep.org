@@ -348,7 +348,19 @@
    - State "DONE"       from "STARTED"    [2017-05-09 Tue 04:47]
    CLOCK: [2017-05-08 Mon 21:34]--[2017-05-09 Tue 04:16] =>  6:42
    :END:
-** STARTED sleeping<2017-05-09 Tue 21:44>
+** DONE sleeping<2017-05-09 Tue 21:44>
+   CLOSED: [2017-05-10 Wed 05:49]
    :LOGBOOK:
-   CLOCK: [2017-05-09 Tue 21:44]
+   - State "DONE"       from "STARTED"    [2017-05-10 Wed 05:49]
+   CLOCK: [2017-05-09 Tue 21:44]--[2017-05-10 Wed 05:49] =>  8:05
+   :END:
+** DONE clean up<2017-05-10 Wed 05:49>
+   CLOSED: [2017-05-10 Wed 05:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-10 Wed 05:52]
+   CLOCK: [2017-05-10 Wed 05:49]--[2017-05-10 Wed 05:52] =>  0:03
+   :END:
+** STARTED sleeping<2017-05-10 Wed 21:16>
+   :LOGBOOK:
+   CLOCK: [2017-05-10 Wed 21:16]
    :END:
