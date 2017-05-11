@@ -774,3 +774,21 @@ Lunch to eat the noodles.
    - State "DONE"       from "STARTED"    [2017-05-10 Wed 20:35]
    CLOCK: [2017-05-10 Wed 18:00]--[2017-05-10 Wed 20:35] =>  2:35
    :END:
+** DONE to have breakfast<2017-05-11 Thu 07:17>
+   CLOSED: [2017-05-11 Thu 07:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-11 Thu 07:56]
+   CLOCK: [2017-05-11 Thu 07:17]--[2017-05-11 Thu 07:56] =>  0:39
+   :END:
+** DONE to have lunch<2017-05-11 Thu 11:30>
+   CLOSED: [2017-05-11 Thu 14:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-11 Thu 14:30]
+   CLOCK: [2017-05-11 Thu 11:27]--[2017-05-11 Thu 14:30] =>  3:03
+   :END:
+** DONE to have dinner<2017-05-11 Thu 16:48>
+   CLOSED: [2017-05-11 Thu 20:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-11 Thu 20:33]
+   CLOCK: [2017-05-11 Thu 16:48]--[2017-05-11 Thu 20:33] =>  3:45
+   :END:
