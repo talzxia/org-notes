@@ -7153,7 +7153,54 @@ yingyong1.2 good
    - State "DONE"       from "STARTED"    [2017-05-11 Thu 11:18]
    CLOCK: [2017-05-11 Thu 10:08]--[2017-05-11 Thu 11:18] =>  1:10
    :END:
-** STARTED Guide students training<2017-05-11 Thu 20:36>
+** DONE Guide students training<2017-05-11 Thu 20:36>
+   CLOSED: [2017-05-11 Thu 21:46]
    :LOGBOOK:
-   CLOCK: [2017-05-11 Thu 20:36]
+   - State "DONE"       from "STARTED"    [2017-05-11 Thu 21:46]
+   CLOCK: [2017-05-11 Thu 20:36]--[2017-05-11 Thu 21:46] =>  1:10
+   :END:
+** DONE manager moddle<2017-05-12 Fri 06:33>
+   CLOSED: [2017-05-12 Fri 07:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-12 Fri 07:06]
+   CLOCK: [2017-05-12 Fri 06:33]--[2017-05-12 Fri 07:06] =>  0:33
+   :END:
+** DONE clean up office<2017-05-12 Fri 08:06>
+   CLOSED: [2017-05-12 Fri 08:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-12 Fri 08:32]
+   CLOCK: [2017-05-12 Fri 08:06]--[2017-05-12 Fri 08:32] =>  0:26
+   :END:
+** DONE manager moddle<2017-05-12 Fri 08:32>
+   CLOSED: [2017-05-12 Fri 11:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-12 Fri 11:23]
+   CLOCK: [2017-05-12 Fri 08:24]--[2017-05-12 Fri 11:23] =>  2:59
+   :END:
+** DONE read document <2017-05-12 Fri 14:20>
+   CLOSED: [2017-05-12 Fri 15:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-12 Fri 15:21]
+   CLOCK: [2017-05-12 Fri 14:34]--[2017-05-12 Fri 15:21] =>  0:47
+   :END:
+** DONE manager moddle<2017-05-12 Fri 15:21>
+   CLOSED: [2017-05-12 Fri 16:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-12 Fri 16:01]
+   CLOCK: [2017-05-12 Fri 15:21]--[2017-05-12 Fri 16:01] =>  0:40
+   :END:
+** DONE Hangwriting<2017-05-12 Fri 16:01>
+   CLOSED: [2017-05-12 Fri 18:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-12 Fri 18:10]
+   - State "STARTED"    from "DONE"       [2017-05-12 Fri 17:52]
+   CLOCK: [2017-05-12 Fri 17:52]--[2017-05-12 Fri 18:10] =>  0:18
+   - State "DONE"       from "STARTED"    [2017-05-12 Fri 16:37]
+   CLOCK: [2017-05-12 Fri 16:01]--[2017-05-12 Fri 16:37] =>  0:36
+   :END:
+** DONE manager moddle<2017-05-12 Fri 18:12>
+   CLOSED: [2017-05-12 Fri 19:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-12 Fri 19:06]
+   CLOCK: [2017-05-12 Fri 18:12]--[2017-05-12 Fri 19:06] =>  0:54
    :END:
