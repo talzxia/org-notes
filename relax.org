@@ -1355,7 +1355,19 @@ how to teach computer to understand imges.
    - State "DONE"       from "STARTED"    [2017-05-10 Wed 18:00]
    CLOCK: [2017-05-10 Wed 16:05]--[2017-05-10 Wed 18:00] =>  1:55
    :END:
-** STARTED relaxing<2017-05-12 Fri 20:13>
+** DONE relaxing<2017-05-12 Fri 20:13>
+   CLOSED: [2017-05-13 Sat 04:52]
    :LOGBOOK:
-   CLOCK: [2017-05-12 Fri 20:13]
+   - State "DONE"       from "STARTED"    [2017-05-13 Sat 04:52]
    :END:
+** DONE relaxing<2017-05-13 Sat 11:15>
+   CLOSED: [2017-05-13 Sat 19:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-13 Sat 19:02]
+   - State "STARTED"    from "DONE"       [2017-05-13 Sat 17:44]
+   CLOCK: [2017-05-13 Sat 17:44]--[2017-05-13 Sat 19:02] =>  1:18
+   - State "DONE"       from "STARTED"    [2017-05-13 Sat 12:43]
+   CLOCK: [2017-05-13 Sat 11:15]--[2017-05-13 Sat 12:43] =>  1:28
+   :END:
+watch moddle vido
+creat a new lesson moddle

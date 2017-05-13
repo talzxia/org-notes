@@ -810,3 +810,24 @@ Lunch to eat the noodles.
    - State "DONE"       from "STARTED"    [2017-05-12 Fri 17:52]
    CLOCK: [2017-05-12 Fri 16:37]--[2017-05-12 Fri 17:52] =>  1:15
    :END:
+** DONE to have breakfast<2017-05-13 Sat 07:11>
+   CLOSED: [2017-05-13 Sat 10:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-13 Sat 10:40]
+   CLOCK: [2017-05-13 Sat 10:39]--[2017-05-13 Sat 10:40] =>  0:01
+   CLOCK: [2017-05-13 Sat 07:11]--[2017-05-13 Sat 10:39] =>  3:28
+   :END:
+go to market buy purchase
+** DONE to have lunch<2017-05-13 Sat 12:43>
+   CLOSED: [2017-05-13 Sat 15:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-13 Sat 15:28]
+   CLOCK: [2017-05-13 Sat 12:43]--[2017-05-13 Sat 15:28] =>  2:45
+   :END:
+** DONE to have dinner<2017-05-13 Sat 19:04>
+   CLOSED: [2017-05-13 Sat 21:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-13 Sat 21:27]
+   CLOCK: [2017-05-13 Sat 19:04]--[2017-05-13 Sat 21:27] =>  2:23
+   :END:
+20:00--21:28 Handwriting
