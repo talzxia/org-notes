@@ -7210,3 +7210,27 @@ yingyong1.2 good
    - State "DONE"       from "STARTED"    [2017-05-13 Sat 10:40]
    CLOCK: [2017-05-13 Sat 05:48]--[2017-05-13 Sat 07:11] =>  1:23
    :END:
+** DONE browse news and manager moddle<2017-05-14 Sun 04:33>
+   CLOSED: [2017-05-14 Sun 06:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-14 Sun 06:41]
+   CLOCK: [2017-05-14 Sun 04:33]--[2017-05-14 Sun 06:41] =>  2:08
+   :END:
+** DONE Guide the students training<2017-05-14 Sun 10:46>
+   CLOSED: [2017-05-14 Sun 11:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-14 Sun 11:34]
+   CLOCK: [2017-05-14 Sun 10:46]--[2017-05-14 Sun 11:34] =>  0:48
+   :END:
+** DONE Watch moddle vide<2017-05-14 Sun 11:35>o
+   CLOSED: [2017-05-14 Sun 12:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-14 Sun 12:21]
+   CLOCK: [2017-05-14 Sun 11:35]--[2017-05-14 Sun 12:21] =>  0:46
+   :END:
+** DONE Guide the students training<2017-05-14 Sun 19:00>
+   CLOSED: [2017-05-14 Sun 21:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-14 Sun 19:00]
+   CLOCK: [2017-05-14 Sun 19:00]--[2017-05-14 Sun 21:13] =>  2:13
+   :END:

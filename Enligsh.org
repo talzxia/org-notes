@@ -13247,6 +13247,12 @@ bake tasty pies.
    - State "DONE"       from "STARTED"    [2017-05-13 Sat 17:43]
    CLOCK: [2017-05-13 Sat 17:07]--[2017-05-13 Sat 17:43] =>  0:36
    :END:
+** DONE Review<2017-05-14 Sun 03:51>98.5%
+   CLOSED: [2017-05-14 Sun 04:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-14 Sun 04:31]
+   CLOCK: [2017-05-14 Sun 03:51]--[2017-05-14 Sun 04:31] =>  0:40
+   :END:
 ** Lesson 35
    a blouse a tank top a coat a sweater tights socks
 
@@ -14096,6 +14102,21 @@ family likes this clothing.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-08 Mon 15:16]
    CLOCK: [2017-05-08 Mon 14:56]--[2017-05-08 Mon 15:16] =>  0:20
+   :END:
+** DONE Review<2017-05-14 Sun 08:11>95.8%
+   CLOSED: [2017-05-14 Sun 10:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-14 Sun 10:45]
+   - State "STARTED"    from "DONE"       [2017-05-14 Sun 10:26]
+   CLOCK: [2017-05-14 Sun 10:26]--[2017-05-14 Sun 10:45] =>  0:19
+   - State "DONE"       from "STARTED"    [2017-05-14 Sun 08:14]
+   CLOCK: [2017-05-14 Sun 08:11]--[2017-05-14 Sun 08:14] =>  0:03
+   :END:
+** DONE Review<2017-05-14 Sun 16:10>98%
+   CLOSED: [2017-05-14 Sun 16:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-14 Sun 16:29]
+   CLOCK: [2017-05-14 Sun 16:10]--[2017-05-14 Sun 16:29] =>  0:19
    :END:
 ** Lesson 36
 a market a counter a supermaket change a cash register a receipt
