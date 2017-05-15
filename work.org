@@ -7234,3 +7234,48 @@ yingyong1.2 good
    - State "DONE"       from "STARTED"    [2017-05-14 Sun 19:00]
    CLOCK: [2017-05-14 Sun 19:00]--[2017-05-14 Sun 21:13] =>  2:13
    :END:
+** DONE browse and learning<2017-05-15 Mon 06:51>
+   CLOSED: [2017-05-15 Mon 08:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-15 Mon 08:09]
+   CLOCK: [2017-05-15 Mon 06:51]--[2017-05-15 Mon 08:09] =>  1:18
+   :END:
+** DONE clean up office<2017-05-15 Mon 08:09>
+   CLOSED: [2017-05-15 Mon 08:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-15 Mon 08:30]
+   CLOCK: [2017-05-15 Mon 08:09]--[2017-05-15 Mon 08:30] =>  0:21
+   :END:
+** DONE See Feng teacher  <2017-05-15 Mon 08:30>
+   CLOSED: [2017-05-15 Mon 10:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-15 Mon 10:33]
+   CLOCK: [2017-05-15 Mon 08:30]--[2017-05-15 Mon 10:33] =>  2:03
+   :END:
+** DONE check teaching on moddle<2017-05-15 Mon 10:34>
+   CLOSED: [2017-05-15 Mon 11:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-15 Mon 11:38]
+   CLOCK: [2017-05-15 Mon 10:34]--[2017-05-15 Mon 11:38] =>  1:04
+   :END:
+** DONE Handwriting<2017-05-15 Mon 14:32>
+   CLOSED: [2017-05-15 Mon 15:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-15 Mon 15:30]
+   CLOCK: [2017-05-15 Mon 14:32]--[2017-05-15 Mon 15:30] =>  0:58
+   :END:
+** DONE browse moddle and check teaching<2017-05-15 Mon 15:31>
+   CLOSED: [2017-05-15 Mon 16:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-15 Mon 16:56]
+   :END:
+** DONE take my wife<2017-05-15 Mon 16:56>
+   CLOSED: [2017-05-15 Mon 18:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-15 Mon 18:51]
+   CLOCK: [2017-05-15 Mon 16:56]--[2017-05-15 Mon 18:51] =>  1:55
+   :END:
+** STARTED browse moddle<2017-05-15 Mon 19:46>
+   :LOGBOOK:
+   CLOCK: [2017-05-15 Mon 19:46]
+   :END:

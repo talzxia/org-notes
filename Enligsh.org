@@ -14408,6 +14408,18 @@ What is the waiter doing? He's carrying a whole cake on a tray.
    - State "DONE"       from "STARTED"    [2017-05-08 Mon 05:51]
    CLOCK: [2017-05-08 Mon 05:21]--[2017-05-08 Mon 05:51] =>  0:30
    :END:
+** DONE Review<2017-05-15 Mon 05:10>97.9%
+   CLOSED: [2017-05-15 Mon 06:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-15 Mon 06:44]
+   CLOCK: [2017-05-15 Mon 05:10]--[2017-05-15 Mon 06:44] =>  1:34
+   :END:
+** DONE Review<2017-05-15 Mon 19:22>98.6%
+   CLOSED: [2017-05-15 Mon 19:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-15 Mon 19:44]
+   CLOCK: [2017-05-15 Mon 19:22]--[2017-05-15 Mon 19:44] =>  0:22
+   :END:
 ** Lesson thirty seven
 north south west east a compass a needle
 
@@ -14473,7 +14485,7 @@ People swim in the sea in the south, because in the south the sea is warm.
 The compass needle points north.
 The tourist is finding the path in the mountains by his compass.
 In the south it rains half the year.
-The tourist is holding a compass in his right hand, a map in his right.
+The tourist is holding a compass in his right hand, a map in his left.
 In the north half the year it is day, and half it is night.
 All tourists bring with them a compass when they go into the woods.
 
