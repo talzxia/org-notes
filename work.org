@@ -7275,7 +7275,52 @@ yingyong1.2 good
    - State "DONE"       from "STARTED"    [2017-05-15 Mon 18:51]
    CLOCK: [2017-05-15 Mon 16:56]--[2017-05-15 Mon 18:51] =>  1:55
    :END:
-** STARTED browse moddle<2017-05-15 Mon 19:46>
+** DONE browse moddle<2017-05-15 Mon 19:46>
+   CLOSED: [2017-05-15 Mon 21:35]
    :LOGBOOK:
-   CLOCK: [2017-05-15 Mon 19:46]
+   - State "DONE"       from "STARTED"    [2017-05-15 Mon 21:35]
+   CLOCK: [2017-05-15 Mon 19:46]--[2017-05-15 Mon 21:35] =>  1:49
    :END:
+** DONE check moddle<2017-05-16 Tue 06:09>
+   CLOSED: [2017-05-16 Tue 07:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-16 Tue 07:08]
+   CLOCK: [2017-05-16 Tue 06:09]--[2017-05-16 Tue 07:08] =>  0:59
+   :END:
+** DONE clean up office<2017-05-16 Tue 08:01>
+   CLOSED: [2017-05-16 Tue 08:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-16 Tue 08:43]
+   CLOCK: [2017-05-16 Tue 08:01]--[2017-05-16 Tue 08:43] =>  0:42
+   :END:
+** DONE browse moddle<2017-05-16 Tue 08:44>
+   CLOSED: [2017-05-16 Tue 09:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-16 Tue 09:19]
+   CLOCK: [2017-05-16 Tue 08:44]--[2017-05-16 Tue 09:19] =>  0:35
+   :END:
+** DONE meet lijinwei<2017-05-16 Tue 09:20>
+   CLOSED: [2017-05-16 Tue 09:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-16 Tue 09:48]
+   CLOCK: [2017-05-16 Tue 09:20]--[2017-05-16 Tue 09:48] =>  0:28
+   :END:
+** DONE learn moddle<2017-05-16 Tue 09:49>
+   CLOSED: [2017-05-16 Tue 11:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-16 Tue 11:39]
+   CLOCK: [2017-05-16 Tue 09:49]--[2017-05-16 Tue 11:39] =>  1:50
+   :END:
+** DONE Handwriting<2017-05-16 Tue 14:16>
+   CLOSED: [2017-05-16 Tue 14:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-16 Tue 14:56]
+   CLOCK: [2017-05-16 Tue 14:16]--[2017-05-16 Tue 14:56] =>  0:40
+   :END:
+** DONE browse news <2017-05-16 Tue 14:56>
+   CLOSED: [2017-05-16 Tue 16:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-16 Tue 16:49]
+   CLOCK: [2017-05-16 Tue 14:56]--[2017-05-16 Tue 16:49] =>  1:53
+   :END:
+meeting
