@@ -16315,6 +16315,12 @@ What is the chef doing ? He's frying a whole chicken.
    - State "DONE"       from "STARTED"    [2017-05-16 Tue 06:08]
    CLOCK: [2017-05-16 Tue 05:22]--[2017-05-16 Tue 06:08] =>  0:46
    :END:
+** DONE Review<2017-05-17 Wed 04:57>98.6%
+   CLOSED: [2017-05-17 Wed 05:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-17 Wed 05:33]
+   CLOCK: [2017-05-17 Wed 04:57]--[2017-05-17 Wed 05:33] =>  0:36
+   :END:
 ** Lesson 38
 a drum film a guitar dance music a voilin
 
@@ -18247,6 +18253,12 @@ article.yeeyan.org
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-06 Sat 08:19]
    CLOCK: [2017-05-06 Sat 07:57]--[2017-05-06 Sat 08:19] =>  0:22
+   :END:
+** DONE Review<2017-05-17 Wed 17:15>98.4%
+   CLOSED: [2017-05-17 Wed 17:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-17 Wed 17:35]
+   CLOCK: [2017-05-17 Wed 17:15]--[2017-05-17 Wed 17:35] =>  0:20
    :END:
 ** Lesson thirty nine
 a cow a chicken a ram a sheep a rooster a bull
