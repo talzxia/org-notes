@@ -861,7 +861,21 @@ go to market buy purchase
    - State "DONE"       from "STARTED"    [2017-05-17 Wed 08:19]
    CLOCK: [2017-05-17 Wed 06:55]--[2017-05-17 Wed 08:19] =>  1:24
    :END:
-** STARTED to have dinner<2017-05-17 Wed 17:38>
+** DONE to have dinner<2017-05-17 Wed 17:38>
+   CLOSED: [2017-05-17 Wed 19:23]
    :LOGBOOK:
-   CLOCK: [2017-05-17 Wed 17:38]
+   - State "DONE"       from "STARTED"    [2017-05-17 Wed 19:23]
+   CLOCK: [2017-05-17 Wed 17:38]--[2017-05-17 Wed 19:23] =>  1:45
+   :END:
+** DONE to have breakfast<2017-05-18 Thu 06:30>
+   CLOSED: [2017-05-18 Thu 08:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-18 Thu 08:09]
+   CLOCK: [2017-05-18 Thu 06:30]--[2017-05-18 Thu 08:09] =>  1:39
+   :END:
+** DONE to have lunch and shopping<2022-06-11 Sat>
+   CLOSED: [2017-05-18 Thu 14:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-18 Thu 14:23]
+   CLOCK: [2017-05-18 Thu 11:22]--[2017-05-18 Thu 14:23] =>  3:01
    :END:

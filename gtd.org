@@ -6142,6 +6142,31 @@ to have lunch
    CLOCK: [2017-05-17 Wed 19:23]--[2017-05-17 Wed 21:33] =>  2:10
    :END:
 
+** DONE [#B] Handwriting<2017-05-18 Thu 04:44>
+   CLOSED: [2017-05-18 Thu 05:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-18 Thu 05:18]
+   CLOCK: [2017-05-18 Thu 04:44]--[2017-05-18 Thu 05:18] =>  0:34
+   :END:
+
+** DONE [#B]take my wife and daughter<2017-05-18 Thu 16:38>
+   CLOSED: [2017-05-18 Thu 21:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-18 Thu 21:22]
+   - State "STARTED"    from "DONE"       [2017-05-18 Thu 19:23]
+   CLOCK: [2017-05-18 Thu 19:23]--[2017-05-18 Thu 21:22] =>  1:59
+   - State "DONE"       from "STARTED"    [2017-05-18 Thu 18:31]
+   CLOCK: [2017-05-18 Thu 16:39]--[2017-05-18 Thu 18:31] =>  1:52
+   :END:
+
+** STARTED [#B]Hangwriting<2017-05-18 Thu 18:32>
+   :LOGBOOK:
+   - State "STARTED"    from "DONE"       [2017-05-18 Thu 21:22]
+   CLOCK: [2017-05-18 Thu 21:22]
+   - State "DONE"       from "STARTED"    [2017-05-18 Thu 18:41]
+   CLOCK: [2017-05-18 Thu 18:32]--[2017-05-18 Thu 18:41] =>  0:09
+   :END:
+
 * Cocos2D-X
 
 ** DONE [#A] 制定下学期工作目标
