@@ -7406,3 +7406,12 @@ read two books about a hundred pages
    - State "DONE"       from "STARTED"    [2017-05-18 Thu 16:38]
    CLOCK: [2017-05-18 Thu 16:01]--[2017-05-18 Thu 16:38] =>  0:37
    :END:
+** DONE check teaching on moddle<2017-05-19 Fri 15:24>
+   CLOSED: [2017-05-19 Fri 17:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-19 Fri 17:14]
+   - State "STARTED"    from "DONE"       [2017-05-19 Fri 16:14]
+   CLOCK: [2017-05-19 Fri 16:14]--[2017-05-19 Fri 17:14] =>  1:00
+   - State "DONE"       from "STARTED"    [2017-05-19 Fri 15:35]
+   CLOCK: [2017-05-19 Fri 15:23]--[2017-05-19 Fri 15:35] =>  0:12
+   :END:
