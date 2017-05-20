@@ -23833,6 +23833,13 @@ In order to open an account, you need to go to the bank.
    - State "DONE"       from "STARTED"    [2017-05-19 Fri 16:13]
    CLOCK: [2017-05-19 Fri 15:36]--[2017-05-19 Fri 16:13] =>  0:37
    :END:
+** DONE Review<2017-05-20 Sat 05:56>98.4%
+   CLOSED: [2017-05-20 Sat 06:29]
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2017-05-20 Sat 06:29]
+   - State "DONE"       from "STARTED"    [2017-05-20 Sat 06:28]
+   CLOCK: [2017-05-20 Sat 05:54]--[2017-05-20 Sat 06:28] =>  0:34
+   :END:
 ** Lesson 43
 a post offcie a mailbox a postman an ATM a credit car a post office a bank
 

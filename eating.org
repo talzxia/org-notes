@@ -886,7 +886,21 @@ go to market buy purchase
    CLOCK: [2017-05-19 Fri 07:03]--[2017-05-19 Fri 15:21] =>  8:18
    :END:
 to take the daughter test
-** STARTED to have dinner<2017-05-19 Fri 17:15>
+** DONE to have dinner<2017-05-19 Fri 17:15>
+   CLOSED: [2017-05-19 Fri 22:26]
    :LOGBOOK:
-   CLOCK: [2017-05-19 Fri 17:15]
+   - State "DONE"       from "STARTED"    [2017-05-19 Fri 22:26]
+   CLOCK: [2017-05-19 Fri 17:15]--[2017-05-19 Fri 22:26] =>  5:11
+   :END:
+** DONE to have breakfast<2017-05-20 Sat 07:57>
+   CLOSED: [2017-05-20 Sat 08:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-20 Sat 08:48]
+   CLOCK: [2017-05-20 Sat 07:57]--[2017-05-20 Sat 08:48] =>  0:51
+   :END:
+** DONE to have lunch<2017-05-20 Sat 13:03>
+   CLOSED: [2017-05-20 Sat 15:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-20 Sat 15:09]
+   CLOCK: [2017-05-20 Sat 13:03]--[2017-05-20 Sat 15:09] =>  2:06
    :END:
