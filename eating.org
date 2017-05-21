@@ -904,3 +904,9 @@ to take the daughter test
    - State "DONE"       from "STARTED"    [2017-05-20 Sat 15:09]
    CLOCK: [2017-05-20 Sat 13:03]--[2017-05-20 Sat 15:09] =>  2:06
    :END:
+** DONE to have breakfast<2017-05-21 Sun 07:18>
+   CLOSED: [2017-05-21 Sun 16:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-21 Sun 16:02]
+   CLOCK: [2017-05-21 Sun 07:18]--[2017-05-21 Sun 16:02] =>  8:44
+   :END:

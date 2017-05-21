@@ -24952,6 +24952,12 @@ The woman has a stomachache.
    - State "DONE"       from "STARTED"    [2017-02-19 日 12:41]
    CLOCK: [2017-02-19 日 12:21]--[2017-02-19 日 12:41] =>  0:20
    :END:
+** DONE Review<2017-05-21 Sun 05:10>96.1%
+   CLOSED: [2017-05-21 Sun 05:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-21 Sun 05:41]
+   CLOCK: [2017-05-21 Sun 05:10]--[2017-05-21 Sun 05:41] =>  0:31
+   :END:
 ** Lesson 44
 a bandage vitamins a syringe aspirin a thermometer medicine
 
