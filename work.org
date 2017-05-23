@@ -7466,10 +7466,12 @@ read two books about a hundred pages
    - State "DONE"       from "STARTED"    [2017-05-22 Mon 21:54]
    CLOCK: [2017-05-22 Mon 19:38]--[2017-05-22 Mon 21:54] =>  2:16
    :END:
-** STARTED browse news<2017-05-23 Tue 05:57>
+** DONE browse news<2017-05-23 Tue 05:57>
+   CLOSED: [2017-05-23 Tue 09:31]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-23 Tue 09:31]
    - State "STARTED"    from "DONE"       [2017-05-23 Tue 08:08]
-   CLOCK: [2017-05-23 Tue 08:08]
+   CLOCK: [2017-05-23 Tue 08:08]--[2017-05-23 Tue 09:31] =>  1:23
    - State "DONE"       from "STARTED"    [2017-05-23 Tue 07:18]
    CLOCK: [2017-05-23 Tue 05:56]--[2017-05-23 Tue 07:18] =>  1:22
    :END:
@@ -7479,3 +7481,20 @@ read two books about a hundred pages
    - State "DONE"       from "STARTED"    [2017-05-23 Tue 08:08]
    CLOCK: [2017-05-23 Tue 08:02]--[2017-05-23 Tue 08:08] =>  0:06
    :END:
+** DONE edit file<2017-05-23 Tue 08:20>
+   CLOSED: [2017-05-23 Tue 11:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-23 Tue 11:28]
+   CLOCK: [2017-05-23 Tue 08:26]--[2017-05-23 Tue 11:28] =>  3:02
+   :END:
+** DONE take my wife<2017-05-23 Tue 16:41>
+   CLOSED: [2017-05-23 Tue 20:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-23 Tue 20:14]
+   CLOCK: [2017-05-23 Tue 16:41]--[2017-05-23 Tue 20:14] =>  3:33
+   :END:
+** Guide the students training
+*** STARTED <2017-05-23 Tue 20:46>
+    :LOGBOOK:
+    CLOCK: [2017-05-23 Tue 20:46]
+    :END:
