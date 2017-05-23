@@ -7436,7 +7436,46 @@ read two books about a hundred pages
    - State "DONE"       from "STARTED"    [2017-05-20 Sat 20:05]
    CLOCK: [2017-05-20 Sat 17:38]--[2017-05-20 Sat 20:05] =>  2:27
    :END:
-** STARTED browse news and learn<2017-05-21 Sun 05:42>
+** DONE browse news and learn<2017-05-21 Sun 05:42>
+   CLOSED: [2017-05-21 Sun 07:18]
    :LOGBOOK:
-   CLOCK: [2017-05-21 Sun 05:42]
+   - State "DONE"       from "STARTED"    [2017-05-21 Sun 07:18]
+   CLOCK: [2017-05-21 Sun 05:42]--[2017-05-21 Sun 07:18] =>  1:36
+   :END:
+** DONE clean up office<2017-05-22 Mon 07:37>
+   CLOSED: [2017-05-22 Mon 08:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-22 Mon 08:03]
+   CLOCK: [2017-05-22 Mon 07:37]--[2017-05-22 Mon 08:03] =>  0:26
+   :END:
+** DONE manager moddle<2017-05-22 Mon 08:03>
+   CLOSED: [2017-05-22 Mon 11:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-22 Mon 11:19]
+   CLOCK: [2017-05-22 Mon 08:03]--[2017-05-22 Mon 11:19] =>  3:16
+   :END:
+** DONE browse and free learn<2017-05-22 Mon 14:57>
+   CLOSED: [2017-05-22 Mon 17:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-22 Mon 17:56]
+   CLOCK: [2017-05-22 Mon 14:57]--[2017-05-22 Mon 17:56] =>  2:59
+   :END:
+** DONE training the students<2017-05-22 Mon 19:38>
+   CLOSED: [2017-05-22 Mon 21:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-22 Mon 21:54]
+   CLOCK: [2017-05-22 Mon 19:38]--[2017-05-22 Mon 21:54] =>  2:16
+   :END:
+** STARTED browse news<2017-05-23 Tue 05:57>
+   :LOGBOOK:
+   - State "STARTED"    from "DONE"       [2017-05-23 Tue 08:08]
+   CLOCK: [2017-05-23 Tue 08:08]
+   - State "DONE"       from "STARTED"    [2017-05-23 Tue 07:18]
+   CLOCK: [2017-05-23 Tue 05:56]--[2017-05-23 Tue 07:18] =>  1:22
+   :END:
+** DONE clean up office<2017-05-23 Tue 08:02>
+   CLOSED: [2017-05-23 Tue 08:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-23 Tue 08:08]
+   CLOCK: [2017-05-23 Tue 08:02]--[2017-05-23 Tue 08:08] =>  0:06
    :END:

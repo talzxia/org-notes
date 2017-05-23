@@ -25212,6 +25212,15 @@ Why do the man's eyes hurt? He works a lot on the computer.
    - State "DONE"       from "STARTED"    [2017-02-20 一 04:27]
    CLOCK: [2017-02-20 一 03:44]--[2017-02-20 一 04:27] =>  0:43
    :END:
+** DONE Review<2017-05-22 Mon 05:40>97.8%
+   CLOSED: [2017-05-23 Tue 05:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-23 Tue 05:55]
+   - State "STARTED"    from "DONE"       [2017-05-23 Tue 05:27]
+   CLOCK: [2017-05-23 Tue 05:27]--[2017-05-23 Tue 05:55] =>  0:28
+   - State "DONE"       from "STARTED"    [2017-05-22 Mon 07:37]
+   CLOCK: [2017-05-22 Mon 05:40]--[2017-05-22 Mon 07:37] =>  1:57
+   :END:
 ** Lesson 45
 a child a teenager an elderly man an eldery woman an adult an elderly people
 
