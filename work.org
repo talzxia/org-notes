@@ -7493,8 +7493,93 @@ read two books about a hundred pages
    - State "DONE"       from "STARTED"    [2017-05-23 Tue 20:14]
    CLOCK: [2017-05-23 Tue 16:41]--[2017-05-23 Tue 20:14] =>  3:33
    :END:
-** Guide the students training
-*** STARTED <2017-05-23 Tue 20:46>
+*** DONE <2017-05-24 Wed 16:39>
+    CLOSED: [2017-05-25 Thu 05:18]
     :LOGBOOK:
-    CLOCK: [2017-05-23 Tue 20:46]
+    - State "DONE"       from "STARTED"    [2017-05-25 Thu 05:18]
+    CLOCK: [2017-05-24 Wed 16:38]--[2017-05-24 Wed 17:18]  =>  0:40
     :END:
+** Guide the students training
+*** DONE <2017-05-23 Tue 20:46>
+    CLOSED: [2017-05-24 Wed 06:42]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-24 Wed 06:42]
+    CLOCK: [2017-05-23 Tue 20:46]--[2017-05-23 Tue 21:37] =>  0:51
+    :END:
+*** STARTED <2017-05-25 Thu 20:27>
+    :LOGBOOK:
+    CLOCK: [2017-05-25 Thu 20:27]
+    :END:
+** Manager moddle :manager moddle:
+
+*** DONE <2017-05-24 Wed 06:43>
+    CLOSED: [2017-05-24 Wed 07:02]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-24 Wed 07:02]
+    CLOCK: [2017-05-24 Wed 06:42]--[2017-05-24 Wed 07:02] =>  0:20
+    :END:
+*** DONE <2017-05-24 Wed 09:51>
+    CLOSED: [2017-05-24 Wed 11:51]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-24 Wed 11:51]
+    CLOCK: [2017-05-24 Wed 09:51]--[2017-05-24 Wed 11:51] =>  2:00
+    :END:
+*** DONE <2017-05-24 Wed 14:05>                                      :moddle:
+    CLOSED: [2017-05-24 Wed 16:38]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-24 Wed 16:38]
+    CLOCK: [2017-05-24 Wed 14:05]--[2017-05-24 Wed 16:38] =>  2:33
+    :END:
+*** DONE <2017-05-25 Thu 05:53>                                      :moddle:
+    CLOSED: [2017-05-25 Thu 07:11]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-25 Thu 07:11]
+    CLOCK: [2017-05-25 Thu 05:53]--[2017-05-25 Thu 07:11] =>  1:18
+    :END:
+*** DONE <2017-05-25 Thu 08:29>                                      :moddle:
+    CLOSED: [2017-05-25 Thu 20:26]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-25 Thu 20:26]
+    - State "STARTED"    from "DONE"       [2017-05-25 Thu 15:35]
+    CLOCK: [2017-05-25 Thu 15:35]--[2017-05-25 Thu 20:26] =>  4:51
+    - State "DONE"       from "STARTED"    [2017-05-25 Thu 12:00]
+    CLOCK: [2017-05-25 Thu 08:29]--[2017-05-25 Thu 12:00] =>  3:31
+    :END:
+** meeting
+*** DONE <2017-05-24 Wed 08:00>
+    CLOSED: [2017-05-24 Wed 09:48]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-24 Wed 09:48]
+    CLOCK: [2017-05-24 Wed 08:00]--[2017-05-24 Wed 09:48] =>  1:48
+    :END:
+会议纪要：
+教支委争取
+优质校推进
+生师比不合理
+1.第三批教学指导方案开发，与教职委联合
+没有我校
+十号前报教育厅
+能积极参与
+专业开发
+换届参与
+牵头学校名单
+山东电子职业技术学院
+参加技赛
+14级学生返校7月10-14号
+论文打辫毕业设计
+提前准备
+开学时侯
+8、19-20报道
+** clean up office
+*** DONE <2017-05-25 Thu 07:52>                                       :clean:
+    CLOSED: [2017-05-25 Thu 08:28]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-25 Thu 08:28]
+    CLOCK: [2017-05-25 Thu 07:52]--[2017-05-25 Thu 08:28] =>  0:36
+    :END:
+** DONE meet business<2017-05-25 Thu 14:56>
+   CLOSED: [2017-05-25 Thu 15:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-25 Thu 15:35]
+   CLOCK: [2017-05-25 Thu 14:56]--[2017-05-25 Thu 15:35] =>  0:39
+   :END:
