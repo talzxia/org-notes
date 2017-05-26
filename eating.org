@@ -929,9 +929,11 @@ to take the daughter test
     - State "DONE"       from "STARTED"    [2017-05-24 Wed 14:02]
     CLOCK: [2017-05-24 Wed 11:51]--[2017-05-24 Wed 14:02] =>  2:11
     :END:
-*** STARTED <2017-05-25 Thu 12:00>
+*** DONE <2017-05-25 Thu 12:00>
+    CLOSED: [2017-05-25 Thu 14:56]
     :LOGBOOK:
-    CLOCK: [2017-05-25 Thu 12:00]
+    - State "DONE"       from "STARTED"    [2017-05-25 Thu 14:56]
+    CLOCK: [2017-05-25 Thu 12:00]--[2017-05-25 Thu 14:56] =>  2:56
     :END:
 ** to have dinner
 *** DONE <2017-05-22 Mon 17:57>
@@ -962,4 +964,10 @@ to take the daughter test
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2017-05-25 Thu 07:51]
     CLOCK: [2017-05-25 Thu 07:12]--[2017-05-25 Thu 07:51] =>  0:39
+    :END:
+*** DONE <2017-05-26 Fri 07:05>
+    CLOSED: [2017-05-26 Fri 08:10]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-26 Fri 08:10]
+    CLOCK: [2017-05-26 Fri 07:05]--[2017-05-26 Fri 08:10] =>  1:05
     :END:
