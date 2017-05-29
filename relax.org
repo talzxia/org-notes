@@ -1383,3 +1383,28 @@ creat a new lesson moddle
    - State "DONE"       from "STARTED"    [2017-05-20 Sat 20:37]
    CLOCK: [2017-05-20 Sat 20:06]--[2017-05-20 Sat 20:37] =>  0:31
    :END:
+** DONE relaxing<2017-05-27 Sat 09:46>
+   CLOSED: [2017-05-27 Sat 10:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-27 Sat 10:29]
+   CLOCK: [2017-05-27 Sat 09:46]--[2017-05-27 Sat 10:29] =>  0:43
+   :END:
+** DONE relaxing<2017-05-29 Mon 05:23>
+   CLOSED: [2017-05-29 Mon 06:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-29 Mon 06:28]
+   CLOCK: [2017-05-29 Mon 05:23]--[2017-05-29 Mon 06:28] =>  1:05
+   :END:
+** DONE to relax in nature<2017-05-29 Mon 08:33>
+   CLOSED: [2017-05-29 Mon 09:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-29 Mon 09:46]
+   CLOCK: [2017-05-29 Mon 08:33]--[2017-05-29 Mon 09:46] =>  1:13
+   :END:
+bring water from the mountains.
+** DONE Relaxing<2017-05-29 Mon 16:46>
+   CLOSED: [2017-05-29 Mon 20:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-29 Mon 20:51]
+   CLOCK: [2017-05-29 Mon 16:46]--[2017-05-29 Mon 20:51] =>  4:05
+   :END:

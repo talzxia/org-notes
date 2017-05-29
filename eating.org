@@ -935,6 +935,18 @@ to take the daughter test
     - State "DONE"       from "STARTED"    [2017-05-25 Thu 14:56]
     CLOCK: [2017-05-25 Thu 12:00]--[2017-05-25 Thu 14:56] =>  2:56
     :END:
+*** DONE <2017-05-27 Sat 11:45>
+    CLOSED: [2017-05-27 Sat 13:55]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-27 Sat 13:55]
+    CLOCK: [2017-05-27 Sat 11:45]--[2017-05-27 Sat 13:55] =>  2:10
+    :END:
+*** DONE <2017-05-28 Sun 12:02>
+    CLOSED: [2017-05-28 Sun 14:10]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-28 Sun 14:10]
+    CLOCK: [2017-05-28 Sun 12:02]--[2017-05-28 Sun 14:10] =>  2:08
+    :END:
 ** to have dinner
 *** DONE <2017-05-22 Mon 17:57>
     CLOSED: [2017-05-22 Mon 19:37]
@@ -946,6 +958,13 @@ to take the daughter test
     :LOGBOOK:
     CLOCK: [2017-05-25 Thu 05:20]--[2017-05-25 Thu 05:23] =>  0:03
     :END:
+*** DONE <2017-05-28 Sun 16:26>
+    CLOSED: [2017-05-28 Sun 20:43]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-28 Sun 20:43]
+    CLOCK: [2017-05-28 Sun 18:26]--[2017-05-28 Sun 20:43] =>  2:17
+    :END:
+my daughter fried potatoes with meat and I drink a beer.
 ** to have breakfast
 *** DONE
     CLOSED: [2017-05-23 Tue 08:01]
@@ -970,4 +989,22 @@ to take the daughter test
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2017-05-26 Fri 08:10]
     CLOCK: [2017-05-26 Fri 07:05]--[2017-05-26 Fri 08:10] =>  1:05
+    :END:
+*** DONE <2017-05-27 Sat 07:08>
+    CLOSED: [2017-05-27 Sat 08:23]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-27 Sat 08:23]
+    CLOCK: [2017-05-27 Sat 07:08]--[2017-05-27 Sat 08:23] =>  1:15
+    :END:
+*** DONE <2017-05-28 Sun 07:19>
+    CLOSED: [2017-05-28 Sun 08:56]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-28 Sun 08:56]
+    CLOCK: [2017-05-28 Sun 07:19]--[2017-05-28 Sun 08:56] =>  1:37
+    :END:
+*** DONE <2017-05-29 Mon 06:28>
+    CLOSED: [2017-05-29 Mon 07:00]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-29 Mon 07:00]
+    CLOCK: [2017-05-29 Mon 06:28]--[2017-05-29 Mon 07:00] =>  0:32
     :END:
