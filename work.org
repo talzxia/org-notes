@@ -7685,3 +7685,9 @@ read two books about a hundred pages
     - State "DONE"       from "STARTED"    [2017-05-27 Sat 14:02]
     CLOCK: [2017-05-27 Sat 13:55]--[2017-05-27 Sat 14:02] =>  0:07
     :END:
+** DONE error prepare<2017-05-30 Tue 21:17>
+   CLOSED: [2017-05-30 Tue 21:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-30 Tue 21:19]
+   CLOCK: [2017-05-30 Tue 21:17]--[2017-05-30 Tue 21:19] =>  0:02
+   :END:
