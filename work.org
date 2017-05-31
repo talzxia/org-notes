@@ -7528,6 +7528,12 @@ read two books about a hundred pages
     - State "DONE"       from "STARTED"    [2017-05-25 Thu 21:18]
     CLOCK: [2017-05-25 Thu 20:27]--[2017-05-25 Thu 21:18] =>  0:51
     :END:
+*** DONE <2017-05-31 Wed 20:17>                                    :training:
+    CLOSED: [2017-05-31 Wed 21:07]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-31 Wed 21:07]
+    CLOCK: [2017-05-31 Wed 20:17]--[2017-05-31 Wed 21:07] =>  0:50
+    :END:
 ** Manager moddle :manager moddle:
 
 *** DONE <2017-05-24 Wed 06:43>
@@ -7596,6 +7602,12 @@ read two books about a hundred pages
     - State "DONE"       from "STARTED"    [2017-05-29 Mon 08:33]
     CLOCK: [2017-05-29 Mon 08:08]--[2017-05-29 Mon 08:33] =>  0:25
     :END:
+*** DONE <2017-05-31 Wed 17:09>                                      :moddle:
+    CLOSED: [2017-05-31 Wed 18:34]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-31 Wed 18:34]
+    CLOCK: [2017-05-31 Wed 17:08]--[2017-05-31 Wed 18:34] =>  1:26
+    :END:
 ** meeting
 *** DONE <2017-05-24 Wed 08:00>
     CLOSED: [2017-05-24 Wed 09:48]
@@ -7621,6 +7633,12 @@ read two books about a hundred pages
 提前准备
 开学时侯
 8、19-20报道
+*** DONE 创城会议，三楼会议室<2017-05-31 Wed 15:52>                 :meeting:
+    CLOSED: [2017-05-31 Wed 17:07]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-31 Wed 17:07]
+    CLOCK: [2017-05-31 Wed 15:52]--[2017-05-31 Wed 17:07] =>  1:15
+    :END:
 ** clean up office
 *** DONE <2017-05-25 Thu 07:52>                                       :clean:
     CLOSED: [2017-05-25 Thu 08:28]
@@ -7651,6 +7669,12 @@ read two books about a hundred pages
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2017-05-27 Sat 11:44]
     CLOCK: [2017-05-27 Sat 10:30]--[2017-05-27 Sat 11:44] =>  1:14
+    :END:
+*** DONE <2017-05-31 Wed 07:39>
+    CLOSED: [2017-05-31 Wed 10:15]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-05-31 Wed 10:15]
+    CLOCK: [2017-05-31 Wed 07:39]--[2017-05-31 Wed 10:15] =>  2:36
     :END:
 ** DONE relaxing<2017-05-26 Fri 09:43>
    CLOSED: [2017-05-26 Fri 10:31]
@@ -7691,3 +7715,10 @@ read two books about a hundred pages
    - State "DONE"       from "STARTED"    [2017-05-30 Tue 21:19]
    CLOCK: [2017-05-30 Tue 21:17]--[2017-05-30 Tue 21:19] =>  0:02
    :END:
+** DONE check teaching<2017-05-31 Wed 11:05>
+   CLOSED: [2017-05-31 Wed 11:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-31 Wed 11:26]
+   CLOCK: [2017-05-31 Wed 11:05]--[2017-05-31 Wed 11:26] =>  0:21
+   :END:
+15级到课率极低。

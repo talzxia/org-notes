@@ -843,12 +843,15 @@ arrvie office begin work
    :END:
 
 ** TODO [#B]早锻炼
-   DEADLINE: <2016-10-01 Sat 06:20 +1d>
+   DEADLINE: <2016-10-04 Tue 06:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-12-06 Tue 07:48]
+   :LAST_REPEAT: [2017-05-31 Wed 15:48]
    :ID:       64EFC8F4-0BAB-458F-A905-A47232C5221E
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-31 Wed 15:48]
+   - State "DONE"       from "STARTED"    [2017-05-31 Wed 15:48]
+   - State "DONE"       from "STARTED"    [2017-05-31 Wed 15:48]
    - State "DONE"       from "STARTED"    [2016-12-06 Tue 07:48]
    - State "DONE"       from "STARTED"    [2016-12-06 Tue 07:48]
    - State "DONE"       from "STARTED"    [2016-12-06 Tue 07:48]
@@ -6223,6 +6226,21 @@ to have lunch
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-29 Mon 13:58]
    CLOCK: [2017-05-29 Mon 10:32]--[2017-05-29 Mon 13:58] =>  3:26
+   :END:
+
+** DONE [#B] update system
+   CLOSED: [2017-05-31 Wed 15:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-31 Wed 15:45]
+      CLOCK: [2017-05-31 Wed 05:45]--[2017-05-31 Wed 07:05] =>  1:20
+
+   :END:
+
+** DONE [#B] Hangwriting<2017-05-31 Wed 15:25>
+   CLOSED: [2017-05-31 Wed 15:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-31 Wed 15:45]
+   CLOCK: [2017-05-31 Wed 15:25]--[2017-05-31 Wed 15:45] =>  0:20
    :END:
 
 * Cocos2D-X
