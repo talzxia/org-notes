@@ -24960,6 +24960,18 @@ The woman has a stomachache.
    - State "DONE"       from "STARTED"    [2017-05-21 Sun 05:41]
    CLOCK: [2017-05-21 Sun 05:10]--[2017-05-21 Sun 05:41] =>  0:31
    :END:
+** DONE Review<2017-06-01 Thu 05:11>98.2%
+   CLOSED: [2017-06-01 Thu 05:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-01 Thu 05:40]
+   CLOCK: [2017-06-01 Thu 05:11]--[2017-06-01 Thu 05:40] =>  0:29
+   :END:
+** DONE Review<2017-06-01 Thu 14:24>98.9%
+   CLOSED: [2017-06-01 Thu 14:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-01 Thu 14:46]
+   CLOCK: [2017-06-01 Thu 14:24]--[2017-06-01 Thu 14:46] =>  0:22
+   :END:
 ** Lesson 44
 a bandage vitamins a syringe aspirin a thermometer medicine
 
@@ -25028,6 +25040,12 @@ Why do the man's eyes hurt? He works a lot on the computer.
   - State "DONE"       from "STARTED"    [2016-08-10 三 03:30]
   CLOCK: [2016-08-10 三 02:01]--[2016-08-10 三 03:30] =>  1:29
   :END:
+** DONE Review<2017-06-01 Thu 19:07>98.3%
+   CLOSED: [2017-06-01 Thu 19:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-01 Thu 19:25]
+   CLOCK: [2017-06-01 Thu 19:07]--[2017-06-01 Thu 19:25] =>  0:18
+   :END:
 ** DONE Review 95.4%
    CLOSED: [2016-08-22 一 05:43]
    :LOGBOOK:
@@ -25222,6 +25240,12 @@ Why do the man's eyes hurt? He works a lot on the computer.
    CLOCK: [2017-05-23 Tue 05:27]--[2017-05-23 Tue 05:55] =>  0:28
    - State "DONE"       from "STARTED"    [2017-05-22 Mon 07:37]
    CLOCK: [2017-05-22 Mon 05:40]--[2017-05-22 Mon 07:37] =>  1:57
+   :END:
+** DONE Review98%
+   CLOSED: [2017-06-01 Thu 05:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-01 Thu 05:09]
+   CLOCK: [2017-06-01 Thu 04:35]--[2017-06-01 Thu 05:09] =>  0:34
    :END:
 ** Lesson 45
 a child a teenager an elderly man an eldery woman an adult an elderly people

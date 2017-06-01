@@ -7608,6 +7608,12 @@ read two books about a hundred pages
     - State "DONE"       from "STARTED"    [2017-05-31 Wed 18:34]
     CLOCK: [2017-05-31 Wed 17:08]--[2017-05-31 Wed 18:34] =>  1:26
     :END:
+*** DONE 创建教学检查<2017-06-01 Thu 08:30>                           :check:
+    CLOSED: [2017-06-01 Thu 11:12]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-01 Thu 11:12]
+    CLOCK: [2017-06-01 Thu 08:29]--[2017-06-01 Thu 11:12] =>  2:43
+    :END:
 ** meeting
 *** DONE <2017-05-24 Wed 08:00>
     CLOSED: [2017-05-24 Wed 09:48]
@@ -7646,6 +7652,12 @@ read two books about a hundred pages
     - State "DONE"       from "STARTED"    [2017-05-25 Thu 08:28]
     CLOCK: [2017-05-25 Thu 07:52]--[2017-05-25 Thu 08:28] =>  0:36
     :END:
+*** DONE <2017-06-01 Thu 08:02>                                       :clean:
+    CLOSED: [2017-06-01 Thu 08:28]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-01 Thu 08:28]
+    CLOCK: [2017-06-01 Thu 08:02]--[2017-06-01 Thu 08:28] =>  0:26
+    :END:
 ** DONE meet business<2017-05-25 Thu 14:56>
    CLOSED: [2017-05-25 Thu 15:35]
    :LOGBOOK:
@@ -7675,6 +7687,28 @@ read two books about a hundred pages
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2017-05-31 Wed 10:15]
     CLOCK: [2017-05-31 Wed 07:39]--[2017-05-31 Wed 10:15] =>  2:36
+    :END:
+*** DONE <2017-06-01 Thu 05:41>                                     :reading:
+    CLOSED: [2017-06-01 Thu 07:25]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-01 Thu 07:25]
+    CLOCK: [2017-06-01 Thu 05:41]--[2017-06-01 Thu 07:25] =>  1:44
+    :END:
+*** DONE <2017-06-01 Thu 11:13>                                     :reading:
+    CLOSED: [2017-06-01 Thu 14:23]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-01 Thu 14:23]
+    CLOCK: [2017-06-01 Thu 11:13]--[2017-06-01 Thu 14:23] =>  3:10
+    :END:
+*** DONE <2017-06-01 Thu 14:47>                                     :reading:
+    CLOSED: [2017-06-01 Thu 16:12]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-01 Thu 16:12]
+    CLOCK: [2017-06-01 Thu 14:47]--[2017-06-01 Thu 16:12] =>  1:25
+    :END:
+*** STARTED <2017-06-01 Thu 19:27>                                  :reading:
+    :LOGBOOK:
+    CLOCK: [2017-06-01 Thu 19:26]
     :END:
 ** DONE relaxing<2017-05-26 Fri 09:43>
    CLOSED: [2017-05-26 Fri 10:31]
