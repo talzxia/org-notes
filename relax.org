@@ -1414,7 +1414,9 @@ bring water from the mountains.
    - State "DONE"       from "STARTED"    [2017-05-31 Wed 10:43]
    CLOCK: [2017-05-31 Wed 10:15]--[2017-05-31 Wed 10:43] =>  0:28
    :END:
-** STARTED <2017-06-01 Thu 16:12>
+** DONE <2017-06-01 Thu 16:12>
+   CLOSED: [2017-06-01 Thu 16:44]
    :LOGBOOK:
-   CLOCK: [2017-06-01 Thu 16:14]
+   - State "DONE"       from "STARTED"    [2017-06-01 Thu 16:44]
+   CLOCK: [2017-06-01 Thu 16:14]--[2017-06-01 Thu 16:44] =>  0:30
    :END:
