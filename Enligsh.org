@@ -21221,6 +21221,12 @@ The man is cleaning up the table.
    - State "DONE"       from "STARTED"    [2017-06-03 Sat 08:20]
    CLOCK: [2017-06-03 Sat 07:42]--[2017-06-03 Sat 08:20] =>  0:38
    :END:
+** DONE Review<2017-06-04 Sun 05:05>98.2%
+   CLOSED: [2017-06-04 Sun 05:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-04 Sun 05:29]
+   CLOCK: [2017-06-04 Sun 05:05]--[2017-06-04 Sun 05:29] =>  0:24
+   :END:
 ** Lesson 41
 a pen
 a pencil
@@ -21981,6 +21987,12 @@ Arrange student internship
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-03 Sat 05:07]
    CLOCK: [2017-06-03 Sat 04:24]--[2017-06-03 Sat 05:07] =>  0:43
+   :END:
+** DONE Review<2017-06-04 Sun 05:29>98.1%
+   CLOSED: [2017-06-04 Sun 05:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-04 Sun 05:54]
+   CLOCK: [2017-06-04 Sun 05:29]--[2017-06-04 Sun 05:54] =>  0:25
    :END:
 ** Lesson 42
 a calendar
@@ -23872,6 +23884,12 @@ In order to open an account, you need to go to the bank.
    - State "DONE"       from "STARTED"    [2017-06-02 Fri 06:16]
    CLOCK: [2017-06-02 Fri 05:25]--[2017-06-02 Fri 06:16] =>  0:51
    :END:
+** DONE Review<2017-06-04 Sun 08:54>98.2%
+   CLOSED: [2017-06-04 Sun 09:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-04 Sun 09:20]
+   CLOCK: [2017-06-04 Sun 08:54]--[2017-06-04 Sun 09:20] =>  0:26
+   :END:
 ** Lesson 43
 a post offcie a mailbox a postman an ATM a credit card a post office a bank
 
@@ -25001,6 +25019,12 @@ The woman has a stomachache.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-01 Thu 14:46]
    CLOCK: [2017-06-01 Thu 14:24]--[2017-06-01 Thu 14:46] =>  0:22
+   :END:
+** DONE Review<2017-06-04 Sun 19:37>97.3%
+   CLOSED: [2017-06-04 Sun 20:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-04 Sun 20:27]
+   CLOCK: [2017-06-04 Sun 19:37]--[2017-06-04 Sun 20:27] =>  0:50
    :END:
 ** Lesson 44
 a bandage vitamins a syringe aspirin a thermometer medicine

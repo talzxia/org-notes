@@ -1042,7 +1042,20 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-03 Sat 06:59]
     CLOCK: [2017-06-03 Sat 06:24]--[2017-06-03 Sat 06:59] =>  0:35
     :END:
+
+*** DONE <2017-06-04 Sun 06:44>                                   :breakfast:
+    CLOSED: [2017-06-04 Sun 08:26]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-04 Sun 08:26]
+    CLOCK: [2017-06-04 Sun 06:44]--[2017-06-04 Sun 08:26] =>  1:42
+    :END:
 ** lunch
+*** DONE <2017-06-04 Sun 12:13>                                       :lunch:
+    CLOSED: [2017-06-04 Sun 14:25]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-04 Sun 14:25]
+    CLOCK: [2017-06-04 Sun 12:13]--[2017-06-04 Sun 14:25] =>  2:12
+    :END:
 ** to have dinner
 *** DONE <2017-06-01 Thu 16:45>                                      :dinner:
     CLOSED: [2017-06-01 Thu 19:06]
