@@ -221,9 +221,13 @@ http://vimdoc.sourceforge.net/vimfaq.html          : vim faq
 ----------------------------------------
 # 基础
 ----------------------------------------
-*** TODO # g* g#           : 寻找光标处的狭义单词(<cword>) (前向/后向)
+*** DONE # g* g#           : 寻找光标处的狭义单词(<cword>) (前向/后向)
+    CLOSED: [2017-06-05 Mon 17:19]
     :PROPERTIES:
     :ID:       62F9830B-AFAC-4298-8359-23772D423F0C
+    :END:
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-05 Mon 17:19]
     :END:
   %                   : 括号配对寻找 {}[]()
   matchit.vim         : 使得 % 能够配对标记 <tr><td><script> <?php 等等
@@ -6042,11 +6046,13 @@ and to have dinner
    - State "DONE"       from "STARTED"    [2017-03-31 五 11:26]
    CLOCK: [2017-03-31 五 10:55]--[2017-03-31 五 11:26] =>  0:31
    :END:
-** STARTED arrive office and begin to work<2017-03-31 五 14:31>
+** DONE arrive office and begin to work<2017-03-31 五 14:31>
+   CLOSED: [2017-06-05 Mon 17:16]
    :PROPERTIES:
    :ID:       D01010A3-DC79-4DF6-888C-5E06068B07F2
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-05 Mon 17:16]
    CLOCK: [2017-03-31 五 14:31]--[2017-03-31 五 14:35] =>  0:04
    :END:
 ** DONE put in order<2017-03-31 五 15:21>
@@ -7646,6 +7652,12 @@ read two books about a hundred pages
     - State "DONE"       from "STARTED"    [2017-05-25 Thu 08:28]
     CLOCK: [2017-05-25 Thu 07:52]--[2017-05-25 Thu 08:28] =>  0:36
     :END:
+*** DONE <2017-06-05 Mon 08:22>                                       :clean:
+    CLOSED: [2017-06-05 Mon 09:35]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-05 Mon 09:35]
+    CLOCK: [2017-06-05 Mon 08:22]--[2017-06-05 Mon 09:35] =>  1:13
+    :END:
 ** DONE meet business<2017-05-25 Thu 14:56>
    CLOSED: [2017-05-25 Thu 15:35]
    :LOGBOOK:
@@ -7757,11 +7769,25 @@ read two books about a hundred pages
     CLOCK: [2017-06-04 Sun 11:13]--[2017-06-04 Sun 11:54] =>  0:41
     :END:
 *** DONE <2017-06-04 Sun 20:28>                                    :training:
-    CLOSED: [2017-06-04 Sun 20:55]
+    CLOSED: [2017-06-05 Mon 20:00] DEADLINE: <2017-06-05 Mon 19:50>
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-05 Mon 20:00]
+    - State "STARTED"    from "DONE"       [2017-06-05 Mon 19:58]
+    CLOCK: [2017-06-05 Mon 19:58]--[2017-06-05 Mon 20:00] =>  0:02
     - State "DONE"       from "STARTED"    [2017-06-04 Sun 20:55]
     CLOCK: [2017-06-04 Sun 20:28]--[2017-06-04 Sun 20:55] =>  0:27
     :END:
+*** TODO Trainging                                                 :training:
+    DEADLINE: <2017-06-07 Wed 20:00 +1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-06-05 Mon 20:27]
+    :END:
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-05 Mon 20:27]
+    - State "DONE"       from "STARTED"    [2017-06-05 Mon 20:27]
+    CLOCK: [2017-06-05 Mon 20:22]--[2017-06-05 Mon 20:27] =>  0:05
+    :END:
+
 ** Manager moddle
 *** DONE 创建教学检查<2017-06-01 Thu 08:30>                           :check:
     CLOSED: [2017-06-01 Thu 11:12]
@@ -7774,6 +7800,12 @@ read two books about a hundred pages
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2017-06-02 Fri 07:05]
     CLOCK: [2017-06-02 Fri 06:17]--[2017-06-02 Fri 07:05] =>  0:48
+    :END:
+*** DONE <2017-06-05 Mon 09:00>                                      :moddle:
+    CLOSED: [2017-06-05 Mon 10:34]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-05 Mon 10:34]
+    CLOCK: [2017-06-05 Mon 09:35]--[2017-06-05 Mon 10:34] =>  0:59
     :END:
 ** Reading
 *** DONE <2017-06-01 Thu 05:41>                                     :reading:
@@ -7839,6 +7871,27 @@ read two books about a hundred pages
     - State "DONE"       from "STARTED"    [2017-06-04 Sun 21:29]
     CLOCK: [2017-06-04 Sun 20:55]--[2017-06-04 Sun 21:29] =>  0:34
     :END:
+*** DONE <2017-06-05 Mon 06:39>                                     :reading:
+    CLOSED: [2017-06-05 Mon 08:22]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-05 Mon 08:22]
+    CLOCK: [2017-06-05 Mon 06:39]--[2017-06-05 Mon 08:22] =>  1:43
+    :END:
+***<2017-06-05 Mon 11:11> STARTED
+    :LOGBOOK:
+    CLOCK: [2017-06-05 Mon 11:11]--[2017-06-05 Mon 11:12] =>  0:01
+    :END:
+*** DONE <2017-06-05 Mon 11:12>                                     :reading:
+    CLOSED: [2017-06-05 Mon 11:43]
+    :PROPERTIES:
+    :ARCHIVE:
+    :END:
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-05 Mon 11:43]
+    - State "STARTED"    from "DONE"       [2017-06-05 Mon 11:21]
+    CLOCK: [2017-06-05 Mon 11:21]--[2017-06-05 Mon 11:43] =>  0:22
+    - State "DONE"       from "STARTED"    [2017-06-05 Mon 11:21]
+    :END:
 ** check teaching
 ** browse and free learn
 *** DONE <2017-06-02 Fri 13:55>                                       :clean:
@@ -7865,3 +7918,17 @@ read two books about a hundred pages
     - State "DONE"       from "STARTED"    [2017-06-04 Sun 12:13]
     CLOCK: [2017-06-04 Sun 11:55]--[2017-06-04 Sun 12:13] =>  0:18
     :END:
+*** DONE <2017-06-05 Mon 15:36>                                    :watching:
+    CLOSED: [2017-06-05 Mon 16:21]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-05 Mon 16:21]
+    CLOCK: [2017-06-05 Mon 15:38]--[2017-06-05 Mon 17:21] =>  1:43
+    :END:
+** TODO [#B] work
+   DEADLINE: <2017-06-06 Tue 17:30 +1d> SCHEDULED: <2017-06-06 Tue 13:50 +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-06-05 Mon 19:35]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:35]
+   :END:

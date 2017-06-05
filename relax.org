@@ -684,11 +684,13 @@ practice two lessons 1,2 99.5%,98.8%
    - State "DONE"       from "STARTED"    [2017-03-27 Mon 05:30]
    CLOCK: [2017-03-27 Mon 05:18]--[2017-03-27 Mon 05:30] =>  0:12
    :END:
-** STARTED Relax<2017-03-27 一 19:45>
+** DONE Relax<2017-03-27 一 19:45>
+   CLOSED: [2017-06-05 Mon 15:58]
    :PROPERTIES:
    :ID:       680909C9-4FFF-4EE5-A87A-CDBC6F9B5AB6
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:58]
    CLOCK: [2017-03-27 一 19:45]--[2017-03-27 一 20:28] =>  0:43
    :END:
 ** DONE relax<2017-03-28 二 05:07>

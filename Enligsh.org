@@ -1692,11 +1692,13 @@ Hot green tea? No, cold red juice.
   - State "DONE"       from "STARTED"    [2016-10-21 Fri 06:52]
   CLOCK: [2016-10-21 Fri 06:37]--[2016-10-21 Fri 06:52] =>  0:15
   :END:
-** TODO Review<2016-10-21 Fri 07:53>98.8%
+** DONE Review<2016-10-21 Fri 07:53>98.8%
+   CLOSED: [2017-06-05 Mon 15:53]
    :PROPERTIES:
    :ID:       294EED8E-CA9A-47D6-B94A-19E9CD447A80
    :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:53]
   - State "STARTED"    from "DONE"       [2016-10-21 Fri 08:12]
   - State "DONE"       from "WAITING"    [2016-10-21 Fri 08:11]
   - State "DONE"       from "STARTED"    [2016-10-21 Fri 08:07]
@@ -3755,11 +3757,13 @@ Who is waiting at the window? The dog is waiting at the window.
    - State "DONE"       from "STARTED"    [2016-10-19 三 20:51]
    CLOCK: [2016-10-19 三 20:31]--[2016-10-19 三 20:51] =>  0:20
    :END:
-** STARTED Review<2016-12-11 Sun 06:02>98.1%
+** DONE Review<2016-12-11 Sun 06:02>98.1%
+   CLOSED: [2017-06-05 Mon 15:53]
    :PROPERTIES:
    :ID:       C04F227C-0811-4957-B437-88A2B41B6CC8
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:53]
    - State "STARTED"    from "DONE"       [2016-12-11 Sun 08:00]
    - State "DONE"       from "WAITING"    [2016-12-11 Sun 08:00]
    - State "WAITING"    from "DONE"       [2016-12-11 Sun 08:00]
@@ -16151,11 +16155,13 @@ What is the chef doing ? He's frying a whole chicken.
     CLOCK: [2016-09-14 三 05:25]--[2016-09-14 三 05:59] =>  0:34
 
 :END:
-** STARTED Review <2016-09-14 三 14:08>
+** DONE Review <2016-09-14 三 14:08>
+   CLOSED: [2017-06-05 Mon 15:54]
    :PROPERTIES:
    :ID:       E1F456F5-62E0-4EA2-8359-0393B660BDB6
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:54]
    CLOCK: [2016-09-14 三 14:08]--[2016-09-14 三 15:21] =>  1:13
    - State "STARTED"    from "DONE"       [2016-09-14 三 14:08]
    - State "DONE"       from "STARTED"    [2016-09-14 三 14:07]
@@ -21227,6 +21233,12 @@ The man is cleaning up the table.
    - State "DONE"       from "STARTED"    [2017-06-04 Sun 05:29]
    CLOCK: [2017-06-04 Sun 05:05]--[2017-06-04 Sun 05:29] =>  0:24
    :END:
+** DONE Review<2017-06-05 Mon 10:36>98.2%
+   CLOSED: [2017-06-05 Mon 11:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-05 Mon 11:01]
+   CLOCK: [2017-06-05 Mon 10:36]--[2017-06-05 Mon 11:01] =>  0:25
+   :END:
 ** Lesson 41
 a pen
 a pencil
@@ -21993,6 +22005,12 @@ Arrange student internship
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-04 Sun 05:54]
    CLOCK: [2017-06-04 Sun 05:29]--[2017-06-04 Sun 05:54] =>  0:25
+   :END:
+** DONE Review<2017-06-05 Mon 15:10>90%
+   CLOSED: [2017-06-05 Mon 15:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:37]
+   CLOCK: [2017-06-05 Mon 15:13]--[2017-06-05 Mon 15:37] =>  0:24
    :END:
 ** Lesson 42
 a calendar
@@ -25025,6 +25043,12 @@ The woman has a stomachache.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-04 Sun 20:27]
    CLOCK: [2017-06-04 Sun 19:37]--[2017-06-04 Sun 20:27] =>  0:50
+   :END:
+** DONE Review<2017-06-05 Mon 05:11>98.9%
+   CLOSED: [2017-06-05 Mon 05:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-05 Mon 05:34]
+   CLOCK: [2017-06-05 Mon 05:11]--[2017-06-05 Mon 05:34] =>  0:23
    :END:
 ** Lesson 44
 a bandage vitamins a syringe aspirin a thermometer medicine
@@ -32072,10 +32096,6 @@ Where are the women talking? They're talking on a bench in the park.
  n. 脖子；衣6领；海峡
  vi. 搂著脖子亲吻；变狭窄
  vt. teen thousand jobs could be lost.
-** TODO [#B]
-   :PROPERTIES:
-   :ID:       6E6FD271-912D-4242-9CAC-F5E84A012778
-   :END:
 美国邮政局已证实可能会丧失多达15000个就业岗位。
 
 **** a package

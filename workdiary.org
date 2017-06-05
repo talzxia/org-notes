@@ -1949,9 +1949,13 @@ org 模式使用半小时
 ***** DONE 建设总结
 ***** DONE 各专业人才培养方案
 ***
-** TODO 教学检查
+** DONE 教学检查
+CLOSED: [2017-06-05 Mon 17:19]
 :PROPERTIES:
 :ID:       22D37D68-0FE2-45AC-A155-3CDF727425C8
+:END:
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-06-05 Mon 17:19]
 :END:
 读书累了，进行教学检查。9:00
 
@@ -4299,9 +4303,13 @@ The husband and wife are hungry.
 - State "DONE"       from "SOMEDAY"    [2016-06-22 Wed 04:25] \\
   学习三小节，完成。96.7%。
 - State "TODO"       from ""           [2016-06-22 Wed 04:08]
-**** TODO Learn seventeen                                        :@Office:
+**** DONE Learn seventeen                                        :@Office:
+CLOSED: [2017-06-05 Mon 17:19]
 :PROPERTIES:
 :ID:       4D54BECE-E305-42E3-8BC4-E35FAA4C9E74
+:END:
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-06-05 Mon 17:19]
 :END:
 - State "TODO"       from "DONE"       [2016-06-22 Wed 08:32]
 - State "DONE"       from "SOMEDAY"    [2016-06-22 Wed 06:07] \\
@@ -4419,9 +4427,13 @@ DEADLINE: <2016-06-22 Wed 09:30>
 **** DONE browse learning                                        :@Office:
 - State "DONE"       from "SOMEDAY"    [2016-06-27 Mon 05:25]
 - State "TODO"       from ""           [2016-06-27 Mon 04:17]
-**** TODO learn emacs                                            :@Office:
+**** DONE learn emacs                                            :@Office:
+CLOSED: [2017-06-05 Mon 16:03]
 :PROPERTIES:
 :ID:       E0DCEDD0-C9B8-44D7-98BE-481D08E56E78
+:END:
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-06-05 Mon 16:03]
 :END:
 - State "TODO"       from ""           [2016-06-27 Mon 05:26]
 
@@ -4864,7 +4876,8 @@ CLOSED: [2016-07-05 Tue 16:26]
 - State "SOMEDAY"    from "WAITING"    [2016-07-05 Tue 16:26]
 - State "DONE"       from "STARTED"    [2016-07-05 Tue 16:25]
 :END
-******* STARTED STARTED lesson nineteen95.4%
+******* DONE STARTED lesson nineteen95.4%
+CLOSED: [2017-06-05 Mon 16:03]
 :PROPERTIES:
 :ID:       97A83F48-3009-4A57-BA8E-785A2C66D5F4
 :END:
@@ -4872,6 +4885,7 @@ CLOSED: [2016-07-05 Tue 16:26]
   kdkdkkd
 - State "TODO"       from ""           [2016-07-05 Tue 21:38]
 :LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-06-05 Mon 16:03]
 CLOCK: [2016-07-06 三 07:41]--[2016-07-06 三 08:06] =>  0:25
 - State "STARTED"    from "DONE"       [2016-07-06 三 07:41]
 CLOCK: [2016-07-05 Tue 16:28]--[2016-07-05 Tue 16:58] =>  0:30
@@ -5430,13 +5444,7 @@ CLOSED: [2016-07-26 Tue 18:53]
 - State "DONE"       from "STARTED"    [2016-07-26 Tue 18:53]
 :END:
 - State "DONE"       from "TODO"       [2016-07-17 Sun 20:29]
-*** TODO review and think<2016-07-16 Sat>--<2016-07-17 Sun +1d>  
-:PROPERTIES:
-:LAST_REPEAT: [2016-07-15 Fri 20:44]
-:ID:       00C81209-FECA-4FBC-8110-D7DEEC855230
-:END:
-- State "DONE"       from "TODO"       [2016-07-15 Fri 20:44]
-*** review and think 
+*** review and think
 ** <2016-07-16 Sat 04:42>到达办公室开始学习工作
 *** DONE learn English and write
 CLOSED: [2016-07-16 Sat 06:04]

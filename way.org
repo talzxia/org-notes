@@ -11,9 +11,13 @@
    - State "DONE"       from "STARTED"    [2016-09-24 Sat 13:17]
    CLOCK: [2016-09-24 Sat 10:18]--[2016-09-24 Sat 13:17] =>  2:59
    :END:
-** STARTED 汽车保养
+** DONE 汽车保养
+   CLOSED: [2017-06-05 Mon 15:58]
    :PROPERTIES:
    :ID:       2059D9A3-D8EE-463C-9D3C-92A9127F4DA2
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:58]
    :END:
 * March-2017
 ** DONE <2017-03-09 四 14:18>

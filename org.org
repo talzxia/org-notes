@@ -24,7 +24,11 @@ This manual is for Org version 9.0.5 (release_9.0.5).
 * Document structure::          A tree works like your brain
 * Tables::                      Pure magic for quick formatting
 * Hyperlinks::                  Notes in context
-* TODO items::                  Every tree branch can be a TODO item
+* DONE items::                  Every tree branch can be a TODO item
+  CLOSED: [2017-06-05 Mon 17:20]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-06-05 Mon 17:20]
+  :END:
 * Tags::                        Tagging headlines and matching sets of tags
 * Properties and columns::      Storing information about an entry
 * Dates and times::             Making items useful for planning
@@ -114,10 +118,19 @@ Internal links
 
 TODO items
 
-* TODO basics::                 Marking and displaying TODO entries
-* TODO extensions::             Workflow and assignments
+* DONE basics::                 Marking and displaying TODO entries
+  CLOSED: [2017-06-05 Mon 17:20]
+  :LOGBOOK:
+  - State "DONE"       from "WAITING"    [2017-06-05 Mon 17:20]
+  - State "DONE"       from "STARTED"    [2017-06-05 Mon 17:20]
+  :END:
+* DONE extensions::             Workflow and assignments
+  CLOSED: [2017-06-05 Mon 17:19]
   :PROPERTIES:
   :ARCHIVE:  B
+  :END:
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-06-05 Mon 17:19]
   :END:
 * Progress logging::            Dates and notes for progress
 * Priorities::                  Some things are more important than others
@@ -127,12 +140,20 @@ TODO items
 Extended use of TODO keywords
 
 * Workflow states::             From TODO to DONE in steps
-* TODO types::                  I do this, Fred does the rest
+* DONE types::                  I do this, Fred does the rest
+  CLOSED: [2017-06-05 Mon 17:19]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-06-05 Mon 17:19]
+  :END:
 * Multiple sets in one file::   Mixing it all, and still finding your way
 * Fast access to TODO states::  Single letter selection of a state
 * Per-file keywords::           Different files, different requirements
 * Faces for TODO keywords::     Highlighting states
-* TODO dependencies::           When one task needs to wait for others
+* DONE dependencies::           When one task needs to wait for others
+  CLOSED: [2017-06-05 Mon 15:59]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:59]
+  :END:
 
 Progress logging
 

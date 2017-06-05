@@ -2,1503 +2,1986 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org02e4241">1. <span class="done DONE">DONE</span> Lesson one&#xa0;&#xa0;&#xa0;<span class="tag"><span class="one">one</span></span></a>
-<ul>
-<li><a href="#orgdb80def">1.1. learn history</a>
-<ul>
-<li><a href="#orgafdcf55">1.1.1. text</a></li>
-<li><a href="#orga4eca75">1.1.2. <span class="done DONE">DONE</span> Review 98.4%</a></li>
-<li><a href="#orgcfb831f">1.1.3. 复习98.7%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="one">one</span></span></a></li>
-<li><a href="#org7ab51f8">1.1.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 06:41&gt; </span></span> 99.4%</a></li>
-<li><a href="#org95c3c01">1.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 20:33&gt; </span></span> 99.7%</a></li>
-<li><a href="#orgbf346ae">1.1.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 15:08&gt;</span></span>99.9%</a></li>
-<li><a href="#org16b3142">1.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 07:08&gt;</span></span>99.9%</a></li>
-<li><a href="#org4a47da5">1.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 09:06&gt;</span></span>100%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="LOGBOOK">LOGBOOK</span></span></a></li>
-<li><a href="#org4ae9d68">1.1.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 06:30&gt;</span></span>99.4%</a></li>
-<li><a href="#org576d6cd">1.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 06:33&gt;</span></span>99.3%</a></li>
-</ul>
-</li>
-<li><a href="#orgceebafa">1.2. Lesson 1</a></li>
-</ul>
-</li>
-<li><a href="#orga3abc33">2. <span class="done DONE">DONE</span> Lesson two</a>
-<ul>
-<li><a href="#org1c45111">2.1. learn history</a>
-<ul>
-<li><a href="#org58b64d4">2.1.1. <span class="done DONE">DONE</span> Review 99%</a></li>
-<li><a href="#orgb057c2d">2.1.2. <span class="done DONE">DONE</span> 复习98.9%</a></li>
-<li><a href="#org5ba7fc1">2.1.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 18:41&gt;</span></span>100%</a></li>
-<li><a href="#org23cef3b">2.1.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 06:29&gt;</span></span>99.8%</a></li>
-<li><a href="#org11e73aa">2.1.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 07:05&gt;</span></span>99.4%</a></li>
-</ul>
-</li>
-<li><a href="#org02d5d0a">2.2. Lesson 2</a></li>
-</ul>
-</li>
-<li><a href="#orgdb3f141">3. <span class="done DONE">DONE</span> Lesson three 97.4%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="three">three</span></span></a>
-<ul>
-<li><a href="#org48abc4e">3.1. learning history</a>
-<ul>
-<li><a href="#org9ec13b3">3.1.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 14:41&gt; </span></span> 98.5%</a></li>
-<li><a href="#org35ad1ce">3.1.2. <span class="done DONE">DONE</span> 复习98.3</a></li>
-<li><a href="#orgeaa9a37">3.1.3. <span class="done DONE">DONE</span> Review three 97.2%</a></li>
-<li><a href="#org1074018">3.1.4. text</a></li>
-<li><a href="#org588d66c">3.1.5. <span class="done DONE">DONE</span> Review 98%</a></li>
-<li><a href="#org09dc682">3.1.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 10:00&gt;</span></span>98.8%</a></li>
-<li><a href="#orgfa3485b">3.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 05:36&gt;</span></span>99.1%</a></li>
-<li><a href="#orge622485">3.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 05:51&gt;</span></span>99.5%</a></li>
-<li><a href="#orgfba1b0a">3.1.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 09:39&gt;</span></span>99.6%</a></li>
-<li><a href="#org08ce971">3.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 07:35&gt;</span></span>99.6%</a></li>
-<li><a href="#org24ff083">3.1.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 19:49&gt;</span></span>99.7%</a></li>
-<li><a href="#orga3991ef">3.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 13:55&gt;</span></span>99.3%</a></li>
-<li><a href="#org8eb5a47">3.1.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 14:15&gt;</span></span>99.6%</a></li>
-<li><a href="#org699607f">3.1.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 14:31&gt;</span></span>99.9%</a></li>
-<li><a href="#org7947cc8">3.1.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 19:19&gt;</span></span>99.9%</a></li>
-<li><a href="#org69bfaf2">3.1.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 19:37&gt;</span></span>99.9%</a></li>
-<li><a href="#org3ff499a">3.1.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 10:36&gt;</span></span>100%</a></li>
-<li><a href="#orgf48248b">3.1.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 09:08&gt;</span></span>99.6%</a></li>
-</ul>
-</li>
-<li><a href="#org3b154d2">3.2. Lesson 3</a></li>
-</ul>
-</li>
-<li><a href="#orgd5bc38c">4. <span class="done DONE">DONE</span> Lesson four 98%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="four">four</span></span></a>
-<ul>
-<li><a href="#orgf7b6c78">4.1. Learning history</a>
-<ul>
-<li><a href="#orgad38768">4.1.1. <span class="done DONE">DONE</span> 复习98.3%</a></li>
-<li><a href="#org2a40a10">4.1.2. <span class="done DONE">DONE</span> Review 98.7%</a></li>
-<li><a href="#org8fecba3">4.1.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 16:12&gt; </span></span> 96.1%</a></li>
-<li><a href="#orgb9652b6">4.1.4. <span class="done DONE">DONE</span> Review four 98.3%</a></li>
-<li><a href="#org2a67adc">4.1.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 10:18&gt;</span></span>99.3%</a></li>
-<li><a href="#orgc9ba1fa">4.1.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 09:27&gt;</span></span>99.3%</a></li>
-<li><a href="#orge18c23a">4.1.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 10:50&gt;</span></span>99.6%</a></li>
-<li><a href="#org3ebf9e8">4.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 06:12&gt;</span></span>99.9%</a></li>
-<li><a href="#orgdd04e6a">4.1.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;1970-10-19 Mon&gt;</span></span>99.8%</a></li>
-<li><a href="#org72ca5f7">4.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 20:08&gt;</span></span>100%</a></li>
-<li><a href="#org52f6c69">4.1.11. text</a></li>
-<li><a href="#org3bcd85c">4.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 09:57&gt;</span></span>99.7%</a></li>
-</ul>
-</li>
-<li><a href="#org89ea5c1">4.2. Lesson 4</a></li>
-</ul>
-</li>
-<li><a href="#org33fcc5e">5. <span class="done DONE">DONE</span> Lesson five 97.2%</a>
-<ul>
-<li><a href="#org1c87b67">5.1. learning history</a>
-<ul>
-<li><a href="#org7f7dd3f">5.1.1. <span class="done DONE">DONE</span> Review 95.8%&#x2013;&gt;97.6%</a></li>
-<li><a href="#orgb8195f4">5.1.2. <span class="done DONE">DONE</span> Review 96.7%</a></li>
-<li><a href="#orgda95ad2">5.1.3. <span class="done DONE">DONE</span> learn97.7%</a></li>
-<li><a href="#orgd705413">5.1.4. <span class="done DONE">DONE</span> Review 97.8%</a></li>
-<li><a href="#org93ab0e0">5.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 16:12&gt; </span></span> 98%</a></li>
-<li><a href="#org8ca0e11">5.1.6. <span class="done DONE">DONE</span> Review five 97.2%</a></li>
-<li><a href="#org27c72be">5.1.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 14:13&gt; </span></span> 97.9%</a></li>
-<li><a href="#orga413d52">5.1.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 11:08&gt;</span></span>98.9%</a></li>
-<li><a href="#org6043690">5.1.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 11:36&gt;</span></span>99.2%</a></li>
-<li><a href="#org83d0443">5.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 15:19&gt;</span></span>99.4%</a></li>
-<li><a href="#org00e1d8c">5.1.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 20:05&gt;</span></span>99.7%</a></li>
-<li><a href="#orga56378e">5.1.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 20:23&gt;</span></span>99.5%</a></li>
-<li><a href="#org166b11a">5.1.13. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-04 Tue 10:56&gt;</span></span>99.3%</a></li>
-<li><a href="#orgfca4ee1">5.1.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 04:18&gt;</span></span>99.6%</a></li>
-<li><a href="#org58fa441">5.1.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 04:38&gt;</span></span>99.8%</a></li>
-<li><a href="#orgd1fddba">5.1.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 05:03&gt;</span></span>99.5%</a></li>
-<li><a href="#org9a83087">5.1.17. text</a></li>
-<li><a href="#orgbb14003">5.1.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 11:47&gt;</span></span>99.7%</a></li>
-<li><a href="#orgb88e5f1">5.1.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 16:03&gt;</span></span>99.1%</a></li>
-<li><a href="#org55c76b5">5.1.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 09:36&gt;</span></span>99.6%</a></li>
-<li><a href="#orga3b62ed">5.1.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 19:29&gt;</span></span>99.8%</a></li>
-<li><a href="#org6b3ec44">5.1.22. <span class="todo STARTED">STARTED</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-10 Thu 11:32&gt;</span></span></a></li>
-<li><a href="#orgce1048d">5.1.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 11:59&gt;</span></span>99.3%</a></li>
-</ul>
-</li>
-<li><a href="#orgb83e495">5.2. Lesson 5</a></li>
-</ul>
-</li>
-<li><a href="#orgdb6586f">6. <span class="done DONE">DONE</span> Lesson six 99.1% good</a>
-<ul>
-<li><a href="#org053df0f">6.1. learn history</a>
-<ul>
-<li><a href="#org548934e">6.1.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 16:34&gt; </span></span> 98%</a></li>
-<li><a href="#orge103898">6.1.2. <span class="done DONE">DONE</span> Review six 97.3%</a></li>
-<li><a href="#org54df323">6.1.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 06:48&gt;</span></span>98%</a></li>
-<li><a href="#org4151652">6.1.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 14:06&gt;</span></span>99.4%</a></li>
-<li><a href="#orgdcbd262">6.1.5. text</a></li>
-<li><a href="#orgf5960c8">6.1.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-29 Thu 05:35&gt;</span></span>99.6%</a></li>
-<li><a href="#orgcff3dd9">6.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 15:53&gt;</span></span>99.7%</a></li>
-<li><a href="#org3059f1c">6.1.8. <span class="done DONE">DONE</span> learn six 97.4%</a></li>
-<li><a href="#org94634f5">6.1.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 17:14&gt;</span></span>98%</a></li>
-<li><a href="#org4602497">6.1.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 15:34&gt;</span></span>99.4%</a></li>
-<li><a href="#orgb411cf9">6.1.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 20:05&gt;</span></span>99.6%</a></li>
-<li><a href="#org2ad625a">6.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 16:13&gt;</span></span>99.7%</a></li>
-<li><a href="#org78c00f2">6.1.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 15:26&gt;</span></span>99.6%</a></li>
-<li><a href="#org88b23f0">6.1.14. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 15:43&gt;</span></span>99.7%</a></li>
-<li><a href="#orgef99164">6.1.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 16:00&gt;</span></span>99.4%</a></li>
-<li><a href="#orgc91d7bc">6.1.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 05:50&gt;</span></span>99.9%</a></li>
-</ul>
-</li>
-<li><a href="#org19d0641">6.2. Lesson6</a></li>
-</ul>
-</li>
-<li><a href="#orgd810309">7. <span class="done DONE">DONE</span> Lesson seven 97.7%</a>
-<ul>
-<li><a href="#org829ab3b">7.1. history</a>
-<ul>
-<li><a href="#org9c79d17">7.1.1. <span class="done DONE">DONE</span> Review 99.1%</a></li>
-<li><a href="#org792bc14">7.1.2. <span class="done DONE">DONE</span> Review Seven 97.7%</a></li>
-<li><a href="#orgc79177c">7.1.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 19:20&gt; </span></span> 98%</a></li>
-<li><a href="#org66c1c85">7.1.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 10:03&gt;</span></span>99%</a></li>
-<li><a href="#orge59561d">7.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 04:49&gt;</span></span>99.3%</a></li>
-<li><a href="#org90a5ffb">7.1.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 21:01&gt;</span></span>99.7%</a></li>
-<li><a href="#org5a50e05">7.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun&gt;</span></span>99.6%</a></li>
-<li><a href="#org96a39aa">7.1.8. text</a></li>
-<li><a href="#org6bda6bd">7.1.9. <span class="done DONE">DONE</span> Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 18:41&gt;</span></span>99.8%</a></li>
-<li><a href="#orgae2f1bb">7.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 06:37&gt;</span></span>99%</a></li>
-<li><a href="#org1237ccf">7.1.11. <span class="todo TODO">TODO</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 07:53&gt;</span></span>98.8%</a></li>
-<li><a href="#org4c4a054">7.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 08:14&gt;</span></span>99%</a></li>
-<li><a href="#org25aa201">7.1.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:16&gt;</span></span>99.1%</a></li>
-<li><a href="#org016c336">7.1.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 19:50&gt;</span></span>99.5%</a></li>
-</ul>
-</li>
-<li><a href="#org549a171">7.2. Lesson 7</a></li>
-</ul>
-</li>
-<li><a href="#org3b4b03c">8. <span class="done DONE">DONE</span> lesson eight 97.9%</a>
-<ul>
-<li><a href="#org5d3f2b2">8.1. history</a>
-<ul>
-<li><a href="#org89e9c9b">8.1.1. <span class="done DONE">DONE</span> Review 98.4%</a></li>
-<li><a href="#orgd0c8262">8.1.2. <span class="done DONE">DONE</span> Review 99.1%</a></li>
-<li><a href="#org313a3de">8.1.3. <span class="done DONE">DONE</span> Review Eight 98.8% very good</a></li>
-<li><a href="#orgd77dfa1">8.1.4. <span class="done DONE">DONE</span> Review eight 96.8%</a></li>
-<li><a href="#orgc52719e">8.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 10:38&gt; </span></span> 98.2%</a></li>
-<li><a href="#orgde97ace">8.1.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 12:03&gt;</span></span>98.5%</a></li>
-<li><a href="#org61a1ff0">8.1.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 05:07&gt;</span></span>99.6%</a></li>
-<li><a href="#org7ae43f2">8.1.8. <span class="done DONE">DONE</span> Review 99.8%</a></li>
-<li><a href="#org9594446">8.1.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 20:56&gt;</span></span>99.7%</a></li>
-<li><a href="#org891c5e0">8.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 08:55&gt;</span></span>99.9%</a></li>
-<li><a href="#org3436dab">8.1.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:30&gt;</span></span>99.1%</a></li>
-<li><a href="#org2be45f8">8.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 07:33&gt;</span></span>98.7%</a></li>
-<li><a href="#orge881362">8.1.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 07:44&gt;</span></span></a></li>
-</ul>
-</li>
-<li><a href="#org6e48ef7">8.2. Lesson 8</a></li>
-</ul>
-</li>
-<li><a href="#org740b614">9. <span class="done DONE">DONE</span> Lesson nine 97.6%</a>
-<ul>
-<li><a href="#org46734f6">9.1. history</a>
-<ul>
-<li><a href="#org209a29c">9.1.1. <span class="done DONE">DONE</span> Review Nine 99.0% very good</a></li>
-<li><a href="#org82b9701">9.1.2. <span class="done DONE">DONE</span> Review nine 95.9%</a></li>
-<li><a href="#org746da46">9.1.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 11:43&gt; </span></span> 96.7%</a></li>
-<li><a href="#orgd2be0d8">9.1.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 19:08&gt;</span></span>98.4%</a></li>
-<li><a href="#org17204c5">9.1.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 08:17&gt;</span></span>99.3%</a></li>
-<li><a href="#orgd0bbeb2">9.1.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 19:24&gt;</span></span>99.5%</a></li>
-<li><a href="#org7b2b03e">9.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 19:53&gt;</span></span>99.6%</a></li>
-<li><a href="#orgb403ee8">9.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 14:17&gt;</span></span>99.9%</a></li>
-<li><a href="#orgf7727d5">9.1.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 04:41&gt;</span></span>99.9%</a></li>
-<li><a href="#orgd8389d5">9.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:51&gt;</span></span>98.8%</a></li>
-<li><a href="#orgfb9e42b">9.1.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 08:20&gt;</span></span>99%</a></li>
-</ul>
-</li>
-<li><a href="#org083697d">9.2. Lesson 9</a></li>
-</ul>
-</li>
-<li><a href="#org1c4bef2">10. <span class="done DONE">DONE</span> Lesson ten 97.9%</a>
-<ul>
-<li><a href="#orgc322f09">10.1. history</a>
-<ul>
-<li><a href="#org75d0885">10.1.1. <span class="done DONE">DONE</span> Review 96.3%</a></li>
-<li><a href="#orgcd2e875">10.1.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 15:15&gt; </span></span> 97.6%</a></li>
-<li><a href="#org364c8f5">10.1.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 20:09&gt;</span></span>98.1%</a></li>
-<li><a href="#org45df54b">10.1.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 08:46&gt;</span></span>99.3%</a></li>
-<li><a href="#org9321b96">10.1.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 19:43&gt;</span></span>99.6%</a></li>
-<li><a href="#org0442233">10.1.6. text</a></li>
-<li><a href="#org7df5b86">10.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 14:35&gt;</span></span>99.7%</a></li>
-<li><a href="#org6980e2c">10.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 07:01&gt;</span></span>99.7%</a></li>
-<li><a href="#org7215c69">10.1.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 07:23&gt;</span></span>99.3%</a></li>
-<li><a href="#org9e2cb5e">10.1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 10:23&gt;</span></span>99.7%</a></li>
-<li><a href="#org888ed14">10.1.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 17:25&gt;</span></span>99.6%</a></li>
-<li><a href="#orgd5c443d">10.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 08:07&gt;</span></span>98.7%</a></li>
-<li><a href="#org2507efd">10.1.13. <span class="done DONE">DONE</span> Lession 10<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 05:41&gt;</span></span>98.4%</a></li>
-<li><a href="#org172105b">10.1.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 13:24&gt;</span></span>97.1%</a></li>
-<li><a href="#org15f0264">10.1.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 10:30&gt;</span></span>99.3%</a></li>
-</ul>
-</li>
-<li><a href="#org3e73cee">10.2. Lesson 10</a></li>
-</ul>
-</li>
-<li><a href="#org5dcabf4">11. <span class="done DONE">DONE</span> Lesson eleven 98.8%</a>
-<ul>
-<li><a href="#orgc7b7126">11.1. history</a>
-<ul>
-<li><a href="#org5dccc5e">11.1.1. <span class="done DONE">DONE</span> Review 98%</a></li>
-<li><a href="#org9d13f42">11.1.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 16:05&gt;</span></span>98.5%</a></li>
-<li><a href="#org1a35c68">11.1.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 10:27&gt;</span></span>98%</a></li>
-<li><a href="#orgce7d356">11.1.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 17:20&gt;</span></span>99.5%</a></li>
-<li><a href="#org550389a">11.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 09:24&gt;</span></span>99.9%</a></li>
-<li><a href="#org188ab51">11.1.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 20:35&gt;</span></span>98.5%</a></li>
-<li><a href="#orgd52beb2">11.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 18:54&gt;</span></span>98.8%</a></li>
-<li><a href="#orga4f418f">11.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 16:14&gt;</span></span>99.4%</a></li>
-</ul>
-</li>
-<li><a href="#orgbf938b4">11.2. Lesson 11</a></li>
-</ul>
-</li>
-<li><a href="#org5f5c35a">12. <span class="done DONE">DONE</span> Lesson twelve 98.4%</a>
-<ul>
-<li><a href="#org85c9c24">12.1. history</a>
-<ul>
-<li><a href="#org8339440">12.1.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 18:45&gt;</span></span>97.9%</a></li>
-<li><a href="#org97b1613">12.1.2. <span class="done DONE">DONE</span> Review 97.7%</a></li>
-<li><a href="#org16491d6">12.1.3. <span class="done DONE">DONE</span> Review twelve 97.5%</a></li>
-<li><a href="#orgc208aaf">12.1.4. <span class="done DONE">DONE</span> Review eleven and twelve</a></li>
-<li><a href="#orgc8827b2">12.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 17:42&gt;</span></span>99%</a></li>
-<li><a href="#org6e28556">12.1.6. <span class="done DONE">DONE</span> Review eleven 98.6%</a></li>
-<li><a href="#orgc0d0af1">12.1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 11:46&gt;</span></span>99.8%</a></li>
-<li><a href="#org42ed629">12.1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 21:04&gt;</span></span>98.5%</a></li>
-<li><a href="#org55ad1fa">12.1.9. text</a></li>
-<li><a href="#orgec0a628">12.1.10. words</a></li>
-<li><a href="#org3ba891e">12.1.11. <span class="done CANCELLED">CANCELLED</span> text</a></li>
-<li><a href="#org69e495a">12.1.12. words</a></li>
-<li><a href="#orgc24e5d7">12.1.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-26 Mon 03:37&gt;</span></span>99.4%</a></li>
-<li><a href="#org3a0483e">12.1.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 20:02&gt;</span></span>99%</a></li>
-<li><a href="#org040c1c6">12.1.15. <span class="done DONE">DONE</span> writing</a></li>
-</ul>
-</li>
-<li><a href="#org9521db5">12.2. Lesson 12</a></li>
-</ul>
-</li>
-<li><a href="#orgaa51915">13. <span class="done DONE">DONE</span> Lesson thirteen</a>
-<ul>
-<li><a href="#org30aef94">13.1. history</a>
-<ul>
-<li><a href="#orgd80ec62">13.1.1. <span class="done DONE">DONE</span> Review 98.1%</a></li>
-<li><a href="#org9cdbe86">13.1.2. Lesson thirteen</a></li>
-<li><a href="#org1011cc5">13.1.3. <span class="done DONE">DONE</span> 复习lesson thirty 98.7%</a></li>
-<li><a href="#orga219804">13.1.4. <span class="done DONE">DONE</span> Review 97.6%</a></li>
-<li><a href="#org5bf9543">13.1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 20:09&gt; </span></span> 97.9%</a></li>
-<li><a href="#orgc7b512e">13.1.6. <span class="done DONE">DONE</span> Review thirteen 97.7%</a></li>
-<li><a href="#org184e7d8">13.1.7. <span class="done DONE">DONE</span> Revie:98.1%</a></li>
-<li><a href="#org540dde6">13.1.8. <span class="done DONE">DONE</span> Review thirteen 97.7%</a></li>
-<li><a href="#orga0ec0aa">13.1.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 20:50&gt; </span></span> 99.1%</a></li>
-<li><a href="#orga9d91d4">13.1.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 14:52&gt;</span></span>99.7%</a></li>
-<li><a href="#orgc013475">13.1.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 05:53&gt;</span></span>99.0%</a></li>
-<li><a href="#org8fe30d2">13.1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 05:25&gt;</span></span>98.7%</a></li>
-<li><a href="#orgce8a4ad">13.1.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-26 Mon 05:43&gt;</span></span>98.5%</a></li>
-<li><a href="#org7b71d7a">13.1.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 10:52&gt;</span></span>99.4%</a></li>
-</ul>
-</li>
-<li><a href="#org6e061db">13.2. Lesson13</a></li>
-</ul>
-</li>
-<li><a href="#orgfb37b73">14. <span class="done DONE">DONE</span> lesson fourteen 98.3</a>
-<ul>
-<li><a href="#org283034b">14.1. <span class="done DONE">DONE</span> Review fourteen 97.4%</a></li>
-<li><a href="#org4347980">14.2. <span class="done DONE">DONE</span> Review fourteen 96.8%</a></li>
-<li><a href="#org9fa57da">14.3. <span class="done DONE">DONE</span> Review fourteen 97.7%</a></li>
-<li><a href="#org735d8da">14.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 20:59&gt; </span></span> 98%</a></li>
-<li><a href="#org61a6698">14.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 05:20&gt;</span></span>97.5%</a></li>
-<li><a href="#org3b45991">14.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 20:36&gt;</span></span>98.8%</a></li>
-<li><a href="#org1e2e8fd">14.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 09:59&gt;</span></span>99.5%</a></li>
-<li><a href="#orgd7dcea5">14.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 09:56&gt;</span></span>99.5%</a></li>
-<li><a href="#orge8ef6bd">14.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 20:31&gt;</span></span>99.7%</a></li>
-<li><a href="#org7ab5e6d">14.10. <span class="todo STARTED">STARTED</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 06:02&gt;</span></span>98.1%</a></li>
-<li><a href="#orgc840c4b">14.11. text</a>
-<ul>
-<li><a href="#orgb6a7f44">14.11.1. words</a></li>
-</ul>
-</li>
-<li><a href="#org32db19e">14.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-27 Tue 10:36&gt;</span></span>99%</a></li>
-<li><a href="#org2520cfe">14.13. Lesson 14</a></li>
-</ul>
-</li>
-<li><a href="#orga313f66">15. <span class="done DONE">DONE</span> Lesson fifteen</a>
-<ul>
-<li><a href="#orgbefd6b1">15.1. <span class="done DONE">DONE</span> Review 97.3%</a></li>
-<li><a href="#org77c8a74">15.2. <span class="done DONE">DONE</span> Review fifteen 96.8%</a></li>
-<li><a href="#org16f5d75">15.3. <span class="done DONE">DONE</span> Review fifteen 96.5%</a></li>
-<li><a href="#orgb6176e8">15.4. <span class="done DONE">DONE</span> Review fifteen 98.1%</a></li>
-<li><a href="#org090bfc9">15.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 02:55&gt;</span></span>99.8%</a></li>
-<li><a href="#org9963620">15.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 08:01&gt;</span></span>98.1%</a></li>
-<li><a href="#org65d245a">15.7. text</a>
-<ul>
-<li><a href="#org09afc10">15.7.1. salt</a></li>
-<li><a href="#orgb672ba6">15.7.2. bread</a></li>
-<li><a href="#org15c9fdd">15.7.3. Sugar</a></li>
-<li><a href="#orge7a987d">15.7.4. <span class="done DONE">DONE</span> cheese</a></li>
-<li><a href="#org7dabde0">15.7.5. butter</a></li>
-</ul>
-</li>
-<li><a href="#orge0f35d0">15.8. words</a></li>
-<li><a href="#orgdc78f1d">15.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 Tue 10:10&gt; </span></span> 96.5%</a></li>
-<li><a href="#org3fbd4fb">15.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 06:15&gt;</span></span>98.1%</a></li>
-<li><a href="#orgf2eeb91">15.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 07:44&gt;</span></span>97.9%</a></li>
-<li><a href="#orgdd045a0">15.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 10:10&gt;</span></span>98.8%</a></li>
-<li><a href="#org5812b26">15.13. Review98.1%</a></li>
-<li><a href="#org7d9cf94">15.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-28 Wed 04:34&gt;</span></span>99.1%</a></li>
-<li><a href="#org4dd73e5">15.15. Lesson 15</a></li>
-</ul>
-</li>
-<li><a href="#orgbe28037">16. Lesson Sixteen</a>
-<ul>
-<li><a href="#org5a3407c">16.1. <span class="done DONE">DONE</span> Review 97.2%</a>
-<ul>
-<li><a href="#org06878ca">16.1.1. words</a></li>
-<li><a href="#orgd221ec8">16.1.2. text</a></li>
-</ul>
-</li>
-<li><a href="#org1f723d0">16.2. <span class="done DONE">DONE</span> Review sixteen 97.5%</a></li>
-<li><a href="#org5bdee88">16.3. <span class="done DONE">DONE</span> Review sixteen 96.4%</a>
-<ul>
-<li><a href="#orgac963f3">16.3.1. <span class="done DONE">DONE</span> text <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 05:39&gt;</span></span></a></li>
-</ul>
-</li>
-<li><a href="#org10669d9">16.4. <span class="done DONE">DONE</span> write 97.6%</a></li>
-<li><a href="#orge3e56a0">16.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 03:35&gt;</span></span>98.8%</a></li>
-<li><a href="#orgbcbd3eb">16.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 16:55&gt;</span></span>98.5%</a></li>
-<li><a href="#orgd1249d1">16.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 10:55&gt;</span></span>99.2%</a></li>
-<li><a href="#org8d68087">16.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 10:39&gt;</span></span>98.1%</a></li>
-<li><a href="#org3ea9d29">16.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 20:50&gt;</span></span>98.5%</a></li>
-<li><a href="#orgfd79f21">16.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 17:23&gt;</span></span>98.3%</a></li>
-<li><a href="#orga35fd90">16.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 19:45&gt;</span></span>98.9%</a></li>
-<li><a href="#org639b82b">16.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 08:19&gt;</span></span>97.6%</a></li>
-<li><a href="#orgfa920ca">16.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-19 Thu 16:14&gt;</span></span>97.1%</a></li>
-<li><a href="#orgec27ae5">16.14. lesson 16</a></li>
-<li><a href="#org8cb6213">16.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-30 Fri 05:30&gt;</span></span>98.8%</a></li>
-</ul>
-</li>
-<li><a href="#orgefb86d7">17. Lesson seventeen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-22 Wed 06:19&gt;</span></span></a>
-<ul>
-<li><a href="#orgec95290">17.1. <span class="done DONE">DONE</span> Review seventeen 97.6%</a></li>
-<li><a href="#org4ffcd97">17.2. <span class="done DONE">DONE</span> Review seventeen 96.8%</a></li>
-<li><a href="#orgd99e345">17.3. <span class="done DONE">DONE</span> Review 96.1%</a></li>
-<li><a href="#org4bb7910">17.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 17:01&gt;</span></span>98.1%</a></li>
-<li><a href="#org516912c">17.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 19:51&gt;</span></span>99.1%</a></li>
-<li><a href="#org2142efc">17.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 04:43&gt;</span></span>98.3%</a></li>
-<li><a href="#orgc1ceb1b">17.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 17:29&gt;</span></span>98.2%</a></li>
-<li><a href="#org74747de">17.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 17:48&gt;</span></span>99.6%</a></li>
-<li><a href="#org63a0a38">17.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 18:49&gt;</span></span>97.6%</a></li>
-<li><a href="#orgc12a7eb">17.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-31 Sat 15:19&gt;</span></span>98.6%</a></li>
-<li><a href="#orgbb55b33">17.11. Lesson 17</a></li>
-<li><a href="#org4756edf">17.12. text</a></li>
-<li><a href="#org074af59">17.13. words</a></li>
-<li><a href="#orgda8e524">17.14. neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 Tue&gt;</span></span></a></li>
-</ul>
-</li>
-<li><a href="#orga84f37a">18. lesson eighteen</a>
-<ul>
-<li><a href="#org3135562">18.1. <span class="done DONE">DONE</span> Review 97.2%</a></li>
-<li><a href="#org5151eb8">18.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 21:15&gt; </span></span> 96%</a></li>
-<li><a href="#org2df42a5">18.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 21:42&gt; </span></span> 97.5%</a></li>
-<li><a href="#orgfed2f03">18.4. <span class="done DONE">DONE</span> Review eithteen 97.3%</a></li>
-<li><a href="#org6701e86">18.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 06:37&gt;</span></span>97%</a></li>
-<li><a href="#org4d86ef8">18.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 06:41&gt;</span></span>98%</a></li>
-<li><a href="#orgd7459b9">18.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-01 Sun 05:44&gt;</span></span>90%</a></li>
-<li><a href="#orgae3abab">18.8. Lesson18</a></li>
-<li><a href="#orgc6cc309">18.9. text</a>
-<ul>
-<li><a href="#org7ab286c">18.9.1. sweater</a></li>
-<li><a href="#orgce2d104">18.9.2. moustache</a></li>
-</ul>
-</li>
-<li><a href="#orgdb2d59d">18.10. text</a></li>
-<li><a href="#org12e24a9">18.11. <span class="done DONE">DONE</span> Review eithteen 97.9%</a></li>
-<li><a href="#org2146e92">18.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 10:41&gt;</span></span>97.7%</a></li>
-<li><a href="#orgf275805">18.13. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 20:19&gt;</span></span>99.1%</a></li>
-<li><a href="#org13226a4">18.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-25 Tue 10:30&gt;</span></span>97.9%</a></li>
-<li><a href="#org5c00e9c">18.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-25 Tue 11:28&gt;</span></span>98.8%</a></li>
-<li><a href="#org10e0532">18.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun&gt;</span></span>98.2%</a></li>
-</ul>
-</li>
-<li><a href="#org76ef928">19. lesson ninteen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-07 Thu&gt;</span></span></a>
-<ul>
-<li><a href="#org6c5e02f">19.1. <span class="done DONE">DONE</span> Review 96.7%</a></li>
-<li><a href="#orgbba6824">19.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 04:21&gt; </span></span> 96%</a></li>
-<li><a href="#org7b86227">19.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 17:11&gt;</span></span>96.8%</a></li>
-<li><a href="#org3d9bbec">19.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 06:00&gt;</span></span>98.2%</a></li>
-<li><a href="#org673976c">19.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 07:04&gt;</span></span>98.4%</a></li>
-<li><a href="#orgab97f17">19.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 20:48&gt;</span></span>99.8%</a></li>
-<li><a href="#org204c833">19.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 20:43&gt;</span></span>97.7%</a></li>
-<li><a href="#org1036015">19.8. text</a></li>
-<li><a href="#org606e7da">19.9. <span class="done DONE">DONE</span> Review ninteen 97.4</a></li>
-<li><a href="#orgcb52853">19.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 10:51&gt;</span></span>98.2%</a></li>
-<li><a href="#org7a19c69">19.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 14:42&gt;</span></span>97.8%</a></li>
-<li><a href="#orgcd01c23">19.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-10-11 Sun&gt;</span></span>97.6%</a></li>
-<li><a href="#orgb10fd3d">19.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-02 Mon 09:07&gt;</span></span>98.7%</a></li>
-<li><a href="#org5d0ca3a">19.14. Lesson19</a></li>
-</ul>
-</li>
-<li><a href="#org9c75b97">20. <span class="done DONE">DONE</span> lesson twenty</a>
-<ul>
-<li><a href="#orgfabd783">20.1. <span class="done DONE">DONE</span> Review twenty 96.9%</a></li>
-<li><a href="#org7789a60">20.2. <span class="done DONE">DONE</span> Review 96.8%</a></li>
-<li><a href="#org1255a26">20.3. <span class="done CANCELLED">CANCELLED</span> MG: <span class="timestamp-wrapper"><span class="timestamp">[2016-09-12 Mon 13:42]</span></span></a></li>
-<li><a href="#orga32a34c">20.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 13:43&gt;</span></span>98.1%</a></li>
-<li><a href="#org227aa18">20.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 18:30&gt;</span></span>99.3%</a></li>
-<li><a href="#org93bcac5">20.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 11:44&gt;</span></span>99.5%</a></li>
-<li><a href="#org26d0600">20.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-12 Mon 07:21&gt;</span></span>98.6%</a></li>
-<li><a href="#orgb92410a">20.8. text</a></li>
-<li><a href="#org2538325">20.9. <span class="done DONE">DONE</span> Review twenty 96.8%</a></li>
-<li><a href="#org344a2d1">20.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-03 Tue 06:47&gt;</span></span>97.9%</a></li>
-<li><a href="#org5e65f01">20.11. lesson 20</a></li>
-</ul>
-</li>
-<li><a href="#org806aade">21. <span class="done DONE">DONE</span> lesson twenty one</a>
-<ul>
-<li><a href="#org535d80f">21.1. <span class="done DONE">DONE</span> Review twenty one 97.7%</a></li>
-<li><a href="#org0060b51">21.2. <span class="done DONE">DONE</span> Review 96.1%</a></li>
-<li><a href="#org13f4412">21.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 19:01&gt; </span></span> 98.1%</a></li>
-<li><a href="#org772350b">21.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 20:22&gt;</span></span>99.3%</a></li>
-<li><a href="#orgd00bf8b">21.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 15:19&gt;</span></span>99.7%</a></li>
-<li><a href="#org5d29d33">21.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-12 Mon 20:31&gt;</span></span>98.0%</a></li>
-<li><a href="#orgf1d6e3c">21.7. text</a></li>
-<li><a href="#orgbc15ae8">21.8. words</a>
-<ul>
-<li><a href="#org213b7f2">21.8.1. gown</a></li>
-<li><a href="#orga817b95">21.8.2. patient</a></li>
-<li><a href="#orgbeb4722">21.8.3. couch</a></li>
-</ul>
-</li>
-<li><a href="#org6f5b2a8">21.9. <span class="done DONE">DONE</span> Review twenty one 96.9%</a></li>
-<li><a href="#org2392220">21.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-08 Sun 17:20&gt;</span></span>98.9%</a></li>
-<li><a href="#orgab345d0">21.11. Lesson21</a></li>
-</ul>
-</li>
-<li><a href="#org112d88a">22. <span class="done DONE">DONE</span> lesson twenty two</a>
-<ul>
-<li><a href="#orge853806">22.1. <span class="done DONE">DONE</span> Review twenty two 93.6%</a></li>
-<li><a href="#orgd396440">22.2. <span class="done DONE">DONE</span> Review twenty two 95.2%</a></li>
-<li><a href="#org650a572">22.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 19:31&gt; </span></span> 96.2%</a></li>
-<li><a href="#orgb62da84">22.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 19:41&gt;</span></span>98.8%</a></li>
-<li><a href="#orge716020">22.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 04:15&gt;</span></span>99%</a></li>
-<li><a href="#orgeafc908">22.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 05:34&gt;</span></span>95.9%</a></li>
-<li><a href="#orgab29758">22.7. text</a>
-<ul>
-<li><a href="#org7ce5986">22.7.1. words</a></li>
-</ul>
-</li>
-<li><a href="#org19a2cd5">22.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-09 Mon 06:21&gt;</span></span>98.7%</a></li>
-<li><a href="#org028e2ae">22.9. Lesson 22</a></li>
-</ul>
-</li>
-<li><a href="#org5d19d5d">23. <span class="done DONE">DONE</span> lesson twenty three</a>
-<ul>
-<li><a href="#org2241f61">23.1. <span class="done DONE">DONE</span> Review twenty three 97.1%</a></li>
-<li><a href="#org271ea89">23.2. <span class="done DONE">DONE</span> review twenty three 94.9%</a></li>
-<li><a href="#org886ff5e">23.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 11:19&gt;</span></span>98.9%</a></li>
-<li><a href="#org5c347da">23.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 19:33&gt;</span></span>99.4%</a></li>
-<li><a href="#org7b8e121">23.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 07:20&gt;</span></span>97.1%</a></li>
-<li><a href="#org2275d40">23.6. text</a>
-<ul>
-<li><a href="#org4872c1c">23.6.1. traffic jam</a></li>
-<li><a href="#orgab8d0e6">23.6.2. words</a></li>
-</ul>
-</li>
-<li><a href="#org6c2269e">23.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-10 Tue 07:41&gt;</span></span>98.4%</a></li>
-<li><a href="#org2042d8c">23.8. Lesson 23</a></li>
-</ul>
-</li>
-<li><a href="#orgae9ef54">24. <span class="done DONE">DONE</span> twenty four</a>
-<ul>
-<li><a href="#orgb58d8ff">24.1. <span class="done DONE">DONE</span> Review twenty four 96.8%</a></li>
-<li><a href="#org6037135">24.2. <span class="done DONE">DONE</span> Review twenty four 96.4%</a></li>
-<li><a href="#orgb8663e6">24.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 11:15&gt;</span></span>98.3%</a></li>
-<li><a href="#org385de58">24.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 15:00&gt;</span></span>99.3%</a></li>
-<li><a href="#orgde0beef">24.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 07:44&gt;</span></span>97.2%</a></li>
-<li><a href="#org0cdaff8">24.6. text</a>
-<ul>
-<li><a href="#org5f6f1ea">24.6.1. words</a></li>
-</ul>
-</li>
-<li><a href="#org4c757ee">24.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-11 Wed 20:59&gt;</span></span>98.7%</a></li>
-<li><a href="#orgcb27656">24.8. Lesson24</a></li>
-</ul>
-</li>
-<li><a href="#org914737f">25. <span class="done DONE">DONE</span> twenty  five</a>
-<ul>
-<li><a href="#orgb18627f">25.1. <span class="done DONE">DONE</span> Review twenty five 96.6%</a></li>
-<li><a href="#org49fb10f">25.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 09:04&gt; </span></span> 95.8%</a></li>
-<li><a href="#orgef2d0a1">25.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 15:32&gt;</span></span>98.8%</a></li>
-<li><a href="#org9a7651e">25.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 19:01&gt;</span></span>99.4%</a></li>
-<li><a href="#org7e64625">25.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 Thu 19:16&gt;</span></span>98.9%</a></li>
-<li><a href="#orgf74bc64">25.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 Fri 05:16&gt;</span></span>99.2%</a></li>
-<li><a href="#orgf61165b">25.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 08:59&gt;</span></span>97.1%</a></li>
-<li><a href="#orgdc8a710">25.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 04:43&gt;</span></span>96.9%</a></li>
-<li><a href="#org127aac1">25.9. text</a></li>
-<li><a href="#orgbbed6e6">25.10. words</a></li>
-<li><a href="#org200b904">25.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 05:31&gt;</span></span>97.5%</a></li>
-<li><a href="#orgb7fa095">25.12. Lesson 25</a></li>
-<li><a href="#org473935b">25.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 09:48&gt;</span></span>98.2%</a></li>
-</ul>
-</li>
-<li><a href="#org5c5084d">26. <span class="done DONE">DONE</span> twenty six</a>
-<ul>
-<li><a href="#orga1658b1">26.1. <span class="done DONE">DONE</span> Review twenty six 95.2%</a></li>
-<li><a href="#orgbda4d63">26.2. <span class="done DONE">DONE</span> Review twenty six 95.7%</a></li>
-<li><a href="#org1a323b3">26.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 04:42&gt;</span></span>97.9%</a></li>
-<li><a href="#org190e398">26.4. text</a></li>
-<li><a href="#orgf39ffb3">26.5. word</a>
-<ul>
-<li><a href="#org86003ab">26.5.1. tourist</a></li>
-<li><a href="#orga4590ca">26.5.2. tourguide</a></li>
-<li><a href="#org8c0851f">26.5.3. adults</a></li>
-<li><a href="#org963f778">26.5.4. port</a></li>
-<li><a href="#org8842edb">26.5.5. beach</a></li>
-</ul>
-</li>
-<li><a href="#org76efd03">26.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 13:39&gt;</span></span>98.3%</a></li>
-<li><a href="#orgfb8961f">26.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 18:44&gt;</span></span>98.9%</a></li>
-<li><a href="#org347567b">26.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 Thu 07:05&gt;</span></span>99%</a></li>
-<li><a href="#orgda09e44">26.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 Fri 05:46&gt;</span></span>99.2%</a></li>
-<li><a href="#org96e2ad8">26.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-08 Tue 18:46&gt;</span></span>98.5%</a></li>
-<li><a href="#org6f80691">26.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 07:56&gt;</span></span>97.1%</a></li>
-<li><a href="#orgbe005e3">26.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 14:43&gt;</span></span>98.8%</a></li>
-<li><a href="#org0775822">26.13. Lesson 26</a></li>
-</ul>
-</li>
-<li><a href="#org4ba25f0">27. <span class="done DONE">DONE</span> lesson twenty seven</a>
-<ul>
-<li><a href="#org9307124">27.1. <span class="done DONE">DONE</span> Review twenty seven 95.7%</a></li>
-<li><a href="#org9a9fa0e">27.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 06:08&gt;</span></span>98.6%</a></li>
-<li><a href="#orgcfcc51f">27.3. text</a></li>
-<li><a href="#orgf2482bc">27.4. <span class="done DONE">DONE</span> Review twenty severn 96.6%</a></li>
-<li><a href="#org7b8a62a">27.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 08:27&gt;</span></span>97.1%</a></li>
-<li><a href="#org1e1cdb2">27.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-13 Fri 08:06&gt;</span></span>98.8%</a></li>
-<li><a href="#orgf5be39a">27.7. Lesson 27</a></li>
-<li><a href="#orga7bcd37">27.8. <span class="done DONE">DONE</span> Review handwriteing</a></li>
-</ul>
-</li>
-<li><a href="#org10ca53d">28. lesson twenty eight</a>
-<ul>
-<li><a href="#org195b26c">28.1. <span class="done DONE">DONE</span> Review twenty eight 95.3%</a></li>
-<li><a href="#org710da12">28.2. <span class="done DONE">DONE</span> Review twenty eight 93.4</a></li>
-<li><a href="#org45d1aff">28.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 05:32&gt;</span></span>99.1%</a></li>
-<li><a href="#orga7075c4">28.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 19:45&gt;</span></span>99.7%</a></li>
-<li><a href="#orge8f9e33">28.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 20:37&gt;</span></span>97.2%</a></li>
-<li><a href="#orgf0ecb2b">28.6. text</a></li>
-<li><a href="#org1606e1b">28.7. workds</a>
-<ul>
-<li><a href="#orgd6faf29">28.7.1. mountain</a></li>
-<li><a href="#org831ba60">28.7.2. forest</a></li>
-<li><a href="#orgfb3e815">28.7.3. palm</a></li>
-<li><a href="#orgc1f3c28">28.7.4. cactus</a></li>
-<li><a href="#org63e410f">28.7.5. camel</a></li>
-<li><a href="#orga9158a0">28.7.6. swan</a></li>
-<li><a href="#org26b6b6b">28.7.7. seagull</a></li>
-<li><a href="#orgd731b25">28.7.8. squirrel</a></li>
-<li><a href="#org3d9855f">28.7.9. parrot</a></li>
-<li><a href="#org03d4f7f">28.7.10. fruit</a></li>
-</ul>
-</li>
-<li><a href="#org5b646aa">28.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-13 Fri 14:41&gt;</span></span>98%</a></li>
-<li><a href="#org09cffbe">28.9. Lesson 28</a></li>
-<li><a href="#org7363e06">28.10. <span class="done DONE">DONE</span> Review writing</a></li>
-</ul>
-</li>
-<li><a href="#org66d6205">29. lesson twenty nine</a>
-<ul>
-<li><a href="#org852f6cc">29.1. <span class="done DONE">DONE</span> Review twenty nine 96.3%</a></li>
-<li><a href="#orge46dbf5">29.2. text</a>
-<ul>
-<li><a href="#org0e106b7">29.2.1. word <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-18 Mon&gt;</span></span></a></li>
-</ul>
-</li>
-<li><a href="#orgbb2b70c">29.3. <span class="done DONE">DONE</span> Review twenty nine 96%</a></li>
-<li><a href="#org99d1757">29.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 20:05&gt;</span></span>99.4%</a></li>
-<li><a href="#org93007b5">29.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-15 Thu 07:24&gt;</span></span>97.3%</a></li>
-<li><a href="#orge214a43">29.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-14 Sat 05:35&gt;</span></span>98.8%</a></li>
-<li><a href="#orgf1b2f80">29.7. Lesson 29</a></li>
-<li><a href="#orgb590f06">29.8. <span class="done DONE">DONE</span> Review writing</a></li>
-</ul>
-</li>
-<li><a href="#org5ce63f6">30. lesson thirty</a>
-<ul>
-<li><a href="#org22a017c">30.1. <span class="done DONE">DONE</span> Review thirty 93.9%</a></li>
-<li><a href="#orgc6135f2">30.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-25 Sun 08:18&gt;</span></span>97.2%</a></li>
-<li><a href="#org7e1f736">30.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 05:25&gt;</span></span>97.9%</a></li>
-<li><a href="#org2dc1b02">30.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 05:15&gt;</span></span>98.4%</a></li>
-<li><a href="#orga824250">30.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-25 Fri 05:27&gt;</span></span>98.4%</a></li>
-<li><a href="#orgd29f0d4">30.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-15 Thu 08:09&gt;</span></span>95.9%</a></li>
-<li><a href="#org738c262">30.7. Lesson 30</a></li>
-<li><a href="#org62e2033">30.8. text</a></li>
-<li><a href="#org2b21bbd">30.9. word</a>
-<ul>
-<li><a href="#org36b18d4">30.9.1. desert</a></li>
-<li><a href="#orgfeb73b9">30.9.2. permission n 允许，许可</a></li>
-<li><a href="#org07d72ec">30.9.3. pants</a></li>
-<li><a href="#org79ef3d7">30.9.4. lap</a></li>
-<li><a href="#org3b46668">30.9.5. parents</a></li>
-<li><a href="#org818bf9d">30.9.6. customer</a></li>
-<li><a href="#orgd6b1bb1">30.9.7. sale</a></li>
-<li><a href="#org0b90ae1">30.9.8. person</a></li>
-<li><a href="#orgea8b4b8">30.9.9. traffic jam</a></li>
-<li><a href="#orgd86f8e3">30.9.10. vehicles</a></li>
-<li><a href="#org1573b52">30.9.11. in order to</a></li>
-<li><a href="#org93e2196">30.9.12. spectator</a></li>
-<li><a href="#orgba4e16d">30.9.13. performance</a></li>
-<li><a href="#org3befb03">30.9.14. programme</a></li>
-<li><a href="#orgb225a0e">30.9.15. though</a></li>
-<li><a href="#org01d0bc3">30.9.16. even though</a></li>
-<li><a href="#orga4c59dd">30.9.17. although</a></li>
-<li><a href="#org5c95efb">30.9.18. would rather 宁愿，宁可</a></li>
-<li><a href="#org785efee">30.9.19. celebrate</a></li>
-<li><a href="#orgb5d43b2">30.9.20. across from</a></li>
-<li><a href="#org71a125a">30.9.21. instead</a></li>
-<li><a href="#org53574da">30.9.22. boring</a></li>
-</ul>
-</li>
-<li><a href="#org3d5427a">30.10. <span class="done DONE">DONE</span> Review thirty 95.8% &#x2013;&gt;96.9%</a></li>
-<li><a href="#org0e93942">30.11. across</a></li>
-<li><a href="#orgacd1419">30.12. cross</a></li>
-<li><a href="#org863bc8f">30.13. lap</a></li>
-</ul>
-</li>
-<li><a href="#org9865b3b">31. <span class="done DONE">DONE</span> Lesson thirty one 95%</a>
-<ul>
-<li><a href="#org50bc203">31.1. <span class="done DONE">DONE</span> 复习 95.0%</a></li>
-<li><a href="#org6b0e278">31.2. <span class="done DONE">DONE</span> 复习96.2%</a></li>
-<li><a href="#orge7fc529">31.3. <span class="done DONE">DONE</span> Review thirty one 94.8%</a></li>
-<li><a href="#org016fa34">31.4. <span class="done DONE">DONE</span> Review Thirty one 95.3%-&gt;94.9%</a></li>
-<li><a href="#org90163a9">31.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 16:20&gt;</span></span>97.6%</a></li>
-<li><a href="#org90184a4">31.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 05:00&gt;</span></span>99.4%</a></li>
-<li><a href="#org10aa771">31.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-21 Mon 05:23&gt;</span></span>98.2%</a></li>
-<li><a href="#org3a4fda3">31.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-06 Tue 07:14&gt;</span></span>97.4%</a></li>
-<li><a href="#org7b7bbda">31.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-07 Wed 04:46&gt;</span></span>96.5%</a></li>
-<li><a href="#orgcaa9ff5">31.10. Lesson 31</a></li>
-</ul>
-</li>
-<li><a href="#orga10fed5">32. <span class="done DONE">DONE</span> Lesson thirty two 96.2%</a>
-<ul>
-<li><a href="#org3de3d1b">32.1. <span class="done DONE">DONE</span> Review thirty two 95.5%</a></li>
-<li><a href="#org1d0c1c9">32.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-20 Sun 05:26&gt;</span></span>98.2%</a></li>
-<li><a href="#orgaa1d53c">32.3. Lesson 32</a></li>
-<li><a href="#org30d9f5b">32.4. text</a>
-<ul>
-<li><a href="#orgf66718f">32.4.1. a reception desk</a></li>
-<li><a href="#orgf0cdd17">32.4.2. a receptionist</a></li>
-<li><a href="#org0f9c9d4">32.4.3. to wash up</a></li>
-<li><a href="#org012c1b0">32.4.4. to offer</a></li>
-<li><a href="#org203922e">32.4.5. to take a shower 洗澡</a></li>
-</ul>
-</li>
-<li><a href="#org52dabd0">32.5. <span class="done DONE">DONE</span> Review Thirty two 96.5%</a></li>
-<li><a href="#org18a146a">32.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 05:44&gt;</span></span>98.7%</a></li>
-<li><a href="#orgaf3d377">32.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 09:33&gt;</span></span>99%</a></li>
-<li><a href="#orgb2ef8c8">32.8. <span class="done DONE">DONE</span> section six 96.2%</a>
-<ul>
-<li><a href="#org0359988">32.8.1. 信用卡；记帐卡</a></li>
-</ul>
-</li>
-<li><a href="#org881d67f">32.9. <span class="done DONE">DONE</span> Review Thirty two 97.1%</a></li>
-<li><a href="#orgff32b28">32.10. <span class="done DONE">DONE</span> Lesson thirty three</a></li>
-</ul>
-</li>
-<li><a href="#orgeb924bf">33. <span class="done DONE">DONE</span> Review thirty three 95.3%</a>
-<ul>
-<li><a href="#org9ee7d93">33.1. text</a>
-<ul>
-<li><a href="#org5d94c1c">33.1.1. blinds</a></li>
-<li><a href="#orgdde1409">33.1.2. ceiling</a></li>
-<li><a href="#org0113ab1">33.1.3. drapes</a></li>
-<li><a href="#orga1e6179">33.1.4. a floor</a></li>
-<li><a href="#org8fd403e">33.1.5. balcony</a></li>
-<li><a href="#org36d6337">33.1.6. fireplace</a></li>
-<li><a href="#orga5fbaaf">33.1.7. to look for 寻找</a></li>
-<li><a href="#orgd5b452f">33.1.8. hang</a></li>
-<li><a href="#org9cc9046">33.1.9. fit</a></li>
-<li><a href="#orgf771a7e">33.1.10. chandelier</a></li>
-<li><a href="#org1e28e56">33.1.11. rug</a></li>
-<li><a href="#orgb9c838f">33.1.12. 英  ['pɪləʊ]  美  ['pɪlo]</a></li>
-<li><a href="#org9b9ba57">33.1.13. a floor lamp</a></li>
-<li><a href="#orgb5711f9">33.1.14. bed sheets</a></li>
-<li><a href="#orgdce1266">33.1.15. a blanket</a></li>
-<li><a href="#orgc1dcdfa">33.1.16. the other 英   美</a></li>
-<li><a href="#orgf1292e5">33.1.17. none</a></li>
-<li><a href="#org855884f">33.1.18. outside</a></li>
-<li><a href="#org48488b6">33.1.19. inside</a></li>
-</ul>
-</li>
-<li><a href="#org4ab9f0f">33.2. <span class="done DONE">DONE</span> Review Thirty three 96.4%</a></li>
-<li><a href="#org526aa90">33.3. <span class="done DONE">DONE</span> continue thirty tree</a></li>
-<li><a href="#org687a18d">33.4. <span class="done DONE">DONE</span> continue learn 32 96.1%</a></li>
-<li><a href="#org4451613">33.5. <span class="done DONE">DONE</span> Review 33</a></li>
-<li><a href="#orgaeb7584">33.6. <span class="done DONE">DONE</span> Review 33 95.2%</a></li>
-<li><a href="#orgf2295d9">33.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 16:11&gt;</span></span>98.5%</a></li>
-<li><a href="#org26bbb1a">33.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-19 Sat 09:54&gt;</span></span>98.4%</a></li>
-<li><a href="#org3805bf1">33.9. Lesson 33</a></li>
-</ul>
-</li>
-<li><a href="#orgd57eedc">34. <span class="done DONE">DONE</span> thirty four</a>
-<ul>
-<li><a href="#org6ebde5d">34.1. <span class="done DONE">DONE</span> Review thirty four 97-&gt;95.4%</a></li>
-<li><a href="#orgf324c2c">34.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-19 Sat 05:38&gt;</span></span>96.9%</a></li>
-<li><a href="#org33c4cce">34.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-07 Wed 07:59&gt;</span></span>97.7%</a></li>
-<li><a href="#orgf516c46">34.4. Lesson 34</a></li>
-<li><a href="#org4dce5b1">34.5. text</a>
-<ul>
-<li><a href="#orgde2021d">34.5.1. salad</a></li>
-<li><a href="#orgcadd4c8">34.5.2. mushrooms</a></li>
-<li><a href="#orgea4dd0c">34.5.3. cabbage</a></li>
-<li><a href="#org6211a23">34.5.4. onion</a></li>
-<li><a href="#org5a049f8">34.5.5. mashed potatoes</a></li>
-<li><a href="#orgce2e31b">34.5.6. soup</a></li>
-<li><a href="#org562c6d3">34.5.7. to bring food</a></li>
-<li><a href="#org947a5ad">34.5.8. to cook</a></li>
-<li><a href="#org63147c1">34.5.9. to bake</a></li>
-<li><a href="#org8e020a9">34.5.10. to boil</a></li>
-<li><a href="#orgd8af99c">34.5.11. to fry</a></li>
-<li><a href="#org8e0c44b">34.5.12. to try</a></li>
-<li><a href="#orgb5cb715">34.5.13. hot</a></li>
-<li><a href="#orgbc348dd">34.5.14. boiled</a></li>
-<li><a href="#orgb3f438c">34.5.15. cold</a></li>
-<li><a href="#orgf72c6d2">34.5.16. fried</a></li>
-<li><a href="#org1200861">34.5.17. tasty</a></li>
-<li><a href="#orge872177">34.5.18. fresh</a></li>
-<li><a href="#org72c6854">34.5.19. pie with cabbage</a></li>
-<li><a href="#org94379a8">34.5.20. pie with mashrooms</a></li>
-<li><a href="#org442b4e3">34.5.21. pie with potato</a></li>
-<li><a href="#orge13e690">34.5.22. pie with meat</a></li>
-<li><a href="#orgf6dcf0c">34.5.23. pie with onion and egg</a></li>
-<li><a href="#orgf2e9c9a">34.5.24. pie</a></li>
-<li><a href="#orgbc0ad6e">34.5.25. drinks</a></li>
-<li><a href="#org67c33b3">34.5.26. appetizers</a></li>
-<li><a href="#org007e2ff">34.5.27. a bar</a></li>
-<li><a href="#orgfb2704d">34.5.28. strong drinks</a></li>
-<li><a href="#orgf793dfe">34.5.29. a café</a></li>
-<li><a href="#orgdc9dc96">34.5.30. milk</a></li>
-</ul>
-</li>
-<li><a href="#org1db743e">34.6. <span class="done DONE">DONE</span> Review Thirty Four 94.2%</a></li>
-<li><a href="#org1007c29">34.7. <span class="done DONE">DONE</span> thirty four 95.4%</a></li>
-<li><a href="#org321c82f">34.8. <span class="done DONE">DONE</span> Review thirty four 97%</a></li>
-<li><a href="#org0f59c29">34.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 09:41&gt;</span></span>98.3%</a></li>
-<li><a href="#org3b8f479">34.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 15:10&gt;</span></span>98.9%</a></li>
-<li><a href="#org3c3e80c">34.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 08:33&gt;</span></span>99.4%</a></li>
-</ul>
-</li>
-<li><a href="#orgb016c9d">35. <span class="done DONE">DONE</span> thirty five 95%</a>
-<ul>
-<li><a href="#org1b71dee">35.1. <span class="done DONE">DONE</span> Review Thirty Five 93.3%</a></li>
-<li><a href="#org269a033">35.2. <span class="done DONE">DONE</span> Review Thirty Five 95.6%</a></li>
-<li><a href="#org0ba9468">35.3. <span class="done DONE">DONE</span> Review thirty five</a></li>
-<li><a href="#org38c7c12">35.4. <span class="done DONE">DONE</span> Reveiw Thrity five 96.6%</a></li>
-<li><a href="#org6600e41">35.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 04:57&gt;</span></span>98%</a></li>
-<li><a href="#org96086cc">35.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 19:47&gt;</span></span>98.1%</a></li>
-<li><a href="#org81d15e5">35.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-08 Thu 05:43&gt;</span></span>97.2%</a></li>
-<li><a href="#org3a70dbb">35.8. Lesson 35</a></li>
-<li><a href="#orgfeae94c">35.9. text</a>
-<ul>
-<li><a href="#org605747e">35.9.1. a sweater</a></li>
-<li><a href="#org7f4c0bd">35.9.2. socks</a></li>
-<li><a href="#orgd87c421">35.9.3. tights</a></li>
-<li><a href="#org578257c">35.9.4. a coat</a></li>
-<li><a href="#orgc2e98ca">35.9.5. a tank top</a></li>
-<li><a href="#orgbe148d6">35.9.6. a blouse</a></li>
-<li><a href="#orgeca266c">35.9.7. loose pants</a></li>
-<li><a href="#org12ae4ed">35.9.8. a light coat</a></li>
-<li><a href="#org9e983b4">35.9.9. a long skirt</a></li>
-<li><a href="#org73bb2f2">35.9.10. a short skirt</a></li>
-<li><a href="#org5795b53">35.9.11. tight pants</a></li>
-<li><a href="#org872c577">35.9.12. a warm sweater</a></li>
-<li><a href="#org952a983">35.9.13. to cut</a></li>
-<li><a href="#orga103a7d">35.9.14. to knit</a></li>
-<li><a href="#org76ff393">35.9.15. to sew</a></li>
-<li><a href="#org57b667e">35.9.16. to embroider</a></li>
-<li><a href="#org76fdba4">35.9.17. fabric</a></li>
-<li><a href="#org2d06ec7">35.9.18. thread</a></li>
-<li><a href="#org1133682">35.9.19. a needle and thread</a></li>
-<li><a href="#orgaa9cffc">35.9.20. a needle</a></li>
-<li><a href="#orgbfbd041">35.9.21. scissors</a></li>
-<li><a href="#orgb6ddc0e">35.9.22. embroidery</a></li>
-</ul>
-</li>
-<li><a href="#org7ccf95f">35.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 18:31&gt;</span></span>98.8%</a></li>
-</ul>
-</li>
-<li><a href="#orgffd7c0d">36. <span class="done DONE">DONE</span> thirty six 95.7%</a>
-<ul>
-<li><a href="#orge0efb92">36.1. <span class="done DONE">DONE</span> Review thirty six 94.5%</a></li>
-<li><a href="#orgdb7d9f8">36.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 05:12&gt;</span></span>99.2%</a></li>
-<li><a href="#org09104da">36.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 14:53&gt;</span></span>97.9%</a></li>
-<li><a href="#org6dcefa5">36.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-08 Thu 07:40&gt;</span></span>97.7%</a></li>
-<li><a href="#org67f84e0">36.5. Lesson 36</a></li>
-<li><a href="#org4123f23">36.6. text</a></li>
-</ul>
-</li>
-<li><a href="#org1efee5f">37. <span class="done DONE">DONE</span> thirty seven 95.1%</a>
-<ul>
-<li><a href="#org980014a">37.1. <span class="done DONE">DONE</span> Review thirty seven 96.3%-&gt;96.9%</a></li>
-<li><a href="#org3eaebcd">37.2. <span class="done DONE">DONE</span> thirty seven 96.3%</a></li>
-<li><a href="#org01cb6c1">37.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 20:16&gt;</span></span>99.1%</a></li>
-<li><a href="#orgb87c786">37.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 05:35&gt;</span></span>98%</a></li>
-<li><a href="#orga6d7d56">37.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 11:00&gt;</span></span>98.5%</a></li>
-<li><a href="#org123117a">37.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-09 Fri 03:08&gt;</span></span>97.7%</a></li>
-<li><a href="#orga28c3d6">37.7. Lesson thirty seven</a></li>
-<li><a href="#orgb711a78">37.8. text</a></li>
-<li><a href="#orgd953737">37.9. How do yellow leaves fall? Yellow leaves fall slowy.</a></li>
-<li><a href="#org007ee97">37.10. text</a>
-<ul>
-<li><a href="#org8e04437">37.10.1. a super market</a></li>
-<li><a href="#org31965ca">37.10.2. chenge</a></li>
-<li><a href="#org9a7b84a">37.10.3. a receipt</a></li>
-<li><a href="#org0fe37eb">37.10.4. a cash register</a></li>
-<li><a href="#org4ca4d94">37.10.5. a market</a></li>
-<li><a href="#org183ffa0">37.10.6. a counter</a></li>
-<li><a href="#orgf135bc6">37.10.7. cake</a></li>
-<li><a href="#org9e1452e">37.10.8. chocolate</a></li>
-<li><a href="#orgcbca1b4">37.10.9. perfume</a></li>
-<li><a href="#org8bf3bbd">37.10.10. produce</a></li>
-<li><a href="#org5d15be7">37.10.11. souvenirs</a></li>
-<li><a href="#orgedef0ab">37.10.12. a purchase</a></li>
-<li><a href="#orgdb6885e">37.10.13. to pick up</a></li>
-<li><a href="#org05e3678">37.10.14. to pick out</a></li>
-<li><a href="#orge9ae185">37.10.15. to carry</a></li>
-<li><a href="#orga0a14fc">37.10.16. to weight</a></li>
-<li><a href="#org143bd0b">37.10.17. to wrap</a></li>
-<li><a href="#orgdd81c1a">37.10.18. poor</a></li>
-<li><a href="#org7d5d0d1">37.10.19. rich</a></li>
-<li><a href="#org460d87d">37.10.20. whole</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#orgf622062">38. <span class="done DONE">DONE</span> </a></li>
-<li><a href="#orgb6cd9f3">39. <span class="done DONE">DONE</span> Thirty eight 96.6%</a>
-<ul>
-<li><a href="#orgd3baced">39.1. <span class="done DONE">DONE</span> Review thirty eight 95.6%</a></li>
-<li><a href="#org5d21939">39.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 05:25&gt;</span></span>97.8%</a></li>
-<li><a href="#org91ca50b">39.3. <span class="todo STARTED">STARTED</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 14:08&gt;</span></span></a></li>
-<li><a href="#orgdb338eb">39.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 05:11&gt;</span></span>98.6%</a></li>
-<li><a href="#orgf53bac8">39.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-16 Wed 03:56&gt;</span></span>96.1%</a></li>
-<li><a href="#org2bbc073">39.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-26 Sat 06:05&gt;</span></span>96.9%</a></li>
-<li><a href="#orgdd1f78f">39.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-09 Fri 04:26&gt;</span></span>96.7%</a></li>
-<li><a href="#orgc544345">39.8. Lesson 38</a></li>
-<li><a href="#orga82b419">39.9. text</a>
-<ul>
-<li><a href="#org40e4767">39.9.1. film</a></li>
-<li><a href="#org67a7795">39.9.2. music</a></li>
-<li><a href="#org26c330c">39.9.3. a drum</a></li>
-<li><a href="#orgc99b22d">39.9.4. a guitar</a></li>
-<li><a href="#orgd237ba0">39.9.5. a violin</a></li>
-<li><a href="#org6b5f162">39.9.6. dance</a></li>
-<li><a href="#org43cf0df">39.9.7. A carnival costume</a></li>
-<li><a href="#org03c1ea7">39.9.8. candy</a></li>
-<li><a href="#org23230c2">39.9.9. a wig</a></li>
-<li><a href="#orgd953fdb">39.9.10. mask</a></li>
-<li><a href="#org0596b1f">39.9.11. a bouquet</a></li>
-<li><a href="#org3b36cca">39.9.12. a carnival</a></li>
-<li><a href="#org747ded5">39.9.13. to celebrate</a></li>
-<li><a href="#orgcb74dbe">39.9.14. to leave the city</a></li>
-<li><a href="#orge58eec8">39.9.15. to love to do something</a></li>
-<li><a href="#org89e53a5">39.9.16. to collect</a></li>
-<li><a href="#org8f056c0">39.9.17. text</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#org1d1d01d">40. <span class="done DONE">DONE</span> Thirty nine 96.9%</a>
-<ul>
-<li><a href="#org641866f">40.1. <span class="done DONE">DONE</span> Review thirty nine 96.9-&gt;96.4%</a></li>
-<li><a href="#orgca70815">40.2. <span class="done DONE">DONE</span> Review thirty nine 97.3%</a></li>
-<li><a href="#orga247825">40.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 04:42&gt;</span></span>98.3%</a></li>
-<li><a href="#orgfafd6ac">40.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 10:48&gt;</span></span>99.2%</a></li>
-<li><a href="#org84f131f">40.5. <span class="done DONE">DONE</span> Lesson thirty nine<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-15 Tue 05:26&gt;</span></span>97.2%</a></li>
-<li><a href="#org9b13ca2">40.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-15 Tue 18:47&gt;</span></span>96.8%</a></li>
-<li><a href="#org227847b">40.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-16 Wed 03:33&gt;</span></span>97.6%</a></li>
-<li><a href="#org31c9c87">40.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-26 Sat 05:42&gt;</span></span>98.6%</a></li>
-<li><a href="#orgadcd93b">40.9. Lesson thirty nine</a></li>
-<li><a href="#orgab1a96b">40.10. text</a>
-<ul>
-<li><a href="#orgb3b9258">40.10.1. a cow</a></li>
-</ul>
-</li>
-<li><a href="#orgb98ebd2">40.11. text</a></li>
-</ul>
-</li>
-<li><a href="#orgfb1209d">41. <span class="done DONE">DONE</span> continue</a>
-<ul>
-<li><a href="#org4064e2c">41.1. text</a></li>
-</ul>
-</li>
-<li><a href="#orgae3063c">42. <span class="done DONE">DONE</span> Forty  93.2%-&gt;97.4%</a>
-<ul>
-<li><a href="#org90c7e9e">42.1. <span class="done DONE">DONE</span> Review Forty</a></li>
-<li><a href="#org917b308">42.2. <span class="done DONE">DONE</span> Review 96.2%</a></li>
-<li><a href="#org07c9746">42.3. <span class="done DONE">DONE</span> Review forty 95.1%</a></li>
-<li><a href="#org0bcea6a">42.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 05:35&gt;</span></span>99.1%</a></li>
-<li><a href="#org0fd6261">42.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 07:42&gt;</span></span>99.1%</a></li>
-<li><a href="#orgfdda85c">42.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 04:23&gt;</span></span></a></li>
-<li><a href="#org089dff6">42.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 08:50&gt;</span></span>98.8%</a></li>
-<li><a href="#orgc08c94e">42.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 19:10&gt;</span></span>96%</a></li>
-<li><a href="#orgbfc08a8">42.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 08:12&gt;</span></span>97.8%</a></li>
-<li><a href="#org734a4fa">42.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 09:10&gt;</span></span>99.0%</a></li>
-<li><a href="#org434a8b5">42.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 11:25&gt;</span></span>99.7%</a></li>
-<li><a href="#org96ea2ed">42.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 16:11&gt;</span></span>96.5%</a></li>
-<li><a href="#orge651e34">42.13. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 20:57&gt;</span></span>97.2%</a></li>
-<li><a href="#org2ce079a">42.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 05:20&gt;</span></span>98.9%</a></li>
-<li><a href="#orgcff3263">42.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 05:58&gt;</span></span>98.3%</a></li>
-<li><a href="#org64c71a1">42.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 19:56&gt;</span></span>98.8%</a></li>
-<li><a href="#org635c6e5">42.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 06:01&gt;</span></span>98.3%</a></li>
-<li><a href="#orgd786d30">42.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 06:28&gt;</span></span>97.7%</a></li>
-<li><a href="#orge33478b">42.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-03 Thu 15:51&gt;</span></span>98.2%</a></li>
-<li><a href="#orgc643517">42.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 05:26&gt;</span></span>98.2%</a>
-<ul>
-<li><a href="#org4ed28e9">42.20.1. Detergent</a></li>
-</ul>
-</li>
-<li><a href="#orgb01cd90">42.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 13:51&gt;</span></span>98.1%</a></li>
-<li><a href="#org0369cdc">42.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 16:14&gt;</span></span>98.7%</a></li>
-<li><a href="#org290f401">42.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 04:44&gt;</span></span>97.6%</a></li>
-<li><a href="#orgc220773">42.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 09:22&gt;</span></span>97.5%</a></li>
-<li><a href="#orgc030a07">42.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 14:16&gt;</span></span>98.2%</a></li>
-<li><a href="#org58f95df">42.26. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 19:36&gt;</span></span></a></li>
-<li><a href="#orge55baed">42.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 05:47&gt;</span></span>99.3%</a></li>
-<li><a href="#org3027978">42.28. <span class="done DONE">DONE</span> Wrting<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 15:13&gt;</span></span></a></li>
-<li><a href="#org64e1359">42.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 16:52&gt;</span></span>99.2%</a></li>
-<li><a href="#org6fa4626">42.30. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 06:35&gt;</span></span>98.4%</a></li>
-<li><a href="#orgcac7d1d">42.31. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 20:34&gt;</span></span>99.5%</a></li>
-<li><a href="#org5a3bc92">42.32. Lesson 40</a></li>
-<li><a href="#org7a0e87e">42.33. text</a>
-<ul>
-<li><a href="#org3f14e6a">42.33.1. a bucket</a></li>
-<li><a href="#org995e535">42.33.2. laundry detergent</a></li>
-<li><a href="#org1e1f641">42.33.3. soap</a></li>
-<li><a href="#org859173c">42.33.4. a brush</a></li>
-<li><a href="#orge4bbce2">42.33.5. a dishwasher</a></li>
-<li><a href="#orgb321fe9">42.33.6. an ironing board</a></li>
-<li><a href="#orgd99bb68">42.33.7. an iron</a></li>
-<li><a href="#org31a21dc">42.33.8. a vacuum cleanery</a></li>
-<li><a href="#orgeb851ec">42.33.9. a washing machine</a></li>
-<li><a href="#org9f9c986">42.33.10. a mopj</a></li>
-<li><a href="#org9e1e137">42.33.11. words</a></li>
-</ul>
-</li>
-<li><a href="#org5ba3fe2">42.34. <span class="done DONE">DONE</span> contiune</a></li>
-</ul>
-</li>
-<li><a href="#org28079c2">43. <span class="done DONE">DONE</span> Forty one 91.6%</a>
-<ul>
-<li><a href="#org41edfb0">43.1. <span class="done DONE">DONE</span> Review e 95.9% igh 95.9%t 95.9%</a></li>
-<li><a href="#org61349ca">43.2. <span class="done DONE">DONE</span> Review Forty one 95.2%</a></li>
-<li><a href="#orgb274776">43.3. <span class="done DONE">DONE</span> Review 95.6%</a></li>
-<li><a href="#orgbf39785">43.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 19:41&gt; </span></span> 95.4%</a></li>
-<li><a href="#org34e0447">43.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 20:36&gt; </span></span> 96%</a></li>
-<li><a href="#org4f85dab">43.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 04:47&gt; </span></span> 97.7%</a></li>
-<li><a href="#org5e0891b">43.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 16:39&gt; </span></span> 96.3%</a></li>
-<li><a href="#org24e1785">43.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 04:39&gt;</span></span>99%</a></li>
-<li><a href="#orgdf6f3e7">43.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 20:41&gt;</span></span>99.1%</a></li>
-<li><a href="#orga61250e">43.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 05:49&gt;</span></span>99.2%</a></li>
-<li><a href="#orgdb45545">43.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 17:22&gt;</span></span>99.3%</a></li>
-<li><a href="#org8b0434e">43.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 04:53&gt;</span></span>99.4%</a></li>
-<li><a href="#org24df021">43.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 13:44&gt;</span></span>98.6%</a></li>
-<li><a href="#org55eee77">43.14. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 05:21&gt;</span></span>98.2%</a></li>
-<li><a href="#orgf93d880">43.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 20:29&gt;</span></span>97.8%</a></li>
-<li><a href="#org5c2df8f">43.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 20:59&gt;</span></span>98%</a></li>
-<li><a href="#orgadb0b70">43.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 06:02&gt;</span></span>98.8%</a></li>
-<li><a href="#org19dd607">43.18. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 06:44&gt;</span></span></a></li>
-<li><a href="#org2ffe939">43.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 08:31&gt;</span></span>99.3%</a></li>
-<li><a href="#orgcc16d04">43.20. <span class="done DONE">DONE</span> Words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-04 Sat 05:02&gt;</span></span></a></li>
-<li><a href="#org80ecc34">43.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-04 Sat 15:51&gt;</span></span>99.2%</a></li>
-<li><a href="#org32d64c9">43.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 08:32&gt;</span></span>98.8%</a></li>
-<li><a href="#orgba10d88">43.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 20:09&gt;</span></span>98.9%</a></li>
-<li><a href="#org5d3cfc1">43.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 15:25&gt;</span></span>99.4%</a></li>
-<li><a href="#org329f0fb">43.25. Lesson 41</a>
-<ul>
-<li><a href="#org0423198">43.25.1. <span class="done DONE">DONE</span> words<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 Tue 05:11&gt;</span></span>98%</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#orgf126798">44. <span class="done DONE">DONE</span> Forty two 96.3%</a>
-<ul>
-<li><a href="#org26bfe2e">44.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 20:55&gt; </span></span> 95.9%</a></li>
-<li><a href="#org8007759">44.2. <span class="done DONE">DONE</span> Review and write<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 04:30&gt; </span></span> 96%</a></li>
-<li><a href="#org63c2950">44.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 18:38&gt;</span></span>97.7%</a></li>
-<li><a href="#orgba2a020">44.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 09:24&gt;</span></span>98.8%</a></li>
-<li><a href="#org2bbe69a">44.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 20:43&gt;</span></span>99.3%</a></li>
-<li><a href="#org05a95c8">44.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 09:41&gt;</span></span>97.1%</a></li>
-<li><a href="#orgf8ece6d">44.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 20:56&gt;</span></span>99.1%</a></li>
-<li><a href="#org7711618">44.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 05:24&gt;</span></span>99.1%</a></li>
-<li><a href="#org0178c96">44.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 09:19&gt;</span></span>98.1%</a></li>
-<li><a href="#orgb76de53">44.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 15:55&gt;</span></span>97.6%</a></li>
-<li><a href="#orgc394766">44.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 19:16&gt;</span></span>97.3%</a></li>
-<li><a href="#orgca1f867">44.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 05:56&gt;</span></span>98.1%</a></li>
-<li><a href="#org729a96d">44.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 05:48&gt;</span></span>98%</a></li>
-<li><a href="#orga57c719">44.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 15:37&gt;</span></span>97.9%</a></li>
-<li><a href="#org513819e">44.15. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 18:48&gt;</span></span></a></li>
-<li><a href="#orgfe8d2c5">44.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 19:45&gt;</span></span>98.5%</a></li>
-<li><a href="#org7edd56b">44.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 09:16&gt;</span></span>98.0%</a></li>
-<li><a href="#org2ba178c">44.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 17:44&gt;</span></span>99.3%</a></li>
-<li><a href="#org24bd066">44.19. Lesson 42</a></li>
-</ul>
-</li>
-<li><a href="#org46a9d3b">45. <span class="done DONE">DONE</span> Forty three 94.5%</a>
-<ul>
-<li><a href="#orged8aac0">45.1. <span class="done DONE">DONE</span> Review 94.8%</a></li>
-<li><a href="#org9073cca">45.2. <span class="done DONE">DONE</span> Review 96%</a></li>
-<li><a href="#orgfc7c6fd">45.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 05:22&gt; </span></span> 95.7%</a></li>
-<li><a href="#orgea15857">45.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 10:42&gt; </span></span> 95.7%</a></li>
-<li><a href="#org75fe130">45.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 20:00&gt; </span></span> 96.5%</a></li>
-<li><a href="#org136bb58">45.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 Fri 04:27&gt; </span></span> 97.1%</a></li>
-<li><a href="#org88fab6c">45.7. text</a>
-<ul>
-<li><a href="#org16f1557">45.7.1. a credit card</a></li>
-<li><a href="#orgf055abc">45.7.2. creddit</a></li>
-<li><a href="#org837170a">45.7.3. a mailbox</a></li>
-<li><a href="#orgc45b748">45.7.4. an ATM</a></li>
-<li><a href="#org67fe0a0">45.7.5. a postman</a></li>
-<li><a href="#orgcea63c0">45.7.6. a bank</a></li>
-<li><a href="#org5944a1f">45.7.7. a post office</a></li>
-<li><a href="#orged86e82">45.7.8. a package</a></li>
-<li><a href="#org7e420f9">45.7.9. an envelop</a></li>
-<li><a href="#org0ccc055">45.7.10. a postcard</a></li>
-<li><a href="#org00e9659">45.7.11. a stamp</a></li>
-<li><a href="#org55b7644">45.7.12. a letter</a></li>
-<li><a href="#orgf62e5c6">45.7.13. a telegram</a></li>
-<li><a href="#orgfa69105">45.7.14. a checkbook</a></li>
-<li><a href="#org882903b">45.7.15. a loan</a></li>
-<li><a href="#orgdee60c4">45.7.16. a deposit account</a></li>
-<li><a href="#org0e8f512">45.7.17. deposit</a></li>
-<li><a href="#orgf23e3f8">45.7.18. account</a></li>
-<li><a href="#org9bc134f">45.7.19. a check</a></li>
-<li><a href="#org3430795">45.7.20. percent</a></li>
-<li><a href="#org382722c">45.7.21. an account</a></li>
-</ul>
-</li>
-<li><a href="#orgc7203e5">45.8. text</a>
-<ul>
-<li><a href="#org43d0aa2">45.8.1. to receive</a></li>
-</ul>
-</li>
-<li><a href="#org8dde5b7">45.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 05:46&gt;</span></span>98.5%</a></li>
-<li><a href="#org0312264">45.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 04:23&gt;</span></span>97.5</a></li>
-<li><a href="#org48265f0">45.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 06:12&gt;</span></span>96.2%</a></li>
-<li><a href="#org0444ae5">45.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 05:21&gt;</span></span>98.9%</a></li>
-<li><a href="#org6395733">45.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 05:13&gt;</span></span>98.7%</a></li>
-<li><a href="#org44ff9bf">45.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 13:57&gt;</span></span>99.2%</a></li>
-<li><a href="#org9a0ed1e">45.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 10:46&gt;</span></span>95.6%</a></li>
-<li><a href="#org01686bd">45.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 19:48&gt;</span></span>97.2%</a></li>
-<li><a href="#org14cdf8c">45.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 14:24&gt;</span></span>95.5%</a></li>
-<li><a href="#org9c4f1e2">45.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 08:45&gt;</span></span>98.2%</a></li>
-<li><a href="#org88768fe">45.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 05:21&gt;</span></span>98.7%</a></li>
-<li><a href="#org98fb7d6">45.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 14:31&gt;</span></span>97.1%</a></li>
-<li><a href="#orgfbdab2a">45.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-10 Thu 06:40&gt;</span></span>97.3%</a></li>
-<li><a href="#org63c0e37">45.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-12 Sat 10:21&gt;</span></span>97.6%</a></li>
-<li><a href="#orgf8fa084">45.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 07:11&gt;</span></span>96.6%</a></li>
-<li><a href="#orgddb5ea7">45.24. <span class="done DONE">DONE</span> Writing <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 10:21&gt;</span></span></a></li>
-<li><a href="#org54ae36b">45.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 19:55&gt;</span></span>99.0%</a></li>
-<li><a href="#orgd48eee8">45.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-06 Mon 07:51&gt;</span></span>98.3%</a></li>
-<li><a href="#orgd890af0">45.27. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-06 Mon 19:29&gt;</span></span>two pages</a></li>
-<li><a href="#orgee11dc0">45.28. <span class="done DONE">DONE</span> Read aloud<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 05:19&gt;</span></span></a></li>
-<li><a href="#org468e563">45.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 05:57&gt;</span></span>98.9%</a></li>
-<li><a href="#org2d8de6f">45.30. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 08:18&gt;</span></span>99.4%</a></li>
-<li><a href="#orgd7fc5e6">45.31. Lesson 43</a></li>
-</ul>
-</li>
-<li><a href="#orgc763474">46. <span class="done DONE">DONE</span> Forty four 96%</a>
-<ul>
-<li><a href="#org17d14d0">46.1. <span class="done DONE">DONE</span> Review 94%</a></li>
-<li><a href="#org70a8b55">46.2. <span class="done DONE">DONE</span> Review 95.3%</a></li>
-<li><a href="#org32791c2">46.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 Fri 05:31&gt;</span></span>95.8%</a></li>
-<li><a href="#orgb2150a8">46.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 03:57&gt;</span></span>97.4%</a></li>
-<li><a href="#org70b27fe">46.5. text</a>
-<ul>
-<li><a href="#org373e51e">46.5.1. text</a></li>
-<li><a href="#orgee0a4b5">46.5.2. vitamins</a></li>
-<li><a href="#orgb3f37fa">46.5.3. a thermometer</a></li>
-<li><a href="#org9cd4777">46.5.4. medicine</a></li>
-<li><a href="#org267f7d4">46.5.5. aspirin</a></li>
-<li><a href="#orgd56948f">46.5.6. a syringe</a></li>
-<li><a href="#org3b2ec47">46.5.7. a bandage</a></li>
-<li><a href="#org54df4e6">46.5.8. to take temperature</a></li>
-<li><a href="#org04e8ecd">46.5.9. to take blood pressure</a></li>
-<li><a href="#org1353a44">46.5.10. to operate</a></li>
-<li><a href="#org010f455">46.5.11. to treat</a></li>
-<li><a href="#orgbdf8456">46.5.12. to dress</a></li>
-<li><a href="#orgdefc073">46.5.13. to give a shot</a></li>
-<li><a href="#org9e415f9">46.5.14. an operation</a></li>
-<li><a href="#orgb0be76d">46.5.15. temperature</a></li>
-<li><a href="#org4d7a9aa">46.5.16. a cold</a></li>
-<li><a href="#org9d1871e">46.5.17. a wound</a></li>
-<li><a href="#orgc2790e5">46.5.18. blood pressure</a></li>
-<li><a href="#org53f75a7">46.5.19. a cough</a></li>
-<li><a href="#org0e0227a">46.5.20. a dentist</a></li>
-<li><a href="#org4e2d263">46.5.21. a cardiologist</a></li>
-<li><a href="#orgdc837cd">46.5.22. a nurse</a></li>
-<li><a href="#orgcd100bf">46.5.23. a surgeon</a></li>
-<li><a href="#org3317713">46.5.24. ophthalmologist</a></li>
-<li><a href="#org0bd0dc9">46.5.25. a physician</a></li>
-</ul>
-</li>
-<li><a href="#orge452ddc">46.6. <span class="done DONE">DONE</span> Review Lesson Forty four 94.9%</a></li>
-<li><a href="#org1a7e424">46.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 20:11&gt;</span></span>95.8%</a></li>
-<li><a href="#orgcb2ce9e">46.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 06:21&gt;</span></span>96.2%</a></li>
-<li><a href="#org6f60893">46.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 04:42&gt;</span></span>99.1%</a></li>
-<li><a href="#orgcdf76cf">46.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 09:01&gt;</span></span>99.3%</a></li>
-<li><a href="#orgb4437bd">46.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 Thu 10:11&gt;</span></span>93.3%</a></li>
-<li><a href="#orga32893d">46.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 03:56&gt;</span></span>97.1%</a></li>
-<li><a href="#org7bb82a4">46.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 21:06&gt;</span></span>99%</a></li>
-<li><a href="#org2f5e821">46.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 06:30&gt;</span></span>97%</a></li>
-<li><a href="#org1830f86">46.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 06:11&gt;</span></span>96.7%</a></li>
-<li><a href="#org48a76b6">46.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 07:32&gt;</span></span>97.6%</a></li>
-<li><a href="#org52ba4ac">46.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 07:40&gt;</span></span>96.%</a></li>
-<li><a href="#org3eae3b8">46.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 19:58&gt;</span></span>98.1%</a>
-<ul>
-<li><a href="#orgab2d4a7">46.18.1. A surgeon is a doctor who is specially trained to perform surgery. 外科医生</a></li>
-</ul>
-</li>
-<li><a href="#orge737142">46.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 04:59&gt;</span></span>98.2%</a></li>
-<li><a href="#org94f7008">46.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 08:29&gt;</span></span>97.8%</a></li>
-<li><a href="#org06daf23">46.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 09:21&gt;</span></span>95.9%</a></li>
-<li><a href="#org69cbe69">46.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 21:18&gt;</span></span>97.2%</a></li>
-<li><a href="#org6bb9bba">46.23. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 05:20&gt;</span></span></a></li>
-<li><a href="#org59e15aa">46.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 06:37&gt;</span></span>98.5%</a></li>
-<li><a href="#orgc6472d3">46.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 08:21&gt;</span></span>95.5%</a></li>
-<li><a href="#org554d925">46.26. <span class="done DONE">DONE</span> study words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 19:14&gt;</span></span>99.1%</a></li>
-<li><a href="#org22f15bc">46.27. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 05:42&gt;</span></span></a></li>
-<li><a href="#org5345ee6">46.28. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 06:37&gt;</span></span>99.7%</a></li>
-<li><a href="#org0afa967">46.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 15:39&gt;</span></span>98.6%</a></li>
-<li><a href="#org928de17">46.30. Lesson 44</a></li>
-</ul>
-</li>
-<li><a href="#org1222f37">47. <span class="done DONE">DONE</span> Forty five 96.3%</a>
-<ul>
-<li><a href="#org35d3e5c">47.1. <span class="done DONE">DONE</span> Review 95.4%</a></li>
-<li><a href="#orgca7ac18">47.2. <span class="done DONE">DONE</span> Review 96.9%</a></li>
-<li><a href="#orgf3840f6">47.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 04:58&gt;</span></span>96.6%</a></li>
-<li><a href="#org3862ed1">47.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 05:00&gt;</span></span>96.9%</a></li>
-<li><a href="#org54a8838">47.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 06:06&gt;</span></span>98.7%</a></li>
-<li><a href="#org9148d83">47.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 11:06&gt;</span></span>98.7%</a></li>
-<li><a href="#orgfc49286">47.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 14:56&gt;</span></span>99.6%</a></li>
-<li><a href="#org368540b">47.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 Wed 20:43&gt;</span></span>96%</a></li>
-<li><a href="#orge7b1968">47.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 Thu 08:30&gt;</span></span>96%</a></li>
-<li><a href="#orge957f37">47.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 17:31&gt;</span></span>99.1%</a></li>
-<li><a href="#orgca12391">47.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 21:11&gt;</span></span>97.1%</a></li>
-<li><a href="#org36c295e">47.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 05:57&gt;</span></span>98.6%</a></li>
-<li><a href="#org86bbe18">47.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 05:21&gt;</span></span>97.4%</a></li>
-<li><a href="#org08655d4">47.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 06:25&gt;</span></span>97.8%</a></li>
-<li><a href="#orgd57476b">47.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 10:42&gt;</span></span>98.4%</a></li>
-<li><a href="#org9ea9daa">47.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 17:56&gt;</span></span>98.1%</a></li>
-<li><a href="#org2c039c1">47.17. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 06:32&gt;</span></span>98.5%</a></li>
-<li><a href="#org57f546d">47.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 06:17&gt;</span></span>97.6%</a></li>
-<li><a href="#org4fee55f">47.19. <span class="done DONE">DONE</span> Writing</a></li>
-<li><a href="#org84a3994">47.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 07:04&gt;</span></span>98.3%</a></li>
-<li><a href="#org9c066ed">47.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 21:02&gt;</span></span>98.4%</a></li>
-<li><a href="#org5360abc">47.22. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 09:42&gt;</span></span></a></li>
-<li><a href="#orgf848300">47.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 10:13&gt;</span></span>99.6%</a></li>
-<li><a href="#org851970a">47.24. <span class="done DONE">DONE</span> read aloud<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 05:26&gt;</span></span>45,44,43,42</a></li>
-<li><a href="#org2de61e6">47.25. <span class="done DONE">DONE</span> Writing words and review words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 06:14&gt;</span></span>five texts</a></li>
-<li><a href="#org5975f5f">47.26. Lesson 45</a></li>
-<li><a href="#org37f6ff4">47.27. text</a>
-<ul>
-<li><a href="#org34d29b1">47.27.1. elderly people</a></li>
-<li><a href="#orgce45ee8">47.27.2. a child</a></li>
-<li><a href="#org274ae75">47.27.3. an elderly man</a></li>
-<li><a href="#org80f6750">47.27.4. an adult</a></li>
-<li><a href="#orgb06aae5">47.27.5. an elderly woman</a></li>
-<li><a href="#orgb3c1eff">47.27.6. a teenager</a></li>
-<li><a href="#org9b1801c">47.27.7. to live</a></li>
-<li><a href="#org1dae95c">47.27.8. to be born</a></li>
-<li><a href="#org59440f4">47.27.9. to die</a></li>
-<li><a href="#orge7ec292">47.27.10. to grow old</a></li>
-<li><a href="#org9efb767">47.27.11. to mature</a></li>
-<li><a href="#org9d00bbe">47.27.12. to grow up</a></li>
-<li><a href="#org17f86c7">47.27.13. more often</a></li>
-<li><a href="#org47cf003">47.27.14. more rarely</a></li>
-<li><a href="#org78a5a6d">47.27.15. often</a></li>
-<li><a href="#org01f210d">47.27.16. slowly</a></li>
-<li><a href="#org63f5fe1">47.27.17. rarely</a></li>
-<li><a href="#org34d3f24">47.27.18. fast</a></li>
-<li><a href="#orgbdd0a08">47.27.19. a bald man</a></li>
-<li><a href="#org0fd449f">47.27.20. a gray man</a></li>
-<li><a href="#org81bcb2e">47.27.21. bald</a></li>
-<li><a href="#orgf80a281">47.27.22. a gray woman</a></li>
-<li><a href="#orgaf5cecc">47.27.23. a bald cat</a></li>
-<li><a href="#orga89e86c">47.27.24. gray</a></li>
-</ul>
-</li>
-<li><a href="#org9df869c">47.28. text</a>
-<ul>
-<li><a href="#org8dcb790">47.28.1. 英  [eɪdʒ]   美  [edʒ]</a></li>
-<li><a href="#org7ffa2ed">47.28.2. Children don't grow old, they grow up.</a></li>
-<li><a href="#org01173da">47.28.3. Teenagers also don't grow old, they mature.</a></li>
-<li><a href="#orged5377a">47.28.4. Elderly people grow old and die.</a></li>
-</ul>
-</li>
-<li><a href="#org897adaf">47.29. text</a>
-<ul>
-<li><a href="#org4d3e48b">47.29.1. stair</a></li>
-</ul>
-</li>
-<li><a href="#org789ebf0">47.30. It's hard for elderly people to climb the stairs.</a>
-<ul>
-<li><a href="#orgdfab32f">47.30.1. elevate</a></li>
-</ul>
-</li>
-<li><a href="#org5eba54e">47.31. Elderly people often have heart pain.</a></li>
-</ul>
-</li>
-<li><a href="#orgd402b4d">48. <span class="done DONE">DONE</span> Forty six 95.5%</a>
-<ul>
-<li><a href="#org68cbdc3">48.1. <span class="done DONE">DONE</span> Review forty six 96.6%</a></li>
-<li><a href="#orgccddee2">48.2. <span class="done DONE">DONE</span> Review 93.2%</a></li>
-<li><a href="#org7970598">48.3. <span class="done DONE">DONE</span> Review 95.9%</a></li>
-<li><a href="#org4106062">48.4. <span class="done DONE">DONE</span> Review 96.5%</a></li>
-<li><a href="#org920c474">48.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 05:06&gt;</span></span>96.4%</a></li>
-<li><a href="#org529792a">48.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 Tue 05:24&gt;</span></span>94.9%</a></li>
-<li><a href="#org6f9fb3b">48.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 Tue 14:20&gt; </span></span> 95.9%</a></li>
-<li><a href="#org7a0b965">48.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 04:46&gt;</span></span>96.8%</a></li>
-<li><a href="#orgb247671">48.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2003-09-19 Fri&gt;</span></span>96.9%</a></li>
-<li><a href="#org1bbe5c0">48.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 04:02&gt;</span></span>97.3%</a></li>
-<li><a href="#orge00932d">48.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 04:48&gt;</span></span>99.1%</a></li>
-<li><a href="#orge6ee2ca">48.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 20:51&gt;</span></span>94.1%</a></li>
-<li><a href="#org140c2a1">48.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 Wed 06:10&gt;</span></span>96.1%</a></li>
-<li><a href="#org591bdc7">48.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 14:07&gt;</span></span>98.9%</a></li>
-<li><a href="#orge25a85e">48.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 19:13&gt;</span></span>99.2%</a></li>
-<li><a href="#org28b5a19">48.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 14:45&gt;</span></span>95.7%</a></li>
-<li><a href="#orgdf62e79">48.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 05:30&gt;</span></span>96.5%</a></li>
-<li><a href="#orgea9fa26">48.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 06:20&gt;</span></span>97.7%</a></li>
-<li><a href="#org3acd54f">48.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-24 Tue 06:28&gt;</span></span>97.3%</a></li>
-<li><a href="#org107abba">48.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-24 Tue 09:15&gt;</span></span>98.2%</a></li>
-<li><a href="#orgd8c09fe">48.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 20:24&gt;</span></span>98.2%</a></li>
-<li><a href="#org3ee996a">48.22. text</a>
-<ul>
-<li><a href="#org00ae4a9">48.22.1. a bracelet</a></li>
-<li><a href="#orgbc0da39">48.22.2. a pendant</a></li>
-<li><a href="#org931b0ee">48.22.3. earrings</a></li>
-<li><a href="#orgd16fcba">48.22.4. a ring</a></li>
-<li><a href="#orgacb8200">48.22.5. chain</a></li>
-<li><a href="#org19d9440">48.22.6. a necklace</a></li>
-<li><a href="#org4999667">48.22.7. gold</a></li>
-<li><a href="#org5e3abec">48.22.8. a jeweler</a></li>
-<li><a href="#org537b47d">48.22.9. a jewelry store</a></li>
-<li><a href="#orga98bade">48.22.10. a silver</a></li>
-<li><a href="#orged2c24e">48.22.11. diamond</a></li>
-<li><a href="#orgc203726">48.22.12. jewels</a></li>
-<li><a href="#org0e9f534">48.22.13. text</a></li>
-<li><a href="#org7f07b37">48.22.14. a jewelry store</a></li>
-<li><a href="#org2595bbe">48.22.15. a silver</a></li>
-<li><a href="#org493de80">48.22.16. diamond</a></li>
-<li><a href="#org1b16a8f">48.22.17. jewels</a></li>
-</ul>
-</li>
-<li><a href="#orga174b82">48.23. text</a></li>
-<li><a href="#org2a5d912">48.24. Lesson 46</a></li>
-<li><a href="#orgbdfb2ef">48.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 19:39&gt;</span></span>97.5%</a></li>
-</ul>
-</li>
-<li><a href="#org040e17c">49. <span class="done DONE">DONE</span> Forty seven</a>
-<ul>
-<li><a href="#org19e0f37">49.1. <span class="done DONE">DONE</span> Review 92.5%</a></li>
-<li><a href="#org64a23f7">49.2. <span class="done DONE">DONE</span> Review 96.9%</a></li>
-<li><a href="#orgfae7252">49.3. <span class="done DONE">DONE</span> Review 96.7%</a></li>
-<li><a href="#orgce272c7">49.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 06:31&gt;</span></span>95%</a></li>
-<li><a href="#org0888834">49.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 04:36&gt;</span></span>97%</a></li>
-<li><a href="#orgf35a49c">49.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 05:03&gt;</span></span>98.2%</a></li>
-<li><a href="#orga892d3a">49.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 09:22&gt;</span></span>98.9%</a></li>
-<li><a href="#orgcabe6c0">49.8. text</a>
-<ul>
-<li><a href="#org0efad25">49.8.1. legs</a></li>
-<li><a href="#org0f80e8b">49.8.2. The chest</a></li>
-<li><a href="#orgb50e68f">49.8.3. arms</a></li>
-<li><a href="#org1c8b417">49.8.4. the head</a></li>
-<li><a href="#org40d075e">49.8.5. the belly</a></li>
-<li><a href="#org7b5449d">49.8.6. the mouth</a></li>
-<li><a href="#org66ecb19">49.8.7. the brain</a></li>
-<li><a href="#org2682578">49.8.8. the teeth</a></li>
-<li><a href="#org3a95783">49.8.9. the lungs</a></li>
-<li><a href="#org8c5662c">49.8.10. the tongue</a></li>
-<li><a href="#org05ed16e">49.8.11. the liver</a></li>
-<li><a href="#orgea57af3">49.8.12. the stomach</a></li>
-<li><a href="#orgc5540f9">49.8.13. to see</a></li>
-<li><a href="#org477e635">49.8.14. to speak</a></li>
-<li><a href="#org375a91b">49.8.15. to think</a></li>
-<li><a href="#orgd045f8e">49.8.16. to bite</a></li>
-<li><a href="#orgcfbba72">49.8.17. to breathe</a></li>
-<li><a href="#org9b186b0">49.8.18. to chew</a></li>
-<li><a href="#org8850367">49.8.19. strong teeth</a></li>
-<li><a href="#org66f1ecc">49.8.20. fragile bones</a></li>
-<li><a href="#org63aa67c">49.8.21. strong bones</a></li>
-<li><a href="#org353bda6">49.8.22. strong</a></li>
-<li><a href="#org3b0001a">49.8.23. fragile</a></li>
-<li><a href="#orga970b4f">49.8.24. fragile teeth</a></li>
-</ul>
-</li>
-<li><a href="#orgb99c44a">49.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 03:36&gt;</span></span>97.7%</a></li>
-<li><a href="#orgf7f7f3d">49.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 07:48&gt;</span></span>96.5%</a></li>
-<li><a href="#org0291eda">49.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 14:11&gt;</span></span>97.7%</a></li>
-<li><a href="#org0dbd098">49.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 04:26&gt;</span></span>99.1%</a></li>
-<li><a href="#org7604de8">49.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 05:46&gt;</span></span>99.6%</a></li>
-<li><a href="#org1519ab5">49.14. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 11:50&gt;</span></span>96.3%</a></li>
-<li><a href="#org74489f5">49.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 05:57&gt;</span></span>97.2%</a></li>
-<li><a href="#orgd91bc42">49.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 14:39&gt;</span></span>97.3%</a></li>
-<li><a href="#org3f6208a">49.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 19:14&gt;</span></span>97.6%</a></li>
-<li><a href="#orgde6c928">49.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 13:56&gt;</span></span>97.8%</a></li>
-<li><a href="#org0bb914a">49.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 10:26&gt;</span></span>98.1%</a></li>
-<li><a href="#orga19138b">49.20. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 12:04&gt;</span></span></a></li>
-<li><a href="#orgaf84e2b">49.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 05:56&gt;</span></span>99.1%</a></li>
-<li><a href="#org174a89a">49.22. text</a></li>
-</ul>
-</li>
-<li><a href="#org8595453">50. <span class="done DONE">DONE</span> Lesson Forty eitht 94.8%</a>
-<ul>
-<li><a href="#org209de41">50.1. <span class="done DONE">DONE</span> Review 92.6%</a></li>
-<li><a href="#orgf7bdcc3">50.2. <span class="done DONE">DONE</span> Review 95%</a></li>
-<li><a href="#org8b416c0">50.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 06:02&gt;</span></span>97.4%</a></li>
-<li><a href="#org7ec35c5">50.4. <span class="done DONE">DONE</span> Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 09:02&gt;</span></span>97%</a></li>
-<li><a href="#org54d9381">50.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 05:33&gt;</span></span>99.1%</a></li>
-<li><a href="#org9508231">50.6. text</a>
-<ul>
-<li><a href="#orga701849">50.6.1. a sculptor</a></li>
-<li><a href="#org1f1452e">50.6.2. a ballerina</a></li>
-<li><a href="#orgf011f89">50.6.3. a poet</a></li>
-<li><a href="#org4998ce1">50.6.4. an actor</a></li>
-<li><a href="#org2136c41">50.6.5. a painter</a></li>
-<li><a href="#org086f2e8">50.6.6. a singer</a></li>
-<li><a href="#orgaada094">50.6.7. paints</a></li>
-<li><a href="#orgc0f6d59">50.6.8. wood</a></li>
-<li><a href="#orga2c7041">50.6.9. pencial</a></li>
-<li><a href="#org5e40d98">50.6.10. canvas</a></li>
-<li><a href="#org648c244">50.6.11. clay</a></li>
-<li><a href="#orgd24f652">50.6.12. brushes</a></li>
-<li><a href="#org8f98851">50.6.13. to sculpt</a></li>
-<li><a href="#orgc4b6fa5">50.6.14. to sing</a></li>
-<li><a href="#org5c4facd">50.6.15. to write</a></li>
-<li><a href="#org5432ee0">50.6.16. to carve</a></li>
-<li><a href="#org1bb1215">50.6.17. to dance</a></li>
-<li><a href="#org5d8c360">50.6.18. to draw</a></li>
-<li><a href="#org2d36826">50.6.19. opera</a></li>
-<li><a href="#orgced2da4">50.6.20. a sculpture</a></li>
-<li><a href="#org82af39f">50.6.21. poems</a></li>
-<li><a href="#org66492fe">50.6.22. ballet</a></li>
-<li><a href="#org538cffc">50.6.23. painting</a></li>
-<li><a href="#orgcc81978">50.6.24. a museum</a></li>
-<li><a href="#org7e48063">50.6.25. a famous  painting hangs in a museum.</a></li>
-</ul>
-</li>
-<li><a href="#org99ada8f">50.7. <span class="done DONE">DONE</span> Revew<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-10 Mon 20:27&gt;</span></span>95.7%</a></li>
-<li><a href="#org7ced958">50.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 06:15&gt;</span></span>97.5%</a></li>
-<li><a href="#org986ac3b">50.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 20:45&gt;</span></span>98.9%</a></li>
-<li><a href="#org3c87e52">50.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 03:59&gt;</span></span>99.5%</a></li>
-<li><a href="#org1b59d2c">50.11. <span class="done DONE">DONE</span> Revew<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 07:31&gt;</span></span>96.6%</a></li>
-<li><a href="#orgfeb384c">50.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 10:19&gt;</span></span>97.6%</a></li>
-<li><a href="#orgb4b5b14">50.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 18:27&gt;</span></span>98.9%</a></li>
-<li><a href="#org1645c4e">50.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 21:02&gt;</span></span>98.5</a></li>
-<li><a href="#org27659f4">50.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 07:09&gt;</span></span>99.4%</a></li>
-<li><a href="#orgce80096">50.16. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 08:40&gt;</span></span></a></li>
-<li><a href="#org83dc3ec">50.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 09:53&gt;</span></span>99.8%</a></li>
-<li><a href="#orgc2c055e">50.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 05:32&gt;</span></span>98.8%</a></li>
-<li><a href="#orgdb653af">50.19. Lesson forty eight</a></li>
-</ul>
-</li>
-<li><a href="#orgb2d9553">51. <span class="done DONE">DONE</span> Forty nine 96.3%</a>
-<ul>
-<li><a href="#org830106a">51.1. <span class="done DONE">DONE</span> Review 94.7%</a></li>
-<li><a href="#org9c9142b">51.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 04:17&gt;</span></span>96%</a></li>
-<li><a href="#orgcffe261">51.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 04:46&gt;</span></span>99.0%</a></li>
-<li><a href="#org774579a">51.4. text</a></li>
-<li><a href="#org4190b1f">51.5. a capital</a></li>
-<li><a href="#org6cc305e">51.6. an emblem</a>
-<ul>
-<li><a href="#org065a0c8">51.6.1. a building</a></li>
-<li><a href="#orga8376b9">51.6.2. a flag</a></li>
-<li><a href="#orgcc95146">51.6.3. a country</a></li>
-<li><a href="#org04313f1">51.6.4. a city</a></li>
-<li><a href="#org9e780a3">51.6.5. a government</a></li>
-<li><a href="#orgae451bc">51.6.6. a president</a></li>
-<li><a href="#org58a3bc0">51.6.7. a citizen</a></li>
-<li><a href="#orgcce3172">51.6.8. a government building</a></li>
-<li><a href="#orgf0a0f6c">51.6.9. to run</a></li>
-<li><a href="#org7311a95">51.6.10. The government is located in the capital.</a></li>
-<li><a href="#orga231cd7">51.6.11. A weak government doesn't ensure peace in the country.</a></li>
-<li><a href="#org08ae6cb">51.6.12. A weak government doesn't ensure peace in the country.</a></li>
-</ul>
-</li>
-<li><a href="#org762ab6a">51.7. <span class="done DONE">DONE</span> Review Forty nine 95.3%</a></li>
-<li><a href="#org66ace8f">51.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 04:34&gt;</span></span>98.7%</a></li>
-<li><a href="#org418c1ba">51.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 14:17&gt;</span></span>95.1%</a></li>
-<li><a href="#orgb3441f3">51.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 19:18&gt;</span></span>97.1%</a></li>
-<li><a href="#org841a841">51.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 20:27&gt;</span></span>96.7%</a></li>
-<li><a href="#org824c075">51.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 06:08&gt;</span></span>97.7%</a></li>
-<li><a href="#org6792d66">51.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 07:32&gt;</span></span>98.5%</a></li>
-<li><a href="#org5f77072">51.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 19:11&gt;</span></span>99.3%</a></li>
-<li><a href="#org45f7799">51.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 11:13&gt;</span></span>96.2%</a></li>
-<li><a href="#orgaadfafa">51.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 12:18&gt;</span></span>97.8%</a></li>
-<li><a href="#orgb9b7ec3">51.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 20:29&gt;</span></span>98.1%</a></li>
-<li><a href="#orgfd637da">51.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 06:24&gt;</span></span>98.5%</a></li>
-<li><a href="#orgba0083d">51.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 20:22&gt;</span></span>98.6%</a></li>
-<li><a href="#orgc89ed84">51.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 09:59&gt;</span></span>98.5%</a></li>
-<li><a href="#orgf8311c8">51.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 17:25&gt;</span></span>98.8%</a></li>
-<li><a href="#org8b0f498">51.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 17:52&gt;</span></span>99.3%</a></li>
-<li><a href="#orgb939381">51.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 21:10&gt;</span></span>96.5%</a></li>
-<li><a href="#org9978d5a">51.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 20:29&gt;</span></span>98.5%</a></li>
-<li><a href="#org567d42d">51.25. Lesson forty nine</a></li>
-</ul>
-</li>
-<li><a href="#orgabed31b">52. <span class="done DONE">DONE</span> Fifty 95.0%</a>
-<ul>
-<li><a href="#org17b44b6">52.1. Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 12:11&gt;</span></span>98.8%</a></li>
-<li><a href="#org0279f3c">52.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 18:39&gt;</span></span>99.2%</a></li>
-<li><a href="#org0612fe8">52.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 02:20&gt;</span></span>99.1%</a></li>
-<li><a href="#orgb483837">52.4. text</a></li>
-<li><a href="#org48d1015">52.5. <span class="done DONE">DONE</span> Review Fifty 96.7%</a></li>
-<li><a href="#org3c2ebb7">52.6. <span class="done DONE">DONE</span> Review 96.4%</a></li>
-<li><a href="#org7f652bc">52.7. <span class="done DONE">DONE</span> Review 96.7%</a></li>
-<li><a href="#orgc4f18d6">52.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 03:56&gt;</span></span>99.1%</a></li>
-<li><a href="#orgf867b14">52.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 05:02&gt;</span></span>99.6%</a></li>
-<li><a href="#orgbf9e0af">52.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 06:33&gt;</span></span>98.6%</a></li>
-<li><a href="#org1a3c2e8">52.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 19:49&gt;</span></span>99.3%</a></li>
-<li><a href="#org122053a">52.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 05:31&gt;</span></span>99.4%</a></li>
-<li><a href="#orgbe2c476">52.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 16:16&gt;</span></span>97.1%</a></li>
-<li><a href="#org0d0f9a1">52.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 17:51&gt;</span></span>98.8%</a></li>
-<li><a href="#org6c975c4">52.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 05:56&gt;</span></span>98.2%</a></li>
-<li><a href="#org93e75bf">52.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-08 Tue 05:01&gt;</span></span>98.3%</a></li>
-<li><a href="#org2cd922a">52.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-14 Mon 06:10&gt;</span></span>97.4%</a></li>
-<li><a href="#orgda5b1da">52.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-20 Fri 05:52&gt;</span></span>97.1%</a></li>
-<li><a href="#orgad4b653">52.19. <span class="done DONE">DONE</span> Writing</a></li>
-<li><a href="#org65aea10">52.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-20 Fri 21:21&gt;</span></span>97.5%</a></li>
-<li><a href="#org2f2573b">52.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-21 Sat 06:27&gt;</span></span>98.5%</a></li>
-<li><a href="#org7c0cf16">52.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 11:55&gt;</span></span>98.2%</a></li>
-<li><a href="#orge0bdaf6">52.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 20:10&gt;</span></span>98.4%</a></li>
-<li><a href="#org0bbaa79">52.24. Lesson fifty</a></li>
-</ul>
-</li>
-<li><a href="#org0857226">53. <span class="done DONE">DONE</span> listen</a></li>
-<li><a href="#orgb9130e0">54. <span class="done DONE">DONE</span> listen 英语发音unit one</a>
-<ul>
-<li><a href="#org5e56f2d">54.1. words</a>
-<ul>
-<li><a href="#orgffa1906">54.1.1. neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 Tue&gt;</span></span></a></li>
-</ul>
-</li>
-<li><a href="#org29f8e13">54.2. <span class="todo TODO">TODO</span> </a>
-<ul>
-<li><a href="#org7aebd4f">54.2.1. text</a></li>
-<li><a href="#orgbe0e4f3">54.2.2. to receive</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#orge8a4195">55. <span class="done DONE">DONE</span> Wrting<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 15:13&gt;</span></span></a></li>
+<li><a href="#org9dbc56b">1. <span class="done DONE">DONE</span> Lesson one&#xa0;&#xa0;&#xa0;<span class="tag"><span class="one">one</span></span></a>
+<ul>
+<li><a href="#org2bcb7f5">1.1. text</a></li>
+<li><a href="#orgf16df7c">1.2. <span class="done DONE">DONE</span> Review 98.4%</a></li>
+<li><a href="#org002548a">1.3. 复习98.7%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="one">one</span></span></a></li>
+<li><a href="#orgb4ca479">1.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 06:41&gt; </span></span> 99.4%</a></li>
+<li><a href="#org83adba7">1.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 20:33&gt; </span></span> 99.7%</a></li>
+<li><a href="#org17267e1">1.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 15:08&gt;</span></span>99.9%</a></li>
+<li><a href="#org962d2ce">1.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 07:08&gt;</span></span>99.9%</a></li>
+<li><a href="#org7fec6b8">1.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 09:06&gt;</span></span>100%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="LOGBOOK">LOGBOOK</span></span></a></li>
+<li><a href="#org819077d">1.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 06:30&gt;</span></span>99.4%</a></li>
+<li><a href="#orgb7e7b34">1.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 06:33&gt;</span></span>99.3%k</a></li>
+<li><a href="#org9bf03c2">1.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 05:38&gt;</span></span>99.5%</a></li>
+<li><a href="#orgd9d56fe">1.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 09:40&gt;</span></span>99.5%</a></li>
+<li><a href="#orga4813c7">1.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 19:00&gt;</span></span>99.5%</a></li>
+<li><a href="#org086b290">1.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-13 Thu 20:19&gt;</span></span>93.9%</a></li>
+<li><a href="#orgc60880d">1.15. Lesson 1</a></li>
+</ul>
+</li>
+<li><a href="#org12740e6">2. <span class="done DONE">DONE</span> Lesson two</a>
+<ul>
+<li><a href="#org3d7c8c4">2.1. <span class="done DONE">DONE</span> Review 99%</a></li>
+<li><a href="#org36b193b">2.2. <span class="done DONE">DONE</span> 复习98.9%</a></li>
+<li><a href="#org1055918">2.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 18:41&gt;</span></span>100%</a></li>
+<li><a href="#org2ef1a63">2.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 06:29&gt;</span></span>99.8%</a></li>
+<li><a href="#org84d37cf">2.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 07:05&gt;</span></span>99.4%</a></li>
+<li><a href="#org67959ca">2.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 05:24&gt;</span></span>99.6%</a></li>
+<li><a href="#org64b551c">2.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 09:57&gt;</span></span>99.9%</a></li>
+<li><a href="#org8f36b4d">2.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 17:14&gt;</span></span>99.7%</a></li>
+<li><a href="#org09e86f7">2.9. Lesson 2</a></li>
+</ul>
+</li>
+<li><a href="#orgb23daa3">3. <span class="done DONE">DONE</span> Lesson three 97.4%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="three">three</span></span></a>
+<ul>
+<li><a href="#org36b1550">3.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 14:41&gt; </span></span> 98.5%</a></li>
+<li><a href="#org630a832">3.2. <span class="done DONE">DONE</span> 复习98.3</a></li>
+<li><a href="#orge53b35b">3.3. <span class="done DONE">DONE</span> Review three 97.2%</a></li>
+<li><a href="#org747294f">3.4. text</a></li>
+<li><a href="#org9b01188">3.5. <span class="done DONE">DONE</span> Review 98%</a></li>
+<li><a href="#orgd00f443">3.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 10:00&gt;</span></span>98.8%</a></li>
+<li><a href="#org3e67bc4">3.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 05:36&gt;</span></span>99.1%</a></li>
+<li><a href="#orgf52af9f">3.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 05:51&gt;</span></span>99.5%</a></li>
+<li><a href="#orgf86ef6c">3.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 09:39&gt;</span></span>99.6%</a></li>
+<li><a href="#orgd0f5e38">3.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 07:35&gt;</span></span>99.6%</a></li>
+<li><a href="#org3f9e872">3.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 19:49&gt;</span></span>99.7%</a></li>
+<li><a href="#org2dfc9db">3.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 13:55&gt;</span></span>99.3%</a></li>
+<li><a href="#org73b66dd">3.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 14:15&gt;</span></span>99.6%</a></li>
+<li><a href="#org37f8f2e">3.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 14:31&gt;</span></span>99.9%</a></li>
+<li><a href="#org41a780f">3.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 19:19&gt;</span></span>99.9%</a></li>
+<li><a href="#org841e33f">3.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 19:37&gt;</span></span>99.9%</a></li>
+<li><a href="#org1f2461c">3.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 10:36&gt;</span></span>100%</a></li>
+<li><a href="#orgd90b1a3">3.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 09:08&gt;</span></span>99.6%</a></li>
+<li><a href="#org4a367cd">3.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 03:59&gt;</span></span>99.2%</a></li>
+<li><a href="#org19564a6">3.20. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 05:04&gt;</span></span>98.8%</a></li>
+<li><a href="#org853bdcf">3.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 10:10&gt;</span></span>99.8%</a></li>
+<li><a href="#orgb3c400b">3.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 19:27&gt;</span></span>99.6%</a></li>
+<li><a href="#orgf2a0c18">3.23. Lesson 3</a></li>
+</ul>
+</li>
+<li><a href="#org348cdf8">4. <span class="done DONE">DONE</span> Lesson four 98%&#xa0;&#xa0;&#xa0;<span class="tag"><span class="four">four</span></span></a>
+<ul>
+<li><a href="#org5cbe4c8">4.1. <span class="done DONE">DONE</span> 复习98.3%</a></li>
+<li><a href="#orgc2f4577">4.2. <span class="done DONE">DONE</span> Review 98.7%</a></li>
+<li><a href="#org7e47be9">4.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 16:12&gt; </span></span> 96.1%</a></li>
+<li><a href="#orgb722a82">4.4. <span class="done DONE">DONE</span> Review four 98.3%</a></li>
+<li><a href="#org3ec890f">4.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 10:18&gt;</span></span>99.3%</a></li>
+<li><a href="#org3096a8c">4.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 09:27&gt;</span></span>99.3%</a></li>
+<li><a href="#org590c82d">4.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 10:50&gt;</span></span>99.6%</a></li>
+<li><a href="#orga261a7c">4.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 06:12&gt;</span></span>99.9%</a></li>
+<li><a href="#org7a69c65">4.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;1970-10-19 Mon&gt;</span></span>99.8%</a></li>
+<li><a href="#org08e2ef5">4.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 20:08&gt;</span></span>100%</a></li>
+<li><a href="#orgc4e1434">4.11. text</a></li>
+<li><a href="#org351c0ee">4.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 09:57&gt;</span></span>99.7%</a></li>
+<li><a href="#orgcadf3fb">4.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 04:19&gt;</span></span>99.5%</a></li>
+<li><a href="#org6f114da">4.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 03:31&gt;</span></span>99.2%</a></li>
+<li><a href="#org4baeec8">4.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 20:47&gt;</span></span>98.8%</a></li>
+<li><a href="#org87d973c">4.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 20:28&gt;</span></span>99.4%</a></li>
+<li><a href="#orgaf6bfdf">4.17. Lesson 4</a></li>
+</ul>
+</li>
+<li><a href="#org5be19d4">5. <span class="done DONE">DONE</span> Lesson five 97.2%</a>
+<ul>
+<li><a href="#org2bf41ef">5.1. <span class="done DONE">DONE</span> Review 95.8%&#x2013;&gt;97.6%</a></li>
+<li><a href="#org3e7aec5">5.2. <span class="done DONE">DONE</span> Review 96.7%</a></li>
+<li><a href="#org6482686">5.3. <span class="done DONE">DONE</span> learn97.7%</a></li>
+<li><a href="#org4088a7e">5.4. <span class="done DONE">DONE</span> Review 97.8%</a></li>
+<li><a href="#org39706be">5.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 16:12&gt; </span></span> 98%</a></li>
+<li><a href="#org31b5d4c">5.6. <span class="done DONE">DONE</span> Review five 97.2%</a></li>
+<li><a href="#org7af77e3">5.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 14:13&gt; </span></span> 97.9%</a></li>
+<li><a href="#org938d517">5.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 11:08&gt;</span></span>98.9%</a></li>
+<li><a href="#org29c640e">5.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 11:36&gt;</span></span>99.2%</a></li>
+<li><a href="#org74b8b88">5.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 15:19&gt;</span></span>99.4%</a></li>
+<li><a href="#org0ac97c1">5.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 20:05&gt;</span></span>99.7%</a></li>
+<li><a href="#org0abffe7">5.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 20:23&gt;</span></span>99.5%</a></li>
+<li><a href="#org71bb6c8">5.13. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-04 Tue 10:56&gt;</span></span>99.3%</a></li>
+<li><a href="#orgc2d80f6">5.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 04:18&gt;</span></span>99.6%</a></li>
+<li><a href="#orgc9e96c8">5.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 04:38&gt;</span></span>99.8%</a></li>
+<li><a href="#org68fbb5d">5.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 05:03&gt;</span></span>99.5%</a></li>
+<li><a href="#orgbbc702c">5.17. text</a></li>
+<li><a href="#org902f681">5.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 11:47&gt;</span></span>99.7%</a></li>
+<li><a href="#orgb4ca4c6">5.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 16:03&gt;</span></span>99.1%</a></li>
+<li><a href="#orgabca50e">5.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 09:36&gt;</span></span>99.6%</a></li>
+<li><a href="#org915944f">5.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 19:29&gt;</span></span>99.8%</a></li>
+<li><a href="#org84b3452">5.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-10 Thu 11:32&gt;</span></span></a></li>
+<li><a href="#org1240c1d">5.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 11:59&gt;</span></span>99.3%</a></li>
+<li><a href="#org4856fb1">5.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 04:36&gt;</span></span>99.4%</a></li>
+<li><a href="#orgb7e37eb">5.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 02:48&gt;</span></span>98.8%</a></li>
+<li><a href="#org69b62b2">5.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 05:31&gt;</span></span>99.2%</a></li>
+<li><a href="#orgdefcc76">5.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 04:32&gt;</span></span>99.5%</a></li>
+<li><a href="#org4e5577a">5.28. Lesson 5</a></li>
+</ul>
+</li>
+<li><a href="#org6a6fb6a">6. <span class="done DONE">DONE</span> Lesson six 99.1% good</a>
+<ul>
+<li><a href="#org19f1d08">6.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 16:34&gt; </span></span> 98%</a></li>
+<li><a href="#orge8a9085">6.2. <span class="done DONE">DONE</span> Review six 97.3%</a></li>
+<li><a href="#org22415a7">6.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 06:48&gt;</span></span>98%</a></li>
+<li><a href="#org507c0c3">6.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 14:06&gt;</span></span>99.4%</a></li>
+<li><a href="#orgefa8dcb">6.5. text</a></li>
+<li><a href="#org8e96472">6.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-29 Thu 05:35&gt;</span></span>99.6%</a></li>
+<li><a href="#org87280c1">6.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 15:53&gt;</span></span>99.7%</a></li>
+<li><a href="#orgc553a9d">6.8. <span class="done DONE">DONE</span> learn six 97.4%</a></li>
+<li><a href="#orgd95b983">6.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 17:14&gt;</span></span>98%</a></li>
+<li><a href="#org7af0db0">6.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 15:34&gt;</span></span>99.4%</a></li>
+<li><a href="#org7317be3">6.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 20:05&gt;</span></span>99.6%</a></li>
+<li><a href="#org8c155e9">6.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 16:13&gt;</span></span>99.7%</a></li>
+<li><a href="#org55fe1c8">6.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 15:26&gt;</span></span>99.6%</a></li>
+<li><a href="#org6a94161">6.14. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 15:43&gt;</span></span>99.7%</a></li>
+<li><a href="#org4b031ce">6.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 16:00&gt;</span></span>99.4%</a></li>
+<li><a href="#org726da21">6.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 05:50&gt;</span></span>99.9%</a></li>
+<li><a href="#orgef684f7">6.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-28 Tue 21:03&gt;</span></span>99.2%</a></li>
+<li><a href="#org0694702">6.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 05:44&gt;</span></span>98.8%</a></li>
+<li><a href="#org2655f05">6.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 02:31&gt;</span></span>99.0%</a></li>
+<li><a href="#org92b399f">6.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 09:47&gt;</span></span>98.3%</a></li>
+<li><a href="#org0e7624f">6.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 04:51&gt;</span></span>99.1%</a></li>
+<li><a href="#org58cca89">6.22. Lesson6</a></li>
+</ul>
+</li>
+<li><a href="#orga30a578">7. <span class="done DONE">DONE</span> Lesson seven 97.7%</a>
+<ul>
+<li><a href="#orgbd79576">7.1. <span class="done DONE">DONE</span> Review 99.1%</a></li>
+<li><a href="#orge1eb0cf">7.2. <span class="done DONE">DONE</span> Review Seven 97.7%</a></li>
+<li><a href="#org95f9056">7.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 19:20&gt; </span></span> 98%</a></li>
+<li><a href="#org7a17c37">7.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 10:03&gt;</span></span>99%</a></li>
+<li><a href="#org6b5abfb">7.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 04:49&gt;</span></span>99.3%</a></li>
+<li><a href="#org52ccabe">7.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 21:01&gt;</span></span>99.7%</a></li>
+<li><a href="#orgb10c2db">7.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun&gt;</span></span>99.6%</a></li>
+<li><a href="#org5d10695">7.8. text</a></li>
+<li><a href="#orga9e132b">7.9. <span class="done DONE">DONE</span> Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 18:41&gt;</span></span>99.8%</a></li>
+<li><a href="#orgbe64d0a">7.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 06:37&gt;</span></span>99%</a></li>
+<li><a href="#org59e7852">7.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 07:53&gt;</span></span>98.8%</a></li>
+<li><a href="#orgf3c5f6c">7.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 08:14&gt;</span></span>99%</a></li>
+<li><a href="#orgfd95ccd">7.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:16&gt;</span></span>99.1%</a></li>
+<li><a href="#orgf348b2a">7.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 19:50&gt;</span></span>99.5%</a></li>
+<li><a href="#org3d0050e">7.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 05:59&gt;</span></span>99.5%</a></li>
+<li><a href="#org5f2b0ae">7.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-25 Sat 16:57&gt;</span></span>97.7%</a></li>
+<li><a href="#org10eced5">7.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 10:05&gt;</span></span>98.9%</a></li>
+<li><a href="#orgb26e28a">7.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 05:31&gt;</span></span>99.0%</a></li>
+<li><a href="#orgc95e89b">7.19. Lesson 7</a></li>
+</ul>
+</li>
+<li><a href="#orgf68eb4f">8. <span class="done DONE">DONE</span> lesson eight 97.9%</a>
+<ul>
+<li><a href="#org7e5ef2c">8.1. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-07 Tue 16:29&gt;</span></span>98%</a></li>
+<li><a href="#orgcf024b9">8.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 11:21&gt;</span></span>99.1%</a></li>
+<li><a href="#org55b6025">8.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-25 Sat 06:10&gt;</span></span>99.3%</a></li>
+<li><a href="#org7ecbc53">8.4. <span class="done DONE">DONE</span> Review 98.4%</a></li>
+<li><a href="#org30ded4d">8.5. <span class="done DONE">DONE</span> Review 99.1%</a></li>
+<li><a href="#orgf8e44d5">8.6. <span class="done DONE">DONE</span> Review Eight 98.8% very good</a></li>
+<li><a href="#orgd1cf93a">8.7. <span class="done DONE">DONE</span> Review eight 96.8%</a></li>
+<li><a href="#org137278d">8.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 10:38&gt; </span></span> 98.2%</a></li>
+<li><a href="#orgcad385c">8.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 12:03&gt;</span></span>98.5%</a></li>
+<li><a href="#org65e8a2b">8.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 05:07&gt;</span></span>99.6%</a></li>
+<li><a href="#org378e270">8.11. <span class="done DONE">DONE</span> Review 99.8%</a></li>
+<li><a href="#orgadf617e">8.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 20:56&gt;</span></span>99.7%</a></li>
+<li><a href="#orgcd99db3">8.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 08:55&gt;</span></span>99.9%</a></li>
+<li><a href="#orgc644a94">8.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:30&gt;</span></span>99.1%</a></li>
+<li><a href="#org8e7da2e">8.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 07:33&gt;</span></span>98.7%</a></li>
+<li><a href="#org36fb7c8">8.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 07:44&gt;</span></span></a></li>
+<li><a href="#org3f05fb0">8.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 10:21&gt;</span></span>98.9%</a></li>
+<li><a href="#org35affae">8.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 05:46&gt;</span></span>99.2%</a></li>
+<li><a href="#orgf33b29b">8.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-23 Sun 20:01&gt;</span></span>99.7%</a></li>
+<li><a href="#org6909943">8.20. Lesson 8</a></li>
+</ul>
+</li>
+<li><a href="#org76cce7c">9. <span class="done DONE">DONE</span> Lesson nine 97.6%</a>
+<ul>
+<li><a href="#orgcd0105f">9.1. <span class="done DONE">DONE</span> Review Nine 99.0% very good</a></li>
+<li><a href="#orga70e970">9.2. <span class="done DONE">DONE</span> Review nine 95.9%</a></li>
+<li><a href="#orgabe62e9">9.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 11:43&gt; </span></span> 96.7%</a></li>
+<li><a href="#org4e9fdd7">9.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 19:08&gt;</span></span>98.4%</a></li>
+<li><a href="#org7faee1a">9.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 08:17&gt;</span></span>99.3%</a></li>
+<li><a href="#orgff325e1">9.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 19:24&gt;</span></span>99.5%</a></li>
+<li><a href="#org03f45dc">9.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 19:53&gt;</span></span>99.6%</a></li>
+<li><a href="#orgee2cecd">9.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 14:17&gt;</span></span>99.9%</a></li>
+<li><a href="#orgd55e349">9.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 04:41&gt;</span></span>99.9%</a></li>
+<li><a href="#org1971cbf">9.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:51&gt;</span></span>98.8%</a></li>
+<li><a href="#org0c8973d">9.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 08:20&gt;</span></span>99%</a></li>
+<li><a href="#orga6eaa9f">9.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-23 Thu 19:18&gt;</span></span>9,10</a></li>
+<li><a href="#orgf99816f">9.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 15:38&gt;</span></span>97.5%</a></li>
+<li><a href="#orgc39cc05">9.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-25 Sat 04:27&gt;</span></span>99%</a></li>
+<li><a href="#org8d7e84b">9.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-25 Sat 05:51&gt;</span></span>98.8%</a></li>
+<li><a href="#orgd1974e8">9.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 12:07&gt;</span></span>97.9%</a></li>
+<li><a href="#orgc8403de">9.17. <span class="done DONE">DONE</span> Furniture <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-22 Sat 16:11&gt;</span></span>99.8%</a></li>
+<li><a href="#org03e7919">9.18. Lesson 9</a></li>
+</ul>
+</li>
+<li><a href="#orgc7aff32">10. <span class="done DONE">DONE</span> Lesson ten 97.9%</a>
+<ul>
+<li><a href="#orgd06fa86">10.1. <span class="done DONE">DONE</span> Review 96.3%</a></li>
+<li><a href="#org6949644">10.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 15:15&gt; </span></span> 97.6%</a></li>
+<li><a href="#org23ac923">10.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 20:09&gt;</span></span>98.1%</a></li>
+<li><a href="#orgf862868">10.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 08:46&gt;</span></span>99.3%</a></li>
+<li><a href="#orgae2ce76">10.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 19:43&gt;</span></span>99.6%</a></li>
+<li><a href="#org28b0e81">10.6. text</a></li>
+<li><a href="#org4318725">10.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 14:35&gt;</span></span>99.7%</a></li>
+<li><a href="#orgdbcd031">10.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 07:01&gt;</span></span>99.7%</a></li>
+<li><a href="#org7c19936">10.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 07:23&gt;</span></span>99.3%</a></li>
+<li><a href="#org258e641">10.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 10:23&gt;</span></span>99.7%</a></li>
+<li><a href="#org116dbc0">10.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 17:25&gt;</span></span>99.6%</a></li>
+<li><a href="#orgcdb49f9">10.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 08:07&gt;</span></span>98.7%</a></li>
+<li><a href="#org7222762">10.13. <span class="done DONE">DONE</span> Lession 10<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 05:41&gt;</span></span>98.4%</a></li>
+<li><a href="#org71c3847">10.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 13:24&gt;</span></span>97.1%</a></li>
+<li><a href="#org50966aa">10.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 10:30&gt;</span></span>99.3%</a></li>
+<li><a href="#org2372366">10.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-08 Wed 16:48&gt;</span></span>98.3%</a></li>
+<li><a href="#orgfb7eab0">10.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 16:02&gt;</span></span>96.9%</a></li>
+<li><a href="#org18a4d9c">10.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 18:52&gt;</span></span>98.9%</a></li>
+<li><a href="#orgb4745e6">10.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-25 Sat 04:09&gt;</span></span>98.4%</a></li>
+<li><a href="#org520a756">10.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 17:23&gt;</span></span>98.8</a></li>
+<li><a href="#org5ca6615">10.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 05:24&gt;</span></span>98.8%</a></li>
+<li><a href="#org48a37b5">10.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 08:16&gt;</span></span>99.3%</a></li>
+<li><a href="#orgaa3c1c2">10.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 07:06&gt;</span></span>98.8%</a></li>
+<li><a href="#org68b0e26">10.24. <span class="done DONE">DONE</span> Urban life and hobbies<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-22 Sat 19:43&gt;</span></span>99.4%</a></li>
+<li><a href="#orgd18ced7">10.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-23 Sun 16:26&gt;</span></span>99.6%</a></li>
+<li><a href="#org4390c9a">10.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 18:59&gt;</span></span>97.8%</a></li>
+<li><a href="#orgec02b52">10.27. Lesson 10</a></li>
+</ul>
+</li>
+<li><a href="#orgb4f0fbc">11. <span class="done DONE">DONE</span> Lesson eleven 98.8%</a>
+<ul>
+<li><a href="#org8159cb7">11.1. <span class="done DONE">DONE</span> Review 98%</a></li>
+<li><a href="#org06e0467">11.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 16:05&gt;</span></span>98.5%</a></li>
+<li><a href="#org5067d6e">11.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 10:27&gt;</span></span>98%</a></li>
+<li><a href="#orgb1e76e8">11.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 17:20&gt;</span></span>99.5%</a></li>
+<li><a href="#orge217023">11.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 09:24&gt;</span></span>99.9%</a></li>
+<li><a href="#org61c18e7">11.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 20:35&gt;</span></span>98.5%</a></li>
+<li><a href="#org780a8e8">11.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 18:54&gt;</span></span>98.8%</a></li>
+<li><a href="#org2bd9719">11.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 16:14&gt;</span></span>99.4%</a></li>
+<li><a href="#orgef8a4d7">11.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-08 Wed 19:07&gt;</span></span>99.0%</a></li>
+<li><a href="#org00c55ad">11.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 14:43&gt;</span></span>98.4%</a></li>
+<li><a href="#org6152782">11.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 05:05&gt;</span></span>98.7%</a></li>
+<li><a href="#orgbd5f211">11.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 08:35&gt;</span></span>99.2%</a></li>
+<li><a href="#orgf4ae132">11.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 10:09&gt;</span></span>98.7%</a></li>
+<li><a href="#org179a8df">11.14. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-24 Mon 04:58&gt;</span></span>99.8%</a></li>
+<li><a href="#org577439d">11.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 18:38&gt;</span></span>99.1%</a></li>
+<li><a href="#org97c0f90">11.16. Lesson 11</a></li>
+</ul>
+</li>
+<li><a href="#org753fc94">12. <span class="done DONE">DONE</span> Lesson twelve 98.4%</a>
+<ul>
+<li><a href="#orge0516bc">12.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 18:45&gt;</span></span>97.9%</a></li>
+<li><a href="#org8dd5255">12.2. <span class="done DONE">DONE</span> Review 97.7%</a></li>
+<li><a href="#org655ffab">12.3. <span class="done DONE">DONE</span> Review twelve 97.5%</a></li>
+<li><a href="#org99af6f0">12.4. <span class="done DONE">DONE</span> Review eleven and twelve</a></li>
+<li><a href="#orgdf8de0c">12.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 17:42&gt;</span></span>99%</a></li>
+<li><a href="#org9bcfae3">12.6. <span class="done DONE">DONE</span> Review eleven 98.6%</a></li>
+<li><a href="#org4c420ff">12.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 11:46&gt;</span></span>99.8%</a></li>
+<li><a href="#org3eaa8f5">12.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 21:04&gt;</span></span>98.5%</a></li>
+<li><a href="#orgcd79553">12.9. text</a></li>
+<li><a href="#orga31d08f">12.10. words</a></li>
+<li><a href="#org55818d5">12.11. <span class="done CANCELLED">CANCELLED</span> text</a></li>
+<li><a href="#orge11dedd">12.12. words</a></li>
+<li><a href="#org9ae9992">12.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-26 Mon 03:37&gt;</span></span>99.4%</a></li>
+<li><a href="#org0d784da">12.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 20:02&gt;</span></span>99%</a></li>
+<li><a href="#orgc3ee760">12.15. <span class="done DONE">DONE</span> writing</a></li>
+<li><a href="#org8c49156">12.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 15:05&gt;</span></span>99%</a></li>
+<li><a href="#orgedcd6b5">12.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 14:33&gt;</span></span>98.9%</a></li>
+<li><a href="#org12abde1">12.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 09:39&gt;</span></span>98.8%</a></li>
+<li><a href="#orgeb3a4d9">12.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 10:28&gt;</span></span>90%</a></li>
+<li><a href="#org4d00f85">12.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-24 Mon 05:30&gt;</span></span>99.6%</a></li>
+<li><a href="#orgcdff8fb">12.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 16:07&gt;</span></span>98.4%</a></li>
+<li><a href="#orgffbcd59">12.22. Lesson 12</a></li>
+</ul>
+</li>
+<li><a href="#org07ee31f">13. <span class="done DONE">DONE</span> Lesson thirteen</a>
+<ul>
+<li><a href="#org5c8c4a8">13.1. <span class="done DONE">DONE</span> Review 98.1%</a></li>
+<li><a href="#org9b0a3f6">13.2. Lesson thirteen</a></li>
+<li><a href="#org579882e">13.3. <span class="done DONE">DONE</span> 复习lesson thirty 98.7%</a></li>
+<li><a href="#orgee184b3">13.4. <span class="done DONE">DONE</span> Review 97.6%</a></li>
+<li><a href="#org289382a">13.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 20:09&gt; </span></span> 97.9%</a></li>
+<li><a href="#org632adc5">13.6. <span class="done DONE">DONE</span> Review thirteen 97.7%</a></li>
+<li><a href="#org1c0ba20">13.7. <span class="done DONE">DONE</span> Revie:98.1%</a></li>
+<li><a href="#org84b1a36">13.8. <span class="done DONE">DONE</span> Review thirteen 97.7%</a></li>
+<li><a href="#org05cf810">13.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 20:50&gt; </span></span> 99.1%</a></li>
+<li><a href="#orga9345c5">13.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 14:52&gt;</span></span>99.7%</a></li>
+<li><a href="#orgf98280d">13.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 05:53&gt;</span></span>99.0%</a></li>
+<li><a href="#orga294ac6">13.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 05:25&gt;</span></span>98.7%</a></li>
+<li><a href="#org573d446">13.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-26 Mon 05:43&gt;</span></span>98.5%</a></li>
+<li><a href="#orgb54cea3">13.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 10:52&gt;</span></span>99.4%</a></li>
+<li><a href="#org88a3721">13.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 08:35&gt;</span></span>99.1%</a></li>
+<li><a href="#org9a1236c">13.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 21:09&gt;</span></span>98.5%</a></li>
+<li><a href="#org720e7b7">13.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 16:35&gt;</span></span>99.1%</a></li>
+<li><a href="#orgc49165f">13.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 14:14&gt;</span></span>98.7%</a></li>
+<li><a href="#orgb68dca5">13.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 14:35&gt;</span></span>98.7%</a></li>
+<li><a href="#orgf02897d">13.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 15:01&gt;</span></span>98.1%</a></li>
+<li><a href="#org9bae7e7">13.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-24 Mon 08:20&gt;</span></span>99.7%</a></li>
+<li><a href="#org867999f">13.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 15:52&gt;</span></span>98.8%</a></li>
+<li><a href="#orgfec4e0c">13.23. Lesson13</a></li>
+</ul>
+</li>
+<li><a href="#orgcc92a69">14. <span class="done DONE">DONE</span> lesson fourteen 98.3</a>
+<ul>
+<li><a href="#org23901b8">14.1. <span class="done DONE">DONE</span> Review fourteen 97.4%</a></li>
+<li><a href="#orgce6dfbe">14.2. <span class="done DONE">DONE</span> Review fourteen 96.8%</a></li>
+<li><a href="#org52207c6">14.3. <span class="done DONE">DONE</span> Review fourteen 97.7%</a></li>
+<li><a href="#orgc9957e2">14.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 20:59&gt; </span></span> 98%</a></li>
+<li><a href="#orgf7c0e87">14.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 05:20&gt;</span></span>97.5%</a></li>
+<li><a href="#orgf16d493">14.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 20:36&gt;</span></span>98.8%</a></li>
+<li><a href="#org517b4f1">14.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 09:59&gt;</span></span>99.5%</a></li>
+<li><a href="#orgfa108eb">14.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 09:56&gt;</span></span>99.5%</a></li>
+<li><a href="#org24c6bab">14.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 20:31&gt;</span></span>99.7%</a></li>
+<li><a href="#orgc2bad6b">14.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 06:02&gt;</span></span>98.1%</a></li>
+<li><a href="#orgd1dff75">14.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 13:59&gt;</span></span>98.5%</a></li>
+<li><a href="#org4096ea6">14.12. text</a>
+<ul>
+<li><a href="#orgb868a1c">14.12.1. words</a></li>
+</ul>
+</li>
+<li><a href="#org968a01a">14.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-27 Tue 10:36&gt;</span></span>99%</a></li>
+<li><a href="#orgebba114">14.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-06 Mon 05:34&gt;</span></span>98.2%</a></li>
+<li><a href="#orge8f9293">14.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 04:09&gt;</span></span>98.9%</a></li>
+<li><a href="#org67e6574">14.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 11:15&gt;</span></span>98%</a></li>
+<li><a href="#org5a0ca47">14.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 15:00&gt;</span></span>98.7%</a></li>
+<li><a href="#orgbe3c677">14.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 15:19&gt;</span></span>98%</a></li>
+<li><a href="#org1b2fed1">14.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-25 Tue 05:30&gt;</span></span>99.2%</a></li>
+<li><a href="#org544eb66">14.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 12:31&gt;</span></span>98.8%</a></li>
+<li><a href="#org961ec44">14.21. Lesson 14</a></li>
+</ul>
+</li>
+<li><a href="#org1bf4ef9">15. <span class="done DONE">DONE</span> Lesson fifteen</a>
+<ul>
+<li><a href="#org641969b">15.1. <span class="done DONE">DONE</span> Review 97.3%</a></li>
+<li><a href="#orge2e5d5c">15.2. <span class="done DONE">DONE</span> Review fifteen 96.8%</a></li>
+<li><a href="#org9986f68">15.3. <span class="done DONE">DONE</span> Review fifteen 96.5%</a></li>
+<li><a href="#org5b64335">15.4. <span class="done DONE">DONE</span> Review fifteen 98.1%</a></li>
+<li><a href="#orgec4044f">15.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 02:55&gt;</span></span>99.8%</a></li>
+<li><a href="#org4735e08">15.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 08:01&gt;</span></span>98.1%</a></li>
+<li><a href="#org15cde6a">15.7. text</a>
+<ul>
+<li><a href="#org8b1440c">15.7.1. salt</a></li>
+<li><a href="#org411e166">15.7.2. bread</a></li>
+<li><a href="#org6bd1299">15.7.3. Sugar</a></li>
+<li><a href="#org74a28b3">15.7.4. <span class="done DONE">DONE</span> cheese</a></li>
+<li><a href="#orgd6d6b00">15.7.5. butter</a></li>
+</ul>
+</li>
+<li><a href="#orgfec8e00">15.8. words</a></li>
+<li><a href="#orgdd0b013">15.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 Tue 10:10&gt; </span></span> 96.5%</a></li>
+<li><a href="#orgc45396b">15.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 06:15&gt;</span></span>98.1%</a></li>
+<li><a href="#org2ce5e5c">15.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 07:44&gt;</span></span>97.9%</a></li>
+<li><a href="#orgea35a6a">15.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 10:10&gt;</span></span>98.8%</a></li>
+<li><a href="#orgff59137">15.13. Review98.1%</a></li>
+<li><a href="#org96ed60f">15.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-28 Wed 04:34&gt;</span></span>99.1%</a></li>
+<li><a href="#org611eeaf">15.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 18:33&gt;</span></span>98.7%</a></li>
+<li><a href="#org9ce5c76">15.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-06 Mon 07:26&gt;</span></span>97.8%</a></li>
+<li><a href="#orgb4e1294">15.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 05:30&gt;</span></span>98.0%</a></li>
+<li><a href="#org428e3d3">15.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 08:53&gt;</span></span>99.5%</a></li>
+<li><a href="#org63d6e81">15.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 18:54&gt;</span></span>98.5%</a></li>
+<li><a href="#org0f3d0cf">15.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 18:31&gt;</span></span>98.5%</a></li>
+<li><a href="#orgbb383a7">15.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-25 Tue 05:57&gt;</span></span>99.6%</a></li>
+<li><a href="#org6b2fcc9">15.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 11:36&gt;</span></span>98.6%</a></li>
+<li><a href="#orga4bf875">15.23. Lesson 15</a></li>
+</ul>
+</li>
+<li><a href="#org24c0874">16. Lesson Sixteen</a>
+<ul>
+<li><a href="#orgaed1b7d">16.1. <span class="done DONE">DONE</span> Review 97.2%</a>
+<ul>
+<li><a href="#org509ccbb">16.1.1. words</a></li>
+<li><a href="#org45ea238">16.1.2. text</a></li>
+</ul>
+</li>
+<li><a href="#orgffe0f21">16.2. <span class="done DONE">DONE</span> Review sixteen 97.5%</a></li>
+<li><a href="#org542ada2">16.3. <span class="done DONE">DONE</span> Review sixteen 96.4%</a>
+<ul>
+<li><a href="#org130a1ac">16.3.1. <span class="done DONE">DONE</span> text <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 05:39&gt;</span></span></a></li>
+</ul>
+</li>
+<li><a href="#orgb9af7d0">16.4. <span class="done DONE">DONE</span> write 97.6%</a></li>
+<li><a href="#org90012f9">16.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 03:35&gt;</span></span>98.8%</a></li>
+<li><a href="#orgd0d8198">16.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 16:55&gt;</span></span>98.5%</a></li>
+<li><a href="#org40df96c">16.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 10:55&gt;</span></span>99.2%</a></li>
+<li><a href="#orgf4cc7b9">16.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 10:39&gt;</span></span>98.1%</a></li>
+<li><a href="#orgd9ddf68">16.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 20:50&gt;</span></span>98.5%</a></li>
+<li><a href="#org61cb6e4">16.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 17:23&gt;</span></span>98.3%</a></li>
+<li><a href="#org5770e7d">16.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 19:45&gt;</span></span>98.9%</a></li>
+<li><a href="#orgbe78dd6">16.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 08:19&gt;</span></span>97.6%</a></li>
+<li><a href="#org063f670">16.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-19 Thu 16:14&gt;</span></span>97.1%</a></li>
+<li><a href="#org031aff0">16.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 21:15&gt;</span></span>96.3%</a></li>
+<li><a href="#orgc932809">16.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 05:49&gt;</span></span>98.5%</a></li>
+<li><a href="#orgee9e087">16.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 04:48&gt;</span></span>97.5%</a></li>
+<li><a href="#org91e0db7">16.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 21:02&gt;</span></span>98%</a></li>
+<li><a href="#orga04ec5f">16.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 18:55&gt;</span></span>99.1%</a></li>
+<li><a href="#org5994169">16.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-25 Tue 21:47&gt;</span></span>96.4%</a></li>
+<li><a href="#org9350a49">16.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-26 Wed 04:45&gt;</span></span>98.3%</a></li>
+<li><a href="#orgede8f41">16.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 09:30&gt;</span></span>99.2%</a></li>
+<li><a href="#org481c2c2">16.22. lesson 16</a></li>
+<li><a href="#orgf012f5b">16.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-30 Fri 05:30&gt;</span></span>98.8%</a></li>
+</ul>
+</li>
+<li><a href="#org0fff047">17. Lesson seventeen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-22 Wed 06:19&gt;</span></span></a>
+<ul>
+<li><a href="#org59b4171">17.1. <span class="done DONE">DONE</span> Review seventeen 97.6%</a></li>
+<li><a href="#orgc8d6cc1">17.2. <span class="done DONE">DONE</span> Review seventeen 96.8%</a></li>
+<li><a href="#org43b9c99">17.3. <span class="done DONE">DONE</span> Review 96.1%</a></li>
+<li><a href="#org46a0d82">17.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 17:01&gt;</span></span>98.1%</a></li>
+<li><a href="#orgfee1449">17.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 19:51&gt;</span></span>99.1%</a></li>
+<li><a href="#org03a8ea6">17.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 04:43&gt;</span></span>98.3%</a></li>
+<li><a href="#org6e8cd0a">17.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 17:29&gt;</span></span>98.2%</a></li>
+<li><a href="#org5b6214a">17.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 17:48&gt;</span></span>99.6%</a></li>
+<li><a href="#org59a1805">17.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 18:49&gt;</span></span>97.6%</a></li>
+<li><a href="#org8ea55dd">17.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-31 Sat 15:19&gt;</span></span>98.6%</a></li>
+<li><a href="#org368f310">17.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 21:33&gt;</span></span>98.3%</a></li>
+<li><a href="#org1c889c9">17.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 09:45&gt;</span></span>99.0%</a></li>
+<li><a href="#org3b06aeb">17.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 04:25&gt;</span></span>99%</a></li>
+<li><a href="#orgb981544">17.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-01 Sat 04:42&gt;</span></span>98.8%</a></li>
+<li><a href="#org61fcbcd">17.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 20:12&gt;</span></span>97.5%</a></li>
+<li><a href="#org47f92e2">17.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-26 Wed 05:05&gt;</span></span>98.5%</a></li>
+<li><a href="#org92dba0a">17.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 09:07&gt;</span></span>99.5%</a></li>
+<li><a href="#org259c78b">17.18. Lesson 17</a></li>
+<li><a href="#orgbcb93be">17.19. text</a></li>
+<li><a href="#org1397704">17.20. words</a></li>
+<li><a href="#org67f1a6a">17.21. neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 Tue&gt;</span></span></a></li>
+</ul>
+</li>
+<li><a href="#org59f1b89">18. lesson eighteen</a>
+<ul>
+<li><a href="#orgfa35ddc">18.1. <span class="done DONE">DONE</span> Review 97.2%</a></li>
+<li><a href="#org9faf85b">18.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 21:15&gt; </span></span> 96%</a></li>
+<li><a href="#org017339c">18.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 21:42&gt; </span></span> 97.5%</a></li>
+<li><a href="#org516ecb2">18.4. <span class="done DONE">DONE</span> Review eithteen 97.3%</a></li>
+<li><a href="#orge9838ea">18.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 06:37&gt;</span></span>97%</a></li>
+<li><a href="#org80682a7">18.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 06:41&gt;</span></span>98%</a></li>
+<li><a href="#orgf039de2">18.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-01 Sun 05:44&gt;</span></span>90%</a></li>
+<li><a href="#org65aa251">18.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 21:05&gt;</span></span>99.2%</a></li>
+<li><a href="#org9b7ef50">18.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-26 Wed 06:18&gt;</span></span>98.9%</a></li>
+<li><a href="#orgba878aa">18.10. Lesson18</a></li>
+<li><a href="#orgb82d7e9">18.11. text</a>
+<ul>
+<li><a href="#orge9659b7">18.11.1. sweater</a></li>
+<li><a href="#org2a756cc">18.11.2. moustache</a></li>
+</ul>
+</li>
+<li><a href="#org93f2c42">18.12. text</a></li>
+<li><a href="#org013063a">18.13. <span class="done DONE">DONE</span> Review eithteen 97.9%</a></li>
+<li><a href="#org14c9522">18.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 10:41&gt;</span></span>97.7%</a></li>
+<li><a href="#org576350c">18.15. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 20:19&gt;</span></span>99.1%</a></li>
+<li><a href="#orgfc3f57d">18.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-25 Tue 10:30&gt;</span></span>97.9%</a></li>
+<li><a href="#orga4d30f7">18.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-25 Tue 11:28&gt;</span></span>98.8%</a></li>
+<li><a href="#orge140d3e">18.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun&gt;</span></span>98.2%</a></li>
+<li><a href="#org41995d1">18.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 14:26&gt;</span></span>98.9%</a></li>
+<li><a href="#org19b8b98">18.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 10:05&gt;</span></span>99.3%</a></li>
+<li><a href="#org9817d35">18.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-01 Sat 05:00&gt;</span></span>98.8%</a></li>
+<li><a href="#orgc3d71d9">18.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-03 Mon 04:04&gt;</span></span>98.5%</a></li>
+<li><a href="#org3513bdb">18.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 05:07&gt;</span></span>99.4%</a></li>
+</ul>
+</li>
+<li><a href="#orgf234181">19. lesson ninteen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-07 Thu&gt;</span></span></a>
+<ul>
+<li><a href="#org9351c10">19.1. <span class="done DONE">DONE</span> Review 96.7%</a></li>
+<li><a href="#org99daad5">19.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 04:21&gt; </span></span> 96%</a></li>
+<li><a href="#org1ee060c">19.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 17:11&gt;</span></span>96.8%</a></li>
+<li><a href="#org243b14a">19.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 06:00&gt;</span></span>98.2%</a></li>
+<li><a href="#orgc21f2b6">19.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 07:04&gt;</span></span>98.4%</a></li>
+<li><a href="#org821dca6">19.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 20:48&gt;</span></span>99.8%</a></li>
+<li><a href="#org867e2b3">19.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 20:43&gt;</span></span>97.7%</a></li>
+<li><a href="#org62dda6d">19.8. text</a></li>
+<li><a href="#org872fa97">19.9. <span class="done DONE">DONE</span> Review ninteen 97.4</a></li>
+<li><a href="#org1991fa7">19.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 10:51&gt;</span></span>98.2%</a></li>
+<li><a href="#orga5f4266">19.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 14:42&gt;</span></span>97.8%</a></li>
+<li><a href="#orgf240f54">19.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-10-11 Sun&gt;</span></span>97.6%</a></li>
+<li><a href="#orge74aadc">19.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-02 Mon 09:07&gt;</span></span>98.7%</a></li>
+<li><a href="#org25b7ed0">19.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 14:46&gt;</span></span>98.7%</a></li>
+<li><a href="#orga66a186">19.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-06 Mon 21:08&gt;</span></span>98.9%</a></li>
+<li><a href="#org61c465d">19.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 14:10&gt;</span></span>98%</a></li>
+<li><a href="#orgbcce2ab">19.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 17:24&gt;</span></span>99.4%</a></li>
+<li><a href="#org0077d46">19.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-01 Sat 05:20&gt;</span></span>98.2%</a></li>
+<li><a href="#org6e09d09">19.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-03 Mon 04:26&gt;</span></span>98.8%</a></li>
+<li><a href="#orgaa324fa">19.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-26 Wed 08:13&gt;</span></span></a></li>
+<li><a href="#org5c07929">19.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 04:43&gt;</span></span>99.3%</a></li>
+<li><a href="#org5194d5b">19.22. Lesson19</a></li>
+</ul>
+</li>
+<li><a href="#org878d3c8">20. <span class="done DONE">DONE</span> lesson twenty</a>
+<ul>
+<li><a href="#orgbc176be">20.1. <span class="done DONE">DONE</span> Review twenty 96.9%</a></li>
+<li><a href="#orgfcc26bc">20.2. <span class="done DONE">DONE</span> Review 96.8%</a></li>
+<li><a href="#org8a42178">20.3. <span class="done CANCELLED">CANCELLED</span> MG: <span class="timestamp-wrapper"><span class="timestamp">[2016-09-12 Mon 13:42]</span></span></a></li>
+<li><a href="#org28ee5cd">20.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 13:43&gt;</span></span>98.1%</a></li>
+<li><a href="#orgf33cbb4">20.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 18:30&gt;</span></span>99.3%</a></li>
+<li><a href="#org2618496">20.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 11:44&gt;</span></span>99.5%</a></li>
+<li><a href="#orgc591fa9">20.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-12 Mon 07:21&gt;</span></span>98.6%</a></li>
+<li><a href="#org049e85f">20.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 08:22&gt;</span></span>98.1%</a></li>
+<li><a href="#org8797b9f">20.9. text</a></li>
+<li><a href="#org2bc645d">20.10. <span class="done DONE">DONE</span> Review twenty 96.8%</a></li>
+<li><a href="#org07b7f06">20.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-03 Tue 06:47&gt;</span></span>97.9%</a></li>
+<li><a href="#orgbe8c7db">20.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 15:38&gt;</span></span>98.7%</a></li>
+<li><a href="#org99ab8e4">20.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-06 Mon 20:48&gt;</span></span>97.7%</a></li>
+<li><a href="#orgd1cec41">20.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 14:31&gt;</span></span>98.8%</a></li>
+<li><a href="#orgeffd748">20.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 16:58&gt;</span></span>99.1%</a></li>
+<li><a href="#org6ef8893">20.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-01 Sat 05:37&gt;</span></span>98.4%</a></li>
+<li><a href="#orga96de4c">20.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-03 Mon 04:44&gt;</span></span>98.2%</a></li>
+<li><a href="#org0222b72">20.18. <span class="done DONE">DONE</span> Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 06:02&gt;</span></span></a></li>
+<li><a href="#org96d710c">20.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 08:23&gt;</span></span>98.1%</a></li>
+<li><a href="#org20993e9">20.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 11:20&gt;</span></span>98.2%</a></li>
+<li><a href="#orgff5dd61">20.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 19:45&gt;</span></span>98.2%</a></li>
+<li><a href="#orgd8986ed">20.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-17 Mon 04:50&gt;</span></span>99.4%</a></li>
+<li><a href="#org9a00b45">20.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-23 Sun 10:00&gt;</span></span>99.2%</a></li>
+<li><a href="#orgbe0b046">20.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-26 Wed 15:07&gt;</span></span>99.1%</a></li>
+<li><a href="#org4c57c7f">20.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 21:07&gt;</span></span>99.6%</a></li>
+<li><a href="#org9f34f11">20.26. lesson 20</a></li>
+</ul>
+</li>
+<li><a href="#org2d071eb">21. <span class="done DONE">DONE</span> lesson twenty one</a>
+<ul>
+<li><a href="#org4d5a764">21.1. <span class="done DONE">DONE</span> Review twenty one 97.7%</a></li>
+<li><a href="#org004769a">21.2. <span class="done DONE">DONE</span> Review 96.1%</a></li>
+<li><a href="#org213cbb9">21.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 19:01&gt; </span></span> 98.1%</a></li>
+<li><a href="#org63f3aed">21.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 20:22&gt;</span></span>99.3%</a></li>
+<li><a href="#org1b79bbc">21.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 15:19&gt;</span></span>99.7%</a></li>
+<li><a href="#orgd93cc09">21.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-12 Mon 20:31&gt;</span></span>98.0%</a></li>
+<li><a href="#org3a88ccb">21.7. text</a></li>
+<li><a href="#org0999055">21.8. words</a>
+<ul>
+<li><a href="#org5ad0097">21.8.1. gown</a></li>
+<li><a href="#org3f8bda2">21.8.2. patient</a></li>
+<li><a href="#orgeac3b2f">21.8.3. couch</a></li>
+</ul>
+</li>
+<li><a href="#orgfee39c4">21.9. <span class="done DONE">DONE</span> Review twenty one 96.9%</a></li>
+<li><a href="#orgf4da624">21.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-08 Sun 17:20&gt;</span></span>98.9%</a></li>
+<li><a href="#org05a5586">21.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-03 Mon 04:45&gt;</span></span>97.9%</a></li>
+<li><a href="#org01239b0">21.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 04:38&gt;</span></span>98%</a></li>
+<li><a href="#orgf4350bb">21.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 09:07&gt;</span></span>98.1%</a></li>
+<li><a href="#orga50c057">21.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 05:41&gt;</span></span>98.1%</a></li>
+<li><a href="#orgc8dc088">21.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 15:44&gt;</span></span>98.2%</a></li>
+<li><a href="#orgf0e13a9">21.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 19:30&gt;</span></span>98.9%</a></li>
+<li><a href="#org731da89">21.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 19:05&gt;</span></span>98.9%</a></li>
+<li><a href="#orgadc541a">21.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-17 Mon 05:17&gt;</span></span>99%</a></li>
+<li><a href="#org6bf6eb1">21.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-23 Sun 08:40&gt;</span></span>99.4%</a></li>
+<li><a href="#org2fe6088">21.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-27 Thu 05:21&gt;</span></span>99.6%</a></li>
+<li><a href="#org57e5469">21.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 19:30&gt;</span></span>99.6%</a></li>
+<li><a href="#org89a62ed">21.22. Lesson21</a></li>
+</ul>
+</li>
+<li><a href="#orgd36e885">22. <span class="done DONE">DONE</span> lesson twenty two</a>
+<ul>
+<li><a href="#orgb6629ab">22.1. <span class="done DONE">DONE</span> Review twenty two 93.6%</a></li>
+<li><a href="#org0b9f751">22.2. <span class="done DONE">DONE</span> Review twenty two 95.2%</a></li>
+<li><a href="#org84874de">22.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 19:31&gt; </span></span> 96.2%</a></li>
+<li><a href="#org55e6a30">22.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 19:41&gt;</span></span>98.8%</a></li>
+<li><a href="#org813782a">22.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 04:15&gt;</span></span>99%</a></li>
+<li><a href="#orgb1642fa">22.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 05:34&gt;</span></span>95.9%</a></li>
+<li><a href="#orgaa230e5">22.7. text</a>
+<ul>
+<li><a href="#orgbcfac90">22.7.1. words</a></li>
+</ul>
+</li>
+<li><a href="#org4637f61">22.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-09 Mon 06:21&gt;</span></span>98.7%</a></li>
+<li><a href="#org19b757a">22.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-03 Mon 16:09&gt;</span></span>95.4%</a></li>
+<li><a href="#orgb321931">22.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 04:21&gt;</span></span>97.9%</a></li>
+<li><a href="#org8131d30">22.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 11:35&gt;</span></span>98.2%</a></li>
+<li><a href="#org5cda883">22.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 05:22&gt;</span></span>96.1%</a></li>
+<li><a href="#org009a5c7">22.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 19:52&gt;</span></span>99%</a></li>
+<li><a href="#orgc694ad8">22.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 13:41&gt;</span></span>97.7%</a></li>
+<li><a href="#orgc60ca1d">22.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-17 Mon 08:27&gt;</span></span>98.5%</a></li>
+<li><a href="#orgf1af7f3">22.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-23 Sun 06:02&gt;</span></span>99.1%</a></li>
+<li><a href="#org1e867b2">22.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-27 Thu 05:56&gt;</span></span>99.6%</a></li>
+<li><a href="#orgd38bb26">22.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 19:12&gt;</span></span>99.4%</a></li>
+<li><a href="#org39727fa">22.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-13 Sat 04:56&gt;</span></span>98.4%</a></li>
+<li><a href="#orgbe2e87f">22.20. Lesson 22</a></li>
+</ul>
+</li>
+<li><a href="#org030442f">23. <span class="done DONE">DONE</span> lesson twenty three</a>
+<ul>
+<li><a href="#orgce56936">23.1. <span class="done DONE">DONE</span> Review twenty three 97.1%</a></li>
+<li><a href="#orgbaf62e3">23.2. <span class="done DONE">DONE</span> review twenty three 94.9%</a></li>
+<li><a href="#orgfa7a3d5">23.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 11:19&gt;</span></span>98.9%</a></li>
+<li><a href="#org6af308f">23.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 19:33&gt;</span></span>99.4%</a></li>
+<li><a href="#org7b72e1e">23.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 07:20&gt;</span></span>97.1%</a></li>
+<li><a href="#org7800aa3">23.6. text</a>
+<ul>
+<li><a href="#org5ddf1e4">23.6.1. traffic jam</a></li>
+<li><a href="#orgbe72a00">23.6.2. words</a></li>
+</ul>
+</li>
+<li><a href="#orgd99eb05">23.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-10 Tue 07:41&gt;</span></span>98.4%</a></li>
+<li><a href="#orgc53bb79">23.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-03 Mon 19:16&gt;</span></span>98.4%</a></li>
+<li><a href="#org35bd4a2">23.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 04:00&gt;</span></span>98.1%</a></li>
+<li><a href="#org8d47b7e">23.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 14:33&gt;</span></span>99.1%</a></li>
+<li><a href="#org2baf9ae">23.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-11 Tue 04:53&gt;</span></span>98.8%</a></li>
+<li><a href="#org369b6d1">23.12. <span class="done DONE">DONE</span> Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-11 Tue 05:53&gt;</span></span></a></li>
+<li><a href="#org839ee4f">23.13. <span class="done DONE">DONE</span> Watch The It Crowd<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-11 Tue 06:23&gt;</span></span></a></li>
+<li><a href="#org95ad5ea">23.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-11 Tue 18:13&gt;</span></span>98.1%</a></li>
+<li><a href="#orgd7b1ab5">23.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-13 Thu 04:45&gt;</span></span>98.9%</a></li>
+<li><a href="#org402137c">23.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 09:58&gt;</span></span>98.3%</a></li>
+<li><a href="#orgb1f7986">23.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-17 Mon 14:06&gt;</span></span>98.2%</a></li>
+<li><a href="#org15c4249">23.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-23 Sun 05:35&gt;</span></span>99.7%</a></li>
+<li><a href="#org93f5192">23.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-27 Thu 08:55&gt;</span></span>99.5%</a></li>
+<li><a href="#orga1e7a72">23.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 14:11&gt;</span></span>99.5%</a></li>
+<li><a href="#org98f9941">23.21. Lesson 23</a></li>
+</ul>
+</li>
+<li><a href="#org2627a89">24. <span class="done DONE">DONE</span> twenty four</a>
+<ul>
+<li><a href="#org55593e3">24.1. <span class="done DONE">DONE</span> Review twenty four 96.8%</a></li>
+<li><a href="#org2a6c0ac">24.2. <span class="done DONE">DONE</span> Review twenty four 96.4%</a></li>
+<li><a href="#orgbb357ee">24.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 11:15&gt;</span></span>98.3%</a></li>
+<li><a href="#org3993101">24.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 15:00&gt;</span></span>99.3%</a></li>
+<li><a href="#org7b85e3b">24.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 07:44&gt;</span></span>97.2%</a></li>
+<li><a href="#orgd29b424">24.6. text</a>
+<ul>
+<li><a href="#org5266d90">24.6.1. words</a></li>
+</ul>
+</li>
+<li><a href="#org95cc184">24.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-11 Wed 20:59&gt;</span></span>98.7%</a></li>
+<li><a href="#org61ea4cb">24.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 14:52&gt;</span></span>98.6%</a></li>
+<li><a href="#orge18efdc">24.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-10 Mon 19:46&gt;</span></span>98.35</a></li>
+<li><a href="#org5477a67">24.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-11 Tue 04:22&gt;</span></span>97.8%</a></li>
+<li><a href="#org56a235a">24.11. <span class="done DONE">DONE</span> Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 06:03&gt;</span></span></a></li>
+<li><a href="#org02c4968">24.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-13 Thu 05:04&gt;</span></span>98.8%</a></li>
+<li><a href="#orgbbcfe87">24.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 09:35&gt;</span></span>97.9%</a></li>
+<li><a href="#org5d6caee">24.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-18 Tue 04:30&gt;</span></span>98.2%</a></li>
+<li><a href="#orgea837db">24.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-22 Sat 06:22&gt;</span></span>99.7%</a></li>
+<li><a href="#org2e7c6fc">24.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-27 Thu 14:52&gt;</span></span>99.3%</a></li>
+<li><a href="#org12969db">24.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 09:03&gt;</span></span>99.6%</a></li>
+<li><a href="#orgf2ab9c8">24.18. Lesson24</a></li>
+</ul>
+</li>
+<li><a href="#org72d4478">25. <span class="done DONE">DONE</span> twenty  five</a>
+<ul>
+<li><a href="#orgd7e220a">25.1. <span class="done DONE">DONE</span> Review twenty five 96.6%</a></li>
+<li><a href="#org6f172d5">25.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 09:04&gt; </span></span> 95.8%</a></li>
+<li><a href="#org1108342">25.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 15:32&gt;</span></span>98.8%</a></li>
+<li><a href="#orge0dc574">25.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 19:01&gt;</span></span>99.4%</a></li>
+<li><a href="#org8468ba0">25.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 Thu 19:16&gt;</span></span>98.9%</a></li>
+<li><a href="#org633f533">25.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 Fri 05:16&gt;</span></span>99.2%</a></li>
+<li><a href="#org1195d9e">25.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 08:59&gt;</span></span>97.1%</a></li>
+<li><a href="#org99a8169">25.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 04:43&gt;</span></span>96.9%</a></li>
+<li><a href="#org7510cf2">25.9. text</a></li>
+<li><a href="#org96a4261">25.10. words</a></li>
+<li><a href="#orgf9269f0">25.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 05:31&gt;</span></span>97.5%</a></li>
+<li><a href="#orgf1908ed">25.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 17:55&gt;</span></span>97.1%</a></li>
+<li><a href="#orgd973c9a">25.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-10 Mon 02:02&gt;</span></span>98.3%</a></li>
+<li><a href="#org6879816">25.14. Lesson 25</a></li>
+<li><a href="#org9402fab">25.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 09:48&gt;</span></span>98.2%</a></li>
+<li><a href="#org47cde6e">25.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-10 Mon 10:58&gt;</span></span>98.7%</a></li>
+<li><a href="#org967b391">25.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-10 Mon 17:11&gt;</span></span>98%</a></li>
+<li><a href="#orgc4e6b42">25.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-13 Thu 18:19&gt;</span></span>97.5%</a></li>
+<li><a href="#orgbc22242">25.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-13 Thu 21:12&gt;</span></span>98.6%</a></li>
+<li><a href="#org3733bde">25.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 05:39&gt;</span></span>98.5%</a></li>
+<li><a href="#orgbe6cfa1">25.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-18 Tue 05:11&gt;</span></span>98.2%</a></li>
+<li><a href="#orge1641e3">25.22. <span class="done DONE">DONE</span> Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-18 Tue 05:59&gt;</span></span></a></li>
+<li><a href="#org958634e">25.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-22 Sat 05:41&gt;</span></span>99.6%</a></li>
+<li><a href="#orgb870975">25.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-27 Thu 16:15&gt;</span></span>99.5%</a></li>
+<li><a href="#org9f113de">25.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 08:30&gt;</span></span>99.7%</a></li>
+</ul>
+</li>
+<li><a href="#orgc7ae315">26. <span class="done DONE">DONE</span> twenty six</a>
+<ul>
+<li><a href="#org9af9269">26.1. <span class="done DONE">DONE</span> Review twenty six 95.2%</a></li>
+<li><a href="#org3b3b8f6">26.2. <span class="done DONE">DONE</span> Review twenty six 95.7%</a></li>
+<li><a href="#orgec6e746">26.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 04:42&gt;</span></span>97.9%</a></li>
+<li><a href="#orgda68764">26.4. text</a></li>
+<li><a href="#orgcd5c870">26.5. word</a>
+<ul>
+<li><a href="#orga7793ed">26.5.1. tourist</a></li>
+<li><a href="#orgb30e602">26.5.2. tourguide</a></li>
+<li><a href="#org1970b4c">26.5.3. adults</a></li>
+<li><a href="#org9c6f799">26.5.4. port</a></li>
+<li><a href="#orgaabf0f1">26.5.5. beach</a></li>
+</ul>
+</li>
+<li><a href="#org5137541">26.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 13:39&gt;</span></span>98.3%</a></li>
+<li><a href="#org3a785ec">26.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 18:44&gt;</span></span>98.9%</a></li>
+<li><a href="#org74a4a1c">26.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 Thu 07:05&gt;</span></span>99%</a></li>
+<li><a href="#org1b06cc7">26.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 Fri 05:46&gt;</span></span>99.2%</a></li>
+<li><a href="#org91d7965">26.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-08 Tue 18:46&gt;</span></span>98.5%</a></li>
+<li><a href="#orgbf24b01">26.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 07:56&gt;</span></span>97.1%</a></li>
+<li><a href="#org775a4ea">26.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 14:43&gt;</span></span>98.8%</a></li>
+<li><a href="#orgce91bb9">26.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 03:50&gt;</span></span>97.1%</a></li>
+<li><a href="#orgd92c04b">26.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-07 Fri 04:06&gt;</span></span>97.9%</a></li>
+<li><a href="#org432b182">26.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-07 Fri 14:23&gt;</span></span>96.6%</a></li>
+<li><a href="#org2b0cb46">26.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-07 Fri 20:29&gt;</span></span>96.9%</a></li>
+<li><a href="#org049912f">26.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-08 Sat 04:28&gt;</span></span>97.8%</a></li>
+<li><a href="#org2b5e6ce">26.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-08 Sat 06:12&gt;</span></span>97.5%</a></li>
+<li><a href="#org63011a8">26.19. <span class="done DONE">DONE</span> Loud read <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-09 Sun 05:21&gt;</span></span></a></li>
+<li><a href="#org7371a90">26.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-09 Sun 05:55&gt;</span></span>97.3%</a></li>
+<li><a href="#orgc289e0c">26.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-09 Sun 14:43&gt;</span></span>98.1%</a></li>
+<li><a href="#orgea4435a">26.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-09 Sun 20:30&gt;</span></span>98.1%</a></li>
+<li><a href="#orge4332cb">26.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-10 Mon 01:21&gt;</span></span>99.1%</a></li>
+<li><a href="#org14d865b">26.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-14 Fri 04:59&gt;</span></span>97.5%</a></li>
+<li><a href="#org3a26bb5">26.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 05:10&gt;</span></span>98.4%</a></li>
+<li><a href="#org3c60585">26.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-18 Tue 08:01&gt;</span></span>98.6%</a></li>
+<li><a href="#orgd588fce">26.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-21 Fri 20:00&gt;</span></span>99.3%</a></li>
+<li><a href="#orgc91c278">26.28. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-27 Thu 19:03&gt;</span></span>99.5%</a></li>
+<li><a href="#orgdbb6639">26.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 05:19&gt;</span></span>99.5%</a></li>
+<li><a href="#org9e02ca2">26.30. <span class="done DONE">DONE</span> Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 06:03&gt;</span></span></a></li>
+<li><a href="#org0f8b384">26.31. Lesson 26</a></li>
+</ul>
+</li>
+<li><a href="#org8e7fd81">27. <span class="done DONE">DONE</span> lesson twenty seven</a>
+<ul>
+<li><a href="#org6d0de6e">27.1. <span class="done DONE">DONE</span> Review twenty seven 95.7%</a></li>
+<li><a href="#org82ee5dc">27.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 06:08&gt;</span></span>98.6%</a></li>
+<li><a href="#orgbba29e7">27.3. text</a></li>
+<li><a href="#orgf44d98d">27.4. <span class="done DONE">DONE</span> Review twenty severn 96.6%</a></li>
+<li><a href="#org9a245a4">27.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 08:27&gt;</span></span>97.1%</a></li>
+<li><a href="#org04ee014">27.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-13 Fri 08:06&gt;</span></span>98.8%</a></li>
+<li><a href="#org571a67d">27.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 04:25&gt;</span></span>98.1%</a></li>
+<li><a href="#org4bdc319">27.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-07 Fri 03:35&gt;</span></span>97.1%</a></li>
+<li><a href="#orgdcf1499">27.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-14 Fri 05:32&gt;</span></span>97.8%</a></li>
+<li><a href="#orge208d67">27.10. <span class="done DONE">DONE</span> Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-14 Fri 06:26&gt;</span></span></a></li>
+<li><a href="#org3df63ce">27.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-15 Sat 18:12&gt;</span></span>98.3%</a></li>
+<li><a href="#org63f1083">27.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-18 Tue 19:42&gt;</span></span>97.9%</a></li>
+<li><a href="#org9b25baf">27.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-19 Wed 05:21&gt;</span></span>98.6%</a></li>
+<li><a href="#orgdd4bb6d">27.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-21 Fri 19:31&gt;</span></span>99.6%</a></li>
+<li><a href="#orgabb1280">27.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-28 Fri 04:14&gt;</span></span>99.7%</a></li>
+<li><a href="#orge0c628a">27.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 04:44&gt;</span></span>99.5%</a></li>
+<li><a href="#org7fcff51">27.17. Lesson 27</a></li>
+<li><a href="#org14666b5">27.18. <span class="done DONE">DONE</span> Review handwriteing</a></li>
+</ul>
+</li>
+<li><a href="#orgae93f9c">28. lesson twenty eight</a>
+<ul>
+<li><a href="#org4317839">28.1. <span class="done DONE">DONE</span> Review twenty eight 95.3%</a></li>
+<li><a href="#orgea7cab9">28.2. <span class="done DONE">DONE</span> Review twenty eight 93.4</a></li>
+<li><a href="#org8ab0b00">28.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 05:32&gt;</span></span>99.1%</a></li>
+<li><a href="#orgde0de4b">28.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 19:45&gt;</span></span>99.7%</a></li>
+<li><a href="#orga64b5e4">28.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 20:37&gt;</span></span>97.2%</a></li>
+<li><a href="#org5f688d1">28.6. text</a></li>
+<li><a href="#orgf6a740d">28.7. workds</a>
+<ul>
+<li><a href="#orgee2e04c">28.7.1. mountain</a></li>
+<li><a href="#org674a103">28.7.2. forest</a></li>
+<li><a href="#orgf7ca442">28.7.3. palm</a></li>
+<li><a href="#orgb70a6a7">28.7.4. cactus</a></li>
+<li><a href="#org8e185da">28.7.5. camel</a></li>
+<li><a href="#orge07e40d">28.7.6. swan</a></li>
+<li><a href="#org4d538d4">28.7.7. seagull</a></li>
+<li><a href="#orgfd7a6aa">28.7.8. squirrel</a></li>
+<li><a href="#orgb102ac9">28.7.9. parrot</a></li>
+<li><a href="#org11d55d1">28.7.10. fruit</a></li>
+</ul>
+</li>
+<li><a href="#org50c9ad7">28.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-13 Fri 14:41&gt;</span></span>98%</a></li>
+<li><a href="#org90b66d2">28.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 05:21&gt;</span></span>96.9%</a></li>
+<li><a href="#org064a171">28.10. <span class="done DONE">DONE</span> Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 05:40&gt;</span></span></a></li>
+<li><a href="#org6193f33">28.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 20:09&gt;</span></span>97.8%</a></li>
+<li><a href="#orga9e8994">28.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-06 Thu 07:36&gt;</span></span>97.2%</a></li>
+<li><a href="#orgaa6734c">28.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-06 Thu 14:36&gt;</span></span>98.3%</a></li>
+<li><a href="#orgc965a55">28.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-14 Fri 08:49&gt;</span></span>96.5%</a></li>
+<li><a href="#org38995e8">28.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-15 Sat 15:23&gt;</span></span>98.3%</a></li>
+<li><a href="#orgd7ae30d">28.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-19 Wed 07:25&gt;</span></span>99.2%</a></li>
+<li><a href="#org3a81416">28.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-21 Fri 16:13&gt;</span></span>99.8%</a></li>
+<li><a href="#orga47b312">28.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-28 Fri 05:32&gt;</span></span>99.7%</a></li>
+<li><a href="#org42a0c23">28.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-29 Sat 21:38&gt;</span></span>99.2%</a></li>
+<li><a href="#orgb4ba31d">28.20. Lesson 28</a></li>
+<li><a href="#orgbbcb064">28.21. <span class="done DONE">DONE</span> Review writing</a></li>
+</ul>
+</li>
+<li><a href="#orga7f904e">29. lesson twenty nine</a>
+<ul>
+<li><a href="#orge9454ce">29.1. <span class="done DONE">DONE</span> Review twenty nine 96.3%</a></li>
+<li><a href="#org9232b5c">29.2. text</a>
+<ul>
+<li><a href="#orgbb98eff">29.2.1. word <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-18 Mon&gt;</span></span></a></li>
+</ul>
+</li>
+<li><a href="#org9e33677">29.3. <span class="done DONE">DONE</span> Review twenty nine 96%</a></li>
+<li><a href="#org4ba4af4">29.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 20:05&gt;</span></span>99.4%</a></li>
+<li><a href="#orged14994">29.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-15 Thu 07:24&gt;</span></span>97.3%</a></li>
+<li><a href="#org0b282c9">29.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-14 Sat 05:35&gt;</span></span>98.8%</a></li>
+<li><a href="#orge91c812">29.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 07:35&gt;</span></span>97.4%</a></li>
+<li><a href="#orgc8ef787">29.8. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 14:28&gt;</span></span></a></li>
+<li><a href="#org2066755">29.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 18:02&gt;</span></span>97.9%</a></li>
+<li><a href="#org2c3ea10">29.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-06 Thu 05:15&gt;</span></span>97.8%</a></li>
+<li><a href="#orgda084d5">29.11. <span class="done DONE">DONE</span> Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-07 Fri 06:00&gt;</span></span></a></li>
+<li><a href="#org64ea4d0">29.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-14 Fri 14:08&gt;</span></span>97.7%</a></li>
+<li><a href="#org4aaef07">29.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-15 Sat 09:08&gt;</span></span>97%</a></li>
+<li><a href="#org94f35be">29.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-19 Wed 14:39&gt;</span></span>97.9%</a></li>
+<li><a href="#orge58683e">29.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-20 Thu 14:46&gt;</span></span>98.5%</a></li>
+<li><a href="#org44575c7">29.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-21 Fri 14:52&gt;</span></span>99.6%</a></li>
+<li><a href="#org56e67bc">29.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-28 Fri 08:41&gt;</span></span>99.6%</a></li>
+<li><a href="#org89cd44f">29.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-29 Sat 18:15&gt;</span></span>99.3%</a></li>
+<li><a href="#org0096c18">29.19. Lesson 29</a></li>
+<li><a href="#orgb631fa7">29.20. <span class="done DONE">DONE</span> Review writing</a></li>
+</ul>
+</li>
+<li><a href="#org33a2edf">30. lesson thirty</a>
+<ul>
+<li><a href="#org9293356">30.1. <span class="done DONE">DONE</span> Review thirty 93.9%</a></li>
+<li><a href="#org989bc1c">30.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-25 Sun 08:18&gt;</span></span>97.2%</a></li>
+<li><a href="#orgbd6c39a">30.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 05:25&gt;</span></span>97.9%</a></li>
+<li><a href="#orgc8ac423">30.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 05:15&gt;</span></span>98.4%</a></li>
+<li><a href="#org2dc75c4">30.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-25 Fri 05:27&gt;</span></span>98.4%</a></li>
+<li><a href="#org4712868">30.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-15 Thu 08:09&gt;</span></span>95.9%</a></li>
+<li><a href="#org9957581">30.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-27 Mon 07:01&gt;</span></span>95.8%</a></li>
+<li><a href="#org7442fcb">30.8. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-01 Wed 05:30&gt;</span></span>32,30</a></li>
+<li><a href="#org7de7556">30.9. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-01 Wed 08:14&gt;</span></span>three pages,tow pages,one page</a></li>
+<li><a href="#orgba30a2d">30.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 04:52&gt;</span></span>97.9%</a></li>
+<li><a href="#orga4c1947">30.11. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-06 Mon 04:21&gt;</span></span></a></li>
+<li><a href="#orga1c5226">30.12. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-07 Tue 03:44&gt;</span></span></a></li>
+<li><a href="#orgae9f38e">30.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-07 Tue 04:02&gt;</span></span>97.3%</a></li>
+<li><a href="#org631ddae">30.14. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-11 Sat 05:22&gt;</span></span></a></li>
+<li><a href="#org8d4b0ca">30.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-11 Sat 06:17&gt;</span></span>97.3%</a></li>
+<li><a href="#orgd654709">30.16. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-12 Sun 07:15&gt;</span></span></a></li>
+<li><a href="#orgf9ff555">30.17. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-13 Mon 05:35&gt;</span></span>30,31</a></li>
+<li><a href="#org30726bf">30.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 05:39&gt;</span></span>97.1%</a></li>
+<li><a href="#org471a604">30.19. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 06:05&gt;</span></span></a></li>
+<li><a href="#org075dc2f">30.20. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 06:03&gt;</span></span></a></li>
+<li><a href="#org375f7f9">30.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-01 Sat 14:15&gt;</span></span>97.9%</a></li>
+<li><a href="#org7757746">30.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-01 Sat 18:59&gt;</span></span>98.2%</a></li>
+<li><a href="#org524bcad">30.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 06:21&gt;</span></span>98%</a></li>
+<li><a href="#org93aac3b">30.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 11:19&gt;</span></span>97%</a></li>
+<li><a href="#org17f7a4a">30.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-06 Thu 04:02&gt;</span></span>98.2%</a></li>
+<li><a href="#orgb9d2eb4">30.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-14 Fri 18:45&gt;</span></span>97%</a></li>
+<li><a href="#org6ae5f40">30.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-15 Sat 04:29&gt;</span></span>98.2%</a></li>
+<li><a href="#orgd79198a">30.28. <span class="done DONE">DONE</span> Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-17 Mon 06:21&gt;</span></span></a></li>
+<li><a href="#org7d79f4f">30.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-19 Wed 20:35&gt;</span></span>97.7%</a></li>
+<li><a href="#orgcf297ec">30.30. <span class="done DONE">DONE</span> Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-20 Thu 05:30&gt;</span></span></a></li>
+<li><a href="#org31d351a">30.31. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-20 Thu 05:46&gt;</span></span>98.8%</a></li>
+<li><a href="#org1036598">30.32. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-21 Fri 06:10&gt;</span></span>98.3%</a></li>
+<li><a href="#org3c48c5e">30.33. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-29 Sat 03:02&gt;</span></span>99.4%</a></li>
+<li><a href="#org48b5f4a">30.34. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-29 Sat 14:17&gt;</span></span>99.3%</a></li>
+<li><a href="#org29e2717">30.35. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-11 Thu 06:37&gt;</span></span>97.5%</a></li>
+<li><a href="#org46f6e8d">30.36. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-11 Thu 11:18&gt;</span></span>97.7%</a></li>
+<li><a href="#org80173a6">30.37. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-12 Fri 05:50&gt;</span></span>98.5%</a></li>
+<li><a href="#orgdb570d8">30.38. Lesson 30</a></li>
+<li><a href="#orgf932241">30.39. text</a></li>
+<li><a href="#org86ec8f2">30.40. word</a>
+<ul>
+<li><a href="#org38c92ed">30.40.1. desert</a></li>
+<li><a href="#orga215e82">30.40.2. permission n 允许，许可</a></li>
+<li><a href="#org0c1e6b8">30.40.3. pants</a></li>
+<li><a href="#orga479c69">30.40.4. lap</a></li>
+<li><a href="#org88fe987">30.40.5. parents</a></li>
+<li><a href="#orgc64bc09">30.40.6. customer</a></li>
+<li><a href="#orgc625fd1">30.40.7. sale</a></li>
+<li><a href="#orgc451630">30.40.8. person</a></li>
+<li><a href="#orgbc2b1e9">30.40.9. traffic jam</a></li>
+<li><a href="#orgb23e2a9">30.40.10. vehicles</a></li>
+<li><a href="#org463716a">30.40.11. in order to</a></li>
+<li><a href="#org521ef4d">30.40.12. spectator</a></li>
+<li><a href="#org9efa61c">30.40.13. performance</a></li>
+<li><a href="#orge3ae17b">30.40.14. programme</a></li>
+<li><a href="#orge1fb4ae">30.40.15. though</a></li>
+<li><a href="#orgac61d52">30.40.16. even though</a></li>
+<li><a href="#orga44cbe1">30.40.17. although</a></li>
+<li><a href="#org463abdf">30.40.18. would rather 宁愿，宁可</a></li>
+<li><a href="#org39af993">30.40.19. celebrate</a></li>
+<li><a href="#org01804ba">30.40.20. across from</a></li>
+<li><a href="#orgc6a4c52">30.40.21. instead</a></li>
+<li><a href="#org4f6761a">30.40.22. boring</a></li>
+</ul>
+</li>
+<li><a href="#org3aacd64">30.41. <span class="done DONE">DONE</span> Review thirty 95.8% &#x2013;&gt;96.9%</a></li>
+<li><a href="#orge0ba286">30.42. across</a></li>
+<li><a href="#org776b3d8">30.43. cross</a></li>
+<li><a href="#org6386f65">30.44. lap</a></li>
+</ul>
+</li>
+<li><a href="#org1795219">31. <span class="done DONE">DONE</span> Lesson thirty one 95%</a>
+<ul>
+<li><a href="#org1f41ee9">31.1. <span class="done DONE">DONE</span> 复习 95.0%</a></li>
+<li><a href="#orgfc603ac">31.2. <span class="done DONE">DONE</span> 复习96.2%</a></li>
+<li><a href="#org8d085ac">31.3. <span class="done DONE">DONE</span> Review thirty one 94.8%</a></li>
+<li><a href="#org2e7d370">31.4. <span class="done DONE">DONE</span> Review Thirty one 95.3%-&gt;94.9%</a></li>
+<li><a href="#orgb5b69ca">31.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 16:20&gt;</span></span>97.6%</a></li>
+<li><a href="#orgf9d2a23">31.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 05:00&gt;</span></span>99.4%</a></li>
+<li><a href="#org137988d">31.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-21 Mon 05:23&gt;</span></span>98.2%</a></li>
+<li><a href="#org19d736a">31.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-06 Tue 07:14&gt;</span></span>97.4%</a></li>
+<li><a href="#org161b75f">31.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-07 Wed 04:46&gt;</span></span>96.5%</a></li>
+<li><a href="#org3420d93">31.10. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-28 Tue 04:46&gt;</span></span>33,32,34</a></li>
+<li><a href="#org464e565">31.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-02 Thu 18:14&gt;</span></span>95.5%</a></li>
+<li><a href="#orga15748d">31.12. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-03 Fri 05:31&gt;</span></span>98.1%</a></li>
+<li><a href="#org15f0153">31.13. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 04:09&gt;</span></span>98.3%</a></li>
+<li><a href="#orgc15d108">31.14. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-08 Wed 04:14&gt;</span></span>30,31</a></li>
+<li><a href="#org032b2a3">31.15. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-08 Wed 08:27&gt;</span></span></a></li>
+<li><a href="#orgeb56d26">31.16. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-10 Fri 04:09&gt;</span></span></a></li>
+<li><a href="#org89b14fa">31.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-10 Fri 21:12&gt;</span></span>96.9%</a></li>
+<li><a href="#orgb005a78">31.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-11 Sat 10:00&gt;</span></span>97.6%</a></li>
+<li><a href="#org892f7e0">31.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-12 Sun 20:48&gt;</span></span>97.6%</a></li>
+<li><a href="#org61bd281">31.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-13 Mon 19:13&gt;</span></span>90.0%</a></li>
+<li><a href="#org73454af">31.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-02 Tue 03:52&gt;</span></span>96.3%</a></li>
+<li><a href="#orgef6b1e4">31.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-03 Wed 04:18&gt;</span></span>97.2%</a></li>
+<li><a href="#orgd7f224f">31.23. <span class="done DONE">DONE</span> Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-03 Wed 05:46&gt;</span></span></a></li>
+<li><a href="#org12f4abc">31.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-04 Thu 14:25&gt;</span></span>96.8%</a></li>
+<li><a href="#org93bc2c3">31.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-10 Wed 15:37&gt;</span></span>98.1%</a></li>
+<li><a href="#orgc9c89d9">31.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-12 Fri 11:24&gt;</span></span>98.7%</a></li>
+<li><a href="#org955aafb">31.27. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-12 Fri 19:07&gt;</span></span>98.3%</a></li>
+<li><a href="#org27d3f05">31.28. Lesson 31</a></li>
+</ul>
+</li>
+<li><a href="#org92ec802">32. <span class="done DONE">DONE</span> Lesson thirty two 96.2%</a>
+<ul>
+<li><a href="#org2d14d1c">32.1. <span class="done DONE">DONE</span> Review thirty two 95.5%</a></li>
+<li><a href="#orgf0aeaa6">32.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-20 Sun 05:26&gt;</span></span>98.2%</a></li>
+<li><a href="#org0218916">32.3. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 09:02&gt;</span></span></a></li>
+<li><a href="#orgf5831c3">32.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-10 Wed 06:01&gt;</span></span>97.9%</a></li>
+<li><a href="#org3804571">32.5. Lesson 32</a></li>
+<li><a href="#org82fbe58">32.6. text</a>
+<ul>
+<li><a href="#org9c5d855">32.6.1. a reception desk</a></li>
+<li><a href="#org3f023c9">32.6.2. a receptionist</a></li>
+<li><a href="#org304401a">32.6.3. to wash up</a></li>
+<li><a href="#org7489fbd">32.6.4. to offer</a></li>
+<li><a href="#orgbeab368">32.6.5. to take a shower 洗澡</a></li>
+</ul>
+</li>
+<li><a href="#orge401b22">32.7. <span class="done DONE">DONE</span> Review Thirty two 96.5%</a></li>
+<li><a href="#org036b4f9">32.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 05:44&gt;</span></span>98.7%</a></li>
+<li><a href="#org91f5ce7">32.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 09:33&gt;</span></span>99%</a></li>
+<li><a href="#orgbad754f">32.10. <span class="done DONE">DONE</span> section six 96.2%</a>
+<ul>
+<li><a href="#org2985a2a">32.10.1. 信用卡；记帐卡</a></li>
+</ul>
+</li>
+<li><a href="#orgd95c2f6">32.11. <span class="done DONE">DONE</span> Review Thirty two 97.1%</a></li>
+<li><a href="#orgd8ad715">32.12. <span class="done DONE">DONE</span> Lesson thirty three</a></li>
+<li><a href="#orge46b5b8">32.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-28 Tue 06:23&gt;</span></span>97.8%</a></li>
+<li><a href="#org04d8b42">32.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-28 Tue 14:45&gt;</span></span>98%</a></li>
+<li><a href="#org69d00bf">32.15. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-02 Thu 05:29&gt;</span></span>32,33,34</a></li>
+<li><a href="#orgdfbbd2d">32.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-13 Mon 18:44&gt;</span></span>99.1%</a></li>
+<li><a href="#orgdc20cbc">32.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-02 Tue 04:58&gt;</span></span>97.9%</a></li>
+<li><a href="#orgfdebcc8">32.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-02 Tue 20:57&gt;</span></span>98.1%</a></li>
+<li><a href="#org6ba1fca">32.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-13 Sat 05:15&gt;</span></span>98.6%</a></li>
+</ul>
+</li>
+<li><a href="#org4656b38">33. <span class="done DONE">DONE</span> Review thirty three 95.3%</a>
+<ul>
+<li><a href="#orgcdb41c1">33.1. text</a>
+<ul>
+<li><a href="#org9ad58da">33.1.1. blinds</a></li>
+<li><a href="#orgb086871">33.1.2. ceiling</a></li>
+<li><a href="#org5afc039">33.1.3. drapes</a></li>
+<li><a href="#org63d081f">33.1.4. a floor</a></li>
+<li><a href="#orgc4a23c1">33.1.5. balcony</a></li>
+<li><a href="#org4ce512f">33.1.6. fireplace</a></li>
+<li><a href="#org0284d25">33.1.7. to look for 寻找</a></li>
+<li><a href="#org1131861">33.1.8. hang</a></li>
+<li><a href="#orgc1ebb1c">33.1.9. fit</a></li>
+<li><a href="#org7746b24">33.1.10. chandelier</a></li>
+<li><a href="#orgbfde67a">33.1.11. rug</a></li>
+<li><a href="#orga1cb810">33.1.12. 英  ['pɪləʊ]  美  ['pɪlo]</a></li>
+<li><a href="#org08587b2">33.1.13. a floor lamp</a></li>
+<li><a href="#org79131a4">33.1.14. bed sheets</a></li>
+<li><a href="#org449f3cb">33.1.15. a blanket</a></li>
+<li><a href="#org5ddc97a">33.1.16. the other 英   美</a></li>
+<li><a href="#orgd65f65f">33.1.17. none</a></li>
+<li><a href="#org373754e">33.1.18. outside</a></li>
+<li><a href="#orgeaba57e">33.1.19. inside</a></li>
+</ul>
+</li>
+<li><a href="#orgb0e6fa2">33.2. <span class="done DONE">DONE</span> Review Thirty three 96.4%</a></li>
+<li><a href="#org1ffeaff">33.3. <span class="done DONE">DONE</span> continue thirty tree</a></li>
+<li><a href="#org8bbe98a">33.4. <span class="done DONE">DONE</span> continue learn 32 96.1%</a></li>
+<li><a href="#org991bf21">33.5. <span class="done DONE">DONE</span> Review 33</a></li>
+<li><a href="#org77a0e7f">33.6. <span class="done DONE">DONE</span> Review 33 95.2%</a></li>
+<li><a href="#orgd071f38">33.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 16:11&gt;</span></span>98.5%</a></li>
+<li><a href="#org956db82">33.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-19 Sat 09:54&gt;</span></span>98.4%</a></li>
+<li><a href="#org8614bb4">33.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 18:00&gt;</span></span>97.8%</a></li>
+<li><a href="#orgdf45b70">33.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-26 Sun 07:59&gt;</span></span>98.3%</a></li>
+<li><a href="#org43bec1c">33.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-26 Sun 15:13&gt;</span></span>98.1%</a></li>
+<li><a href="#org8e8e6cf">33.12. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-27 Mon 18:29&gt;</span></span></a></li>
+<li><a href="#orge5055ec">33.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-27 Mon 20:51&gt;</span></span>98.7%</a></li>
+<li><a href="#org3c7721b">33.14. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 06:48&gt;</span></span></a></li>
+<li><a href="#orgc14cad3">33.15. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-14 Tue 05:26&gt;</span></span></a></li>
+<li><a href="#orgb1574cf">33.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-14 Tue 06:07&gt;</span></span>98.1%</a></li>
+<li><a href="#org9f0cb81">33.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-02 Tue 14:05&gt;</span></span>96.8%</a></li>
+<li><a href="#org55ae26c">33.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-02 Tue 18:19&gt;</span></span>98.2%</a>
+<ul>
+<li><a href="#org13c77d6">33.18.1. A chandelier is a large, decorative frame which holds light bulbs or candles and hangs from the ceiling.</a></li>
+</ul>
+</li>
+<li><a href="#orgf6ff0c7">33.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-04 Thu 05:26&gt;</span></span>97.9%</a></li>
+<li><a href="#orgcd7e759">33.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-09 Tue 19:16&gt;</span></span>97.7%</a></li>
+<li><a href="#org721f686">33.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-13 Sat 10:40&gt;</span></span>98%</a></li>
+<li><a href="#orgd7a3942">33.22. Lesson 33</a></li>
+</ul>
+</li>
+<li><a href="#org6d46820">34. <span class="done DONE">DONE</span> thirty four</a>
+<ul>
+<li><a href="#org3454a24">34.1. <span class="done DONE">DONE</span> Review thirty four 97-&gt;95.4%</a></li>
+<li><a href="#orga8cce41">34.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-19 Sat 05:38&gt;</span></span>96.9%</a></li>
+<li><a href="#orgeffbf22">34.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-07 Wed 07:59&gt;</span></span>97.7%</a></li>
+<li><a href="#org5f46bfc">34.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 10:41&gt;</span></span>95%</a></li>
+<li><a href="#org2891594">34.5. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 11:13&gt;</span></span></a></li>
+<li><a href="#org42edd9e">34.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 15:19&gt;</span></span>98.4%</a></li>
+<li><a href="#org0d12009">34.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 20:22&gt;</span></span>97.8%</a></li>
+<li><a href="#org2246afe">34.8. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-26 Sun 04:02&gt;</span></span>34,33,32</a></li>
+<li><a href="#org5ca83a2">34.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-26 Sun 16:25&gt;</span></span>98.7%</a></li>
+<li><a href="#org2cf5d5d">34.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-05 Fri 04:40&gt;</span></span>96.4%</a></li>
+<li><a href="#org8e534c1">34.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-09 Tue 05:47&gt;</span></span>97.4%</a></li>
+<li><a href="#org506fd5b">34.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-13 Sat 15:29&gt;</span></span>98.3%</a></li>
+<li><a href="#orgb4029a9">34.13. Lesson 34</a></li>
+<li><a href="#org4d163c6">34.14. text</a>
+<ul>
+<li><a href="#org692148e">34.14.1. salad</a></li>
+<li><a href="#orgc39e8bb">34.14.2. mushrooms</a></li>
+<li><a href="#org9fdb7e9">34.14.3. cabbage</a></li>
+<li><a href="#orgb03e36d">34.14.4. onion</a></li>
+<li><a href="#org5b48804">34.14.5. mashed potatoes</a></li>
+<li><a href="#org20b5391">34.14.6. soup</a></li>
+<li><a href="#org2a843f9">34.14.7. to bring food</a></li>
+<li><a href="#orga16cde6">34.14.8. to cook</a></li>
+<li><a href="#orgf17b1cc">34.14.9. to bake</a></li>
+<li><a href="#orgdd0f6d0">34.14.10. to boil</a></li>
+<li><a href="#org2417a30">34.14.11. to fry</a></li>
+<li><a href="#orgbd19b2e">34.14.12. to try</a></li>
+<li><a href="#orgad4cda8">34.14.13. hot</a></li>
+<li><a href="#org6baa4b5">34.14.14. boiled</a></li>
+<li><a href="#orgab4baf4">34.14.15. cold</a></li>
+<li><a href="#org7f92273">34.14.16. fried</a></li>
+<li><a href="#orgfe03541">34.14.17. tasty</a></li>
+<li><a href="#org3f777d0">34.14.18. fresh</a></li>
+<li><a href="#orgcda5445">34.14.19. pie with cabbage</a></li>
+<li><a href="#orgc0b9257">34.14.20. pie with mashrooms</a></li>
+<li><a href="#orgba00179">34.14.21. pie with potato</a></li>
+<li><a href="#orgc611b02">34.14.22. pie with meat</a></li>
+<li><a href="#orgaa97dcf">34.14.23. pie with onion and egg</a></li>
+<li><a href="#org2d2539f">34.14.24. pie</a></li>
+<li><a href="#orgbb37458">34.14.25. drinks</a></li>
+<li><a href="#org64c762a">34.14.26. appetizers</a></li>
+<li><a href="#orgf7f0850">34.14.27. a bar</a></li>
+<li><a href="#org42edc84">34.14.28. strong drinks</a></li>
+<li><a href="#org2d9f41d">34.14.29. a café</a></li>
+<li><a href="#orge82325b">34.14.30. milk</a></li>
+</ul>
+</li>
+<li><a href="#org0a3d4df">34.15. <span class="done DONE">DONE</span> Review Thirty Four 94.2%</a></li>
+<li><a href="#orgd6e9e2d">34.16. <span class="done DONE">DONE</span> thirty four 95.4%</a></li>
+<li><a href="#org35c7967">34.17. <span class="done DONE">DONE</span> Review thirty four 97%</a></li>
+<li><a href="#orgc94a8c8">34.18. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 09:41&gt;</span></span>98.3%</a></li>
+<li><a href="#org6f387eb">34.19. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 15:10&gt;</span></span>98.9%</a></li>
+<li><a href="#org9379930">34.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 08:33&gt;</span></span>99.4%</a></li>
+</ul>
+</li>
+<li><a href="#orgaee6904">35. <span class="done DONE">DONE</span> thirty five 95%</a>
+<ul>
+<li><a href="#orgfcf6403">35.1. <span class="done DONE">DONE</span> Review Thirty Five 93.3%</a></li>
+<li><a href="#orgb72d366">35.2. <span class="done DONE">DONE</span> Review Thirty Five 95.6%</a></li>
+<li><a href="#orge03d49d">35.3. <span class="done DONE">DONE</span> Review thirty five</a></li>
+<li><a href="#org5e91683">35.4. <span class="done DONE">DONE</span> Reveiw Thrity five 96.6%</a></li>
+<li><a href="#orgf0b98ec">35.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 04:57&gt;</span></span>98%</a></li>
+<li><a href="#orgb2a33ad">35.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 19:47&gt;</span></span>98.1%</a></li>
+<li><a href="#org515fb53">35.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-08 Thu 05:43&gt;</span></span>97.2%</a></li>
+<li><a href="#orge6c2e26">35.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-26 Sun 19:34&gt;</span></span>96%</a></li>
+<li><a href="#org88ef6f4">35.9. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-27 Mon 05:24&gt;</span></span>30,34</a></li>
+<li><a href="#orgf727f02">35.10. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 05:00&gt;</span></span>34,32</a></li>
+<li><a href="#org84ecc31">35.11. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-09 Thu 05:33&gt;</span></span></a></li>
+<li><a href="#org3274596">35.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-09 Thu 06:44&gt;</span></span>95.2%</a></li>
+<li><a href="#org8405ef5">35.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-09 Thu 20:38&gt;</span></span>97.4%</a></li>
+<li><a href="#orgadf3adf">35.14. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-10 Fri 04:23&gt;</span></span></a></li>
+<li><a href="#orgaa6d136">35.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-10 Fri 19:28&gt;</span></span>98.2%</a></li>
+<li><a href="#orgc822671">35.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-09 Tue 04:16&gt;</span></span>97.4%</a></li>
+<li><a href="#org1e68928">35.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-13 Sat 17:07&gt;</span></span>97.9%</a></li>
+<li><a href="#org9424562">35.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-14 Sun 03:51&gt;</span></span>98.5%</a></li>
+<li><a href="#org9b30961">35.19. Lesson 35</a></li>
+<li><a href="#org822a5a4">35.20. text</a>
+<ul>
+<li><a href="#org3d80a37">35.20.1. a sweater</a></li>
+<li><a href="#org6b504e3">35.20.2. socks</a></li>
+<li><a href="#orgcba4df5">35.20.3. tights</a></li>
+<li><a href="#org40a7765">35.20.4. a coat</a></li>
+<li><a href="#org1981b89">35.20.5. a tank top</a></li>
+<li><a href="#org844fc17">35.20.6. a blouse</a></li>
+<li><a href="#org87b84a0">35.20.7. loose pants</a></li>
+<li><a href="#org071eabc">35.20.8. a light coat</a></li>
+<li><a href="#org54d6ce2">35.20.9. a long skirt</a></li>
+<li><a href="#org4968fe0">35.20.10. a short skirt</a></li>
+<li><a href="#orgf046697">35.20.11. tight pants</a></li>
+<li><a href="#org85b7f72">35.20.12. a warm sweater</a></li>
+<li><a href="#orga180155">35.20.13. to cut</a></li>
+<li><a href="#orgb7fa0bb">35.20.14. to knit</a></li>
+<li><a href="#org2937575">35.20.15. to sew</a></li>
+<li><a href="#org24c889f">35.20.16. to embroider</a></li>
+<li><a href="#org7141a9e">35.20.17. fabric</a></li>
+<li><a href="#orge5bd032">35.20.18. thread</a></li>
+<li><a href="#org02466eb">35.20.19. a needle and thread</a></li>
+<li><a href="#org0e5b9a2">35.20.20. a needle</a></li>
+<li><a href="#org5bb27a0">35.20.21. scissors</a></li>
+<li><a href="#orgbe60f9d">35.20.22. embroidery</a></li>
+</ul>
+</li>
+<li><a href="#orge64e072">35.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 18:31&gt;</span></span>98.8%</a></li>
+<li><a href="#org34524e1">35.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-05 Fri 05:25&gt;</span></span>96.3%</a></li>
+<li><a href="#org81dc6f5">35.23. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-05 Fri 08:19&gt;</span></span></a></li>
+</ul>
+</li>
+<li><a href="#org62fcfe3">36. <span class="done DONE">DONE</span> thirty six 95.7%</a>
+<ul>
+<li><a href="#org5c9ca97">36.1. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 05:12&gt;</span></span>99.2%</a></li>
+<li><a href="#org81e7421">36.2. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 14:53&gt;</span></span>97.9%</a></li>
+<li><a href="#orgffdadc1">36.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-08 Thu 07:40&gt;</span></span>97.7%</a></li>
+<li><a href="#org4ad8044">36.4. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-09 Thu 05:47&gt;</span></span></a></li>
+<li><a href="#orgc65a82a">36.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-21 Tue 11:24&gt;</span></span>95.1%</a></li>
+<li><a href="#orge1769b9">36.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-21 Tue 17:03&gt;</span></span>96.1%</a></li>
+<li><a href="#org60c3315">36.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-21 Tue 18:33&gt;</span></span>98.0%</a></li>
+<li><a href="#orgd5dd53f">36.8. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-22 Wed 06:00&gt;</span></span></a></li>
+<li><a href="#org773b6ce">36.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-22 Wed 06:29&gt;</span></span>98.0%</a></li>
+<li><a href="#orge19505c">36.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-22 Wed 08:34&gt;</span></span>98.2%</a></li>
+<li><a href="#orgea29e8a">36.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-22 Wed 11:14&gt;</span></span>99.6%</a></li>
+<li><a href="#orgccb0d57">36.12. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-23 Thu 04:38&gt;</span></span></a></li>
+<li><a href="#org38a4ee4">36.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-05 Fri 15:10&gt;</span></span>95.4%</a></li>
+<li><a href="#org631dbba">36.14. <span class="done DONE">DONE</span> Handwriting <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-08 Mon 08:06&gt;</span></span></a></li>
+<li><a href="#org0df1702">36.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-08 Mon 14:56&gt;</span></span>97.2%</a></li>
+<li><a href="#org66af84c">36.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-14 Sun 08:11&gt;</span></span>95.8%</a></li>
+<li><a href="#orgb4304d4">36.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-14 Sun 16:10&gt;</span></span>98%</a></li>
+<li><a href="#org2a0046d">36.18. Lesson 36</a></li>
+<li><a href="#org93d9ee3">36.19. text</a></li>
+</ul>
+</li>
+<li><a href="#org409cfa3">37. <span class="done DONE">DONE</span> thirty seven 95.1%</a>
+<ul>
+<li><a href="#orge597fe3">37.1. <span class="done DONE">DONE</span> Review thirty seven 96.3%-&gt;96.9%</a></li>
+<li><a href="#org44d7367">37.2. <span class="done DONE">DONE</span> thirty seven 96.3%</a></li>
+<li><a href="#org225a276">37.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 20:16&gt;</span></span>99.1%</a></li>
+<li><a href="#org6dc8b2d">37.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 05:35&gt;</span></span>98%</a></li>
+<li><a href="#org002f118">37.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 11:00&gt;</span></span>98.5%</a></li>
+<li><a href="#org6201b42">37.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-09 Fri 03:08&gt;</span></span>97.7%</a></li>
+<li><a href="#orgafd8602">37.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-21 Tue 21:58&gt;</span></span>97.8%</a></li>
+<li><a href="#orgde2b639">37.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-22 Wed 06:00&gt;</span></span>98.1%</a></li>
+<li><a href="#org035174a">37.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-22 Wed 11:09&gt;</span></span>98.7%</a></li>
+<li><a href="#org4c6dd93">37.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 09:05&gt;</span></span>98.6%</a></li>
+<li><a href="#orgea7684f">37.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 21:36&gt;</span></span>98.6%</a></li>
+<li><a href="#org2143fea">37.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-24 Fri 06:19&gt;</span></span>99.1%</a></li>
+<li><a href="#org012101b">37.13. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 04:52&gt;</span></span>41,42,49</a></li>
+<li><a href="#org7d00ea1">37.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-15 Wed 20:20&gt;</span></span>97.8%</a></li>
+<li><a href="#orgd4ff415">37.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 06:31&gt;</span></span>98.8%</a></li>
+<li><a href="#orga0cfec6">37.16. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 08:50&gt;</span></span></a></li>
+<li><a href="#orgb563b28">37.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 16:22&gt;</span></span>99.2%</a></li>
+<li><a href="#org68dc8c7">37.18. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-18 Sat 05:20&gt;</span></span></a></li>
+<li><a href="#org3e3c398">37.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 06:49&gt;</span></span>98.7%</a></li>
+<li><a href="#org2783c65">37.20. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-20 Mon 05:24&gt;</span></span>37,38,38</a></li>
+<li><a href="#org02cb6ce">37.21. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-20 Mon 10:52&gt;</span></span>98.8%</a></li>
+<li><a href="#orgcc21453">37.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-21 Tue 02:53&gt;</span></span>98.9%</a></li>
+<li><a href="#org1cfec6a">37.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-05 Fri 19:42&gt;</span></span>97.2%</a></li>
+<li><a href="#org1055465">37.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-08 Mon 05:21&gt;</span></span>98.9%</a></li>
+<li><a href="#org5bb0d19">37.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-15 Mon 05:10&gt;</span></span>97.9%</a></li>
+<li><a href="#org226b878">37.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-15 Mon 19:22&gt;</span></span>98.6%</a></li>
+<li><a href="#org02bdcf5">37.27. Lesson thirty seven</a></li>
+<li><a href="#org316d95a">37.28. text</a></li>
+<li><a href="#org1a65dde">37.29. How do yellow leaves fall? Yellow leaves fall slowy.</a></li>
+<li><a href="#orgf8b16bd">37.30. text</a>
+<ul>
+<li><a href="#org8ea1b38">37.30.1. a super market</a></li>
+<li><a href="#orgbf4d6bb">37.30.2. chenge</a></li>
+<li><a href="#org3300b56">37.30.3. a receipt</a></li>
+<li><a href="#org888ec48">37.30.4. a cash register</a></li>
+<li><a href="#orge6c43ea">37.30.5. a market</a></li>
+<li><a href="#org68f04b5">37.30.6. a counter</a></li>
+<li><a href="#org5fbcc00">37.30.7. cake</a></li>
+<li><a href="#org3941dd0">37.30.8. chocolate</a></li>
+<li><a href="#org16bef76">37.30.9. perfume</a></li>
+<li><a href="#org2901186">37.30.10. produce</a></li>
+<li><a href="#org6269eba">37.30.11. souvenirs</a></li>
+<li><a href="#orge3e7f7f">37.30.12. a purchase</a></li>
+<li><a href="#org1cbfffc">37.30.13. to pick up</a></li>
+<li><a href="#orgcfa23df">37.30.14. to pick out</a></li>
+<li><a href="#org22ad6a5">37.30.15. to carry</a></li>
+<li><a href="#org6b59e80">37.30.16. to weight</a></li>
+<li><a href="#org9610135">37.30.17. to wrap</a></li>
+<li><a href="#org9fa9e7f">37.30.18. poor</a></li>
+<li><a href="#org2192bd2">37.30.19. rich</a></li>
+<li><a href="#org98b5f73">37.30.20. whole</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org69cb2f9">38. <span class="done DONE">DONE</span> </a></li>
+<li><a href="#orgb023667">39. <span class="done DONE">DONE</span> Thirty eight 96.6%</a>
+<ul>
+<li><a href="#org4d07764">39.1. <span class="done DONE">DONE</span> Review thirty eight 95.6%</a></li>
+<li><a href="#org42e186b">39.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 05:25&gt;</span></span>97.8%</a></li>
+<li><a href="#org27de44c">39.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 14:08&gt;</span></span></a></li>
+<li><a href="#org7bd59db">39.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 05:11&gt;</span></span>98.6%</a></li>
+<li><a href="#org251a49d">39.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-16 Wed 03:56&gt;</span></span>96.1%</a></li>
+<li><a href="#org3811f91">39.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-26 Sat 06:05&gt;</span></span>96.9%</a></li>
+<li><a href="#orgf3c4b8a">39.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-09 Fri 04:26&gt;</span></span>96.7%</a></li>
+<li><a href="#orgf363e82">39.8. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-21 Tue 05:58&gt;</span></span>96.4%</a></li>
+<li><a href="#org313f154">39.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-22 Wed 17:03&gt;</span></span>97.5%</a></li>
+<li><a href="#orge22980d">39.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-22 Wed 13:30&gt;</span></span>98.2%</a></li>
+<li><a href="#org6c8f63a">39.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 08:25&gt;</span></span>97.7%</a></li>
+<li><a href="#orge581352">39.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 22:06&gt;</span></span>98.5%</a></li>
+<li><a href="#org4fdb708">39.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-24 Fri 05:41&gt;</span></span>98.6%</a></li>
+<li><a href="#org3f3d8cb">39.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 06:03&gt;</span></span>98.7%</a></li>
+<li><a href="#org07cbe28">39.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-15 Wed 15:12&gt;</span></span>97.2%</a></li>
+<li><a href="#orgdfd3a1a">39.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 05:58&gt;</span></span>98.8%</a></li>
+<li><a href="#org531024e">39.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 18:53&gt;</span></span>99.1%</a></li>
+<li><a href="#org93ce27f">39.18. <span class="done DONE">DONE</span> Wrting<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-17 Fri 20:59&gt;</span></span></a></li>
+<li><a href="#orge32d475">39.19. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-18 Sat 05:37&gt;</span></span></a></li>
+<li><a href="#orgd92b5f3">39.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-18 Sat 06:39&gt;</span></span>98.2%</a></li>
+<li><a href="#org00fe821">39.21. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 05:21&gt;</span></span>37,38,39</a></li>
+<li><a href="#org664a650">39.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 08:24&gt;</span></span>97.8%</a></li>
+<li><a href="#org6955ff1">39.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-20 Mon 14:27&gt;</span></span>99.1%</a></li>
+<li><a href="#org8a19f9d">39.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-21 Tue 03:22&gt;</span></span>99.2%</a></li>
+<li><a href="#org850726a">39.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-06 Sat 04:42&gt;</span></span>98.3%</a></li>
+<li><a href="#orga97991b">39.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-07 Sun 18:03&gt;</span></span>97.9%</a></li>
+<li><a href="#orgd98e6d5">39.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-16 Tue 05:22&gt;</span></span>97.6%</a></li>
+<li><a href="#org7ddec4d">39.28. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-17 Wed 04:57&gt;</span></span>98.6%</a></li>
+<li><a href="#orgacb7c28">39.29. Lesson 38</a></li>
+<li><a href="#orgeb78042">39.30. text</a>
+<ul>
+<li><a href="#org70a4105">39.30.1. film</a></li>
+<li><a href="#org6b8f6a8">39.30.2. music</a></li>
+<li><a href="#orgeb549c6">39.30.3. a drum</a></li>
+<li><a href="#org6d3f6c5">39.30.4. a guitar</a></li>
+<li><a href="#orgea7163f">39.30.5. a violin</a></li>
+<li><a href="#org560eac2">39.30.6. dance</a></li>
+<li><a href="#org0a3f983">39.30.7. A carnival costume</a></li>
+<li><a href="#orgc03cd4c">39.30.8. candy</a></li>
+<li><a href="#org0e8b106">39.30.9. a wig</a></li>
+<li><a href="#org6444ba1">39.30.10. mask</a></li>
+<li><a href="#org0eabeb1">39.30.11. a bouquet</a></li>
+<li><a href="#org34ad25c">39.30.12. a carnival</a></li>
+<li><a href="#org02d7c65">39.30.13. to celebrate</a></li>
+<li><a href="#org552925a">39.30.14. to leave the city</a></li>
+<li><a href="#orgc2308f2">39.30.15. to love to do something</a></li>
+<li><a href="#orgbc27451">39.30.16. to collect</a></li>
+<li><a href="#org1979dd5">39.30.17. text</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org2715619">40. <span class="done DONE">DONE</span> Thirty nine 96.9%</a>
+<ul>
+<li><a href="#orgd6a5976">40.1. <span class="done DONE">DONE</span> Review thirty nine 96.9-&gt;96.4%</a></li>
+<li><a href="#org0583998">40.2. <span class="done DONE">DONE</span> Review thirty nine 97.3%</a></li>
+<li><a href="#orgf6fb6cb">40.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 04:42&gt;</span></span>98.3%</a></li>
+<li><a href="#orgd6c67c7">40.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 10:48&gt;</span></span>99.2%</a></li>
+<li><a href="#org17613af">40.5. <span class="done DONE">DONE</span> Lesson thirty nine<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-15 Tue 05:26&gt;</span></span>97.2%</a></li>
+<li><a href="#org44cc98f">40.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-15 Tue 18:47&gt;</span></span>96.8%</a></li>
+<li><a href="#orgf3630d7">40.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-16 Wed 03:33&gt;</span></span>97.6%</a></li>
+<li><a href="#org69f7a48">40.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-26 Sat 05:42&gt;</span></span>98.6%</a></li>
+<li><a href="#org3156f96">40.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-21 Tue 13:36&gt;</span></span>98.5%</a></li>
+<li><a href="#org50bdb10">40.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-06 Sat 07:57&gt;</span></span>97.9%</a></li>
+<li><a href="#org96183d2">40.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-17 Wed 17:15&gt;</span></span>98.4%</a></li>
+<li><a href="#org0930b12">40.12. Lesson thirty nine</a></li>
+<li><a href="#orgc5f888e">40.13. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-21 Tue 05:17&gt;</span></span>96.7%</a></li>
+<li><a href="#org2ae91d5">40.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-22 Wed 19:44&gt;</span></span>98.2%</a></li>
+<li><a href="#org91d7f1f">40.15. <span class="done DONE">DONE</span> Loud Read <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 05:15&gt;</span></span>39,38,37</a></li>
+<li><a href="#org653647a">40.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 07:59&gt;</span></span>98.4%</a></li>
+<li><a href="#orga1b7191">40.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 22:39&gt;</span></span>99.3%</a></li>
+<li><a href="#org43f6081">40.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-24 Fri 05:16&gt;</span></span>98.7%</a></li>
+<li><a href="#org362f538">40.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 05:42&gt;</span></span>99.2%</a></li>
+<li><a href="#orgd67e840">40.20. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-15 Wed 05:30&gt;</span></span></a></li>
+<li><a href="#orgbcf7d0c">40.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-15 Wed 06:35&gt;</span></span>98.4%</a></li>
+<li><a href="#orgaf19ca5">40.22. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-15 Wed 08:41&gt;</span></span></a></li>
+<li><a href="#org41d0fda">40.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-15 Wed 11:28&gt;</span></span>98.6%</a></li>
+<li><a href="#org6d5c8d8">40.24. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 04:29&gt;</span></span>39,38,37</a></li>
+<li><a href="#orgd9f2d51">40.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 05:38&gt;</span></span>99.3%</a></li>
+<li><a href="#org3032e6b">40.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 20:40&gt;</span></span>98.9%</a></li>
+<li><a href="#org9eb4ef9">40.27. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-17 Fri 04:52&gt;</span></span>37,39</a></li>
+<li><a href="#org506aebc">40.28. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-17 Fri 16:32&gt;</span></span>98.5%</a></li>
+<li><a href="#orgdd1c47a">40.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-17 Fri 17:20&gt;</span></span>99.%</a></li>
+<li><a href="#orgfe3d446">40.30. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 09:56&gt;</span></span>98.7%</a></li>
+<li><a href="#org9e5cc2d">40.31. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 21:00&gt;</span></span></a></li>
+<li><a href="#orgbfcd33d">40.32. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-20 Mon 18:05&gt;</span></span>98.8%</a></li>
+<li><a href="#orgec987a9">40.33. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-21 Tue 04:02&gt;</span></span>98.9%</a></li>
+<li><a href="#org2a86f8d">40.34. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-07 Sun 12:08&gt;</span></span>98.3%</a></li>
+<li><a href="#org7b570ca">40.35. text</a>
+<ul>
+<li><a href="#org60d9022">40.35.1. a cow</a></li>
+</ul>
+</li>
+<li><a href="#orgd8f7c99">40.36. text</a></li>
+</ul>
+</li>
+<li><a href="#org0d42d7e">41. <span class="done DONE">DONE</span> continue</a>
+<ul>
+<li><a href="#org66f01c4">41.1. text</a></li>
+</ul>
+</li>
+<li><a href="#orgbc50616">42. <span class="done DONE">DONE</span> Forty  93.2%-&gt;97.4%</a>
+<ul>
+<li><a href="#org02e1089">42.1. <span class="done DONE">DONE</span> Review Forty</a></li>
+<li><a href="#org490cc74">42.2. <span class="done DONE">DONE</span> Review 96.2%</a></li>
+<li><a href="#org965e772">42.3. <span class="done DONE">DONE</span> Review forty 95.1%</a></li>
+<li><a href="#orgd4435f1">42.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 05:35&gt;</span></span>99.1%</a></li>
+<li><a href="#org10d28c5">42.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 07:42&gt;</span></span>99.1%</a></li>
+<li><a href="#orgf479c37">42.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 04:23&gt;</span></span></a></li>
+<li><a href="#org5745990">42.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 08:50&gt;</span></span>98.8%</a></li>
+<li><a href="#org94af08f">42.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 19:10&gt;</span></span>96%</a></li>
+<li><a href="#orgb06dae0">42.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 08:12&gt;</span></span>97.8%</a></li>
+<li><a href="#orgbfb92db">42.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 09:10&gt;</span></span>99.0%</a></li>
+<li><a href="#org977b235">42.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 11:25&gt;</span></span>99.7%</a></li>
+<li><a href="#orgba3d7b9">42.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 16:11&gt;</span></span>96.5%</a></li>
+<li><a href="#org6602169">42.13. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 20:57&gt;</span></span>97.2%</a></li>
+<li><a href="#orgdc3c794">42.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 05:20&gt;</span></span>98.9%</a></li>
+<li><a href="#org9933947">42.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 05:58&gt;</span></span>98.3%</a></li>
+<li><a href="#orga7305b6">42.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 19:56&gt;</span></span>98.8%</a></li>
+<li><a href="#org06eee82">42.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 06:01&gt;</span></span>98.3%</a></li>
+<li><a href="#org07406ad">42.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 06:28&gt;</span></span>97.7%</a></li>
+<li><a href="#org271f09d">42.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-03 Thu 15:51&gt;</span></span>98.2%</a></li>
+<li><a href="#org1f5b891">42.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 05:26&gt;</span></span>98.2%</a>
+<ul>
+<li><a href="#org374d8c8">42.20.1. Detergent</a></li>
+</ul>
+</li>
+<li><a href="#orgb097b3a">42.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 13:51&gt;</span></span>98.1%</a></li>
+<li><a href="#org9a5a47b">42.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 16:14&gt;</span></span>98.7%</a></li>
+<li><a href="#org1978208">42.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 04:44&gt;</span></span>97.6%</a></li>
+<li><a href="#org225c9ec">42.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 09:22&gt;</span></span>97.5%</a></li>
+<li><a href="#orgf958b46">42.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 14:16&gt;</span></span>98.2%</a></li>
+<li><a href="#org468cda6">42.26. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 19:36&gt;</span></span></a></li>
+<li><a href="#org1c631bb">42.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 05:47&gt;</span></span>99.3%</a></li>
+<li><a href="#org4656a05">42.28. <span class="done DONE">DONE</span> Wrting<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 15:13&gt;</span></span></a></li>
+<li><a href="#org2cc15ab">42.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 16:52&gt;</span></span>99.2%</a></li>
+<li><a href="#orgb737d16">42.30. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 06:35&gt;</span></span>98.4%</a></li>
+<li><a href="#orgd29c918">42.31. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 20:34&gt;</span></span>99.5%</a></li>
+<li><a href="#orgaeb4a70">42.32. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 04:56&gt;</span></span>45,44,43</a></li>
+<li><a href="#org2d07b2c">42.33. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 21:15&gt;</span></span>99.3%</a></li>
+<li><a href="#org156d93f">42.34. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 05:42&gt;</span></span>40,41,42</a></li>
+<li><a href="#orgc55b20f">42.35. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 07:06&gt;</span></span>99.5%</a></li>
+<li><a href="#org6ad8dda">42.36. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-20 Mon 07:24&gt;</span></span>98.2%</a></li>
+<li><a href="#org2d015aa">42.37. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-07 Tue 06:30&gt;</span></span>98.6%</a></li>
+<li><a href="#org687cc54">42.38. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 10:13&gt;</span></span>88.5%</a></li>
+<li><a href="#orge55fc29">42.39. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 15:17&gt;</span></span>98.8%</a></li>
+<li><a href="#org302a5b5">42.40. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-06 Sat 10:48&gt;</span></span>98.5%</a></li>
+<li><a href="#org20c79c3">42.41. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-06 Sat 20:40&gt;</span></span>97.5%</a></li>
+<li><a href="#org08ae229">42.42. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-07 Sun 05:22&gt;</span></span>98.6%</a></li>
+<li><a href="#orgf5ff491">42.43. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-18 Thu 04:09&gt;</span></span>98.3%</a></li>
+<li><a href="#org7f625e4">42.44. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-03 Sat 09:02&gt;</span></span>97.8%</a></li>
+<li><a href="#org17e85ec">42.45. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-03 Sat 19:56&gt;</span></span>99.2%</a></li>
+<li><a href="#orgdc819fc">42.46. Lesson 40</a></li>
+<li><a href="#org8aefbf5">42.47. text</a>
+<ul>
+<li><a href="#orgb5d2cfa">42.47.1. a bucket</a></li>
+<li><a href="#orgb343d73">42.47.2. laundry detergent</a></li>
+<li><a href="#org79cf57a">42.47.3. soap</a></li>
+<li><a href="#org889316b">42.47.4. a brush</a></li>
+<li><a href="#orgfee2609">42.47.5. a dishwasher</a></li>
+<li><a href="#orgbe4ca01">42.47.6. an ironing board</a></li>
+<li><a href="#orgd71d88b">42.47.7. an iron</a></li>
+<li><a href="#orgb0779ff">42.47.8. a vacuum cleanery</a></li>
+<li><a href="#org64c2dca">42.47.9. a washing machine</a></li>
+<li><a href="#orgf8fab3e">42.47.10. a mopj</a></li>
+<li><a href="#org7e6d79c">42.47.11. words</a></li>
+</ul>
+</li>
+<li><a href="#org2e3db45">42.48. <span class="done DONE">DONE</span> contiune</a></li>
+</ul>
+</li>
+<li><a href="#orgc931cbc">43. <span class="done DONE">DONE</span> Forty one 91.6%</a>
+<ul>
+<li><a href="#orgeb4ba95">43.1. <span class="done DONE">DONE</span> Review e 95.9% igh 95.9%t 95.9%</a></li>
+<li><a href="#org8b72e35">43.2. <span class="done DONE">DONE</span> Review Forty one 95.2%</a></li>
+<li><a href="#orgaf697f2">43.3. <span class="done DONE">DONE</span> Review 95.6%</a></li>
+<li><a href="#orgab2990b">43.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 19:41&gt; </span></span> 95.4%</a></li>
+<li><a href="#org2225bf8">43.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 20:36&gt; </span></span> 96%</a></li>
+<li><a href="#org1c9bef9">43.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 04:47&gt; </span></span> 97.7%</a></li>
+<li><a href="#org2b6800b">43.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 16:39&gt; </span></span> 96.3%</a></li>
+<li><a href="#orga2a9c63">43.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 04:39&gt;</span></span>99%</a></li>
+<li><a href="#org893fe00">43.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 20:41&gt;</span></span>99.1%</a></li>
+<li><a href="#org5cef53a">43.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 05:49&gt;</span></span>99.2%</a></li>
+<li><a href="#org726843f">43.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 17:22&gt;</span></span>99.3%</a></li>
+<li><a href="#orga6debd6">43.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 04:53&gt;</span></span>99.4%</a></li>
+<li><a href="#orgf5aab16">43.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 13:44&gt;</span></span>98.6%</a></li>
+<li><a href="#org7b614c7">43.14. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 05:21&gt;</span></span>98.2%</a></li>
+<li><a href="#org2f2c9d8">43.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 20:29&gt;</span></span>97.8%</a></li>
+<li><a href="#orgecb77d8">43.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 20:59&gt;</span></span>98%</a></li>
+<li><a href="#org86021a3">43.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 06:02&gt;</span></span>98.8%</a></li>
+<li><a href="#orgab1eb44">43.18. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 06:44&gt;</span></span></a></li>
+<li><a href="#org4ad2b81">43.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 08:31&gt;</span></span>99.3%</a></li>
+<li><a href="#org0b937e6">43.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 20:41&gt;</span></span>96.9%</a></li>
+<li><a href="#orgcf4846e">43.21. <span class="done DONE">DONE</span> Words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-04 Sat 05:02&gt;</span></span></a></li>
+<li><a href="#orge9ab9b9">43.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-04 Sat 15:51&gt;</span></span>99.2%</a></li>
+<li><a href="#orgb0ebe92">43.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 08:32&gt;</span></span>98.8%</a></li>
+<li><a href="#org49035d5">43.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 20:09&gt;</span></span>98.9%</a></li>
+<li><a href="#org5b77827">43.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 15:25&gt;</span></span>99.4%</a></li>
+<li><a href="#org2b06757">43.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 20:48&gt;</span></span>99.3%</a></li>
+<li><a href="#org6bdf30a">43.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 10:00&gt;</span></span>98.4%</a></li>
+<li><a href="#orgc1dc27a">43.28. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-20 Mon 11:09&gt;</span></span>98.3%</a></li>
+<li><a href="#org66e02ec">43.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 16:32&gt;</span></span>98.4%</a></li>
+<li><a href="#orgaff1868">43.30. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-18 Thu 08:53&gt;</span></span>97.9%</a></li>
+<li><a href="#org9f45942">43.31. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-03 Sat 07:42&gt;</span></span>98.4%</a></li>
+<li><a href="#org13f2623">43.32. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-04 Sun 05:05&gt;</span></span>98.2%</a></li>
+<li><a href="#orgb996714">43.33. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-05 Mon 10:36&gt;</span></span>98.2%</a></li>
+<li><a href="#org22902e3">43.34. Lesson 41</a>
+<ul>
+<li><a href="#org7e98a11">43.34.1. <span class="done DONE">DONE</span> words<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 Tue 05:11&gt;</span></span>98%</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#org9670f14">44. <span class="done DONE">DONE</span> Forty two 96.3%</a>
+<ul>
+<li><a href="#org36736b2">44.1. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 20:55&gt; </span></span> 95.9%</a></li>
+<li><a href="#org6a98ab6">44.2. <span class="done DONE">DONE</span> Review and write<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 04:30&gt; </span></span> 96%</a></li>
+<li><a href="#org3bb8f0d">44.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 18:38&gt;</span></span>97.7%</a></li>
+<li><a href="#orgf44b9f4">44.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 09:24&gt;</span></span>98.8%</a></li>
+<li><a href="#org29fcc5d">44.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 20:43&gt;</span></span>99.3%</a></li>
+<li><a href="#org626313d">44.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 09:41&gt;</span></span>97.1%</a></li>
+<li><a href="#orge49976c">44.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 20:56&gt;</span></span>99.1%</a></li>
+<li><a href="#orgec8c1e5">44.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 05:24&gt;</span></span>99.1%</a></li>
+<li><a href="#orgd8e4221">44.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 09:19&gt;</span></span>98.1%</a></li>
+<li><a href="#org5664b5c">44.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 15:55&gt;</span></span>97.6%</a></li>
+<li><a href="#orgbc74625">44.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 19:16&gt;</span></span>97.3%</a></li>
+<li><a href="#orgf46bd44">44.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 05:56&gt;</span></span>98.1%</a></li>
+<li><a href="#org8b7e0cf">44.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 05:48&gt;</span></span>98%</a></li>
+<li><a href="#orgacd69d7">44.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 15:37&gt;</span></span>97.9%</a></li>
+<li><a href="#orgaacf44e">44.15. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 18:48&gt;</span></span></a></li>
+<li><a href="#org9fd2767">44.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 19:45&gt;</span></span>98.5%</a></li>
+<li><a href="#org30f4917">44.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 09:16&gt;</span></span>98.0%</a></li>
+<li><a href="#org6d5b247">44.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 17:44&gt;</span></span>99.3%</a></li>
+<li><a href="#org115ebdf">44.19. <span class="done DONE">DONE</span> Writing Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 16:35&gt;</span></span></a></li>
+<li><a href="#orgba15925">44.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 20:20&gt;</span></span>99%</a></li>
+<li><a href="#org7dc0cf2">44.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 10:23&gt;</span></span>98.4%</a></li>
+<li><a href="#orga936125">44.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-20 Mon 15:54&gt;</span></span>97.6%</a></li>
+<li><a href="#orgb900f8c">44.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-03 Wed 14:34&gt;</span></span>97.9%</a></li>
+<li><a href="#org0b534c7">44.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-18 Thu 15:15&gt;</span></span>97.2%</a></li>
+<li><a href="#orgdfecd14">44.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-19 Fri 05:38&gt;</span></span>98.3%</a></li>
+<li><a href="#orgc617a05">44.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-03 Sat 04:24&gt;</span></span>98.4%</a></li>
+<li><a href="#orga1d783e">44.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-04 Sun 05:29&gt;</span></span>98.1%</a></li>
+<li><a href="#org9f0a4b2">44.28. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-05 Mon 15:10&gt;</span></span>90%</a></li>
+<li><a href="#org7b17fbd">44.29. Lesson 42</a></li>
+</ul>
+</li>
+<li><a href="#org099d1c9">45. <span class="done DONE">DONE</span> Forty three 94.5%</a>
+<ul>
+<li><a href="#org3c9ce53">45.1. <span class="done DONE">DONE</span> Review 94.8%</a></li>
+<li><a href="#org9dfac9d">45.2. <span class="done DONE">DONE</span> Review 96%</a></li>
+<li><a href="#org12e4003">45.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 05:22&gt; </span></span> 95.7%</a></li>
+<li><a href="#orga306d67">45.4. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 10:42&gt; </span></span> 95.7%</a></li>
+<li><a href="#org892f194">45.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 20:00&gt; </span></span> 96.5%</a></li>
+<li><a href="#org4c540af">45.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 Fri 04:27&gt; </span></span> 97.1%</a></li>
+<li><a href="#orga7aeec0">45.7. text</a>
+<ul>
+<li><a href="#org51488e6">45.7.1. a credit card</a></li>
+<li><a href="#org79e7f4d">45.7.2. creddit</a></li>
+<li><a href="#orgf304314">45.7.3. a mailbox</a></li>
+<li><a href="#orgfd9ff0e">45.7.4. an ATM</a></li>
+<li><a href="#org06267b0">45.7.5. a postman</a></li>
+<li><a href="#orgf2307e9">45.7.6. a bank</a></li>
+<li><a href="#orgd75b3c6">45.7.7. a post office</a></li>
+<li><a href="#org4ef5281">45.7.8. a package</a></li>
+<li><a href="#org6d71b82">45.7.9. an envelop</a></li>
+<li><a href="#org24bbdf2">45.7.10. a postcard</a></li>
+<li><a href="#org9fe4243">45.7.11. a stamp</a></li>
+<li><a href="#org5cd30ee">45.7.12. a letter</a></li>
+<li><a href="#org61d6aa7">45.7.13. a telegram</a></li>
+<li><a href="#orgeb22835">45.7.14. a checkbook</a></li>
+<li><a href="#orgd8dcf3a">45.7.15. a loan</a></li>
+<li><a href="#orge974d77">45.7.16. a deposit account</a></li>
+<li><a href="#org47d084f">45.7.17. deposit</a></li>
+<li><a href="#org72cc553">45.7.18. account</a></li>
+<li><a href="#orgd4e76cb">45.7.19. a check</a></li>
+<li><a href="#org2cd5b5b">45.7.20. percent</a></li>
+<li><a href="#org8921558">45.7.21. an account</a></li>
+</ul>
+</li>
+<li><a href="#org5c982d2">45.8. text</a>
+<ul>
+<li><a href="#org52d2452">45.8.1. to receive</a></li>
+</ul>
+</li>
+<li><a href="#org81039d4">45.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 05:46&gt;</span></span>98.5%</a></li>
+<li><a href="#orgc90d303">45.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 04:23&gt;</span></span>97.5</a></li>
+<li><a href="#orga3b3a08">45.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 06:12&gt;</span></span>96.2%</a></li>
+<li><a href="#org8e65248">45.12. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 05:21&gt;</span></span>98.9%</a></li>
+<li><a href="#org93b9e4c">45.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 05:13&gt;</span></span>98.7%</a></li>
+<li><a href="#orgb63495a">45.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 13:57&gt;</span></span>99.2%</a></li>
+<li><a href="#org31525c8">45.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 10:46&gt;</span></span>95.6%</a></li>
+<li><a href="#org9008df3">45.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 19:48&gt;</span></span>97.2%</a></li>
+<li><a href="#org1075bb9">45.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 14:24&gt;</span></span>95.5%</a></li>
+<li><a href="#org99ed1a6">45.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 08:45&gt;</span></span>98.2%</a></li>
+<li><a href="#orgf66fd14">45.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 05:21&gt;</span></span>98.7%</a></li>
+<li><a href="#orga79d1f1">45.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 14:31&gt;</span></span>97.1%</a></li>
+<li><a href="#orgb014679">45.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-10 Thu 06:40&gt;</span></span>97.3%</a></li>
+<li><a href="#orgbb79e6f">45.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-12 Sat 10:21&gt;</span></span>97.6%</a></li>
+<li><a href="#org26344b1">45.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 07:11&gt;</span></span>96.6%</a></li>
+<li><a href="#orge9cb0f9">45.24. <span class="done DONE">DONE</span> Writing <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 10:21&gt;</span></span></a></li>
+<li><a href="#orgd691639">45.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 19:55&gt;</span></span>99.0%</a></li>
+<li><a href="#orga2912c7">45.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-06 Mon 07:51&gt;</span></span>98.3%</a></li>
+<li><a href="#org32b2610">45.27. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-06 Mon 19:29&gt;</span></span>two pages</a></li>
+<li><a href="#orgb42b0e8">45.28. <span class="done DONE">DONE</span> Read aloud<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 05:19&gt;</span></span></a></li>
+<li><a href="#org3d79d47">45.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 05:57&gt;</span></span>98.9%</a></li>
+<li><a href="#orgceb17a3">45.30. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 08:18&gt;</span></span>99.4%</a></li>
+<li><a href="#org80cfa93">45.31. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 07:30&gt;</span></span>99.1%</a></li>
+<li><a href="#org129bb9a">45.32. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 09:17&gt;</span></span></a></li>
+<li><a href="#org443c916">45.33. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 16:08&gt;</span></span>99.6%</a></li>
+<li><a href="#org1b0b3e1">45.34. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 10:45&gt;</span></span>98.7%</a></li>
+<li><a href="#org604825a">45.35. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-20 Mon 19:29&gt;</span></span>98%</a></li>
+<li><a href="#orge1d6a1e">45.36. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-19 Fri 15:36&gt;</span></span>97.4%</a></li>
+<li><a href="#orgf39f703">45.37. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-20 Sat 05:56&gt;</span></span>98.4%</a></li>
+<li><a href="#org323264f">45.38. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-02 Fri 05:24&gt;</span></span>98.3%</a></li>
+<li><a href="#org3bd01d4">45.39. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-04 Sun 08:54&gt;</span></span>98.2%</a></li>
+<li><a href="#org8f47358">45.40. Lesson 43</a></li>
+</ul>
+</li>
+<li><a href="#orged9bdc8">46. <span class="done DONE">DONE</span> Forty four 96%</a>
+<ul>
+<li><a href="#orgdd41b63">46.1. <span class="done DONE">DONE</span> Review 94%</a></li>
+<li><a href="#org4686186">46.2. <span class="done DONE">DONE</span> Review 95.3%</a></li>
+<li><a href="#org33b7924">46.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 Fri 05:31&gt;</span></span>95.8%</a></li>
+<li><a href="#org16acfe9">46.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 03:57&gt;</span></span>97.4%</a></li>
+<li><a href="#org98882a3">46.5. text</a>
+<ul>
+<li><a href="#org1ae684f">46.5.1. text</a></li>
+<li><a href="#orgfe18017">46.5.2. vitamins</a></li>
+<li><a href="#org2ff1d85">46.5.3. a thermometer</a></li>
+<li><a href="#org5a508bd">46.5.4. medicine</a></li>
+<li><a href="#org398df56">46.5.5. aspirin</a></li>
+<li><a href="#org9dcbfd0">46.5.6. a syringe</a></li>
+<li><a href="#orgffacf77">46.5.7. a bandage</a></li>
+<li><a href="#orgbef01ab">46.5.8. to take temperature</a></li>
+<li><a href="#org7ed697d">46.5.9. to take blood pressure</a></li>
+<li><a href="#org968032d">46.5.10. to operate</a></li>
+<li><a href="#org0803a68">46.5.11. to treat</a></li>
+<li><a href="#org11aab73">46.5.12. to dress</a></li>
+<li><a href="#org49046af">46.5.13. to give a shot</a></li>
+<li><a href="#orgcefb14d">46.5.14. an operation</a></li>
+<li><a href="#orga1e93f9">46.5.15. temperature</a></li>
+<li><a href="#orge457d83">46.5.16. a cold</a></li>
+<li><a href="#orgeeb5c0c">46.5.17. a wound</a></li>
+<li><a href="#orga4e2a41">46.5.18. blood pressure</a></li>
+<li><a href="#org858afb9">46.5.19. a cough</a></li>
+<li><a href="#org8e35e65">46.5.20. a dentist</a></li>
+<li><a href="#orgd0c6cdc">46.5.21. a cardiologist</a></li>
+<li><a href="#orgd73fb00">46.5.22. a nurse</a></li>
+<li><a href="#org86386c1">46.5.23. a surgeon</a></li>
+<li><a href="#orgf07a1c0">46.5.24. ophthalmologist</a></li>
+<li><a href="#orged5a87e">46.5.25. a physician</a></li>
+</ul>
+</li>
+<li><a href="#orgd2e0d50">46.6. <span class="done DONE">DONE</span> Review Lesson Forty four 94.9%</a></li>
+<li><a href="#org0a8f90c">46.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 20:11&gt;</span></span>95.8%</a></li>
+<li><a href="#orgc86b984">46.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 06:21&gt;</span></span>96.2%</a></li>
+<li><a href="#org1a99eb2">46.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 04:42&gt;</span></span>99.1%</a></li>
+<li><a href="#orga9c1bc4">46.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 09:01&gt;</span></span>99.3%</a></li>
+<li><a href="#org90b2b86">46.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 Thu 10:11&gt;</span></span>93.3%</a></li>
+<li><a href="#orgec1e38b">46.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 03:56&gt;</span></span>97.1%</a></li>
+<li><a href="#orgb34fe40">46.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 21:06&gt;</span></span>99%</a></li>
+<li><a href="#orgf2e27ea">46.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 06:30&gt;</span></span>97%</a></li>
+<li><a href="#orgbea5007">46.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 06:11&gt;</span></span>96.7%</a></li>
+<li><a href="#org3aefef9">46.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 07:32&gt;</span></span>97.6%</a></li>
+<li><a href="#org4e5c2a0">46.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 07:40&gt;</span></span>96.%</a></li>
+<li><a href="#orgd794635">46.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 19:58&gt;</span></span>98.1%</a>
+<ul>
+<li><a href="#org2f3e2fd">46.18.1. A surgeon is a doctor who is specially trained to perform surgery. 外科医生</a></li>
+</ul>
+</li>
+<li><a href="#orgb8182cb">46.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 04:59&gt;</span></span>98.2%</a></li>
+<li><a href="#org5dd9c41">46.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 08:29&gt;</span></span>97.8%</a></li>
+<li><a href="#orgf42e444">46.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 09:21&gt;</span></span>95.9%</a></li>
+<li><a href="#orgbcef6f8">46.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 21:18&gt;</span></span>97.2%</a></li>
+<li><a href="#orgf7fdf2d">46.23. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 05:20&gt;</span></span></a></li>
+<li><a href="#orgcfc8be4">46.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 06:37&gt;</span></span>98.5%</a></li>
+<li><a href="#org0dc48e9">46.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 08:21&gt;</span></span>95.5%</a></li>
+<li><a href="#org3d63999">46.26. <span class="done DONE">DONE</span> study words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 19:14&gt;</span></span>99.1%</a></li>
+<li><a href="#org1f79c98">46.27. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 05:42&gt;</span></span></a></li>
+<li><a href="#org53a9046">46.28. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 06:37&gt;</span></span>99.7%</a></li>
+<li><a href="#org9a99b56">46.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 15:39&gt;</span></span>98.6%</a></li>
+<li><a href="#orgb47bd1a">46.30. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 07:07&gt;</span></span>99%</a></li>
+<li><a href="#orgfa8abce">46.31. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 12:22&gt;</span></span>98.5%</a></li>
+<li><a href="#org297f585">46.32. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-21 Sun 05:10&gt;</span></span>96.1%</a></li>
+<li><a href="#orgb04461b">46.33. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-01 Thu 05:11&gt;</span></span>98.2%</a></li>
+<li><a href="#org43ac466">46.34. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-01 Thu 14:24&gt;</span></span>98.9%</a></li>
+<li><a href="#orgc64cb44">46.35. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-04 Sun 19:37&gt;</span></span>97.3%</a></li>
+<li><a href="#org5674bd2">46.36. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-05 Mon 05:11&gt;</span></span>98.9%</a></li>
+<li><a href="#org71f6257">46.37. Lesson 44</a></li>
+</ul>
+</li>
+<li><a href="#orga0114b2">47. <span class="done DONE">DONE</span> Forty five 96.3%</a>
+<ul>
+<li><a href="#orgb7fd875">47.1. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-01 Thu 19:07&gt;</span></span>98.3%</a></li>
+<li><a href="#org1fc65e5">47.2. <span class="done DONE">DONE</span> Review 95.4%</a></li>
+<li><a href="#org217d19f">47.3. <span class="done DONE">DONE</span> Review 96.9%</a></li>
+<li><a href="#orgd811a23">47.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 04:58&gt;</span></span>96.6%</a></li>
+<li><a href="#org5649090">47.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 05:00&gt;</span></span>96.9%</a></li>
+<li><a href="#orge44db17">47.6. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 06:06&gt;</span></span>98.7%</a></li>
+<li><a href="#orgeca2668">47.7. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 11:06&gt;</span></span>98.7%</a></li>
+<li><a href="#org1b018c3">47.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 14:56&gt;</span></span>99.6%</a></li>
+<li><a href="#org0ae4142">47.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 Wed 20:43&gt;</span></span>96%</a></li>
+<li><a href="#orgeb9d9b1">47.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 Thu 08:30&gt;</span></span>96%</a></li>
+<li><a href="#orga715810">47.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 17:31&gt;</span></span>99.1%</a></li>
+<li><a href="#orge78dd17">47.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 21:11&gt;</span></span>97.1%</a></li>
+<li><a href="#orgac9c4ac">47.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 05:57&gt;</span></span>98.6%</a></li>
+<li><a href="#orga4b71bd">47.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 05:21&gt;</span></span>97.4%</a></li>
+<li><a href="#orge902ba1">47.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 06:25&gt;</span></span>97.8%</a></li>
+<li><a href="#orga72df2a">47.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 10:42&gt;</span></span>98.4%</a></li>
+<li><a href="#org4c17211">47.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 17:56&gt;</span></span>98.1%</a></li>
+<li><a href="#org4389032">47.18. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 06:32&gt;</span></span>98.5%</a></li>
+<li><a href="#org3482e1b">47.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 06:17&gt;</span></span>97.6%</a></li>
+<li><a href="#org1c1b8a3">47.20. <span class="done DONE">DONE</span> Writing</a></li>
+<li><a href="#org2031cf3">47.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 07:04&gt;</span></span>98.3%</a></li>
+<li><a href="#org36ab4db">47.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 21:02&gt;</span></span>98.4%</a></li>
+<li><a href="#org306c7c0">47.23. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 09:42&gt;</span></span></a></li>
+<li><a href="#orga6271c3">47.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 10:13&gt;</span></span>99.6%</a></li>
+<li><a href="#org00b08de">47.25. <span class="done DONE">DONE</span> read aloud<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 05:26&gt;</span></span>45,44,43,42</a></li>
+<li><a href="#orgfcf1c4b">47.26. <span class="done DONE">DONE</span> Writing words and review words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 06:14&gt;</span></span>five texts</a></li>
+<li><a href="#orgb421d39">47.27. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-16 Thu 05:24&gt;</span></span></a></li>
+<li><a href="#org108d3a3">47.28. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-17 Fri 19:44&gt;</span></span>98.9%</a></li>
+<li><a href="#org47e4016">47.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 06:49&gt;</span></span>99.1%</a></li>
+<li><a href="#org9c822bf">47.30. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 16:35&gt;</span></span>98.5%</a></li>
+<li><a href="#orge6ff024">47.31. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 20:37&gt;</span></span></a></li>
+<li><a href="#org2b4db09">47.32. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-20 Mon 03:44&gt;</span></span>40,45,43</a></li>
+<li><a href="#org29076fa">47.33. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-22 Mon 05:40&gt;</span></span>97.8%</a></li>
+<li><a href="#org0b32b51">47.34. <span class="done DONE">DONE</span> Review98%</a></li>
+<li><a href="#org4249681">47.35. Lesson 45</a></li>
+<li><a href="#org873a662">47.36. text</a>
+<ul>
+<li><a href="#orgf0316d8">47.36.1. elderly people</a></li>
+<li><a href="#orge14357f">47.36.2. a child</a></li>
+<li><a href="#orgbed7d96">47.36.3. an elderly man</a></li>
+<li><a href="#orga008c9a">47.36.4. an adult</a></li>
+<li><a href="#org4a5eee8">47.36.5. an elderly woman</a></li>
+<li><a href="#orgb9767a3">47.36.6. a teenager</a></li>
+<li><a href="#org0de4472">47.36.7. to live</a></li>
+<li><a href="#org0f66337">47.36.8. to be born</a></li>
+<li><a href="#org54e9bd6">47.36.9. to die</a></li>
+<li><a href="#org80e5d87">47.36.10. to grow old</a></li>
+<li><a href="#org26a4abd">47.36.11. to mature</a></li>
+<li><a href="#orgad4a07f">47.36.12. to grow up</a></li>
+<li><a href="#org0081955">47.36.13. more often</a></li>
+<li><a href="#org33b3cfa">47.36.14. more rarely</a></li>
+<li><a href="#orgdfcbee8">47.36.15. often</a></li>
+<li><a href="#org1ef8e17">47.36.16. slowly</a></li>
+<li><a href="#orgbf134f9">47.36.17. rarely</a></li>
+<li><a href="#org8602770">47.36.18. fast</a></li>
+<li><a href="#org1b12303">47.36.19. a bald man</a></li>
+<li><a href="#org6443561">47.36.20. a gray man</a></li>
+<li><a href="#org5eae2e1">47.36.21. bald</a></li>
+<li><a href="#orgd0ae016">47.36.22. a gray woman</a></li>
+<li><a href="#orgaa4e7ab">47.36.23. a bald cat</a></li>
+<li><a href="#org6e1a46a">47.36.24. gray</a></li>
+</ul>
+</li>
+<li><a href="#org8061e1b">47.37. text</a>
+<ul>
+<li><a href="#orgc91dd97">47.37.1. 英  [eɪdʒ]   美  [edʒ]</a></li>
+<li><a href="#org9cf0280">47.37.2. Children don't grow old, they grow up.</a></li>
+<li><a href="#org5d9e227">47.37.3. Teenagers also don't grow old, they mature.</a></li>
+<li><a href="#org3f945e8">47.37.4. Elderly people grow old and die.</a></li>
+</ul>
+</li>
+<li><a href="#org7050151">47.38. text</a>
+<ul>
+<li><a href="#org57e99bc">47.38.1. stair</a></li>
+</ul>
+</li>
+<li><a href="#org4192dd8">47.39. It's hard for elderly people to climb the stairs.</a>
+<ul>
+<li><a href="#org2c1732d">47.39.1. elevate</a></li>
+</ul>
+</li>
+<li><a href="#orgc43c2cd">47.40. Elderly people often have heart pain.</a></li>
+</ul>
+</li>
+<li><a href="#org3a2fa40">48. <span class="done DONE">DONE</span> Forty six 95.5%</a>
+<ul>
+<li><a href="#org8662a9f">48.1. <span class="done DONE">DONE</span> Review forty six 96.6%</a></li>
+<li><a href="#orgcc44628">48.2. <span class="done DONE">DONE</span> Review 93.2%</a></li>
+<li><a href="#org446b5d4">48.3. <span class="done DONE">DONE</span> Review 95.9%</a></li>
+<li><a href="#org83175e2">48.4. <span class="done DONE">DONE</span> Review 96.5%</a></li>
+<li><a href="#org8b8cb60">48.5. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 05:06&gt;</span></span>96.4%</a></li>
+<li><a href="#orga3badb2">48.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 Tue 05:24&gt;</span></span>94.9%</a></li>
+<li><a href="#orgbec253b">48.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 Tue 14:20&gt; </span></span> 95.9%</a></li>
+<li><a href="#org86eed12">48.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 04:46&gt;</span></span>96.8%</a></li>
+<li><a href="#org2b306bd">48.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2003-09-19 Fri&gt;</span></span>96.9%</a></li>
+<li><a href="#orgdc2c9e3">48.10. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 04:02&gt;</span></span>97.3%</a></li>
+<li><a href="#org83239f3">48.11. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 04:48&gt;</span></span>99.1%</a></li>
+<li><a href="#org3bf2b8a">48.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 20:51&gt;</span></span>94.1%</a></li>
+<li><a href="#org76958de">48.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 Wed 06:10&gt;</span></span>96.1%</a></li>
+<li><a href="#org77cd60d">48.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 14:07&gt;</span></span>98.9%</a></li>
+<li><a href="#orgf37ad0f">48.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 19:13&gt;</span></span>99.2%</a></li>
+<li><a href="#orgf06bbe8">48.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 14:45&gt;</span></span>95.7%</a></li>
+<li><a href="#org2199b27">48.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 05:30&gt;</span></span>96.5%</a></li>
+<li><a href="#org50d9f9a">48.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 06:20&gt;</span></span>97.7%</a></li>
+<li><a href="#org0656253">48.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-24 Tue 06:28&gt;</span></span>97.3%</a></li>
+<li><a href="#org633796d">48.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-24 Tue 09:15&gt;</span></span>98.2%</a></li>
+<li><a href="#org0eb1163">48.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 20:24&gt;</span></span>98.2%</a></li>
+<li><a href="#orgb06f7f1">48.22. <span class="done DONE">DONE</span> Writing <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-10 Fri 06:30&gt;</span></span></a></li>
+<li><a href="#org8d6275f">48.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-10 Fri 09:12&gt;</span></span>98.2%</a></li>
+<li><a href="#org6ee3de9">48.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-10 Fri 17:08&gt;</span></span>98.7%</a></li>
+<li><a href="#org0cf0f6b">48.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-10 Fri 20:30&gt;</span></span>99.3%</a></li>
+<li><a href="#org6df6b06">48.26. <span class="done DONE">DONE</span> Study words and Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 03:59&gt;</span></span></a></li>
+<li><a href="#orgbb0a357">48.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 06:43&gt;</span></span>99.3%</a></li>
+<li><a href="#org0f62436">48.28. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-13 Mon 05:22&gt;</span></span>46-50</a></li>
+<li><a href="#org8bedadb">48.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 08:37&gt;</span></span>98.5%</a></li>
+<li><a href="#org340506c">48.30. <span class="done DONE">DONE</span> Writing and Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 20:25&gt;</span></span></a></li>
+<li><a href="#orgc1a6c92">48.31. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 05:30&gt;</span></span></a></li>
+<li><a href="#org328ea5a">48.32. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 08:38&gt;</span></span>99.6%</a></li>
+<li><a href="#orge8b8165">48.33. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-17 Fri 20:03&gt;</span></span>99.6%</a></li>
+<li><a href="#org405f898">48.34. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-23 Tue 20:15&gt;</span></span>96.8%</a></li>
+<li><a href="#org7349da2">48.35. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-24 Wed 05:55&gt;</span></span>98.7%</a></li>
+<li><a href="#org9c9a319">48.36. text</a>
+<ul>
+<li><a href="#org7480ebd">48.36.1. a bracelet</a></li>
+<li><a href="#orge2f3111">48.36.2. a pendant</a></li>
+<li><a href="#orgd5e51ce">48.36.3. earrings</a></li>
+<li><a href="#orgbaace7a">48.36.4. a ring</a></li>
+<li><a href="#orga1c3915">48.36.5. chain</a></li>
+<li><a href="#orged153af">48.36.6. a necklace</a></li>
+<li><a href="#orge564949">48.36.7. gold</a></li>
+<li><a href="#org3e044a9">48.36.8. a jeweler</a></li>
+<li><a href="#org15bf39f">48.36.9. a jewelry store</a></li>
+<li><a href="#orgf0dc2e7">48.36.10. a silver</a></li>
+<li><a href="#orgb119c07">48.36.11. diamond</a></li>
+<li><a href="#org8ed8e9e">48.36.12. jewels</a></li>
+<li><a href="#org5215b65">48.36.13. text</a></li>
+<li><a href="#org45a4478">48.36.14. a jewelry store</a></li>
+<li><a href="#org3592e2f">48.36.15. a silver</a></li>
+<li><a href="#org50f1c66">48.36.16. diamond</a></li>
+<li><a href="#orge0a0c34">48.36.17. jewels</a></li>
+</ul>
+</li>
+<li><a href="#orga3ad8f8">48.37. text</a></li>
+<li><a href="#org2f8b93e">48.38. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-31 Wed 14:47&gt;</span></span>98.3%</a></li>
+<li><a href="#orgd6ce5c1">48.39. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-31 Wed 19:56&gt;</span></span>99.4%</a></li>
+<li><a href="#org016e78f">48.40. Lesson 46</a></li>
+<li><a href="#org4266520">48.41. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 19:39&gt;</span></span>97.5%</a></li>
+</ul>
+</li>
+<li><a href="#org3e64c4f">49. <span class="done DONE">DONE</span> Forty seven</a>
+<ul>
+<li><a href="#org64551a8">49.1. <span class="done DONE">DONE</span> Review 92.5%</a></li>
+<li><a href="#orgcb119f9">49.2. <span class="done DONE">DONE</span> Review 96.9%</a></li>
+<li><a href="#org76e9eb7">49.3. <span class="done DONE">DONE</span> Review 96.7%</a></li>
+<li><a href="#org5076289">49.4. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 06:31&gt;</span></span>95%</a></li>
+<li><a href="#org391be88">49.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 04:36&gt;</span></span>97%</a></li>
+<li><a href="#org0b1d025">49.6. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 05:03&gt;</span></span>98.2%</a></li>
+<li><a href="#orgc5c469f">49.7. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 09:22&gt;</span></span>98.9%</a></li>
+<li><a href="#org2cb32f7">49.8. text</a>
+<ul>
+<li><a href="#orgd5bcba8">49.8.1. legs</a></li>
+<li><a href="#org48c6ba9">49.8.2. The chest</a></li>
+<li><a href="#orgf121d90">49.8.3. arms</a></li>
+<li><a href="#org0224510">49.8.4. the head</a></li>
+<li><a href="#org63e7ec3">49.8.5. the belly</a></li>
+<li><a href="#org6b38522">49.8.6. the mouth</a></li>
+<li><a href="#org8607647">49.8.7. the brain</a></li>
+<li><a href="#org12bd260">49.8.8. the teeth</a></li>
+<li><a href="#org571bc3b">49.8.9. the lungs</a></li>
+<li><a href="#org21841e9">49.8.10. the tongue</a></li>
+<li><a href="#org7d2fbb6">49.8.11. the liver</a></li>
+<li><a href="#orgf334e20">49.8.12. the stomach</a></li>
+<li><a href="#org622103f">49.8.13. to see</a></li>
+<li><a href="#org86bb1b1">49.8.14. to speak</a></li>
+<li><a href="#orgb17ff3e">49.8.15. to think</a></li>
+<li><a href="#org03c44f0">49.8.16. to bite</a></li>
+<li><a href="#orgbe829bb">49.8.17. to breathe</a></li>
+<li><a href="#orge6aa3ee">49.8.18. to chew</a></li>
+<li><a href="#org5d5f6a7">49.8.19. strong teeth</a></li>
+<li><a href="#org624abb2">49.8.20. fragile bones</a></li>
+<li><a href="#orgd423b7b">49.8.21. strong bones</a></li>
+<li><a href="#org9cdef9e">49.8.22. strong</a></li>
+<li><a href="#orgb1bc21a">49.8.23. fragile</a></li>
+<li><a href="#orgd2ec480">49.8.24. fragile teeth</a></li>
+</ul>
+</li>
+<li><a href="#orgeee1621">49.9. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 03:36&gt;</span></span>97.7%</a></li>
+<li><a href="#orgea8f2e3">49.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 07:48&gt;</span></span>96.5%</a></li>
+<li><a href="#org17107b3">49.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 14:11&gt;</span></span>97.7%</a></li>
+<li><a href="#orgc0d095b">49.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 04:26&gt;</span></span>99.1%</a></li>
+<li><a href="#org3c44291">49.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 05:46&gt;</span></span>99.6%</a></li>
+<li><a href="#orgf022e2e">49.14. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 11:50&gt;</span></span>96.3%</a></li>
+<li><a href="#orgf567d76">49.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 05:57&gt;</span></span>97.2%</a></li>
+<li><a href="#org9a1b649">49.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 14:39&gt;</span></span>97.3%</a></li>
+<li><a href="#org7c033a4">49.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 19:14&gt;</span></span>97.6%</a></li>
+<li><a href="#org6605fad">49.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 13:56&gt;</span></span>97.8%</a></li>
+<li><a href="#org21bb1c5">49.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 10:26&gt;</span></span>98.1%</a></li>
+<li><a href="#orga386765">49.20. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 12:04&gt;</span></span></a></li>
+<li><a href="#org5c560fd">49.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 05:56&gt;</span></span>99.1%</a></li>
+<li><a href="#orgfdb6d02">49.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 12:00&gt;</span></span>98.9%</a></li>
+<li><a href="#orgf6e8b08">49.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 14:42&gt;</span></span>98.9%</a></li>
+<li><a href="#orgc6399c7">49.24. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 16:18&gt;</span></span></a></li>
+<li><a href="#orgc58db32">49.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 19:18&gt;</span></span>99.0%</a></li>
+<li><a href="#org0d855a7">49.26. <span class="done DONE">DONE</span> Writing Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 09:09&gt;</span></span></a></li>
+<li><a href="#org9f6c43f">49.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 20:48&gt;</span></span>90.0%</a></li>
+<li><a href="#org23465e3">49.28. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-17 Fri 20:29&gt;</span></span>99.7%</a></li>
+<li><a href="#org0d31602">49.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-24 Wed 06:18&gt;</span></span>97.9%</a></li>
+<li><a href="#org6ba9d76">49.30. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-31 Wed 05:03&gt;</span></span>98.6%</a></li>
+<li><a href="#org6f040b0">49.31. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-31 Wed 07:15&gt;</span></span>98.5%</a></li>
+<li><a href="#org9636851">49.32. text</a></li>
+</ul>
+</li>
+<li><a href="#org990766d">50. <span class="done DONE">DONE</span> Lesson Forty eitht 94.8%</a>
+<ul>
+<li><a href="#org2944a87">50.1. <span class="done DONE">DONE</span> Review 92.6%</a></li>
+<li><a href="#org0eedbc5">50.2. <span class="done DONE">DONE</span> Review 95%</a></li>
+<li><a href="#org1be9073">50.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 06:02&gt;</span></span>97.4%</a></li>
+<li><a href="#orged5def9">50.4. <span class="done DONE">DONE</span> Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 09:02&gt;</span></span>97%</a></li>
+<li><a href="#org6146dbe">50.5. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 05:33&gt;</span></span>99.1%</a></li>
+<li><a href="#orgdc76c0b">50.6. text</a>
+<ul>
+<li><a href="#org8cc1842">50.6.1. a sculptor</a></li>
+<li><a href="#org0aa420f">50.6.2. a ballerina</a></li>
+<li><a href="#org8cde0dd">50.6.3. a poet</a></li>
+<li><a href="#org394416e">50.6.4. an actor</a></li>
+<li><a href="#orgec2629b">50.6.5. a painter</a></li>
+<li><a href="#orgc7629f2">50.6.6. a singer</a></li>
+<li><a href="#orge659884">50.6.7. paints</a></li>
+<li><a href="#org432317a">50.6.8. wood</a></li>
+<li><a href="#orge26a73f">50.6.9. pencial</a></li>
+<li><a href="#org1451940">50.6.10. canvas</a></li>
+<li><a href="#orgcf4792d">50.6.11. clay</a></li>
+<li><a href="#orgbf1899a">50.6.12. brushes</a></li>
+<li><a href="#org8a620ff">50.6.13. to sculpt</a></li>
+<li><a href="#org625a708">50.6.14. to sing</a></li>
+<li><a href="#org7075716">50.6.15. to write</a></li>
+<li><a href="#orgd263000">50.6.16. to carve</a></li>
+<li><a href="#org6b69d21">50.6.17. to dance</a></li>
+<li><a href="#org6c14ad6">50.6.18. to draw</a></li>
+<li><a href="#orgfb37977">50.6.19. opera</a></li>
+<li><a href="#orgd9e0010">50.6.20. a sculpture</a></li>
+<li><a href="#orgf042e18">50.6.21. poems</a></li>
+<li><a href="#org2cb2c85">50.6.22. ballet</a></li>
+<li><a href="#orgd2c759a">50.6.23. painting</a></li>
+<li><a href="#org7aad3a0">50.6.24. a museum</a></li>
+<li><a href="#org3fa2a2e">50.6.25. a famous  painting hangs in a museum.</a></li>
+</ul>
+</li>
+<li><a href="#org2f528ed">50.7. <span class="done DONE">DONE</span> Revew<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-10 Mon 20:27&gt;</span></span>95.7%</a></li>
+<li><a href="#org6f4a7a8">50.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 06:15&gt;</span></span>97.5%</a></li>
+<li><a href="#orgff28966">50.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 20:45&gt;</span></span>98.9%</a></li>
+<li><a href="#orgd3ce5cb">50.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 03:59&gt;</span></span>99.5%</a></li>
+<li><a href="#orgfea49fc">50.11. <span class="done DONE">DONE</span> Revew<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 07:31&gt;</span></span>96.6%</a></li>
+<li><a href="#org6180917">50.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 10:19&gt;</span></span>97.6%</a></li>
+<li><a href="#org643c3f0">50.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 18:27&gt;</span></span>98.9%</a></li>
+<li><a href="#orga4a5060">50.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 21:02&gt;</span></span>98.5</a></li>
+<li><a href="#orge6f4308">50.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 07:09&gt;</span></span>99.4%</a></li>
+<li><a href="#org8e771a8">50.16. <span class="done DONE">DONE</span> Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 08:40&gt;</span></span></a></li>
+<li><a href="#orgf947997">50.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 09:53&gt;</span></span>99.8%</a></li>
+<li><a href="#orge3f6765">50.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 05:32&gt;</span></span>98.8%</a></li>
+<li><a href="#org82b49d6">50.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 19:38&gt;</span></span>99.0%</a></li>
+<li><a href="#org1c1dd9c">50.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 08:46&gt;</span></span>98.7%</a></li>
+<li><a href="#org8035925">50.21. <span class="done DONE">DONE</span> Writing Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 11:49&gt;</span></span></a></li>
+<li><a href="#org2c69fa7">50.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 15:29&gt;</span></span>99.0%</a></li>
+<li><a href="#org00d0b4c">50.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 09:20&gt;</span></span>99.4%</a></li>
+<li><a href="#org5572852">50.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 14:53&gt;</span></span>99.6%</a></li>
+<li><a href="#orgb9847e8">50.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-17 Fri 21:17&gt;</span></span>99.8%</a></li>
+<li><a href="#orgd60ce36">50.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-25 Thu 05:26&gt;</span></span>97.6%</a></li>
+<li><a href="#org8f78e4a">50.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-26 Fri 05:20&gt;</span></span>98%</a></li>
+<li><a href="#org2b17e21">50.28. Lesson forty eight</a></li>
+</ul>
+</li>
+<li><a href="#org441ffc4">51. <span class="done DONE">DONE</span> Forty nine 96.3%</a>
+<ul>
+<li><a href="#org65c2809">51.1. <span class="done DONE">DONE</span> Review 94.7%</a></li>
+<li><a href="#org1afd291">51.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 04:17&gt;</span></span>96%</a></li>
+<li><a href="#org0eade65">51.3. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 04:46&gt;</span></span>99.0%</a></li>
+<li><a href="#org347e4c4">51.4. text</a></li>
+<li><a href="#org4f271e7">51.5. a capital</a></li>
+<li><a href="#org9357b24">51.6. an emblem</a>
+<ul>
+<li><a href="#orge9520c5">51.6.1. a building</a></li>
+<li><a href="#org643c43a">51.6.2. a flag</a></li>
+<li><a href="#org856a3d2">51.6.3. a country</a></li>
+<li><a href="#org1e6895c">51.6.4. a city</a></li>
+<li><a href="#org6d93cf0">51.6.5. a government</a></li>
+<li><a href="#orgcef56ad">51.6.6. a president</a></li>
+<li><a href="#orga61dc1a">51.6.7. a citizen</a></li>
+<li><a href="#orgec05ad4">51.6.8. a government building</a></li>
+<li><a href="#org804518a">51.6.9. to run</a></li>
+<li><a href="#orgc05a847">51.6.10. The government is located in the capital.</a></li>
+<li><a href="#org6fcf6f4">51.6.11. A weak government doesn't ensure peace in the country.</a></li>
+<li><a href="#orgd41f838">51.6.12. A weak government doesn't ensure peace in the country.</a></li>
+</ul>
+</li>
+<li><a href="#org3cc440b">51.7. <span class="done DONE">DONE</span> Review Forty nine 95.3%</a></li>
+<li><a href="#orgd07bd9c">51.8. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 04:34&gt;</span></span>98.7%</a></li>
+<li><a href="#org4b6fb73">51.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 14:17&gt;</span></span>95.1%</a></li>
+<li><a href="#org822e322">51.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 19:18&gt;</span></span>97.1%</a></li>
+<li><a href="#org27d7534">51.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 20:27&gt;</span></span>96.7%</a></li>
+<li><a href="#orga988d8b">51.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 06:08&gt;</span></span>97.7%</a></li>
+<li><a href="#org9c8a748">51.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 07:32&gt;</span></span>98.5%</a></li>
+<li><a href="#org1f34adb">51.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 19:11&gt;</span></span>99.3%</a></li>
+<li><a href="#orgae66816">51.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 11:13&gt;</span></span>96.2%</a></li>
+<li><a href="#orgea2d0e3">51.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 12:18&gt;</span></span>97.8%</a></li>
+<li><a href="#orgde0a5de">51.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 20:29&gt;</span></span>98.1%</a></li>
+<li><a href="#org5b0cb8b">51.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 06:24&gt;</span></span>98.5%</a></li>
+<li><a href="#org43f07ce">51.19. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 20:22&gt;</span></span>98.6%</a></li>
+<li><a href="#orgbb69d52">51.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 09:59&gt;</span></span>98.5%</a></li>
+<li><a href="#org984b673">51.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 17:25&gt;</span></span>98.8%</a></li>
+<li><a href="#orge8e262d">51.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 17:52&gt;</span></span>99.3%</a></li>
+<li><a href="#orgac614d9">51.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 21:10&gt;</span></span>96.5%</a></li>
+<li><a href="#org48a08c1">51.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 20:29&gt;</span></span>98.5%</a></li>
+<li><a href="#org108edfa">51.25. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 20:02&gt;</span></span>98.4%</a></li>
+<li><a href="#org47f3a86">51.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 07:13&gt;</span></span>99.3%</a></li>
+<li><a href="#orgcbe6cda">51.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-13 Mon 11:44&gt;</span></span>99.5%</a></li>
+<li><a href="#orgde48eca">51.28. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 11:17&gt;</span></span>99.0%</a></li>
+<li><a href="#org79721c3">51.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 17:38&gt;</span></span>98.9%</a></li>
+<li><a href="#org0a75aa2">51.30. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 06:42&gt;</span></span>99.3%</a></li>
+<li><a href="#org56a799f">51.31. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 08:16&gt;</span></span>99.3%</a></li>
+<li><a href="#org917a8ef">51.32. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 09:40&gt;</span></span>99.2%</a></li>
+<li><a href="#org5e74ae2">51.33. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 15:18&gt;</span></span>99.8%</a></li>
+<li><a href="#org525d894">51.34. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-26 Fri 05:41&gt;</span></span>97.6%</a></li>
+<li><a href="#org977a2ef">51.35. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-28 Sun 06:04&gt;</span></span>97.8%</a></li>
+<li><a href="#orgaa88b4b">51.36. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-28 Sun 09:57&gt;</span></span>98.7%</a></li>
+<li><a href="#orgb62da04">51.37. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-28 Sun 16:43&gt;</span></span>99.5%</a></li>
+<li><a href="#org9e0028a">51.38. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-29 Mon 20:53&gt;</span></span>98.4%</a></li>
+<li><a href="#org0a2ffa2">51.39. Lesson forty nine</a></li>
+</ul>
+</li>
+<li><a href="#orgb0dc36e">52. <span class="done DONE">DONE</span> Fifty 95.0%</a>
+<ul>
+<li><a href="#org87b732f">52.1. Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 12:11&gt;</span></span>98.8%</a></li>
+<li><a href="#org1bf8efa">52.2. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 18:39&gt;</span></span>99.2%</a></li>
+<li><a href="#org5cf577e">52.3. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 02:20&gt;</span></span>99.1%</a></li>
+<li><a href="#org922aa7e">52.4. text</a></li>
+<li><a href="#orgb8d5b0e">52.5. <span class="done DONE">DONE</span> Review Fifty 96.7%</a></li>
+<li><a href="#orgad6cb6f">52.6. <span class="done DONE">DONE</span> Review 96.4%</a></li>
+<li><a href="#org4008312">52.7. <span class="done DONE">DONE</span> Review 96.7%</a></li>
+<li><a href="#org917c08c">52.8. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 03:56&gt;</span></span>99.1%</a></li>
+<li><a href="#orgb2550db">52.9. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 05:02&gt;</span></span>99.6%</a></li>
+<li><a href="#orge240cf1">52.10. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 06:33&gt;</span></span>98.6%</a></li>
+<li><a href="#orge118c5a">52.11. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 19:49&gt;</span></span>99.3%</a></li>
+<li><a href="#orgdf00374">52.12. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 05:31&gt;</span></span>99.4%</a></li>
+<li><a href="#org33b3c25">52.13. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 16:16&gt;</span></span>97.1%</a></li>
+<li><a href="#org2141c8d">52.14. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 17:51&gt;</span></span>98.8%</a></li>
+<li><a href="#orgb0e17a3">52.15. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 05:56&gt;</span></span>98.2%</a></li>
+<li><a href="#org514ae6e">52.16. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-08 Tue 05:01&gt;</span></span>98.3%</a></li>
+<li><a href="#orgeea598f">52.17. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-14 Mon 06:10&gt;</span></span>97.4%</a></li>
+<li><a href="#org9292b8f">52.18. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-20 Fri 05:52&gt;</span></span>97.1%</a></li>
+<li><a href="#org3911f8b">52.19. <span class="done DONE">DONE</span> Writing</a></li>
+<li><a href="#orgaec4ae0">52.20. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-20 Fri 21:21&gt;</span></span>97.5%</a></li>
+<li><a href="#org7397c8a">52.21. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-21 Sat 06:27&gt;</span></span>98.5%</a></li>
+<li><a href="#org4e15d22">52.22. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 11:55&gt;</span></span>98.2%</a></li>
+<li><a href="#org3bd60cf">52.23. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 20:10&gt;</span></span>98.4%</a></li>
+<li><a href="#org0f11805">52.24. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 20:22&gt;</span></span>99.6%</a></li>
+<li><a href="#org9280597">52.25. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 05:29&gt;</span></span>50,49,48.47</a></li>
+<li><a href="#org6006e37">52.26. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 06:46&gt;</span></span>99.0%</a></li>
+<li><a href="#org2118c6a">52.27. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 17:57&gt;</span></span>99.0%</a></li>
+<li><a href="#org1e9fa14">52.28. <span class="done DONE">DONE</span> Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-13 Mon 11:19&gt;</span></span>98.6%</a></li>
+<li><a href="#org280e63f">52.29. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-13 Mon 15:14&gt;</span></span>99.8%</a></li>
+<li><a href="#org4ec4b8c">52.30. <span class="done DONE">DONE</span> Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 05:27&gt;</span></span>50-46</a></li>
+<li><a href="#orgb814ac6">52.31. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 11:37&gt;</span></span>99.6%</a></li>
+<li><a href="#org0793684">52.32. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-27 Sat 05:19&gt;</span></span>98.6%</a></li>
+<li><a href="#org97f99b5">52.33. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-27 Sat 16:21&gt;</span></span>98.5%</a></li>
+<li><a href="#orga16af17">52.34. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-28 Sun 05:35&gt;</span></span>99.1%</a></li>
+<li><a href="#orgb088724">52.35. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-28 Sun 20:51&gt;</span></span>99%</a></li>
+<li><a href="#orga81c560">52.36. <span class="done DONE">DONE</span> Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-29 Mon 04:06&gt;</span></span>99.6%</a></li>
+<li><a href="#org0196cb7">52.37. Lesson fifty</a></li>
+</ul>
+</li>
+<li><a href="#org87cb56a">53. <span class="done DONE">DONE</span> listen</a></li>
+<li><a href="#org32c5a1d">54. <span class="done DONE">DONE</span> listen 英语发音unit one</a>
+<ul>
+<li><a href="#orgdb45580">54.1. words</a>
+<ul>
+<li><a href="#orga9c1f7a">54.1.1. neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 Tue&gt;</span></span></a></li>
+<li><a href="#org8bf2674">54.1.2. text</a></li>
+<li><a href="#org09e51b9">54.1.3. to receive</a></li>
+</ul>
+</li>
+<li><a href="#orgf8f7a85">54.2. <span class="done DONE">DONE</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-11 Sat 10:30&gt;</span></span></a></li>
+</ul>
+</li>
+<li><a href="#org8ee9ab5">55. <span class="done DONE">DONE</span> Wrting<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 15:13&gt;</span></span></a></li>
+<li><a href="#orga440c3f">56. Writing</a>
+<ul>
+<li><a href="#org04a2e70">56.1. <span class="done DONE">DONE</span> Lesson 33<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-02 Thu 09:34&gt;</span></span></a></li>
+</ul>
+</li>
+<li><a href="#org13a85e7">57. <span class="done DONE">DONE</span> Watching IT Crowd 6<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-13 Mon 20:12&gt;</span></span></a></li>
 </ul>
 </div>
 </div>
 
-<a id="org02e4241"></a>
+<a id="org9dbc56b"></a>
 
 # Lesson one     :one:
 
 
-<a id="orgdb80def"></a>
+<a id="org2bcb7f5"></a>
 
-## learn history
-
-
-<a id="orgafdcf55"></a>
-
-### text
+## text
 
 a man
 a woman
@@ -1524,14 +2007,15 @@ a flower
 The monkey is sitting down.
 The woman is  STARTElying down
 The bo=>\*\* Lesson forty six
-a necklace a pendant a  chain a ring a bracelet earrings
+a neckla<span class="timestamp-wrapper"><span class="timestamp">[2017-02-25 Sat]</span></span>
+ce a pendant a  chain a ring a bracelet earrings
 
 a jeweler silver jewels gold a  jewelry store a diamond
 
-to give to be happy to marry to court to love to propose
+to give to be happy to marry to court to<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-07 Sun 05:53&gt; </span></span> love to propose
 
 a golden ring
-silver earrings with small diamonds.
+si<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-07 Sun 05:53&gt;</span></span>lver earrings with small diamonds.
 a pendant with a diamond on a golden chair.
 a necklace with jewels.
 a golden necklace with large jewels.
@@ -1642,54 +2126,76 @@ Is the girl standing up? No, the girl is sitting down.
 Is the bird running? No, the bird is flying.
 
 
-<a id="orga4eca75"></a>
+<a id="orgf16df7c"></a>
 
-### Review 98.4%
-
-
-<a id="orgcfb831f"></a>
-
-### 复习98.7%     :one:
+## Review 98.4%
 
 
-<a id="org7ab51f8"></a>
+<a id="org002548a"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 06:41&gt; </span></span> 99.4%
-
-
-<a id="org95c3c01"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 20:33&gt; </span></span> 99.7%
+## 复习98.7%     :one:
 
 
-<a id="orgbf346ae"></a>
+<a id="orgb4ca479"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 15:08&gt;</span></span>99.9%
-
-
-<a id="org16b3142"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 07:08&gt;</span></span>99.9%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 06:41&gt; </span></span> 99.4%
 
 
-<a id="org4a47da5"></a>
+<a id="org83adba7"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 09:06&gt;</span></span>100%     :LOGBOOK:
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 20:33&gt; </span></span> 99.7%
+
+
+<a id="org17267e1"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 15:08&gt;</span></span>99.9%
+
+
+<a id="org962d2ce"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 07:08&gt;</span></span>99.9%
+
+
+<a id="org7fec6b8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 09:06&gt;</span></span>100%     :LOGBOOK:
 
 -   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-10-02 Sun 00:06]</span></span>
 
 
-<a id="org4ae9d68"></a>
+<a id="org819077d"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 06:30&gt;</span></span>99.4%
-
-
-<a id="org576d6cd"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 06:33&gt;</span></span>99.3%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 06:30&gt;</span></span>99.4%
 
 
-<a id="orgceebafa"></a>
+<a id="orgb7e7b34"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 06:33&gt;</span></span>99.3%k
+
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2017-01-15 Sun 07:00]</span></span>
+
+
+<a id="org9bf03c2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 05:38&gt;</span></span>99.5%
+
+
+<a id="orgd9d56fe"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 09:40&gt;</span></span>99.5%
+
+
+<a id="orga4813c7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 19:00&gt;</span></span>99.5%
+
+
+<a id="org086b290"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-13 Thu 20:19&gt;</span></span>93.9%
+
+
+<a id="orgc60880d"></a>
 
 ## Lesson 1
 
@@ -1764,46 +2270,56 @@ Is the bar eating? No, the bear is swimming.
 Is the girl standing up? No, the girl is sitting down.
 
 
-<a id="orga3abc33"></a>
+<a id="org12740e6"></a>
 
 # Lesson two
 
 
-<a id="org1c45111"></a>
+<a id="org3d7c8c4"></a>
 
-## learn history
-
-
-<a id="org58b64d4"></a>
-
-### Review 99%
+## Review 99%
 
 
-<a id="orgb057c2d"></a>
+<a id="org36b193b"></a>
 
-### 复习98.9%
+## 复习98.9%
 
 :LOGBOOK:
 
 -   State "DONE"       from "STARTED"    [2016-07-25
 
 
-<a id="org5ba7fc1"></a>
+<a id="org1055918"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 18:41&gt;</span></span>100%
-
-
-<a id="org23cef3b"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 06:29&gt;</span></span>99.8%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 18:41&gt;</span></span>100%
 
 
-<a id="org11e73aa"></a>
+<a id="org2ef1a63"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 07:05&gt;</span></span>99.4%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 06:29&gt;</span></span>99.8%
 
 
-<a id="org02d5d0a"></a>
+<a id="org84d37cf"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 07:05&gt;</span></span>99.4%
+
+
+<a id="org67959ca"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 05:24&gt;</span></span>99.6%
+
+
+<a id="org64b551c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 09:57&gt;</span></span>99.9%
+
+
+<a id="org8f36b4d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 17:14&gt;</span></span>99.7%
+
+
+<a id="org09e86f7"></a>
 
 ## Lesson 2
 
@@ -1878,34 +2394,29 @@ Is the tree small? No, it is big.
 Is the green tree big? No, it is small.
 
 
-<a id="orgdb3f141"></a>
+<a id="orgb23daa3"></a>
 
 # Lesson three 97.4%     :three:
 
 
-<a id="org48abc4e"></a>
+<a id="org36b1550"></a>
 
-## learning history
-
-
-<a id="org9ec13b3"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 14:41&gt; </span></span> 98.5%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 14:41&gt; </span></span> 98.5%
 
 
-<a id="org35ad1ce"></a>
+<a id="org630a832"></a>
 
-### 复习98.3
-
-
-<a id="orgeaa9a37"></a>
-
-### Review three 97.2%
+## 复习98.3
 
 
-<a id="org1074018"></a>
+<a id="orge53b35b"></a>
 
-### text
+## Review three 97.2%
+
+
+<a id="org747294f"></a>
+
+## text
 
 water
 grass
@@ -1981,81 +2492,101 @@ Is the man with a glass on the right? No, he is on the left.
 Is the woman with a bag? No, she is under a big umbrella.
 
 
-<a id="org588d66c"></a>
+<a id="org9b01188"></a>
 
-### Review 98%
-
-
-<a id="org09dc682"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 10:00&gt;</span></span>98.8%
+## Review 98%
 
 
-<a id="orgfa3485b"></a>
+<a id="orgd00f443"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 05:36&gt;</span></span>99.1%
-
-
-<a id="orge622485"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 05:51&gt;</span></span>99.5%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 10:00&gt;</span></span>98.8%
 
 
-<a id="orgfba1b0a"></a>
+<a id="org3e67bc4"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 09:39&gt;</span></span>99.6%
-
-
-<a id="org08ce971"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 07:35&gt;</span></span>99.6%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 05:36&gt;</span></span>99.1%
 
 
-<a id="org24ff083"></a>
+<a id="orgf52af9f"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 19:49&gt;</span></span>99.7%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 05:51&gt;</span></span>99.5%
+
+
+<a id="orgf86ef6c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 09:39&gt;</span></span>99.6%
+
+
+<a id="orgd0f5e38"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 07:35&gt;</span></span>99.6%
+
+
+<a id="org3f9e872"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 19:49&gt;</span></span>99.7%
 
 :LOGBOOK:
 
 -   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-29 Thu 20:06]</span></span>
 
 
-<a id="orga3991ef"></a>
+<a id="org2dfc9db"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 13:55&gt;</span></span>99.3%
-
-
-<a id="org8eb5a47"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 14:15&gt;</span></span>99.6%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 13:55&gt;</span></span>99.3%
 
 
-<a id="org699607f"></a>
+<a id="org73b66dd"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 14:31&gt;</span></span>99.9%
-
-
-<a id="org7947cc8"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 19:19&gt;</span></span>99.9%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 14:15&gt;</span></span>99.6%
 
 
-<a id="org69bfaf2"></a>
+<a id="org37f8f2e"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 19:37&gt;</span></span>99.9%
-
-
-<a id="org3ff499a"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 10:36&gt;</span></span>100%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 14:31&gt;</span></span>99.9%
 
 
-<a id="orgf48248b"></a>
+<a id="org41a780f"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 09:08&gt;</span></span>99.6%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 19:19&gt;</span></span>99.9%
 
 
-<a id="org3b154d2"></a>
+<a id="org841e33f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 19:37&gt;</span></span>99.9%
+
+
+<a id="org1f2461c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 10:36&gt;</span></span>100%
+
+
+<a id="orgd90b1a3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 09:08&gt;</span></span>99.6%
+
+
+<a id="org4a367cd"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 03:59&gt;</span></span>99.2%
+
+
+<a id="org19564a6"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 05:04&gt;</span></span>98.8%
+
+
+<a id="org853bdcf"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 10:10&gt;</span></span>99.8%
+
+
+<a id="orgb3c400b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 19:27&gt;</span></span>99.6%
+
+
+<a id="orgf2a0c18"></a>
 
 ## Lesson 3
 
@@ -2130,69 +2661,64 @@ Is the man with a glass on the right? No, he is on the left.
 Is the woman with a bag? No, she is under a big umbrella.
 
 
-<a id="orgd5bc38c"></a>
+<a id="org348cdf8"></a>
 
 # Lesson four 98%     :four:
 
 
-<a id="orgf7b6c78"></a>
+<a id="org5cbe4c8"></a>
 
-## Learning history
-
-
-<a id="orgad38768"></a>
-
-### 复习98.3%
+## 复习98.3%
 
 
-<a id="org2a40a10"></a>
+<a id="orgc2f4577"></a>
 
-### Review 98.7%
-
-
-<a id="org8fecba3"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 16:12&gt; </span></span> 96.1%
+## Review 98.7%
 
 
-<a id="orgb9652b6"></a>
+<a id="org7e47be9"></a>
 
-### Review four 98.3%
-
-
-<a id="org2a67adc"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 10:18&gt;</span></span>99.3%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-26 Fri 16:12&gt; </span></span> 96.1%
 
 
-<a id="orgc9ba1fa"></a>
+<a id="orgb722a82"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 09:27&gt;</span></span>99.3%
-
-
-<a id="orge18c23a"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 10:50&gt;</span></span>99.6%
+## Review four 98.3%
 
 
-<a id="org3ebf9e8"></a>
+<a id="org3ec890f"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 06:12&gt;</span></span>99.9%
-
-
-<a id="orgdd04e6a"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;1970-10-19 Mon&gt;</span></span>99.8%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 10:18&gt;</span></span>99.3%
 
 
-<a id="org72ca5f7"></a>
+<a id="org3096a8c"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 20:08&gt;</span></span>100%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 09:27&gt;</span></span>99.3%
 
 
-<a id="org52f6c69"></a>
+<a id="org590c82d"></a>
 
-### text
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 10:50&gt;</span></span>99.6%
+
+
+<a id="orga261a7c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 06:12&gt;</span></span>99.9%
+
+
+<a id="org7a69c65"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;1970-10-19 Mon&gt;</span></span>99.8%
+
+
+<a id="org08e2ef5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 20:08&gt;</span></span>100%
+
+
+<a id="orgc4e1434"></a>
+
+## text
 
 I
 you
@@ -2268,12 +2794,32 @@ Is she running? No, she is writing.
 Are they speaking with a flower? No, they are speaking on the telephone.
 
 
-<a id="org3bcd85c"></a>
+<a id="org351c0ee"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 09:57&gt;</span></span>99.7%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 09:57&gt;</span></span>99.7%
 
 
-<a id="org89ea5c1"></a>
+<a id="orgcadf3fb"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 04:19&gt;</span></span>99.5%
+
+
+<a id="org6f114da"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 03:31&gt;</span></span>99.2%
+
+
+<a id="org4baeec8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 20:47&gt;</span></span>98.8%
+
+
+<a id="org87d973c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 20:28&gt;</span></span>99.4%
+
+
+<a id="orgaf6bfdf"></a>
 
 ## Lesson 4
 
@@ -2348,105 +2894,100 @@ Is she sitting in the grass? No, she is drawing.
 Is he holding a book? No, he is holding a piece of paper.
 
 
-<a id="org33fcc5e"></a>
+<a id="org5be19d4"></a>
 
 # Lesson five 97.2%
 
 
-<a id="org1c87b67"></a>
+<a id="org2bf41ef"></a>
 
-## learning history
-
-
-<a id="org7f7dd3f"></a>
-
-### Review 95.8%&#x2013;>97.6%
+## Review 95.8%&#x2013;>97.6%
 
 
-<a id="orgb8195f4"></a>
+<a id="org3e7aec5"></a>
 
-### Review 96.7%
-
-
-<a id="orgda95ad2"></a>
-
-### learn97.7%
+## Review 96.7%
 
 
-<a id="orgd705413"></a>
+<a id="org6482686"></a>
 
-### Review 97.8%
-
-
-<a id="org93ab0e0"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 16:12&gt; </span></span> 98%
+## learn97.7%
 
 
-<a id="org8ca0e11"></a>
+<a id="org4088a7e"></a>
 
-### Review five 97.2%
-
-
-<a id="org27c72be"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 14:13&gt; </span></span> 97.9%
+## Review 97.8%
 
 
-<a id="orga413d52"></a>
+<a id="org39706be"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 11:08&gt;</span></span>98.9%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 16:12&gt; </span></span> 98%
+
+
+<a id="org31b5d4c"></a>
+
+## Review five 97.2%
+
+
+<a id="org7af77e3"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 14:13&gt; </span></span> 97.9%
+
+
+<a id="org938d517"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 11:08&gt;</span></span>98.9%
 
 -   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-10 Sat 11:31]</span></span>
 
 
-<a id="org6043690"></a>
+<a id="org29c640e"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 11:36&gt;</span></span>99.2%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 11:36&gt;</span></span>99.2%
 
 
-<a id="org83d0443"></a>
+<a id="org74b8b88"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 15:19&gt;</span></span>99.4%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 15:19&gt;</span></span>99.4%
 
 :LOGBOOK:
 
 -   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-13 Tue 15:43]</span></span>
 
 
-<a id="org00e1d8c"></a>
+<a id="org0ac97c1"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 20:05&gt;</span></span>99.7%
-
-
-<a id="orga56378e"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 20:23&gt;</span></span>99.5%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 20:05&gt;</span></span>99.7%
 
 
-<a id="org166b11a"></a>
+<a id="org0abffe7"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-04 Tue 10:56&gt;</span></span>99.3%
-
-
-<a id="orgfca4ee1"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 04:18&gt;</span></span>99.6%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 20:23&gt;</span></span>99.5%
 
 
-<a id="org58fa441"></a>
+<a id="org71bb6c8"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 04:38&gt;</span></span>99.8%
-
-
-<a id="orgd1fddba"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 05:03&gt;</span></span>99.5%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-04 Tue 10:56&gt;</span></span>99.3%
 
 
-<a id="org9a83087"></a>
+<a id="orgc2d80f6"></a>
 
-### text
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 04:18&gt;</span></span>99.6%
+
+
+<a id="orgc9e96c8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 04:38&gt;</span></span>99.8%
+
+
+<a id="org68fbb5d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 05:03&gt;</span></span>99.5%
+
+
+<a id="orgbbc702c"></a>
+
+## text
 
 a woman
 a woman with long hair
@@ -2523,37 +3064,57 @@ The woman with black hair is writing.
 a woman with short white hair.
 
 
-<a id="orgbb14003"></a>
+<a id="org902f681"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 11:47&gt;</span></span>99.7%
-
-
-<a id="orgb88e5f1"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 16:03&gt;</span></span>99.1%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 11:47&gt;</span></span>99.7%
 
 
-<a id="org55c76b5"></a>
+<a id="orgb4ca4c6"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 09:36&gt;</span></span>99.6%
-
-
-<a id="orga3b62ed"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 19:29&gt;</span></span>99.8%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 16:03&gt;</span></span>99.1%
 
 
-<a id="org6b3ec44"></a>
+<a id="orgabca50e"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-10 Thu 11:32&gt;</span></span>
-
-
-<a id="orgce1048d"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 11:59&gt;</span></span>99.3%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 09:36&gt;</span></span>99.6%
 
 
-<a id="orgb83e495"></a>
+<a id="org915944f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 19:29&gt;</span></span>99.8%
+
+
+<a id="org84b3452"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-10 Thu 11:32&gt;</span></span>
+
+
+<a id="org1240c1d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 11:59&gt;</span></span>99.3%
+
+
+<a id="org4856fb1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 04:36&gt;</span></span>99.4%
+
+
+<a id="orgb7e37eb"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 02:48&gt;</span></span>98.8%
+
+
+<a id="org69b62b2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 05:31&gt;</span></span>99.2%
+
+
+<a id="orgdefcc76"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 04:32&gt;</span></span>99.5%
+
+
+<a id="org4e5577a"></a>
 
 ## Lesson 5
 
@@ -2629,39 +3190,34 @@ A woman is writing.
 The woman with short white hair is writing.
 
 
-<a id="orgdb6586f"></a>
+<a id="org6a6fb6a"></a>
 
 # Lesson six 99.1% good
 
 
-<a id="org053df0f"></a>
+<a id="org19f1d08"></a>
 
-## learn history
-
-
-<a id="org548934e"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 16:34&gt; </span></span> 98%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 16:34&gt; </span></span> 98%
 
 
-<a id="orge103898"></a>
+<a id="orge8a9085"></a>
 
-### Review six 97.3%
-
-
-<a id="org54df323"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 06:48&gt;</span></span>98%
+## Review six 97.3%
 
 
-<a id="org4151652"></a>
+<a id="org22415a7"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 14:06&gt;</span></span>99.4%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 06:48&gt;</span></span>98%
 
 
-<a id="orgdcbd262"></a>
+<a id="org507c0c3"></a>
 
-### text
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 14:06&gt;</span></span>99.4%
+
+
+<a id="orgefa8dcb"></a>
+
+## text
 
 autumn
 spring
@@ -2735,62 +3291,87 @@ Is it autumn? No, it is winter: a monkey is sitting down in the snow.
 Is it summer? No, it is winter: a woman is running in the snow.
 
 
-<a id="orgf5960c8"></a>
+<a id="org8e96472"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-29 Thu 05:35&gt;</span></span>99.6%
-
-
-<a id="orgcff3dd9"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 15:53&gt;</span></span>99.7%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-29 Thu 05:35&gt;</span></span>99.6%
 
 
-<a id="org3059f1c"></a>
+<a id="org87280c1"></a>
 
-### learn six 97.4%
-
-
-<a id="org94634f5"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 17:14&gt;</span></span>98%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 15:53&gt;</span></span>99.7%
 
 
-<a id="org4602497"></a>
+<a id="orgc553a9d"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 15:34&gt;</span></span>99.4%
-
-
-<a id="orgb411cf9"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 20:05&gt;</span></span>99.6%
+## learn six 97.4%
 
 
-<a id="org2ad625a"></a>
+<a id="orgd95b983"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 16:13&gt;</span></span>99.7%
-
-
-<a id="org78c00f2"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 15:26&gt;</span></span>99.6%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 17:14&gt;</span></span>98%
 
 
-<a id="org88b23f0"></a>
+<a id="org7af0db0"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 15:43&gt;</span></span>99.7%
-
-
-<a id="orgef99164"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 16:00&gt;</span></span>99.4%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 15:34&gt;</span></span>99.4%
 
 
-<a id="orgc91d7bc"></a>
+<a id="org7317be3"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 05:50&gt;</span></span>99.9%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 20:05&gt;</span></span>99.6%
 
 
-<a id="org19d0641"></a>
+<a id="org8c155e9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 16:13&gt;</span></span>99.7%
+
+
+<a id="org55fe1c8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 15:26&gt;</span></span>99.6%
+
+
+<a id="org6a94161"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 15:43&gt;</span></span>99.7%
+
+
+<a id="org4b031ce"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 16:00&gt;</span></span>99.4%
+
+
+<a id="org726da21"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 05:50&gt;</span></span>99.9%
+
+
+<a id="orgef684f7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-28 Tue 21:03&gt;</span></span>99.2%
+
+
+<a id="org0694702"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 05:44&gt;</span></span>98.8%
+
+
+<a id="org2655f05"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-26 Sun 02:31&gt;</span></span>99.0%
+
+
+<a id="org92b399f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 09:47&gt;</span></span>98.3%
+
+
+<a id="org0e7624f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 04:51&gt;</span></span>99.1%
+
+
+<a id="org58cca89"></a>
 
 ## Lesson6
 
@@ -2865,58 +3446,53 @@ Is it night or day? It is day.
 Is it day or night? It is night.
 
 
-<a id="orgd810309"></a>
+<a id="orga30a578"></a>
 
 # Lesson seven 97.7%
 
 
-<a id="org829ab3b"></a>
+<a id="orgbd79576"></a>
 
-## history
-
-
-<a id="org9c79d17"></a>
-
-### Review 99.1%
+## Review 99.1%
 
 
-<a id="org792bc14"></a>
+<a id="orge1eb0cf"></a>
 
-### Review Seven 97.7%
+## Review Seven 97.7%
 
 前者的每一个字母各代表一个步骤，即预习(Preview)、提问(Question)、阅读(Read)、笔
 记(Write)、背诵(Recite)、复习(Review),是一种行之有效地与速读结合的阅读学习方法；
 后者是美国芝加哥大学教育研究所的哥特．莫斯博士发明的一种学习方法，旨在强化个人&#x2026;
 
 
-<a id="orgc79177c"></a>
+<a id="org95f9056"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 19:20&gt; </span></span> 98%
-
-
-<a id="org66c1c85"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 10:03&gt;</span></span>99%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 19:20&gt; </span></span> 98%
 
 
-<a id="orge59561d"></a>
+<a id="org7a17c37"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 04:49&gt;</span></span>99.3%
-
-
-<a id="org90a5ffb"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 21:01&gt;</span></span>99.7%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 10:03&gt;</span></span>99%
 
 
-<a id="org5a50e05"></a>
+<a id="org6b5abfb"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun&gt;</span></span>99.6%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 04:49&gt;</span></span>99.3%
 
 
-<a id="org96a39aa"></a>
+<a id="org52ccabe"></a>
 
-### text
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 21:01&gt;</span></span>99.7%
+
+
+<a id="orgb10c2db"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun&gt;</span></span>99.6%
+
+
+<a id="org5d10695"></a>
+
+## text
 
 hot
 clean
@@ -2988,37 +3564,57 @@ Tea with a flower? No, tea with lemon.
 Hot green tea? No, cold red juice.
 
 
-<a id="org6bda6bd"></a>
+<a id="orga9e132b"></a>
 
-### Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 18:41&gt;</span></span>99.8%
-
-
-<a id="orgae2f1bb"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 06:37&gt;</span></span>99%
+## Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 18:41&gt;</span></span>99.8%
 
 
-<a id="org1237ccf"></a>
+<a id="orgbe64d0a"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 07:53&gt;</span></span>98.8%
-
-
-<a id="org4c4a054"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 08:14&gt;</span></span>99%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 06:37&gt;</span></span>99%
 
 
-<a id="org25aa201"></a>
+<a id="org59e7852"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:16&gt;</span></span>99.1%
-
-
-<a id="org016c336"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 19:50&gt;</span></span>99.5%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 07:53&gt;</span></span>98.8%
 
 
-<a id="org549a171"></a>
+<a id="orgf3c5f6c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 08:14&gt;</span></span>99%
+
+
+<a id="orgfd95ccd"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:16&gt;</span></span>99.1%
+
+
+<a id="orgf348b2a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun 19:50&gt;</span></span>99.5%
+
+
+<a id="org3d0050e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 05:59&gt;</span></span>99.5%
+
+
+<a id="org5f2b0ae"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-25 Sat 16:57&gt;</span></span>97.7%
+
+
+<a id="org10eced5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 10:05&gt;</span></span>98.9%
+
+
+<a id="orgb26e28a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 05:31&gt;</span></span>99.0%
+
+
+<a id="orgc95e89b"></a>
 
 ## Lesson 7
 
@@ -3093,82 +3689,107 @@ Banana juice? No, lemon juice.
 An orange and a banana? No, an orange and a lemon.
 
 
-<a id="org3b4b03c"></a>
+<a id="orgf68eb4f"></a>
 
 # lesson eight 97.9%
 
 
-<a id="org5d3f2b2"></a>
+<a id="org7e5ef2c"></a>
 
-## history
-
-
-<a id="org89e9c9b"></a>
-
-### Review 98.4%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-07 Tue 16:29&gt;</span></span>98%
 
 
-<a id="orgd0c8262"></a>
+<a id="orgcf024b9"></a>
 
-### Review 99.1%
-
-
-<a id="org313a3de"></a>
-
-### Review Eight 98.8% very good
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 11:21&gt;</span></span>99.1%
 
 
-<a id="orgd77dfa1"></a>
+<a id="org55b6025"></a>
 
-### Review eight 96.8%
-
-
-<a id="orgc52719e"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 10:38&gt; </span></span> 98.2%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-25 Sat 06:10&gt;</span></span>99.3%
 
 
-<a id="orgde97ace"></a>
+<a id="org7ecbc53"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 12:03&gt;</span></span>98.5%
-
-
-<a id="org61a1ff0"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 05:07&gt;</span></span>99.6%
+## Review 98.4%
 
 
-<a id="org7ae43f2"></a>
+<a id="org30ded4d"></a>
 
-### Review 99.8%
-
-
-<a id="org9594446"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 20:56&gt;</span></span>99.7%
+## Review 99.1%
 
 
-<a id="org891c5e0"></a>
+<a id="orgf8e44d5"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 08:55&gt;</span></span>99.9%
-
-
-<a id="org3436dab"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:30&gt;</span></span>99.1%
+## Review Eight 98.8% very good
 
 
-<a id="org2be45f8"></a>
+<a id="orgd1cf93a"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 07:33&gt;</span></span>98.7%
-
-
-<a id="orge881362"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 07:44&gt;</span></span>
+## Review eight 96.8%
 
 
-<a id="org6e48ef7"></a>
+<a id="org137278d"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 10:38&gt; </span></span> 98.2%
+
+
+<a id="orgcad385c"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 12:03&gt;</span></span>98.5%
+
+
+<a id="org65e8a2b"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 05:07&gt;</span></span>99.6%
+
+
+<a id="org378e270"></a>
+
+## Review 99.8%
+
+
+<a id="orgadf617e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-05 Wed 20:56&gt;</span></span>99.7%
+
+
+<a id="orgcd99db3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 08:55&gt;</span></span>99.9%
+
+
+<a id="orgc644a94"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:30&gt;</span></span>99.1%
+
+
+<a id="org8e7da2e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 07:33&gt;</span></span>98.7%
+
+
+<a id="org36fb7c8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 07:44&gt;</span></span>
+
+
+<a id="org3f05fb0"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 10:21&gt;</span></span>98.9%
+
+
+<a id="org35affae"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 05:46&gt;</span></span>99.2%
+
+
+<a id="orgf33b29b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-23 Sun 20:01&gt;</span></span>99.7%
+
+
+<a id="org6909943"></a>
 
 ## Lesson 8
 
@@ -3248,72 +3869,97 @@ Is the woman in a green shirt and a green scarf? No, the woman is in a pink
 swimsuit and a pink skirt.
 
 
-<a id="org740b614"></a>
+<a id="org76cce7c"></a>
 
 # Lesson nine 97.6%
 
 
-<a id="org46734f6"></a>
+<a id="orgcd0105f"></a>
 
-## history
-
-
-<a id="org209a29c"></a>
-
-### Review Nine 99.0% very good
+## Review Nine 99.0% very good
 
 
-<a id="org82b9701"></a>
+<a id="orga70e970"></a>
 
-### Review nine 95.9%
-
-
-<a id="org746da46"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 11:43&gt; </span></span> 96.7%
+## Review nine 95.9%
 
 
-<a id="orgd2be0d8"></a>
+<a id="orgabe62e9"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 19:08&gt;</span></span>98.4%
-
-
-<a id="org17204c5"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 08:17&gt;</span></span>99.3%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 11:43&gt; </span></span> 96.7%
 
 
-<a id="orgd0bbeb2"></a>
+<a id="org4e9fdd7"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 19:24&gt;</span></span>99.5%
-
-
-<a id="org7b2b03e"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 19:53&gt;</span></span>99.6%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 19:08&gt;</span></span>98.4%
 
 
-<a id="orgb403ee8"></a>
+<a id="org7faee1a"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 14:17&gt;</span></span>99.9%
-
-
-<a id="orgf7727d5"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 04:41&gt;</span></span>99.9%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 08:17&gt;</span></span>99.3%
 
 
-<a id="orgd8389d5"></a>
+<a id="orgff325e1"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:51&gt;</span></span>98.8%
-
-
-<a id="orgfb9e42b"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 08:20&gt;</span></span>99%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 19:24&gt;</span></span>99.5%
 
 
-<a id="org083697d"></a>
+<a id="org03f45dc"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 19:53&gt;</span></span>99.6%
+
+
+<a id="orgee2cecd"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 14:17&gt;</span></span>99.9%
+
+
+<a id="orgd55e349"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 04:41&gt;</span></span>99.9%
+
+
+<a id="org1971cbf"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 07:51&gt;</span></span>98.8%
+
+
+<a id="org0c8973d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 08:20&gt;</span></span>99%
+
+
+<a id="orga6eaa9f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-23 Thu 19:18&gt;</span></span>9,10
+
+
+<a id="orgf99816f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 15:38&gt;</span></span>97.5%
+
+
+<a id="orgc39cc05"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-25 Sat 04:27&gt;</span></span>99%
+
+
+<a id="org8d7e84b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-25 Sat 05:51&gt;</span></span>98.8%
+
+
+<a id="orgd1974e8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 12:07&gt;</span></span>97.9%
+
+
+<a id="orgc8403de"></a>
+
+## Furniture <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-22 Sat 16:11&gt;</span></span>99.8%
+
+
+<a id="org03e7919"></a>
 
 ## Lesson 9
 
@@ -3392,44 +4038,39 @@ wide bed.
 Are the men standing around a table? No, they are sitting around a table.
 
 
-<a id="org1c4bef2"></a>
+<a id="orgc7aff32"></a>
 
 # Lesson ten 97.9%
 
 
-<a id="orgc322f09"></a>
+<a id="orgd06fa86"></a>
 
-## history
-
-
-<a id="org75d0885"></a>
-
-### Review 96.3%
+## Review 96.3%
 
 
-<a id="orgcd2e875"></a>
+<a id="org6949644"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 15:15&gt; </span></span> 97.6%
-
-
-<a id="org364c8f5"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 20:09&gt;</span></span>98.1%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 15:15&gt; </span></span> 97.6%
 
 
-<a id="org45df54b"></a>
+<a id="org23ac923"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 08:46&gt;</span></span>99.3%
-
-
-<a id="org9321b96"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 19:43&gt;</span></span>99.6%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 20:09&gt;</span></span>98.1%
 
 
-<a id="org0442233"></a>
+<a id="orgf862868"></a>
 
-### text
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 08:46&gt;</span></span>99.3%
+
+
+<a id="orgae2ce76"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 19:43&gt;</span></span>99.6%
+
+
+<a id="org28b0e81"></a>
+
+## text
 
 a shop
 a nightclub
@@ -3509,39 +4150,39 @@ dancing.
 dancing.
 
 
-<a id="org7df5b86"></a>
+<a id="org4318725"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 14:35&gt;</span></span>99.7%
-
-
-<a id="org6980e2c"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 07:01&gt;</span></span>99.7%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 14:35&gt;</span></span>99.7%
 
 
-<a id="org7215c69"></a>
+<a id="orgdbcd031"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 07:23&gt;</span></span>99.3%
-
-
-<a id="org9e2cb5e"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 10:23&gt;</span></span>99.7%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 07:01&gt;</span></span>99.7%
 
 
-<a id="org888ed14"></a>
+<a id="org7c19936"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 17:25&gt;</span></span>99.6%
-
-
-<a id="orgd5c443d"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 08:07&gt;</span></span>98.7%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 07:23&gt;</span></span>99.3%
 
 
-<a id="org2507efd"></a>
+<a id="org258e641"></a>
 
-### Lession 10<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 05:41&gt;</span></span>98.4%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 10:23&gt;</span></span>99.7%
+
+
+<a id="org116dbc0"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 17:25&gt;</span></span>99.6%
+
+
+<a id="orgcdb49f9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 08:07&gt;</span></span>98.7%
+
+
+<a id="org7222762"></a>
+
+## Lession 10<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 05:41&gt;</span></span>98.4%
 
 Lesson 10
 a restaurant
@@ -3619,17 +4260,72 @@ Is there a drawing of a car on the piece of paper? No, a man is in the picture.
 Are the young women in a nighclub? No, they are in a shop.
 
 
-<a id="org172105b"></a>
+<a id="org71c3847"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 13:24&gt;</span></span>97.1%
-
-
-<a id="org15f0264"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 10:30&gt;</span></span>99.3%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 13:24&gt;</span></span>97.1%
 
 
-<a id="org3e73cee"></a>
+<a id="org50966aa"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 10:30&gt;</span></span>99.3%
+
+
+<a id="org2372366"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-08 Wed 16:48&gt;</span></span>98.3%
+
+
+<a id="orgfb7eab0"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 16:02&gt;</span></span>96.9%
+
+
+<a id="org18a4d9c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-24 Fri 18:52&gt;</span></span>98.9%
+
+
+<a id="orgb4745e6"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-25 Sat 04:09&gt;</span></span>98.4%
+
+
+<a id="org520a756"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-27 Mon 17:23&gt;</span></span>98.8
+
+
+<a id="org5ca6615"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 05:24&gt;</span></span>98.8%
+
+
+<a id="org48a37b5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 08:16&gt;</span></span>99.3%
+
+
+<a id="orgaa3c1c2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 07:06&gt;</span></span>98.8%
+
+
+<a id="org68b0e26"></a>
+
+## Urban life and hobbies<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-22 Sat 19:43&gt;</span></span>99.4%
+
+
+<a id="orgd18ced7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-23 Sun 16:26&gt;</span></span>99.6%
+
+
+<a id="org4390c9a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 18:59&gt;</span></span>97.8%
+
+
+<a id="orgec02b52"></a>
 
 ## Lesson 10
 
@@ -3709,51 +4405,46 @@ woman.
 Are the table and chairs in a cinema? No, the table and chairs are in a café.
 
 
-<a id="org5dcabf4"></a>
+<a id="orgb4f0fbc"></a>
 
 # Lesson eleven 98.8%
 
 
-<a id="orgc7b7126"></a>
+<a id="org8159cb7"></a>
 
-## history
-
-
-<a id="org5dccc5e"></a>
-
-### Review 98%
+## Review 98%
 
 
-<a id="org9d13f42"></a>
+<a id="org06e0467"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 16:05&gt;</span></span>98.5%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 16:05&gt;</span></span>98.5%
 
 
-<a id="org1a35c68"></a>
+<a id="org5067d6e"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 10:27&gt;</span></span>98%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 10:27&gt;</span></span>98%
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-09-05 Mon 10:53]</span></span>
 
 
-<a id="orgce7d356"></a>
+<a id="orgb1e76e8"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 17:20&gt;</span></span>99.5%
-
-
-<a id="org550389a"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 09:24&gt;</span></span>99.9%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 17:20&gt;</span></span>99.5%
 
 
-<a id="org188ab51"></a>
+<a id="orge217023"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 20:35&gt;</span></span>98.5%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 09:24&gt;</span></span>99.9%
 
 
-<a id="orgd52beb2"></a>
+<a id="org61c18e7"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 18:54&gt;</span></span>98.8%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 20:35&gt;</span></span>98.5%
+
+
+<a id="org780a8e8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 18:54&gt;</span></span>98.8%
 
 Lesson 11
 
@@ -3833,12 +4524,47 @@ door.
 Is the table in the kitchen dirty? No, the table in the kitchen is clean.
 
 
-<a id="orga4f418f"></a>
+<a id="org2bd9719"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 16:14&gt;</span></span>99.4%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 16:14&gt;</span></span>99.4%
 
 
-<a id="orgbf938b4"></a>
+<a id="orgef8a4d7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-08 Wed 19:07&gt;</span></span>99.0%
+
+
+<a id="org00c55ad"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 14:43&gt;</span></span>98.4%
+
+
+<a id="org6152782"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 05:05&gt;</span></span>98.7%
+
+
+<a id="orgbd5f211"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 08:35&gt;</span></span>99.2%
+
+
+<a id="orgf4ae132"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 10:09&gt;</span></span>98.7%
+
+
+<a id="org179a8df"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-24 Mon 04:58&gt;</span></span>99.8%
+
+
+<a id="org577439d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 18:38&gt;</span></span>99.1%
+
+
+<a id="org97c0f90"></a>
 
 ## Lesson 11
 
@@ -3918,65 +4644,60 @@ Is the man sitting in front of the door? No, the dog is sitting in front of the
 door.
 
 
-<a id="org5f5c35a"></a>
+<a id="org753fc94"></a>
 
 # Lesson twelve 98.4%
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-07-22 Fri 20:25]</span></span>
 
 
-<a id="org85c9c24"></a>
+<a id="orge0516bc"></a>
 
-## history
-
-
-<a id="org8339440"></a>
-
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 18:45&gt;</span></span>97.9%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 18:45&gt;</span></span>97.9%
 
 
-<a id="org97b1613"></a>
+<a id="org8dd5255"></a>
 
-### Review 97.7%
-
-
-<a id="org16491d6"></a>
-
-### Review twelve 97.5%
+## Review 97.7%
 
 
-<a id="orgc208aaf"></a>
+<a id="org655ffab"></a>
 
-### Review eleven and twelve
+## Review twelve 97.5%
+
+
+<a id="org99af6f0"></a>
+
+## Review eleven and twelve
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-07-28 Thu 06:12]</span></span>
 
 -   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-07-28 Thu 06:13]</span></span>
 
 
-<a id="orgc8827b2"></a>
+<a id="orgdf8de0c"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 17:42&gt;</span></span>99%
-
-
-<a id="org6e28556"></a>
-
-### Review eleven 98.6%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 17:42&gt;</span></span>99%
 
 
-<a id="orgc0d0af1"></a>
+<a id="org9bcfae3"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 11:46&gt;</span></span>99.8%
-
-
-<a id="org42ed629"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 21:04&gt;</span></span>98.5%
+## Review eleven 98.6%
 
 
-<a id="org55ad1fa"></a>
+<a id="org4c420ff"></a>
 
-### text
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 11:46&gt;</span></span>99.8%
+
+
+<a id="org3eaa8f5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-10 Sat 21:04&gt;</span></span>98.5%
+
+
+<a id="orgcd79553"></a>
+
+## text
 
 son
 daughter
@@ -4049,14 +4770,14 @@ Are grandma and grandad crying? No, grandma and grandad are luaghing.
 Is the mother washing her daughter? No, mother is playing with her son in the sand.
 
 
-<a id="orgec0a628"></a>
+<a id="orga31d08f"></a>
 
-### words
+## words
 
 
-<a id="org3ba891e"></a>
+<a id="org55818d5"></a>
 
-### text
+## text
 
 a window
 a door
@@ -4132,14 +4853,14 @@ Is there sofa in the bedroom? No, there is a wide bed in the bedroom.
 Is the man sitting on the floor? The dog is sitting on the floor.
 
 
-<a id="org69e495a"></a>
+<a id="orge11dedd"></a>
 
-### words
+## words
 
 
-<a id="orgc24e5d7"></a>
+<a id="org9ae9992"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-26 Mon 03:37&gt;</span></span>99.4%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-26 Mon 03:37&gt;</span></span>99.4%
 
 Lesson 12
 
@@ -4217,17 +4938,47 @@ Are these the parents of the girl? No, they are her grandma and grandad.
 Are grandma and grandad crying? No, grandma and grandad are laughing.
 
 
-<a id="org3a0483e"></a>
+<a id="org0d784da"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 20:02&gt;</span></span>99%
-
-
-<a id="org040c1c6"></a>
-
-### writing
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-16 Mon 20:02&gt;</span></span>99%
 
 
-<a id="org9521db5"></a>
+<a id="orgc3ee760"></a>
+
+## writing
+
+
+<a id="org8c49156"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 15:05&gt;</span></span>99%
+
+
+<a id="orgedcd6b5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 14:33&gt;</span></span>98.9%
+
+
+<a id="org12abde1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 09:39&gt;</span></span>98.8%
+
+
+<a id="orgeb3a4d9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 10:28&gt;</span></span>90%
+
+
+<a id="org4d00f85"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-24 Mon 05:30&gt;</span></span>99.6%
+
+
+<a id="orgcdff8fb"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 16:07&gt;</span></span>98.4%
+
+
+<a id="orgffbcd59"></a>
 
 ## Lesson 12
 
@@ -4305,19 +5056,14 @@ Is grandad feeding his granddaughter? No, mother is feeding her son.
 Are grandma and grandad crying? No, grandma and grandad are laughing.
 
 
-<a id="orgaa51915"></a>
+<a id="org07ee31f"></a>
 
 # Lesson thirteen
 
 
-<a id="org30aef94"></a>
+<a id="org5c8c4a8"></a>
 
-## history
-
-
-<a id="orgd80ec62"></a>
-
-### Review 98.1%
+## Review 98.1%
 
 中间一小时拜访杜科长、大姐家。
 Why does the giraffe like to eat leaves from tall trees? It like to do
@@ -4340,9 +5086,9 @@ Why are people sleeping on the grass? They are sleeping here because
 they do not have a home.
 
 
-<a id="org9cdbe86"></a>
+<a id="org9b0a3f6"></a>
 
-### Lesson thirteen
+## Lesson thirteen
 
 This elderly man is wearing glasses. he is hugging a large white dog
 around the  neck and laughing.
@@ -4459,66 +5205,66 @@ beach? They are spending time at the beach because they are on
 holiday.
 
 
-<a id="org1011cc5"></a>
+<a id="org579882e"></a>
 
-### 复习lesson thirty 98.7%
-
-
-<a id="orga219804"></a>
-
-### Review 97.6%
+## 复习lesson thirty 98.7%
 
 
-<a id="org5bf9543"></a>
+<a id="orgee184b3"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 20:09&gt; </span></span> 97.9%
-
-
-<a id="orgc7b512e"></a>
-
-### Review thirteen 97.7%
+## Review 97.6%
 
 
-<a id="org184e7d8"></a>
+<a id="org289382a"></a>
 
-### Revie:98.1%
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 20:09&gt; </span></span> 97.9%
+
+
+<a id="org632adc5"></a>
+
+## Review thirteen 97.7%
+
+
+<a id="org1c0ba20"></a>
+
+## Revie:98.1%
 
 :LOG98.1%98.1%BOOK:
 
 -   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-05 Mon 20:24]</span></span>
 
 
-<a id="org540dde6"></a>
+<a id="org84b1a36"></a>
 
-### Review thirteen 97.7%
-
-
-<a id="orga0ec0aa"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 20:50&gt; </span></span> 99.1%
+## Review thirteen 97.7%
 
 
-<a id="orga9d91d4"></a>
+<a id="org05cf810"></a>
 
-### Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 14:52&gt;</span></span>99.7%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 20:50&gt; </span></span> 99.1%
+
+
+<a id="orga9345c5"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 14:52&gt;</span></span>99.7%
 
 \*\* DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 19:51&gt;</span></span>99.8%
   CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-10-19 Wed 20:11]</span></span>
 
 
-<a id="orgc013475"></a>
+<a id="orgf98280d"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 05:53&gt;</span></span>99.0%
-
-
-<a id="org8fe30d2"></a>
-
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 05:25&gt;</span></span>98.7%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 05:53&gt;</span></span>99.0%
 
 
-<a id="orgce8a4ad"></a>
+<a id="orga294ac6"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-26 Mon 05:43&gt;</span></span>98.5%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 05:25&gt;</span></span>98.7%
+
+
+<a id="org573d446"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-26 Mon 05:43&gt;</span></span>98.5%
 
 Lesson 13
 
@@ -4598,12 +5344,52 @@ a bus stop
 Are they brother and sister? No, they are husband and wife.
 
 
-<a id="org7b71d7a"></a>
+<a id="orgb54cea3"></a>
 
-### Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 10:52&gt;</span></span>99.4%
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed 10:52&gt;</span></span>99.4%
 
 
-<a id="org6e061db"></a>
+<a id="org88a3721"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 08:35&gt;</span></span>99.1%
+
+
+<a id="org9a1236c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 21:09&gt;</span></span>98.5%
+
+
+<a id="org720e7b7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-28 Tue 16:35&gt;</span></span>99.1%
+
+
+<a id="orgc49165f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 14:14&gt;</span></span>98.7%
+
+
+<a id="orgb68dca5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 14:35&gt;</span></span>98.7%
+
+
+<a id="orgf02897d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 15:01&gt;</span></span>98.1%
+
+
+<a id="org9bae7e7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-24 Mon 08:20&gt;</span></span>99.7%
+
+
+<a id="org867999f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 15:52&gt;</span></span>98.8%
+
+
+<a id="orgfec4e0c"></a>
 
 ## Lesson13
 
@@ -4683,62 +5469,67 @@ Who is waiting at the window? The dog is waiting at the window.
 98.7%
 
 
-<a id="orgfb37b73"></a>
+<a id="orgcc92a69"></a>
 
 # lesson fourteen 98.3
 
 
-<a id="org283034b"></a>
+<a id="org23901b8"></a>
 
 ## Review fourteen 97.4%
 
 
-<a id="org4347980"></a>
+<a id="orgce6dfbe"></a>
 
 ## Review fourteen 96.8%
 
 
-<a id="org9fa57da"></a>
+<a id="org52207c6"></a>
 
 ## Review fourteen 97.7%
 
 
-<a id="org735d8da"></a>
+<a id="orgc9957e2"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 20:59&gt; </span></span> 98%
 
 
-<a id="org61a6698"></a>
+<a id="orgf7c0e87"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 05:20&gt;</span></span>97.5%
 
 
-<a id="org3b45991"></a>
+<a id="orgf16d493"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 20:36&gt;</span></span>98.8%
 
 
-<a id="org1e2e8fd"></a>
+<a id="org517b4f1"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 09:59&gt;</span></span>99.5%
 
 
-<a id="orgd7dcea5"></a>
+<a id="orgfa108eb"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 09:56&gt;</span></span>99.5%
 
 
-<a id="orge8ef6bd"></a>
+<a id="org24c6bab"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 20:31&gt;</span></span>99.7%
 
 
-<a id="org7ab5e6d"></a>
+<a id="orgc2bad6b"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 06:02&gt;</span></span>98.1%
 
 
-<a id="orgc840c4b"></a>
+<a id="orgd1dff75"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 13:59&gt;</span></span>98.5%
+
+
+<a id="org4096ea6"></a>
 
 ## text
 
@@ -4813,7 +5604,7 @@ Is the girl drawing? No, she is playing with some toys.
 Is the towel on the wall? No, it is on the floor.
 
 
-<a id="orgb6a7f44"></a>
+<a id="orgb868a1c"></a>
 
 ### words
 
@@ -4877,12 +5668,47 @@ Is the towel on the wall? No, it is on the floor.
     She twisted a wet towel a
 
 
-<a id="org32db19e"></a>
+<a id="org968a01a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-27 Tue 10:36&gt;</span></span>99%
 
 
-<a id="org2520cfe"></a>
+<a id="orgebba114"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-06 Mon 05:34&gt;</span></span>98.2%
+
+
+<a id="orge8f9293"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 04:09&gt;</span></span>98.9%
+
+
+<a id="org67e6574"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 11:15&gt;</span></span>98%
+
+
+<a id="org5a0ca47"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 15:00&gt;</span></span>98.7%
+
+
+<a id="orgbe3c677"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 15:19&gt;</span></span>98%
+
+
+<a id="org1b2fed1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-25 Tue 05:30&gt;</span></span>99.2%
+
+
+<a id="org544eb66"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 12:31&gt;</span></span>98.8%
+
+
+<a id="org961ec44"></a>
 
 ## Lesson 14
 
@@ -4958,54 +5784,54 @@ Is the boy sitting on the floor with a book? No, he is sitting with a toy.
 Are the dishes on the floor? No, the dishes are on the table.
 
 
-<a id="orga313f66"></a>
+<a id="org1bf4ef9"></a>
 
 # Lesson fifteen
 
 
-<a id="orgbefd6b1"></a>
+<a id="org641969b"></a>
 
 ## Review 97.3%
 
 
-<a id="org77c8a74"></a>
+<a id="orge2e5d5c"></a>
 
 ## Review fifteen 96.8%
 
 
-<a id="org16f5d75"></a>
+<a id="org9986f68"></a>
 
 ## Review fifteen 96.5%
 
 
-<a id="orgb6176e8"></a>
+<a id="org5b64335"></a>
 
 ## Review fifteen 98.1%
 
 
-<a id="org090bfc9"></a>
+<a id="orgec4044f"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 02:55&gt;</span></span>99.8%
 
 
-<a id="org9963620"></a>
+<a id="org4735e08"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 08:01&gt;</span></span>98.1%
 
 
-<a id="org65d245a"></a>
+<a id="org15cde6a"></a>
 
 ## text
 
 
-<a id="org09afc10"></a>
+<a id="org8b1440c"></a>
 
 ### salt
 
 an egg
 
 
-<a id="orgb672ba6"></a>
+<a id="org411e166"></a>
 
 ### bread
 
@@ -5018,7 +5844,7 @@ a piece of bread 一片面包
 white bread 白面包
 
 
-<a id="org15c9fdd"></a>
+<a id="org6bd1299"></a>
 
 ### Sugar
 
@@ -5064,7 +5890,7 @@ cane sugar n. 蔗糖
 reducing sugar 还原糖
 
 
-<a id="orge7a987d"></a>
+<a id="org74a28b3"></a>
 
 ### cheese
 
@@ -5104,7 +5930,7 @@ cottage cheese （由脱脂凝乳制成的）白软干酪，松软干酪
 parmesan cheese 帕玛森乳酪；帕玛森芝士
 
 
-<a id="org7dabde0"></a>
+<a id="orgd6d6b00"></a>
 
 ### butter
 
@@ -5219,44 +6045,86 @@ Does the boy want a pear? No, the boy wants meat.
 97.8%
 
 
-<a id="orge0f35d0"></a>
+<a id="orgfec8e00"></a>
 
 ## words
 
 
-<a id="orgdc78f1d"></a>
+<a id="orgdd0b013"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 Tue 10:10&gt; </span></span> 96.5%
 
 
-<a id="org3fbd4fb"></a>
+<a id="orgc45396b"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 06:15&gt;</span></span>98.1%
 
 
-<a id="orgf2eeb91"></a>
+<a id="org2ce5e5c"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 07:44&gt;</span></span>97.9%
 
 
-<a id="orgdd045a0"></a>
+<a id="orgea35a6a"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 10:10&gt;</span></span>98.8%
 
 中间友道科技董波来访
 
 
-<a id="org5812b26"></a>
+<a id="orgff59137"></a>
 
 ## Review98.1%
 
 
-<a id="org7d9cf94"></a>
+<a id="org96ed60f"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-28 Wed 04:34&gt;</span></span>99.1%
 
 
-<a id="org4dd73e5"></a>
+<a id="org611eeaf"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 18:33&gt;</span></span>98.7%
+
+
+<a id="org9ce5c76"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-06 Mon 07:26&gt;</span></span>97.8%
+
+
+<a id="orgb4e1294"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 05:30&gt;</span></span>98.0%
+
+
+<a id="org428e3d3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 08:53&gt;</span></span>99.5%
+
+
+<a id="org63d6e81"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 18:54&gt;</span></span>98.5%
+
+listen to happy music
+
+
+<a id="org0f3d0cf"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 18:31&gt;</span></span>98.5%
+
+
+<a id="orgbb383a7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-25 Tue 05:57&gt;</span></span>99.6%
+
+
+<a id="org6b2fcc9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 11:36&gt;</span></span>98.6%
+
+
+<a id="orga4bf875"></a>
 
 ## Lesson 15
 
@@ -5334,17 +6202,17 @@ Does the boy want a pear? No, the boy wants  meat.
 Is the woman holding sugar? No, she is holding grapes.
 
 
-<a id="orgbe28037"></a>
+<a id="org24c0874"></a>
 
 # Lesson Sixteen
 
 
-<a id="org5a3407c"></a>
+<a id="orgaed1b7d"></a>
 
 ## Review 97.2%
 
 
-<a id="org06878ca"></a>
+<a id="org509ccbb"></a>
 
 ### words
 
@@ -5451,7 +6319,7 @@ a cup
 a wineglass
 
 
-<a id="orgd221ec8"></a>
+<a id="org45ea238"></a>
 
 ### text
 
@@ -5505,22 +6373,22 @@ The girl like to sing.
 The man likes the woman.
 
 
-<a id="org1f723d0"></a>
+<a id="orgffe0f21"></a>
 
 ## Review sixteen 97.5%
 
 
-<a id="org5bdee88"></a>
+<a id="org542ada2"></a>
 
 ## Review sixteen 96.4%
 
 
-<a id="orgac963f3"></a>
+<a id="org130a1ac"></a>
 
 ### text <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 05:39&gt;</span></span>
 
 
-<a id="org10669d9"></a>
+<a id="orgb9af7d0"></a>
 
 ## write 97.6%
 
@@ -5594,52 +6462,92 @@ The man likes the woman.
 It likes to dance.
 
 
-<a id="orge3e56a0"></a>
+<a id="org90012f9"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 03:35&gt;</span></span>98.8%
 
 
-<a id="orgbcbd3eb"></a>
+<a id="orgd0d8198"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 16:55&gt;</span></span>98.5%
 
 
-<a id="orgd1249d1"></a>
+<a id="org40df96c"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 10:55&gt;</span></span>99.2%
 
 
-<a id="org8d68087"></a>
+<a id="orgf4cc7b9"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 10:39&gt;</span></span>98.1%
 
 
-<a id="org3ea9d29"></a>
+<a id="orgd9ddf68"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 20:50&gt;</span></span>98.5%
 
 
-<a id="orgfd79f21"></a>
+<a id="org61cb6e4"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 17:23&gt;</span></span>98.3%
 
 
-<a id="orga35fd90"></a>
+<a id="org5770e7d"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 19:45&gt;</span></span>98.9%
 
 
-<a id="org639b82b"></a>
+<a id="orgbe78dd6"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 08:19&gt;</span></span>97.6%
 
 
-<a id="orgfa920ca"></a>
+<a id="org063f670"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-19 Thu 16:14&gt;</span></span>97.1%
 
 
-<a id="orgec27ae5"></a>
+<a id="org031aff0"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 21:15&gt;</span></span>96.3%
+
+
+<a id="orgc932809"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 05:49&gt;</span></span>98.5%
+
+
+<a id="orgee9e087"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 04:48&gt;</span></span>97.5%
+
+
+<a id="org91e0db7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 21:02&gt;</span></span>98%
+
+
+<a id="orga04ec5f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 18:55&gt;</span></span>99.1%
+
+
+<a id="org5994169"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-25 Tue 21:47&gt;</span></span>96.4%
+
+
+<a id="org9350a49"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-26 Wed 04:45&gt;</span></span>98.3%
+
+
+<a id="orgede8f41"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 09:30&gt;</span></span>99.2%
+
+
+<a id="org481c2c2"></a>
 
 ## lesson 16
 
@@ -5714,67 +6622,102 @@ The man likes the woman.
 It likes to dance.
 
 
-<a id="org8cb6213"></a>
+<a id="orgf012f5b"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-30 Fri 05:30&gt;</span></span>98.8%
 
 
-<a id="orgefb86d7"></a>
+<a id="org0fff047"></a>
 
 # Lesson seventeen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-22 Wed 06:19&gt;</span></span>
 
 
-<a id="orgec95290"></a>
+<a id="org59b4171"></a>
 
 ## Review seventeen 97.6%
 
 
-<a id="org4ffcd97"></a>
+<a id="orgc8d6cc1"></a>
 
 ## Review seventeen 96.8%
 
 
-<a id="orgd99e345"></a>
+<a id="org43b9c99"></a>
 
 ## Review 96.1%
 
 
-<a id="org4bb7910"></a>
+<a id="org46a0d82"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 17:01&gt;</span></span>98.1%
 
 
-<a id="org516912c"></a>
+<a id="orgfee1449"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 19:51&gt;</span></span>99.1%
 
 
-<a id="org2142efc"></a>
+<a id="org03a8ea6"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 04:43&gt;</span></span>98.3%
 
 
-<a id="orgc1ceb1b"></a>
+<a id="org6e8cd0a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 17:29&gt;</span></span>98.2%
 
 
-<a id="org74747de"></a>
+<a id="org5b6214a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 17:48&gt;</span></span>99.6%
 
 
-<a id="org63a0a38"></a>
+<a id="org59a1805"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 18:49&gt;</span></span>97.6%
 
 
-<a id="orgc12a7eb"></a>
+<a id="org8ea55dd"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-31 Sat 15:19&gt;</span></span>98.6%
 
 
-<a id="orgbb55b33"></a>
+<a id="org368f310"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 21:33&gt;</span></span>98.3%
+
+
+<a id="org1c889c9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 09:45&gt;</span></span>99.0%
+
+
+<a id="org3b06aeb"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 04:25&gt;</span></span>99%
+
+
+<a id="orgb981544"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-01 Sat 04:42&gt;</span></span>98.8%
+
+
+<a id="org61fcbcd"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 20:12&gt;</span></span>97.5%
+
+
+<a id="org47f92e2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-26 Wed 05:05&gt;</span></span>98.5%
+
+
+<a id="org92dba0a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 09:07&gt;</span></span>99.5%
+
+
+<a id="org259c78b"></a>
 
 ## Lesson 17
 
@@ -5849,7 +6792,7 @@ Does the shop sell clothes or food? They sell clothes here.
 Is the customer paying cash or by card? He is paying cash.
 
 
-<a id="org4756edf"></a>
+<a id="orgbcb93be"></a>
 
 ## text
 
@@ -5925,12 +6868,12 @@ Does the shop sell clothes or food? They sell clothes here.
 Is the man buying a suit or a hat? He is buying a hat.
 
 
-<a id="org074af59"></a>
+<a id="org1397704"></a>
 
 ## words
 
 
-<a id="orgda8e524"></a>
+<a id="org67f1a6a"></a>
 
 ## neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 Tue&gt;</span></span>
 
@@ -6004,47 +6947,57 @@ The neck is the part of the body, on many terrestrial or secondarily aquatic ver
 来源于：维基百科
 
 
-<a id="orga84f37a"></a>
+<a id="org59f1b89"></a>
 
 # lesson eighteen
 
 
-<a id="org3135562"></a>
+<a id="orgfa35ddc"></a>
 
 ## Review 97.2%
 
 
-<a id="org5151eb8"></a>
+<a id="org9faf85b"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 21:15&gt; </span></span> 96%
 
 
-<a id="org2df42a5"></a>
+<a id="org017339c"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-31 Wed 21:42&gt; </span></span> 97.5%
 
 
-<a id="orgfed2f03"></a>
+<a id="org516ecb2"></a>
 
 ## Review eithteen 97.3%
 
 
-<a id="org6701e86"></a>
+<a id="orge9838ea"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 06:37&gt;</span></span>97%
 
 
-<a id="org4d86ef8"></a>
+<a id="org80682a7"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 06:41&gt;</span></span>98%
 
 
-<a id="orgd7459b9"></a>
+<a id="orgf039de2"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-01 Sun 05:44&gt;</span></span>90%
 
 
-<a id="orgae3abab"></a>
+<a id="org65aa251"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 21:05&gt;</span></span>99.2%
+
+
+<a id="org9b7ef50"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-26 Wed 06:18&gt;</span></span>98.9%
+
+
+<a id="orgba878aa"></a>
 
 ## Lesson18
 
@@ -6119,7 +7072,7 @@ Who has a beard? Grandad has a beard.
 What is the girl take off? She is taking off a black-and-white dress.
 
 
-<a id="orgc6cc309"></a>
+<a id="orgb82d7e9"></a>
 
 ## text
 
@@ -6159,7 +7112,7 @@ The girl is trying on a skirt in front of the mirror.
 The girl is trying on some shoes.
 
 
-<a id="org7ab286c"></a>
+<a id="orge9659b7"></a>
 
 ### sweater
 
@@ -6176,7 +7129,7 @@ The man is taking off a shirt.
 The boy isn't wearing a dress.
 
 
-<a id="orgce2d104"></a>
+<a id="org2a756cc"></a>
 
 ### moustache
 
@@ -6219,7 +7172,7 @@ Is the woman putting on shoes or gloves? She is putting on gloves.
 95.4%
 
 
-<a id="orgdb2d59d"></a>
+<a id="org93f2c42"></a>
 
 ## text
 
@@ -6300,29 +7253,29 @@ An old white car? No, a pink old car.
 A red flower? No, a grey bird.
 
 
-<a id="org12e24a9"></a>
+<a id="org013063a"></a>
 
 ## Review eithteen 97.9%
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-07-29 Fri 10:18]</span></span>
 
 
-<a id="org2146e92"></a>
+<a id="org14c9522"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 10:41&gt;</span></span>97.7%
 
 
-<a id="orgf275805"></a>
+<a id="org576350c"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 20:19&gt;</span></span>99.1%
 
 
-<a id="org13226a4"></a>
+<a id="orgfc3f57d"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-25 Tue 10:30&gt;</span></span>97.9%
 
 
-<a id="org5c00e9c"></a>
+<a id="orga4d30f7"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-25 Tue 11:28&gt;</span></span>98.8%
 
@@ -6331,52 +7284,77 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-07-29 Fri 
 -   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-10-25 Tue 11:48]</span></span>
 
 
-<a id="org10e0532"></a>
+<a id="orge140d3e"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun&gt;</span></span>98.2%
 
 
-<a id="org76ef928"></a>
+<a id="org41995d1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 14:26&gt;</span></span>98.9%
+
+
+<a id="org19b8b98"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 10:05&gt;</span></span>99.3%
+
+
+<a id="org9817d35"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-01 Sat 05:00&gt;</span></span>98.8%
+
+
+<a id="orgc3d71d9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-03 Mon 04:04&gt;</span></span>98.5%
+
+
+<a id="org3513bdb"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 05:07&gt;</span></span>99.4%
+
+
+<a id="orgf234181"></a>
 
 # lesson ninteen<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-07 Thu&gt;</span></span>
 
 
-<a id="org6c5e02f"></a>
+<a id="org9351c10"></a>
 
 ## Review 96.7%
 
 
-<a id="orgbba6824"></a>
+<a id="org99daad5"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 04:21&gt; </span></span> 96%
 
 
-<a id="org7b86227"></a>
+<a id="org1ee060c"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 17:11&gt;</span></span>96.8%
 
 
-<a id="org3d9bbec"></a>
+<a id="org243b14a"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 06:00&gt;</span></span>98.2%
 
 
-<a id="org673976c"></a>
+<a id="orgc21f2b6"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 07:04&gt;</span></span>98.4%
 
 
-<a id="orgab97f17"></a>
+<a id="org821dca6"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 20:48&gt;</span></span>99.8%
 
 
-<a id="org204c833"></a>
+<a id="org867e2b3"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-11 Sun 20:43&gt;</span></span>97.7%
 
 
-<a id="org1036015"></a>
+<a id="org62dda6d"></a>
 
 ## text
 
@@ -6457,32 +7435,72 @@ Are the child's feet big or small? His feet are small.
 96.9%
 
 
-<a id="org606e7da"></a>
+<a id="org872fa97"></a>
 
 ## Review ninteen 97.4
 
 
-<a id="orgcb52853"></a>
+<a id="org1991fa7"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 10:51&gt;</span></span>98.2%
 
 
-<a id="org7a19c69"></a>
+<a id="orga5f4266"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 14:42&gt;</span></span>97.8%
 
 
-<a id="orgcd01c23"></a>
+<a id="orgf240f54"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-10-11 Sun&gt;</span></span>97.6%
 
 
-<a id="orgb10fd3d"></a>
+<a id="orge74aadc"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-02 Mon 09:07&gt;</span></span>98.7%
 
 
-<a id="org5d0ca3a"></a>
+<a id="org25b7ed0"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 14:46&gt;</span></span>98.7%
+
+
+<a id="orga66a186"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-06 Mon 21:08&gt;</span></span>98.9%
+
+
+<a id="org61c465d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 14:10&gt;</span></span>98%
+
+
+<a id="orgbcce2ab"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 17:24&gt;</span></span>99.4%
+
+
+<a id="org0077d46"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-01 Sat 05:20&gt;</span></span>98.2%
+
+
+<a id="org6e09d09"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-03 Mon 04:26&gt;</span></span>98.8%
+
+
+<a id="orgaa324fa"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-26 Wed 08:13&gt;</span></span>
+
+
+<a id="org5c07929"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-01 Mon 04:43&gt;</span></span>99.3%
+
+
+<a id="org5194d5b"></a>
 
 ## Lesson19
 
@@ -6560,47 +7578,52 @@ Is the child's face clean or dirty? His face is clean.
 Is the child's head big or small? His head is small.
 
 
-<a id="org9c75b97"></a>
+<a id="org878d3c8"></a>
 
 # lesson twenty
 
 
-<a id="orgfabd783"></a>
+<a id="orgbc176be"></a>
 
 ## Review twenty 96.9%
 
 
-<a id="org7789a60"></a>
+<a id="orgfcc26bc"></a>
 
 ## Review 96.8%
 
 
-<a id="org1255a26"></a>
+<a id="org8a42178"></a>
 
 ## MG: <span class="timestamp-wrapper"><span class="timestamp">[2016-09-12 Mon 13:42]</span></span>
 
 
-<a id="orga32a34c"></a>
+<a id="org28ee5cd"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 13:43&gt;</span></span>98.1%
 
 
-<a id="org227aa18"></a>
+<a id="orgf33cbb4"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 18:30&gt;</span></span>99.3%
 
 
-<a id="org93bcac5"></a>
+<a id="org2618496"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 11:44&gt;</span></span>99.5%
 
 
-<a id="org26d0600"></a>
+<a id="orgc591fa9"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-12 Mon 07:21&gt;</span></span>98.6%
 
 
-<a id="orgb92410a"></a>
+<a id="org049e85f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 08:22&gt;</span></span>98.1%
+
+
+<a id="org8797b9f"></a>
 
 ## text
 
@@ -6674,17 +7697,87 @@ Is teaching children a teacher's job or a waiter's job? It is a teacher's job.
 96.5%
 
 
-<a id="org2538325"></a>
+<a id="org2bc645d"></a>
 
 ## Review twenty 96.8%
 
 
-<a id="org344a2d1"></a>
+<a id="org07b7f06"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-03 Tue 06:47&gt;</span></span>97.9%
 
 
-<a id="org5e65f01"></a>
+<a id="orgbe8c7db"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 15:38&gt;</span></span>98.7%
+
+
+<a id="org99ab8e4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-06 Mon 20:48&gt;</span></span>97.7%
+
+
+<a id="orgd1cec41"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 14:31&gt;</span></span>98.8%
+
+
+<a id="orgeffd748"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-29 Wed 16:58&gt;</span></span>99.1%
+
+
+<a id="org6ef8893"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-01 Sat 05:37&gt;</span></span>98.4%
+
+
+<a id="orga96de4c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-03 Mon 04:44&gt;</span></span>98.2%
+
+
+<a id="org0222b72"></a>
+
+## Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 06:02&gt;</span></span>
+
+
+<a id="org96d710c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 08:23&gt;</span></span>98.1%
+
+
+<a id="org20993e9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 11:20&gt;</span></span>98.2%
+
+
+<a id="orgff5dd61"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 19:45&gt;</span></span>98.2%
+
+
+<a id="orgd8986ed"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-17 Mon 04:50&gt;</span></span>99.4%
+
+
+<a id="org9a00b45"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-23 Sun 10:00&gt;</span></span>99.2%
+
+
+<a id="orgbe0b046"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-26 Wed 15:07&gt;</span></span>99.1%
+
+
+<a id="org4c57c7f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 21:07&gt;</span></span>99.6%
+
+
+<a id="org9f34f11"></a>
 
 ## lesson 20
 
@@ -6718,7 +7811,7 @@ The doctor is treating a patient.
 
 The teacher works in a school.
 The policeman works outdoors.
-The cook works in a restaurant.
+The cooker works in a restaurant.
 The shop assistant works in a shop.
 The waiter also works in a restaurant.
 The doctors work in a hospital.
@@ -6760,42 +7853,42 @@ Is eating a job? No, it is not a job.
 Is treating patients a sportsman's job or a doctor's job? It is a doctor's job.
 
 
-<a id="org806aade"></a>
+<a id="org2d071eb"></a>
 
 # lesson twenty one
 
 
-<a id="org535d80f"></a>
+<a id="org4d5a764"></a>
 
 ## Review twenty one 97.7%
 
 
-<a id="org0060b51"></a>
+<a id="org004769a"></a>
 
 ## Review 96.1%
 
 
-<a id="org13f4412"></a>
+<a id="org213cbb9"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 19:01&gt; </span></span> 98.1%
 
 
-<a id="org772350b"></a>
+<a id="org63f3aed"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 20:22&gt;</span></span>99.3%
 
 
-<a id="orgd00bf8b"></a>
+<a id="org1b79bbc"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 15:19&gt;</span></span>99.7%
 
 
-<a id="org5d29d33"></a>
+<a id="orgd93cc09"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-12 Mon 20:31&gt;</span></span>98.0%
 
 
-<a id="orgf1d6e3c"></a>
+<a id="org3a88ccb"></a>
 
 ## text
 
@@ -6856,12 +7949,12 @@ There are six forks on the table.
 97.4%
 
 
-<a id="orgbc15ae8"></a>
+<a id="org0999055"></a>
 
 ## words
 
 
-<a id="org213b7f2"></a>
+<a id="org5ad0097"></a>
 
 ### gown
 
@@ -6891,7 +7984,7 @@ bridal gown 新娘服装，新娘礼服
 cap and gown n. 方帽长袍
 
 
-<a id="orga817b95"></a>
+<a id="org3f8bda2"></a>
 
 ### patient
 
@@ -6937,7 +8030,7 @@ patient safety 病人安全
 mental patient 精神病人
 
 
-<a id="orgbeb4722"></a>
+<a id="orgeac3b2f"></a>
 
 ### couch
 
@@ -6970,17 +8063,74 @@ Bucky couch 布凯氏滤线器床
 **\*\***
 
 
-<a id="org6f5b2a8"></a>
+<a id="orgfee39c4"></a>
 
 ## Review twenty one 96.9%
 
 
-<a id="org2392220"></a>
+<a id="orgf4da624"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-08 Sun 17:20&gt;</span></span>98.9%
 
 
-<a id="orgab345d0"></a>
+<a id="org05a5586"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-03 Mon 04:45&gt;</span></span>97.9%
+
+
+<a id="org01239b0"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 04:38&gt;</span></span>98%
+
+
+<a id="orgf4350bb"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 09:07&gt;</span></span>98.1%
+
+
+<a id="orga50c057"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 05:41&gt;</span></span>98.1%
+
+
+<a id="orgc8dc088"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 15:44&gt;</span></span>98.2%
+
+容大职业来访。王鹏一小时。
+
+
+<a id="orgf0e13a9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 19:30&gt;</span></span>98.9%
+
+
+<a id="org731da89"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 19:05&gt;</span></span>98.9%
+
+
+<a id="orgadc541a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-17 Mon 05:17&gt;</span></span>99%
+
+
+<a id="org6bf6eb1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-23 Sun 08:40&gt;</span></span>99.4%
+
+
+<a id="org2fe6088"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-27 Thu 05:21&gt;</span></span>99.6%
+
+
+<a id="org57e5469"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 19:30&gt;</span></span>99.6%
+
+
+<a id="org89a62ed"></a>
 
 ## Lesson21
 
@@ -7054,42 +8204,42 @@ There are three children in the family.
 A child has fewer legs than a cat.
 
 
-<a id="org112d88a"></a>
+<a id="orgd36e885"></a>
 
 # lesson twenty two
 
 
-<a id="orge853806"></a>
+<a id="orgb6629ab"></a>
 
 ## Review twenty two 93.6%
 
 
-<a id="orgd396440"></a>
+<a id="org0b9f751"></a>
 
 ## Review twenty two 95.2%
 
 
-<a id="org650a572"></a>
+<a id="org84874de"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 19:31&gt; </span></span> 96.2%
 
 
-<a id="orgb62da84"></a>
+<a id="org55e6a30"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 19:41&gt;</span></span>98.8%
 
 
-<a id="orge716020"></a>
+<a id="org813782a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 04:15&gt;</span></span>99%
 
 
-<a id="orgeafc908"></a>
+<a id="orgb1642fa"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 05:34&gt;</span></span>95.9%
 
 
-<a id="orgab29758"></a>
+<a id="orgaa230e5"></a>
 
 ## text
 
@@ -7166,19 +8316,74 @@ The photographer has interesting work.
 95.9%
 
 
-<a id="org7ce5986"></a>
+<a id="orgbcfac90"></a>
 
 ### words
 
 1.  94.6%
 
 
-<a id="org19a2cd5"></a>
+<a id="org4637f61"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-09 Mon 06:21&gt;</span></span>98.7%
 
 
-<a id="org028e2ae"></a>
+<a id="org19b757a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-03 Mon 16:09&gt;</span></span>95.4%
+
+
+<a id="orgb321931"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 04:21&gt;</span></span>97.9%
+
+
+<a id="org8131d30"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 11:35&gt;</span></span>98.2%
+
+
+<a id="org5cda883"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 05:22&gt;</span></span>96.1%
+
+
+<a id="org009a5c7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 19:52&gt;</span></span>99%
+
+
+<a id="orgc694ad8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 13:41&gt;</span></span>97.7%
+
+
+<a id="orgc60ca1d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-17 Mon 08:27&gt;</span></span>98.5%
+
+
+<a id="orgf1af7f3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-23 Sun 06:02&gt;</span></span>99.1%
+
+
+<a id="org1e867b2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-27 Thu 05:56&gt;</span></span>99.6%
+
+
+<a id="orgd38bb26"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 19:12&gt;</span></span>99.4%
+
+
+<a id="org39727fa"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-13 Sat 04:56&gt;</span></span>98.4%
+
+
+<a id="orgbe2e87f"></a>
 
 ## Lesson 22
 
@@ -7253,39 +8458,39 @@ The secretary has a lot of boring work.
 The singer on stage is singing and playing the guitar.
 
 
-<a id="org5d19d5d"></a>
+<a id="org030442f"></a>
 
 # lesson twenty three
 
 
-<a id="org2241f61"></a>
+<a id="orgce56936"></a>
 
 ## Review twenty three 97.1%
 
 
-<a id="org271ea89"></a>
+<a id="orgbaf62e3"></a>
 
 ## review twenty three 94.9%
 
 有点累了，精力不继。效果打折。
 
 
-<a id="org886ff5e"></a>
+<a id="orgfa7a3d5"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 11:19&gt;</span></span>98.9%
 
 
-<a id="org5c347da"></a>
+<a id="org6af308f"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 19:33&gt;</span></span>99.4%
 
 
-<a id="org7b8e121"></a>
+<a id="org7b72e1e"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 07:20&gt;</span></span>97.1%
 
 
-<a id="org2275d40"></a>
+<a id="org7800aa3"></a>
 
 ## text
 
@@ -7464,7 +8669,7 @@ There is a traffic jam on the bridge? Yes, there is a traffic jam on the bridge.
 Where is the statue? The statue is on the square.
 
 
-<a id="org4872c1c"></a>
+<a id="org5ddf1e4"></a>
 
 ### traffic jam
 
@@ -7485,17 +8690,85 @@ They detoured around the traffic jam by heading south.
 98.1%
 
 
-<a id="orgab8d0e6"></a>
+<a id="orgbe72a00"></a>
 
 ### words
 
 
-<a id="org6c2269e"></a>
+<a id="orgd99eb05"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-10 Tue 07:41&gt;</span></span>98.4%
 
 
-<a id="org2042d8c"></a>
+<a id="orgc53bb79"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-03 Mon 19:16&gt;</span></span>98.4%
+
+
+<a id="org35bd4a2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 04:00&gt;</span></span>98.1%
+
+
+<a id="org8d47b7e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 14:33&gt;</span></span>99.1%
+
+
+<a id="org2baf9ae"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-11 Tue 04:53&gt;</span></span>98.8%
+
+
+<a id="org369b6d1"></a>
+
+## Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-11 Tue 05:53&gt;</span></span>
+
+
+<a id="org839ee4f"></a>
+
+## Watch The It Crowd<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-11 Tue 06:23&gt;</span></span>
+
+
+<a id="org95ad5ea"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-11 Tue 18:13&gt;</span></span>98.1%
+
+
+<a id="orgd7b1ab5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-13 Thu 04:45&gt;</span></span>98.9%
+
+
+<a id="org402137c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 09:58&gt;</span></span>98.3%
+
+
+<a id="orgb1f7986"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-17 Mon 14:06&gt;</span></span>98.2%
+
+
+<a id="org15c4249"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-23 Sun 05:35&gt;</span></span>99.7%
+
+
+<a id="org93f5192"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-27 Thu 08:55&gt;</span></span>99.5%
+
+meeting about training course
+meet shang hai ruiya 葛锡宝
+
+
+<a id="orga1e7a72"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 14:11&gt;</span></span>99.5%
+
+
+<a id="org98f9941"></a>
 
 ## Lesson 23
 
@@ -7571,39 +8844,39 @@ Where is the grandmother sitting? She is sitting on a bench in the park.
 Where are there many tall buildings? There are many tall buildings in the city.
 
 
-<a id="orgae9ef54"></a>
+<a id="org2627a89"></a>
 
 # twenty four
 
 
-<a id="orgb58d8ff"></a>
+<a id="org55593e3"></a>
 
 ## Review twenty four 96.8%
 
 
-<a id="org6037135"></a>
+<a id="org2a6c0ac"></a>
 
 ## Review twenty four 96.4%
 
 
-<a id="orgb8663e6"></a>
+<a id="orgbb357ee"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 11:15&gt;</span></span>98.3%
 
 
-<a id="org385de58"></a>
+<a id="org3993101"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 15:00&gt;</span></span>99.3%
 
 千锋科技来访，打断了。时间较长。
 
 
-<a id="orgde0beef"></a>
+<a id="org7b85e3b"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-13 Tue 07:44&gt;</span></span>97.2%
 
 
-<a id="org0cdaff8"></a>
+<a id="orgd29b424"></a>
 
 ## text
 
@@ -7679,7 +8952,7 @@ Are there many cars in this parking lot? No, there are many bikes here.
 96.6%
 
 
-<a id="org5f6f1ea"></a>
+<a id="org5266d90"></a>
 
 ### words
 
@@ -7781,12 +9054,62 @@ Are there many cars in this parking lot? No, there are many bikes here.
     96.5%
 
 
-<a id="org4c757ee"></a>
+<a id="org95cc184"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-11 Wed 20:59&gt;</span></span>98.7%
 
 
-<a id="orgcb27656"></a>
+<a id="org61ea4cb"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 14:52&gt;</span></span>98.6%
+
+
+<a id="orge18efdc"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-10 Mon 19:46&gt;</span></span>98.35
+
+
+<a id="org5477a67"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-11 Tue 04:22&gt;</span></span>97.8%
+
+
+<a id="org56a235a"></a>
+
+## Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-12 Wed 06:03&gt;</span></span>
+
+
+<a id="org02c4968"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-13 Thu 05:04&gt;</span></span>98.8%
+
+
+<a id="orgbbcfe87"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 09:35&gt;</span></span>97.9%
+
+
+<a id="org5d6caee"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-18 Tue 04:30&gt;</span></span>98.2%
+
+
+<a id="orgea837db"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-22 Sat 06:22&gt;</span></span>99.7%
+
+
+<a id="org2e7c6fc"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-27 Thu 14:52&gt;</span></span>99.3%
+
+
+<a id="org12969db"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 09:03&gt;</span></span>99.6%
+
+
+<a id="orgf2ab9c8"></a>
 
 ## Lesson24
 
@@ -7862,54 +9185,54 @@ slowly.
 Are these two elderly women walking quickly? No, they are walking very slowly.
 
 
-<a id="org914737f"></a>
+<a id="org72d4478"></a>
 
 # twenty  five
 
 
-<a id="orgb18627f"></a>
+<a id="orgd7e220a"></a>
 
 ## Review twenty five 96.6%
 
 比较流畅。
 
 
-<a id="org49fb10f"></a>
+<a id="org6f172d5"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 09:04&gt; </span></span> 95.8%
 
 
-<a id="orgef2d0a1"></a>
+<a id="org1108342"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 15:32&gt;</span></span>98.8%
 
 
-<a id="org9a7651e"></a>
+<a id="orge0dc574"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 19:01&gt;</span></span>99.4%
 
 
-<a id="org7e64625"></a>
+<a id="org8468ba0"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 Thu 19:16&gt;</span></span>98.9%
 
 
-<a id="orgf74bc64"></a>
+<a id="org633f533"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 Fri 05:16&gt;</span></span>99.2%
 
 
-<a id="orgf61165b"></a>
+<a id="org1195d9e"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 08:59&gt;</span></span>97.1%
 
 
-<a id="orgdc8a710"></a>
+<a id="org99a8169"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 04:43&gt;</span></span>96.9%
 
 
-<a id="org127aac1"></a>
+<a id="org7510cf2"></a>
 
 ## text
 
@@ -7985,17 +9308,27 @@ Is the child working? No, he can't work. He is still very small.
 96.7%
 
 
-<a id="orgbbed6e6"></a>
+<a id="org96a4261"></a>
 
 ## words
 
 
-<a id="org200b904"></a>
+<a id="orgf9269f0"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 05:31&gt;</span></span>97.5%
 
 
-<a id="orgb7fa095"></a>
+<a id="orgf1908ed"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-04 Tue 17:55&gt;</span></span>97.1%
+
+
+<a id="orgd973c9a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-10 Mon 02:02&gt;</span></span>98.3%
+
+
+<a id="org6879816"></a>
 
 ## Lesson 25
 
@@ -8070,32 +9403,82 @@ Are these dogs relaxing? No, they are working.
 Is this dog working? No, it is relaxing.
 
 
-<a id="org473935b"></a>
+<a id="org9402fab"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 09:48&gt;</span></span>98.2%
 
 
-<a id="org5c5084d"></a>
+<a id="org47cde6e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-10 Mon 10:58&gt;</span></span>98.7%
+
+
+<a id="org967b391"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-10 Mon 17:11&gt;</span></span>98%
+
+
+<a id="orgc4e6b42"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-13 Thu 18:19&gt;</span></span>97.5%
+
+
+<a id="orgbc22242"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-13 Thu 21:12&gt;</span></span>98.6%
+
+
+<a id="org3733bde"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 05:39&gt;</span></span>98.5%
+
+
+<a id="orgbe6cfa1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-18 Tue 05:11&gt;</span></span>98.2%
+
+
+<a id="orge1641e3"></a>
+
+## Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-18 Tue 05:59&gt;</span></span>
+
+
+<a id="org958634e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-22 Sat 05:41&gt;</span></span>99.6%
+
+
+<a id="orgb870975"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-27 Thu 16:15&gt;</span></span>99.5%
+
+
+<a id="org9f113de"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 08:30&gt;</span></span>99.7%
+
+
+<a id="orgc7ae315"></a>
 
 # twenty six
 
 
-<a id="orga1658b1"></a>
+<a id="org9af9269"></a>
 
 ## Review twenty six 95.2%
 
 
-<a id="orgbda4d63"></a>
+<a id="org3b3b8f6"></a>
 
 ## Review twenty six 95.7%
 
 
-<a id="org1a323b3"></a>
+<a id="orgec6e746"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 04:42&gt;</span></span>97.9%
 
 
-<a id="org190e398"></a>
+<a id="orgda68764"></a>
 
 ## text
 
@@ -8178,12 +9561,12 @@ usually has more work in the summer.
 96.6%
 
 
-<a id="orgf39ffb3"></a>
+<a id="orgcd5c870"></a>
 
 ## word
 
 
-<a id="org86003ab"></a>
+<a id="orga7793ed"></a>
 
 ### tourist
 
@@ -8202,7 +9585,7 @@ N-COUNT A tourist is a person who is visiting a place for pleasure and interest,
 …一处旅游景点。
 
 
-<a id="orga4590ca"></a>
+<a id="orgb30e602"></a>
 
 ### tourguide
 
@@ -8210,7 +9593,7 @@ N-COUNT A tourist is a person who is visiting a place for pleasure and interest,
 tourguide word 导游词
 
 
-<a id="org8c0851f"></a>
+<a id="org1970b4c"></a>
 
 ### adults
 
@@ -8256,7 +9639,7 @@ mature adult 成熟的成年人
 95.8%aa
 
 
-<a id="org963f778"></a>
+<a id="org9c6f799"></a>
 
 ### port
 
@@ -8317,7 +9700,7 @@ port city n. 港口城市
 port area 码头区；港口区；喷口面积
 
 
-<a id="org8842edb"></a>
+<a id="orgaabf0f1"></a>
 
 ### beach
 
@@ -8342,42 +9725,132 @@ The boat beached on a mud flat.
 96.2%
 
 
-<a id="org76efd03"></a>
+<a id="org5137541"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 13:39&gt;</span></span>98.3%
 
 
-<a id="orgfb8961f"></a>
+<a id="org3a785ec"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 18:44&gt;</span></span>98.9%
 
 
-<a id="org347567b"></a>
+<a id="org74a4a1c"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-22 Thu 07:05&gt;</span></span>99%
 
 
-<a id="orgda09e44"></a>
+<a id="org1b06cc7"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-23 Fri 05:46&gt;</span></span>99.2%
 
 
-<a id="org96e2ad8"></a>
+<a id="org91d7965"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-08 Tue 18:46&gt;</span></span>98.5%
 
 
-<a id="org6f80691"></a>
+<a id="orgbf24b01"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 07:56&gt;</span></span>97.1%
 
 
-<a id="orgbe005e3"></a>
+<a id="org775a4ea"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-12 Thu 14:43&gt;</span></span>98.8%
 
 
-<a id="org0775822"></a>
+<a id="orgce91bb9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 03:50&gt;</span></span>97.1%
+
+
+<a id="orgd92c04b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-07 Fri 04:06&gt;</span></span>97.9%
+
+
+<a id="org432b182"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-07 Fri 14:23&gt;</span></span>96.6%
+
+
+<a id="org2b0cb46"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-07 Fri 20:29&gt;</span></span>96.9%
+
+
+<a id="org049912f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-08 Sat 04:28&gt;</span></span>97.8%
+
+
+<a id="org2b5e6ce"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-08 Sat 06:12&gt;</span></span>97.5%
+
+
+<a id="org63011a8"></a>
+
+## Loud read <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-09 Sun 05:21&gt;</span></span>
+
+
+<a id="org7371a90"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-09 Sun 05:55&gt;</span></span>97.3%
+
+
+<a id="orgc289e0c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-09 Sun 14:43&gt;</span></span>98.1%
+
+
+<a id="orgea4435a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-09 Sun 20:30&gt;</span></span>98.1%
+
+
+<a id="orge4332cb"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-10 Mon 01:21&gt;</span></span>99.1%
+
+
+<a id="org14d865b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-14 Fri 04:59&gt;</span></span>97.5%
+
+
+<a id="org3a26bb5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-16 Sun 05:10&gt;</span></span>98.4%
+
+
+<a id="org3c60585"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-18 Tue 08:01&gt;</span></span>98.6%
+
+
+<a id="orgd588fce"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-21 Fri 20:00&gt;</span></span>99.3%
+
+
+<a id="orgc91c278"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-27 Thu 19:03&gt;</span></span>99.5%
+
+
+<a id="orgdbb6639"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 05:19&gt;</span></span>99.5%
+
+
+<a id="org9e02ca2"></a>
+
+## Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 06:03&gt;</span></span>
+
+
+<a id="org0f8b384"></a>
 
 ## Lesson 26
 
@@ -8461,22 +9934,22 @@ When women travel, do they wear long dresses or jeans? They wear jeans.
 When people cross the street, does trasport move or stop? Transport stops.
 
 
-<a id="org4ba25f0"></a>
+<a id="org8e7fd81"></a>
 
 # lesson twenty seven
 
 
-<a id="org9307124"></a>
+<a id="org6d0de6e"></a>
 
 ## Review twenty seven 95.7%
 
 
-<a id="org9a9fa0e"></a>
+<a id="org82ee5dc"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-21 Wed 06:08&gt;</span></span>98.6%
 
 
-<a id="orgcfcc51f"></a>
+<a id="orgbba29e7"></a>
 
 ## text
 
@@ -8554,22 +10027,72 @@ Do they eat cheese for breakfast? Yes, they do.
 97.4%
 
 
-<a id="orgf2482bc"></a>
+<a id="orgf44d98d"></a>
 
 ## Review twenty severn 96.6%
 
 
-<a id="org7b8a62a"></a>
+<a id="org9a245a4"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 08:27&gt;</span></span>97.1%
 
 
-<a id="org1e1cdb2"></a>
+<a id="org04ee014"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-13 Fri 08:06&gt;</span></span>98.8%
 
 
-<a id="orgf5be39a"></a>
+<a id="org571a67d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 04:25&gt;</span></span>98.1%
+
+
+<a id="org4bdc319"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-07 Fri 03:35&gt;</span></span>97.1%
+
+
+<a id="orgdcf1499"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-14 Fri 05:32&gt;</span></span>97.8%
+
+
+<a id="orge208d67"></a>
+
+## Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-14 Fri 06:26&gt;</span></span>
+
+
+<a id="org3df63ce"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-15 Sat 18:12&gt;</span></span>98.3%
+
+
+<a id="org63f1083"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-18 Tue 19:42&gt;</span></span>97.9%
+
+
+<a id="org9b25baf"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-19 Wed 05:21&gt;</span></span>98.6%
+
+
+<a id="orgdd4bb6d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-21 Fri 19:31&gt;</span></span>99.6%
+
+
+<a id="orgabb1280"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-28 Fri 04:14&gt;</span></span>99.7%
+
+
+<a id="orge0c628a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-30 Sun 04:44&gt;</span></span>99.5%
+
+
+<a id="org7fcff51"></a>
 
 ## Lesson 27
 
@@ -8649,44 +10172,44 @@ Do they eat bread and butter for breakfast? Yes, they do.
 Do the guests like the party? Yes, the guests like the party very much.
 
 
-<a id="orga7bcd37"></a>
+<a id="org14666b5"></a>
 
 ## Review handwriteing
 
 
-<a id="org10ca53d"></a>
+<a id="orgae93f9c"></a>
 
 # lesson twenty eight
 
 
-<a id="org195b26c"></a>
+<a id="org4317839"></a>
 
 ## Review twenty eight 95.3%
 
 good
 
 
-<a id="org710da12"></a>
+<a id="orgea7cab9"></a>
 
 ## Review twenty eight 93.4
 
 
-<a id="org45d1aff"></a>
+<a id="org8ab0b00"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 05:32&gt;</span></span>99.1%
 
 
-<a id="orga7075c4"></a>
+<a id="orgde0de4b"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 19:45&gt;</span></span>99.7%
 
 
-<a id="orge8f9e33"></a>
+<a id="orga64b5e4"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-14 Wed 20:37&gt;</span></span>97.2%
 
 
-<a id="orgf0ecb2b"></a>
+<a id="org5f688d1"></a>
 
 ## text
 
@@ -8762,12 +10285,12 @@ Both people and animals  like good weather.
 95.7%
 
 
-<a id="org1606e1b"></a>
+<a id="orgf6a740d"></a>
 
 ## workds
 
 
-<a id="orgd6faf29"></a>
+<a id="orgee2e04c"></a>
 
 ### mountain
 
@@ -8775,14 +10298,14 @@ n.山；山脉
 A mountain is a very high area of land whith steep sides
 
 
-<a id="org831ba60"></a>
+<a id="org674a103"></a>
 
 ### forest
 
 A forest is a large area where trees grow close together.
 
 
-<a id="orgfb3e815"></a>
+<a id="orgf7ca442"></a>
 
 ### palm
 
@@ -8816,7 +10339,7 @@ palm beach 棕榈滩（位于美国佛罗里达州东南部）
 1.  I kissed his palm
 
 
-<a id="orgc1f3c28"></a>
+<a id="orgb70a6a7"></a>
 
 ### cactus
 
@@ -8826,7 +10349,7 @@ A cactus is a thick, fleshy plant that grows in many hot,dry parts of the world.
 Cacti have no leaves and many of them are covered in prickles.
 
 
-<a id="org63e410f"></a>
+<a id="org8e185da"></a>
 
 ### camel
 
@@ -8840,7 +10363,7 @@ and people. Camels have long necks and one or two lmmps on their backs called
 humps.
 
 
-<a id="orga9158a0"></a>
+<a id="orge07e40d"></a>
 
 ### swan
 
@@ -8858,21 +10381,21 @@ Toads pursuit of swans, swan disdain said: If I as long as you die!
 癞蛤蟆追求天鹅，天鹅不屑地说：我要是长成你这样早去死了！
 
 
-<a id="org26b6b6b"></a>
+<a id="org4d538d4"></a>
 
 ### seagull
 
 N-COUNT A seagull is a common kind of bird with white or grey feathers. 海鸥
 
 
-<a id="orgd731b25"></a>
+<a id="orgfd7a6aa"></a>
 
 ### squirrel
 
 N-COUNT A squirrel is a small animal with a long furry tail. Squirrels live mainly in trees. 松鼠
 
 
-<a id="org3d9855f"></a>
+<a id="orgb102ac9"></a>
 
 ### parrot
 
@@ -8885,7 +10408,7 @@ vt. 机械地模仿
 3.  Generations of students have learned to parrot the standard explanations.
 
 
-<a id="org03d4f7f"></a>
+<a id="org11d55d1"></a>
 
 ### fruit
 
@@ -8916,12 +10439,67 @@ Eleanor's work among the women will, I trust, bear fruit.
 96.5 %
 
 
-<a id="org5b646aa"></a>
+<a id="org50c9ad7"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-13 Fri 14:41&gt;</span></span>98%
 
 
-<a id="org09cffbe"></a>
+<a id="org90b66d2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 05:21&gt;</span></span>96.9%
+
+
+<a id="org064a171"></a>
+
+## Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 05:40&gt;</span></span>
+
+
+<a id="org6193f33"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 20:09&gt;</span></span>97.8%
+
+
+<a id="orga9e8994"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-06 Thu 07:36&gt;</span></span>97.2%
+
+
+<a id="orgaa6734c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-06 Thu 14:36&gt;</span></span>98.3%
+
+
+<a id="orgc965a55"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-14 Fri 08:49&gt;</span></span>96.5%
+
+
+<a id="org38995e8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-15 Sat 15:23&gt;</span></span>98.3%
+
+
+<a id="orgd7ae30d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-19 Wed 07:25&gt;</span></span>99.2%
+
+
+<a id="org3a81416"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-21 Fri 16:13&gt;</span></span>99.8%
+
+
+<a id="orga47b312"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-28 Fri 05:32&gt;</span></span>99.7%
+
+
+<a id="org42a0c23"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-29 Sat 21:38&gt;</span></span>99.2%
+
+
+<a id="orgb4ba31d"></a>
 
 ## Lesson 28
 
@@ -8996,24 +10574,24 @@ This is a view of the city in bad weather.
 People do not like to walk in bad weather.
 
 
-<a id="org7363e06"></a>
+<a id="orgbbcb064"></a>
 
 ## Review writing
 
 
-<a id="org66d6205"></a>
+<a id="orga7f904e"></a>
 
 # lesson twenty nine
 
 
-<a id="org852f6cc"></a>
+<a id="orge9454ce"></a>
 
 ## Review twenty nine 96.3%
 
 better
 
 
-<a id="orge46dbf5"></a>
+<a id="org9232b5c"></a>
 
 ## text
 
@@ -9091,7 +10669,7 @@ The woman is playing with sand.
 96.9%
 
 
-<a id="org0e106b7"></a>
+<a id="orgbb98eff"></a>
 
 ### word <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-07-18 Mon&gt;</span></span>
 
@@ -9359,27 +10937,87 @@ The woman is playing with sand.
     96.5%
 
 
-<a id="orgbb2b70c"></a>
+<a id="org9e33677"></a>
 
 ## Review twenty nine 96%
 
 
-<a id="org99d1757"></a>
+<a id="org4ba4af4"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-24 Sat 20:05&gt;</span></span>99.4%
 
 
-<a id="org93007b5"></a>
+<a id="orged14994"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-15 Thu 07:24&gt;</span></span>97.3%
 
 
-<a id="orge214a43"></a>
+<a id="org0b282c9"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-14 Sat 05:35&gt;</span></span>98.8%
 
 
-<a id="orgf1b2f80"></a>
+<a id="orge91c812"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 07:35&gt;</span></span>97.4%
+
+
+<a id="orgc8ef787"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 14:28&gt;</span></span>
+
+
+<a id="org2066755"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 18:02&gt;</span></span>97.9%
+
+
+<a id="org2c3ea10"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-06 Thu 05:15&gt;</span></span>97.8%
+
+
+<a id="orgda084d5"></a>
+
+## Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-07 Fri 06:00&gt;</span></span>
+
+
+<a id="org64ea4d0"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-14 Fri 14:08&gt;</span></span>97.7%
+
+
+<a id="org4aaef07"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-15 Sat 09:08&gt;</span></span>97%
+
+
+<a id="org94f35be"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-19 Wed 14:39&gt;</span></span>97.9%
+
+
+<a id="orge58683e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-20 Thu 14:46&gt;</span></span>98.5%
+
+
+<a id="org44575c7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-21 Fri 14:52&gt;</span></span>99.6%
+
+
+<a id="org56e67bc"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-28 Fri 08:41&gt;</span></span>99.6%
+
+
+<a id="org89cd44f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-29 Sat 18:15&gt;</span></span>99.3%
+
+
+<a id="org0096c18"></a>
 
 ## Lesson 29
 
@@ -9460,49 +11098,206 @@ This is a square in a big city. There are groups of tourists on the square.
 There are many beautiful buildings around the square.
 
 
-<a id="orgb590f06"></a>
+<a id="orgb631fa7"></a>
 
 ## Review writing
 
 
-<a id="org5ce63f6"></a>
+<a id="org33a2edf"></a>
 
 # lesson thirty
 
 
-<a id="org22a017c"></a>
+<a id="org9293356"></a>
 
 ## Review thirty 93.9%
 
 three pargraph
 
 
-<a id="orgc6135f2"></a>
+<a id="org989bc1c"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-25 Sun 08:18&gt;</span></span>97.2%
 
 
-<a id="org7e1f736"></a>
+<a id="orgbd6c39a"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-26 Mon 05:25&gt;</span></span>97.9%
 
 
-<a id="org2dc1b02"></a>
+<a id="orgc8ac423"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 05:15&gt;</span></span>98.4%
 
 
-<a id="orga824250"></a>
+<a id="org2dc75c4"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-25 Fri 05:27&gt;</span></span>98.4%
 
 
-<a id="orgd29f0d4"></a>
+<a id="org4712868"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-15 Thu 08:09&gt;</span></span>95.9%
 
 
-<a id="org738c262"></a>
+<a id="org9957581"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-27 Mon 07:01&gt;</span></span>95.8%
+
+王院长来检查教学情况8：00-9：00
+
+
+<a id="org7442fcb"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-01 Wed 05:30&gt;</span></span>32,30
+
+
+<a id="org7de7556"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-01 Wed 08:14&gt;</span></span>three pages,tow pages,one page
+
+
+<a id="orgba30a2d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 04:52&gt;</span></span>97.9%
+
+
+<a id="orga4c1947"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-06 Mon 04:21&gt;</span></span>
+
+
+<a id="orga1c5226"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-07 Tue 03:44&gt;</span></span>
+
+
+<a id="orgae9f38e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-07 Tue 04:02&gt;</span></span>97.3%
+
+
+<a id="org631ddae"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-11 Sat 05:22&gt;</span></span>
+
+
+<a id="org8d4b0ca"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-11 Sat 06:17&gt;</span></span>97.3%
+
+
+<a id="orgd654709"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-12 Sun 07:15&gt;</span></span>
+
+
+<a id="orgf9ff555"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-13 Mon 05:35&gt;</span></span>30,31
+
+
+<a id="org30726bf"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 05:39&gt;</span></span>97.1%
+
+
+<a id="org471a604"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-30 Thu 06:05&gt;</span></span>
+
+
+<a id="org075dc2f"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-31 Fri 06:03&gt;</span></span>
+
+
+<a id="org375f7f9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-01 Sat 14:15&gt;</span></span>97.9%
+
+
+<a id="org7757746"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-01 Sat 18:59&gt;</span></span>98.2%
+
+
+<a id="org524bcad"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-02 Sun 06:21&gt;</span></span>98%
+
+
+<a id="org93aac3b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-05 Wed 11:19&gt;</span></span>97%
+
+
+<a id="org17f7a4a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-06 Thu 04:02&gt;</span></span>98.2%
+
+
+<a id="orgb9d2eb4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-14 Fri 18:45&gt;</span></span>97%
+
+
+<a id="org6ae5f40"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-15 Sat 04:29&gt;</span></span>98.2%
+
+
+<a id="orgd79198a"></a>
+
+## Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-17 Mon 06:21&gt;</span></span>
+
+
+<a id="org7d79f4f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-19 Wed 20:35&gt;</span></span>97.7%
+
+
+<a id="orgcf297ec"></a>
+
+## Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-20 Thu 05:30&gt;</span></span>
+
+
+<a id="org31d351a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-20 Thu 05:46&gt;</span></span>98.8%
+
+
+<a id="org1036598"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-21 Fri 06:10&gt;</span></span>98.3%
+
+
+<a id="org3c48c5e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-29 Sat 03:02&gt;</span></span>99.4%
+
+
+<a id="org48b5f4a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-04-29 Sat 14:17&gt;</span></span>99.3%
+
+
+<a id="org29e2717"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-11 Thu 06:37&gt;</span></span>97.5%
+
+
+<a id="org46f6e8d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-11 Thu 11:18&gt;</span></span>97.7%
+
+
+<a id="org80173a6"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-12 Fri 05:50&gt;</span></span>98.5%
+
+
+<a id="orgdb570d8"></a>
 
 ## Lesson 30
 
@@ -9608,7 +11403,7 @@ Why are the girls sleeping during the lesson? They are sleeping because the
 lesson is boring.
 
 
-<a id="org62e2033"></a>
+<a id="orgf932241"></a>
 
 ## text
 
@@ -9736,12 +11531,12 @@ of it because it is beautiful.
 96.2%后两节抄的。
 
 
-<a id="org2b21bbd"></a>
+<a id="org86ec8f2"></a>
 
 ## word
 
 
-<a id="org36b18d4"></a>
+<a id="org38c92ed"></a>
 
 ### desert
 
@@ -9779,12 +11574,12 @@ She led them into a deserted sidestreet.
         leave that job without persission.
 
 
-<a id="orgfeb73b9"></a>
+<a id="orga215e82"></a>
 
 ### permission n 允许，许可
 
 
-<a id="org07d72ec"></a>
+<a id="org0c1e6b8"></a>
 
 ### pants
 
@@ -9793,7 +11588,7 @@ She led them into a deserted sidestreet.
 2.  n. Pants are piece of underwear which two holes to put your legs through and elastic around the top to hold them up around your waist or hips.内裤
 
 
-<a id="org79ef3d7"></a>
+<a id="orga479c69"></a>
 
 ### lap
 
@@ -9801,7 +11596,7 @@ n.膝盖
 If you have something on your lap when you are sitting down, it is on top of your legs and near to your body.(人坐着时的）大腿部
 
 
-<a id="org3b46668"></a>
+<a id="org88fe987"></a>
 
 ### parents
 
@@ -9815,7 +11610,7 @@ Jane braved the wrath of her parents by refusing to marry the man they had
 chosen.
 
 
-<a id="org818bf9d"></a>
+<a id="orgc64bc09"></a>
 
 ### customer
 
@@ -9831,7 +11626,7 @@ The quality of customer service is extremely important.
 客户服务质量极其重要。
 
 
-<a id="orgd6b1bb1"></a>
+<a id="orgc625fd1"></a>
 
 ### sale
 
@@ -9841,7 +11636,7 @@ n. (Sale)人名；(意、塞、瑞典)萨莱；(英、萨摩)塞尔；(法)萨�
 A sale is an occasion when a shop sells things at less than their normal price.
 
 
-<a id="org0b90ae1"></a>
+<a id="orgc451630"></a>
 
 ### person
 
@@ -9849,7 +11644,7 @@ n. A person is a man,woman, or child.
 At least one person died and serveral others were injured.
 
 
-<a id="orgea8b4b8"></a>
+<a id="orgbc2b1e9"></a>
 
 ### traffic jam
 
@@ -9858,7 +11653,7 @@ A traffic jam is a long line of vehicles that cannot move forward because there
 is too much traffic, or because the road is blcoked by something.
 
 
-<a id="orgd86f8e3"></a>
+<a id="orgb23e2a9"></a>
 
 ### vehicles
 
@@ -9868,7 +11663,7 @@ A vehicle is a machine with an engine, such as a bus, car, or truck, that
 carries people or things from place to place.
 
 
-<a id="org1573b52"></a>
+<a id="org463716a"></a>
 
 ### in order to
 
@@ -9876,7 +11671,7 @@ carries people or things from place to place.
 In order to compass our object we must work hard.
 
 
-<a id="org93e2196"></a>
+<a id="org521ef4d"></a>
 
 ### spectator
 
@@ -9899,7 +11694,7 @@ But this is not a spectator sport.
 但是你们不能只做观众
 
 
-<a id="orgba4e16d"></a>
+<a id="org9efa61c"></a>
 
 ### performance
 
@@ -9926,7 +11721,7 @@ performance management
 绩效管理业绩管理 性能管理
 
 
-<a id="org3befb03"></a>
+<a id="orge3ae17b"></a>
 
 ### programme
 
@@ -9935,7 +11730,7 @@ vi. 编程序；制作节目
 vt. 规划；拟…计划
 
 
-<a id="orgb225a0e"></a>
+<a id="orge1fb4ae"></a>
 
 ### though
 
@@ -9946,21 +11741,21 @@ Everything I told them was correct, though I forgot a few things.
 I like him. Though he makes me angry sometimes.
 
 
-<a id="org01d0bc3"></a>
+<a id="orgac61d52"></a>
 
 ### even though
 
 虽然，即使
 
 
-<a id="orga4c59dd"></a>
+<a id="orga44cbe1"></a>
 
 ### although
 
 conj. 尽管；虽然；但是；然而
 
 
-<a id="org5c95efb"></a>
+<a id="org463abdf"></a>
 
 ### would rather 宁愿，宁可
 
@@ -9969,7 +11764,7 @@ I would rather have noodles than rice.
 I would rather do what makes me fulfilled.
 
 
-<a id="org785efee"></a>
+<a id="org39af993"></a>
 
 ### celebrate
 
@@ -9977,7 +11772,7 @@ vt. 庆祝；举行；赞美；祝贺；宣告
 vi. 庆祝；过节；举行宗教仪式
 
 
-<a id="orgb5d43b2"></a>
+<a id="org01804ba"></a>
 
 ### across from
 
@@ -9988,7 +11783,7 @@ I looked up at my friend sitting across from me.
 我抬头看向坐在我对面的朋友。
 
 
-<a id="org71a125a"></a>
+<a id="orgc6a4c52"></a>
 
 ### instead
 
@@ -9997,7 +11792,7 @@ Instead of abating, the wind is blowing even harder.
 风不但没停，反而越刮越大了。
 
 
-<a id="org53574da"></a>
+<a id="org4f6761a"></a>
 
 ### boring
 
@@ -10008,12 +11803,12 @@ n. (Boring)人名；(英、瑞典)博林
 96.9%
 
 
-<a id="org3d5427a"></a>
+<a id="org3aacd64"></a>
 
 ## Review thirty 95.8% &#x2013;>96.9%
 
 
-<a id="org0e93942"></a>
+<a id="orge0ba286"></a>
 
 ## across
 
@@ -10114,7 +11909,7 @@ We can gain some time if we cut across this field.
 我们如果抄近路穿过这片田野可以省下一些时间。
 
 
-<a id="orgacd1419"></a>
+<a id="org776b3d8"></a>
 
 ## cross
 
@@ -10214,7 +12009,7 @@ The Chinese Red Cross contributed a generous sum to the relief of the physically
 中国红十字会慷慨捐赠一笔巨款以救济残疾人。
 
 
-<a id="org863bc8f"></a>
+<a id="org6386f65"></a>
 
 ## lap
 
@@ -10225,12 +12020,12 @@ vi. 重叠；轻拍；围住
 n. (Lap)人名；(越)立
 
 
-<a id="org9865b3b"></a>
+<a id="org1795219"></a>
 
 # Lesson thirty one 95%
 
 
-<a id="org50bc203"></a>
+<a id="org1f41ee9"></a>
 
 ## 复习 95.0%
 
@@ -10397,17 +12192,17 @@ The man is checking where his money is.
 The woman is checking her flight on her ticket.
 
 
-<a id="org6b0e278"></a>
+<a id="orgfc603ac"></a>
 
 ## 复习96.2%
 
 
-<a id="orge7fc529"></a>
+<a id="org8d085ac"></a>
 
 ## Review thirty one 94.8%
 
 
-<a id="org016fa34"></a>
+<a id="org2e7d370"></a>
 
 ## Review Thirty one 95.3%->94.9%
 
@@ -10421,32 +12216,124 @@ computer
 s
 
 
-<a id="org90163a9"></a>
+<a id="orgb5b69ca"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-27 Tue 16:20&gt;</span></span>97.6%
 
 
-<a id="org90184a4"></a>
+<a id="orgf9d2a23"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 05:00&gt;</span></span>99.4%
 
 
-<a id="org10aa771"></a>
+<a id="org137988d"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-21 Mon 05:23&gt;</span></span>98.2%
 
 
-<a id="org3a4fda3"></a>
+<a id="org19d736a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-06 Tue 07:14&gt;</span></span>97.4%
 
 
-<a id="org7b7bbda"></a>
+<a id="org161b75f"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-07 Wed 04:46&gt;</span></span>96.5%
 
 
-<a id="orgcaa9ff5"></a>
+<a id="org3420d93"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-28 Tue 04:46&gt;</span></span>33,32,34
+
+
+<a id="org464e565"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-02 Thu 18:14&gt;</span></span>95.5%
+
+
+<a id="orga15748d"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-03 Fri 05:31&gt;</span></span>98.1%
+
+
+<a id="org15f0153"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-04 Sat 04:09&gt;</span></span>98.3%
+
+
+<a id="orgc15d108"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-08 Wed 04:14&gt;</span></span>30,31
+
+
+<a id="org032b2a3"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-08 Wed 08:27&gt;</span></span>
+
+
+<a id="orgeb56d26"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-10 Fri 04:09&gt;</span></span>
+
+
+<a id="org89b14fa"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-10 Fri 21:12&gt;</span></span>96.9%
+
+
+<a id="orgb005a78"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-11 Sat 10:00&gt;</span></span>97.6%
+
+
+<a id="org892f7e0"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-12 Sun 20:48&gt;</span></span>97.6%
+
+
+<a id="org61bd281"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-13 Mon 19:13&gt;</span></span>90.0%
+
+
+<a id="org73454af"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-02 Tue 03:52&gt;</span></span>96.3%
+
+
+<a id="orgef6b1e4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-03 Wed 04:18&gt;</span></span>97.2%
+
+
+<a id="orgd7f224f"></a>
+
+## Loud read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-03 Wed 05:46&gt;</span></span>
+
+31,32,<daodejian:28>
+
+
+<a id="org12f4abc"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-04 Thu 14:25&gt;</span></span>96.8%
+
+
+<a id="org93bc2c3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-10 Wed 15:37&gt;</span></span>98.1%
+
+
+<a id="orgc9c89d9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-12 Fri 11:24&gt;</span></span>98.7%
+
+
+<a id="org955aafb"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-12 Fri 19:07&gt;</span></span>98.3%
+
+
+<a id="org27d3f05"></a>
 
 ## Lesson 31
 
@@ -10524,24 +12411,34 @@ What is the woman doing? She is going through passport control with her child.
 What are the man and the woman doing? They are waiting for their flight.
 
 
-<a id="orga10fed5"></a>
+<a id="org92ec802"></a>
 
 # Lesson thirty two 96.2%
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-07-26 Tue 05:40]</span></span>
 
 
-<a id="org3de3d1b"></a>
+<a id="org2d14d1c"></a>
 
 ## Review thirty two 95.5%
 
 
-<a id="org1d0c1c9"></a>
+<a id="orgf0aeaa6"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-20 Sun 05:26&gt;</span></span>98.2%
 
 
-<a id="orgaa1d53c"></a>
+<a id="org0218916"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 09:02&gt;</span></span>
+
+
+<a id="orgf5831c3"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-10 Wed 06:01&gt;</span></span>97.9%
+
+
+<a id="org3804571"></a>
 
 ## Lesson 32
 
@@ -10616,7 +12513,7 @@ The woman gives the key to her daughter because she has a bag in her arms.
 The man is lying on the soft couch because he's watching television.
 
 
-<a id="org30d9f5b"></a>
+<a id="org82fbe58"></a>
 
 ## text
 
@@ -10625,7 +12522,7 @@ a floor
 a room
 
 
-<a id="orgf66718f"></a>
+<a id="org9c5d855"></a>
 
 ### a reception desk
 
@@ -10686,7 +12583,7 @@ She was asked to pour at a little reception for the performers after the concert
 a hotel
 
 
-<a id="orgf0cdd17"></a>
+<a id="org3f023c9"></a>
 
 ### a receptionist
 
@@ -10703,14 +12600,14 @@ N-COUNT In a hotel, the receptionist is the person whose job is to reserve rooms
 for people and answer their questions. (宾馆前台) 接待员
 
 
-<a id="org0f9c9d4"></a>
+<a id="org304401a"></a>
 
 ### to wash up
 
 洗漱 to wash the face and rinse the mouth 洗碗 to do the dishes;
 
 
-<a id="org012c1b0"></a>
+<a id="org7489fbd"></a>
 
 ### to offer
 
@@ -10865,7 +12762,7 @@ Seventeen thousand Indians live in Arizona on a reservation.
 17000名印第安人居住在亚利桑那州的保留地内。
 
 
-<a id="org203922e"></a>
+<a id="orgbeab368"></a>
 
 ### to take a shower 洗澡
 
@@ -10947,22 +12844,22 @@ The man is saying to the receptionist: I have reserved a room.
 The receptionist is giving the man and the woman forms.
 
 
-<a id="org52dabd0"></a>
+<a id="orge401b22"></a>
 
 ## Review Thirty two 96.5%
 
 
-<a id="org18a146a"></a>
+<a id="org036b4f9"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 05:44&gt;</span></span>98.7%
 
 
-<a id="orgaf3d377"></a>
+<a id="org91f5ce7"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 09:33&gt;</span></span>99%
 
 
-<a id="orgb2ef8c8"></a>
+<a id="orgbad754f"></a>
 
 ## section six 96.2%
 
@@ -10971,7 +12868,7 @@ The receptionist is offering the man a single room.
 The man is paying with a credit card and taking the keys.
 
 
-<a id="org0359988"></a>
+<a id="org2985a2a"></a>
 
 ### 信用卡；记帐卡
 
@@ -11047,27 +12944,64 @@ The woman is going up in the elevator because has a heavy suitcase.
 The man is lying on the soft couch because he's watching television.
 
 
-<a id="org881d67f"></a>
+<a id="orgd95c2f6"></a>
 
 ## Review Thirty two 97.1%
 
 
-<a id="orgff32b28"></a>
+<a id="orgd8ad715"></a>
 
 ## Lesson thirty three
 
 
-<a id="orgeb924bf"></a>
+<a id="orge46b5b8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-28 Tue 06:23&gt;</span></span>97.8%
+
+
+<a id="org04d8b42"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-28 Tue 14:45&gt;</span></span>98%
+
+千锋科技来访
+
+
+<a id="org69d00bf"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-02 Thu 05:29&gt;</span></span>32,33,34
+
+
+<a id="orgdfbbd2d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-13 Mon 18:44&gt;</span></span>99.1%
+
+
+<a id="orgdc20cbc"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-02 Tue 04:58&gt;</span></span>97.9%
+
+
+<a id="orgfdebcc8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-02 Tue 20:57&gt;</span></span>98.1%
+
+
+<a id="org6ba1fca"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-13 Sat 05:15&gt;</span></span>98.6%
+
+
+<a id="org4656b38"></a>
 
 # Review thirty three 95.3%
 
 
-<a id="org9ee7d93"></a>
+<a id="orgcdb41c1"></a>
 
 ## text
 
 
-<a id="org5d94c1c"></a>
+<a id="org9ad58da"></a>
 
 ### blinds
 
@@ -11154,7 +13088,7 @@ People who cannot distinguish between colours are said to be colour-blind.
 不能分辨颜色的人被称为色盲。
 
 
-<a id="orgdde1409"></a>
+<a id="orgb086871"></a>
 
 ### ceiling
 
@@ -11201,7 +13135,7 @@ A high ceiling gives a feeling of airness and spaciousness.
 天花板高给人一种通风和宽敞的感觉。
 
 
-<a id="org0113ab1"></a>
+<a id="org5afc039"></a>
 
 ### drapes
 
@@ -11254,12 +13188,12 @@ Others drape them over chairs or throw them on the floor or bed, and sorting thr
 别人会将它们褶盖在椅子上或者将他们扔在地板上，留着之后收拾。 这便成了主要的家庭杂务。
 
 
-<a id="orga1e6179"></a>
+<a id="org63d081f"></a>
 
 ### a floor
 
 
-<a id="org8fd403e"></a>
+<a id="orgc4a23c1"></a>
 
 ### balcony
 
@@ -11290,7 +13224,7 @@ She gestured her intention of joining them by waving from the balcony.
 她在阳台上挥手示意要加入他们队伍。
 
 
-<a id="org36d6337"></a>
+<a id="org4ce512f"></a>
 
 ### fireplace
 
@@ -11328,14 +13262,14 @@ When we turned to leave, she spanked us hard on our rear with the fireplace shov
 当我们转身离开时，她用壁炉铲重重地打了一下我们的后屁股。
 
 
-<a id="orga5fbaaf"></a>
+<a id="org0284d25"></a>
 
 ### to look for 寻找
 
 to stand
 
 
-<a id="orgd5b452f"></a>
+<a id="org1131861"></a>
 
 ### hang
 
@@ -11426,7 +13360,7 @@ He ran a nail into the wall to hang his painting.
 他在墙上钉了一个钉子挂上他的绘画。
 
 
-<a id="org9cc9046"></a>
+<a id="orgc1ebb1c"></a>
 
 ### fit
 
@@ -11551,7 +13485,7 @@ You should fit your style of living to your circumstances.
 你应当让你的生活方式适应环境。
 
 
-<a id="orgf771a7e"></a>
+<a id="org7746b24"></a>
 
 ### chandelier
 
@@ -11567,7 +13501,7 @@ A crystal chandelier lit the room.
 一盏水晶吊灯照亮了房间。
 
 
-<a id="org1e28e56"></a>
+<a id="orgbfde67a"></a>
 
 ### rug
 
@@ -11591,7 +13525,7 @@ If the banks opt to pull the rug from under the ill-fated project, it will go in
 如果这些银行选择不再支持那项倒霉的工程，它就将破产。
 
 
-<a id="orgb9c838f"></a>
+<a id="orga1cb810"></a>
 
 ### 英  ['pɪləʊ]  美  ['pɪlo]
 
@@ -11632,12 +13566,12 @@ She was sobbing her loneliness into her pillow.
 她伏枕啜泣以泄心中的孤寂。
 
 
-<a id="org9b9ba57"></a>
+<a id="org08587b2"></a>
 
 ### a floor lamp
 
 
-<a id="orgb5711f9"></a>
+<a id="org79131a4"></a>
 
 ### bed sheets
 
@@ -11707,7 +13641,7 @@ She laid a spring mattress under the sheet.
 她在床单下面铺了一个弹簧床垫。
 
 
-<a id="orgdce1266"></a>
+<a id="org449f3cb"></a>
 
 ### a blanket
 
@@ -11762,14 +13696,14 @@ He lapped his daughter in a warm blanket.
 他把女儿裹在一个暖和的毯子里。
 
 
-<a id="orgc1dcdfa"></a>
+<a id="org5ddc97a"></a>
 
 ### the other 英   美
 
 另一个
 
 
-<a id="orgf1292e5"></a>
+<a id="orgd65f65f"></a>
 
 ### none
 
@@ -11834,7 +13768,7 @@ None of this was discussed or communicated to me. He went his own way.
 此事根本没有讨论过， 也没有通知过我， 是他独断独行。
 
 
-<a id="org855884f"></a>
+<a id="org373754e"></a>
 
 ### outside
 
@@ -11944,7 +13878,7 @@ Members are asked not to ventilate club problems outside this meeting.
 会员不得在这次会议之外公开谈论俱乐部问题。
 
 
-<a id="org48488b6"></a>
+<a id="orgeaba57e"></a>
 
 ### inside
 
@@ -12068,12 +14002,12 @@ On the ceiling hangs a beautiful, valuable, big chandelier.
 On the window in the living room hang beautiful, grren drapes.
 
 
-<a id="org4ab9f0f"></a>
+<a id="orgb0e6fa2"></a>
 
 ## Review Thirty three 96.4%
 
 
-<a id="org526aa90"></a>
+<a id="org1ffeaff"></a>
 
 ## continue thirty tree
 
@@ -12092,7 +14026,7 @@ One this window hang blinds, but on the other - curtains.
 In all of the expensive hotel rooms there is a beautiful fireplace.
 
 
-<a id="org687a18d"></a>
+<a id="org8bbe98a"></a>
 
 ## continue learn 32 96.1%
 
@@ -12138,27 +14072,97 @@ The woman works in the hotel, so she brings clean bed sheets to the room.
 The book isn't on the table, so the man is looking for it in the cabinet.
 
 
-<a id="org4451613"></a>
+<a id="org991bf21"></a>
 
 ## Review 33
 
 
-<a id="orgaeb7584"></a>
+<a id="org77a0e7f"></a>
 
 ## Review 33 95.2%
 
 
-<a id="orgf2295d9"></a>
+<a id="orgd071f38"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-28 Wed 16:11&gt;</span></span>98.5%
 
 
-<a id="org26bbb1a"></a>
+<a id="org956db82"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-19 Sat 09:54&gt;</span></span>98.4%
 
 
-<a id="org3805bf1"></a>
+<a id="org8614bb4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 18:00&gt;</span></span>97.8%
+
+
+<a id="orgdf45b70"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-26 Sun 07:59&gt;</span></span>98.3%
+
+
+<a id="org43bec1c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-26 Sun 15:13&gt;</span></span>98.1%
+
+
+<a id="org8e8e6cf"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-27 Mon 18:29&gt;</span></span>
+
+
+<a id="orge5055ec"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-27 Mon 20:51&gt;</span></span>98.7%
+
+
+<a id="org3c7721b"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 06:48&gt;</span></span>
+
+
+<a id="orgc14cad3"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-14 Tue 05:26&gt;</span></span>
+
+
+<a id="orgb1574cf"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-14 Tue 06:07&gt;</span></span>98.1%
+
+
+<a id="org9f0cb81"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-02 Tue 14:05&gt;</span></span>96.8%
+
+
+<a id="org55ae26c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-02 Tue 18:19&gt;</span></span>98.2%
+
+
+<a id="org13c77d6"></a>
+
+### A chandelier is a large, decorative frame which holds light bulbs or candles and hangs from the ceiling.
+
+
+<a id="orgf6ff0c7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-04 Thu 05:26&gt;</span></span>97.9%
+
+
+<a id="orgcd7e759"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-09 Tue 19:16&gt;</span></span>97.7%
+
+
+<a id="org721f686"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-13 Sat 10:40&gt;</span></span>98%
+
+
+<a id="orgd7a3942"></a>
 
 ## Lesson 33
 
@@ -12193,7 +14197,7 @@ In all of the expensive hotel rooms there is a beautiful fireplace.
 On all of the windows hang blinds.
 The bag is outside the closet.
 The clothes are inside the closet.
-Inside the house it's warm, but outside it's cold.
+ Inside the house it's warm, but outside it's cold.
 A father and son are sitting at a table outside. They don't see the people who
 are sitting inside.
 Inside the fireplace it's dirty, but outside it's clean.
@@ -12229,31 +14233,76 @@ In the room it's cold, so the boy is lying under a thick blanket.
 The cat isn't in the room, so the boy is looking for it in the cabinet.
 
 
-<a id="orgd57eedc"></a>
+<a id="org6d46820"></a>
 
 # thirty four
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-07-29 Fri 06:53]</span></span>
 
 
-<a id="org6ebde5d"></a>
+<a id="org3454a24"></a>
 
 ## Review thirty four 97->95.4%
 
 左手痛。效果打折。
 
 
-<a id="orgf324c2c"></a>
+<a id="orga8cce41"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-19 Sat 05:38&gt;</span></span>96.9%
 
 
-<a id="org33c4cce"></a>
+<a id="orgeffbf22"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-07 Wed 07:59&gt;</span></span>97.7%
 
 
-<a id="orgf516c46"></a>
+<a id="org5f46bfc"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 10:41&gt;</span></span>95%
+
+
+<a id="org2891594"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 11:13&gt;</span></span>
+
+
+<a id="org42edd9e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 15:19&gt;</span></span>98.4%
+
+
+<a id="org0d12009"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 20:22&gt;</span></span>97.8%
+
+
+<a id="org2246afe"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-26 Sun 04:02&gt;</span></span>34,33,32
+
+
+<a id="org5ca83a2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-26 Sun 16:25&gt;</span></span>98.7%
+
+
+<a id="org2cf5d5d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-05 Fri 04:40&gt;</span></span>96.4%
+
+
+<a id="org8e534c1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-09 Tue 05:47&gt;</span></span>97.4%
+
+
+<a id="org506fd5b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-13 Sat 15:29&gt;</span></span>98.3%
+
+
+<a id="orgb4029a9"></a>
 
 ## Lesson 34
 
@@ -12321,12 +14370,12 @@ Does the girl know how to prepare vegetable salad? Yes, she prepares vegetable
 salad well.
 
 
-<a id="org4dce5b1"></a>
+<a id="org4d163c6"></a>
 
 ## text
 
 
-<a id="orgde2021d"></a>
+<a id="org692148e"></a>
 
 ### salad
 
@@ -12365,7 +14414,7 @@ He mixed his son a salad.
 他为儿子调制了一盘色拉。
 
 
-<a id="orgcadd4c8"></a>
+<a id="orgc39e8bb"></a>
 
 ### mushrooms
 
@@ -12412,7 +14461,7 @@ At the level of our cells, humans have far more in common with mushrooms, magnol
 article.yeeyan.org
 
 
-<a id="orgea4dd0c"></a>
+<a id="org9fdb7e9"></a>
 
 ### cabbage
 
@@ -12452,7 +14501,7 @@ When the water boils add the meat and the cabbage.
 水开时加入肉和洋白菜。
 
 
-<a id="org6211a23"></a>
+<a id="orgb03e36d"></a>
 
 ### onion
 
@@ -12495,7 +14544,7 @@ As you peel away the onion skin,you will find another skin underneath.
 你剥去洋葱皮时，你会发现皮下还有皮。
 
 
-<a id="org5a049f8"></a>
+<a id="org5b48804"></a>
 
 ### mashed potatoes
 
@@ -12534,7 +14583,7 @@ Put it into the pan with potatoes – boiled and mashed.
 article.yeeyan.org
 
 
-<a id="orgce2e31b"></a>
+<a id="org20b5391"></a>
 
 ### soup
 
@@ -12550,27 +14599,27 @@ N-MASS Soup is liquid food made by boiling meat, fish, or vegetables in water. �
 …自家做的鸡汤。
 
 
-<a id="org562c6d3"></a>
+<a id="org2a843f9"></a>
 
 ### to bring food
 
 
-<a id="org947a5ad"></a>
+<a id="orga16cde6"></a>
 
 ### to cook
 
 
-<a id="org63147c1"></a>
+<a id="orgf17b1cc"></a>
 
 ### to bake
 
 
-<a id="org8e020a9"></a>
+<a id="orgdd0f6d0"></a>
 
 ### to boil
 
 
-<a id="orgd8af99c"></a>
+<a id="org2417a30"></a>
 
 ### to fry
 
@@ -12584,17 +14633,17 @@ fry *fraɪ*  CET4
 V-T When you fry food, you cook it in a pan that contains hot fat or oil. 炸
 
 
-<a id="org8e0c44b"></a>
+<a id="orgbd19b2e"></a>
 
 ### to try
 
 
-<a id="orgb5cb715"></a>
+<a id="orgad4cda8"></a>
 
 ### hot
 
 
-<a id="orgbc348dd"></a>
+<a id="org6baa4b5"></a>
 
 ### boiled
 
@@ -12669,12 +14718,12 @@ Here's some boiled water. Have a drink whenever you're thirsty.
 www.kfyes.com
 
 
-<a id="orgb3f438c"></a>
+<a id="orgab4baf4"></a>
 
 ### cold
 
 
-<a id="orgf72c6d2"></a>
+<a id="org7f92273"></a>
 
 ### fried
 
@@ -12708,7 +14757,7 @@ kentucky fried 肯德基（来自美国的著名连锁快餐厅）
 kentucky fried chicken 肯德基
 
 
-<a id="org1200861"></a>
+<a id="orgfe03541"></a>
 
 ### tasty
 
@@ -12746,7 +14795,7 @@ They might look tasty but you probably wouldn't want one of these on your toast 
 article.yeeyan.org
 
 
-<a id="orge872177"></a>
+<a id="org3f777d0"></a>
 
 ### fresh
 
@@ -12827,7 +14876,7 @@ To make sure that the eggs are fresh, we had better candle them one by one.
 为了查明鸡蛋是否新鲜，我们最好将鸡蛋一一对着光检查一遍。
 
 
-<a id="org72c6854"></a>
+<a id="orgcda5445"></a>
 
 ### pie with cabbage
 
@@ -12881,37 +14930,37 @@ Can you see the little fellow walking into the pie?
 你能看到那个正贪婪吃馅饼的小家伙吗?
 
 
-<a id="org94379a8"></a>
+<a id="orgc0b9257"></a>
 
 ### pie with mashrooms
 
 
-<a id="org442b4e3"></a>
+<a id="orgba00179"></a>
 
 ### pie with potato
 
 
-<a id="orge13e690"></a>
+<a id="orgc611b02"></a>
 
 ### pie with meat
 
 
-<a id="orgf6dcf0c"></a>
+<a id="orgaa97dcf"></a>
 
 ### pie with onion and egg
 
 
-<a id="orgf2e9c9a"></a>
+<a id="org2d2539f"></a>
 
 ### pie
 
 
-<a id="orgbc0ad6e"></a>
+<a id="orgbb37458"></a>
 
 ### drinks
 
 
-<a id="org67c33b3"></a>
+<a id="org64c762a"></a>
 
 ### appetizers
 
@@ -12923,7 +14972,7 @@ appetizer *ˈæpɪˌtaɪzə*
 N-COUNT An appetizer is the first course of a meal. It consists of a small amount of food. 开胃菜
 
 
-<a id="org007e2ff"></a>
+<a id="orgf7f0850"></a>
 
 ### a bar
 
@@ -13026,19 +15075,19 @@ status
 n. 地位；状态；情形；重要身份
 
 
-<a id="orgfb2704d"></a>
+<a id="org42edc84"></a>
 
 ### strong drinks
 
 烈性饮料；高酒度酒（strong drink的复数形式）
 
 
-<a id="orgf793dfe"></a>
+<a id="org2d9f41d"></a>
 
 ### a café
 
 
-<a id="orgdc9dc96"></a>
+<a id="orge82325b"></a>
 
 ### milk
 
@@ -13089,14 +15138,14 @@ Does grandma know how to bake tasty pies with cabbage? Yes, grandma knows how to
 bake tasty pies.
 
 
-<a id="org1db743e"></a>
+<a id="org0a3d4df"></a>
 
 ## Review Thirty Four 94.2%
 
 中间有事中断了。
 
 
-<a id="org1007c29"></a>
+<a id="orgd6e9e2d"></a>
 
 ## thirty four 95.4%
 
@@ -13112,42 +15161,42 @@ Does the grandma know how to bake tasty pies with cabaage? Yes, grandma knows
 how to bake tasty pies.
 
 
-<a id="org321c82f"></a>
+<a id="org35c7967"></a>
 
 ## Review thirty four 97%
 
 
-<a id="org0f59c29"></a>
+<a id="orgc94a8c8"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 09:41&gt;</span></span>98.3%
 
 
-<a id="org3b8f479"></a>
+<a id="org6f387eb"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-29 Thu 15:10&gt;</span></span>98.9%
 
 
-<a id="org3c3e80c"></a>
+<a id="org9379930"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 08:33&gt;</span></span>99.4%
 
 
-<a id="orgb016c9d"></a>
+<a id="orgaee6904"></a>
 
 # thirty five 95%
 
 
-<a id="org1b71dee"></a>
+<a id="orgfcf6403"></a>
 
 ## Review Thirty Five 93.3%
 
 
-<a id="org269a033"></a>
+<a id="orgb72d366"></a>
 
 ## Review Thirty Five 95.6%
 
 
-<a id="org0ba9468"></a>
+<a id="orge03d49d"></a>
 
 ## Review thirty five
 
@@ -13156,27 +15205,85 @@ how to bake tasty pies.
 -   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-07-30 Sat 15:58]</span></span>
 
 
-<a id="org38c7c12"></a>
+<a id="org5e91683"></a>
 
 ## Reveiw Thrity five 96.6%
 
 
-<a id="org6600e41"></a>
+<a id="orgf0b98ec"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 04:57&gt;</span></span>98%
 
 
-<a id="org96086cc"></a>
+<a id="orgb2a33ad"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 19:47&gt;</span></span>98.1%
 
 
-<a id="org81d15e5"></a>
+<a id="org515fb53"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-08 Thu 05:43&gt;</span></span>97.2%
 
 
-<a id="org3a70dbb"></a>
+<a id="orge6c2e26"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-26 Sun 19:34&gt;</span></span>96%
+
+
+<a id="org88ef6f4"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-27 Mon 05:24&gt;</span></span>30,34
+
+
+<a id="orgf727f02"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-05 Sun 05:00&gt;</span></span>34,32
+
+
+<a id="org84ecc31"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-09 Thu 05:33&gt;</span></span>
+
+
+<a id="org3274596"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-09 Thu 06:44&gt;</span></span>95.2%
+
+
+<a id="org8405ef5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-09 Thu 20:38&gt;</span></span>97.4%
+
+6:50 go to home in order to have breakfast
+7:45 arrive office countiue study
+
+
+<a id="orgadf3adf"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-10 Fri 04:23&gt;</span></span>
+
+
+<a id="orgaa6d136"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-10 Fri 19:28&gt;</span></span>98.2%
+
+
+<a id="orgc822671"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-09 Tue 04:16&gt;</span></span>97.4%
+
+
+<a id="org1e68928"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-13 Sat 17:07&gt;</span></span>97.9%
+
+
+<a id="org9424562"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-14 Sun 03:51&gt;</span></span>98.5%
+
+
+<a id="org9b30961"></a>
 
 ## Lesson 35
 
@@ -13250,16 +15357,16 @@ Do all grandmothers like to sew warm socks for their grandchildren? Yes, they li
 it.
 Do all girls like to sew? Yes, but not all know how.
 Do all men like women in high heels? Yes, all men like such women.
-Does the whote family like the clothing that grandma knits? Yes, the whole
+Does the whole family like the clothing that grandma knits? Yes, the whole
 family likes this clothing.
 
 
-<a id="orgfeae94c"></a>
+<a id="org822a5a4"></a>
 
 ## text
 
 
-<a id="org605747e"></a>
+<a id="org3d80a37"></a>
 
 ### a sweater
 
@@ -13271,7 +15378,7 @@ sweater *ˈswɛtə*  CET4 TEM4
 N-COUNT A sweater is a warm knitted piece of clothing which covers the upper part of your body and your arms. 毛线衫
 
 
-<a id="org7f4c0bd"></a>
+<a id="org6b504e3"></a>
 
 ### socks
 
@@ -13294,7 +15401,7 @@ Phil got socked with a bill for nearly $1,000.
 N a forceful blow 劲风
 
 
-<a id="orgd87c421"></a>
+<a id="orgcba4df5"></a>
 
 ### tights
 
@@ -13341,7 +15448,7 @@ article.yeeyan.org
 镜报时尚编辑安博·莫拉尔说：“便宜的时尚装备如彩色的紧身衣和亮丽的手套和领带能赋予陈旧的装备新的气息。”
 
 
-<a id="org578257c"></a>
+<a id="org40a7765"></a>
 
 ### a coat
 
@@ -13400,7 +15507,7 @@ Flinging aside his coat,he chased after his attacker.
 他把外衣扔到一边，去追逐袭击他的人。
 
 
-<a id="orgc2e98ca"></a>
+<a id="org1981b89"></a>
 
 ### a tank top
 
@@ -13441,7 +15548,7 @@ fuel tank 燃料箱
 in the tank 跳水；坐牢
 
 
-<a id="orgbe148d6"></a>
+<a id="org844fc17"></a>
 
 ### a blouse
 
@@ -13476,7 +15583,7 @@ You might have told her the blouse was…an interesting choice.
 你也许应该告诉她衬衫是一个&#x2026;有趣的选择。
 
 
-<a id="orgeca266c"></a>
+<a id="org87b84a0"></a>
 
 ### loose pants
 
@@ -13566,37 +15673,37 @@ I have a loose tooth.
 我的一个牙齿松动了。
 
 
-<a id="org12ae4ed"></a>
+<a id="org071eabc"></a>
 
 ### a light coat
 
 
-<a id="org9e983b4"></a>
+<a id="org54d6ce2"></a>
 
 ### a long skirt
 
 
-<a id="org73bb2f2"></a>
+<a id="org4968fe0"></a>
 
 ### a short skirt
 
 
-<a id="org5795b53"></a>
+<a id="orgf046697"></a>
 
 ### tight pants
 
 
-<a id="org872c577"></a>
+<a id="org85b7f72"></a>
 
 ### a warm sweater
 
 
-<a id="org952a983"></a>
+<a id="orga180155"></a>
 
 ### to cut
 
 
-<a id="orga103a7d"></a>
+<a id="orgb7fa0bb"></a>
 
 ### to knit
 
@@ -13658,7 +15765,7 @@ Best of all, you can even knit yourself into the wedding party.
 最好的就是你甚至可以把自己也编织进这个婚宴中去。
 
 
-<a id="org76ff393"></a>
+<a id="org2937575"></a>
 
 ### to sew
 
@@ -13703,7 +15810,7 @@ Neither was a new Easter dress for her or my sister, not if Mama could find some
 还有，如果妈妈能找到一些布料，设计一种样式，为自己或我妹妹缝制复活节连衣裙的话，也决不买新的。
 
 
-<a id="org57b667e"></a>
+<a id="org24c889f"></a>
 
 ### to embroider
 
@@ -13753,7 +15860,7 @@ Henceforth every morning the Queen, the Countess and Mrs Seton sat down to embro
 从此以后，每个早晨女王、伯爵夫人和西顿夫人都会凑在一起，借着窗前的光线低头刺绣，彼此变得十分亲密。
 
 
-<a id="org76fdba4"></a>
+<a id="org7141a9e"></a>
 
 ### fabric
 
@@ -13772,7 +15879,7 @@ The fabric of society has been deeply damaged by the previous regime.
 社会结构已被上届执政者严重地破坏了。
 
 
-<a id="org2d06ec7"></a>
+<a id="orge5bd032"></a>
 
 ### thread
 
@@ -13850,12 +15957,12 @@ Let me pluck away that piece of thread from your skirt.
 让我把那根线头从你的裙子上拉掉。
 
 
-<a id="org1133682"></a>
+<a id="org02466eb"></a>
 
 ### a needle and thread
 
 
-<a id="orgaa9cffc"></a>
+<a id="org0e5b9a2"></a>
 
 ### a needle
 
@@ -13922,7 +16029,7 @@ The doctor stuck my finger with a needle to get blood sample.
 医师用一根针刺破我的手指取血样。
 
 
-<a id="orgbfbd041"></a>
+<a id="org5bb27a0"></a>
 
 ### scissors
 
@@ -13938,7 +16045,7 @@ He told me to get some scissors.
 他叫我去拿几把剪刀。
 
 
-<a id="orgb6ddc0e"></a>
+<a id="orgbe60f9d"></a>
 
 ### embroidery
 
@@ -14012,37 +16119,112 @@ Does the whole family like the clothing that grandma knits? Yes, the whole
 family likes this clothing.
 
 
-<a id="org7ccf95f"></a>
+<a id="orge64e072"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-30 Fri 18:31&gt;</span></span>98.8%
 
 
-<a id="orgffd7c0d"></a>
+<a id="org34524e1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-05 Fri 05:25&gt;</span></span>96.3%
+
+
+<a id="org81dc6f5"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-05 Fri 08:19&gt;</span></span>
+
+
+<a id="org62fcfe3"></a>
 
 # thirty six 95.7%
 
 
-<a id="orge0efb92"></a>
-
-## Review thirty six 94.5%
-
-
-<a id="orgdb7d9f8"></a>
+<a id="org5c9ca97"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 05:12&gt;</span></span>99.2%
 
 
-<a id="org09104da"></a>
+<a id="org81e7421"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 14:53&gt;</span></span>97.9%
 
 
-<a id="org6dcefa5"></a>
+<a id="orgffdadc1"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-08 Thu 07:40&gt;</span></span>97.7%
 
 
-<a id="org67f84e0"></a>
+<a id="org4ad8044"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-09 Thu 05:47&gt;</span></span>
+
+
+<a id="orgc65a82a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-21 Tue 11:24&gt;</span></span>95.1%
+
+
+<a id="orge1769b9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-21 Tue 17:03&gt;</span></span>96.1%
+
+
+<a id="org60c3315"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-21 Tue 18:33&gt;</span></span>98.0%
+
+
+<a id="orgd5dd53f"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-22 Wed 06:00&gt;</span></span>
+
+
+<a id="org773b6ce"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-22 Wed 06:29&gt;</span></span>98.0%
+
+
+<a id="orge19505c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-22 Wed 08:34&gt;</span></span>98.2%
+
+
+<a id="orgea29e8a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-22 Wed 11:14&gt;</span></span>99.6%
+
+
+<a id="orgccb0d57"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-23 Thu 04:38&gt;</span></span>
+
+
+<a id="org38a4ee4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-05 Fri 15:10&gt;</span></span>95.4%
+
+
+<a id="org631dbba"></a>
+
+## Handwriting <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-08 Mon 08:06&gt;</span></span>
+
+
+<a id="org0df1702"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-08 Mon 14:56&gt;</span></span>97.2%
+
+
+<a id="org66af84c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-14 Sun 08:11&gt;</span></span>95.8%
+
+
+<a id="orgb4304d4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-14 Sun 16:10&gt;</span></span>98%
+
+
+<a id="org2a0046d"></a>
 
 ## Lesson 36
 
@@ -14054,12 +16236,12 @@ to help to give to carry to weigh to wrap to pick out
 
 light cheap expensive rich dark poor
 
-half a whole apple a who pie half of a pie half
+half a whole apple a whole pie half of a pie half
 
 a bright room
 a dark bar
 a big, bright supermarket
-The man is buying produce at the supermarket.
+The man is buying produce at the supermarket. good luck.
 At the market produce is inexpensive, at the supermarket it's expensive.
 The woman is buying produce at the market.
 
@@ -14103,7 +16285,7 @@ What is the waiter doing? He's carrying a whole cake on a tray.
 What is the chef doing? He's frying a whole chicken.
 
 
-<a id="org4123f23"></a>
+<a id="org93d9ee3"></a>
 
 ## text
 
@@ -14187,42 +16369,142 @@ The boy is cutting a piece of paper in half.
 What is the waiter doing? He's carrying a whole cake on a tray.
 
 
-<a id="org1efee5f"></a>
+<a id="org409cfa3"></a>
 
 # thirty seven 95.1%
 
 
-<a id="org980014a"></a>
+<a id="orge597fe3"></a>
 
 ## Review thirty seven 96.3%->96.9%
 
 
-<a id="org3eaebcd"></a>
+<a id="org44d7367"></a>
 
 ## thirty seven 96.3%
 
 
-<a id="org01cb6c1"></a>
+<a id="org225a276"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-01 Sat 20:16&gt;</span></span>99.1%
 
 
-<a id="orgb87c786"></a>
+<a id="org6dc8b2d"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 05:35&gt;</span></span>98%
 
 
-<a id="orga6d7d56"></a>
+<a id="org002f118"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-18 Fri 11:00&gt;</span></span>98.5%
 
 
-<a id="org123117a"></a>
+<a id="org6201b42"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-09 Fri 03:08&gt;</span></span>97.7%
 
 
-<a id="orga28c3d6"></a>
+<a id="orgafd8602"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-21 Tue 21:58&gt;</span></span>97.8%
+
+
+<a id="orgde2b639"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-22 Wed 06:00&gt;</span></span>98.1%
+
+
+<a id="org035174a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-22 Wed 11:09&gt;</span></span>98.7%
+
+
+<a id="org4c6dd93"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 09:05&gt;</span></span>98.6%
+
+
+<a id="orgea7684f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 21:36&gt;</span></span>98.6%
+
+
+<a id="org2143fea"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-24 Fri 06:19&gt;</span></span>99.1%
+
+
+<a id="org012101b"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 04:52&gt;</span></span>41,42,49
+
+
+<a id="org7d00ea1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-15 Wed 20:20&gt;</span></span>97.8%
+
+
+<a id="orgd4ff415"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 06:31&gt;</span></span>98.8%
+
+
+<a id="orga0cfec6"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 08:50&gt;</span></span>
+
+
+<a id="orgb563b28"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 16:22&gt;</span></span>99.2%
+
+
+<a id="org68dc8c7"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-18 Sat 05:20&gt;</span></span>
+
+
+<a id="org3e3c398"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 06:49&gt;</span></span>98.7%
+
+
+<a id="org2783c65"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-20 Mon 05:24&gt;</span></span>37,38,38
+
+
+<a id="org02cb6ce"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-20 Mon 10:52&gt;</span></span>98.8%
+
+
+<a id="orgcc21453"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-21 Tue 02:53&gt;</span></span>98.9%
+
+
+<a id="org1cfec6a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-05 Fri 19:42&gt;</span></span>97.2%
+
+
+<a id="org1055465"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-08 Mon 05:21&gt;</span></span>98.9%
+
+
+<a id="org5bb0d19"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-15 Mon 05:10&gt;</span></span>97.9%
+
+
+<a id="org226b878"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-15 Mon 19:22&gt;</span></span>98.6%
+
+
+<a id="org02bdcf5"></a>
 
 ## Lesson thirty seven
 
@@ -14290,7 +16572,7 @@ People swim in the sea in the south, because in the south the sea is warm.
 The compass needle points north.
 The tourist is finding the path in the mountains by his compass.
 In the south it rains half the year.
-The tourist is holding a compass in his right hand, a map in his right.
+The tourist is holding a compass in his right hand, a map in his left.
 In the north half the year it is day, and half it is night.
 All tourists bring with them a compass when they go into the woods.
 
@@ -14303,7 +16585,7 @@ Where is the ship going? The ship is going from the east to the west.
 Where does the compass needle point? The compass needle points north.
 
 
-<a id="orgb711a78"></a>
+<a id="org316d95a"></a>
 
 ## text
 
@@ -14792,7 +17074,7 @@ Where is the ship going? The ship is going from the east to the west.
 How does the moon move wax? The moon waxes slowly.
 
 
-<a id="orgd953737"></a>
+<a id="org1a65dde"></a>
 
 ## How do yellow leaves fall? Yellow leaves fall slowy.
 
@@ -14803,12 +17085,12 @@ How do mushrooms in the forest grow after rain? Mushrooms in the forest grow
 fast after rain.
 
 
-<a id="org007ee97"></a>
+<a id="orgf8b16bd"></a>
 
 ## text
 
 
-<a id="org8e04437"></a>
+<a id="org8ea1b38"></a>
 
 ### a super market
 
@@ -14899,7 +17181,7 @@ He often rakes around the market for some art treasure.
 他经常在市场上到处寻找艺术珍品。
 
 
-<a id="org31965ca"></a>
+<a id="orgbf4d6bb"></a>
 
 ### chenge
 
@@ -14913,7 +17195,7 @@ N-UNCOUNT Your change is the money that you receive when you pay for something w
 “那是找你的钱。”— “非常感谢。”
 
 
-<a id="org9a7b84a"></a>
+<a id="org3300b56"></a>
 
 ### a receipt
 
@@ -14971,7 +17253,7 @@ His main work is to receipt for each lot of goods.
 他的主要工作是给每一批货物开收据。
 
 
-<a id="org0fe37eb"></a>
+<a id="org888ec48"></a>
 
 ### a cash register
 
@@ -15099,17 +17381,17 @@ A lawyer or doctor who is struck off the official register of the profession is 
 被从正式的职业登记册中除名的律师或医生不准继续开业。
 
 
-<a id="org4ca4d94"></a>
+<a id="orge6c43ea"></a>
 
 ### a market
 
 
-<a id="org183ffa0"></a>
+<a id="org68f04b5"></a>
 
 ### a counter
 
 
-<a id="orgf135bc6"></a>
+<a id="org5fbcc00"></a>
 
 ### cake
 
@@ -15172,7 +17454,7 @@ There was only one piece of cake, but we cut it in two.
 只有一块蛋糕， 但我们把它切成两半儿。
 
 
-<a id="org9e1452e"></a>
+<a id="org3941dd0"></a>
 
 ### chocolate
 
@@ -15224,7 +17506,7 @@ white chocolate 白巧克力
 chocolate bar 巧克力棒；巧克力条
 
 
-<a id="orgcbca1b4"></a>
+<a id="org16bef76"></a>
 
 ### perfume
 
@@ -15264,7 +17546,7 @@ perfume spray 喷鼻水喷雾器
 perfume spray 喷鼻水喷子
 
 
-<a id="org8bf3bbd"></a>
+<a id="org2901186"></a>
 
 ### produce
 
@@ -15325,7 +17607,7 @@ produce results 产生结果
 native produce 土特产品，土产品
 
 
-<a id="org5d15be7"></a>
+<a id="org6269eba"></a>
 
 ### souvenirs
 
@@ -15367,7 +17649,7 @@ Despite the caves' perches, high above the river valley, the treasures inside ar
 以及侵蚀、地震和罕见的暴雨的威胁。
 
 
-<a id="orgedef0ab"></a>
+<a id="orge3e7f7f"></a>
 
 ### a purchase
 
@@ -15425,7 +17707,7 @@ They deposited a large amount of money toward the purchase of the car.
 他们预付了一大笔钱作为购买那辆汽车的定金。
 
 
-<a id="orgdb6885e"></a>
+<a id="org1cbfffc"></a>
 
 ### to pick up
 
@@ -15517,7 +17799,7 @@ I will probably pick up some new ideas and understanding from them, which I'll r
 www.elanso.com
 
 
-<a id="org05e3678"></a>
+<a id="orgcfa23df"></a>
 
 ### to pick out
 
@@ -15525,7 +17807,7 @@ www.elanso.com
 挑选出
 
 
-<a id="orge9ae185"></a>
+<a id="org22ad6a5"></a>
 
 ### to carry
 
@@ -15618,7 +17900,7 @@ carry through 贯彻；完成；坚持下去
 carry in 携带；输入
 
 
-<a id="orga0a14fc"></a>
+<a id="org6b59e80"></a>
 
 ### to weight
 
@@ -15718,7 +18000,7 @@ These columns bear the weight of the roof.
 这些柱子支承着屋顶的重量。
 
 
-<a id="org143bd0b"></a>
+<a id="org9610135"></a>
 
 ### to wrap
 
@@ -15780,7 +18062,7 @@ Please wrap this for me.
 www.ebigear.com
 
 
-<a id="orgdd81c1a"></a>
+<a id="org9fa9e7f"></a>
 
 ### poor
 
@@ -15871,7 +18153,7 @@ He played the poor fish until it rolled, belly up, from exhaustion.
 他让那可怜的鱼儿挣扎，直到肚子朝天、精疲力竭为止。
 
 
-<a id="org7d5d0d1"></a>
+<a id="org2192bd2"></a>
 
 ### rich
 
@@ -15976,7 +18258,7 @@ get rich 发家致富
 rich color 浓色
 
 
-<a id="org460d87d"></a>
+<a id="org98b5f73"></a>
 
 ### whole
 
@@ -16028,7 +18310,7 @@ What is the boy doing? He's putting half a cake on a plate.
 What is the chef doing ? He's frying a whole chicken.
 
 
-<a id="orgf622062"></a>
+<a id="org69cb2f9"></a>
 
 # 
 
@@ -16042,55 +18324,164 @@ What is the chef doing ? He's frying a whole chicken.
 :END:98.8%
 
 
-<a id="orgb6cd9f3"></a>
+<a id="orgb023667"></a>
 
 # Thirty eight 96.6%
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2016-08-02 Tue 09:19]</span></span>
 
 
-<a id="orgd3baced"></a>
+<a id="org4d07764"></a>
 
 ## Review thirty eight 95.6%
 
 
-<a id="org5d21939"></a>
+<a id="org42e186b"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 05:25&gt;</span></span>97.8%
 
 
-<a id="org91ca50b"></a>
+<a id="org27de44c"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 14:08&gt;</span></span>
 
 
-<a id="orgdb338eb"></a>
+<a id="org7bd59db"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 05:11&gt;</span></span>98.6%
 
 
-<a id="orgf53bac8"></a>
+<a id="org251a49d"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-16 Wed 03:56&gt;</span></span>96.1%
 
 
-<a id="org2bbc073"></a>
+<a id="org3811f91"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-26 Sat 06:05&gt;</span></span>96.9%
 
 
-<a id="orgdd1f78f"></a>
+<a id="orgf3c4b8a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-09 Fri 04:26&gt;</span></span>96.7%
 
 
-<a id="orgc544345"></a>
+<a id="orgf363e82"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-21 Tue 05:58&gt;</span></span>96.4%
+
+
+<a id="org313f154"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-22 Wed 17:03&gt;</span></span>97.5%
+
+
+<a id="orge22980d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-22 Wed 13:30&gt;</span></span>98.2%
+
+
+<a id="org6c8f63a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 08:25&gt;</span></span>97.7%
+
+
+<a id="orge581352"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 22:06&gt;</span></span>98.5%
+
+
+<a id="org4fdb708"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-24 Fri 05:41&gt;</span></span>98.6%
+
+
+<a id="org3f3d8cb"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 06:03&gt;</span></span>98.7%
+
+
+<a id="org07cbe28"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-15 Wed 15:12&gt;</span></span>97.2%
+
+1.思途教育科技郭丰强来访1小时
+2.orace小孟来访半小时
+3.致公党王支委，肥城党员来访2.5小时
+
+
+<a id="orgdfd3a1a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 05:58&gt;</span></span>98.8%
+
+
+<a id="org531024e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 18:53&gt;</span></span>99.1%
+
+
+<a id="org93ce27f"></a>
+
+## Wrting<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-17 Fri 20:59&gt;</span></span>
+
+
+<a id="orge32d475"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-18 Sat 05:37&gt;</span></span>
+
+
+<a id="orgd92b5f3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-18 Sat 06:39&gt;</span></span>98.2%
+
+
+<a id="org00fe821"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 05:21&gt;</span></span>37,38,39
+
+
+<a id="org664a650"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 08:24&gt;</span></span>97.8%
+
+
+<a id="org6955ff1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-20 Mon 14:27&gt;</span></span>99.1%
+
+
+<a id="org8a19f9d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-21 Tue 03:22&gt;</span></span>99.2%
+
+
+<a id="org850726a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-06 Sat 04:42&gt;</span></span>98.3%
+
+
+<a id="orga97991b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-07 Sun 18:03&gt;</span></span>97.9%
+
+
+<a id="orgd98e6d5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-16 Tue 05:22&gt;</span></span>97.6%
+
+
+<a id="org7ddec4d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-17 Wed 04:57&gt;</span></span>98.6%
+
+
+<a id="orgacb7c28"></a>
 
 ## Lesson 38
 
 a drum film a guitar dance music a voilin
 
-a varnival costume
+a carnival costume
 candy a wig a bouquet a mask a carnival
 
 to throw to celebrate to collect to leave the city to catch
@@ -16158,19 +18549,19 @@ Is the woman holding a bouquet of flowers or a wig? The woman is holding a
 bouquet of flowers.
 
 When do actors wear masks? They wear masks during a spectacle.
-When do men put on wigs? They put on wigs at a varnival.
+When do men put on wigs? They put on wigs at a carnival.
 Where are the friends going? They are leaving the city.
 What does the man collect? He collects paintings.
 What do the friends love to do? They love to dance.
 When are children happy? Children are happy when they're given candy and toys.
 
 
-<a id="orga82b419"></a>
+<a id="orgeb78042"></a>
 
 ## text
 
 
-<a id="org40e4767"></a>
+<a id="org70a4105"></a>
 
 ### film
 
@@ -16237,7 +18628,7 @@ With this instant film the picture develops in only one minute.
 用这种快速胶卷，照片仅用一分钟就会显影。
 
 
-<a id="org67a7795"></a>
+<a id="org6b8f6a8"></a>
 
 ### music
 
@@ -16297,7 +18688,7 @@ Do you like music?
 你喜欢音乐吗?
 
 
-<a id="org26c330c"></a>
+<a id="orgeb549c6"></a>
 
 ### a drum
 
@@ -16353,7 +18744,7 @@ The saxophonist doubled the drum in the band.
 那位萨克斯管吹奏员在乐队中兼作鼓手。
 
 
-<a id="orgc99b22d"></a>
+<a id="org6d3f6c5"></a>
 
 ### a guitar
 
@@ -16395,7 +18786,7 @@ Guitar is played by plucking at the wires.
 吉他可用手指在弦线上弹拨。
 
 
-<a id="orgd237ba0"></a>
+<a id="orgea7163f"></a>
 
 ### a violin
 
@@ -16436,7 +18827,7 @@ He keyed up all the strings of his violin before his performance.
 他在表演前将小提琴所有的弦都调好了。
 
 
-<a id="org6b5f162"></a>
+<a id="org560eac2"></a>
 
 ### dance
 
@@ -16519,7 +18910,7 @@ They dance in a round.
 他们围成圆圈跳舞。
 
 
-<a id="org43cf0df"></a>
+<a id="org0a3f983"></a>
 
 ### A carnival costume
 
@@ -16607,7 +18998,7 @@ They dance in a round.
     article.yeeyan.org
 
 
-<a id="org03c1ea7"></a>
+<a id="orgc03cd4c"></a>
 
 ### candy
 
@@ -16654,7 +19045,7 @@ He conciliated his angry daughter with a piece of candy.
 他用一块糖果来哄他发脾气的女儿。
 
 
-<a id="org23230c2"></a>
+<a id="org0e8b106"></a>
 
 ### a wig
 
@@ -16700,7 +19091,7 @@ So now, students at the University of Washington that are studying these crows d
 article.yeeyan.org
 
 
-<a id="orgd953fdb"></a>
+<a id="org6444ba1"></a>
 
 ### mask
 
@@ -16767,7 +19158,7 @@ He ripped away the mask of pretence which covered their activities.
 他剥掉了遮盖他们行动的假面具。
 
 
-<a id="org0596b1f"></a>
+<a id="org0eabeb1"></a>
 
 ### a bouquet
 
@@ -16814,29 +19205,29 @@ If I concentrate hard enough, I can smell the sweetness of your wedding bouquet 
 让我再想一想，我还能闻到那婚礼花束的甜香，你那麽骄傲地捧著花，让每一个人分享你的幸福时光。
 
 
-<a id="org3b36cca"></a>
+<a id="org34ad25c"></a>
 
 ### a carnival
 
 
-<a id="org747ded5"></a>
+<a id="org02d7c65"></a>
 
 ### to celebrate
 
 
-<a id="orgcb74dbe"></a>
+<a id="org552925a"></a>
 
 ### to leave the city
 
 
-<a id="orge58eec8"></a>
+<a id="orgc2308f2"></a>
 
 ### to love to do something
 
 喜欢做的事情
 
 
-<a id="org89e53a5"></a>
+<a id="orgbc27451"></a>
 
 ### to collect
 
@@ -17664,7 +20055,7 @@ Good as it is to inherit a library, it is better to collect one.
     article.yeeyan.org
 
 
-<a id="org8f056c0"></a>
+<a id="org1979dd5"></a>
 
 ### text
 
@@ -17997,52 +20388,67 @@ The boy loves photography. He loves to photograph his friends.
     article.yeeyan.org
 
 
-<a id="org1d1d01d"></a>
+<a id="org2715619"></a>
 
 # Thirty nine 96.9%
 
 
-<a id="org641866f"></a>
+<a id="orgd6a5976"></a>
 
 ## Review thirty nine 96.9->96.4%
 
 
-<a id="orgca70815"></a>
+<a id="org0583998"></a>
 
 ## Review thirty nine 97.3%
 
 
-<a id="orga247825"></a>
+<a id="orgf6fb6cb"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-14 Wed 04:42&gt;</span></span>98.3%
 
 
-<a id="orgfafd6ac"></a>
+<a id="orgd6c67c7"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-02 Sun 10:48&gt;</span></span>99.2%
 
 
-<a id="org84f131f"></a>
+<a id="org17613af"></a>
 
 ## Lesson thirty nine<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-15 Tue 05:26&gt;</span></span>97.2%
 
 
-<a id="org9b13ca2"></a>
+<a id="org44cc98f"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-15 Tue 18:47&gt;</span></span>96.8%
 
 
-<a id="org227847b"></a>
+<a id="orgf3630d7"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-16 Wed 03:33&gt;</span></span>97.6%
 
 
-<a id="org31c9c87"></a>
+<a id="org69f7a48"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-26 Sat 05:42&gt;</span></span>98.6%
 
 
-<a id="orgadcd93b"></a>
+<a id="org3156f96"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-21 Tue 13:36&gt;</span></span>98.5%
+
+
+<a id="org50bdb10"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-06 Sat 07:57&gt;</span></span>97.9%
+
+
+<a id="org96183d2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-17 Wed 17:15&gt;</span></span>98.4%
+
+
+<a id="org0930b12"></a>
 
 ## Lesson thirty nine
 
@@ -18097,12 +20503,122 @@ What hunts rabbits? Hungry wolves hunt rabbits.
 What lays eggs? Chickens lay eggs.
 
 
-<a id="orgab1a96b"></a>
+<a id="orgc5f888e"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-21 Tue 05:17&gt;</span></span>96.7%
+
+
+<a id="org2ae91d5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-22 Wed 19:44&gt;</span></span>98.2%
+
+
+<a id="org91d7f1f"></a>
+
+## Loud Read <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 05:15&gt;</span></span>39,38,37
+
+
+<a id="org653647a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 07:59&gt;</span></span>98.4%
+
+
+<a id="orga1b7191"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-23 Thu 22:39&gt;</span></span>99.3%
+
+
+<a id="org43f6081"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-24 Fri 05:16&gt;</span></span>98.7%
+
+
+<a id="org362f538"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-25 Sat 05:42&gt;</span></span>99.2%
+
+
+<a id="orgd67e840"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-15 Wed 05:30&gt;</span></span>
+
+
+<a id="orgbcf7d0c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-15 Wed 06:35&gt;</span></span>98.4%
+
+
+<a id="orgaf19ca5"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-15 Wed 08:41&gt;</span></span>
+
+
+<a id="org41d0fda"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-15 Wed 11:28&gt;</span></span>98.6%
+
+
+<a id="org6d5c8d8"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 04:29&gt;</span></span>39,38,37
+
+
+<a id="orgd9f2d51"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 05:38&gt;</span></span>99.3%
+
+
+<a id="org3032e6b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-16 Thu 20:40&gt;</span></span>98.9%
+
+
+<a id="org9eb4ef9"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-17 Fri 04:52&gt;</span></span>37,39
+
+
+<a id="org506aebc"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-17 Fri 16:32&gt;</span></span>98.5%
+
+
+<a id="orgdd1c47a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-17 Fri 17:20&gt;</span></span>99.%
+
+
+<a id="orgfe3d446"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 09:56&gt;</span></span>98.7%
+
+
+<a id="org9e5cc2d"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 21:00&gt;</span></span>
+
+
+<a id="orgbfcd33d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-20 Mon 18:05&gt;</span></span>98.8%
+
+
+<a id="orgec987a9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-21 Tue 04:02&gt;</span></span>98.9%
+
+
+<a id="org2a86f8d"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-07 Sun 12:08&gt;</span></span>98.3%
+
+
+<a id="org7b570ca"></a>
 
 ## text
 
 
-<a id="orgb3b9258"></a>
+<a id="org60d9022"></a>
 
 ### a cow
 
@@ -19466,7 +21982,7 @@ The cow is expected to calve next week.
     他的双颊上曾斑斑点点地长了些黑头。
 
 
-<a id="orgb98ebd2"></a>
+<a id="orgd8f7c99"></a>
 
 ## text
 
@@ -19483,12 +21999,12 @@ a black bull on green grass.
 The spotted leopard chases a yellow deer. It's hunting.
 
 
-<a id="orgfb1209d"></a>
+<a id="org0d42d7e"></a>
 
 # continue
 
 
-<a id="org4064e2c"></a>
+<a id="org66f01c4"></a>
 
 ## text
 
@@ -19557,22 +22073,22 @@ What gives fur? A sheep and a ram give fur.
 What lays eggs? Chickens lay eggs.
 
 
-<a id="orgae3063c"></a>
+<a id="orgbc50616"></a>
 
 # Forty  93.2%->97.4%
 
 
-<a id="org90c7e9e"></a>
+<a id="org02e1089"></a>
 
 ## Review Forty
 
 
-<a id="org917b308"></a>
+<a id="org490cc74"></a>
 
 ## Review 96.2%
 
 
-<a id="org07c9746"></a>
+<a id="org965e772"></a>
 
 ## Review forty 95.1%
 
@@ -19643,94 +22159,94 @@ The ragged man drags a wangon of rag fragments.
 www.ebigear.com
 
 
-<a id="org0bcea6a"></a>
+<a id="orgd4435f1"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 05:35&gt;</span></span>99.1%
 
 
-<a id="org0fd6261"></a>
+<a id="org10d28c5"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 07:42&gt;</span></span>99.1%
 
 
-<a id="orgfdda85c"></a>
+<a id="orgf479c37"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 04:23&gt;</span></span>
 
 还有两节，下一次再续。
 
 
-<a id="org089dff6"></a>
+<a id="org5745990"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-03 Mon 08:50&gt;</span></span>98.8%
 
 
-<a id="orgc08c94e"></a>
+<a id="org94af08f"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 19:10&gt;</span></span>96%
 
 
-<a id="orgbfc08a8"></a>
+<a id="orgb06dae0"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 08:12&gt;</span></span>97.8%
 
 
-<a id="org734a4fa"></a>
+<a id="orgbfb92db"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 09:10&gt;</span></span>99.0%
 
 
-<a id="org434a8b5"></a>
+<a id="org977b235"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 11:25&gt;</span></span>99.7%
 
 
-<a id="org96ea2ed"></a>
+<a id="orgba3d7b9"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 16:11&gt;</span></span>96.5%
 
 
-<a id="orge651e34"></a>
+<a id="org6602169"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 20:57&gt;</span></span>97.2%
 
 
-<a id="org2ce079a"></a>
+<a id="orgdc3c794"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 05:20&gt;</span></span>98.9%
 
 
-<a id="orgcff3263"></a>
+<a id="org9933947"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 05:58&gt;</span></span>98.3%
 
 
-<a id="org64c71a1"></a>
+<a id="orga7305b6"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-26 Wed 19:56&gt;</span></span>98.8%
 
 
-<a id="org635c6e5"></a>
+<a id="org06eee82"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 06:01&gt;</span></span>98.3%
 
 
-<a id="orgd786d30"></a>
+<a id="org07406ad"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 06:28&gt;</span></span>97.7%
 
 
-<a id="orge33478b"></a>
+<a id="org271f09d"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-03 Thu 15:51&gt;</span></span>98.2%
 
 
-<a id="orgc643517"></a>
+<a id="org1f5b891"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 05:26&gt;</span></span>98.2%
 
 
-<a id="org4ed28e9"></a>
+<a id="org374d8c8"></a>
 
 ### Detergent
 
@@ -19743,62 +22259,132 @@ sides. Buckets are often used for holding and carrying water. (有提梁的) 桶
 a coin washing machine.
 
 
-<a id="orgb01cd90"></a>
+<a id="orgb097b3a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 13:51&gt;</span></span>98.1%
 
 
-<a id="org0369cdc"></a>
+<a id="org9a5a47b"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 16:14&gt;</span></span>98.7%
 
 
-<a id="org290f401"></a>
+<a id="org1978208"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-12-25 Sun 04:44&gt;</span></span>97.6%
 
 
-<a id="orgc220773"></a>
+<a id="org225c9ec"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 09:22&gt;</span></span>97.5%
 
 
-<a id="orgc030a07"></a>
+<a id="orgf958b46"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 14:16&gt;</span></span>98.2%
 
 
-<a id="org58f95df"></a>
+<a id="org468cda6"></a>
 
 ## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 19:36&gt;</span></span>
 
 
-<a id="orge55baed"></a>
+<a id="org1c631bb"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 05:47&gt;</span></span>99.3%
 
 
-<a id="org3027978"></a>
+<a id="org4656a05"></a>
 
 ## Wrting<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 15:13&gt;</span></span>
 
 
-<a id="org64e1359"></a>
+<a id="org2cc15ab"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 16:52&gt;</span></span>99.2%
 
 
-<a id="org6fa4626"></a>
+<a id="orgb737d16"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 06:35&gt;</span></span>98.4%
 
 
-<a id="orgcac7d1d"></a>
+<a id="orgd29c918"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 20:34&gt;</span></span>99.5%
 
 
-<a id="org5a3bc92"></a>
+<a id="orgaeb4a70"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 04:56&gt;</span></span>45,44,43
+
+
+<a id="org2d07b2c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 21:15&gt;</span></span>99.3%
+
+
+<a id="org156d93f"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 05:42&gt;</span></span>40,41,42
+
+
+<a id="orgc55b20f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 07:06&gt;</span></span>99.5%
+
+
+<a id="org6ad8dda"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-20 Mon 07:24&gt;</span></span>98.2%
+
+
+<a id="org2d015aa"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-07 Tue 06:30&gt;</span></span>98.6%
+
+
+<a id="org687cc54"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 10:13&gt;</span></span>88.5%
+
+
+<a id="orge55fc29"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 15:17&gt;</span></span>98.8%
+
+
+<a id="org302a5b5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-06 Sat 10:48&gt;</span></span>98.5%
+
+
+<a id="org20c79c3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-06 Sat 20:40&gt;</span></span>97.5%
+
+
+<a id="org08ae229"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-07 Sun 05:22&gt;</span></span>98.6%
+
+
+<a id="orgf5ff491"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-18 Thu 04:09&gt;</span></span>98.3%
+
+
+<a id="org7f625e4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-03 Sat 09:02&gt;</span></span>97.8%
+
+
+<a id="org17e85ec"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-03 Sat 19:56&gt;</span></span>99.2%
+
+
+<a id="orgdc819fc"></a>
 
 ## Lesson 40
 
@@ -19875,12 +22461,12 @@ Is the grandmother washing dishes with her hands? Yes, she doesn't have a
 dishwasher.
 
 
-<a id="org7a0e87e"></a>
+<a id="org8aefbf5"></a>
 
 ## text
 
 
-<a id="org3f14e6a"></a>
+<a id="orgb5d2cfa"></a>
 
 ### a bucket
 
@@ -19957,7 +22543,7 @@ She reeled up her fishing line and went back with an empty bucket.
 她把鱼线收回，提着一个空桶回来了。
 
 
-<a id="org995e535"></a>
+<a id="orgb343d73"></a>
 
 ### laundry detergent
 
@@ -20116,7 +22702,7 @@ She reeled up her fishing line and went back with an empty bucket.
     这种洗衣粉去年曾被广泛使用。
 
 
-<a id="org1e1f641"></a>
+<a id="org79cf57a"></a>
 
 ### soap
 
@@ -20140,7 +22726,7 @@ N-MASS Soap is a substance that you use with water for washing yourself or somet
 …一块熏衣草肥皂。
 
 
-<a id="org859173c"></a>
+<a id="org889316b"></a>
 
 ### a brush
 
@@ -20298,7 +22884,7 @@ He dipped the brush into the paint bucket.
 他拿画笔蘸颜料桶中的颜料。
 
 
-<a id="orge4bbce2"></a>
+<a id="orgfee2609"></a>
 
 ### a dishwasher
 
@@ -20307,7 +22893,7 @@ He dipped the brush into the paint bucket.
 n. 洗碗工；洗碟机
 
 
-<a id="orgb321fe9"></a>
+<a id="orgbe4ca01"></a>
 
 ### an ironing board
 
@@ -20322,7 +22908,7 @@ vi. 寄宿
 n. (Board)人名；(英、西)博德
 
 
-<a id="orgd99bb68"></a>
+<a id="orgd71d88b"></a>
 
 ### an iron
 
@@ -20398,7 +22984,7 @@ Too many irons in the fire can sap your energy and prevent you from seeing which
 同时做太多的事情可能会消耗你的精力，使你看不清该走哪条路。
 
 
-<a id="org31a21dc"></a>
+<a id="orgb0779ff"></a>
 
 ### a vacuum cleanery
 
@@ -20411,7 +22997,7 @@ adj. 真空的；利用真空的；产生真空的
 vt. 用真空吸尘器清扫
 
 
-<a id="orgeb851ec"></a>
+<a id="org64c2dca"></a>
 
 ### a washing machine
 
@@ -20420,7 +23006,7 @@ vt. 用真空吸尘器清扫
 N-COUNT A washing machine is a machine that you use to wash clothes in. 洗衣机
 
 
-<a id="org9f9c986"></a>
+<a id="orgf8fab3e"></a>
 
 ### a mopj
 
@@ -20438,7 +23024,7 @@ There was a woman mopping the stairs.
 有个女人正在拖楼梯。
 
 
-<a id="org9e1e137"></a>
+<a id="org7e6d79c"></a>
 
 ### words
 
@@ -20504,7 +23090,7 @@ The kitchen is in order.
 The man is cleaning up the table.
 
 
-<a id="org5ba3fe2"></a>
+<a id="org2e3db45"></a>
 
 ## contiune
 
@@ -20576,132 +23162,187 @@ Is the woman washing clothes with her hands? No, she is washing them in a
 washing machine.
 
 
-<a id="org28079c2"></a>
+<a id="orgc931cbc"></a>
 
 # Forty one 91.6%
 
 
-<a id="org41edfb0"></a>
+<a id="orgeb4ba95"></a>
 
 ## Review e 95.9% igh 95.9%t 95.9%
 
 
-<a id="org61349ca"></a>
+<a id="org8b72e35"></a>
 
 ## Review Forty one 95.2%
 
 
-<a id="orgb274776"></a>
+<a id="orgaf697f2"></a>
 
 ## Review 95.6%
 
 
-<a id="orgbf39785"></a>
+<a id="orgab2990b"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 19:41&gt; </span></span> 95.4%
 
 
-<a id="org34e0447"></a>
+<a id="org2225bf8"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 20:36&gt; </span></span> 96%
 
 
-<a id="org4f85dab"></a>
+<a id="org1c9bef9"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 04:47&gt; </span></span> 97.7%
 
 
-<a id="org5e0891b"></a>
+<a id="org2b6800b"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-29 Mon 16:39&gt; </span></span> 96.3%
 
 
-<a id="org24e1785"></a>
+<a id="orga2a9c63"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 04:39&gt;</span></span>99%
 
 
-<a id="orgdf6f3e7"></a>
+<a id="org893fe00"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-19 Mon 20:41&gt;</span></span>99.1%
 
 
-<a id="orga61250e"></a>
+<a id="org5cef53a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-20 Tue 05:49&gt;</span></span>99.2%
 
 
-<a id="orgdb45545"></a>
+<a id="org726843f"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 17:22&gt;</span></span>99.3%
 
 
-<a id="org8b0434e"></a>
+<a id="orga6debd6"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 04:53&gt;</span></span>99.4%
 
 
-<a id="org24df021"></a>
+<a id="orgf5aab16"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 13:44&gt;</span></span>98.6%
 
 
-<a id="org55eee77"></a>
+<a id="org7b614c7"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 05:21&gt;</span></span>98.2%
 
 
-<a id="orgf93d880"></a>
+<a id="org2f2c9d8"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-02 Wed 20:29&gt;</span></span>97.8%
 
 
-<a id="org5c2df8f"></a>
+<a id="orgecb77d8"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-04 Fri 20:59&gt;</span></span>98%
 
+<<<<<<< Updated upstream
 
-<a id="orgadb0b70"></a>
+
+<a id="org86021a3"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 06:02&gt;</span></span>98.8%
 
 
-<a id="org19dd607"></a>
+<a id="orgab1eb44"></a>
 
 ## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 06:44&gt;</span></span>
 
 
-<a id="org2ffe939"></a>
+<a id="org4ad2b81"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-02 Thu 08:31&gt;</span></span>99.3%
 
+:LOGBOOK:
 
-<a id="orgcc16d04"></a>
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2017-02-02 Thu 08:55]</span></span>
+
+`=====`
+
+
+<a id="org0b937e6"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 20:41&gt;</span></span>96.9%
+
+
+<a id="orgcf4846e"></a>
 
 ## Words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-04 Sat 05:02&gt;</span></span>
 
 
-<a id="org80ecc34"></a>
+<a id="orge9ab9b9"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-04 Sat 15:51&gt;</span></span>99.2%
 
 
-<a id="org32d64c9"></a>
+<a id="orgb0ebe92"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 08:32&gt;</span></span>98.8%
 
 
-<a id="orgba10d88"></a>
+<a id="org49035d5"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 20:09&gt;</span></span>98.9%
 
 
-<a id="org5d3cfc1"></a>
+<a id="org5b77827"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 15:25&gt;</span></span>99.4%
 
 
-<a id="org329f0fb"></a>
+<a id="org2b06757"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 20:48&gt;</span></span>99.3%
+
+
+<a id="org6bdf30a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 10:00&gt;</span></span>98.4%
+
+
+<a id="orgc1dc27a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-20 Mon 11:09&gt;</span></span>98.3%
+
+贾院长来座谈半小时，后到餐厅吃饭。
+
+
+<a id="org66e02ec"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-19 Sun 16:32&gt;</span></span>98.4%
+
+
+<a id="orgaff1868"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-18 Thu 08:53&gt;</span></span>97.9%
+
+
+<a id="org9f45942"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-03 Sat 07:42&gt;</span></span>98.4%
+
+
+<a id="org13f2623"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-04 Sun 05:05&gt;</span></span>98.2%
+
+
+<a id="orgb996714"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-05 Mon 10:36&gt;</span></span>98.2%
+
+
+<a id="org22902e3"></a>
 
 ## Lesson 41
 
@@ -20784,7 +23425,7 @@ Where does the teacher write the assignment? The teacher writes the assignment
 on the board.
 
 
-<a id="org0423198"></a>
+<a id="org7e98a11"></a>
 
 ### words<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-30 Tue 05:11&gt;</span></span>98%
 
@@ -21305,102 +23946,163 @@ on the board.
      arrive office and begin learning
 
 
-<a id="orgf126798"></a>
+<a id="org9670f14"></a>
 
 # Forty two 96.3%
 
 
-<a id="org26bfe2e"></a>
+<a id="org36736b2"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-27 Sat 20:55&gt; </span></span> 95.9%
 
 
-<a id="org8007759"></a>
+<a id="org6a98ab6"></a>
 
 ## Review and write<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 04:30&gt; </span></span> 96%
 
 
-<a id="org63c2950"></a>
+<a id="org3bb8f0d"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-08-28 Sun 18:38&gt;</span></span>97.7%
 
 
-<a id="orgba2a020"></a>
+<a id="orgf44b9f4"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 09:24&gt;</span></span>98.8%
 
 
-<a id="org2bbe69a"></a>
+<a id="org29fcc5d"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-18 Sun 20:43&gt;</span></span>99.3%
 
 
-<a id="org05a95c8"></a>
+<a id="org626313d"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 09:41&gt;</span></span>97.1%
 
 
-<a id="orgf8ece6d"></a>
+<a id="orge49976c"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-15 Sat 20:56&gt;</span></span>99.1%
 
 
-<a id="org7711618"></a>
+<a id="orgec8c1e5"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 05:24&gt;</span></span>99.1%
 
 
-<a id="org0178c96"></a>
+<a id="orgd8e4221"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 09:19&gt;</span></span>98.1%
 
 
-<a id="orgb76de53"></a>
+<a id="org5664b5c"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 15:55&gt;</span></span>97.6%
 
 
-<a id="orgc394766"></a>
+<a id="orgbc74625"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 19:16&gt;</span></span>97.3%
 
 
-<a id="orgca1f867"></a>
+<a id="orgf46bd44"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 05:56&gt;</span></span>98.1%
 
 
-<a id="org729a96d"></a>
+<a id="org8b7e0cf"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 05:48&gt;</span></span>98%
 
 
-<a id="orga57c719"></a>
+<a id="orgacd69d7"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 15:37&gt;</span></span>97.9%
 
 
-<a id="org513819e"></a>
+<a id="orgaacf44e"></a>
 
 ## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 18:48&gt;</span></span>
 
 
-<a id="orgfe8d2c5"></a>
+<a id="org9fd2767"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 19:45&gt;</span></span>98.5%
 
 
-<a id="org7edd56b"></a>
+<a id="org30f4917"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-05 Sun 09:16&gt;</span></span>98.0%
 
 
-<a id="org2ba178c"></a>
+<a id="org6d5b247"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 17:44&gt;</span></span>99.3%
 
 
-<a id="org24bd066"></a>
+<a id="org115ebdf"></a>
+
+## Writing Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 16:35&gt;</span></span>
+
+:LOGBOOK:
+
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2017-02-18 Sat 17:17]</span></span>
+
+:uEND:
+
+
+<a id="orgba15925"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 20:20&gt;</span></span>99%
+
+
+<a id="org7dc0cf2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 10:23&gt;</span></span>98.4%
+
+
+<a id="orga936125"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-20 Mon 15:54&gt;</span></span>97.6%
+
+
+<a id="orgb900f8c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-03 Wed 14:34&gt;</span></span>97.9%
+
+安排学术讲座
+安排学生实习事宜
+Arrange academic lectures
+Arrange student internship
+
+
+<a id="org0b534c7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-18 Thu 15:15&gt;</span></span>97.2%
+
+
+<a id="orgdfecd14"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-19 Fri 05:38&gt;</span></span>98.3%
+
+
+<a id="orgc617a05"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-03 Sat 04:24&gt;</span></span>98.4%
+
+
+<a id="orga1d783e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-04 Sun 05:29&gt;</span></span>98.1%
+
+
+<a id="org9f0a4b2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-05 Mon 15:10&gt;</span></span>90%
+
+
+<a id="org7b17fbd"></a>
 
 ## Lesson 42
 
@@ -21425,11 +24127,11 @@ to move
 to conduct
 to start
 
-You may talk oFloating Little Leaves of Coden the phone at home.
+You may talk on the phone at home.
 You may not
 you may
 You may cross the street when the light is green.
-You may not speak on the phone in the theatre.
+You may not speak on the phone in the theater.
 You may not cross the street when the light is red.
 
 a holiday
@@ -21497,47 +24199,47 @@ It's fun for children to play with a ball.
 Men don't like to shop. It's boring for them in stores.
 
 
-<a id="org46a9d3b"></a>
+<a id="org099d1c9"></a>
 
 # Forty three 94.5%
 
 
-<a id="orged8aac0"></a>
+<a id="org3c9ce53"></a>
 
 ## Review 94.8%
 
 
-<a id="org9073cca"></a>
+<a id="org9dfac9d"></a>
 
 ## Review 96%
 
 
-<a id="orgfc7c6fd"></a>
+<a id="org12e4003"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 05:22&gt; </span></span> 95.7%
 
 
-<a id="orgea15857"></a>
+<a id="orga306d67"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 10:42&gt; </span></span> 95.7%
 
 
-<a id="org75fe130"></a>
+<a id="org892f194"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-01 Thu 20:00&gt; </span></span> 96.5%
 
 
-<a id="org136bb58"></a>
+<a id="org4c540af"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 Fri 04:27&gt; </span></span> 97.1%
 
 
-<a id="org88fab6c"></a>
+<a id="orga7aeec0"></a>
 
 ## text
 
 
-<a id="org16f1557"></a>
+<a id="org51488e6"></a>
 
 ### a credit card
 
@@ -21559,7 +24261,7 @@ Can I pay by credit card?
 我可以用信用卡支付吗？
 
 
-<a id="orgf055abc"></a>
+<a id="org79e7f4d"></a>
 
 ### creddit
 
@@ -21653,7 +24355,7 @@ You must pass the examination to get credit for the course.
 你必须通过考试才能获得那门课程的学分。
 
 
-<a id="org837170a"></a>
+<a id="orgf304314"></a>
 
 ### a mailbox
 
@@ -21693,12 +24395,12 @@ One way to do this is to use a script that accesses the mailbox just like any ot
 然后根据脚本中嵌入的某些规则，组织和过滤您的电子邮件。
 
 
-<a id="orgc45b748"></a>
+<a id="orgfd9ff0e"></a>
 
 ### an ATM
 
 
-<a id="org67fe0a0"></a>
+<a id="org06267b0"></a>
 
 ### a postman
 
@@ -21752,7 +24454,7 @@ been used for many years.[citation needed]
 来源于：维基百科
 
 
-<a id="orgcea63c0"></a>
+<a id="orgf2307e9"></a>
 
 ### a bank
 
@@ -21816,7 +24518,7 @@ These figures check with the bank statement.
 这些数字与银行结单核对无误。
 
 
-<a id="org5944a1f"></a>
+<a id="orgd75b3c6"></a>
 
 ### a post office
 
@@ -21836,7 +24538,7 @@ The Post Office has confirmed that up to fifteen thousand jobs could be lost.
 美国邮政局已证实可能会丧失多达15000个就业岗位。
 
 
-<a id="orged86e82"></a>
+<a id="org4ef5281"></a>
 
 ### a package
 
@@ -21902,7 +24604,7 @@ She directed her package to her boy friend.
 她在包裹上写上她男友的姓名地址。
 
 
-<a id="org7e420f9"></a>
+<a id="org6d71b82"></a>
 
 ### an envelop
 
@@ -21967,7 +24669,7 @@ enemy can counterattack against the fixing force.According to the United States
 Army there exist four types of envelopment:
 
 
-<a id="org0ccc055"></a>
+<a id="org24bbdf2"></a>
 
 ### a postcard
 
@@ -22005,7 +24707,7 @@ Once, long, long ago, almost forty years back, he passed through Ravenna and sen
 article.yeeyan.org
 
 
-<a id="org00e9659"></a>
+<a id="org9fe4243"></a>
 
 ### a stamp
 
@@ -22087,7 +24789,7 @@ He carefully stripped away the transparent paper and took out a valuable stamp.
 他小心地剥去透明纸，拿出了一张名贵的邮票。
 
 
-<a id="org55b7644"></a>
+<a id="org5cd30ee"></a>
 
 ### a letter
 
@@ -22146,7 +24848,7 @@ The letter passed from one to another until everyone had read it.
 这封信从一个人转手到另一个人直到每个人都看过。
 
 
-<a id="orgf62e5c6"></a>
+<a id="org61d6aa7"></a>
 
 ### a telegram
 
@@ -22188,7 +24890,7 @@ They rifled through the whole file but could not find the secret telegram.
 他们把整个卷宗翻了一遍，也没有找到那份秘密电报。
 
 
-<a id="orgfa69105"></a>
+<a id="orgeb22835"></a>
 
 ### a checkbook
 
@@ -22226,7 +24928,7 @@ Teach someone a useful skill – cooking, changing a tire, balancing a checkbook
 教给他人一项有用的技术——例如烹调、拆换轮胎，平衡支票簿。
 
 
-<a id="org882903b"></a>
+<a id="orgd8dcf3a"></a>
 
 ### a loan
 
@@ -22292,7 +24994,7 @@ The company won't keep going unless we can get some loan.
 除非我们能搞到贷款，否则公司就维持不下去了。
 
 
-<a id="orgdee60c4"></a>
+<a id="orge974d77"></a>
 
 ### a deposit account
 
@@ -22304,7 +25006,7 @@ deposit account
 N-COUNT A deposit account is the same as a savings account. 定期存款账户 (savings account)
 
 
-<a id="org0e8f512"></a>
+<a id="org47d084f"></a>
 
 ### deposit
 
@@ -22375,7 +25077,7 @@ To reach iron-ore deposit,they had to bore through solid rock.
 为了达到铁矿矿床，他们只好钻透坚硬的岩石。
 
 
-<a id="orgf23e3f8"></a>
+<a id="org72cc553"></a>
 
 ### account
 
@@ -22478,7 +25180,7 @@ You must account to father what you have done.
 你必须把你的所作所为对父亲解释清楚。
 
 
-<a id="org9bc134f"></a>
+<a id="orgd4e76cb"></a>
 
 ### a check
 
@@ -22563,7 +25265,7 @@ Each month we reconcile our check book with the bank statement.
 我们每个月都把支票簿与银行结账单核对一次。
 
 
-<a id="org3430795"></a>
+<a id="org2cd5b5b"></a>
 
 ### percent
 
@@ -22573,12 +25275,12 @@ adj. 百分之…的
 adv. 以百分之…地
 
 
-<a id="org382722c"></a>
+<a id="org8921558"></a>
 
 ### an account
 
 
-<a id="orgc7203e5"></a>
+<a id="org5c982d2"></a>
 
 ## text
 
@@ -22836,7 +25538,7 @@ The yield of rice will rise to 700 kilograms per mu.
     这部新小说引起了他的注意和兴趣。
 
 
-<a id="org43d0aa2"></a>
+<a id="org52d2452"></a>
 
 ### to receive
 
@@ -23165,121 +25867,166 @@ The man is investing money in an account at the bank.
     In order to open an account, you need to go to the bank.
 
 
-<a id="org8dde5b7"></a>
+<a id="org81039d4"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 05:46&gt;</span></span>98.5%
 
 
-<a id="org0312264"></a>
+<a id="orgc90d303"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 04:23&gt;</span></span>97.5
 
 
-<a id="org48265f0"></a>
+<a id="orga3b3a08"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 06:12&gt;</span></span>96.2%
 
 
-<a id="org0444ae5"></a>
+<a id="org8e65248"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 05:21&gt;</span></span>98.9%
 
 
-<a id="org6395733"></a>
+<a id="org93b9e4c"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 05:13&gt;</span></span>98.7%
 
 
-<a id="org44ff9bf"></a>
+<a id="orgb63495a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-19 Wed 13:57&gt;</span></span>99.2%
 
 
-<a id="org9a0ed1e"></a>
+<a id="org31525c8"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-24 Mon 10:46&gt;</span></span>95.6%
 
 
-<a id="org01686bd"></a>
+<a id="org9008df3"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-27 Thu 19:48&gt;</span></span>97.2%
 
 
-<a id="org14cdf8c"></a>
+<a id="org1075bb9"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 14:24&gt;</span></span>95.5%
 
 
-<a id="org9c4f1e2"></a>
+<a id="org99ed1a6"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 08:45&gt;</span></span>98.2%
 
 
-<a id="org88768fe"></a>
+<a id="orgf66fd14"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 05:21&gt;</span></span>98.7%
 
 
-<a id="org98fb7d6"></a>
+<a id="orga79d1f1"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 14:31&gt;</span></span>97.1%
 
 
-<a id="orgfbdab2a"></a>
+<a id="orgb014679"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-10 Thu 06:40&gt;</span></span>97.3%
 
 
-<a id="org63c0e37"></a>
+<a id="orgbb79e6f"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-12 Sat 10:21&gt;</span></span>97.6%
 
 
-<a id="orgf8fa084"></a>
+<a id="org26344b1"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 07:11&gt;</span></span>96.6%
 
 
-<a id="orgddb5ea7"></a>
+<a id="orge9cb0f9"></a>
 
 ## Writing <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 10:21&gt;</span></span>
 
 
-<a id="org54ae36b"></a>
+<a id="orgd691639"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 19:55&gt;</span></span>99.0%
 
 
-<a id="orgd48eee8"></a>
+<a id="orga2912c7"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-06 Mon 07:51&gt;</span></span>98.3%
 
 
-<a id="orgd890af0"></a>
+<a id="org32b2610"></a>
 
 ## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-06 Mon 19:29&gt;</span></span>two pages
 
 
-<a id="orgee11dc0"></a>
+<a id="orgb42b0e8"></a>
 
 ## Read aloud<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 05:19&gt;</span></span>
 
 
-<a id="org468e563"></a>
+<a id="org3d79d47"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 05:57&gt;</span></span>98.9%
 
 
-<a id="org2d8de6f"></a>
+<a id="orgceb17a3"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 08:18&gt;</span></span>99.4%
 
 
-<a id="orgd7fc5e6"></a>
+<a id="org80cfa93"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 07:30&gt;</span></span>99.1%
+
+
+<a id="org129bb9a"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 09:17&gt;</span></span>
+
+
+<a id="org443c916"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 16:08&gt;</span></span>99.6%
+
+
+<a id="org1b0b3e1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 10:45&gt;</span></span>98.7%
+
+
+<a id="org604825a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-20 Mon 19:29&gt;</span></span>98%
+
+
+<a id="orge1d6a1e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-19 Fri 15:36&gt;</span></span>97.4%
+
+
+<a id="orgf39f703"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-20 Sat 05:56&gt;</span></span>98.4%
+
+
+<a id="org323264f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-02 Fri 05:24&gt;</span></span>98.3%
+
+
+<a id="org3bd01d4"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-04 Sun 08:54&gt;</span></span>98.2%
+
+
+<a id="org8f47358"></a>
 
 ## Lesson 43
 
-a post offcie a mailbox a postman an ATM a credit car a post office a bank
+a post offcie a mailbox a postman an ATM a credit card a post office a bank
 
 a telegram a postcard a letter an envelope a package a stamp
 
@@ -23310,7 +26057,7 @@ paying with a credit card.
 The woman wants to cash a check.
 The man is opening an account at the bank.
 The man in the bank is getting out his check book.
-The yound man is withdrawing money at the ATM because the ATM is close to home.
+The young man is withdrawing money at the ATM because the ATM is close to home.
 
 The man wants to take out a loan at the bank.
 The man is investing money in an account at the bank.
@@ -23345,37 +26092,37 @@ In order to open an account, you need to go to the bank.
 In order to send a package, you need to fill out a form.
 
 
-<a id="orgc763474"></a>
+<a id="orged9bdc8"></a>
 
 # Forty four 96%
 
 
-<a id="org17d14d0"></a>
+<a id="orgdd41b63"></a>
 
 ## Review 94%
 
 
-<a id="org70a8b55"></a>
+<a id="org4686186"></a>
 
 ## Review 95.3%
 
 
-<a id="org32791c2"></a>
+<a id="org33b7924"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-02 Fri 05:31&gt;</span></span>95.8%
 
 
-<a id="orgb2150a8"></a>
+<a id="org16acfe9"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 03:57&gt;</span></span>97.4%
 
 
-<a id="org70b27fe"></a>
+<a id="org98882a3"></a>
 
 ## text
 
 
-<a id="org373e51e"></a>
+<a id="org1ae684f"></a>
 
 ### text
 
@@ -23452,7 +26199,7 @@ Why is the dad lying on the couch? He has a high temperature.
 Why isn't the athlete running? His leg hurts.
 
 
-<a id="orgee0a4b5"></a>
+<a id="orgfe18017"></a>
 
 ### vitamins
 
@@ -23467,7 +26214,7 @@ Lack of vitamin D is another factor to consider.
 缺乏维生素D是另一个需要考虑的因素。
 
 
-<a id="orgb3f37fa"></a>
+<a id="org2ff1d85"></a>
 
 ### a thermometer
 
@@ -23510,7 +26257,7 @@ I never go anywhere without a thermometer, a gargle, a raincoat and a parachute.
 如果没有体温计，漱口水，雨衣和降落伞的话，我是绝不会去的
 
 
-<a id="org9cd4777"></a>
+<a id="org5a508bd"></a>
 
 ### medicine
 
@@ -23562,14 +26309,14 @@ If you take this medicine,all your symptoms will fall away.
 如果你使用这种药物，你的所有症状将会消失。
 
 
-<a id="org267f7d4"></a>
+<a id="org398df56"></a>
 
 ### aspirin
 
 n. 阿司匹林（解热镇痛药）
 
 
-<a id="orgd56948f"></a>
+<a id="org9dcbfd0"></a>
 
 ### a syringe
 
@@ -23606,7 +26353,7 @@ Parents of children in the no treatment group received an empty syringe, and the
 未受药物治疗的孩子们的家长收到空的注射器，因此他们知道自己的孩子属于哪个治疗团体。
 
 
-<a id="org3b2ec47"></a>
+<a id="orgffacf77"></a>
 
 ### a bandage
 
@@ -23654,7 +26401,7 @@ His head has been hung over with thick bandage except two eyes.
 除了两只眼睛，他的头裹上了厚厚的绷带。
 
 
-<a id="org54df4e6"></a>
+<a id="orgbef01ab"></a>
 
 ### to take temperature
 
@@ -23715,7 +26462,7 @@ The temperature here varies greatly between day and night.
 这里白天和夜晚的温差很大。
 
 
-<a id="org04e8ecd"></a>
+<a id="org7ed697d"></a>
 
 ### to take blood pressure
 
@@ -23865,7 +26612,7 @@ The temperature here varies greatly between day and night.
     在她脸上的伤口处，眼泪和血混在一起。
 
 
-<a id="org1353a44"></a>
+<a id="org968032d"></a>
 
 ### to operate
 
@@ -23938,7 +26685,7 @@ The Air Services are not yet sound enough economically to operate without govern
 航空公司还不景气， 没有政府的补贴就难以经营。
 
 
-<a id="org010f455"></a>
+<a id="org0803a68"></a>
 
 ### to treat
 
@@ -24010,32 +26757,32 @@ We shouldn't philander solemnly with that point of view. On the contrary,we shou
 我们不应该貌似认真地对待这一观点，相反，我们应该认真严肃地对待它。
 
 
-<a id="orgbdf8456"></a>
+<a id="org11aab73"></a>
 
 ### to dress
 
 
-<a id="orgdefc073"></a>
+<a id="org49046af"></a>
 
 ### to give a shot
 
 
-<a id="org9e415f9"></a>
+<a id="orgcefb14d"></a>
 
 ### an operation
 
 
-<a id="orgb0be76d"></a>
+<a id="orga1e93f9"></a>
 
 ### temperature
 
 
-<a id="org4d7a9aa"></a>
+<a id="orge457d83"></a>
 
 ### a cold
 
 
-<a id="org9d1871e"></a>
+<a id="orgeeb5c0c"></a>
 
 ### a wound
 
@@ -24045,17 +26792,17 @@ vt. 使受伤
 vi. 受伤，伤害
 
 
-<a id="orgc2790e5"></a>
+<a id="orga4e2a41"></a>
 
 ### blood pressure
 
 
-<a id="org53f75a7"></a>
+<a id="org858afb9"></a>
 
 ### a cough
 
 
-<a id="org0e0227a"></a>
+<a id="org8e35e65"></a>
 
 ### a dentist
 
@@ -24100,7 +26847,7 @@ The word “dentist”denotes a doctor whose work is the care of teeth.
 “牙科医生”一词意谓其工作是医治牙齿的医生。
 
 
-<a id="org4e2d263"></a>
+<a id="orgd0c6cdc"></a>
 
 ### a cardiologist
 
@@ -24143,7 +26890,7 @@ However, according to renowned cardiologist Dr. Chauncey Crandall, there are som
 article.yeeyan.org
 
 
-<a id="orgdc837cd"></a>
+<a id="orgd73fb00"></a>
 
 ### a nurse
 
@@ -24202,7 +26949,7 @@ The patient nurse ministered to the dying old man.
 耐心的护士照料着那个垂死的老人。
 
 
-<a id="orgcd100bf"></a>
+<a id="org86386c1"></a>
 
 ### a surgeon
 
@@ -24245,7 +26992,7 @@ As far as I can recollect, his father was a surgeon at that time.
 就我所记得的，他的父亲那时是个外科医生。
 
 
-<a id="org3317713"></a>
+<a id="orgf07a1c0"></a>
 
 ### ophthalmologist
 
@@ -24285,7 +27032,7 @@ For three years afterward, I had partial sight, but my ophthalmologist told me t
 article.yeeyan.org
 
 
-<a id="org0bd0dc9"></a>
+<a id="orged5a87e"></a>
 
 ### a physician
 
@@ -24339,132 +27086,167 @@ The grandmother's eyes hurt.
 The woman has a stomachache.
 
 
-<a id="orge452ddc"></a>
+<a id="orgd2e0d50"></a>
 
 ## Review Lesson Forty four 94.9%
 
 
-<a id="org1a7e424"></a>
+<a id="org0a8f90c"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 20:11&gt;</span></span>95.8%
 
 
-<a id="orgcb2ce9e"></a>
+<a id="orgc86b984"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-04 Sun 06:21&gt;</span></span>96.2%
 
 
-<a id="org6f60893"></a>
+<a id="org1a99eb2"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 04:42&gt;</span></span>99.1%
 
 
-<a id="orgcdf76cf"></a>
+<a id="orga9c1bc4"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-17 Sat 09:01&gt;</span></span>99.3%
 
 
-<a id="orgb4437bd"></a>
+<a id="org90b2b86"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 Thu 10:11&gt;</span></span>93.3%
 
 
-<a id="orga32893d"></a>
+<a id="orgec1e38b"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-14 Fri 03:56&gt;</span></span>97.1%
 
 
-<a id="org7bb82a4"></a>
+<a id="orgb34fe40"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 21:06&gt;</span></span>99%
 
 
-<a id="org2f5e821"></a>
+<a id="orgf2e27ea"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 06:30&gt;</span></span>97%
 
 
-<a id="org1830f86"></a>
+<a id="orgbea5007"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 06:11&gt;</span></span>96.7%
 
 
-<a id="org48a76b6"></a>
+<a id="org3aefef9"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-28 Fri 07:32&gt;</span></span>97.6%
 
 
-<a id="org52ba4ac"></a>
+<a id="org4e5c2a0"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 07:40&gt;</span></span>96.%
 
 
-<a id="org3eae3b8"></a>
+<a id="orgd794635"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-05 Sat 19:58&gt;</span></span>98.1%
 
 
-<a id="orgab2d4a7"></a>
+<a id="org2f3e2fd"></a>
 
 ### A surgeon is a doctor who is specially trained to perform surgery. 外科医生
 
 
-<a id="orge737142"></a>
+<a id="orgb8182cb"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 04:59&gt;</span></span>98.2%
 
 
-<a id="org94f7008"></a>
+<a id="org5dd9c41"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 08:29&gt;</span></span>97.8%
 
 
-<a id="org06daf23"></a>
+<a id="orgf42e444"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 09:21&gt;</span></span>95.9%
 
 
-<a id="org69cbe69"></a>
+<a id="orgbcef6f8"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 21:18&gt;</span></span>97.2%
 
 
-<a id="org6bb9bba"></a>
+<a id="orgf7fdf2d"></a>
 
 ## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 05:20&gt;</span></span>
 
 
-<a id="org59e15aa"></a>
+<a id="orgcfc8be4"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed 06:37&gt;</span></span>98.5%
 
 
-<a id="orgc6472d3"></a>
+<a id="org0dc48e9"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 08:21&gt;</span></span>95.5%
 
 
-<a id="org554d925"></a>
+<a id="org3d63999"></a>
 
 ## study words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 19:14&gt;</span></span>99.1%
 
 
-<a id="org22f15bc"></a>
+<a id="org1f79c98"></a>
 
 ## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 05:42&gt;</span></span>
 
 
-<a id="org5345ee6"></a>
+<a id="org53a9046"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 06:37&gt;</span></span>99.7%
 
 
-<a id="org0afa967"></a>
+<a id="org9a99b56"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 15:39&gt;</span></span>98.6%
 
 
-<a id="org928de17"></a>
+<a id="orgb47bd1a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 07:07&gt;</span></span>99%
+
+
+<a id="orgfa8abce"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 12:22&gt;</span></span>98.5%
+
+
+<a id="org297f585"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-21 Sun 05:10&gt;</span></span>96.1%
+
+
+<a id="orgb04461b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-01 Thu 05:11&gt;</span></span>98.2%
+
+
+<a id="org43ac466"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-01 Thu 14:24&gt;</span></span>98.9%
+
+
+<a id="orgc64cb44"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-04 Sun 19:37&gt;</span></span>97.3%
+
+
+<a id="org5674bd2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-05 Mon 05:11&gt;</span></span>98.9%
+
+
+<a id="org71f6257"></a>
 
 ## Lesson 44
 
@@ -24527,139 +27309,184 @@ Why isn't the athlete running? His leg hurts.
 Why do the man's eyes hurt? He works a lot on the computer.
 
 
-<a id="org1222f37"></a>
+<a id="orga0114b2"></a>
 
 # Forty five 96.3%
 
 
-<a id="org35d3e5c"></a>
+<a id="orgb7fd875"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-01 Thu 19:07&gt;</span></span>98.3%
+
+
+<a id="org1fc65e5"></a>
 
 ## Review 95.4%
 
 
-<a id="orgca7ac18"></a>
+<a id="org217d19f"></a>
 
 ## Review 96.9%
 
 
-<a id="orgf3840f6"></a>
+<a id="orgd811a23"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-03 Sat 04:58&gt;</span></span>96.6%
 
 
-<a id="org3862ed1"></a>
+<a id="org5649090"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 05:00&gt;</span></span>96.9%
 
 
-<a id="org54a8838"></a>
+<a id="orge44db17"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 06:06&gt;</span></span>98.7%
 
 
-<a id="org9148d83"></a>
+<a id="orgeca2668"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 11:06&gt;</span></span>98.7%
 
 
-<a id="orgfc49286"></a>
+<a id="org1b018c3"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 14:56&gt;</span></span>99.6%
 
 
-<a id="org368540b"></a>
+<a id="org0ae4142"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 Wed 20:43&gt;</span></span>96%
 
 
-<a id="orge7b1968"></a>
+<a id="orgeb9d9b1"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-13 Thu 08:30&gt;</span></span>96%
 
 
-<a id="orge957f37"></a>
+<a id="orga715810"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 17:31&gt;</span></span>99.1%
 
 
-<a id="orgca12391"></a>
+<a id="orge78dd17"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-20 Thu 21:11&gt;</span></span>97.1%
 
 -   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-10-20 Thu 21:11]</span></span>
 
 
-<a id="org36c295e"></a>
+<a id="orgac9c4ac"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-21 Fri 05:57&gt;</span></span>98.6%
 
 
-<a id="org86bbe18"></a>
+<a id="orga4b71bd"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-23 Sun 05:21&gt;</span></span>97.4%
 
 
-<a id="org08655d4"></a>
+<a id="orge902ba1"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-01 Tue 06:25&gt;</span></span>97.8%
 
 
-<a id="orgd57476b"></a>
+<a id="orga72df2a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 10:42&gt;</span></span>98.4%
 
 
-<a id="org9ea9daa"></a>
+<a id="org4c17211"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-06 Sun 17:56&gt;</span></span>98.1%
 
 
-<a id="org2c039c1"></a>
+<a id="org4389032"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-09 Wed 06:32&gt;</span></span>98.5%
 
 
-<a id="org57f546d"></a>
+<a id="org3482e1b"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 06:17&gt;</span></span>97.6%
 
 
-<a id="org4fee55f"></a>
+<a id="org1c1b8a3"></a>
 
 ## Writing
 
 
-<a id="org84a3994"></a>
+<a id="org2031cf3"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue 07:04&gt;</span></span>98.3%
 
 
-<a id="org9c066ed"></a>
+<a id="org36ab4db"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-07 Tue 21:02&gt;</span></span>98.4%
 
 
-<a id="org5360abc"></a>
+<a id="org306c7c0"></a>
 
 ## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 09:42&gt;</span></span>
 
 
-<a id="orgf848300"></a>
+<a id="orga6271c3"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-08 Wed 10:13&gt;</span></span>99.6%
 
 
-<a id="org851970a"></a>
+<a id="org00b08de"></a>
 
 ## read aloud<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 05:26&gt;</span></span>45,44,43,42
 
 
-<a id="org2de61e6"></a>
+<a id="orgfcf1c4b"></a>
 
 ## Writing words and review words<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 06:14&gt;</span></span>five texts
 
 
-<a id="org5975f5f"></a>
+<a id="orgb421d39"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-16 Thu 05:24&gt;</span></span>
+
+
+<a id="org108d3a3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-17 Fri 19:44&gt;</span></span>98.9%
+
+
+<a id="org47e4016"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat 06:49&gt;</span></span>99.1%
+
+
+<a id="org9c822bf"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 16:35&gt;</span></span>98.5%
+
+
+<a id="orge6ff024"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-19 Sun 20:37&gt;</span></span>
+
+
+<a id="org2b4db09"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-20 Mon 03:44&gt;</span></span>40,45,43
+
+
+<a id="org29076fa"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-22 Mon 05:40&gt;</span></span>97.8%
+
+
+<a id="org0b32b51"></a>
+
+## Review98%
+
+
+<a id="org4249681"></a>
 
 ## Lesson 45
 
@@ -24714,82 +27541,82 @@ Elderly people die more often than young people.
 Elderly people take medicine more often than young people.
 
 
-<a id="org37f6ff4"></a>
+<a id="org873a662"></a>
 
 ## text
 
 
-<a id="org34d29b1"></a>
+<a id="orgf0316d8"></a>
 
 ### elderly people
 
 
-<a id="orgce45ee8"></a>
+<a id="orge14357f"></a>
 
 ### a child
 
 
-<a id="org274ae75"></a>
+<a id="orgbed7d96"></a>
 
 ### an elderly man
 
 
-<a id="org80f6750"></a>
+<a id="orga008c9a"></a>
 
 ### an adult
 
 
-<a id="orgb06aae5"></a>
+<a id="org4a5eee8"></a>
 
 ### an elderly woman
 
 
-<a id="orgb3c1eff"></a>
+<a id="orgb9767a3"></a>
 
 ### a teenager
 
 
-<a id="org9b1801c"></a>
+<a id="org0de4472"></a>
 
 ### to live
 
 
-<a id="org1dae95c"></a>
+<a id="org0f66337"></a>
 
 ### to be born
 
 
-<a id="org59440f4"></a>
+<a id="org54e9bd6"></a>
 
 ### to die
 
 
-<a id="orge7ec292"></a>
+<a id="org80e5d87"></a>
 
 ### to grow old
 
 
-<a id="org9efb767"></a>
+<a id="org26a4abd"></a>
 
 ### to mature
 
 
-<a id="org9d00bbe"></a>
+<a id="orgad4a07f"></a>
 
 ### to grow up
 
 
-<a id="org17f86c7"></a>
+<a id="org0081955"></a>
 
 ### more often
 
 
-<a id="org47cf003"></a>
+<a id="org33b3cfa"></a>
 
 ### more rarely
 
 
-<a id="org78a5a6d"></a>
+<a id="orgdfcbee8"></a>
 
 ### often
 
@@ -24848,22 +27675,22 @@ They often mucked about with some girls.
 他们常和一些姑娘们鬼混。
 
 
-<a id="org01f210d"></a>
+<a id="org1ef8e17"></a>
 
 ### slowly
 
 
-<a id="org63f5fe1"></a>
+<a id="orgbf134f9"></a>
 
 ### rarely
 
 
-<a id="org34d3f24"></a>
+<a id="org8602770"></a>
 
 ### fast
 
 
-<a id="orgbdd0a08"></a>
+<a id="org1b12303"></a>
 
 ### a bald man
 
@@ -24920,7 +27747,7 @@ There is a whole world of anxiety and disillusion behind those bald employment f
 article.yeeyan.org
 
 
-<a id="org0fd449f"></a>
+<a id="org6443561"></a>
 
 ### a gray man
 
@@ -24957,27 +27784,27 @@ It's gray when you take it out of the head.
 v.163.com
 
 
-<a id="org81bcb2e"></a>
+<a id="org5eae2e1"></a>
 
 ### bald
 
 
-<a id="orgf80a281"></a>
+<a id="orgd0ae016"></a>
 
 ### a gray woman
 
 
-<a id="orgaf5cecc"></a>
+<a id="orgaa4e7ab"></a>
 
 ### a bald cat
 
 
-<a id="orga89e86c"></a>
+<a id="org6e1a46a"></a>
 
 ### gray
 
 
-<a id="org9df869c"></a>
+<a id="org8061e1b"></a>
 
 ## text
 
@@ -25000,7 +27827,7 @@ A baby grows slowly.
 Adults dont' grow up, they age.
 
 
-<a id="org8dcb790"></a>
+<a id="orgc91dd97"></a>
 
 ### 英  [eɪdʒ]   美  [edʒ]
 
@@ -25124,12 +27951,12 @@ When the two files are crossed, a new list is created containing only unregister
 将两种文件一对比，漏登记的成人名单就出来了。
 
 
-<a id="org7ffa2ed"></a>
+<a id="org9cf0280"></a>
 
 ### Children don't grow old, they grow up.
 
 
-<a id="org01173da"></a>
+<a id="org5d9e227"></a>
 
 ### Teenagers also don't grow old, they mature.
 
@@ -25245,12 +28072,12 @@ That may be because I am a wordsmith, but also because it is the most mature.
 article.yeeyan.org
 
 
-<a id="orged5377a"></a>
+<a id="org3f945e8"></a>
 
 ### Elderly people grow old and die.
 
 
-<a id="org897adaf"></a>
+<a id="org7050151"></a>
 
 ## text
 
@@ -25259,7 +28086,7 @@ The teenagers are listening to the lecture.
 The teenagers are running down the stairs.
 
 
-<a id="org4d3e48b"></a>
+<a id="org57e99bc"></a>
 
 ### stair
 
@@ -25307,7 +28134,7 @@ Go for a run or a brisk walk, or jump on the stair stepper for half of an hour. 
 www.elanso.com
 
 
-<a id="org789ebf0"></a>
+<a id="org4192dd8"></a>
 
 ## It's hard for elderly people to climb the stairs.
 
@@ -25324,7 +28151,7 @@ Elderly people often take medicine.
 Elderly people often have a elevated blood pressure.
 
 
-<a id="orgdfab32f"></a>
+<a id="org2c1732d"></a>
 
 ### elevate
 
@@ -25394,7 +28221,7 @@ elevated blood pressure
  血压升高
 
 
-<a id="org5eba54e"></a>
+<a id="orgc43c2cd"></a>
 
 ## Elderly people often have heart pain.
 
@@ -25432,64 +28259,64 @@ Elderly people die more often than young people.
 Children get sick more often than adults.
 
 
-<a id="orgd402b4d"></a>
+<a id="org3a2fa40"></a>
 
 # Forty six 95.5%
 
 
-<a id="org68cbdc3"></a>
+<a id="org8662a9f"></a>
 
 ## Review forty six 96.6%
 
 不错
 
 
-<a id="orgccddee2"></a>
+<a id="orgcc44628"></a>
 
 ## Review 93.2%
 
 
-<a id="org7970598"></a>
+<a id="org446b5d4"></a>
 
 ## Review 95.9%
 
 
-<a id="org4106062"></a>
+<a id="org83175e2"></a>
 
 ## Review 96.5%
 
 
-<a id="org920c474"></a>
+<a id="org8b8cb60"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-05 Mon 05:06&gt;</span></span>96.4%
 
 
-<a id="org529792a"></a>
+<a id="orga3badb2"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 Tue 05:24&gt;</span></span>94.9%
 
 
-<a id="org6f9fb3b"></a>
+<a id="orgbec253b"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-06 Tue 14:20&gt; </span></span> 95.9%
 
 
-<a id="org7a0b965"></a>
+<a id="org86eed12"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-07 Wed 04:46&gt;</span></span>96.8%
 
 
-<a id="orgb247671"></a>
+<a id="org2b306bd"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2003-09-19 Fri&gt;</span></span>96.9%
 
 
-<a id="org1bbe5c0"></a>
+<a id="orgdc2c9e3"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 04:02&gt;</span></span>97.3%
 
 
-<a id="orge00932d"></a>
+<a id="org83239f3"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-16 Fri 04:48&gt;</span></span>99.1%
 
@@ -25498,22 +28325,22 @@ Children get sick more often than adults.
 -   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-09-16 Fri 05:31]</span></span>
 
 
-<a id="orge6ee2ca"></a>
+<a id="org3bf2b8a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 20:51&gt;</span></span>94.1%
 
 
-<a id="org140c2a1"></a>
+<a id="org76958de"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-12 Wed 06:10&gt;</span></span>96.1%
 
 
-<a id="org591bdc7"></a>
+<a id="org77cd60d"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 14:07&gt;</span></span>98.9%
 
 
-<a id="orge25a85e"></a>
+<a id="orgf37ad0f"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 19:13&gt;</span></span>99.2%
 
@@ -25522,42 +28349,112 @@ Children get sick more often than adults.
 -   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-10-18 Tue 19:39]</span></span>
 
 
-<a id="org28b5a19"></a>
+<a id="orgf06bbe8"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 14:45&gt;</span></span>95.7%
 
 
-<a id="orgdf62e79"></a>
+<a id="org2199b27"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 05:30&gt;</span></span>96.5%
 
 
-<a id="orgea9fa26"></a>
+<a id="org50d9f9a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 06:20&gt;</span></span>97.7%
 
 
-<a id="org3acd54f"></a>
+<a id="org0656253"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-24 Tue 06:28&gt;</span></span>97.3%
 
 
-<a id="org107abba"></a>
+<a id="org633796d"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-24 Tue 09:15&gt;</span></span>98.2%
 
 
-<a id="orgd8c09fe"></a>
+<a id="org0eb1163"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-09 Thu 20:24&gt;</span></span>98.2%
 
 
-<a id="org3ee996a"></a>
+<a id="orgb06f7f1"></a>
+
+## Writing <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-10 Fri 06:30&gt;</span></span>
+
+
+<a id="org8d6275f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-10 Fri 09:12&gt;</span></span>98.2%
+
+
+<a id="org6ee3de9"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-10 Fri 17:08&gt;</span></span>98.7%
+
+
+<a id="org0cf0f6b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-10 Fri 20:30&gt;</span></span>99.3%
+
+
+<a id="org6df6b06"></a>
+
+## Study words and Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 03:59&gt;</span></span>
+
+
+<a id="orgbb0a357"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 06:43&gt;</span></span>99.3%
+
+
+<a id="org0f62436"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-13 Mon 05:22&gt;</span></span>46-50
+
+
+<a id="org8bedadb"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 08:37&gt;</span></span>98.5%
+
+
+<a id="org340506c"></a>
+
+## Writing and Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 20:25&gt;</span></span>
+
+
+<a id="orgc1a6c92"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 05:30&gt;</span></span>
+
+
+<a id="org328ea5a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 08:38&gt;</span></span>99.6%
+
+
+<a id="orge8b8165"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-17 Fri 20:03&gt;</span></span>99.6%
+
+
+<a id="org405f898"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-23 Tue 20:15&gt;</span></span>96.8%
+
+
+<a id="org7349da2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-24 Wed 05:55&gt;</span></span>98.7%
+
+
+<a id="org9c9a319"></a>
 
 ## text
 
 
-<a id="org00ae4a9"></a>
+<a id="org7480ebd"></a>
 
 ### a bracelet
 
@@ -25594,7 +28491,7 @@ His friends remember his easy smile; I remember Ryan because of the bracelet his
 他的朋友还记得他那纯真的笑容，我记得瑞恩是因为我天天都戴着他母亲送给我的手镯。
 
 
-<a id="orgbc0da39"></a>
+<a id="orge2f3111"></a>
 
 ### a pendant
 
@@ -25633,7 +28530,7 @@ Yeah, the jewelers have been advertising this completely cheesy heart-shaped pen
 是的，临近情人节的最后几个星期，珠宝商一直在宣传那些俗气的心形吊坠的广告，但并不意味着每个人都想拥有。
 
 
-<a id="org931b0ee"></a>
+<a id="orgd5e51ce"></a>
 
 ### earrings
 
@@ -25675,7 +28572,7 @@ On display in a showroom in Tokyo are versions of the famous feline in everythin
 在东京一个陈列室里展出了这个著名的猫的各种东西，从小耳环到瓜型的小雕像都有。
 
 
-<a id="orgd16fcba"></a>
+<a id="orgbaace7a"></a>
 
 ### a ring
 
@@ -25772,7 +28669,7 @@ Mary babbled on and on about her new ring.
 玛丽喋喋不休地谈论她的新戒指。
 
 
-<a id="orgacb8200"></a>
+<a id="orga1c3915"></a>
 
 ### chain
 
@@ -25846,7 +28743,7 @@ The chain has fallen foul of some plants in the water.
 锚链与水中的一些植物缠在一起了。
 
 
-<a id="org19d9440"></a>
+<a id="orged153af"></a>
 
 ### a necklace
 
@@ -25886,7 +28783,7 @@ The girl blubbered something about a lost necklace.
 那女孩哭诉说丢了项链之类东西。
 
 
-<a id="org4999667"></a>
+<a id="orge564949"></a>
 
 ### gold
 
@@ -25955,7 +28852,7 @@ The gold glinted in the sunlight.
 金子在阳光下闪闪发光。
 
 
-<a id="org5e3abec"></a>
+<a id="org3e044a9"></a>
 
 ### a jeweler
 
@@ -25994,7 +28891,7 @@ I promised my girlfriend a gold necklace for her birthday, but when the jeweler 
 价格时，我低低地打了个长口哨。
 
 
-<a id="org537b47d"></a>
+<a id="org15bf39f"></a>
 
 ### a jewelry store
 
@@ -26032,7 +28929,7 @@ They buy jewelry and clothes for themselves with images of cats on them.
 他们为自己购买带有猫咪图象的珠宝饰物和衣服。
 
 
-<a id="orga98bade"></a>
+<a id="orgf0dc2e7"></a>
 
 ### a silver
 
@@ -26095,7 +28992,7 @@ The workers parted gold from silver in the workshop.
 在车间里工人们把金子从银子中提炼出来。
 
 
-<a id="orged2c24e"></a>
+<a id="orgb119c07"></a>
 
 ### diamond
 
@@ -26160,7 +29057,7 @@ The salesman fobbed off an imitation diamond on the lady.
 推销员用欺骗手段把假钻石卖给了这位太太。
 
 
-<a id="orgc203726"></a>
+<a id="org8ed8e9e"></a>
 
 ### jewels
 
@@ -26207,7 +29104,7 @@ I wondered where he got all those jewels. He must have knocked them over.
 我猜测着他在哪儿弄到的那么多珠宝。他一定是偷来的。
 
 
-<a id="org0e9f534"></a>
+<a id="org5215b65"></a>
 
 ### text
 
@@ -26406,7 +29303,7 @@ sliver earrings with samll diamonds
 a golden ring
 
 
-<a id="org7f07b37"></a>
+<a id="org45a4478"></a>
 
 ### a jewelry store
 
@@ -26444,7 +29341,7 @@ They buy jewelry and clothes for themselves with images of cats on them.
 他们为自己购买带有猫咪图象的珠宝饰物和衣服。
 
 
-<a id="org2595bbe"></a>
+<a id="org3592e2f"></a>
 
 ### a silver
 
@@ -26507,7 +29404,7 @@ The workers parted gold from silver in the workshop.
 在车间里工人们把金子从银子中提炼出来。
 
 
-<a id="org493de80"></a>
+<a id="org50f1c66"></a>
 
 ### diamond
 
@@ -26572,7 +29469,7 @@ The salesman fobbed off an imitation diamond on the lady.
 推销员用欺骗手段把假钻石卖给了这位太太。
 
 
-<a id="org1b16a8f"></a>
+<a id="orge0a0c34"></a>
 
 ### jewels
 
@@ -26619,7 +29516,7 @@ I wondered where he got all those jewels. He must have knocked them over.
 我猜测着他在哪儿弄到的那么多珠宝。他一定是偷来的。
 
 
-<a id="orga174b82"></a>
+<a id="orga3ad8f8"></a>
 
 ## text
 
@@ -27004,7 +29901,17 @@ Why are there so many people in the jewelry store? In the store there's a sale.
 People are buying jewelry wtih a discount.
 
 
-<a id="org2a5d912"></a>
+<a id="org2f8b93e"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-31 Wed 14:47&gt;</span></span>98.3%
+
+
+<a id="orgd6ce5c1"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-31 Wed 19:56&gt;</span></span>99.4%
+
+
+<a id="org016e78f"></a>
 
 ## Lesson 46
 
@@ -27062,63 +29969,63 @@ Why are there so may people in the jewelry store? In the store there's a sale.
 People are buying jewelry with a discount.
 Why is the girl happy? Her dad gives her golden earring. She loves jewelry.
 Why are the boyfriend and girlfriend picking out a ring? They want to marry.
-They love to each other.
+They love each other.
 Why are these earrings so expensive? There are very expensive diamonds in them.
 Diamonds is very expensive jewels.
 Why is the woman sad? She can't buy a golden pendant. She has little money.
 
 
-<a id="orgbdfb2ef"></a>
+<a id="org4266520"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 19:39&gt;</span></span>97.5%
 
 
-<a id="org040e17c"></a>
+<a id="org3e64c4f"></a>
 
 # Forty seven
 
 
-<a id="org19e0f37"></a>
+<a id="org64551a8"></a>
 
 ## Review 92.5%
 
 
-<a id="org64a23f7"></a>
+<a id="orgcb119f9"></a>
 
 ## Review 96.9%
 
 
-<a id="orgfae7252"></a>
+<a id="org76e9eb7"></a>
 
 ## Review 96.7%
 
 
-<a id="orgce272c7"></a>
+<a id="org5076289"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-08 Thu 06:31&gt;</span></span>95%
 
 
-<a id="org0888834"></a>
+<a id="org391be88"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 04:36&gt;</span></span>97%
 
 
-<a id="orgf35a49c"></a>
+<a id="org0b1d025"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-09 Fri 05:03&gt;</span></span>98.2%
 
 
-<a id="orga892d3a"></a>
+<a id="orgc5c469f"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 09:22&gt;</span></span>98.9%
 
 
-<a id="orgcabe6c0"></a>
+<a id="org2cb32f7"></a>
 
 ## text
 
 
-<a id="org0efad25"></a>
+<a id="orgd5bcba8"></a>
 
 ### legs
 
@@ -27183,7 +30090,7 @@ The doctor knifes carefully along a bone in his leg.
 医生小心地沿着他的一块腿骨用刀切过。
 
 
-<a id="org0f80e8b"></a>
+<a id="org48c6ba9"></a>
 
 ### The chest
 
@@ -27237,7 +30144,7 @@ Help me lift the chest up on the table.
 帮我把这个箱子搭到桌子上。
 
 
-<a id="orgb50e68f"></a>
+<a id="orgf121d90"></a>
 
 ### arms
 
@@ -27327,7 +30234,7 @@ He dragged at her arm.
 他抓住她的手臂。
 
 
-<a id="org1c8b417"></a>
+<a id="org0224510"></a>
 
 ### the head
 
@@ -27402,7 +30309,7 @@ He blacked out after they hit him on the head.
 他们击打他的头之后，他晕过去了。
 
 
-<a id="org40d075e"></a>
+<a id="org63e7ec3"></a>
 
 ### the belly
 
@@ -27454,7 +30361,7 @@ When that happens, no matter what you do, don't pick him up around the belly.
 发生这一切后，不论你做什么，不要抓住他的肚子把他抱起来。
 
 
-<a id="org7b5449d"></a>
+<a id="org6b38522"></a>
 
 ### the mouth
 
@@ -27546,7 +30453,7 @@ Her mouth quirked gently.
 她的嘴微微一撇。
 
 
-<a id="org66ecb19"></a>
+<a id="org8607647"></a>
 
 ### the brain
 
@@ -27606,7 +30513,7 @@ Can your brain absorb all this information?
 你的脑袋能吸收这全部信息吗?
 
 
-<a id="org2682578"></a>
+<a id="org12bd260"></a>
 
 ### the teeth
 
@@ -27648,7 +30555,7 @@ The teeth in one wheel engage with those of another.
 一个齿轮的齿与另一齿轮的齿相啮合。
 
 
-<a id="org3a95783"></a>
+<a id="org571bc3b"></a>
 
 ### the lungs
 
@@ -27693,7 +30600,7 @@ So this had been a trick to lure the tiger from the mountain! Zhu Laogong's lung
 朱老巩明白过来， 是调虎离山计， 一时气炸了肺。
 
 
-<a id="org8c5662c"></a>
+<a id="org21841e9"></a>
 
 ### the tongue
 
@@ -27801,7 +30708,7 @@ Beginning with breakfast, list every food, drink, and snack you consume in the l
 从早饭开始，在左面一栏列出你吃的每一样食物、饮料和零食。
 
 
-<a id="org05ed16e"></a>
+<a id="org7d2fbb6"></a>
 
 ### the liver
 
@@ -27854,7 +30761,7 @@ Her life was finally extinguished by the onset of liver complaint.
 她的生命之火终因肝病发作而被掐灭了。
 
 
-<a id="orgea57af3"></a>
+<a id="orgf334e20"></a>
 
 ### the stomach
 
@@ -27921,22 +30828,22 @@ His stomach bulged out over his belt.
 他的肚子在皮带上凸出来。
 
 
-<a id="orgc5540f9"></a>
+<a id="org622103f"></a>
 
 ### to see
 
 
-<a id="org477e635"></a>
+<a id="org86bb1b1"></a>
 
 ### to speak
 
 
-<a id="org375a91b"></a>
+<a id="orgb17ff3e"></a>
 
 ### to think
 
 
-<a id="orgd045f8e"></a>
+<a id="org03c44f0"></a>
 
 ### to bite
 
@@ -28041,7 +30948,7 @@ The scored jaws of a vise help it bite the work.
 台钳上有刻痕的虎钳牙帮助它紧咬住工件。
 
 
-<a id="orgcfbba72"></a>
+<a id="orgbe829bb"></a>
 
 ### to breathe
 
@@ -28097,7 +31004,7 @@ They know how to breathe.
 article.yeeyan.org
 
 
-<a id="org9b186b0"></a>
+<a id="orge6aa3ee"></a>
 
 ### to chew
 
@@ -28163,12 +31070,12 @@ You must chew your food well before you swallow it.
 你必须先把食物嚼碎再咽下去。
 
 
-<a id="org8850367"></a>
+<a id="org5d5f6a7"></a>
 
 ### strong teeth
 
 
-<a id="org66f1ecc"></a>
+<a id="org624abb2"></a>
 
 ### fragile bones
 
@@ -28278,12 +31185,12 @@ After the injury the bones did not articulate as well as before.
 受伤后骨的关节不如以前连接得好。
 
 
-<a id="org63aa67c"></a>
+<a id="orgd423b7b"></a>
 
 ### strong bones
 
 
-<a id="org353bda6"></a>
+<a id="org9cdef9e"></a>
 
 ### strong
 
@@ -28449,82 +31356,135 @@ Only the chairman's strong control was able to impart some sense of seriousness 
 只有主席强有力的掌握会场的能力才能使会议具有某种严肃感。
 
 
-<a id="org3b0001a"></a>
+<a id="orgb1bc21a"></a>
 
 ### fragile
 
 
-<a id="orga970b4f"></a>
+<a id="orgd2ec480"></a>
 
 ### fragile teeth
 
 
-<a id="orgb99c44a"></a>
+<a id="orgeee1621"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 03:36&gt;</span></span>97.7%
 
 
-<a id="orgf7f7f3d"></a>
+<a id="orgea8f2e3"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 07:48&gt;</span></span>96.5%
 
 
-<a id="org0291eda"></a>
+<a id="org17107b3"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 14:11&gt;</span></span>97.7%
 
 
-<a id="org0dbd098"></a>
+<a id="orgc0d095b"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 04:26&gt;</span></span>99.1%
 
 
-<a id="org7604de8"></a>
+<a id="org3c44291"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 05:46&gt;</span></span>99.6%
 
 
-<a id="org1519ab5"></a>
+<a id="orgf022e2e"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 11:50&gt;</span></span>96.3%
 
 
-<a id="org74489f5"></a>
+<a id="orgf567d76"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 05:57&gt;</span></span>97.2%
 
 
-<a id="orgd91bc42"></a>
+<a id="org9a1b649"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 14:39&gt;</span></span>97.3%
 
 
-<a id="org3f6208a"></a>
+<a id="org7c033a4"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 19:14&gt;</span></span>97.6%
 
 
-<a id="orgde6c928"></a>
+<a id="org6605fad"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 13:56&gt;</span></span>97.8%
 
 
-<a id="org0bb914a"></a>
+<a id="org21bb1c5"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 10:26&gt;</span></span>98.1%
 
 
-<a id="orga19138b"></a>
+<a id="orga386765"></a>
 
 ## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 12:04&gt;</span></span>
 
 
-<a id="orgaf84e2b"></a>
+<a id="org5c560fd"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 05:56&gt;</span></span>99.1%
 
 
-<a id="org174a89a"></a>
+<a id="orgfdb6d02"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 12:00&gt;</span></span>98.9%
+
+
+<a id="orgf6e8b08"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 14:42&gt;</span></span>98.9%
+
+
+<a id="orgc6399c7"></a>
+
+## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 16:18&gt;</span></span>
+
+
+<a id="orgc58db32"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 19:18&gt;</span></span>99.0%
+
+
+<a id="org0d855a7"></a>
+
+## Writing Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 09:09&gt;</span></span>
+
+\*\* DONE Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 09:00&gt;</span></span>99.6%
+  CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2017-02-14 Tue 09:19]</span></span>
+
+
+<a id="org9f6c43f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 20:48&gt;</span></span>90.0%
+
+
+<a id="org23465e3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-17 Fri 20:29&gt;</span></span>99.7%
+
+
+<a id="org0d31602"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-24 Wed 06:18&gt;</span></span>97.9%
+
+
+<a id="org6ba9d76"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-31 Wed 05:03&gt;</span></span>98.6%
+
+
+<a id="org6f040b0"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-31 Wed 07:15&gt;</span></span>98.5%
+
+
+<a id="org9636851"></a>
 
 ## text
 
@@ -28534,7 +31494,7 @@ the teeth the liver the lungs the tongue the brain the stomach
 
 to breathe to chew  to see  to bite  to speak  to think
 
-strong fragile strong teeth fragile teeth strong borns fragile bones
+strong fragile strong teeth fragile teeth strong bones fragile bones
 
 The brain is in the head.
 
@@ -28558,7 +31518,7 @@ The girl is biting a big apple with her teeth. She has strong teeth.
 
 The cow is chewing soft grass.
 
-Fish don't breath with lungs. They don't have lungs.
+Fish don't breath(breathe) with lungs. They don't have lungs.
 
 The woman is thinking of what to wear on the walk.
 
@@ -28609,42 +31569,42 @@ You shouldn't drink a lot of beer because your liver will hurt.
 You shouldn't eat a lot of pizza because your stomach will hurt.
 
 
-<a id="org8595453"></a>
+<a id="org990766d"></a>
 
 # Lesson Forty eitht 94.8%
 
 
-<a id="org209de41"></a>
+<a id="org2944a87"></a>
 
 ## Review 92.6%
 
 
-<a id="orgf7bdcc3"></a>
+<a id="org0eedbc5"></a>
 
 ## Review 95%
 
 
-<a id="org8b416c0"></a>
+<a id="org1be9073"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 06:02&gt;</span></span>97.4%
 
 
-<a id="org7ec35c5"></a>
+<a id="orged5def9"></a>
 
 ## Reivew <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-10 Sat 09:02&gt;</span></span>97%
 
 
-<a id="org54d9381"></a>
+<a id="org6146dbe"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 05:33&gt;</span></span>99.1%
 
 
-<a id="org9508231"></a>
+<a id="orgdc76c0b"></a>
 
 ## text
 
 
-<a id="orga701849"></a>
+<a id="org8cc1842"></a>
 
 ### a sculptor
 
@@ -28684,7 +31644,7 @@ This is what the sculptor must do.
 而雕塑家就必须做到这一点。
 
 
-<a id="org1f1452e"></a>
+<a id="org0aa420f"></a>
 
 ### a ballerina
 
@@ -28724,7 +31684,7 @@ As a ballerina, to embody the duality of the Swan Queen and the black swan can b
 作为一名芭蕾舞女演员，去体现天鹅女王和黑天鹅的两面性可能是一个残忍的困难的任务。
 
 
-<a id="orgf011f89"></a>
+<a id="org8cde0dd"></a>
 
 ### a poet
 
@@ -28764,12 +31724,12 @@ A poet's work may be potentiated by his experience of war and of suffering.
 诗人对于战争以及苦难的体验会使其作品更有力量。
 
 
-<a id="org4998ce1"></a>
+<a id="org394416e"></a>
 
 ### an actor
 
 
-<a id="org2136c41"></a>
+<a id="orgec2629b"></a>
 
 ### a painter
 
@@ -28816,7 +31776,7 @@ Don't nibble at your picture if you want to be a painter.
 如果你想成为一名画家，你就不要缩手缩脚地不敢下笔。
 
 
-<a id="org086f2e8"></a>
+<a id="orgc7629f2"></a>
 
 ### a singer
 
@@ -28858,7 +31818,7 @@ The girl was beguiled into thinking she could become a famous singer.
 这女孩被诱骗，误以为她能成为一名著名歌唱家。
 
 
-<a id="orgaada094"></a>
+<a id="orge659884"></a>
 
 ### paints
 
@@ -28943,7 +31903,7 @@ Thoughtless boys defaced the gate of the school with rude message in blue paint.
 轻率的男孩们用蓝油漆在学校大门上涂写了一些粗鲁话。
 
 
-<a id="orgc0f6d59"></a>
+<a id="org432317a"></a>
 
 ### wood
 
@@ -29007,7 +31967,7 @@ This wood burns so quickly that we have to make the fire up every half hour.
 这种木材烧得很快，每半个小时我们就得添加燃料。
 
 
-<a id="orga2c7041"></a>
+<a id="orge26a73f"></a>
 
 ### pencial
 
@@ -29054,7 +32014,7 @@ You must ink over your signature. Pencil writing is not allowed.
 你必须把签名用墨水描一下。铅笔书写是不允许的。
 
 
-<a id="org5e40d98"></a>
+<a id="org1451940"></a>
 
 ### canvas
 
@@ -29105,7 +32065,7 @@ Starting with paintings like this one, the canvas is the whole object, the whole
 从诸如这样的绘画开始，画布就成为一个完整的对象，完整的宇宙，没有任何东西可以超越。
 
 
-<a id="org648c244"></a>
+<a id="orgcf4792d"></a>
 
 ### clay
 
@@ -29159,7 +32119,7 @@ He models in clay.
 他用粘土做模型。
 
 
-<a id="orgd24f652"></a>
+<a id="orgbf1899a"></a>
 
 ### brushes
 
@@ -29247,7 +32207,7 @@ Among the program features you should check are the ability to tag resources lik
 辑）的能力和新的绘图动力系统。
 
 
-<a id="org8f98851"></a>
+<a id="org8a620ff"></a>
 
 ### to sculpt
 
@@ -29301,17 +32261,17 @@ Willard enters a meditative state in which his heartbeat is slowed, allowing him
 威拉德在创作时接近于冥想状态，脉搏减慢，这使他可以减少手颤，并在心跳间隙进行雕刻。
 
 
-<a id="orgc4b6fa5"></a>
+<a id="org625a708"></a>
 
 ### to sing
 
 
-<a id="org5c4facd"></a>
+<a id="org7075716"></a>
 
 ### to write
 
 
-<a id="org5432ee0"></a>
+<a id="orgd263000"></a>
 
 ### to carve
 
@@ -29366,7 +32326,7 @@ Your future is like that block of stone, your future has greatness inside it, bu
 你的未来就像一块石头，你的未来拥有无限可能，但是你需要通过自己的努力将它雕琢出来。
 
 
-<a id="org1bb1215"></a>
+<a id="org6b69d21"></a>
 
 ### to dance
 
@@ -29450,7 +32410,7 @@ They dance in a round.
 他们围成圆圈跳舞。
 
 
-<a id="org5d8c360"></a>
+<a id="org6c14ad6"></a>
 
 ### to draw
 
@@ -29510,7 +32470,7 @@ She was unlucky enough to draw kitchen cleanup twice in one week.
 她够倒霉的，在一周内两次抽签得下厨打扫。
 
 
-<a id="org2d36826"></a>
+<a id="orgfb37977"></a>
 
 ### opera
 
@@ -29561,7 +32521,7 @@ The audience applauded wildly at the end of the opera.
 观众在歌剧结束时狂热地鼓掌喝彩。
 
 
-<a id="orgced2da4"></a>
+<a id="orgd9e0010"></a>
 
 ### a sculpture
 
@@ -29609,7 +32569,7 @@ The ivory Buddha carved by Shen Weizhong, a contemporary Chinese sculptor, is th
 中国当代雕刻工艺师沈为众雕刻的象牙佛像是世界上最小的雕刻。 这个象牙佛像只有一粒米的五分之四大。
 
 
-<a id="org82af39f"></a>
+<a id="orgf042e18"></a>
 
 ### poems
 
@@ -29649,7 +32609,7 @@ This collection is made up of three parts: poems, essays and short stories.
 这本集子是由诗、散文和短篇小说三部分组合而成的。
 
 
-<a id="org66492fe"></a>
+<a id="org2cb2c85"></a>
 
 ### ballet
 
@@ -29696,12 +32656,12 @@ Ballet dancers practise their skill every day.
 芭蕾舞演员每天练功。
 
 
-<a id="org538cffc"></a>
+<a id="orgd2c759a"></a>
 
 ### painting
 
 
-<a id="orgcc81978"></a>
+<a id="org7aad3a0"></a>
 
 ### a museum
 
@@ -29746,7 +32706,7 @@ As the guide was showing us round the museum, two or three foreign tourists join
 导游领着我们参观博物馆时， 有两三个外国游客也加入了我们的行列。
 
 
-<a id="org7e48063"></a>
+<a id="org3fa2a2e"></a>
 
 ### a famous  painting hangs in a museum.
 
@@ -29902,67 +32862,117 @@ If there are many paintings in a room, it's a museum.
 If they dance in the theater, it's ballet.
 
 
-<a id="org99ada8f"></a>
+<a id="org2f528ed"></a>
 
 ## Revew<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-10 Mon 20:27&gt;</span></span>95.7%
 
 
-<a id="org7ced958"></a>
+<a id="org6f4a7a8"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-11 Tue 06:15&gt;</span></span>97.5%
 
 
-<a id="org986ac3b"></a>
+<a id="orgff28966"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 20:45&gt;</span></span>98.9%
 
 
-<a id="org3c87e52"></a>
+<a id="orgd3ce5cb"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-18 Tue 03:59&gt;</span></span>99.5%
 
 
-<a id="org1b59d2c"></a>
+<a id="orgfea49fc"></a>
 
 ## Revew<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 07:31&gt;</span></span>96.6%
 
 
-<a id="orgfeb384c"></a>
+<a id="org6180917"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 10:19&gt;</span></span>97.6%
 
 
-<a id="orgb4b5b14"></a>
+<a id="org643c3f0"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 18:27&gt;</span></span>98.9%
 
 
-<a id="org1645c4e"></a>
+<a id="orga4a5060"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 21:02&gt;</span></span>98.5
 
 
-<a id="org27659f4"></a>
+<a id="orge6f4308"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 07:09&gt;</span></span>99.4%
 
 
-<a id="orgce80096"></a>
+<a id="org8e771a8"></a>
 
 ## Writing<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 08:40&gt;</span></span>
 
 
-<a id="org83dc3ec"></a>
+<a id="orgf947997"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-23 Mon 09:53&gt;</span></span>99.8%
 
 
-<a id="orgc2c055e"></a>
+<a id="orge3f6765"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun 05:32&gt;</span></span>98.8%
 
 
-<a id="orgdb653af"></a>
+<a id="org82b49d6"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 19:38&gt;</span></span>99.0%
+
+
+<a id="org1c1dd9c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 08:46&gt;</span></span>98.7%
+
+受外界影响大，有人来访，正确率下降。
+当不受影响或少有影响时，说明掌握的更好。
+
+
+<a id="org8035925"></a>
+
+## Writing Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 11:49&gt;</span></span>
+
+A notebook is finished.
+
+
+<a id="org2c69fa7"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 15:29&gt;</span></span>99.0%
+
+
+<a id="org00d0b4c"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 09:20&gt;</span></span>99.4%
+
+
+<a id="org5572852"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 14:53&gt;</span></span>99.6%
+
+
+<a id="orgb9847e8"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-17 Fri 21:17&gt;</span></span>99.8%
+
+
+<a id="orgd60ce36"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-25 Thu 05:26&gt;</span></span>97.6%
+
+
+<a id="org8f78e4a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-26 Fri 05:20&gt;</span></span>98%
+
+
+<a id="org2b17e21"></a>
 
 ## Lesson forty eight
 
@@ -30059,7 +33069,7 @@ If there are many sculptures in a room, it's also a museum.
 If they dance in the theater, it's ballet.
 
 
-<a id="orgb2d9553"></a>
+<a id="org441ffc4"></a>
 
 # Forty nine 96.3%
 
@@ -30073,27 +33083,27 @@ GBOOK:
 -   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2016-08-14 Sun 05:29]</span></span>
 
 
-<a id="org830106a"></a>
+<a id="org65c2809"></a>
 
 ## Review 94.7%
 
 
-<a id="org9c9142b"></a>
+<a id="org1afd291"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 04:17&gt;</span></span>96%
 
 
-<a id="orgcffe261"></a>
+<a id="org0eade65"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-15 Thu 04:46&gt;</span></span>99.0%
 
 
-<a id="org774579a"></a>
+<a id="org347e4c4"></a>
 
 ## text
 
 
-<a id="org4190b1f"></a>
+<a id="org4f271e7"></a>
 
 ## a capital
 
@@ -30169,7 +33179,7 @@ I remember meeting you one evening at the Capital Theatre.
 我记得有一天晚上在首都剧场遇到你。
 
 
-<a id="org6cc305e"></a>
+<a id="org9357b24"></a>
 
 ## an emblem
 
@@ -30217,12 +33227,12 @@ But no government wants to see the tiger, an emblem of India, go extinct on its 
 但是没有哪届政府希望看到印度的象征之物——老虎在其任期内灭绝。
 
 
-<a id="org065a0c8"></a>
+<a id="orge9520c5"></a>
 
 ### a building
 
 
-<a id="orga8376b9"></a>
+<a id="org643c43a"></a>
 
 ### a flag
 
@@ -30284,7 +33294,7 @@ You can get anything of these prizes,if you can string this flag up on the top o
 如果你能把这面旗子挂到旗杆顶部，你就可以拿这些奖品中的任何一件。
 
 
-<a id="orgcc95146"></a>
+<a id="org856a3d2"></a>
 
 ### a country
 
@@ -30351,12 +33361,12 @@ They contracted an alliance with another country.
 他们与另外一个国家结成了同盟。
 
 
-<a id="org04313f1"></a>
+<a id="org1e6895c"></a>
 
 ### a city
 
 
-<a id="org9e780a3"></a>
+<a id="org6d93cf0"></a>
 
 ### a government
 
@@ -30407,7 +33417,7 @@ Every member of the government plumped for the premier’s new suggestion.
 政府每一位成员都坚决支持总理的新建议。
 
 
-<a id="orgae451bc"></a>
+<a id="orgcef56ad"></a>
 
 ### a president
 
@@ -30456,7 +33466,7 @@ The president and some governors have the power to kill a bill by pocketing it.
 总统和一些省长有权用不予签署的办法否决一项议案。
 
 
-<a id="org58a3bc0"></a>
+<a id="orga61dc1a"></a>
 
 ### a citizen
 
@@ -30507,7 +33517,7 @@ And it should mean something to every member of Congress and every citizen.
 它应该对国会每一个成员和每一个市民都有意义。
 
 
-<a id="orgcce3172"></a>
+<a id="orgec05ad4"></a>
 
 ### a government building
 
@@ -30516,7 +33526,7 @@ This woman is a citizen.
 citizens
 
 
-<a id="orgf0a0f6c"></a>
+<a id="org804518a"></a>
 
 ### to run
 
@@ -30633,7 +33643,7 @@ The government issurs laws.
     我建议你在与他们谈判时避开政治问题。
 
 
-<a id="org7311a95"></a>
+<a id="orgc05a847"></a>
 
 ### The government is located in the capital.
 
@@ -30710,7 +33720,7 @@ The police ensure peace on the streets.
     为了保证成功， 我们必须要有一个周密的计划。
 
 
-<a id="orga231cd7"></a>
+<a id="org6fcf6f4"></a>
 
 ### A weak government doesn't ensure peace in the country.
 
@@ -30844,7 +33854,7 @@ The police ensure peace on the streets.
     他站了起来，双膝无力地继续向前走。
 
 
-<a id="org08ae6cb"></a>
+<a id="orgd41f838"></a>
 
 ### A weak government doesn't ensure peace in the country.
 
@@ -30881,97 +33891,171 @@ A child shouldn't drive a car.
 A child should help his parents.
 
 
-<a id="org762ab6a"></a>
+<a id="org3cc440b"></a>
 
 ## Review Forty nine 95.3%
 
 
-<a id="org66ace8f"></a>
+<a id="orgd07bd9c"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 04:34&gt;</span></span>98.7%
 
 
-<a id="org418c1ba"></a>
+<a id="org4b6fb73"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 14:17&gt;</span></span>95.1%
 
 
-<a id="orgb3441f3"></a>
+<a id="org822e322"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 19:18&gt;</span></span>97.1%
 
 
-<a id="org841a841"></a>
+<a id="org27d7534"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-08 Sat 20:27&gt;</span></span>96.7%
 
 
-<a id="org824c075"></a>
+<a id="orga988d8b"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 06:08&gt;</span></span>97.7%
 
 
-<a id="org6792d66"></a>
+<a id="org9c8a748"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 07:32&gt;</span></span>98.5%
 
 
-<a id="org5f77072"></a>
+<a id="org1f34adb"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 19:11&gt;</span></span>99.3%
 
 
-<a id="org45f7799"></a>
+<a id="orgae66816"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-22 Sat 11:13&gt;</span></span>96.2%
 
 
-<a id="orgaadfafa"></a>
+<a id="orgea2d0e3"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 12:18&gt;</span></span>97.8%
 
 
-<a id="orgb9b7ec3"></a>
+<a id="orgde0a5de"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 20:29&gt;</span></span>98.1%
 
 
-<a id="orgfd637da"></a>
+<a id="org5b0cb8b"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 06:24&gt;</span></span>98.5%
 
 
-<a id="orgba0083d"></a>
+<a id="org43f07ce"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-07 Mon 20:22&gt;</span></span>98.6%
 
 
-<a id="orgc89ed84"></a>
+<a id="orgbb69d52"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 09:59&gt;</span></span>98.5%
 
 
-<a id="orgf8311c8"></a>
+<a id="org984b673"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 17:25&gt;</span></span>98.8%
 
 
-<a id="org8b0f498"></a>
+<a id="orge8e262d"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 17:52&gt;</span></span>99.3%
 
 
-<a id="orgb939381"></a>
+<a id="orgac614d9"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 21:10&gt;</span></span>96.5%
 
 
-<a id="org9978d5a"></a>
+<a id="org48a08c1"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 20:29&gt;</span></span>98.5%
 
 
-<a id="org567d42d"></a>
+<a id="org108edfa"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 20:02&gt;</span></span>98.4%
+
+
+<a id="org47f3a86"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 07:13&gt;</span></span>99.3%
+
+
+<a id="orgcbe6cda"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-13 Mon 11:44&gt;</span></span>99.5%
+
+
+<a id="orgde48eca"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 11:17&gt;</span></span>99.0%
+
+
+<a id="org79721c3"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 17:38&gt;</span></span>98.9%
+
+
+<a id="org0a75aa2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 06:42&gt;</span></span>99.3%
+
+
+<a id="org56a799f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 08:16&gt;</span></span>99.3%
+
+
+<a id="org917a8ef"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 09:40&gt;</span></span>99.2%
+
+
+<a id="org5e74ae2"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-15 Wed 15:18&gt;</span></span>99.8%
+
+
+<a id="org525d894"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-26 Fri 05:41&gt;</span></span>97.6%
+
+
+<a id="org977a2ef"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-28 Sun 06:04&gt;</span></span>97.8%
+
+:LOGBOOK:
+
+-   State "DONE"       from "STARTED"    <span class="timestamp-wrapper"><span class="timestamp">[2017-05-28 Sun 06:23]</span></span>
+
+
+<a id="orgaa88b4b"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-28 Sun 09:57&gt;</span></span>98.7%
+
+
+<a id="orgb62da04"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-28 Sun 16:43&gt;</span></span>99.5%
+
+
+<a id="org9e0028a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-29 Mon 20:53&gt;</span></span>98.4%
+
+
+<a id="org0a2ffa2"></a>
 
 ## Lesson forty nine
 
@@ -31069,27 +34153,27 @@ A chef shouldn't run the country.
 Parents should feed their child.
 
 
-<a id="orgabed31b"></a>
+<a id="orgb0dc36e"></a>
 
 # Fifty 95.0%
 
 
-<a id="org17b44b6"></a>
+<a id="org87b732f"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 12:11&gt;</span></span>98.8%
 
 
-<a id="org0279f3c"></a>
+<a id="org1bf8efa"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-11 Sun 18:39&gt;</span></span>99.2%
 
 
-<a id="org0612fe8"></a>
+<a id="org5cf577e"></a>
 
 ## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-12 Mon 02:20&gt;</span></span>99.1%
 
 
-<a id="orgb483837"></a>
+<a id="org922aa7e"></a>
 
 ## text
 
@@ -31231,102 +34315,167 @@ Why is the woman digging up earth in front of her house? She's planting flowers
 there.
 
 
-<a id="org48d1015"></a>
+<a id="orgb8d5b0e"></a>
 
 ## Review Fifty 96.7%
 
 
-<a id="org3c2ebb7"></a>
+<a id="orgad6cb6f"></a>
 
 ## Review 96.4%
 
 
-<a id="org7f652bc"></a>
+<a id="org4008312"></a>
 
 ## Review 96.7%
 
 
-<a id="orgc4f18d6"></a>
+<a id="org917c08c"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-09-13 Tue 03:56&gt;</span></span>99.1%
 
 
-<a id="orgf867b14"></a>
+<a id="orgb2550db"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-06 Thu 05:02&gt;</span></span>99.6%
 
 
-<a id="orgbf9e0af"></a>
+<a id="orge240cf1"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-09 Sun 06:33&gt;</span></span>98.6%
 
 
-<a id="org1a3c2e8"></a>
+<a id="orge118c5a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-16 Sun 19:49&gt;</span></span>99.3%
 
 
-<a id="org122053a"></a>
+<a id="orgdf00374"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-17 Mon 05:31&gt;</span></span>99.4%
 
 
-<a id="orgbe2c476"></a>
+<a id="org33b3c25"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 16:16&gt;</span></span>97.1%
 
 
-<a id="org0d0f9a1"></a>
+<a id="org2141c8d"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-30 Sun 17:51&gt;</span></span>98.8%
 
 
-<a id="org6c975c4"></a>
+<a id="orgb0e17a3"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-10-31 Mon 05:56&gt;</span></span>98.2%
 
 
-<a id="org93e75bf"></a>
+<a id="org514ae6e"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-08 Tue 05:01&gt;</span></span>98.3%
 
 
-<a id="org2cd922a"></a>
+<a id="orgeea598f"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2016-11-14 Mon 06:10&gt;</span></span>97.4%
 
 
-<a id="orgda5b1da"></a>
+<a id="org9292b8f"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-20 Fri 05:52&gt;</span></span>97.1%
 
 
-<a id="orgad4b653"></a>
+<a id="org3911f8b"></a>
 
 ## Writing
 
 
-<a id="org65aea10"></a>
+<a id="orgaec4ae0"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-20 Fri 21:21&gt;</span></span>97.5%
 
 
-<a id="org2f2573b"></a>
+<a id="org7397c8a"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-21 Sat 06:27&gt;</span></span>98.5%
 
 
-<a id="org7c0cf16"></a>
+<a id="org4e15d22"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-22 Sun 11:55&gt;</span></span>98.2%
 
 
-<a id="orge0bdaf6"></a>
+<a id="org3bd60cf"></a>
 
 ## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-28 Sat 20:10&gt;</span></span>98.4%
 
 
-<a id="org0bbaa79"></a>
+<a id="org0f11805"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-11 Sat 20:22&gt;</span></span>99.6%
+
+
+<a id="org9280597"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 05:29&gt;</span></span>50,49,48.47
+
+
+<a id="org6006e37"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 06:46&gt;</span></span>99.0%
+
+
+<a id="org2118c6a"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-12 Sun 17:57&gt;</span></span>99.0%
+
+
+<a id="org1e9fa14"></a>
+
+## Review <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-13 Mon 11:19&gt;</span></span>98.6%
+
+
+<a id="org280e63f"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-13 Mon 15:14&gt;</span></span>99.8%
+
+
+<a id="org4ec4b8c"></a>
+
+## Loud Read<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 05:27&gt;</span></span>50-46
+
+
+<a id="orgb814ac6"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-14 Tue 11:37&gt;</span></span>99.6%
+
+
+<a id="org0793684"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-27 Sat 05:19&gt;</span></span>98.6%
+
+
+<a id="org97f99b5"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-27 Sat 16:21&gt;</span></span>98.5%
+
+
+<a id="orga16af17"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-28 Sun 05:35&gt;</span></span>99.1%
+
+
+<a id="orgb088724"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-28 Sun 20:51&gt;</span></span>99%
+
+
+<a id="orga81c560"></a>
+
+## Review<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-05-29 Mon 04:06&gt;</span></span>99.6%
+
+
+<a id="org0196cb7"></a>
 
 ## Lesson fifty
 
@@ -31433,36 +34582,30 @@ Where do they plant flowers? They plant flowers in the park.
 Where are the women talking? They're talking on a bench in the park.
 
 
-<a id="org0857226"></a>
+<a id="org87cb56a"></a>
 
 # listen
 
 
-<a id="orgb9130e0"></a>
+<a id="org32c5a1d"></a>
 
 # listen 英语发音unit one
 
 
-<a id="org5e56f2d"></a>
+<a id="orgdb45580"></a>
 
 ## words
 
 
-<a id="orgffa1906"></a>
+<a id="orga9c1f7a"></a>
 
 ### neck <span class="timestamp-wrapper"><span class="timestamp">&lt;2016-06-21 Tue&gt;</span></span>
 
- 英  [Thursday   28 July 2016
- journal:     4:02- 4:04 Clocked:   (0:02) STARTED benek]   美  [nɛk]
-n. 脖子；衣6领；海峡
-vi. 搂著脖子亲吻；变狭窄
-vt. teen thousand jobs could be lost.
-
-
-<a id="org29f8e13"></a>
-
-## 
-
+  英  [Thursday   28 July 2016
+  journal:     4:02- 4:04 Clocked:   (0:02) STARTED benek]   美  [nɛk]
+ n. 脖子；衣6领；海峡
+ vi. 搂著脖子亲吻；变狭窄
+ vt. teen thousand jobs could be lost.
 美国邮政局已证实可能会丧失多达15000个就业岗位。
 
 1.  a package
@@ -32166,7 +35309,7 @@ vt. teen thousand jobs could be lost.
 14. an account
 
 
-<a id="org7aebd4f"></a>
+<a id="org8bf2674"></a>
 
 ### text
 
@@ -32424,7 +35567,7 @@ The yield of rice will rise to 700 kilograms per mu.
     这部新小说引起了他的注意和兴趣。
 
 
-<a id="orgbe0e4f3"></a>
+<a id="org09e51b9"></a>
 
 ### to receive
 
@@ -32860,7 +36003,27 @@ The man is investing money in an account at the bank.
     来源于：维基百科
 
 
-<a id="orge8a4195"></a>
+<a id="orgf8f7a85"></a>
+
+## <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-11 Sat 10:30&gt;</span></span>
+
+
+<a id="org8ee9ab5"></a>
 
 # Wrting<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri 15:13&gt;</span></span>
+
+
+<a id="orga440c3f"></a>
+
+# Writing
+
+
+<a id="org04a2e70"></a>
+
+## Lesson 33<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-02 Thu 09:34&gt;</span></span>
+
+
+<a id="org13a85e7"></a>
+
+# Watching IT Crowd 6<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-13 Mon 20:12&gt;</span></span>
 
