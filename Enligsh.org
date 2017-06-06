@@ -21239,6 +21239,12 @@ The man is cleaning up the table.
    - State "DONE"       from "STARTED"    [2017-06-05 Mon 11:01]
    CLOCK: [2017-06-05 Mon 10:36]--[2017-06-05 Mon 11:01] =>  0:25
    :END:
+** DONE Review<2017-06-06 Tue 05:46>98.9%
+   CLOSED: [2017-06-06 Tue 06:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-06 Tue 06:09]
+   CLOCK: [2017-06-06 Tue 05:46]--[2017-06-06 Tue 06:09] =>  0:23
+   :END:
 ** Lesson 41
 a pen
 a pencil
@@ -23908,6 +23914,12 @@ In order to open an account, you need to go to the bank.
    - State "DONE"       from "STARTED"    [2017-06-04 Sun 09:20]
    CLOCK: [2017-06-04 Sun 08:54]--[2017-06-04 Sun 09:20] =>  0:26
    :END:
+** DONE Review<2017-06-06 Tue 06:10>98.8%
+   CLOSED: [2017-06-06 Tue 06:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-06 Tue 06:37]
+   CLOCK: [2017-06-06 Tue 06:10]--[2017-06-06 Tue 06:37] =>  0:27
+   :END:
 ** Lesson 43
 a post offcie a mailbox a postman an ATM a credit card a post office a bank
 
@@ -25324,6 +25336,12 @@ Why do the man's eyes hurt? He works a lot on the computer.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-01 Thu 05:09]
    CLOCK: [2017-06-01 Thu 04:35]--[2017-06-01 Thu 05:09] =>  0:34
+   :END:
+** DONE <2017-06-06 Tue 10:07>99.4%
+   CLOSED: [2017-06-06 Tue 10:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-06 Tue 10:24]
+   CLOCK: [2017-06-06 Tue 10:07]--[2017-06-06 Tue 10:24] =>  0:17
    :END:
 ** Lesson 45
 a child a teenager an elderly man an eldery woman an adult an elderly people
@@ -29060,6 +29078,21 @@ Only the chairman's strong control was able to impart some sense of seriousness 
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-31 Wed 07:33]
    CLOCK: [2017-05-31 Wed 07:15]--[2017-05-31 Wed 07:33] =>  0:18
+   :END:
+** DONE Review<2017-06-06 Tue 14:20>98.7%
+   CLOSED: [2017-06-06 Tue 15:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-06 Tue 15:07]
+   CLOCK: [2017-06-06 Tue 14:20]--[2017-06-06 Tue 15:07] =>  0:47
+   :END:
+两次打断：
+1.赵伟、高培金检查；
+2.高培金来交流钉钉使用。
+** DONE Review<2017-06-06 Tue 20:37>99.2%
+   CLOSED: [2017-06-06 Tue 20:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-06 Tue 20:55]
+   CLOCK: [2017-06-06 Tue 20:37]--[2017-06-06 Tue 20:55] =>  0:18
    :END:
 ** text
 
@@ -33500,6 +33533,7 @@ amming
    - State "DONE"       from "STARTED"    [2017-03-02 Thu 10:34]
    CLOCK: [2017-03-02 Thu 09:34]--[2017-03-02 Thu 10:34] =>  1:00
    :END:
+
 * DONE Watching IT Crowd 6<2017-03-13 一 20:12>
   CLOSED: [2017-04-15 六 16:40]
   :LOGBOOK:
