@@ -23,7 +23,8 @@
    - State "DONE"       from "STARTED"    [2017-03-12 日 07:14]
    CLOCK: [2017-03-11 六 22:00]--[2017-03-12 日 07:14] =>  9:14
    :END:
-** DONE I'm going to home and sleeing.<2017-03-12 日 21:32>
+*****
+ DONE I'm going to home and sleeing.<2017-03-12 日 21:32>
    CLOSED: [2017-03-13 一 05:35]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-13 一 05:35]
@@ -523,8 +524,13 @@
    - State "DONE"       from "STARTED"    [2017-06-06 Tue 06:38]
    CLOCK: [2017-06-05 Mon 21:25]--[2017-06-06 Tue 05:46] =>  8:21
    :END:
-** STARTED                                                            :sleep:
-   SCHEDULED: <2017-06-06 Tue 21:40 +1d>
+** DONE <2017-06-07 Wed 22:00>                                        :sleep:
+   CLOSED: [2017-06-07 Wed 05:15]
    :LOGBOOK:
-   CLOCK: [2017-06-06 Tue 21:34]
+   - State "DONE"       from "STARTED"    [2017-06-07 Wed 05:15]
+   CLOCK: [2017-06-06 Tue 22:00]--[2017-06-07 Wed 05:15] =>  7:15
+   :END:
+** STARTED <2017-06-07 Wed 21:54>                                     :sleep:
+   :LOGBOOK:
+   CLOCK: [2017-06-07 Wed 21:54]
    :END:
