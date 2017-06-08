@@ -530,7 +530,9 @@
    - State "DONE"       from "STARTED"    [2017-06-07 Wed 05:15]
    CLOCK: [2017-06-06 Tue 22:00]--[2017-06-07 Wed 05:15] =>  7:15
    :END:
-** STARTED <2017-06-07 Wed 21:54>                                     :sleep:
+** DONE <2017-06-07 Wed 21:54>                                        :sleep:
+   CLOSED: [2017-06-08 Thu 05:07]
    :LOGBOOK:
-   CLOCK: [2017-06-07 Wed 21:54]
+   - State "DONE"       from "STARTED"    [2017-06-08 Thu 05:07]
+   CLOCK: [2017-06-07 Wed 21:54]--[2017-06-08 Thu 05:07] =>  7:13
    :END:

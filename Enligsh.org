@@ -2514,6 +2514,12 @@ Are the young women in a nighclub? No, they are in a shop.
    - State "DONE"       from "STARTED"    [2017-05-01 Mon 19:13]
    CLOCK: [2017-05-01 Mon 18:58]--[2017-05-01 Mon 19:13] =>  0:15
    :END:
+** DONE Review<2017-06-08 Thu 05:41>99.7%
+   CLOSED: [2017-06-08 Thu 06:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-08 Thu 06:00]
+   CLOCK: [2017-06-08 Thu 05:41]--[2017-06-08 Thu 06:00] =>  0:19
+   :END:
 ** Lesson 10
 
 a café
@@ -3189,6 +3195,12 @@ Are grandma and grandad crying? No, grandma and grandad are laughing.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-01 Mon 16:23]
    CLOCK: [2017-05-01 Mon 16:07]--[2017-05-01 Mon 16:23] =>  0:16
+   :END:
+** DONE Review<2017-06-08 四 11:19>98.8%
+   CLOSED: [2017-06-08 四 11:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-08 四 11:39]
+   CLOCK: [2017-06-08 四 11:19]--[2017-06-08 四 11:39] =>  0:20
    :END:
 ** Lesson 12
 
@@ -21253,6 +21265,12 @@ The man is cleaning up the table.
    CLOCK: [2017-06-07 Wed 14:37]--[2017-06-07 Wed 14:55] =>  0:18
    - State "DONE"       from "STARTED"    [2017-06-07 Wed 11:49]
    CLOCK: [2017-06-07 Wed 11:11]--[2017-06-07 Wed 11:49] =>  0:38
+   :END:
+** DONE Review<2017-06-08 Thu 05:09>90%
+   CLOSED: [2017-06-08 Thu 05:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-08 Thu 05:32]
+   CLOCK: [2017-06-08 Thu 05:09]--[2017-06-08 Thu 05:32] =>  0:23
    :END:
 ** Lesson 41
 a pen
