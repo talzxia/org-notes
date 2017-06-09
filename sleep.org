@@ -373,6 +373,7 @@
    - State "DONE"       from "STARTED"    [2017-05-12 Fri 05:22]
    CLOCK: [2017-05-11 Thu 21:46]--[2017-05-12 Fri 05:22] =>  7:36
    :END:
+<<<<<<< Updated upstream
 ** DONE sleeping<2017-05-12 Fri 22:00>
    CLOSED: [2017-05-13 Sat 04:54]
    :LOGBOOK:
@@ -490,6 +491,7 @@
 ** DONE <2017-05-31 Wed 21:33>
    CLOSED: [2017-06-01 Thu 04:33]
    :LOGBOOK:
+<<<<<<< Updated upstream
    - State "DONE"       from "STARTED"    [2017-06-01 Thu 04:33]
    CLOCK: [2017-05-31 Wed 21:33]--[2017-06-01 Thu 04:33] =>  7:00
    :END:
@@ -535,4 +537,16 @@
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-08 Thu 05:07]
    CLOCK: [2017-06-07 Wed 21:54]--[2017-06-08 Thu 05:07] =>  7:13
+=======
+=======
+** STARTED sleeping<2017-05-12 Fri 21:20>
+   :LOGBOOK:
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+   :END:
+** DONE sleeping<2017-06-08 Thu 00:40>
+   CLOSED: [2017-06-09 Fri 06:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-09 Fri 06:28]
+   CLOCK: [2017-06-09 Fri 00:47]--[2017-06-09 Fri 06:28] =>  5:41
    :END:
