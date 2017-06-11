@@ -1064,11 +1064,13 @@ my daughter fried potatoes with meat and I drink a beer.
     :END:
 
 *** TODO :breakfast:
-    SCHEDULED: <2017-06-11 Sun 06:50 +1d>
+    SCHEDULED: <2017-06-12 Mon 06:50 +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2017-06-10 Sat 19:14]
+    :LAST_REPEAT: [2017-06-11 Sun 09:10]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-11 Sun 09:10]
+    CLOCK: [2017-06-11 Sun 07:17]--[2017-06-11 Sun 09:10] =>  1:53
     - State "DONE"       from "STARTED"    [2017-06-10 Sat 19:14]
     CLOCK: [2017-06-10 Sat 05:58]--[2017-06-10 Sat 19:14] => 13:16
     今天送老人回家，单程200公里，三个小时，在三菊家吃饭。归程有雨。累。
@@ -1096,11 +1098,13 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:11]
     CLOCK: [2017-06-05 Mon 11:44]--[2017-06-05 Mon 11:46] =>  0:02
     :END:
-*** TODO <2017-06-10 Sat 11:40 +1d>                                   :lunch:
+*** TODO <2017-06-11 Sun 11:40 +1d>                                   :lunch:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-06-09 Fri 16:50]
+    :LAST_REPEAT: [2017-06-11 Sun 15:41]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-11 Sun 15:41]
+    CLOCK: [2017-06-11 Sun 13:00]--[2017-06-11 Sun 15:41] =>  2:41
     - State "DONE"       from "STARTED"    [2017-06-09 Fri 16:50]
     - State "DONE"       from "STARTED"    [2017-06-09 Fri 06:05]
     - State "DONE"       from "STARTED"    [2017-06-07 Wed 14:36]
@@ -1128,11 +1132,13 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:12]
     CLOCK: [2017-06-05 Mon 18:02]--[2017-06-05 Mon 19:12] =>  1:10
     :END:
-*** TODO <2017-06-09 Fri 17:23 +1d>                                   :dinner:
+*** TODO <2017-06-10 Sat 17:23 +1d>                                  :dinner:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-06-09 Fri 20:53]
+    :LAST_REPEAT: [2017-06-11 Sun 19:42]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-11 Sun 19:42]
+    CLOCK: [2017-06-11 Sun 18:22]--[2017-06-11 Sun 19:42] =>  1:20
     - State "DONE"       from "STARTED"    [2017-06-09 Fri 20:53]
     CLOCK: [2017-06-09 Fri 17:15]--[2017-06-09 Fri 20:53] =>  3:38
     - State "DONE"       from "STARTED"    [2017-06-08 四 06:47]

@@ -14439,6 +14439,18 @@ What is the waiter doing? He's carrying a whole cake on a tray.
    - State "DONE"       from "STARTED"    [2017-05-15 Mon 19:44]
    CLOCK: [2017-05-15 Mon 19:22]--[2017-05-15 Mon 19:44] =>  0:22
    :END:
+** DONE Review<2017-06-11 Sun 06:05>98.4%
+   CLOSED: [2017-06-11 Sun 06:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-11 Sun 06:31]
+   CLOCK: [2017-06-11 Sun 06:05]--[2017-06-11 Sun 06:31] =>  0:26
+   :END:
+** DONE Review<2017-06-11 Sun 16:21>98.8%
+   CLOSED: [2017-06-11 Sun 16:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-11 Sun 16:47]
+   CLOCK: [2017-06-11 Sun 16:21]--[2017-06-11 Sun 16:47] =>  0:26
+   :END:
 ** Lesson thirty seven
 north south west east a compass a needle
 
@@ -16135,6 +16147,7 @@ The boy is cutting a piece of paper in half.
 What is the salesperson doing? He's weighing half a chicken.
 What is the boy doing? He's putting half a cake on a plate.
 What is the chef doing ? He's frying a whole chicken.
+
 * DONE
   CLOSED: [2016-08-03 Wed 04:53]
   :LOGBOOK:
@@ -16347,6 +16360,18 @@ What is the chef doing ? He's frying a whole chicken.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-10 Sat 05:10]
    CLOCK: [2017-06-10 Sat 04:37]--[2017-06-10 Sat 05:10] =>  0:33
+   :END:
+** DONE Review<2017-06-11 Sun 05:34>98.3%
+   CLOSED: [2017-06-11 Sun 06:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-11 Sun 06:04]
+   CLOCK: [2017-06-11 Sun 05:34]--[2017-06-11 Sun 06:04] =>  0:30
+   :END:
+** DONE Review<2017-06-11 Sun 19:43>99.2%
+   CLOSED: [2017-06-11 Sun 20:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-11 Sun 20:11]
+   CLOCK: [2017-06-11 Sun 19:43]--[2017-06-11 Sun 20:11] =>  0:28
    :END:
 ** Lesson 38
 a drum film a guitar dance music a voilin
