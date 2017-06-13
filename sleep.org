@@ -539,8 +539,10 @@
    CLOCK: [2017-06-07 Wed 21:54]--[2017-06-08 Thu 05:07] =>  7:13
 =======
 =======
-** STARTED sleeping<2017-05-12 Fri 21:20>
+** DONE sleeping<2017-05-12 Fri 21:20>
+   CLOSED: [2017-06-13 二 21:46]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-13 二 21:46]
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
    :END:
@@ -550,13 +552,16 @@
    - State "DONE"       from "STARTED"    [2017-06-09 Fri 06:28]
    CLOCK: [2017-06-09 Fri 00:47]--[2017-06-09 Fri 06:28] =>  5:41
    :END:
-** STARTED sleeping<2017-06-11 Sun +1d>
+** STARTED sleeping<2017-06-13 二 +1d>
    DEADLINE: <2017-06-09 Fri 05:00>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-11 Sun 05:22]
+   :LAST_REPEAT: [2017-06-13 二 05:25]
    :END:
    :LOGBOOK:
-   CLOCK: [2017-06-11 Sun 21:53]
+   - State "DONE"       from "STARTED"    [2017-06-13 二 05:25]
+   CLOCK: [2017-06-12 一 21:52]--[2017-06-13 二 05:25] =>  7:33
+   - State "DONE"       from "STARTED"    [2017-06-12 Mon 04:52]
+   CLOCK: [2017-06-11 Sun 21:53]--[2017-06-12 Mon 04:52] =>  6:59
    - State "DONE"       from "STARTED"    [2017-06-11 Sun 05:22]
    CLOCK: [2017-06-10 Sat 21:34]--[2017-06-11 Sun 05:22] =>  7:48
    - State "DONE"       from "STARTED"    [2017-06-10 Sat 04:12]

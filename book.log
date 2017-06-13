@@ -774,4 +774,31 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 File: biblatex.cfg 
 )
 
-Package biblatex Warning: 'babel' o
+Package biblatex Warning: 'babel' option is deprecated, use 'autolang' instead.
+
+
+))
+
+! LaTeX Error: File `structure.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+./book.tex:46: Emergency stop.
+<read *> 
+         
+l.46 \input{structure}
+                       % Insert the commands.tex file which contains the maj...
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 18014 strings out of 493706
+ 344490 string characters out of 6145769
+ 657461 words of memory out of 5000000
+ 21078 multiletter control sequences out of 15000+600000
+ 4709 words of font info for 16 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 55i,0n,54p,854b,134s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

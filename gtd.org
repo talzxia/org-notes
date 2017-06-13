@@ -6089,11 +6089,13 @@ to have lunch
    0
 
 ** TODO [#B] Learn Enlish                                             :learn:
-   DEADLINE: <2017-06-12 Mon 06:50 +1d> SCHEDULED: <2017-06-12 Mon 05:20 +1d>
+   DEADLINE: <2017-06-14 三 06:50 +1d> SCHEDULED: <2017-06-14 三 05:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-11 Sun 06:32]
+   :LAST_REPEAT: [2017-06-13 二 05:26]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-13 二 05:26]
+   - State "DONE"       from "STARTED"    [2017-06-12 Mon 04:53]
    - State "DONE"       from "STARTED"    [2017-06-11 Sun 06:32]
    - State "DONE"       from "STARTED"    [2017-06-10 Sat 04:13]
    - State "DONE"       from "STARTED"    [2017-06-09 Fri 07:04]
@@ -6108,11 +6110,15 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-06-12 Mon 08:00 +1d>--<2017-06-12 Mon 08:20 +1d>
+   SCHEDULED: <2017-06-14 三 08:00 +1d>--<2017-06-14 三 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-11 Sun 06:57]
+   :LAST_REPEAT: [2017-06-13 二 08:16]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-13 二 08:16]
+   CLOCK: [2017-06-13 二 08:03]--[2017-06-13 二 08:16] =>  0:13
+   - State "DONE"       from "STARTED"    [2017-06-12 一 08:30]
+   CLOCK: [2017-06-12 一 07:59]--[2017-06-12 一 08:30] =>  0:31
    - State "DONE"       from "STARTED"    [2017-06-11 Sun 06:57]
    CLOCK: [2017-06-11 Sun 06:33]--[2017-06-11 Sun 06:57] =>  0:24
    - State "PHONE"      from ""           [2017-06-09 Fri 16:50]
@@ -6143,12 +6149,15 @@ to have lunch
    CLOCK: [2017-06-06 Tue 10:29]--[2017-06-06 Tue 11:00] =>  0:31
    :END:
 
-** STARTED [#B] writing English                                     :writing:
-   SCHEDULED: <2017-06-08 Thu +1d>
+** TODO [#B] writing English                                        :writing:
+   SCHEDULED: <2017-06-09 五 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-07 Wed 09:37]
+   :LAST_REPEAT: [2017-06-12 一 09:54]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-12 一 09:54]
+   CLOCK: [2017-06-12 一 09:31]--[2017-06-12 一 09:54] =>  0:23
+   CLOCK: [2017-06-12 一 08:36]--[2017-06-12 一 09:00] =>  0:24
    CLOCK: [2017-06-08 四 09:30]--[2017-06-08 四 09:51] =>  0:21
    - State "DONE"       from "STARTED"    [2017-06-07 Wed 09:37]
    CLOCK: [2017-06-07 Wed 08:49]--[2017-06-07 Wed 09:37] =>  0:48
@@ -6156,11 +6165,15 @@ to have lunch
    CLOCK: [2017-06-06 Tue 11:05]--[2017-06-06 Tue 11:32] =>  0:27
    :END:
 ** TODO [#B] Handwriting                                        :Handwriting:
-   SCHEDULED: <2017-06-17 Sat +1d>
+   SCHEDULED: <2017-06-19 一 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-11 Sun 18:22]
+   :LAST_REPEAT: [2017-06-13 二 07:19]
    :END:
  :LOGBOOK:
+ - State "DONE"       from "STARTED"    [2017-06-13 二 07:19]
+ CLOCK: [2017-06-13 二 06:41]--[2017-06-13 二 07:19] =>  0:38
+ - State "DONE"       from "STARTED"    [2017-06-12 一 07:36]
+ CLOCK: [2017-06-12 一 07:03]--[2017-06-12 一 07:36] =>  0:33
  - State "DONE"       from "STARTED"    [2017-06-11 Sun 18:22]
  CLOCK: [2017-06-11 Sun 17:55]--[2017-06-11 Sun 18:22] =>  0:27
  - State "DONE"       from "STARTED"    [2017-06-11 Sun 12:28]
@@ -6228,6 +6241,32 @@ to have lunch
    - State "DONE"       from "STARTED"    [2017-06-11 Sun 15:34]
    CLOCK: [2017-06-11 Sun 12:29]--[2017-06-11 Sun 15:34] =>  3:05
    :END:
+
+** DONE [#B] Meeting                                                :meeting:
+   CLOSED: [2017-06-12 一 09:26] SCHEDULED: <2017-06-12 一 09:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-12 一 09:26]
+   CLOCK: [2017-06-12 一 09:00]--[2017-06-12 一 09:26] =>  0:26
+   :END:
+1.学生集中实习选择安排。
+进企业及学习机构自由选择。
+来回路费自定
+前十天一定集中，登录学院实习平台。
+2.安全保险自己选择，但一定不参加的签字。
+3.省培安排
+两个班一快进行。
+4.汶上职业中专来访。
+5.招生宣传安排
+
+** TODO [#B] 一天的工作安排
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-06-13 二 08:28]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-13 二 08:28]
+   CLOCK: [2017-06-13 二 08:18]--[2017-06-13 二 08:28] =>  0:10
+   :END:
+<2017-06-14 三 +1d>
 
 * Cocos2D-X
 
