@@ -6089,11 +6089,14 @@ to have lunch
    0
 
 ** TODO [#B] Learn Enlish                                             :learn:
-   DEADLINE: <2017-06-15 四 06:50 +1d> SCHEDULED: <2017-06-15 四 05:20 +1d>
+   DEADLINE: <2017-06-17 六 06:50 +1d> SCHEDULED: <2017-06-17 六 05:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-14 三 05:12]
+   :LAST_REPEAT: [2017-06-16 五 06:10]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-16 五 06:10]
+   CLOCK: [2017-06-16 五 04:35]--[2017-06-16 五 04:39] =>  0:04
+   - State "DONE"       from "STARTED"    [2017-06-15 四 06:47]
    - State "DONE"       from "STARTED"    [2017-06-14 三 05:12]
    CLOCK: [2017-06-14 三 04:00]--[2017-06-14 三 04:01] =>  0:01
    - State "DONE"       from "STARTED"    [2017-06-13 二 05:26]
@@ -6112,11 +6115,15 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-06-15 四 08:00 +1d>--<2017-06-15 四 08:20 +1d>
+   SCHEDULED: <2017-06-17 六 08:00 +1d>--<2017-06-17 六 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-14 三 08:37]
+   :LAST_REPEAT: [2017-06-16 五 08:29]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-16 五 08:29]
+   CLOCK: [2017-06-16 五 07:58]--[2017-06-16 五 08:29] =>  0:31
+   - State "DONE"       from "STARTED"    [2017-06-15 四 08:28]
+   CLOCK: [2017-06-15 四 08:07]--[2017-06-15 四 08:28] =>  0:21
    - State "DONE"       from "STARTED"    [2017-06-14 三 08:37]
    CLOCK: [2017-06-14 三 08:15]--[2017-06-14 三 08:37] =>  0:22
    - State "DONE"       from "STARTED"    [2017-06-13 二 08:16]
@@ -6142,11 +6149,15 @@ to have lunch
    :END:
 
 ** TODO [#B] learn spacemacs and practice.
-   SCHEDULED: <2017-06-08 Thu +1d>
+   SCHEDULED: <2017-06-10 六 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-06 Tue 16:47]
+   :LAST_REPEAT: [2017-06-16 五 11:33]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-16 五 11:33]
+   CLOCK: [2017-06-16 五 11:11]--[2017-06-16 五 11:33] =>  0:22
+   - State "DONE"       from "STARTED"    [2017-06-15 四 19:16]
+   CLOCK: [2017-06-15 四 08:33]--[2017-06-15 四 09:25] =>  0:52
    - State "DONE"       from "STARTED"    [2017-06-06 Tue 16:47]
    CLOCK: [2017-06-06 Tue 15:13]--[2017-06-06 Tue 16:47] =>  1:34
    - State "DONE"       from "STARTED"    [2017-06-06 Tue 11:00]
@@ -6154,11 +6165,17 @@ to have lunch
    :END:
 
 ** TODO [#B] writing English                                        :writing:
-   SCHEDULED: <2017-06-09 五 +1d>
+   SCHEDULED: <2017-06-15 四 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-12 一 09:54]
+   :LAST_REPEAT: [2017-06-15 四 19:19]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-15 四 19:19]
+   - State "DONE"       from "STARTED"    [2017-06-15 四 19:19]
+   - State "DONE"       from "STARTED"    [2017-06-15 四 19:19]
+   - State "DONE"       from "STARTED"    [2017-06-15 四 19:19]
+   - State "DONE"       from "STARTED"    [2017-06-15 四 19:19]
+   - State "DONE"       from "STARTED"    [2017-06-15 四 19:19]
    - State "DONE"       from "STARTED"    [2017-06-12 一 09:54]
    CLOCK: [2017-06-12 一 09:31]--[2017-06-12 一 09:54] =>  0:23
    CLOCK: [2017-06-12 一 08:36]--[2017-06-12 一 09:00] =>  0:24
@@ -6169,11 +6186,19 @@ to have lunch
    CLOCK: [2017-06-06 Tue 11:05]--[2017-06-06 Tue 11:32] =>  0:27
    :END:
 ** TODO [#B] Handwriting                                        :Handwriting:
-   SCHEDULED: <2017-06-22 四 +1d>
+   SCHEDULED: <2017-06-26 一 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-14 三 19:38]
+   :LAST_REPEAT: [2017-06-16 五 16:59]
    :END:
  :LOGBOOK:
+ - State "DONE"       from "STARTED"    [2017-06-16 五 16:59]
+ CLOCK: [2017-06-16 五 16:34]--[2017-06-16 五 16:59] =>  0:25
+ - State "DONE"       from "STARTED"    [2017-06-16 五 07:15]
+ CLOCK: [2017-06-16 五 06:11]--[2017-06-16 五 07:15] =>  1:04
+ - State "DONE"       from "STARTED"    [2017-06-15 四 19:52]
+ CLOCK: [2017-06-15 四 19:21]--[2017-06-15 四 19:52] =>  0:31
+ - State "DONE"       from "STARTED"    [2017-06-15 四 08:06]
+ CLOCK: [2017-06-15 四 07:50]--[2017-06-15 四 08:06] =>  0:16
  - State "DONE"       from "STARTED"    [2017-06-14 三 19:38]
  CLOCK: [2017-06-14 三 19:14]--[2017-06-14 三 19:38] =>  0:24
  - State "DONE"       from "STARTED"    [2017-06-14 三 15:56]
@@ -6270,13 +6295,22 @@ to have lunch
 
 ** TODO [#B] 一天的工作安排
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-13 二 08:28]
+   :LAST_REPEAT: [2017-06-15 四 19:18]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-15 四 19:18]
+   - State "DONE"       from "STARTED"    [2017-06-15 四 19:18]
    - State "DONE"       from "STARTED"    [2017-06-13 二 08:28]
    CLOCK: [2017-06-13 二 08:18]--[2017-06-13 二 08:28] =>  0:10
    :END:
-<2017-06-14 三 +1d>
+<2017-06-16 五 +1d>
+
+** DONE [#B] test paper
+   CLOSED: [2017-06-16 五 11:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-16 五 11:11]
+   CLOCK: [2017-06-16 五 10:51]--[2017-06-16 五 11:11] =>  0:20
+   :END:
 
 * Cocos2D-X
 
@@ -6325,6 +6359,27 @@ creat a new lesson
 
   [2017-06-05 Mon 15:50]
 
+** DONE [#A] 给书记汇报专业上报情况及AR专业建设想法                 :meeting:
+   CLOSED: [2017-06-15 四 10:35] SCHEDULED: <2017-06-15 四 10:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-15 四 10:35]
+   CLOCK: [2017-06-15 四 09:25]--[2017-06-15 四 10:35] =>  1:10
+   :END:
+书记有会，与王经理会谈，超出费用问题：约4500元
+  [2017-06-15 四 08:33]
+
+** DONE [#A] 下午四点208廉政谈话
+   CLOSED: [2017-06-15 四 16:26] SCHEDULED: <2017-06-15 四 15:40>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-15 四 16:26]
+   CLOCK: [2017-06-15 四 15:19]--[2017-06-15 四 16:26] =>  1:07
+   :END:
+
+  [2017-06-15 四 11:44]
+
+** TODO [#A] 做准备迎接军队检查
+
+  [2017-06-15 四 17:36]
 
 * DONE [#B]看望任淑君老师
 <<<<<<< Updated upstream
