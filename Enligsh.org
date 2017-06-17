@@ -10518,6 +10518,18 @@ The woman is checking her flight on her ticket.
    - State "DONE"       from "STARTED"    [2017-05-12 Fri 19:34]
    CLOCK: [2017-05-12 Fri 19:07]--[2017-05-12 Fri 19:34] =>  0:27
    :END:
+** DONE Review<2017-06-17 六 04:52>98%
+   CLOSED: [2017-06-17 六 05:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-17 六 05:32]
+   CLOCK: [2017-06-17 六 04:52]--[2017-06-17 六 05:32] =>  0:40
+   :END:
+** DONE Review<2017-06-17 六 11:01>97.5%
+   CLOSED: [2017-06-17 六 11:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-17 六 11:27]
+   CLOCK: [2017-06-17 六 11:00]--[2017-06-17 六 11:27] =>  0:27
+   :END:
 ** Lesson 31
 passport control customs control registration flight a currency exchange booth a
 waiting area
@@ -10538,7 +10550,7 @@ a passenger
 
 heavy a light computer a light bag light a heavy book a heavy suitcase
 
-Is this book heavy? No, it's light. You carry it in a bag.
+Is this book heavy? No, it's light. You can carry it in a bag.
 The brother is light, but his sister is heavy.
 This suitcase is big and heavy.
 The sister is holding her little brother. He's light.
@@ -12279,6 +12291,12 @@ On the window in the living room hang beautiful, grren drapes.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-16 五 16:30]
    CLOCK: [2017-06-16 五 16:03]--[2017-06-16 五 16:30] =>  0:27
+   :END:
+** DONE Review<2017-06-17 六 05:32>98.4%
+   CLOSED: [2017-06-17 六 05:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-17 六 05:59]
+   CLOCK: [2017-06-17 六 05:32]--[2017-06-17 六 05:59] =>  0:27
    :END:
 ** Lesson 33
 a floor a ceiling drapes blinds a fireplace a balcony
