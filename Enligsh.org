@@ -10542,6 +10542,12 @@ The woman is checking her flight on her ticket.
    - State "DONE"       from "STARTED"    [2017-06-18 Sun 05:15]
    CLOCK: [2017-06-18 Sun 04:49]--[2017-06-18 Sun 05:15] =>  0:26
    :END:
+** DONE Review<2017-06-18 Sun 21:09>98.7%
+   CLOSED: [2017-06-18 Sun 21:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-18 Sun 21:33]
+   CLOCK: [2017-06-18 Sun 21:09]--[2017-06-18 Sun 21:33] =>  0:24
+   :END:
 ** Lesson 31
 passport control customs control registration flight a currency exchange booth a
 waiting area
