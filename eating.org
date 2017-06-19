@@ -1063,13 +1063,14 @@ my daughter fried potatoes with meat and I drink a beer.
     CLOCK: [2017-06-06 Tue 07:06]--[2017-06-06 Tue 08:20] =>  1:14
     :END:
 
-*** STARTED :breakfast:
-    SCHEDULED: <2017-06-19 Mon 06:50 +1d>
+*** TODO :breakfast:
+    SCHEDULED: <2017-06-20 Tue 06:50 +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2017-06-18 Sun 12:26]
+    :LAST_REPEAT: [2017-06-19 Mon 07:35]
     :END:
     :LOGBOOK:
-    CLOCK: [2017-06-19 Mon 06:00]
+    - State "DONE"       from "STARTED"    [2017-06-19 Mon 07:35]
+    CLOCK: [2017-06-19 Mon 06:00]--[2017-06-19 Mon 07:35] =>  1:35
     - State "DONE"       from "STARTED"    [2017-06-18 Sun 12:26]
     CLOCK: [2017-06-18 Sun 08:18]--[2017-06-18 Sun 09:02] =>  0:44
     - State "DONE"       from "STARTED"    [2017-06-17 六 09:19]
@@ -1113,11 +1114,12 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:11]
     CLOCK: [2017-06-05 Mon 11:44]--[2017-06-05 Mon 11:46] =>  0:02
     :END:
-*** TODO <2017-06-19 Mon 11:40 +1d>                                   :lunch:
+*** STARTED <2017-06-19 Mon 11:40 +1d>                                :lunch:
     :PROPERTIES:
     :LAST_REPEAT: [2017-06-18 Sun 14:12]
     :END:
     :LOGBOOK:
+    CLOCK: [2017-06-19 Mon 11:34]
     - State "DONE"       from "STARTED"    [2017-06-18 Sun 14:12]
     CLOCK: [2017-06-18 Sun 12:54]--[2017-06-18 Sun 14:12] =>  1:18
     - State "DONE"       from "STARTED"    [2017-06-17 六 14:06]
