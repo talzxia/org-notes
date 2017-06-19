@@ -10554,6 +10554,12 @@ The woman is checking her flight on her ticket.
    - State "DONE"       from "STARTED"    [2017-06-19 Mon 05:29]
    CLOCK: [2017-06-19 Mon 04:52]--[2017-06-19 Mon 05:29] =>  0:37
    :END:
+** DONE Review<2017-06-20 Tue 03:27>99.4%
+   CLOSED: [2017-06-20 Tue 03:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-20 Tue 03:53]
+   CLOCK: [2017-06-20 Tue 03:27]--[2017-06-20 Tue 03:53] =>  0:26
+   :END:
 ** Lesson 31
 passport control customs control registration flight a currency exchange booth a
 waiting area
@@ -11221,6 +11227,12 @@ The man is lying on the soft couch because he's watching television.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-18 Sun 05:41]
    CLOCK: [2017-06-18 Sun 05:16]--[2017-06-18 Sun 05:41] =>  0:25
+   :END:
+** DONE Review<2017-06-20 Tue 03:54>99.4%
+   CLOSED: [2017-06-20 Tue 04:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-20 Tue 04:21]
+   CLOCK: [2017-06-20 Tue 03:54]--[2017-06-20 Tue 04:21] =>  0:27
    :END:
 * DONE Review thirty three 95.3%
   CLOSED: [2016-08-03 Wed 04:53]
@@ -12333,6 +12345,12 @@ On the window in the living room hang beautiful, grren drapes.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-17 六 05:59]
    CLOCK: [2017-06-17 六 05:32]--[2017-06-17 六 05:59] =>  0:27
+   :END:
+** DONE Review<2017-06-20 二 06:12>99.4%
+   CLOSED: [2017-06-20 二 06:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-20 二 06:40]
+   CLOCK: [2017-06-20 二 06:12]--[2017-06-20 二 06:40] =>  0:28
    :END:
 ** Lesson 33
 a floor a ceiling drapes blinds a fireplace a balcony
