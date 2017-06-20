@@ -6122,11 +6122,13 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-06-20 Tue 08:00 +1d>--<2017-06-20 Tue 08:20 +1d>
+   SCHEDULED: <2017-06-21 三 08:00 +1d>--<2017-06-21 三 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-19 Mon 08:40]
+   :LAST_REPEAT: [2017-06-20 二 08:20]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-20 二 08:20]
+   CLOCK: [2017-06-20 二 08:01]--[2017-06-20 二 08:20] =>  0:19
    - State "DONE"       from "STARTED"    [2017-06-19 Mon 08:40]
    CLOCK: [2017-06-19 Mon 08:03]--[2017-06-19 Mon 08:40] =>  0:37
    - State "DONE"       from "STARTED"    [2017-06-18 Sun 07:12]
@@ -6161,11 +6163,13 @@ to have lunch
    :END:
 
 ** TODO [#B] learn spacemacs and practice.
-   SCHEDULED: <2017-06-20 Tue +1d>
+   SCHEDULED: <2017-06-21 三 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-19 Mon 10:54]
+   :LAST_REPEAT: [2017-06-20 二 09:19]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-20 二 09:19]
+   CLOCK: [2017-06-20 二 08:22]--[2017-06-20 二 09:19] =>  0:57
    - State "DONE"       from "STARTED"    [2017-06-19 Mon 10:54]
    - State "STARTED"    from "WAITING"    [2017-06-19 Mon 09:29]
    CLOCK: [2017-06-19 Mon 09:29]--[2017-06-19 Mon 10:54] =>  1:25
@@ -6332,18 +6336,22 @@ to have lunch
 4.汶上职业中专来访。
 5.招生宣传安排
 
-** TODO [#B] 一天的工作安排
+** TODO [#A] 一天的工作安排
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-15 四 19:18]
+   :LAST_REPEAT: [2017-06-20 二 08:21]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-20 二 08:21]
+   - State "DONE"       from "STARTED"    [2017-06-20 二 08:21]
+   - State "DONE"       from "STARTED"    [2017-06-20 二 08:20]
+   - State "DONE"       from "STARTED"    [2017-06-20 二 08:20]
    - State "DONE"       from "STARTED"    [2017-06-15 四 19:18]
    - State "DONE"       from "STARTED"    [2017-06-15 四 19:18]
    - State "DONE"       from "STARTED"    [2017-06-13 二 08:28]
    CLOCK: [2017-06-13 二 08:18]--[2017-06-13 二 08:28] =>  0:10
    :END:
-<2017-06-16 五 +1d>
-
+<2017-06-20 二 +1d>
+今天下午开会，配合创城及如何做好招生宣传。
 ** DONE [#B] test paper
    CLOSED: [2017-06-16 五 11:11]
    :LOGBOOK:
