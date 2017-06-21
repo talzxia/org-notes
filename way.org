@@ -32,3 +32,15 @@
    - State "DONE"       from "STARTED"    [2017-03-11 六 05:49]
    CLOCK: [2017-03-11 六 05:00]--[2017-03-11 六 05:22] =>  0:22
    :END:
+** DONE review<2017-06-11 Sun 09:58>98.3%
+   CLOSED: [2017-06-11 Sun 10:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-11 Sun 10:28]
+   CLOCK: [2017-06-11 Sun 09:58]--[2017-06-11 Sun 10:28] =>  0:30
+   :END:
+** DONE Review<2017-06-11 Sun 10:41>99.1%
+   CLOSED: [2017-06-11 Sun 10:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-11 Sun 10:59]
+   CLOCK: [2017-06-11 Sun 10:41]--[2017-06-11 Sun 10:59] =>  0:18
+   :END:

@@ -6089,11 +6089,13 @@ to have lunch
    0
 
 ** TODO [#B] Learn Enlish                                             :learn:
-   DEADLINE: <2017-06-22 四 06:50 +1d> SCHEDULED: <2017-06-22 四 05:20 +1d>
+   DEADLINE: <2017-06-23 Fri 06:50 +1d> SCHEDULED: <2017-06-23 Fri 05:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-21 三 04:25]
+   :LAST_REPEAT: [2017-06-22 Thu 06:26]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 06:26]
+   CLOCK: [2017-06-22 Thu 05:32]--[2017-06-22 Thu 05:35] =>  0:03
    - State "DONE"       from "STARTED"    [2017-06-21 三 04:25]
    - State "DONE"       from "STARTED"    [2017-06-20 Tue 04:21]
    CLOCK: [2017-06-20 Tue 03:26]--[2017-06-20 Tue 03:27] =>  0:01
@@ -6123,11 +6125,12 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-06-21 三 08:00 +1d>--<2017-06-21 三 08:20 +1d>
+   SCHEDULED: <2017-06-22 Thu 08:00 +1d>--<2017-06-22 Thu 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-20 二 08:20]
+   :LAST_REPEAT: [2017-06-21 Wed 12:06]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-21 Wed 12:06]
    - State "DONE"       from "STARTED"    [2017-06-20 二 08:20]
    CLOCK: [2017-06-20 二 08:01]--[2017-06-20 二 08:20] =>  0:19
    - State "DONE"       from "STARTED"    [2017-06-19 Mon 08:40]
@@ -6300,6 +6303,7 @@ to have lunch
 ** DONE [#B] study latex
    CLOSED: [2017-06-10 Sat 20:37]
    :LOGBOOK:
+<<<<<<< Updated upstream
    - State "DONE"       from "STARTED"    [2017-06-10 Sat 20:37]
    CLOCK: [2017-06-10 Sat 19:37]--[2017-06-10 Sat 20:37] =>  1:00
    :END:
@@ -6373,6 +6377,14 @@ to have lunch
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-20 二 06:10]
    CLOCK: [2017-06-20 Tue 04:40]--[2017-06-20 二 06:10] =>  1:30
+=======
+   CLOCK: [2017-06-09 Fri 07:16]--[2017-06-11 Sun 09:58] => 50:42
+>>>>>>> Stashed changes
+   :END:
+
+** STARTED [#B] to walk outside
+   :LOGBOOK:
+   CLOCK: [2017-06-22 Thu 06:27]
    :END:
 
 * Cocos2D-X
