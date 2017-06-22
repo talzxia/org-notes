@@ -6125,11 +6125,12 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-06-22 Thu 08:00 +1d>--<2017-06-22 Thu 08:20 +1d>
+   SCHEDULED: <2017-06-23 Fri 08:00 +1d>--<2017-06-23 Fri 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-21 Wed 12:06]
+   :LAST_REPEAT: [2017-06-22 Thu 08:29]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 08:29]
    - State "DONE"       from "STARTED"    [2017-06-21 Wed 12:06]
    - State "DONE"       from "STARTED"    [2017-06-20 二 08:20]
    CLOCK: [2017-06-20 二 08:01]--[2017-06-20 二 08:20] =>  0:19
@@ -6167,11 +6168,13 @@ to have lunch
    :END:
 
 ** TODO [#B] learn spacemacs and practice.
-   SCHEDULED: <2017-06-21 三 +1d>
+   SCHEDULED: <2017-06-23 Fri +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-20 二 09:19]
+   :LAST_REPEAT: [2017-06-22 Thu 21:07]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:07]
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:07]
    - State "DONE"       from "STARTED"    [2017-06-20 二 09:19]
    CLOCK: [2017-06-20 二 08:22]--[2017-06-20 二 09:19] =>  0:57
    - State "DONE"       from "STARTED"    [2017-06-19 Mon 10:54]
@@ -6199,11 +6202,19 @@ to have lunch
    :END:
 
 ** TODO [#B] writing English                                        :writing:
-   SCHEDULED: <2017-06-15 四 +1d>
+   SCHEDULED: <2017-06-23 Fri +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-15 四 19:19]
+   :LAST_REPEAT: [2017-06-22 Thu 21:08]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:08]
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:08]
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:08]
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:08]
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:08]
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:08]
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:08]
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:08]
    - State "DONE"       from "STARTED"    [2017-06-15 四 19:19]
    - State "DONE"       from "STARTED"    [2017-06-15 四 19:19]
    - State "DONE"       from "STARTED"    [2017-06-15 四 19:19]
@@ -6382,9 +6393,16 @@ to have lunch
 >>>>>>> Stashed changes
    :END:
 
-** STARTED [#B] to walk outside
+** DONE [#B] to walk outside
+   CLOSED: [2017-06-22 Thu 08:27]
    :LOGBOOK:
-   CLOCK: [2017-06-22 Thu 06:27]
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 08:27]
+   CLOCK: [2017-06-22 Thu 06:27]--[2017-06-22 Thu 08:26] =>  1:59
+   :END:
+
+** STARTED [#B] to relax
+   :LOGBOOK:
+   CLOCK: [2017-06-22 Thu 09:17]
    :END:
 
 * Cocos2D-X

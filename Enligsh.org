@@ -9596,6 +9596,12 @@ There are many beautiful buildings around the square.
    - State "DONE"       from "STARTED"    [2017-06-22 Thu 06:26]
    CLOCK: [2017-06-22 Thu 05:35]--[2017-06-22 Thu 06:26] =>  0:51
    :END:
+** DONE Review<2017-06-22 Thu 08:30>
+   CLOSED: [2017-06-22 Thu 09:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 09:17]
+   CLOCK: [2017-06-22 Thu 08:30]--[2017-06-22 Thu 09:17] =>  0:47
+   :END:
 ** Lesson 30
 This is a view of the desert. A group of people are travelling on canmels. Three
 camels are lying the sand, and two are standing.
