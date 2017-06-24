@@ -1363,8 +1363,11 @@ how to teach computer to understand imges.
    - State "DONE"       from "STARTED"    [2017-05-13 Sat 04:52]
    :END:
 ** DONE relaxing<2017-05-13 Sat 11:15>
-   CLOSED: [2017-06-23 Fri 11:36]
+   CLOSED: [2017-06-24 Sat 10:17]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-24 Sat 10:17]
+   - State "STARTED"    from "DONE"       [2017-06-24 Sat 07:32]
+   CLOCK: [2017-06-24 Sat 07:32]--[2017-06-24 Sat 10:17] =>  2:45
    - State "DONE"       from "STARTED"    [2017-06-23 Fri 11:36]
    - State "STARTED"    from "DONE"       [2017-06-23 Fri 08:36]
    CLOCK: [2017-06-23 Fri 08:36]--[2017-06-23 Fri 11:36] =>  3:00
