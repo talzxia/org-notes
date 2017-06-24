@@ -6235,12 +6235,16 @@ to have lunch
    - State "DONE"       from "STARTED"    [2017-06-06 Tue 11:32]
    CLOCK: [2017-06-06 Tue 11:05]--[2017-06-06 Tue 11:32] =>  0:27
    :END:
-** STARTED [#B]Handwriting                                      :Handwriting:
-   SCHEDULED: <2017-07-02 Sun +1d>
+** TODO [#B]Handwriting                                         :Handwriting:
+   SCHEDULED: <2017-07-04 二 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-18 Sun 14:38]
+   :LAST_REPEAT: [2017-06-24 六 20:06]
    :END:
  :LOGBOOK:
+ - State "DONE"       from "STARTED"    [2017-06-24 六 20:06]
+ CLOCK: [2017-06-24 六 19:31]--[2017-06-24 六 20:06] =>  0:35
+ - State "DONE"       from "STARTED"    [2017-06-24 六 17:52]
+ CLOCK: [2017-06-24 六 15:18]--[2017-06-24 六 17:52] =>  2:34
  CLOCK: [2017-06-19 Mon 07:36]--[2017-06-19 Mon 08:03] =>  0:27
  - State "DONE"       from "STARTED"    [2017-06-18 Sun 14:38]
  CLOCK: [2017-06-18 Sun 14:13]--[2017-06-18 Sun 14:38] =>  0:25
