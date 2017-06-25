@@ -6668,6 +6668,27 @@ The photographer has interesting work.
    - State "DONE"       from "STARTED"    [2017-05-13 Sat 05:14]
    CLOCK: [2017-05-13 Sat 04:56]--[2017-05-13 Sat 05:14] =>  0:18
    :END:
+** DONE Review<2017-06-25 日 09:19>98.2%
+   CLOSED: [2017-06-25 日 10:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-25 日 10:16]
+   - State "STARTED"    from "DONE"       [2017-06-25 日 10:04]
+   CLOCK: [2017-06-25 日 10:04]--[2017-06-25 日 10:16] =>  0:12
+   - State "DONE"       from "STARTED"    [2017-06-25 日 09:23]
+   CLOCK: [2017-06-25 日 09:19]--[2017-06-25 日 09:23] =>  0:04
+   :END:
+** DONE Review<2017-06-25 日 15:25>98.6%
+   CLOSED: [2017-06-25 日 15:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-25 日 15:41]
+   CLOCK: [2017-06-25 日 15:25]--[2017-06-25 日 15:41] =>  0:16
+   :END:
+** DONE Review<2017-06-25 日 19:59>98.8%
+   CLOSED: [2017-06-25 日 20:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-25 日 20:15]
+   CLOCK: [2017-06-25 日 19:59]--[2017-06-25 日 20:15] =>  0:16
+   :END:
 ** Lesson 22
 
 a photographer
@@ -9247,6 +9268,12 @@ A Bronze Pair 青铜双像
    - State "DONE"       from "STARTED"    [2017-06-24 六 15:17]
    CLOCK: [2017-06-24 六 14:44]--[2017-06-24 六 15:17] =>  0:33
    :END:
+** DONE Review<2017-06-25 日 04:44>99.3%
+   CLOSED: [2017-06-25 日 05:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-25 日 05:18]
+   CLOCK: [2017-06-25 日 04:44]--[2017-06-25 日 05:18] =>  0:34
+   :END:
 ** Lesson 29
 
 Who is waiting at the door? The dog.
@@ -9631,6 +9658,12 @@ There are many beautiful buildings around the square.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-24 Sat 04:51]
    CLOCK: [2017-06-24 Sat 04:02]--[2017-06-24 Sat 04:51] =>  0:49
+   :END:
+** DONE Review<2017-06-25 日 05:18>99.2%
+   CLOSED: [2017-06-25 日 06:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-25 日 06:03]
+   CLOCK: [2017-06-25 日 05:18]--[2017-06-25 日 06:03] =>  0:45
    :END:
 ** Lesson 30
 This is a view of the desert. A group of people are travelling on canmels. Three
