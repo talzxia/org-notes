@@ -1064,11 +1064,13 @@ my daughter fried potatoes with meat and I drink a beer.
     :END:
 
 *** TODO :breakfast:
-    SCHEDULED: <2017-06-27 二 06:50 +1d>
+    SCHEDULED: <2017-06-28 三 06:50 +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2017-06-26 一 08:23]
+    :LAST_REPEAT: [2017-06-27 二 07:56]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-27 二 07:56]
+    CLOCK: [2017-06-27 二 07:08]--[2017-06-27 二 07:56] =>  0:48
     - State "DONE"       from "STARTED"    [2017-06-26 一 08:23]
     CLOCK: [2017-06-26 一 07:04]--[2017-06-26 一 08:23] =>  1:19
     - State "DONE"       from "STARTED"    [2017-06-25 日 08:07]
@@ -1129,9 +1131,11 @@ my daughter fried potatoes with meat and I drink a beer.
     :END:
 *** TODO <2017-06-28 三 11:40 +1d>                                    :lunch:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-06-25 日 18:07]
+    :LAST_REPEAT: [2017-06-27 二 13:36]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-27 二 13:36]
+    CLOCK: [2017-06-27 二 12:05]--[2017-06-27 二 13:36] =>  1:31
     - State "DONE"       from "STARTED"    [2017-06-25 日 18:07]
     CLOCK: [2017-06-25 日 18:05]--[2017-06-25 日 18:07] =>  0:02
     - State "DONE"       from "STARTED"    [2017-06-25 日 15:23]
@@ -1188,11 +1192,13 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:12]
     CLOCK: [2017-06-05 Mon 18:02]--[2017-06-05 Mon 19:12] =>  1:10
     :END:
-*** TODO <2017-06-27 二 17:23 +1d>                                   :dinner:
+*** TODO <2017-06-28 三 17:23 +1d>                                   :dinner:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-06-26 一 18:42]
+    :LAST_REPEAT: [2017-06-27 二 19:07]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-06-27 二 19:07]
+    CLOCK: [2017-06-27 二 17:34]--[2017-06-27 二 19:07] =>  1:33
     - State "DONE"       from "STARTED"    [2017-06-26 一 18:42]
     - State "DONE"       from "STARTED"    [2017-06-25 日 19:57]
     CLOCK: [2017-06-25 日 18:07]--[2017-06-25 日 19:57] =>  1:50
