@@ -20630,6 +20630,12 @@ a coin washing machine.
    - State "DONE"       from "STARTED"    [2017-06-28 三 19:32]
    CLOCK: [2017-06-28 三 19:04]--[2017-06-28 三 19:32] =>  0:28
    :END:
+** DONE Review<2017-06-29 四 05:31>99.5%
+   CLOSED: [2017-06-29 四 05:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-29 四 05:58]
+   CLOCK: [2017-06-29 四 05:31]--[2017-06-29 四 05:58] =>  0:27
+   :END:
 ** Lesson 40
 soap a bucket detergent laundry detergent a cloth a brush
 
@@ -21621,6 +21627,13 @@ The man is cleaning up the table.
    - State "DONE"       from "STARTED"    [2017-06-28 三 20:01]
    CLOCK: [2017-06-28 三 19:35]--[2017-06-28 三 20:01] =>  0:26
    :END:
+** DONE Review<2017-06-29 四 05:07>99.3%
+   CLOSED: [2017-06-29 四 05:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-29 四 05:30]
+   CLOCK: [2017-06-29 四 05:07]--[2017-06-29 四 05:30] =>  0:23
+   :END:
+
 ** Lesson 41
 a pen
 a pencil
@@ -22393,6 +22406,12 @@ Arrange student internship
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:37]
    CLOCK: [2017-06-05 Mon 15:13]--[2017-06-05 Mon 15:37] =>  0:24
+   :END:
+** DONE Review<2017-06-29 四 05:59>90%
+   CLOSED: [2017-06-29 四 06:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-29 四 06:25]
+   CLOCK: [2017-06-29 四 05:59]--[2017-06-29 四 06:25] =>  0:26
    :END:
 ** Lesson 42
 a calendar
