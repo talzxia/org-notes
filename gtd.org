@@ -6136,11 +6136,13 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-06-29 四 08:00 +1d>--<2017-06-29 四 08:20 +1d>
+   SCHEDULED: <2017-06-30 五 08:00 +1d>--<2017-06-30 五 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-28 三 08:23]
+   :LAST_REPEAT: [2017-06-29 四 08:27]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-29 四 08:27]
+   CLOCK: [2017-06-29 四 08:11]--[2017-06-29 四 08:27] =>  0:16
    - State "DONE"       from "STARTED"    [2017-06-28 三 08:23]
    - State "DONE"       from "STARTED"    [2017-06-27 二 08:39]
    CLOCK: [2017-06-27 二 08:19]--[2017-06-27 二 08:39] =>  0:20
@@ -6187,11 +6189,13 @@ to have lunch
    :END:
 
 ** TODO [#B] learn spacemacs and practice.
-   SCHEDULED: <2017-06-23 Fri +1d>
+   SCHEDULED: <2017-06-24 六 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-22 Thu 21:07]
+   :LAST_REPEAT: [2017-06-29 四 11:16]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-29 四 11:16]
+   CLOCK: [2017-06-29 四 09:10]--[2017-06-29 四 11:16] =>  2:06
    - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:07]
    - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:07]
    - State "DONE"       from "STARTED"    [2017-06-20 二 09:19]
@@ -6448,6 +6452,13 @@ to have lunch
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-26 一 18:41]
    CLOCK: [2017-06-26 一 08:26]--[2017-06-26 一 18:41] => 10:15
+   :END:
+
+** DONE [#B] update
+   CLOSED: [2017-06-29 四 11:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-29 四 11:35]
+   CLOCK: [2017-06-29 四 11:17]--[2017-06-29 四 11:35] =>  0:18
    :END:
 
 * Cocos2D-X

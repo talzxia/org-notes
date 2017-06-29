@@ -1,47 +1,15 @@
-
-#+begin_src ditaa :file some_filename.png :cmdline -r -s 0.8
- +-----------+        +---------+
-    |    PLC    |        |         |
-    |  Network  +<------>+   PLC   +<---=---------+
-    |    cRED   |        |  c707   |              |
-    +-----------+        +----+----+              |
-                              ^                   |
-                              |                   |
-                              |  +----------------|-----------------+
-                              |  |                |                 |
-                              v  v                v                 v
-      +----------+       +----+--+--+      +-------+---+      +-----+-----+       Windows clients
-      |          |       |          |      |           |      |           |      +----+      +----+
-      | Database +<----->+  Shared  +<---->+ Executive +<-=-->+ Operator  +<---->|cYEL| . . .|cYEL|
-      |   c707   |       |  Memory  |      |   c707    |      | Server    |      |    |      |    |
-      +--+----+--+       |{d} cGRE  |      +------+----+      |   c707    |      +----+      +----+
-         ^    ^          +----------+             ^           +-------+---+
-         |    |                                   |
-         |    +--------=--------------------------+
-         v
-+--------+--------+
-|                 |
-| Millwide System |            -------- Data ---------
-| cBLU            |            --=----- Signals ---=--
-+-----------------+
-#+end_src
-
-title Example Activity Diagram
-note right: Example Function
-(*)--> "Step 1"
---> "Step 2"
--> "Step 3"
---> "Step 4"
---> === STARTLOOP ===
-note top: For each element in the array
-if "Are we done?" then
-  -> [no] "Do this"
-  -> "Do that"
-  note bottom: Important note\ngoes here
-  -up-> "Increment counters"
-  --> === STARTLOOP ===
-else
-  --> [yes] === ENDLOOP ===
-endif
---> "Last Step"
---> (*)
+ #+name: attr_wrap
+     #+begin_src sh :var data="" :var width="\\textwidth" :results output
+       echo "#+ATTR_LATEX: :width $width"
+       echo "$data"
+     #+end_src
+     #+header: :file /tmp/it.
+#+begin_src dot :post attr_wrap(width="5cm", data=*this*) :results drawer
+       digraph{
+               a -> b;
+b -> c; c -> a;
+     #+RESULTS:
+     :RESULTS:
+     #+ATTR_LATEX :width 5cm
+     [[file:/tmp/it.png]]
+     :END:
