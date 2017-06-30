@@ -6137,11 +6137,12 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-06-30 五 08:00 +1d>--<2017-06-30 五 08:20 +1d>
+   SCHEDULED: <2017-07-01 六 08:00 +1d>--<2017-07-01 六 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-29 四 08:27]
+   :LAST_REPEAT: [2017-06-30 五 08:55]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-30 五 08:55]
    - State "DONE"       from "STARTED"    [2017-06-29 四 08:27]
    CLOCK: [2017-06-29 四 08:11]--[2017-06-29 四 08:27] =>  0:16
    - State "DONE"       from "STARTED"    [2017-06-28 三 08:23]
