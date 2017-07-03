@@ -30938,6 +30938,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2017-07-01 六 18:35]
    CLOCK: [2017-07-01 六 18:14]--[2017-07-01 六 18:35] =>  0:21
    :END:
+** DONE Review<2017-07-03 一 19:09>99.2%
+   CLOSED: [2017-07-03 一 19:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-03 一 19:28]
+   CLOCK: [2017-07-03 一 19:09]--[2017-07-03 一 19:28] =>  0:19
+   :END:
 ** Lesson forty eight
 
 a ballerina an actor a poet a sculptor a singer a painter
@@ -31990,6 +31996,12 @@ A child should help his parents.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-07-01 六 18:54]
    CLOCK: [2017-07-01 六 18:35]--[2017-07-01 六 18:54] =>  0:19
+   :END:
+** DONE Review<2017-07-03 一 18:50>97.9%
+   CLOSED: [2017-07-03 一 19:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-03 一 19:08]
+   CLOCK: [2017-07-03 一 18:50]--[2017-07-03 一 19:08] =>  0:18
    :END:
 ** Lesson forty nine
 a city a capital an emblem a building a flag a country
