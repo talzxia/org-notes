@@ -1437,7 +1437,7 @@ bring water from the mountains.
 ** STARTED relaxing
    :LOGBOOK:
    - State "STARTED"    from "DONE"       [2017-07-07 五 20:31]
-   CLOCK: [2017-07-07 五 20:31]
+   CLOCK: [2017-07-07 五 20:31]--[2017-07-08 六 05:40] =>  9:09
    - State "DONE"       from "STARTED"    [2017-07-01 六 21:48]
    CLOCK: [2017-07-01 六 18:56]--[2017-07-01 六 21:48] =>  2:52
    :END:
