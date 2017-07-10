@@ -1211,6 +1211,13 @@ a woman with short white hair.
    - State "DONE"       from "STARTED"    [2017-03-28 二 04:50]
    CLOCK: [2017-03-28 二 04:32]--[2017-03-28 二 04:50] =>  0:18
    :END:
+** DONE Review<2017-07-10 一 06:15>99.5%
+   CLOSED: [2017-07-10 一 05:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-10 一 05:33]
+   CLOCK: [2017-07-10 一 05:15]--[2017-07-10 一 05:33] =>  0:18
+   :END:
+
 ** Lesson 5
 
 A man is taking a photograph of a dog and a woman with long blak hair.
@@ -1748,6 +1755,12 @@ Hot green tea? No, cold red juice.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-03-28 二 05:45]
    CLOCK: [2017-03-28 二 05:30]--[2017-03-28 二 05:45] =>  0:15
+   :END:
+** DONE Review<2017-07-10 一 04:59>99.8%
+   CLOSED: [2017-07-10 一 05:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-10 一 05:15]
+   CLOCK: [2017-07-10 一 04:59]--[2017-07-10 一 05:15] =>  0:16
    :END:
 ** Lesson 7
 
@@ -2570,6 +2583,12 @@ Are the young women in a nighclub? No, they are in a shop.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-07-09 日 05:46]
    CLOCK: [2017-07-09 日 05:27]--[2017-07-09 日 05:46] =>  0:19
+   :END:
+** DONE Review<2017-07-10 一 04:38>99.2%
+   CLOSED: [2017-07-10 一 04:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-10 一 04:58]
+   CLOCK: [2017-07-10 一 04:38]--[2017-07-10 一 04:58] =>  0:20
    :END:
 ** Lesson 10
 
