@@ -1063,13 +1063,14 @@ my daughter fried potatoes with meat and I drink a beer.
     CLOCK: [2017-06-06 Tue 07:06]--[2017-06-06 Tue 08:20] =>  1:14
     :END:
 
-*** STARTED :breakfast:
-    SCHEDULED: <2017-07-11 二 06:50 +1d>
+*** TODO :breakfast:
+    SCHEDULED: <2017-07-12 三 06:50 +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2017-07-10 一 07:55]
+    :LAST_REPEAT: [2017-07-11 二 08:13]
     :END:
     :LOGBOOK:
-    CLOCK: [2017-07-11 二 07:09]
+    - State "DONE"       from "STARTED"    [2017-07-11 二 08:13]
+    CLOCK: [2017-07-11 二 07:09]--[2017-07-11 二 08:13] =>  1:04
     - State "DONE"       from "STARTED"    [2017-07-10 一 07:55]
     CLOCK: [2017-07-10 一 07:05]--[2017-07-10 一 07:55] =>  0:50
     - State "DONE"       from "STARTED"    [2017-07-09 日 09:33]
@@ -1153,11 +1154,13 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:11]
     CLOCK: [2017-06-05 Mon 11:44]--[2017-06-05 Mon 11:46] =>  0:02
     :END:
-*** TODO <2017-07-11 二 11:40 +1d>                                    :lunch:
+*** TODO <2017-07-12 三 11:40 +1d>                                    :lunch:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-07-10 一 14:43]
+    :LAST_REPEAT: [2017-07-11 二 15:45]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-07-11 二 15:45]
+    CLOCK: [2017-07-11 二 11:30]--[2017-07-11 二 15:45] =>  4:15
     - State "DONE"       from "STARTED"    [2017-07-10 一 14:43]
     CLOCK: [2017-07-10 一 11:55]--[2017-07-10 一 14:43] =>  2:48
     - State "DONE"       from "STARTED"    [2017-07-09 日 14:43]
@@ -1242,11 +1245,12 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:12]
     CLOCK: [2017-06-05 Mon 18:02]--[2017-06-05 Mon 19:12] =>  1:10
     :END:
-*** TODO <2017-07-09 日 17:23 +1d>                                   :dinner:
+*** TODO <2017-07-10 一 17:23 +1d>                                   :dinner:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-07-10 一 21:29]
+    :LAST_REPEAT: [2017-07-11 二 19:05]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-07-11 二 19:05]
     - State "DONE"       from "STARTED"    [2017-07-10 一 21:29]
     CLOCK: [2017-07-10 一 17:09]--[2017-07-10 一 21:29] =>  4:20
     - State "DONE"       from "STARTED"    [2017-07-08 六 20:16]
