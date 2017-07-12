@@ -2326,11 +2326,13 @@ read two books about a hundred pages
    CLOCK: [2017-06-07 Wed 06:09]--[2017-06-07 Wed 06:37] =>  0:28
    :END:
 ** TODO [#B] work                                                 :afternoon:
-   DEADLINE: <2017-07-12 三 17:30 .+1d> SCHEDULED: <2017-07-12 三 13:50 .+1d>
+   DEADLINE: <2017-07-13 Thu 17:30 .+1d> SCHEDULED: <2017-07-13 Thu 13:50 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-07-11 二 16:13]
+   :LAST_REPEAT: [2017-07-12 Wed 16:46]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-12 Wed 16:46]
+   CLOCK: [2017-07-12 Wed 14:45]--[2017-07-12 Wed 16:46] =>  2:01
    - State "DONE"       from "STARTED"    [2017-07-11 二 16:13]
    CLOCK: [2017-07-11 二 15:45]--[2017-07-11 二 16:13] =>  0:28
    - State "DONE"       from "STARTED"    [2017-07-10 一 17:05]
@@ -2391,11 +2393,15 @@ read two books about a hundred pages
    - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:35]
    :END:
 ** TODO [#A] working                                                :morning:
-   SCHEDULED: <2017-07-12 三 08:00 +1d>
+   SCHEDULED: <2017-07-14 Fri 08:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-07-11 二 11:29]
+   :LAST_REPEAT: [2017-07-12 Wed 11:46]
    :END:
 :LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-07-12 Wed 11:46]
+- State "DONE"       from "STARTED"    [2017-07-12 Wed 11:45]
+CLOCK: [2017-07-12 Wed 11:18]--[2017-07-12 Wed 11:45] =>  0:27
+CLOCK: [2017-07-12 Wed 09:19]--[2017-07-12 Wed 10:21] =>  1:02
 - State "DONE"       from "STARTED"    [2017-07-11 二 11:29]
 CLOCK: [2017-07-11 二 08:13]--[2017-07-11 二 11:29] =>  3:16
 - State "DONE"       from "STARTED"    [2017-07-10 一 11:55]
@@ -2456,7 +2462,7 @@ CLOCK: [2017-06-07 Wed 14:57]--[2017-06-07 Wed 15:09] =>  0:12
 - State "DONE"       from "STARTED"    [2017-06-06 Tue 11:33]
 - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:35]
 :END:
-DEADLINE: <2017-07-12 三 11:40 +1d>
+DEADLINE: <2017-07-13 Thu 11:40 +1d>
 ** TODO Phone  <2017-06-08 四 >                                       :phone:
    :LOGBOOK:
    - State "STARTED"    from "DONE"       [2017-06-08 四 09:56]
