@@ -4943,6 +4943,12 @@ It likes to dance.
    - State "DONE"       from "STARTED"    [2017-05-01 Mon 09:48]
    CLOCK: [2017-05-01 Mon 09:30]--[2017-05-01 Mon 09:48] =>  0:18
    :END:
+** DONE Review<2017-07-14 Fri 05:14>98.1%
+   CLOSED: [2017-07-14 Fri 05:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-14 Fri 05:32]
+   CLOCK: [2017-07-14 Fri 05:14]--[2017-07-14 Fri 05:32] =>  0:18
+   :END:
 ** lesson 16
 
 a tray
@@ -5126,6 +5132,12 @@ It likes to dance.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-01 Mon 09:29]
    CLOCK: [2017-05-01 Mon 09:07]--[2017-05-01 Mon 09:29] =>  0:22
+   :END:
+** DONE Review<2017-07-14 Fri 05:32>99.2%
+   CLOSED: [2017-07-14 Fri 05:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-14 Fri 05:51]
+   CLOCK: [2017-07-14 Fri 05:32]--[2017-07-14 Fri 05:51] =>  0:19
    :END:
 ** Lesson 17
 
@@ -5399,6 +5411,12 @@ The neck is the part of the body, on many terrestrial or secondarily aquatic ver
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-26 Wed 06:42]
    CLOCK: [2017-04-26 Wed 06:18]--[2017-04-26 Wed 06:42] =>  0:24
+   :END:
+** DONE Review<2017-07-14 Fri 05:53>99.1%
+   CLOSED: [2017-07-14 Fri 06:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-14 Fri 06:14]
+   CLOCK: [2017-07-14 Fri 05:53]--[2017-07-14 Fri 06:14] =>  0:21
    :END:
 ** Lesson18
 
