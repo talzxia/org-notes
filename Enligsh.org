@@ -5921,6 +5921,18 @@ Are the child's feet big or small? His feet are small.
    - State "DONE"       from "STARTED"    [2017-05-01 Mon 05:05]
    CLOCK: [2017-05-01 Mon 04:43]--[2017-05-01 Mon 05:05] =>  0:22
    :END:
+** DONE Review<2017-07-15 Sat 03:51>98.5%
+   CLOSED: [2017-07-15 Sat 04:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-15 Sat 04:10]
+   CLOCK: [2017-07-15 Sat 03:51]--[2017-07-15 Sat 04:10] =>  0:19
+   :END:
+** DONE Review<2017-07-15 Sat 17:10>98.6%
+   CLOSED: [2017-07-15 Sat 17:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-15 Sat 17:29]
+   CLOCK: [2017-07-15 Sat 17:10]--[2017-07-15 Sat 17:29] =>  0:19
+   :END:
 ** Lesson19
 
 a nose
@@ -6211,6 +6223,12 @@ Is the child's head big or small? His head is small.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-30 Sun 21:22]
    CLOCK: [2017-04-30 Sun 21:07]--[2017-04-30 Sun 21:22] =>  0:15
+   :END:
+** DONE Review<2017-07-15 Sat 04:11>98.3%
+   CLOSED: [2017-07-15 Sat 04:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-15 Sat 04:30]
+   CLOCK: [2017-07-15 Sat 04:10]--[2017-07-15 Sat 04:30] =>  0:20
    :END:
 ** lesson 20
 
