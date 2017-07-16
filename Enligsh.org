@@ -4949,6 +4949,12 @@ It likes to dance.
    - State "DONE"       from "STARTED"    [2017-07-14 Fri 05:32]
    CLOCK: [2017-07-14 Fri 05:14]--[2017-07-14 Fri 05:32] =>  0:18
    :END:
+** DONE Review<2017-07-16 日 06:05>98.6%
+   CLOSED: [2017-07-16 日 06:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-16 日 06:21]
+   CLOCK: [2017-07-16 日 06:05]--[2017-07-16 日 06:21] =>  0:16
+   :END:
 ** lesson 16
 
 a tray
@@ -5933,6 +5939,12 @@ Are the child's feet big or small? His feet are small.
    - State "DONE"       from "STARTED"    [2017-07-15 Sat 17:29]
    CLOCK: [2017-07-15 Sat 17:10]--[2017-07-15 Sat 17:29] =>  0:19
    :END:
+** DONE Review<2017-07-16 日 05:47>99.3%
+   CLOSED: [2017-07-16 日 06:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-16 日 06:04]
+   CLOCK: [2017-07-16 日 05:47]--[2017-07-16 日 06:04] =>  0:17
+   :END:
 ** Lesson19
 
 a nose
@@ -6229,6 +6241,12 @@ Is the child's head big or small? His head is small.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-07-15 Sat 04:30]
    CLOCK: [2017-07-15 Sat 04:10]--[2017-07-15 Sat 04:30] =>  0:20
+   :END:
+** DONE Review<2017-07-16 日 05:24>98.7%
+   CLOSED: [2017-07-16 日 05:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-16 日 05:45]
+   CLOCK: [2017-07-16 日 05:24]--[2017-07-16 日 05:45] =>  0:21
    :END:
 ** lesson 20
 
