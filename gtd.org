@@ -6089,11 +6089,13 @@ to have lunch
    0
 
 ** TODO [#B] Learn Enlish                                             :learn:
-   DEADLINE: <2017-07-17 一 06:50 +1d> SCHEDULED: <2017-07-17 一 05:20 +1d>
+   DEADLINE: <2017-07-18 Tue 06:50 +1d> SCHEDULED: <2017-07-18 Tue 05:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-07-16 日 06:22]
+   :LAST_REPEAT: [2017-07-17 Mon 04:44]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-17 Mon 04:44]
+   CLOCK: [2017-07-17 Mon 04:08]--[2017-07-17 Mon 04:09] =>  0:01
    - State "DONE"       from "STARTED"    [2017-07-16 日 06:22]
    - State "DONE"       from "STARTED"    [2017-07-15 Sat 07:41]
    - State "DONE"       from "STARTED"    [2017-07-14 Fri 06:15]
@@ -6164,11 +6166,13 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-07-17 一 08:00 +1d>--<2017-07-17 一 08:20 +1d>
+   SCHEDULED: <2017-07-18 Tue 08:00 +1d>--<2017-07-18 Tue 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-07-16 日 09:13]
+   :LAST_REPEAT: [2017-07-17 Mon 09:16]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-17 Mon 09:16]
+   CLOCK: [2017-07-17 Mon 09:07]--[2017-07-17 Mon 09:16] =>  0:09
    - State "DONE"       from "STARTED"    [2017-07-16 日 09:13]
    - State "DONE"       from "STARTED"    [2017-07-15 Sat 10:03]
    - State "DONE"       from "STARTED"    [2017-07-13 Thu 09:55]
@@ -6642,6 +6646,13 @@ to have lunch
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-07-16 Sun 18:08]
    CLOCK: [2017-07-16 Sun 16:30]--[2017-07-16 Sun 18:08] =>  1:38
+   :END:
+
+** DONE [#B] 开班典礼
+   CLOSED: [2017-07-17 Mon 09:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-17 Mon 09:07]
+   CLOCK: [2017-07-17 Mon 08:20]--[2017-07-17 Mon 09:07] =>  0:47
    :END:
 
 * Cocos2d-X
