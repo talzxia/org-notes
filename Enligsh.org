@@ -4961,6 +4961,18 @@ It likes to dance.
    - State "DONE"       from "STARTED"    [2017-07-17 Mon 04:25]
    CLOCK: [2017-07-17 Mon 04:09]--[2017-07-17 Mon 04:25] =>  0:16
    :END:
+** DONE Review<2017-07-18 Tue 05:23>98.7%
+   CLOSED: [2017-07-18 Tue 05:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-18 Tue 05:39]
+   CLOCK: [2017-07-18 Tue 05:23]--[2017-07-18 Tue 05:39] =>  0:16
+   :END:
+** DONE Review<2017-07-18 Tue 05:42>99.1%
+   CLOSED: [2017-07-18 Tue 05:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-18 Tue 05:57]
+   CLOCK: [2017-07-18 Tue 05:42]--[2017-07-18 Tue 05:57] =>  0:15
+   :END:
 ** lesson 16
 
 a tray
