@@ -1064,11 +1064,13 @@ my daughter fried potatoes with meat and I drink a beer.
     :END:
 
 *** TODO :breakfast:
-    SCHEDULED: <2017-07-22 六 06:50 +1d>
+    SCHEDULED: <2017-07-23 日 06:50 +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2017-07-21 五 09:28]
+    :LAST_REPEAT: [2017-07-22 六 08:53]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-07-22 六 08:53]
+    CLOCK: [2017-07-22 六 08:06]--[2017-07-22 六 08:53] =>  0:47
     - State "DONE"       from "STARTED"    [2017-07-21 五 09:28]
     CLOCK: [2017-07-21 五 07:14]--[2017-07-21 五 09:28] =>  2:14
     - State "DONE"       from "STARTED"    [2017-07-20 四 08:33]
@@ -1174,11 +1176,13 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:11]
     CLOCK: [2017-06-05 Mon 11:44]--[2017-06-05 Mon 11:46] =>  0:02
     :END:
-*** TODO <2017-07-22 六 11:40 +1d>                                    :lunch:
+*** TODO <2017-07-23 日 11:40 +1d>                                    :lunch:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-07-21 五 16:26]
+    :LAST_REPEAT: [2017-07-22 六 16:13]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-07-22 六 16:13]
+    CLOCK: [2017-07-22 六 12:15]--[2017-07-22 六 16:13] =>  3:58
     - State "DONE"       from "STARTED"    [2017-07-21 五 16:26]
     CLOCK: [2017-07-21 五 11:19]--[2017-07-21 五 16:26] =>  5:07
     - State "DONE"       from "STARTED"    [2017-07-20 四 15:14]
@@ -1285,11 +1289,12 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:12]
     CLOCK: [2017-06-05 Mon 18:02]--[2017-06-05 Mon 19:12] =>  1:10
     :END:
-*** TODO <2017-07-21 五 17:23 +1d>                                   :dinner:
+*** TODO <2017-07-22 六 17:23 +1d>                                   :dinner:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-07-20 四 21:33]
+    :LAST_REPEAT: [2017-07-21 五 21:42]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-07-21 五 21:42]
     - State "DONE"       from "STARTED"    [2017-07-20 四 21:33]
     - State "DONE"       from "STARTED"    [2017-07-19 三 19:50]
     - State "DONE"       from "STARTED"    [2017-07-18 Tue 18:39]
