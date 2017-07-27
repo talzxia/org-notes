@@ -7014,6 +7014,18 @@ The photographer has interesting work.
    - State "DONE"       from "STARTED"    [2017-07-26 Wed 20:59]
    CLOCK: [2017-07-26 Wed 20:43]--[2017-07-26 Wed 20:59] =>  0:16
    :END:
+** DONE Review<2017-07-27 Thu 05:22>98.7%
+   CLOSED: [2017-07-27 Thu 05:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-27 Thu 05:38]
+   CLOCK: [2017-07-27 Thu 05:22]--[2017-07-27 Thu 05:38] =>  0:16
+   :END:
+** DONE Review<2017-07-27 Thu 05:38>99.2%
+   CLOSED: [2017-07-27 Thu 05:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-27 Thu 05:53]
+   CLOCK: [2017-07-27 Thu 05:38]--[2017-07-27 Thu 05:53] =>  0:15
+   :END:
 ** Lesson 22
 
 a photographer
@@ -7398,6 +7410,12 @@ meet shang hai ruiya 葛锡宝
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-30 Sun 14:28]
    CLOCK: [2017-04-30 Sun 14:11]--[2017-04-30 Sun 14:28] =>  0:17
+   :END:
+** DONE Review<2017-07-27 Thu 05:54>99.2%
+   CLOSED: [2017-07-27 Thu 06:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-27 Thu 06:12]
+   CLOCK: [2017-07-27 Thu 05:54]--[2017-07-27 Thu 06:12] =>  0:18
    :END:
 ** Lesson 23
 
