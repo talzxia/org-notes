@@ -7753,6 +7753,12 @@ means of transportation 交通设施
    - State "DONE"       from "STARTED"    [2017-04-30 Sun 09:26]
    CLOCK: [2017-04-30 Sun 09:03]--[2017-04-30 Sun 09:26] =>  0:23
    :END:
+** DONE Review<2017-07-28 Fri 05:33>98.6%
+   CLOSED: [2017-07-28 Fri 05:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-28 Fri 05:54]
+   CLOCK: [2017-07-28 Fri 05:33]--[2017-07-28 Fri 05:54] =>  0:21
+   :END:
 ** Lesson24
 
 a plane
@@ -8109,6 +8115,12 @@ Is this dog working? No, it is relaxing.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-04-30 Sun 09:02]
    CLOCK: [2017-04-30 Sun 08:31]--[2017-04-30 Sun 09:02] =>  0:31
+   :END:
+** DONE Review<2017-07-28 Fri 05:55>98.5%
+   CLOSED: [2017-07-28 Fri 06:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-28 Fri 06:17]
+   CLOCK: [2017-07-28 Fri 05:55]--[2017-07-28 Fri 06:17] =>  0:22
    :END:
 * DONE twenty six
   DEADLINE: <2016-07-11 Mon 10:43>
@@ -8477,6 +8489,7 @@ The boat beached on a mud flat.
    CLOCK: [2017-04-30 Sun 06:03]--[2017-04-30 Sun 06:11] =>  0:08
    :END:
 
+** Review
 ** Lesson 26
 
 a group
