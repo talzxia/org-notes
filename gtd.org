@@ -6089,11 +6089,12 @@ to have lunch
    0
 
 ** TODO [#B] Learn Enlish                                             :learn:
-   DEADLINE: <2017-08-07 Mon 06:50 +1d> SCHEDULED: <2017-08-07 Mon 05:20 +1d>
+   DEADLINE: <2017-08-08 Tue 06:50 +1d> SCHEDULED: <2017-08-08 Tue 05:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-08-06 Sun 18:17]
+   :LAST_REPEAT: [2017-08-07 Mon 05:22]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-07 Mon 05:22]
    - State "DONE"       from "STARTED"    [2017-08-06 Sun 18:17]
    - State "DONE"       from "STARTED"    [2017-08-05 六 05:42]
    - State "DONE"       from "STARTED"    [2017-08-04 五 05:39]
@@ -6192,11 +6193,13 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-08-07 Mon 08:00 +1d>--<2017-08-07 Mon 08:20 +1d>
+   SCHEDULED: <2017-08-08 Tue 08:00 +1d>--<2017-08-08 Tue 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-08-06 Sun 20:22]
+   :LAST_REPEAT: [2017-08-07 Mon 12:53]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-07 Mon 12:53]
+   CLOCK: [2017-08-07 Mon 08:33]--[2017-08-07 Mon 12:53] =>  4:20
    - State "DONE"       from "STARTED"    [2017-08-06 Sun 20:22]
    - State "DONE"       from "STARTED"    [2017-08-05 六 09:18]
    - State "DONE"       from "STARTED"    [2017-08-04 五 09:32]
@@ -6358,11 +6361,13 @@ to have lunch
    CLOCK: [2017-06-06 Tue 11:05]--[2017-06-06 Tue 11:32] =>  0:27
    :END:
 ** TODO [#B]Handwriting                                         :Handwriting:
-   SCHEDULED: <2017-08-18 Fri +1d>
+   SCHEDULED: <2017-08-19 Sat +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-08-06 Sun 21:13]
+   :LAST_REPEAT: [2017-08-07 Mon 07:12]
    :END:
  :LOGBOOK:
+ - State "DONE"       from "STARTED"    [2017-08-07 Mon 07:12]
+ CLOCK: [2017-08-07 Mon 06:18]--[2017-08-07 Mon 07:12] =>  0:54
  - State "DONE"       from "STARTED"    [2017-08-06 Sun 21:13]
  CLOCK: [2017-08-06 Sun 21:00]--[2017-08-06 Sun 21:13] =>  0:13
  - State "DONE"       from "STARTED"    [2017-08-05 六 07:21]
