@@ -6089,11 +6089,12 @@ to have lunch
    0
 
 ** TODO [#B] Learn Enlish                                             :learn:
-   DEADLINE: <2017-08-10 Thu 06:50 +1d> SCHEDULED: <2017-08-10 Thu 05:20 +1d>
+   DEADLINE: <2017-08-11 Fri 06:50 +1d> SCHEDULED: <2017-08-11 Fri 05:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-08-09 Wed 05:32]
+   :LAST_REPEAT: [2017-08-10 Thu 05:12]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-10 Thu 05:12]
    - State "DONE"       from "STARTED"    [2017-08-09 Wed 05:32]
    - State "DONE"       from "STARTED"    [2017-08-08 Tue 05:30]
    - State "DONE"       from "STARTED"    [2017-08-07 Mon 05:22]
@@ -6195,11 +6196,13 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-08-09 Wed 08:00 +1d>--<2017-08-09 Wed 08:20 +1d>
+   SCHEDULED: <2017-08-11 Fri 08:00 +1d>--<2017-08-11 Fri 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-08-08 Tue 10:30]
+   :LAST_REPEAT: [2017-08-10 Thu 08:44]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-10 Thu 08:44]
+   - State "DONE"       from "STARTED"    [2017-08-09 Wed 09:52]
    - State "DONE"       from "STARTED"    [2017-08-08 Tue 10:30]
    - State "DONE"       from "STARTED"    [2017-08-07 Mon 12:53]
    CLOCK: [2017-08-07 Mon 08:33]--[2017-08-07 Mon 12:53] =>  4:20
@@ -6364,11 +6367,13 @@ to have lunch
    CLOCK: [2017-06-06 Tue 11:05]--[2017-06-06 Tue 11:32] =>  0:27
    :END:
 ** TODO [#B]Handwriting                                         :Handwriting:
-   SCHEDULED: <2017-08-21 Mon +1d>
+   SCHEDULED: <2017-08-22 Tue +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-08-09 Wed 07:44]
+   :LAST_REPEAT: [2017-08-09 Wed 09:52]
    :END:
  :LOGBOOK:
+ - State "DONE"       from "STARTED"    [2017-08-09 Wed 09:52]
+ CLOCK: [2017-08-09 Wed 09:08]--[2017-08-09 Wed 09:52] =>  0:44
  - State "DONE"       from "STARTED"    [2017-08-09 Wed 07:44]
  CLOCK: [2017-08-09 Wed 06:36]--[2017-08-09 Wed 07:44] =>  1:08
  - State "DONE"       from "STARTED"    [2017-08-08 Tue 06:59]
