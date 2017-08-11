@@ -2382,11 +2382,13 @@ read two books about a hundred pages
    CLOCK: [2017-06-07 Wed 06:09]--[2017-06-07 Wed 06:37] =>  0:28
    :END:
 ** TODO [#B] work                                                 :afternoon:
-   DEADLINE: <2017-08-11 Fri 17:30 .+1d> SCHEDULED: <2017-08-11 Fri 13:50 .+1d>
+   DEADLINE: <2017-08-12 Sat 17:30 .+1d> SCHEDULED: <2017-08-12 Sat 13:50 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-08-10 Thu 20:16]
+   :LAST_REPEAT: [2017-08-11 Fri 21:58]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-11 Fri 21:58]
+   CLOCK: [2017-08-11 Fri 14:21]--[2017-08-11 Fri 21:58] =>  7:37
    - State "DONE"       from "STARTED"    [2017-08-10 Thu 20:16]
    CLOCK: [2017-08-10 Thu 13:35]--[2017-08-10 Thu 20:16] =>  6:41
    - State "DONE"       from "STARTED"    [2017-08-09 Wed 21:48]
