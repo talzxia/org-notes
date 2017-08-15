@@ -2497,11 +2497,13 @@ read two books about a hundred pages
    - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:35]
    :END:
 ** TODO [#A] working                                                :morning:
-   SCHEDULED: <2017-08-18 五 08:00 +1d>
+   SCHEDULED: <2017-08-19 六 08:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-08-14 一 12:04]
+   :LAST_REPEAT: [2017-08-15 二 21:31]
    :END:
 :LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-08-15 二 21:31]
+CLOCK: [2017-08-15 二 11:34]--[2017-08-15 二 21:31] =>  9:57
 - State "DONE"       from "STARTED"    [2017-08-14 一 12:04]
 CLOCK: [2017-08-14 一 08:44]--[2017-08-14 一 12:04] =>  3:20
 - State "DONE"       from "STARTED"    [2017-08-13 日 15:51]
@@ -2625,7 +2627,7 @@ CLOCK: [2017-06-07 Wed 14:57]--[2017-06-07 Wed 15:09] =>  0:12
 - State "DONE"       from "STARTED"    [2017-06-06 Tue 11:33]
 - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:35]
 :END:
-DEADLINE: <2017-08-14 一 11:40 +1d>
+DEADLINE: <2017-08-15 二 11:40 +1d>
 ** TODO Phone  <2017-06-08 四 >                                       :phone:
    :LOGBOOK:
    - State "STARTED"    from "DONE"       [2017-06-08 四 09:56]
