@@ -11159,6 +11159,12 @@ The woman is checking her flight on her ticket.
    - State "DONE"       from "STARTED"    [2017-08-15 二 05:56]
    CLOCK: [2017-08-15 二 05:30]--[2017-08-15 二 05:56] =>  0:26
    :END:
+** DONE Review <2017-08-17 Thu 17:52>99.2%
+   CLOSED: [2017-08-17 Thu 18:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-17 Thu 18:19]
+   CLOCK: [2017-08-17 Thu 17:52]--[2017-08-17 Thu 18:19] =>  0:27
+   :END:
 ** Lesson 31
 passport control customs control registration flight a currency exchange booth a
 waiting area
@@ -11838,6 +11844,12 @@ The man is lying on the soft couch because he's watching television.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-08-13 日 06:23]
    CLOCK: [2017-08-13 日 05:55]--[2017-08-13 日 06:23] =>  0:28
+   :END:
+** DONE Review<2017-08-17 Thu 16:20>99.3%
+   CLOSED: [2017-08-17 Thu 18:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-17 Thu 18:49]
+   CLOCK: [2017-08-17 Thu 18:20]--[2017-08-17 Thu 18:49] =>  0:29
    :END:
 * DONE Review thirty three 95.3%
   CLOSED: [2016-08-03 Wed 04:53]
@@ -12957,6 +12969,12 @@ On the window in the living room hang beautiful, grren drapes.
    - State "DONE"       from "STARTED"    [2017-06-20 二 06:40]
    CLOCK: [2017-06-20 二 06:12]--[2017-06-20 二 06:40] =>  0:28
    :END:
+** DONE Review<2017-08-18 Fri 05:28>98.1%
+   CLOSED: [2017-08-18 Fri 06:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-18 Fri 06:01]
+   CLOCK: [2017-08-18 Fri 05:28]--[2017-08-18 Fri 06:01] =>  0:33
+   :END:
 ** Lesson 33
 a floor a ceiling drapes blinds a fireplace a balcony
 
@@ -13879,6 +13897,12 @@ bake tasty pies.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-15 四 15:16]
    CLOCK: [2017-06-15 四 14:49]--[2017-06-15 四 15:16] =>  0:27
+   :END:
+** DONE Review<2017-08-18 Fri 06:01>98.5%
+   CLOSED: [2017-08-18 Fri 06:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-18 Fri 06:30]
+   CLOCK: [2017-08-18 Fri 06:01]--[2017-08-18 Fri 06:30] =>  0:29
    :END:
 * DONE thirty five 95%
   CLOSED: [2016-07-30 Sat 06:02]
