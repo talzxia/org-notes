@@ -12981,6 +12981,12 @@ On the window in the living room hang beautiful, grren drapes.
    - State "DONE"       from "STARTED"    [2017-08-21 Mon 05:48]
    CLOCK: [2017-08-21 Mon 05:21]--[2017-08-21 Mon 05:48] =>  0:27
    :END:
+** DONE Review<2017-08-22 二 05:45>99.5%
+   CLOSED: [2017-08-22 二 06:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-22 二 06:14]
+   CLOCK: [2017-08-22 二 05:45]--[2017-08-22 二 06:14] =>  0:29
+   :END:
 ** Lesson 33
 a floor a ceiling drapes blinds a fireplace a balcony
 
@@ -13909,6 +13915,15 @@ bake tasty pies.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-08-18 Fri 06:30]
    CLOCK: [2017-08-18 Fri 06:01]--[2017-08-18 Fri 06:30] =>  0:29
+   :END:
+** DONE Review<2017-08-23 三 11:57>98.2%
+   CLOSED: [2017-08-22 二 14:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-22 二 14:33]
+   - State "STARTED"    from "DONE"       [2017-08-22 二 14:25]
+   CLOCK: [2017-08-22 二 14:25]--[2017-08-22 二 14:33] =>  0:08
+   - State "DONE"       from "STARTED"    [2017-08-22 二 12:18]
+   CLOCK: [2017-08-22 二 11:57]--[2017-08-22 二 12:18] =>  0:21
    :END:
 * DONE thirty five 95%
   CLOSED: [2016-07-30 Sat 06:02]
