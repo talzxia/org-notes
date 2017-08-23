@@ -13925,6 +13925,12 @@ bake tasty pies.
    - State "DONE"       from "STARTED"    [2017-08-22 二 12:18]
    CLOCK: [2017-08-22 二 11:57]--[2017-08-22 二 12:18] =>  0:21
    :END:
+** DONE Review<2017-08-23 三 04:01>98.8%
+   CLOSED: [2017-08-23 三 04:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-23 三 04:28]
+   CLOCK: [2017-08-23 三 04:01]--[2017-08-23 三 04:28] =>  0:27
+   :END:
 * DONE thirty five 95%
   CLOSED: [2016-07-30 Sat 06:02]
   :LOGBOOK:
@@ -14072,6 +14078,12 @@ bake tasty pies.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-15 四 17:35]
    CLOCK: [2017-06-15 四 16:28]--[2017-06-15 四 17:35] =>  1:07
+   :END:
+** DONE Review<2017-08-23 三 05:33>98.6%
+   CLOSED: [2017-08-23 三 06:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-23 三 06:07]
+   CLOCK: [2017-08-23 三 05:33]--[2017-08-23 三 06:07] =>  0:34
    :END:
 ** Lesson 35
    a blouse a tank top a coat a sweater tights socks

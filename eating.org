@@ -1066,9 +1066,11 @@ my daughter fried potatoes with meat and I drink a beer.
 *** TODO :breakfast:
     SCHEDULED: <2017-08-24 四 06:50 +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2017-08-22 二 08:24]
+    :LAST_REPEAT: [2017-08-23 三 10:23]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-08-23 三 10:23]
+    CLOCK: [2017-08-23 三 07:02]--[2017-08-23 三 10:23] =>  3:21
     - State "DONE"       from "STARTED"    [2017-08-22 二 08:24]
     CLOCK: [2017-08-22 二 07:13]--[2017-08-22 二 08:24] =>  1:11
     - State "DONE"       from "STARTED"    [2017-08-21 一 14:33]
@@ -1241,11 +1243,13 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:11]
     CLOCK: [2017-06-05 Mon 11:44]--[2017-06-05 Mon 11:46] =>  0:02
     :END:
-*** TODO <2017-08-23 三 11:40 +1d>                                    :lunch:
+*** TODO <2017-08-24 四 11:40 +1d>                                    :lunch:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-08-22 二 14:23]
+    :LAST_REPEAT: [2017-08-23 三 14:33]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-08-23 三 14:33]
+    CLOCK: [2017-08-23 三 11:40]--[2017-08-23 三 14:33] =>  2:53
     - State "DONE"       from "STARTED"    [2017-08-22 二 14:23]
     - State "DONE"       from "STARTED"    [2017-08-21 一 14:34]
     CLOCK: [2017-08-21 一 11:46]--[2017-08-21 一 14:34] =>  2:48
@@ -1401,11 +1405,12 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:12]
     CLOCK: [2017-06-05 Mon 18:02]--[2017-06-05 Mon 19:12] =>  1:10
     :END:
-*** TODO <2017-08-21 一 17:23 +1d>                                   :dinner:
+*** STARTED <2017-08-21 一 17:23 +1d>                                :dinner:
     :PROPERTIES:
     :LAST_REPEAT: [2017-08-21 一 19:14]
     :END:
     :LOGBOOK:
+    CLOCK: [2017-08-23 三 17:58]
     - State "DONE"       from "STARTED"    [2017-08-21 一 19:14]
     - State "DONE"       from "STARTED"    [2017-08-21 一 18:51]
     CLOCK: [2017-08-21 一 17:32]--[2017-08-21 一 18:51] =>  1:19
