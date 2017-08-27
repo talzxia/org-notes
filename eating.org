@@ -1247,12 +1247,14 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:11]
     CLOCK: [2017-06-05 Mon 11:44]--[2017-06-05 Mon 11:46] =>  0:02
     :END:
-*** STARTED <2017-08-26 六 11:40 +1d>                                 :lunch:
+*** STARTED <2017-08-27 日 11:40 +1d>                                 :lunch:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-08-25 五 15:47]
+    :LAST_REPEAT: [2017-08-26 六 15:37]
     :END:
     :LOGBOOK:
-    CLOCK: [2017-08-26 六 12:48]
+    CLOCK: [2017-08-27 日 12:09]
+    - State "DONE"       from "STARTED"    [2017-08-26 六 15:37]
+    CLOCK: [2017-08-26 六 12:48]--[2017-08-26 六 15:37] =>  2:49
     - State "DONE"       from "STARTED"    [2017-08-25 五 15:47]
     CLOCK: [2017-08-25 五 11:44]--[2017-08-25 五 15:47] =>  4:03
     - State "DONE"       from "STARTED"    [2017-08-24 四 15:03]
