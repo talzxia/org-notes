@@ -6089,11 +6089,13 @@ to have lunch
    0
 
 ** TODO [#B] Learn Enlish                                             :learn:
-   DEADLINE: <2017-08-28 一 06:50 +1d> SCHEDULED: <2017-08-28 一 05:20 +1d>
+   DEADLINE: <2017-08-30 三 06:50 +1d> SCHEDULED: <2017-08-30 三 05:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-08-27 日 05:32]
+   :LAST_REPEAT: [2017-08-29 二 14:03]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-29 二 14:03]
+   - State "DONE"       from "STARTED"    [2017-08-29 二 05:24]
    - State "DONE"       from "STARTED"    [2017-08-27 日 05:32]
    - State "DONE"       from "STARTED"    [2017-08-26 六 06:31]
    - State "DONE"       from "STARTED"    [2017-08-25 五 05:28]
@@ -6214,11 +6216,12 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-08-27 日 08:00 +1d>--<2017-08-27 日 08:20 +1d>
+   SCHEDULED: <2017-08-30 三 08:00 +1d>--<2017-08-28 一 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-08-28 一 08:29]
+   :LAST_REPEAT: [2017-08-29 二 14:01]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-08-29 二 14:01]
    - State "DONE"       from "STARTED"    [2017-08-28 一 08:29]
    CLOCK: [2017-08-28 一 08:00]--[2017-08-28 一 08:29] =>  0:29
    - State "DONE"       from "STARTED"    [2017-08-25 五 08:31]
@@ -6403,12 +6406,15 @@ to have lunch
    - State "DONE"       from "STARTED"    [2017-06-06 Tue 11:32]
    CLOCK: [2017-06-06 Tue 11:05]--[2017-06-06 Tue 11:32] =>  0:27
    :END:
-** TODO [#B]Handwriting                                         :Handwriting:
-   SCHEDULED: <2017-08-31 四 +1d>
+** STARTED [#B]Handwriting                                      :Handwriting:
+   SCHEDULED: <2017-09-01 五 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-08-24 四 07:15]
+   :LAST_REPEAT: [2017-08-29 二 06:35]
    :END:
  :LOGBOOK:
+ CLOCK: [2017-08-29 二 20:24]
+ - State "DONE"       from "STARTED"    [2017-08-29 二 06:35]
+ CLOCK: [2017-08-29 二 06:03]--[2017-08-29 二 06:35] =>  0:32
  - State "DONE"       from "STARTED"    [2017-08-24 四 07:15]
  CLOCK: [2017-08-24 四 06:54]--[2017-08-24 四 07:15] =>  0:21
  - State "DONE"       from "STARTED"    [2017-08-23 三 06:37]
