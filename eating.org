@@ -1064,11 +1064,12 @@ my daughter fried potatoes with meat and I drink a beer.
     :END:
 
 *** TODO :breakfast:
-    SCHEDULED: <2017-08-31 四 06:50 +1d>
+    SCHEDULED: <2017-09-01 五 06:50 +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2017-08-30 三 08:24]
+    :LAST_REPEAT: [2017-08-31 四 08:26]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-08-31 四 08:26]
     - State "DONE"       from "STARTED"    [2017-08-30 三 08:24]
     - State "DONE"       from "STARTED"    [2017-08-30 三 08:18]
     CLOCK: [2017-08-30 三 06:56]--[2017-08-30 三 08:18] =>  1:22
@@ -1254,11 +1255,14 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:11]
     CLOCK: [2017-06-05 Mon 11:44]--[2017-06-05 Mon 11:46] =>  0:02
     :END:
-*** TODO <2017-08-31 四 11:40 +1d>                                    :lunch:
+*** STARTED <2017-09-01 五 11:40 +1d>                                 :lunch:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-08-30 三 14:28]
+    :LAST_REPEAT: [2017-08-31 四 14:12]
     :END:
     :LOGBOOK:
+    CLOCK: [2017-09-01 五 11:58]
+    - State "DONE"       from "STARTED"    [2017-08-31 四 14:12]
+    CLOCK: [2017-08-31 四 11:55]--[2017-08-31 四 14:12] =>  2:17
     - State "DONE"       from "STARTED"    [2017-08-30 三 14:28]
     CLOCK: [2017-08-30 三 12:08]--[2017-08-30 三 14:28] =>  2:20
     - State "DONE"       from "STARTED"    [2017-08-29 二 14:01]
@@ -1429,11 +1433,15 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:12]
     CLOCK: [2017-06-05 Mon 18:02]--[2017-06-05 Mon 19:12] =>  1:10
     :END:
-*** TODO <2017-08-24 四 17:33 +1d>                                   :dinner:
+*** TODO <2017-08-26 六 17:33 +1d>                                   :dinner:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-08-29 二 20:23]
+    :LAST_REPEAT: [2017-08-31 四 17:53]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-08-31 四 17:53]
+    CLOCK: [2017-08-31 四 16:44]--[2017-08-31 四 17:53] =>  1:09
+    - State "DONE"       from "STARTED"    [2017-08-30 三 18:27]
+    CLOCK: [2017-08-30 三 16:47]--[2017-08-30 三 18:27] =>  1:40
     - State "DONE"       from "STARTED"    [2017-08-29 二 20:23]
     CLOCK: [2017-08-29 二 17:33]--[2017-08-29 二 20:23] =>  2:50
     - State "DONE"       from "STARTED"    [2017-08-24 四 21:39]

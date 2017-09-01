@@ -2242,12 +2242,13 @@ read two books about a hundred pages
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 16:21]
     CLOCK: [2017-06-05 Mon 15:38]--[2017-06-05 Mon 17:21] =>  1:43
     :END:
-** TODO [#A] browse and free learn <2017-06-07 Wed 06:08>            :browse:
+** STARTED [#A] browse and free learn <2017-06-07 Wed 06:08>         :browse:
    SCHEDULED: <2017-09-01 五 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-08-30 三 21:36]
    :END:
    :LOGBOOK:
+   CLOCK: [2017-09-01 五 07:29]
    - State "DONE"       from "STARTED"    [2017-08-30 三 21:36]
    CLOCK: [2017-08-30 三 18:27]--[2017-08-30 三 21:36] =>  3:09
    - State "DONE"       from "STARTED"    [2017-08-30 三 06:00]
