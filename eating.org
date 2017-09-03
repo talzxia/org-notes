@@ -1255,12 +1255,15 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:11]
     CLOCK: [2017-06-05 Mon 11:44]--[2017-06-05 Mon 11:46] =>  0:02
     :END:
-*** STARTED <2017-09-01 五 11:40 +1d>                                 :lunch:
+*** TODO <2017-09-03 日 11:40 +1d>                                    :lunch:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-08-31 四 14:12]
+    :LAST_REPEAT: [2017-09-02 六 15:06]
     :END:
     :LOGBOOK:
-    CLOCK: [2017-09-01 五 11:58]
+    - State "DONE"       from "STARTED"    [2017-09-02 六 15:06]
+    CLOCK: [2017-09-02 六 11:37]--[2017-09-02 六 15:06] =>  3:29
+    - State "DONE"       from "STARTED"    [2017-09-01 五 15:41]
+    CLOCK: [2017-09-01 五 11:58]--[2017-09-01 五 15:41] =>  3:43
     - State "DONE"       from "STARTED"    [2017-08-31 四 14:12]
     CLOCK: [2017-08-31 四 11:55]--[2017-08-31 四 14:12] =>  2:17
     - State "DONE"       from "STARTED"    [2017-08-30 三 14:28]
@@ -1433,11 +1436,12 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:12]
     CLOCK: [2017-06-05 Mon 18:02]--[2017-06-05 Mon 19:12] =>  1:10
     :END:
-*** TODO <2017-08-26 六 17:33 +1d>                                   :dinner:
+*** TODO <2017-08-27 日 17:33 +1d>                                   :dinner:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-08-31 四 17:53]
+    :LAST_REPEAT: [2017-09-01 五 21:55]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-09-01 五 21:55]
     - State "DONE"       from "STARTED"    [2017-08-31 四 17:53]
     CLOCK: [2017-08-31 四 16:44]--[2017-08-31 四 17:53] =>  1:09
     - State "DONE"       from "STARTED"    [2017-08-30 三 18:27]
