@@ -23040,6 +23040,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2017-06-29 四 06:25]
    CLOCK: [2017-06-29 四 05:59]--[2017-06-29 四 06:25] =>  0:26
    :END:
+** DONE Review<2017-09-09 六 05:33>98.3%
+   CLOSED: [2017-09-09 六 06:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-09 六 06:00]
+   CLOCK: [2017-09-09 六 05:33]--[2017-09-09 六 06:00] =>  0:27
+   :END:
 ** Lesson 42
 a calendar
 a day
@@ -24977,6 +24983,12 @@ In order to open an account, you need to go to the bank.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-08-20 日 05:52]
    CLOCK: [2017-08-20 日 05:24]--[2017-08-20 日 05:52] =>  0:28
+   :END:
+** DONE Review<2017-09-09 六 06:01>98.8%
+   CLOSED: [2017-09-09 六 06:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-09 六 06:30]
+   CLOCK: [2017-09-09 六 06:01]--[2017-09-09 六 06:30] =>  0:29
    :END:
 ** Lesson 43
 a post offcie a mailbox a postman an ATM a credit card a post office a bank
