@@ -26174,6 +26174,12 @@ The woman has a stomachache.
    - State "DONE"       from "STARTED"    [2017-09-10 日 20:27]
    CLOCK: [2017-09-10 日 20:04]--[2017-09-10 日 20:27] =>  0:23
    :END:
+** DONE Review<2017-09-11 一 06:46>99.4%
+   CLOSED: [2017-09-11 一 07:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-11 一 07:07]
+   CLOCK: [2017-09-11 一 06:46]--[2017-09-11 一 07:07] =>  0:21
+   :END:
 ** Lesson 44
 a bandage vitamins a syringe aspirin a thermometer medicine
 
@@ -26478,6 +26484,12 @@ Why do the man's eyes hurt? He works a lot on the computer.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-09-10 日 06:22]
    CLOCK: [2017-09-10 日 06:02]--[2017-09-10 日 06:22] =>  0:20
+   :END:
+** DONE Review<2017-09-11 一 07:08>99.2%
+   CLOSED: [2017-09-11 一 07:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-11 一 07:26]
+   CLOCK: [2017-09-11 一 07:08]--[2017-09-11 一 07:26] =>  0:18
    :END:
 ** Lesson 45
 a child a teenager an elderly man an eldery woman an adult an elderly people
