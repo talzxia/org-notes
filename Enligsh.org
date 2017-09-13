@@ -23052,6 +23052,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2017-09-11 一 20:28]
    CLOCK: [2017-09-11 一 20:01]--[2017-09-11 一 20:28] =>  0:27
    :END:
+** DONE Review<2017-09-12 二 04:49>99.1%
+   CLOSED: [2017-09-12 二 05:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-12 二 05:14]
+   CLOCK: [2017-09-12 二 04:49]--[2017-09-12 二 05:14] =>  0:25
+   :END:
 ** Lesson 42
 a calendar
 a day
@@ -24995,6 +25001,12 @@ In order to open an account, you need to go to the bank.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-09-09 六 06:30]
    CLOCK: [2017-09-09 六 06:01]--[2017-09-09 六 06:30] =>  0:29
+   :END:
+** DONE Review<2017-09-12 二 05:14>99.2%
+   CLOSED: [2017-09-12 二 05:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-12 二 05:42]
+   CLOCK: [2017-09-12 二 05:14]--[2017-09-12 二 05:42] =>  0:28
    :END:
 ** Lesson 43
 a post offcie a mailbox a postman an ATM a credit card a post office a bank
@@ -28752,6 +28764,12 @@ People are buying jewelry wtih a discount.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-07-04 二 18:57]
    CLOCK: [2017-07-04 二 18:34]--[2017-07-04 二 18:57] =>  0:23
+   :END:
+** DONE Review98.6%<2017-09-13 三>
+   DEADLINE: <2017-09-13 三>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-13 三 06:58]
+   CLOCK: [2017-09-13 三 06:32]--[2017-09-13 三 06:57] =>  0:25
    :END:
 ** Lesson 46
    a necklace a pendant a chain a ring a bracelet earrings
