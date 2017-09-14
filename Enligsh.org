@@ -30290,6 +30290,12 @@ Only the chairman's strong control was able to impart some sense of seriousness 
    - State "DONE"       from "STARTED"    [2017-07-01 六 06:32]
    CLOCK: [2017-07-01 六 06:12]--[2017-07-01 六 06:32] =>  0:20
    :END:
+** DONE Review<2017-09-14 四 05:02>98.7%
+   CLOSED: [2017-09-14 四 05:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-14 四 05:23]
+   CLOCK: [2017-09-14 四 05:02]--[2017-09-14 四 05:23] =>  0:21
+   :END:
 ** text
 
    the chest the mouth legs the belly the head arms
@@ -31702,6 +31708,12 @@ A notebook is finished.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-07-03 一 19:28]
    CLOCK: [2017-07-03 一 19:09]--[2017-07-03 一 19:28] =>  0:19
+   :END:
+** DONE Review<2017-09-14 四 05:24>98.1%
+   CLOSED: [2017-09-14 四 05:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-14 四 05:47]
+   CLOCK: [2017-09-14 四 05:24]--[2017-09-14 四 05:47] =>  0:23
    :END:
 ** Lesson forty eight
 

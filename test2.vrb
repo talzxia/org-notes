@@ -1,8 +1,0 @@
-\frametitle{Ordered Lists}
-A Beamer theme consists of the following four parts: \pause
-  \begin{enumerate}[<+->]
-  \item outer theme, with \verb!\usebeameroutertheme!;
-  \item inner theme, with \verb!\usebeamerinnertheme!;
-  \item color theme, with \verb!\usebeamercolortheme!;
-  \item font theme, with \verb!\usebeamerfonttheme!.
-  \end{enumerate}
