@@ -1,14 +1,14 @@
 # Fdb version 3
-["pdflatex"] 1505357782 "test.tex" "test.pdf" "test" 1505357802
+["pdflatex"] 1505460047 "test.tex" "test.pdf" "test" 1505460054
   "/Library/Fonts/Songti.ttc" 1470021522 66954320 afb3198e641fa1b263f1b34aa518e75d ""
-  "/dev/null" 1505357640 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "/dev/null" 1505459915 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm" 1480098711 520 4889cce2180234b97cad636b6039c722 ""
   "/usr/local/texlive/2017/texmf-dist/tex/generic/ulem/ulem.sty" 1480098819 23756 854c01b779030ff5b2aad88ba7a119f2 ""
   "/usr/local/texlive/2017/texmf-dist/tex/generic/unicode-data/CaseFolding.txt" 1480098819 78161 e3fbf2f626f10070000fe66f3a2ff5ef ""
   "/usr/local/texlive/2017/texmf-dist/tex/generic/unicode-data/SpecialCasing.txt" 1480098819 16830 fea30f45a2f81ffa474fd984d297e2ea ""
   "/usr/local/texlive/2017/texmf-dist/tex/generic/unicode-data/UnicodeData.txt" 1480098819 1686443 dde25b1cf9bbb4ba1140ac12e4128b0b ""
-  "/usr/local/texlive/2017/texmf-dist/tex/latex/base/bk10.clo" 1480098821 8132 1634546e834d9ce0acd98b4276acdae2 ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/base/bk12.clo" 1480098821 8139 b9d9424b409fe55c665eac87eba27e54 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/base/book.cls" 1480098821 22945 7df8250bf76418cf651c357d3631fbc3 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/base/fix-cm.sty" 1480098821 14742 ad7ac4c2db1d39579bbccd175cdf5ca9 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty" 1492297155 4571 13977df0eda144b93597fc709035ad1f ""
@@ -18,7 +18,6 @@
   "/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg" 1491080199 1872 df8e464862521432a97613877ecc4652 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex.cfg" 1491080199 1333 90ede29ec3316448a6b2ca3d52b4ca5c ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/config/ctexopts.cfg" 1491080199 1404 af72a65fe9288cea61c24260f45b5df0 ""
-  "/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/ctex-c5size.clo" 1491080199 2719 60744c8dbe8aec983d6ca88b15f89a1a ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/ctexbook.cls" 1491080199 54017 cc3ad370f8d2eeb2dd6acab0d221086a ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/ctexhook.sty" 1491080199 2767 49843224439f4b993834f43c63f7c383 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/ctexpatch.sty" 1491080199 8542 a54f52829634cbc627251f9bfa8c8fbe ""
@@ -56,9 +55,9 @@
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
   "/usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1505309168 3678530 a4bb640012a26e590fb5333e32b198e1 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "test.aux" 1505357784 8 a94a2480d3289e625eea47cd1b285758 ""
-  "test.tex" 1505357782 353 2de9e6c3aae6171f7a09516a83aaa66a ""
+  "test.aux" 1505460048 8 a94a2480d3289e625eea47cd1b285758 ""
+  "test.tex" 1505460047 593 a64453e2a5d819a51485dae85c8bb270 ""
   (generated)
   "test.aux"
-  "test.pdf"
   "test.log"
+  "test.pdf"
