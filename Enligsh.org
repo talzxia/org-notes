@@ -32786,6 +32786,12 @@ A child should help his parents.
    - State "DONE"       from "STARTED"    [2017-09-15 五 06:44]
    CLOCK: [2017-09-15 五 06:23]--[2017-09-15 五 06:44] =>  0:21
    :END:
+** DONE Review<2017-09-16 六 05:56>98.8%
+   CLOSED: [2017-09-16 六 06:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-16 六 06:16]
+   CLOCK: [2017-09-16 六 05:55]--[2017-09-16 六 06:16] =>  0:21
+   :END:
 ** Lesson forty nine
 a city a capital an emblem a building a flag a country
 
@@ -33271,6 +33277,12 @@ there.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-09-15 五 07:10]
    CLOCK: [2017-09-15 五 06:45]--[2017-09-15 五 07:10] =>  0:25
+   :END:
+** DONE Review<2017-09-16 六 05:28>99.2%
+   CLOSED: [2017-09-16 六 05:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-16 六 05:55]
+   CLOCK: [2017-09-16 六 05:28]--[2017-09-16 六 05:55] =>  0:27
    :END:
 ** Lesson fifty
 

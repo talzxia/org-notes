@@ -1,13 +1,19 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  16 SEP 2017 12:36
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  14 SEP 2017 11:47
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**guide.tex
-(./guide.tex
+**&xelatex prv_guide.ini \nonstopmode\nofiles\PassOptionsToPackage{active,tight
+page,auctex}{preview}\AtBeginDocument{\ifx\ifPreview\undefined\RequirePackage[d
+isplaymath,floats,graphics,textmath,sections,footnotes]{preview}[2004/11/05]\fi
+} \input guide.tex
+(./prv_guide.ini
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
-(./elegantbook.cls
+(/usr/local/texlive/2017/texmf-dist/tex/latex/carlisle/mylatex.ltx)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/.tex File ignored))
+No auxiliary output files.
+
+(./guide.tex (./elegantbook.cls
 Document Class: elegantbook 2014/01/20 v2.00 ElegantBook document class
 (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
@@ -285,12 +291,16 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+
+
+Package auxhook Warning: Cannot patch \document,
+(auxhook)                using \AtBeginDocument instead.
+
 )
 \@linkdim=\dimen129
 \Hy@linkcounter=\count108
 \Hy@pagecounter=\count109
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count110
@@ -859,6 +869,28 @@ LaTeX Info: Redefining \rmfamily on input line 195.
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Info: Redefining \sffamily on input line 196.
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "Inconsolata" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.199 \RequirePackage
+                     {xeCJK}
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+|  Check the spelling, where the font is installed etc. etc.
+| 
+|  When in doubt, ask someone for help!
+|...............................................
+
 .................................................
 . fontspec info: "no-scripts"
 . 
@@ -880,6 +912,48 @@ LaTeX Info: Redefining \sffamily on input line 196.
 . 
 . Could not resolve font "Inconsolata/I" (it probably doesn't exist).
 .................................................
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "Inconsolata" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.199 \RequirePackage
+                     {xeCJK}
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+|  Check the spelling, where the font is installed etc. etc.
+| 
+|  When in doubt, ask someone for help!
+|...............................................
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "Inconsolata" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.199 \RequirePackage
+                     {xeCJK}
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+|  Check the spelling, where the font is installed etc. etc.
+| 
+|  When in doubt, ask someone for help!
+|...............................................
+
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -889,15 +963,14 @@ e].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.: <->"Inconsolata/AAT:mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'normal' (m/n) with NFSS spec.: <->"Inconsolata"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Inconsolata"
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
 . \hyphenchar \font =\c_minus_one 
 .................................................
 LaTeX Info: Redefining \ttfamily on input line 199.
-
 (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 Package: xeCJK 2017/05/15 v3.4.8 Typesetting CJK scripts with XeLaTeX
 
@@ -1358,39 +1431,38 @@ File: xunicode-extra.def 2017/05/15 v3.4.8 extra definition for xunicode
 (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2017/05/15 v3.4.8 Configuration file for xeCJK package
 ))
-\g__fontspec_family_方正书宋简体_int=\count184
+\g__fontspec_family_华文中宋_int=\count184
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "Adobe 楷体 Std R/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "Adobe 宋体 Std L/I" (it probably doesn't exist).
+. Could not resolve font "楷体/B" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "方正书宋简体/BI" (it probably doesn't exist).
+. Could not resolve font "黑体/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "华文中宋/BI" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family '方正书宋简体(0)' created for font '方正书宋简体' with options
-. [Mapping=tex-text,Script={CJK},BoldFont={Adobe 宋体 Std L},ItalicFont={Adobe
-. 楷体 Std R}].
+. Font family '华文中宋(0)' created for font '华文中宋' with options
+. [Mapping=tex-text,Script={CJK},BoldFont={黑体},ItalicFont={楷体}].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"方正书宋简体/OT:script=hani;language=DFLT;mapping=tex-text;"
+. <->"华文中宋/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
-. - 'bold' (bx/n) with NFSS spec.: <->"Adobe 宋体 Std
-. L/OT:script=hani;language=DFLT;mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"黑体/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
-. - 'italic' (m/it) with NFSS spec.: <->"Adobe 楷体 Std
-. R/OT:script=hani;language=DFLT;mapping=tex-text;"
+. - 'italic' (m/it) with NFSS spec.:
+. <->"楷体/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
 .................................................
 \g__fontspec_family_AdobeGaramondPro_int=\count185
@@ -1855,383 +1927,884 @@ Package: fancyvrb 2008/02/07
 Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
 <2008/02/07> (tvz)
 \FV@CodeLineNo=\count282
-\FV@InFile=\read3
-\FV@TabBox=\box85
-\c@FancyVerbLine=\count283
-\FV@StepNumber=\count284
-\FV@OutFile=\write4
-) (./guide.aux)
-\openout1 = `guide.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 32.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 32.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.386   \gdef\FV@BeginScanning#1^^M
+                                   {%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
-File: t3cmr.fd 2001/12/31 TIPA font definitions
-)
-LaTeX Font Info:    ... okay on input line 32.
-\AtBeginShipoutBox=\box86
-Package hyperref Info: Link coloring ON on input line 32.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.389 \endgroup
+               
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.395 ...be discarded. Hit <return> to continue.}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
-)
-\c@section@level=\count285
-)
-LaTeX Info: Redefining \ref on input line 32.
-LaTeX Info: Redefining \pageref on input line 32.
-LaTeX Info: Redefining \nameref on input line 32.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.402 \gdef\FancyVerbGetLine#1^^M
+                                 {%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-(./guide.out) (./guide.out)
-\@outlinefile=\write5
-\openout5 = `guide.out'.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.413 \endgroup
+               
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.413 \endgroup
+               
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.425 ...n#1{\@ifnextchar\@nil{\@gobble}{\FV@EOF}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\LaTeX' on input line 32.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.426 ...@nil#1\@empty\else\expandafter\FV@EOF\fi}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-*geometry* driver: auto-detecting
-*geometry* detected driver: xetex
-*geometry* verbose mode - [ preamble ] result:
-* driver: xetex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(76.82243pt, 443.863pt, 76.82243pt)
-* v-part:(T,H,B)=(72.26997pt, 700.5069pt, 72.26997pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=443.863pt
-* \textheight=700.5069pt
-* \oddsidemargin=4.55244pt
-* \evensidemargin=4.55244pt
-* \topmargin=-73.12352pt
-* \headheight=61.74242pt
-* \headsep=11.38109pt
-* \topskip=12.0pt
-* \footskip=34.1433pt
-* \marginparwidth=88.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.426 ...@nil#1\@empty\else\expandafter\FV@EOF\fi}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: End \AtBeginDocument code.
-ABD: EveryShipout initializing macros
-Package lastpage Info: Please have a look at the pageslts package at
-(lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 32.
-.................................................
-. LaTeX info: "xparse/redefine-command"
-. 
-. Redefining command \Pifont with sig. 'm' on line 32.
-.................................................
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 33.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.445   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ppl.fd
-File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-)
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 33.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.445   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.445   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omlzplm.fd
-File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
-)
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 33.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.465 \gdef\FV@@ReadLine#1^^M
+                             #2^^M#3\@nil{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   2
+l.465 \gdef\FV@@ReadLine#1^^M#2^^M
+                                  #3\@nil{%
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omszplm.fd
-File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
-)
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 33.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   3
+l.469 \endgroup
+               
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.469 \endgroup
+               
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omxzplm.fd
-File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
-)
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 33.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   2
+l.469 \endgroup
+               
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.503   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1zplm.fd
-File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-)
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 33.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.503   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/jknapltx/ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 25.92514pt on input line 33.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 21.61124pt on input line 33.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 33.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 25.92514pt on input line 33.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 21.61124pt on input line 33.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 33.
-\g__fontspec_family_方正苏新诗柳楷简体_int=\count286
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "方正苏新诗柳楷简体/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "方正苏新诗柳楷简体/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "方正苏新诗柳楷简体/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family '方正苏新诗柳楷简体(0)' created for font '方正苏新诗柳楷简体' with options
-. [Mapping=tex-text,Script={CJK}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.:
-. <->"方正苏新诗柳楷简体/OT:script=hani;language=DFLT;mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-.................................................
-File: ./figure/logo1.pdf Graphic file (type QTm)
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.511   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-<use  "./figure/logo1.pdf" >
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 33.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 33.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 33.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 33.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 33.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 33.
-File: ./figure/cover.pdf Graphic file (type QTm)
- <use  "./figure/cover.pdf" > [1
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.511   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-]
-File: ./figure/greenbase.pdf Graphic file (type QTm)
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.516     {\csname FV@fontfamily@#1\endcsname}}
+                                               
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-<use  "./figure/greenbase.pdf" > (./guide.toc)
-\tf@toc=\write6
-\openout6 = `guide.toc'.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.516     {\csname FV@fontfamily@#1\endcsname}}
+                                               
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
- [2
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.516     {\csname FV@fontfamily@#1\endcsname}}
+                                               
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-]
-第 1章 1.
-File: ./figure/greenbase.pdf Graphic file (type QTm)
-<use  "./figure/greenbase.pdf" >
-\g__fontspec_family_方正中等线简体_int=\count287
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "方正书宋简体/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "方正中等线简体/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "方正中等线简体/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family '方正中等线简体(0)' created for font '方正中等线简体' with options
-. [Mapping=tex-text,Script={CJK},BoldFont={方正书宋简体}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.:
-. <->"方正中等线简体/OT:script=hani;language=DFLT;mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-. - 'bold' (bx/n) with NFSS spec.:
-. <->"方正书宋简体/OT:script=hani;language=DFLT;mapping=tex-text;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: 
-.................................................
- [1
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.523   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.523   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-]
-File: ./image/happy.jpg Graphic file (type QTm)
- <use  "./image/happy.jpg" >
-File: ./figure/greenbase.pdf Graphic file (type QTm)
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.530   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-<use  "./figure/greenbase.pdf" > [2]
-第 2章 2.
-File: ./figure/greenbase.pdf Graphic file (type QTm)
-<use  "./figure/greenbase.pdf" >
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "方正中等线简体/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "方正中等线简体/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "方正中等线简体/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family '方正中等线简体(1)' created for font '方正中等线简体' with options
-. [Mapping=tex-text,Script={CJK}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.:
-. <->"方正中等线简体/OT:script=hani;language=DFLT;mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-.................................................
-\g__fontspec_family_方正启体简体_int=\count288
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "方正启体简体/BI" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "方正启体简体/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "方正启体简体/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family '方正启体简体(0)' created for font '方正启体简体' with options
-. [Mapping=tex-text,Script={CJK}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.:
-. <->"方正启体简体/OT:script=hani;language=DFLT;mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-.................................................
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.530   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.535 ...x\expandafter\next\expandafter~\endgroup}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-LaTeX Font Warning: Font shape `U/manual/m/it' undefined
-(Font)              using `U/manual/m/n' instead on input line 90.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.535 ...x\expandafter\next\expandafter~\endgroup}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.535 ...x\expandafter\next\expandafter~\endgroup}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-LaTeX Font Warning: Font shape `TU/方正启体简体(0)/m/it' undefined
-(Font)              using `TU/方正启体简体(0)/m/n' instead on input line 91.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.571 ...}[]{\def\FancyVerbDefineActive{#1\relax}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-[3
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.574     \FancyVerbDefineActive#1\relax}}
+                                          
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-]
-File: ./figure/greenbase.pdf Graphic file (type QTm)
- <use  "./figure/greenbase.pdf" > [4]
-File: ./figure/greenbase.pdf Graphic file (type QTm)
- <use  "./figure/greenbase.pdf" >
-[5]
-第 3章 3.
-File: ./figure/greenbase.pdf Graphic file (type QTm)
-<use  "./figure/greenbase.pdf" >
-LaTeX Font Info:    Try loading font information for U+fplmbb on input line 167
-.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.588   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ufplmbb.fd
-File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
-) [6
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.608 ...setbox\FV@TabBox=\hbox{#1}\box\FV@TabBox}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-]
-File: ./figure/greenbase.pdf Graphic file (type QTm)
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.608 ...setbox\FV@TabBox=\hbox{#1}\box\FV@TabBox}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-<use  "./figure/greenbase.pdf" > [7]
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 211.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 211.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 211.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 211.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 211.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 211.
-File: ./figure/greenbase.pdf Graphic file (type QTm)
- <use  "./figure/greenbase.pdf" > [8]
-(./guide.bbl
-File: ./figure/greenbase.pdf Graphic file (type QTm)
- <use  "./figure/greenbase.pdf" > [9]
-File: ./figure/greenbase.pdf Graphic file (type QTm)
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.624 ...com}[]{\def\FancyVerbFormatCom{#1\relax}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-<use  "./figure/greenbase.pdf" >) 
-AED: lastpage setting LastPage
-[10
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.627     \FancyVerbFormatCom#1\relax}}
+                                       
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
- (./guide.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 270.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 270.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.629 \def\FancyVerbFormatLine#1{\FV@ObeyTabs{#1}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.629 \def\FancyVerbFormatLine#1{\FV@ObeyTabs{#1}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.630 ...FV}{xleftmargin}{\def\FV@XLeftMargin{#1}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
- ) 
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.632 ...}{xrightmargin}{\def\FV@XRightMargin{#1}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.638 ...arameters}{\def\FV@ListParameterHook{#1}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.642 ...def\FancyVerbHFuzz{\number\@tempdima sp}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.662   \FV@BeginListFrame}
+                           
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.662   \FV@BeginListFrame}
+                           
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.685   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.685   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.728     \hss}}
+                
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.728     \hss}}
+                
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.735   \let\FV@ProcessLine\FV@ListProcessLine@ii}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.735   \let\FV@ProcessLine\FV@ListProcessLine@ii}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.738 ...et\FV@ProcessLine\FV@ListProcessLine@iii}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.738 ...et\FV@ProcessLine\FV@ListProcessLine@iii}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.743   \let\FV@ProcessLine\FV@ListProcessLine@iv}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.743   \let\FV@ProcessLine\FV@ListProcessLine@iv}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.753   \@endpetrue}
+                    
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.753   \@endpetrue}
+                    
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.778 ...doendpe\global\@ignorefalse\ignorespaces}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.778 ...doendpe\global\@ignorefalse\ignorespaces}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.780 ...imInput#1{\FV@UseVerbatim{\FV@Input{#1}}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.780 ...imInput#1{\FV@UseVerbatim{\FV@Input{#1}}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.788 ...doendpe\global\@ignorefalse\ignorespaces}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.788 ...doendpe\global\@ignorefalse\ignorespaces}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.790 ...mInput#1{\FV@LUseVerbatim{\FV@Input{#1}}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.790 ...mInput#1{\FV@LUseVerbatim{\FV@Input{#1}}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.859   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.859   \fi}
+            
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.869   \def\FV@LabelEnd{#2}}
+                             
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   2
+l.869   \def\FV@LabelEnd{#2}}
+                             
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.869   \def\FV@LabelEnd{#2}}
+                             
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   2
+l.869   \def\FV@LabelEnd{#2}}
+                             
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.869   \def\FV@LabelEnd{#2}}
+                             
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   2
+l.869   \def\FV@LabelEnd{#2}}
+                             
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.874     {\@nameuse{FV@LabelPosition@#1}}}
+                                           
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.874     {\@nameuse{FV@LabelPosition@#1}}}
+                                           
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.874     {\@nameuse{FV@LabelPosition@#1}}}
+                                           
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.931     \hss}}
+                
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.931     \hss}}
+                
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.931     \hss}}
+                
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.931     \hss}}
+                
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1019 ...V@FrameRule{\number\@tempdima sp\relax}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1023 ...FV@FrameSep{\number\@tempdima sp\relax}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1032   \fi}
+             
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1039   \fi}
+             
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1048     {\@nameuse{FV@Frame@#1}}}
+                                    
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1048     {\@nameuse{FV@Frame@#1}}}
+                                    
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1048     {\@nameuse{FV@Frame@#1}}}
+                                    
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1069   \fi}
+             
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1069   \fi}
+             
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1080 ...e p@#1\endcsname\arabic{FancyVerbLine}}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1080 ...e p@#1\endcsname\arabic{FancyVerbLine}}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1080 ...e p@#1\endcsname\arabic{FancyVerbLine}}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1100     {\@nameuse{FV@Numbers@#1}}}
+                                      
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1100     {\@nameuse{FV@Numbers@#1}}}
+                                      
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1100     {\@nameuse{FV@Numbers@#1}}}
+                                      
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \MYLATEXline.
+<to be read again> 
+                   1
+l.1107 ...ne@key{FV}{stepnumber}{\FV@StepNumber#1}
+                                                  
+(That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 40137 strings out of 493005
- 803725 string characters out of 6134596
- 968570 words of memory out of 5000000
- 43447 multiletter control sequences out of 15000+600000
- 30724 words of font info for 168 fonts, out of 8000000 for 9000
+ 39120 strings out of 493005
+ 772854 string characters out of 6134596
+ 945401 words of memory out of 5000000
+ 42565 multiletter control sequences out of 15000+600000
+ 4968 words of font info for 43 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,16n,91p,10384b,775s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,0n,73p,10628b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on guide.pdf (12 pages).
+No pages of output.

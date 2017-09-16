@@ -1,0 +1,55 @@
+% hello, world
+% 编译改为xelatex
+\documentclass[color=cyan,mathpazo,titlestyle=hang]{elegantbook}
+
+\author{ddswhu \& LiamHuang0205}
+\email{elegantlatex2e@gmail.com}
+\zhtitle{优美的\LaTeX{} 书籍}
+\zhend{模板}
+\entitle{Elegant\LaTeX{} Book}
+\enend{Template}
+\version{2.00}
+\myquote{泰山职业技术学院————信息技术工程系}
+\logo{logo1.pdf}
+\cover{cover.pdf}
+
+% green color
+\definecolor{main1}{RGB}{0,120,2}
+\definecolor{seco1}{RGB}{230,90,7}
+\definecolor{thid1}{RGB}{0,160,152}
+% cyan color
+\definecolor{main2}{RGB}{0,175,152}
+\definecolor{seco2}{RGB}{239,126,30}
+\definecolor{thid2}{RGB}{120,8,13}
+% blue color
+\definecolor{main3}{RGB}{20,50,104}
+\definecolor{seco3}{RGB}{180,50,131}
+\definecolor{thid3}{RGB}{7,127,128}
+
+\usepackage{makecell}
+\usepackage{lipsum}
+\usepackage{texnames}
+\usepackage{fancyvrb}
+\setCJKmainfont{方正小标宋简体}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\mainmatter
+
+
+
+\chapter{泰山职业技术学院}
+\section{信息技术工程系}
+{\CJKfamily{note} 泰山职业技术学院}
+{\CJKfamily{new} 华文中宋 华文中宋}
+信息技术工程系
+
+\setCJKfamilyfont{xiaobi}{方正小标宋简体}
+{\CJKfamily{xiaobi}信息技术工程系}
+黑体 信息技术工程系
+\begin{note}
+
+\hfill 信 息 技 术 工 程 系
+\end{note}
+\end{document}
