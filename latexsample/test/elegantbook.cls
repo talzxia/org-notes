@@ -197,7 +197,7 @@
 \setmonofont{Inconsolata}%Palatino Linotype
 %-中文字体设置-%
 \RequirePackage{xeCJK}
-\setCJKmainfont[BoldFont={方正小标宋简体},ItalicFont={Adobe 楷体 Std R}]{Adobe Song Std L}%方正书宋_GBK Adobe Song Std L
+\setCJKmainfont[BoldFont={方正小标宋简体},ItalicFont={Adobe 楷体 Std R}]{方正书宋简体}%方正书宋_GBK Adobe Song Std L
 \setCJKsansfont[BoldFont={方正小标宋简体}]{方正中等线简体}
 \setCJKmonofont{方正中等线简体}
 \XeTeXlinebreaklocale "zh"

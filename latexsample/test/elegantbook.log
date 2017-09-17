@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  16 SEP 2017 16:32
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  17 SEP 2017 11:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1468,7 +1468,7 @@ File: xunicode-extra.def 2017/05/15 v3.4.8 extra definition for xunicode
 (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2017/05/15 v3.4.8 Configuration file for xeCJK package
 ))
-\g__fontspec_family_AdobeSongStdL_int=\count184
+\g__fontspec_family_Adobe楷体StdR_int=\count184
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1482,19 +1482,19 @@ File: xeCJK.cfg 2017/05/15 v3.4.8 Configuration file for xeCJK package
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "Adobe Song Std L/BI" (it probably doesn't exist).
+. Could not resolve font "Adobe 楷体 Std R/BI" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'AdobeSongStdL(0)' created for font 'Adobe Song Std L' with
-. options [Mapping=tex-text,Script={CJK},BoldFont={方正小标宋简体},ItalicFont={Adobe
-. 楷体 Std R}].
+. Font family 'Adobe楷体StdR(0)' created for font 'Adobe 楷体 Std R' with options
+. [Mapping=tex-text,Script={CJK},BoldFont={方正小标宋简体},ItalicFont={Adobe 楷体 Std
+. R}].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.: <->"Adobe Song Std
-. L/OT:script=hani;language=DFLT;mapping=tex-text;"
+. - 'normal' (m/n) with NFSS spec.: <->"Adobe 楷体 Std
+. R/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
 . <->"方正小标宋简体/OT:script=hani;language=DFLT;mapping=tex-text;"
@@ -1939,30 +1939,30 @@ Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 \elegant=\dimen324
 
 
-./elegantbook.cls:428: LaTeX Error: Missing \begin{document}.
+./elegantbook.cls:425: LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.428 \newdimen\elegant@
+l.425 \newdimen\elegant@
                         CJKChar@size@dimen
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./elegantbook.cls:429: Missing number, treated as zero.
+./elegantbook.cls:426: Missing number, treated as zero.
 <to be read again> 
                    @
-l.429 ...idth\elegant@CJKChar@size@dimen{\elegant@
+l.426 ...idth\elegant@CJKChar@size@dimen{\elegant@
                                                   CJKChar@size\CJKglue}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-./elegantbook.cls:429: Illegal unit of measure (pt inserted).
+./elegantbook.cls:426: Illegal unit of measure (pt inserted).
 <to be read again> 
                    @
-l.429 ...idth\elegant@CJKChar@size@dimen{\elegant@
+l.426 ...idth\elegant@CJKChar@size@dimen{\elegant@
                                                   CJKChar@size\CJKglue}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, bp, or sp; but yours is a new one!
@@ -1979,11 +1979,11 @@ two letters. (See Chapter 27 of The TeXbook.)
 
  
 Here is how much of TeX's memory you used:
- 38449 strings out of 493005
- 763917 string characters out of 6134596
- 841485 words of memory out of 5000000
- 41919 multiletter control sequences out of 15000+600000
- 4898 words of font info for 43 fonts, out of 8000000 for 9000
+ 38445 strings out of 493005
+ 763780 string characters out of 6134596
+ 841469 words of memory out of 5000000
+ 41918 multiletter control sequences out of 15000+600000
+ 4890 words of font info for 42 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  55i,1n,71p,10396b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
 No pages of output.

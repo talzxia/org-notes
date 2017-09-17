@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  16 SEP 2017 17:17
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  17 SEP 2017 16:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1358,7 +1358,7 @@ File: xunicode-extra.def 2017/05/15 v3.4.8 extra definition for xunicode
 (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2017/05/15 v3.4.8 Configuration file for xeCJK package
 ))
-\g__fontspec_family_AdobeSongStdL_int=\count184
+\g__fontspec_family_方正书宋简体_int=\count184
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1372,19 +1372,19 @@ File: xeCJK.cfg 2017/05/15 v3.4.8 Configuration file for xeCJK package
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "Adobe Song Std L/BI" (it probably doesn't exist).
+. Could not resolve font "方正书宋简体/BI" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'AdobeSongStdL(0)' created for font 'Adobe Song Std L' with
-. options [Mapping=tex-text,Script={CJK},BoldFont={方正小标宋简体},ItalicFont={Adobe
-. 楷体 Std R}].
+. Font family '方正书宋简体(0)' created for font '方正书宋简体' with options
+. [Mapping=tex-text,Script={CJK},BoldFont={方正小标宋简体},ItalicFont={Adobe 楷体 Std
+. R}].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.: <->"Adobe Song Std
-. L/OT:script=hani;language=DFLT;mapping=tex-text;"
+. - 'normal' (m/n) with NFSS spec.:
+. <->"方正书宋简体/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
 . <->"方正小标宋简体/OT:script=hani;language=DFLT;mapping=tex-text;"
@@ -1416,27 +1416,6 @@ File: xeCJK.cfg 2017/05/15 v3.4.8 Configuration file for xeCJK package
 . Pro/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-
-./elegantbook.cls:209: Undefined control sequence.
-l.209 \ziju
-           {0.1}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./elegantbook.cls:209: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.209 \ziju{0
-             .1}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
@@ -2248,8 +2227,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  40136 strings out of 493005
- 805035 string characters out of 6134596
- 968619 words of memory out of 5000000
+ 803704 string characters out of 6134596
+ 968551 words of memory out of 5000000
  43447 multiletter control sequences out of 15000+600000
  30724 words of font info for 168 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

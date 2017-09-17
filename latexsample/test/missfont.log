@@ -368,3 +368,4 @@ mktextfm Inconsolata/I
 mktextfm Inconsolata
 mktextfm Inconsolata
 mktextfm Inconsolata
+mktexpk --mfmode / --bdpi 600 --mag 1+364/600 --dpi 964 gbk38
