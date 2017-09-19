@@ -1,13 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  16 SEP 2017 12:36
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  19 SEP 2017 16:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**guide.tex
-(./guide.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
-(./elegantbook.cls
+**\input guide.tex
+(./guide.tex (./elegantbook.cls
 Document Class: elegantbook 2014/01/20 v2.00 ElegantBook document class
 (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
@@ -1367,7 +1364,7 @@ File: xeCJK.cfg 2017/05/15 v3.4.8 Configuration file for xeCJK package
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "Adobe 宋体 Std L/I" (it probably doesn't exist).
+. Could not resolve font "方正小标宋简体/I" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "no-font-shape"
@@ -1378,16 +1375,16 @@ File: xeCJK.cfg 2017/05/15 v3.4.8 Configuration file for xeCJK package
 . fontspec info: "defining-font"
 . 
 . Font family '方正书宋简体(0)' created for font '方正书宋简体' with options
-. [Mapping=tex-text,Script={CJK},BoldFont={Adobe 宋体 Std L},ItalicFont={Adobe
-. 楷体 Std R}].
+. [Mapping=tex-text,Script={CJK},BoldFont={方正小标宋简体},ItalicFont={Adobe 楷体 Std
+. R}].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
 . <->"方正书宋简体/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
-. - 'bold' (bx/n) with NFSS spec.: <->"Adobe 宋体 Std
-. L/OT:script=hani;language=DFLT;mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"方正小标宋简体/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 . - 'italic' (m/it) with NFSS spec.: <->"Adobe 楷体 Std
 . R/OT:script=hani;language=DFLT;mapping=tex-text;"
@@ -1920,15 +1917,15 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(76.82243pt, 443.863pt, 76.82243pt)
-* v-part:(T,H,B)=(72.26997pt, 700.5069pt, 72.26997pt)
+* h-part:(L,W,R)=(73.97716pt, 452.39883pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 688.5567pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=443.863pt
-* \textheight=700.5069pt
-* \oddsidemargin=4.55244pt
-* \evensidemargin=4.55244pt
-* \topmargin=-73.12352pt
+* \textwidth=452.39883pt
+* \textheight=688.5567pt
+* \oddsidemargin=1.70717pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-60.03523pt
 * \headheight=61.74242pt
 * \headsep=11.38109pt
 * \topskip=12.0pt
@@ -2227,11 +2224,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  40137 strings out of 493005
- 803725 string characters out of 6134596
- 968570 words of memory out of 5000000
+ 803702 string characters out of 6134596
+ 968551 words of memory out of 5000000
  43447 multiletter control sequences out of 15000+600000
  30724 words of font info for 168 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,16n,91p,10384b,775s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,16n,91p,10391b,775s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on guide.pdf (12 pages).

@@ -143,9 +143,9 @@
 \RequirePackage{geometry}
 \geometry{
     a4paper,
-   left=27mm,  %% or inner=23mm
-   right=27mm, %% or outer=18mm
-   top=25.4mm, bottom=25.4mm,
+   left=26mm,  %% or inner=23mm
+   right=25mm, %% or outer=18mm
+   top=30mm, bottom=25mm,
    headheight=2.17cm,
    headsep=4mm,
    footskip=12mm
@@ -197,7 +197,7 @@
 \setmonofont{Inconsolata}%Palatino Linotype
 %-中文字体设置-%
 \RequirePackage{xeCJK}
-\setCJKmainfont[BoldFont={Adobe 宋体 Std L},ItalicFont={Adobe 楷体 Std R}]{方正书宋简体}%方正书宋_GBK Adobe Song Std L
+\setCJKmainfont[BoldFont={方正小标宋简体},ItalicFont={Adobe 楷体 Std R}]{方正书宋简体}%方正书宋_GBK Adobe Song Std L
 \setCJKsansfont[BoldFont={方正书宋简体}]{方正中等线简体}
 \setCJKmonofont{方正中等线简体}
 \XeTeXlinebreaklocale "zh"

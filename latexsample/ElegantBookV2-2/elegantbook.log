@@ -1,12 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  13 SEP 2017 21:34
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  19 SEP 2017 16:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**elegantbook.cls
+**\input elegantbook.cls
 (./elegantbook.cls
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 
 LaTeX Warning: You have requested package `',
                but the package provides `elegantbook'.
@@ -86,23 +84,22 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ./elegantbook.cls:71: Undefined control sequence.
 l.71 \ifELEGANT
                @mathpazo
-? 
-./elegantbook.cls:71: Emergency stop.
-l.71 \ifELEGANT
-               @mathpazo
-End of file on the terminal!
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
- 
-Here is how much of TeX's memory you used:
- 1588 strings out of 493005
- 20358 string characters out of 6134596
- 89798 words of memory out of 5000000
- 5610 multiletter control sequences out of 15000+600000
- 3648 words of font info for 15 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 30i,0n,35p,848b,40s stack positions out of 5000i,500n,10000p,200000b,80000s
-No pages of output.
-urn>  to proceed.
+
+./elegantbook.cls:71: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 \ifELEGANT@
+                mathpazo
+You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/mathpazo.sty
@@ -972,28 +969,6 @@ LaTeX Info: Redefining \rmfamily on input line 195.
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Info: Redefining \sffamily on input line 196.
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-./elegantbook.cls:199: fontspec error: "font-not-found"
-! 
-! The font "Inconsolata" cannot be found.
-! 
-! See the fontspec documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
-                                                  
-l.199 \RequirePackage
-                     {xeCJK}
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| A font might not be found for many reasons.
-|  Check the spelling, where the font is installed etc. etc.
-| 
-|  When in doubt, ask someone for help!
-|...............................................
-
 .................................................
 . fontspec info: "no-scripts"
 . 
@@ -1015,48 +990,6 @@ l.199 \RequirePackage
 . 
 . Could not resolve font "Inconsolata/I" (it probably doesn't exist).
 .................................................
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-./elegantbook.cls:199: fontspec error: "font-not-found"
-! 
-! The font "Inconsolata" cannot be found.
-! 
-! See the fontspec documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
-                                                  
-l.199 \RequirePackage
-                     {xeCJK}
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| A font might not be found for many reasons.
-|  Check the spelling, where the font is installed etc. etc.
-| 
-|  When in doubt, ask someone for help!
-|...............................................
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-./elegantbook.cls:199: fontspec error: "font-not-found"
-! 
-! The font "Inconsolata" cannot be found.
-! 
-! See the fontspec documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
-                                                  
-l.199 \RequirePackage
-                     {xeCJK}
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| A font might not be found for many reasons.
-|  Check the spelling, where the font is installed etc. etc.
-| 
-|  When in doubt, ask someone for help!
-|...............................................
-
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1066,14 +999,15 @@ e].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.: <->"Inconsolata"
-. - 'small caps'  (m/sc) with NFSS spec.: <->"Inconsolata"
+. - 'normal' (m/n) with NFSS spec.: <->"Inconsolata/AAT:mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
 . \hyphenchar \font =\c_minus_one 
 .................................................
 LaTeX Info: Redefining \ttfamily on input line 199.
+
 (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
 Package: xeCJK 2017/05/15 v3.4.8 Typesetting CJK scripts with XeLaTeX
 
@@ -1534,38 +1468,39 @@ File: xunicode-extra.def 2017/05/15 v3.4.8 extra definition for xunicode
 (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2017/05/15 v3.4.8 Configuration file for xeCJK package
 ))
-\g__fontspec_family_华文中宋_int=\count184
+\g__fontspec_family_方正书宋简体_int=\count184
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "楷体/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "黑体/I" (it probably doesn't exist).
+. Could not resolve font "Adobe 楷体 Std R/B" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "华文中宋/BI" (it probably doesn't exist).
+. Could not resolve font "方正小标宋简体/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "方正书宋简体/BI" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family '华文中宋(0)' created for font '华文中宋' with options
-. [Mapping=tex-text,Script={CJK},BoldFont={黑体},ItalicFont={楷体}].
+. Font family '方正书宋简体(0)' created for font '方正书宋简体' with options
+. [Mapping=tex-text,Script={CJK},BoldFont={方正小标宋简体},ItalicFont={Adobe 楷体 Std
+. R}].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"华文中宋/OT:script=hani;language=DFLT;mapping=tex-text;"
+. <->"方正书宋简体/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
-. <->"黑体/OT:script=hani;language=DFLT;mapping=tex-text;"
+. <->"方正小标宋简体/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
-. - 'italic' (m/it) with NFSS spec.:
-. <->"楷体/OT:script=hani;language=DFLT;mapping=tex-text;"
+. - 'italic' (m/it) with NFSS spec.: <->"Adobe 楷体 Std
+. R/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
 .................................................
 \g__fontspec_family_AdobeGaramondPro_int=\count185
@@ -2044,11 +1979,11 @@ two letters. (See Chapter 27 of The TeXbook.)
 
  
 Here is how much of TeX's memory you used:
- 38444 strings out of 493005
- 763604 string characters out of 6134596
- 841339 words of memory out of 5000000
- 41920 multiletter control sequences out of 15000+600000
- 4882 words of font info for 41 fonts, out of 8000000 for 9000
+ 38449 strings out of 493005
+ 763812 string characters out of 6134596
+ 841417 words of memory out of 5000000
+ 41919 multiletter control sequences out of 15000+600000
+ 4898 words of font info for 43 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  55i,1n,71p,10396b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
 No pages of output.
