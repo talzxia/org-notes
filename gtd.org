@@ -6089,11 +6089,12 @@ to have lunch
    0
 
 ** TODO [#B] Learn Enlish                                             :learn:
-   DEADLINE: <2017-09-20 Wed 06:50 +1d> SCHEDULED: <2017-09-20 Wed 05:20 +1d>
+   DEADLINE: <2017-09-21 Thu 06:50 +1d> SCHEDULED: <2017-09-21 Thu 05:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-09-19 Tue 05:31]
+   :LAST_REPEAT: [2017-09-20 Wed 05:21]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-20 Wed 05:21]
    - State "DONE"       from "STARTED"    [2017-09-19 Tue 05:31]
    CLOCK: [2017-09-19 Tue 05:11]--[2017-09-19 Tue 05:12] =>  0:01
    - State "DONE"       from "STARTED"    [2017-09-18 一 06:05]
@@ -6251,11 +6252,12 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-09-20 Wed 08:00 +1d>--<2017-09-20 Wed 08:20 +1d>
+   SCHEDULED: <2017-09-21 Thu 08:00 +1d>--<2017-09-21 Thu 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-09-19 Tue 08:21]
+   :LAST_REPEAT: [2017-09-20 Wed 08:09]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-20 Wed 08:09]
    - State "DONE"       from "STARTED"    [2017-09-19 Tue 08:21]
    - State "DONE"       from "STARTED"    [2017-09-18 一 09:09]
    CLOCK: [2017-09-18 一 08:07]--[2017-09-18 一 08:13] =>  0:06
@@ -6473,13 +6475,15 @@ to have lunch
    :END:
 ** TODO [#B]Handwriting                                         :Handwriting:
    :PROPERTIES:
-   :LAST_REPEAT: [2017-09-19 Tue 08:21]
+   :LAST_REPEAT: [2017-09-20 Wed 08:09]
    :END:
-   --<2017-09-20 Wed 07:00 +1d>
+   --<2017-09-21 Thu 07:00 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-09-17 日 07:28]
    :END:
  :LOGBOOK:
+ - State "DONE"       from "STARTED"    [2017-09-20 Wed 08:09]
+ CLOCK: [2017-09-20 Wed 07:52]--[2017-09-20 Wed 08:09] =>  0:17
  - State "DONE"       from "STARTED"    [2017-09-19 Tue 08:21]
  CLOCK: [2017-09-19 Tue 07:55]--[2017-09-19 Tue 08:21] =>  0:26
  - State "DONE"       from "STARTED"    [2017-09-18 一 06:52]
