@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex guide"] 1505637239 "guide.aux" "guide.bbl" "guide" 1505637242
+["bibtex guide"] 1506167732 "guide.aux" "guide.bbl" "guide" 1506167735
   "/usr/local/texlive/2017/texmf-dist/bibtex/bst/base/ieeetr.bst" 1480098433 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
-  "guide.aux" 1505637242 3164 088d994fb4b81b75da6018677eb1a29a ""
+  "guide.aux" 1506167734 3164 2928af82c23abeb8e177be3ecb59b768 ""
   "reference.bib" 1390489546 451 202e0ea683a047625cbb4a306cfd6aa4 ""
   (generated)
   "guide.bbl"
   "guide.blg"
-["pdflatex"] 1505637239 "guide.tex" "guide.pdf" "guide" 1505637242
+["pdflatex"] 1506167732 "guide.tex" "guide.pdf" "guide" 1506167735
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm" 1480098688 1804 7b5f73028f6509167f47ace9d69509ed ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1480098689 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -202,19 +202,19 @@
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
   "/usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1505309168 3678530 a4bb640012a26e590fb5333e32b198e1 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "elegantbook.cls" 1505637236 13621 36c419d4ee658ce48fd717c9121a5da5 ""
+  "elegantbook.cls" 1506167710 13621 1ad9847e3fd9b6dbd22e37e1d81ce6e3 ""
   "figure/cover.pdf" 1373815358 139627 6b0df45a4e287bc7efef3a42949f0376 ""
   "figure/greenbase.pdf" 1390404162 58004 424476eaf48ecc703ac5c88a7a19de8f ""
   "figure/logo1.pdf" 1496841029 212628 089e8eb33edc24b976f7beb0c5b2c6b0 ""
-  "guide.aux" 1505637242 3164 088d994fb4b81b75da6018677eb1a29a ""
-  "guide.bbl" 1505637239 347 8f90a8e0a441102739ddf1dd04785587 "bibtex guide"
-  "guide.out" 1505637242 1037 bb3e9647d79d9037d4e23ee20461a9ae ""
-  "guide.tex" 1505637208 15471 51a16e86f9c750b26ad55a0a0bf0d7ba ""
-  "guide.toc" 1505637242 1209 6cf856df76576614d22a4c6d1e616d6b ""
+  "guide.aux" 1506167734 3164 2928af82c23abeb8e177be3ecb59b768 ""
+  "guide.bbl" 1506167732 347 8f90a8e0a441102739ddf1dd04785587 "bibtex guide"
+  "guide.out" 1506167734 1037 bb3e9647d79d9037d4e23ee20461a9ae ""
+  "guide.tex" 1506167630 15480 8fa8bf356fdfee9eae5c4cd62430c47e ""
+  "guide.toc" 1506167734 1209 54d0f1df61639d899e809d7344c584f0 ""
   "image/happy.jpg" 1374230504 51910 31cc255ad5511287fff570af99639077 ""
   (generated)
   "guide.pdf"
-  "guide.out"
-  "guide.log"
-  "guide.aux"
   "guide.toc"
+  "guide.out"
+  "guide.aux"
+  "guide.log"

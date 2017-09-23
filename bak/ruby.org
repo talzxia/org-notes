@@ -1,6 +1,6 @@
 * 前言部分
 #+BEGIN_LaTeX
-\newpage
+\\newpage
 #+END_LaTeX
 ** 松本行弘的程序世界
 
@@ -2841,3 +2841,4 @@ Programming(JSP)中尝试了数据的结构化。但是，JSP中结构化对象�
 可以使用多重继承的编程语言，不受单一继承的不自然的限制。例如，只提供单一继承的
 Smalltalk语言，它的类库因为单一继承而显得很不自然。
 [[/Users/mac/Desktop/ruby p/图2-13.png]]
+

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  17 SEP 2017 16:34
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  23 SEP 2017 19:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1358,7 +1358,7 @@ File: xunicode-extra.def 2017/05/15 v3.4.8 extra definition for xunicode
 (/usr/local/texlive/2017/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2017/05/15 v3.4.8 Configuration file for xeCJK package
 ))
-\g__fontspec_family_方正书宋简体_int=\count184
+\g__fontspec_family_Adobe仿宋StdR_int=\count184
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1372,19 +1372,19 @@ File: xeCJK.cfg 2017/05/15 v3.4.8 Configuration file for xeCJK package
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "方正书宋简体/BI" (it probably doesn't exist).
+. Could not resolve font "Adobe 仿宋 Std R/BI" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family '方正书宋简体(0)' created for font '方正书宋简体' with options
+. Font family 'Adobe仿宋StdR(0)' created for font 'Adobe 仿宋 Std R' with options
 . [Mapping=tex-text,Script={CJK},BoldFont={方正小标宋简体},ItalicFont={Adobe 楷体 Std
 . R}].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.:
-. <->"方正书宋简体/OT:script=hani;language=DFLT;mapping=tex-text;"
+. - 'normal' (m/n) with NFSS spec.: <->"Adobe 仿宋 Std
+. R/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
 . <->"方正小标宋简体/OT:script=hani;language=DFLT;mapping=tex-text;"
@@ -2093,6 +2093,14 @@ File: ./figure/greenbase.pdf Graphic file (type QTm)
 . <->"方正小标宋简体/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 .................................................
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 44.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 44.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 44.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 44.
  [1
 
 
@@ -2102,6 +2110,8 @@ File: ./image/happy.jpg Graphic file (type QTm)
 File: ./figure/greenbase.pdf Graphic file (type QTm)
 
 <use  "./figure/greenbase.pdf" > [2]
+File: ./figure/greenbase.pdf Graphic file (type QTm)
+ <use  "./figure/greenbase.pdf" > [3]
 第 2章 2.
 File: ./figure/greenbase.pdf Graphic file (type QTm)
 <use  "./figure/greenbase.pdf" >
@@ -2132,6 +2142,9 @@ File: ./figure/greenbase.pdf Graphic file (type QTm)
 . <->"方正中等线简体/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
+ [4
+
+]
 \g__fontspec_family_方正启体简体_int=\count288
 .................................................
 . fontspec info: "no-font-shape"
@@ -2163,75 +2176,85 @@ File: ./figure/greenbase.pdf Graphic file (type QTm)
 
 
 LaTeX Font Warning: Font shape `U/manual/m/it' undefined
-(Font)              using `U/manual/m/n' instead on input line 90.
+(Font)              using `U/manual/m/n' instead on input line 91.
 
 
 LaTeX Font Warning: Font shape `TU/方正启体简体(0)/m/it' undefined
-(Font)              using `TU/方正启体简体(0)/m/n' instead on input line 91.
+(Font)              using `TU/方正启体简体(0)/m/n' instead on input line 92.
 
-[3
 
-]
+Overfull \hbox (9.38089pt too wide) in paragraph at lines 91--93
+[]\TU/AdobeGaramondPro(0)/bx/it/14.4 Note: \TU/方正启体简体(0)/m/n/14.4 中 文 正 文 使 用 了
+ 华 文 中 宋，| \TU/AdobeGaramondPro(0)/m/it/14.4 Minion Pro \TU/方正启体简体(0)/m/n/14.4 
+为 英 文 衬 线 字 体  |（[]\TU/Inconsolata(0)/m/n/14.4 \rmfamily\TU/方正启体简体(0)/m/n/14.4 
+） ，|
+ []
+
 File: ./figure/greenbase.pdf Graphic file (type QTm)
- <use  "./figure/greenbase.pdf" > [4]
+<use  "./figure/greenbase.pdf" > [5]
+Overfull \hbox (61.69199pt too wide) in paragraph at lines 139--140
+[]\TU/Adobe仿宋StdR(0)/m/n/14.4 综 合 起 来，|  同 时 调 用 三 个 选 项 使 用 []\TU/Inconsolata(
+0)/m/n/14.4 \documentclass[color=X,Y,titlestyle=Z]
+ []
+
 File: ./figure/greenbase.pdf Graphic file (type QTm)
- <use  "./figure/greenbase.pdf" >
-[5]
+<use  "./figure/greenbase.pdf" > [6]
+File: ./figure/greenbase.pdf Graphic file (type QTm)
+ <use  "./figure/greenbase.pdf" > [7]
 第 3章 3.
 File: ./figure/greenbase.pdf Graphic file (type QTm)
 <use  "./figure/greenbase.pdf" >
-LaTeX Font Info:    Try loading font information for U+fplmbb on input line 167
+LaTeX Font Info:    Try loading font information for U+fplmbb on input line 168
 .
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ufplmbb.fd
 File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
-) [6
+) [8
 
 ]
 File: ./figure/greenbase.pdf Graphic file (type QTm)
 
-<use  "./figure/greenbase.pdf" > [7]
+<use  "./figure/greenbase.pdf" > [9]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 211.
+(Font)              scaled to size 11.40997pt on input line 212.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 211.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 211.
+(Font)              scaled to size 6.25204pt on input line 212.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 211.
+(Font)              scaled to size 11.40997pt on input line 212.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 211.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 211.
+(Font)              scaled to size 6.25204pt on input line 212.
 File: ./figure/greenbase.pdf Graphic file (type QTm)
- <use  "./figure/greenbase.pdf" > [8]
-(./guide.bbl
-File: ./figure/greenbase.pdf Graphic file (type QTm)
- <use  "./figure/greenbase.pdf" > [9]
+ <use  "./figure/greenbase.pdf" > [10]
 File: ./figure/greenbase.pdf Graphic file (type QTm)
 
-<use  "./figure/greenbase.pdf" >) 
+<use  "./figure/greenbase.pdf" > [11] (./guide.bbl
+File: ./figure/greenbase.pdf Graphic file (type QTm)
+
+<use  "./figure/greenbase.pdf" > [12]
+File: ./figure/greenbase.pdf Graphic file (type QTm)
+ <use  "./figure/greenbase.pdf" >)
+
 AED: lastpage setting LastPage
-[10
+[13
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 271.
  (./guide.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 270.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 270.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 271.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 271.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 40136 strings out of 493005
- 803704 string characters out of 6134596
- 968551 words of memory out of 5000000
- 43447 multiletter control sequences out of 15000+600000
- 30724 words of font info for 168 fonts, out of 8000000 for 9000
+ 40182 strings out of 493005
+ 807043 string characters out of 6134596
+ 966603 words of memory out of 5000000
+ 43487 multiletter control sequences out of 15000+600000
+ 34601 words of font info for 187 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,16n,91p,10384b,775s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,16n,91p,10384b,789s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on guide.pdf (12 pages).
+Output written on guide.pdf (15 pages).

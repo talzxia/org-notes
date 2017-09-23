@@ -21257,6 +21257,18 @@ a coin washing machine.
    - State "DONE"       from "STARTED"    [2017-09-06 三 05:55]
    CLOCK: [2017-09-06 三 05:26]--[2017-09-06 三 05:55] =>  0:29
    :END:
+** DONE Review<2017-09-21 Thu 05:25>99.2%
+   CLOSED: [2017-09-21 Thu 05:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-21 Thu 05:53]
+   CLOCK: [2017-09-21 Thu 05:24]--[2017-09-21 Thu 05:53] =>  0:29
+   :END:
+** DONE Review<2017-09-21 Thu 05:53>99.5%
+   CLOSED: [2017-09-21 Thu 06:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-21 Thu 06:21]
+   CLOCK: [2017-09-21 Thu 05:53]--[2017-09-21 Thu 06:21] =>  0:28
+   :END:
 ** Lesson 40
 soap a bucket detergent laundry detergent a cloth a brush
 
@@ -22261,6 +22273,18 @@ The man is cleaning up the table.
    - State "DONE"       from "STARTED"    [2017-09-08 五 05:27]
    CLOCK: [2017-09-08 五 05:01]--[2017-09-08 五 05:27] =>  0:26
    :END:
+** DONE Review<2017-09-22 五 05:08>99.2%
+   CLOSED: [2017-09-22 五 05:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-22 五 05:34]
+   CLOCK: [2017-09-22 五 05:08]--[2017-09-22 五 05:34] =>  0:26
+   :END:
+** DONE Review<2017-09-22 五 05:34>99.2%
+   CLOSED: [2017-09-22 五 05:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-22 五 05:59]
+   CLOCK: [2017-09-22 五 05:34]--[2017-09-22 五 05:59] =>  0:25
+   :END:
 ** Lesson 41
 a pen
 a pencil
@@ -23058,6 +23082,18 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2017-09-12 二 05:14]
    CLOCK: [2017-09-12 二 04:49]--[2017-09-12 二 05:14] =>  0:25
    :END:
+** DONE Review<2017-09-23 Sat 04:37>98.8%
+   CLOSED: [2017-09-23 Sat 05:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-23 Sat 05:04]
+   CLOCK: [2017-09-23 Sat 04:37]--[2017-09-23 Sat 05:04] =>  0:27
+   :END:
+** DONE Review<2017-09-23 Sat 05:04>99.1%
+   CLOSED: [2017-09-23 Sat 05:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-23 Sat 05:29]
+   CLOCK: [2017-09-23 Sat 05:04]--[2017-09-23 Sat 05:29] =>  0:25
+   :END:
 ** Lesson 42
 a calendar
 a day
@@ -23150,6 +23186,7 @@ The student is sleeping in the lecture. He's bored.
 Men like to talk about sports, but it's boring for women.
 It's fun for children to play with a ball.
 Men don't like to shop. It's boring for them in stores.
+
 
 * DONE Forty three 94.5%
   CLOSED: [2016-08-08 一 15:39]

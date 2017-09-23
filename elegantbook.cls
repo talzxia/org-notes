@@ -32,7 +32,7 @@
 \DeclareVoidOption{hang}{\ekv{titlestyle = hang}}
 \DeclareVoidOption{display}{\ekv{titlestyle = display}}
 % ----- Default Options -----
-\DeclareDefaultOption{\PassOptionsToClass{\CurrentOption}{book}}
+\DeclareDefaultOption{\PassOptionsToClass{\CurrentOption}{ctexbook}}
 
 \ProcessKeyvalOptions*\relax
 % \ProcessOptions*\relax
@@ -48,7 +48,7 @@
 \ifdefstring{\ELEGANT@color}{green}{
   \definecolor{main}{RGB}{0,120,2}%
   \definecolor{seco}{RGB}{230,90,7}%
-  \definecolor{thid}{RGB}{0,160,152}%
+   \definecolor{thid}{RGB}{0,160,152}%
   \base{greenbase.pdf}%
 }{\relax}
 
@@ -143,9 +143,9 @@
 \RequirePackage{geometry}
 \geometry{
     a4paper,
-   left=27mm,  %% or inner=23mm
-   right=27mm, %% or outer=18mm
-   top=25.4mm, bottom=25.4mm,
+   left=26mm,  %% or inner=23mm
+   right=25mm, %% or outer=18mm
+   top=30mm, bottom=25mm,
    headheight=2.17cm,
    headsep=4mm,
    footskip=12mm
@@ -197,8 +197,8 @@
 \setmonofont{Inconsolata}%Palatino Linotype
 %-中文字体设置-%
 \RequirePackage{xeCJK}
-\setCJKmainfont[BoldFont={黑体},ItalicFont={楷体}]{方正小标宋简体}%方正书宋_GBK Adobe Song Std L
-\setCJKsansfont[BoldFont={黑体}]{方正中等线简体}
+\setCJKmainfont[BoldFont={方正小标宋简体},ItalicFont={Adobe 楷体 Std R}]{方正书宋简体}%方正书宋_GBK Adobe Song Std L
+\setCJKsansfont[BoldFont={方正书宋简体}]{方正中等线简体}
 \setCJKmonofont{方正中等线简体}
 \XeTeXlinebreaklocale "zh"
 \XeTeXlinebreakskip = 0pt plus 1pt
