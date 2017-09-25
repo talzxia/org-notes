@@ -26247,6 +26247,18 @@ The woman has a stomachache.
    - State "DONE"       from "STARTED"    [2017-09-11 一 07:07]
    CLOCK: [2017-09-11 一 06:46]--[2017-09-11 一 07:07] =>  0:21
    :END:
+** DONE Review<2017-09-25 一 06:49>98.5%
+   CLOSED: [2017-09-25 一 07:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-25 一 07:13]
+   CLOCK: [2017-09-25 一 06:49]--[2017-09-25 一 07:13] =>  0:24
+   :END:
+** DONE Review<2017-09-25 一 07:13>99.1%
+   CLOSED: [2017-09-25 一 07:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-25 一 07:34]
+   CLOCK: [2017-09-25 一 07:13]--[2017-09-25 一 07:34] =>  0:21
+   :END:
 ** Lesson 44
 a bandage vitamins a syringe aspirin a thermometer medicine
 
