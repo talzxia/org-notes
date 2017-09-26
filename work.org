@@ -1936,11 +1936,13 @@ read two books about a hundred pages
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-13 二 11:15]
    :END:
-*** TODO [#A]<2017-09-19 Tue 15:40-17:00 +1w>                       :meeting:
+*** TODO [#A]<2017-10-03 二 15:40-17:00 +1w>                        :meeting:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-09-13 三 14:09]
+    :LAST_REPEAT: [2017-09-26 二 16:09]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-09-26 二 16:09]
+    - State "DONE"       from "STARTED"    [2017-09-26 二 16:08]
     - State "DONE"       from "STARTED"    [2017-09-13 三 14:09]
     - State "DONE"       from "STARTED"    [2017-09-12 Tue 16:52]
     CLOCK: [2017-09-12 Tue 16:00]--[2017-09-12 Tue 16:52] =>  0:52
@@ -1996,68 +1998,6 @@ read two books about a hundred pages
     - State "DONE"       from "STARTED"    [2017-06-04 Sun 20:55]
     CLOCK: [2017-06-04 Sun 20:28]--[2017-06-04 Sun 20:55] =>  0:27
     :END:
-*** TODO Trainging                                                 :training:
-    DEADLINE: <2017-09-26 二 20:00 +1d>
-    :PROPERTIES:
-    :LAST_REPEAT: [2017-09-25 一 20:34]
-    :END:
-    :style: habbit
-    :LOGBOOK:
-    - State "DONE"       from "STARTED"    [2017-09-25 一 20:34]
-    - State "DONE"       from "STARTED"    [2017-09-20 Wed 21:35]
-    CLOCK: [2017-09-20 Wed 20:46]--[2017-09-20 Wed 21:35] =>  0:49
-    - State "DONE"       from "STARTED"    [2017-09-19 Tue 20:59]
-    - State "DONE"       from "STARTED"    [2017-09-18 Mon 21:23]
-    - State "DONE"       from "STARTED"    [2017-09-17 日 21:29]
-    CLOCK: [2017-09-17 日 20:49]--[2017-09-17 日 21:29] =>  0:40
-    - State "DONE"       from "STARTED"    [2017-09-14 四 21:51]
-    CLOCK: [2017-09-14 四 18:53]--[2017-09-14 四 21:51] =>  2:58
-    - State "DONE"       from "STARTED"    [2017-09-13 三 21:55]
-    CLOCK: [2017-09-13 三 20:29]--[2017-09-13 三 21:55] =>  1:26
-    - State "DONE"       from "STARTED"    [2017-09-12 二 20:54]
-    - State "DONE"       from "STARTED"    [2017-09-11 一 20:45]
-    CLOCK: [2017-09-11 一 20:29]--[2017-09-11 一 20:45] =>  0:16
-    CLOCK: [2017-09-11 一 18:51]--[2017-09-11 一 20:01] =>  1:10
-    - State "DONE"       from "STARTED"    [2017-09-10 日 21:26]
-    CLOCK: [2017-09-10 日 20:29]--[2017-09-10 日 21:26] =>  0:57
-    - State "DONE"       from "STARTED"    [2017-07-10 一 21:32]
-    - State "DONE"       from "STARTED"    [2017-07-10 一 21:32]
-    CLOCK: [2017-07-10 一 21:30]--[2017-07-10 一 21:32] =>  0:02
-    - State "DONE"       from "STARTED"    [2017-06-29 四 20:56]
-    - State "DONE"       from "STARTED"    [2017-06-27 二 20:41]
-    CLOCK: [2017-06-27 二 19:33]--[2017-06-27 二 20:41] =>  0:08
-    - State "DONE"       from "STARTED"    [2017-06-26 一 19:36]
-    CLOCK: [2017-06-26 一 19:04]--[2017-06-26 一 19:36] =>  0:32
-    - State "DONE"       from "STARTED"    [2017-06-25 日 21:39]
-    - State "DONE"       from "STARTED"    [2017-06-25 日 21:39]
-    - State "DONE"       from "STARTED"    [2017-06-25 日 19:59]
-    CLOCK: [2017-06-25 日 19:57]--[2017-06-25 日 19:59] =>  0:02
-    - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:06]
-    - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:06]
-    - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:06]
-    - State "DONE"       from "STARTED"    [2017-06-22 Thu 21:05]
-    - State "DONE"       from "STARTED"    [2017-06-18 Sun 21:08]
-    - State "DONE"       from "STARTED"    [2017-06-17 六 10:59]
-    CLOCK: [2017-06-17 六 10:49]--[2017-06-17 六 10:59] =>  0:10
-    - State "DONE"       from "STARTED"    [2017-06-15 四 20:58]
-    - State "DONE"       from "STARTED"    [2017-06-15 四 19:18]
-    - State "DONE"       from "STARTED"    [2017-06-15 四 19:17]
-    - State "DONE"       from "STARTED"    [2017-06-15 四 19:17]
-    - State "DONE"       from "STARTED"    [2017-06-13 二 20:17]
-    CLOCK: [2017-06-13 二 20:06]--[2017-06-13 二 20:17] =>  0:11
-    - State "DONE"       from "STARTED"    [2017-06-11 Sun 20:44]
-    CLOCK: [2017-06-11 Sun 20:12]--[2017-06-11 Sun 20:44] =>  0:32
-    - State "DONE"       from "STARTED"    [2017-06-11 Sun 16:19]
-    - State "DONE"       from "STARTED"    [2017-06-11 Sun 16:19]
-    - State "DONE"       from "STARTED"    [2017-06-11 Sun 16:18]
-    CLOCK: [2017-06-11 Sun 16:10]--[2017-06-11 Sun 16:18] =>  0:08
-    - State "DONE"       from "STARTED"    [2017-06-06 Tue 20:36]
-    CLOCK: [2017-06-06 Tue 20:16]--[2017-06-06 Tue 20:36] =>  0:20
-    - State "DONE"       from "STARTED"    [2017-06-05 Mon 20:27]
-    - State "DONE"       from "STARTED"    [2017-06-05 Mon 20:27]
-    CLOCK: [2017-06-05 Mon 20:22]--[2017-06-05 Mon 20:27] =>  0:05
-    :END:
-    :end:
 ** Manager moddle
 *** DONE 创建教学检查<2017-06-01 Thu 08:30>                           :check:
     CLOSED: [2017-06-01 Thu 11:12]
@@ -2268,11 +2208,13 @@ read two books about a hundred pages
     CLOCK: [2017-06-05 Mon 15:38]--[2017-06-05 Mon 17:21] =>  1:43
     :END:
 ** TODO browse and free learn <2017-06-07 三 06:08>                  :browse:
-   SCHEDULED: <2017-09-26 二 +1d>
+   SCHEDULED: <2017-09-27 三 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-09-25 一 09:24]
+   :LAST_REPEAT: [2017-09-26 二 06:29]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-26 二 06:29]
+   CLOCK: [2017-09-26 二 06:10]--[2017-09-26 二 06:29] =>  0:19
    - State "DONE"       from "STARTED"    [2017-09-25 一 09:24]
    - State "DONE"       from "STARTED"    [2017-09-24 日 07:17]
    CLOCK: [2017-09-24 日 05:56]--[2017-09-24 日 07:17] =>  1:21
@@ -2508,11 +2450,14 @@ read two books about a hundred pages
    CLOCK: [2017-06-07 Wed 06:09]--[2017-06-07 Wed 06:37] =>  0:28
    :END:
 ** TODO [#B] work                                                 :afternoon:
-   DEADLINE: <2017-09-26 二 17:30 .+1d> SCHEDULED: <2017-09-26 二 14:00 .+1d>
+   DEADLINE: <2017-09-27 三 17:30 .+1d> SCHEDULED: <2017-09-27 三 14:00 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-09-25 一 17:30]
+   :LAST_REPEAT: [2017-09-26 二 17:19]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-26 二 17:19]
+   CLOCK: [2017-09-26 二 16:09]--[2017-09-26 二 16:10] =>  0:01
+   CLOCK: [2017-09-26 二 14:39]--[2017-09-26 二 15:37] =>  0:58
    - State "DONE"       from "STARTED"    [2017-09-25 一 17:30]
    CLOCK: [2017-09-25 一 14:20]--[2017-09-25 一 16:23] =>  2:03
    - State "DONE"       from "STARTED"    [2017-09-24 日 19:20]
@@ -2696,11 +2641,12 @@ read two books about a hundred pages
    - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:35]
    :END:
 ** TODO [#A  working                                                :morning:
-   SCHEDULED: <2017-09-26 二 08:00 +1d> DEADLINE:<2017-09-26 二 11:40 +1d>
+   SCHEDULED: <2017-09-27 三 08:00 +1d> DEADLINE:<2017-09-27 三 11:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-09-25 一 11:44]
+   :LAST_REPEAT: [2017-09-26 二 14:31]
    :END:
 :LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-09-26 二 14:31]
 - State "DONE"       from "STARTED"    [2017-09-25 一 11:44]
 - State "DONE"       from "STARTED"    [2017-09-25 一 08:38]
 - State "DONE"       from "STARTED"    [2017-09-24 日 12:21]
@@ -2905,7 +2851,7 @@ CLOCK: [2017-06-07 Wed 14:57]--[2017-06-07 Wed 15:09] =>  0:12
 - State "DONE"       from "STARTED"    [2017-06-06 Tue 11:33]
 - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:35]
 :END:
-DEADLINE: <2017-09-29 五 11:40 +1d>
+DEADLINE: <2017-09-30 六 11:40 +1d>
 ** TODO Phone  <2017-06-08 四 >                                       :phone:
    :LOGBOOK:
    - State "STARTED"    from "DONE"       [2017-06-08 四 09:56]

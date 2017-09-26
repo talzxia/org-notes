@@ -1,10 +1,13 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  24 SEP 2017 12:20
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  26 SEP 2017 15:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**\input guide.tex
-(./guide.tex (./elegantbook.cls
+**guide.tex
+(./guide.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(./elegantbook.cls
 Document Class: elegantbook 2014/01/20 v2.00 ElegantBook document class
 (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
@@ -2049,22 +2052,7 @@ File: ./figure/cover.pdf Graphic file (type QTm)
 ]
 File: ./figure/greenbase.pdf Graphic file (type QTm)
 
-<use  "./figure/greenbase.pdf" > (./guide.toc
-Overfull \hbox (21.60004pt too wide) detected at line 1
-\TU/方正书宋简体(0)/bx/n/12 第 一 章  
- []
-
-
-Overfull \hbox (21.60004pt too wide) detected at line 5
-\TU/方正书宋简体(0)/bx/n/12 第 二 章  
- []
-
-
-Overfull \hbox (21.60004pt too wide) detected at line 13
-\TU/方正书宋简体(0)/bx/n/12 第 三 章  
- []
-
-)
+<use  "./figure/greenbase.pdf" > (./guide.toc)
 \tf@toc=\write6
 \openout6 = `guide.toc'.
 
@@ -2240,10 +2228,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  40137 strings out of 493005
  803702 string characters out of 6134596
- 968871 words of memory out of 5000000
+ 968551 words of memory out of 5000000
  43447 multiletter control sequences out of 15000+600000
  30724 words of font info for 168 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,16n,91p,10391b,775s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,16n,91p,10384b,775s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on guide.pdf (12 pages).

@@ -6089,11 +6089,12 @@ to have lunch
    0
 
 ** TODO [#B] Learn Enlish                                             :learn:
-   DEADLINE: <2017-09-26 二 06:50 +1d> SCHEDULED: <2017-09-26 二 05:20 +1d>
+   DEADLINE: <2017-09-27 三 06:50 +1d> SCHEDULED: <2017-09-27 三 05:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-09-25 一 07:35]
+   :LAST_REPEAT: [2017-09-26 二 06:09]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-26 二 06:09]
    - State "DONE"       from "STARTED"    [2017-09-25 一 07:35]
    CLOCK: [2017-09-25 一 06:48]--[2017-09-25 一 06:49] =>  0:01
    - State "DONE"       from "STARTED"    [2017-09-24 日 05:16]
@@ -6261,11 +6262,13 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-09-26 二 08:00 +1d>--<2017-09-26 二 08:20 +1d>
+   SCHEDULED: <2017-09-27 三 08:00 +1d>--<2017-09-27 三 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-09-25 一 08:38]
+   :LAST_REPEAT: [2017-09-26 二 08:17]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-26 二 08:17]
+   CLOCK: [2017-09-26 二 08:13]--[2017-09-26 二 08:16] =>  0:03
    - State "DONE"       from "STARTED"    [2017-09-25 一 08:38]
    CLOCK: [2017-09-25 一 08:04]--[2017-09-25 一 08:38] =>  0:34
    - State "DONE"       from "STARTED"    [2017-09-24 日 05:22]
@@ -6506,13 +6509,17 @@ to have lunch
    :END:
 ** TODO [#B]Handwriting                                         :Handwriting:
    :PROPERTIES:
-   :LAST_REPEAT: [2017-09-25 一 08:03]
+   :LAST_REPEAT: [2017-09-26 二 16:08]
    :END:
-   --<2017-09-26 二 07:00 +1d>
+   --<2017-09-28 四 06:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-09-17 日 07:28]
    :END:
  :LOGBOOK:
+ - State "DONE"       from "STARTED"    [2017-09-26 二 16:08]
+ CLOCK: [2017-09-26 二 15:48]--[2017-09-26 二 16:08] =>  0:20
+ - State "DONE"       from "STARTED"    [2017-09-26 二 07:09]
+ CLOCK: [2017-09-26 二 06:30]--[2017-09-26 二 07:09] =>  0:39
  - State "DONE"       from "STARTED"    [2017-09-25 一 08:03]
  CLOCK: [2017-09-25 一 07:35]--[2017-09-25 一 08:03] =>  0:28
  - State "DONE"       from "STARTED"    [2017-09-24 日 05:56]
