@@ -34,6 +34,56 @@ Today I want to read a book finely.
 
 <2017-09-26 二>
 [[/Users/mac/Pictures/IMG_2139.png]]
+
+** There's a sport's meet today
+The information departerment is third formation.
+I stays on stage untill eight o'clock and twenty.
+then back to the office to work.
+
+  [2017-09-28 四 08:26]
+
+** DONE 同中兴谈校企合作
+   CLOSED: [2017-09-28 四 11:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-28 四 11:58]
+   CLOCK: [2017-09-28 四 11:06]--[2017-09-28 四 11:58] =>  0:52
+   :END:
+  - 规模：30-60人
+  - 企业投入：学费收入1/3
+  - 合作期：三届学生五年。
+  [2017-09-28 四 11:55]
+
+** DONE Review One,Two,Three
+   CLOSED: [2017-09-29 五 11:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-29 五 11:58]
+   CLOCK: [2017-09-29 五 11:22]--[2017-09-29 五 11:58] =>  0:36
+   :END:
+99.8%,99.8%,99.6%
+lasts thirty minutes
+Four,Five
+99.9%,99.6%
+  [2017-09-29 五 10:45]
+99.4% lesson six
+** DONE Review
+   CLOSED: [2017-09-30 六 08:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-30 六 08:20]
+   CLOCK: [2017-09-30 六 08:02]--[2017-09-30 六 08:20] =>  0:18
+   :END:
+eight 98.4%
+** 今天下午市政府评方案，至六点结束。
+
+  [2017-09-29 五 21:43]
+
+** 断网第二天
+重大事故
+管理水平不如中专。
+一群猪。
+
+
+  [2017-09-30 六 09:07]
+
 * spacemacs
 ** 插入图片
 [[]]
@@ -43,6 +93,148 @@ Today I want to read a book finely.
 <2017-09-26 二>
 ** Org-mode 简明手册
 http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html#sec-2-7
+** DONE bindings key learn
+   CLOSED: [2017-09-28 四 15:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-28 四 15:42]
+   CLOCK: [2017-09-28 四 14:21]--[2017-09-28 四 15:42] =>  1:21
+   :END:
+*** Spacemacs uses a leader key to bind almost all its key bindings.
+
+This leader key is comronly set to ​,​ by Vim users, in Spacemacs the leader key is set on SPC (the space bar, hence the name spacemacs). This key is the most accessible key on a keyboard and it is pressed with the thumb which is a good choice to lower the risk of RSI. It can be customized to any other key using the variable dotspacemacs-leader-key and dotspacemacs-emacs-leader-key.
+
+With Spacemacs there is no need to remap your keyboard modifiers to attempt to reduce the risk of RSI, every command can be executed very easily while you are in normal mode by pressing the SPC leader key, here are a few examples:
+
+- Save a buffer: SPC f s
+- Save all opened buffers: SPC f S
+- Open (switch) to a buffer with helm: SPC b b
+*** It is possible to define your default themes in your ~/.spacemacs with the variable dotspacemacs-themes. For instance, to specify spacemacs-light, leuven and zenburn:
+
+(setq-default dotspacemacs-themes '(spacemacs-light leuven zenburn))
+Key Binding	Description
+- SPC T n	switch to next theme listed in dotspacemacs-themes.
+- SPC T s	select a theme using a helm buffer.
+You can see samples of all included themes in this theme gallery from Rob Merrell.
+
+Note:
+
+You don't need to explicitly list in a layer the theme packages you are defining in dotspacemacs-themes, Spacemacs is smart enough to remove those packages from the list of orphans.
+Due to the inner working of themes in Emacs, switching theme during the same session may have some weird side effects. Although these side effects should be pretty rare.
+In the terminal version of Emacs, color themes will not render correctly as colors are rendered by the terminal and not by emacs. You will probably have to change your terminal color palette. More explanations can be found on emacs-color-theme-solarized webpage.
+Hint: If you are an Org user, leuven-theme is amazing ;-)
+*** 12.3 GUI Toggles
+
+Some graphical UI indicators can be toggled on and off (toggles start with t and T):
+
+Key Binding	Description
+SPC t 8	highlight any character past the 80th column
+SPC t f	display the fill column (by default the fill column is set to 80)
+SPC t h h	toggle highlight of the current line
+SPC t h i	toggle highlight indentation levels
+SPC t h c	toggle highlight indentation current column
+SPC t i	toggle indentation guide at point
+SPC t l	toggle truncate lines
+SPC t L	toggle visual lines
+SPC t n	toggle line numbers
+SPC t v	toggle smooth scrolling
+Key Binding	Description
+SPC T ~	display ~ in the fringe on empty lines
+SPC T F	toggle frame fullscreen
+SPC T f	toggle display of the fringe
+SPC T m	toggle menu bar
+SPC T M	toggle frame maximize
+SPC T t	toggle tool bar
+SPC T T	toggle frame transparency and enter transparency transient state
+Note: These toggles are all available via the helm-spacemacs-help interface (press SPC h SPC to display the helm-spacemacs-help buffer).
+
+*** Some elements can be dynamically toggled:
+
+Key Binding	Description
+SPC t m b	toggle the battery status
+SPC t m c	toggle the org task clock (available in org layer)
+SPC t m m	toggle the minor mode lighters
+SPC t m M	toggle the major mode
+SPC t m n	toggle the cat! (if colors layer is declared in your dotfile)
+SPC t m p	toggle the point character position
+SPC t m t	toggle the mode line itself
+SPC t m v	toggle the version control info
+SPC t m V	toggle the new version lighter
+
+*** 14.1.2 Executing Vim and Emacs ex/M-x commands
+
+Command	Key Binding
+Vim (ex-command)	:
+Emacs (M-x)	SPC SPC
+The emacs command key SPC (executed after the leader key) can be changed with the variable dotspacemacs-emacs-command-key of your ~/.spacemacs.
+
+*** 14.1.4 Additional text objects
+
+Additional text objects are defined in Spacemacs:
+
+Object	Description
+a	an argument
+g	the entire buffer
+$	text between $
+*	text between *
+8	text between /* and */
+%	text between %
+\vert	text between \vert
+
+*** 14.4.2 Getting help
+
+Describe functions are powerful Emacs introspection commands to get information about functions, variables, modes etc. These commands are bound thusly:
+
+Key Binding	Description
+SPC h d b	describe bindings in a helm buffer
+SPC h d c	describe current character under point
+SPC h d d	describe current expression under point
+SPC h d f	describe a function
+SPC h d F	describe a face
+SPC h d k	describe a key
+SPC h d K	describe a keymap
+SPC h d l	copy last pressed keys that you can paste in gitter chat
+SPC h d m	describe current modes
+SPC h d p	describe a package (Emacs built-in function)
+SPC h d P	describe a package (Spacemacs layer information)
+SPC h d s	copy system information that you can paste in giA strong country controls week countries.
+tter chat
+SPC h d t	describe a theme
+SPC h d v	describe a variable
+Other help key bindings:
+
+Key Binding	Description
+SPC h SPC	discover Spacemacs documentation, layers and packages using helm
+SPC h i	search in info pages with the symbol at point
+SPC h k	show top-level bindings with which-key
+SPC h m	search available man pages
+SPC h n	browse emacs news
+Navigation key bindings in help-mode:
+
+Key Binding	Description
+g b or [	go back (same as clicking on [back] button)
+g f or ]	go forward (same as clicking on [forward] button)
+g h	go to help for symbol under point
+Reporting an issue:
+
+Key Binding	Description
+SPC h I	Open Spacemacs GitHub issue page with pre-filled information
+SPC u SPC h I	Open Spacemacs GitHub issue page with pre-filled information - include last pressed keys
+Note: If these two bindings are used with the *Backtrace* buffer open, the backtrace is automatically included
+
+** Org Mode - Organize Your Life In Plain Text!
+http://doc.norang.ca/org-mode.html#OrgMimeMail
+** Spacemacs documentation
+http://spacemacs.org/doc/DOCUMENTATION.html#vim
+** The Org Manualhttp://orgmode.org/org.html
+http://orgmode.org/org.html
+** DONE Vim教程
+   CLOSED: [2017-09-28 四 16:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-28 四 16:26]
+   CLOCK: [2017-09-28 四 16:23]--[2017-09-28 四 16:26] =>  0:03
+   :END:
+http://wenku.baidu.com/view/8463bd6102020740be1e9ba7.html?re=view&pn=51
+
 * DONE \latex
   CLOSED: [2017-09-27 三 20:28]
   :LOGBOOK:
@@ -52,6 +244,8 @@ http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html#sec-2-7
   - State "DONE"       from "STARTED"    [2017-09-27 三 19:41]
   CLOCK: [2017-09-27 三 19:17]--[2017-09-27 三 19:41] =>  0:24
   :END:
+** The Tex Book
+http://math.ecnu.edu.cn/~latex/docs/Eng_doc/The_TeXBook.pdf
 free learn
 ** 基本结构
 #+BEGIN_SRC org
@@ -71,10 +265,25 @@ free learn
 %\end{document}
 #+END_SRC
 
+** Huang Zhenghua's home page
+http://aff.whu.edu.cn/huangzh/
+** 公文排版详解
+https://wenku.baidu.com/view/410d3c239ec3d5bbfd0a74eb.html
+** LATEX 排版学习笔记
+http://www.latexstudio.net/wp-content/uploads/2014/02/latexlog-1310.pdf
+** LaTeX 科技排版
+http://math.ecnu.edu.cn/~latex/doc.html
+** CTEX 宏集手册
+http://mirrors.ustc.edu.cn/CTAN/language/chinese/ctex/ctex.pdf
+** 简单粗暴 LATEX
+http://www.latexstudio.net/wp-content/uploads/2017/08/Note-by-LaTeX-cn.pdf
+**
 * lisp
 ** LISP - 基本语法
 http://www.yiibai.com/lisp/lisp_basic_syntax.html
 * 时事政治学习
+** 凤凰网
+http://www.ifeng.com
 ** 习近平关心的“政治能力”是什么？
 http://news.ifeng.com/a/20170429/51026634_0.shtml
 *** DONE 原标题：【干部必读】党报刊文谈“政治能力”，信息量极大
@@ -359,7 +568,6 @@ http://news.ifeng.com/a/20160430/48641425_0.shtml
    :END:
 http://edu.sina.com.cn/gaokao/2017-07-16/doc-ifyiakur8928391.shtml
 大家皆是凡人，学霸和学渣相差的可能只是学习方法。高考成绩公布后，铺天盖地都是对高考状元的报道，那么除了家庭环境、成长氛围、颜值高低，本文把对2017年高考状元的关注点重新转移回到学习方法上来，看看状元们都有哪些学习的好习惯。
-
 *** 错题集——必不可少
 
 　　错题集是很多同学都知道，但大部分人都很难坚持，就像苏格拉底要求学生每天向后甩手臂50下，最后只有亚里士多德一人能够坚持下来；或者总结错题的方法存在误区。
@@ -430,6 +638,450 @@ http://edu.sina.com.cn/gaokao/2017-07-16/doc-ifyiakur8928391.shtml
 　　这十个优秀的学习习惯，你都有吗？不仅要培养好的习惯，也要坚持下去，经过一段时间后就会发现这些小小的习惯会带来非常明显的进步！希望大家都能够找到适合自己的学习方法，系统地搭建思维框架，每天都进步一点！
 
 　　来源：北京聚能教育的微博
+
+
+** DONE 快速学习者的高效学习策略
+   CLOSED: [2017-09-28 四 19:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-28 四 19:02]
+   - State "STARTED"    from "DONE"       [2017-09-28 四 18:57]
+   CLOCK: [2017-09-28 四 18:57]--[2017-09-28 四 19:02] =>  0:05
+   - State "DONE"       from "STARTED"    [2017-09-28 四 08:43]
+   CLOCK: [2017-09-28 四 08:33]--[2017-09-28 四 08:43] =>  0:10
+   :END:
+http://kb.cnblogs.com/page/545476/
+作者: 译/Jodoo  来源: 简书  发布时间: 2016-05-25 10:51  阅读: 19991 次  推荐: 97
+原文链接   [收藏]
+
+
+　　英文原文：5 Ways to Learn and Remember Absolutely Anything
+
+　　过早地关注细节，你很可能让自己陷入一叶障目不见森林的境地。
+高效学习者都有哪些学习策略值得效仿？这个问题最早出现在 Quora，本文源自对该问题的
+一个答复。
+
+
+该答复作者是阿莱西奥·布瑞沙尼，他在数字技术领域具有十五年的专业策略咨询经验。以
+下就是这个答复的具体内容。
+
+　　你提出的这个问题真的很棒。一直以来，我对商业、个人成长以及武术搏击均保持着浓
+厚的兴趣。这个问题促使我反思了过去的一些经历。
+
+　　我想告诉你，我见过不少貌似学习缓慢的人，他们对一些领域的深入理解程度远远超过
+了那些所谓的『快速学习者』。事实上，慢学习者在认真和仔细方面，恰好是快速学习者所
+缺乏的。所以我想对你说，那些看似低效的学习策略很可能正是你的优势，而不是缺点。在
+我表达了我的个人观点之后，我自己还有一些学习与记忆的基本策略想和你分享一下，这些
+策略来自我过去的工作与生活经历，我认为它们均具有一定的普遍价值。
+
+*** 1) 重复
+　　我坚信重复是通向精通的必由之路。当我们学习一种新的技能，必须经常性地对这种技
+能加以练习。当我们学习一种新的知识或理论，也必须对尽可能多地对其加以应用。
+
+　　李小龙曾经讲过一句非常经典的名言，『我从不畏惧一个知道一万种踢法的人，但是我
+害怕一个把一种踢法练习过一万次的对手。』
+
+　　任何一种技能，只要经过连续不断地磨练和改进，最终效果都将变得异常惊人。
+*** 2) 专注
+　　现代生活中的干扰因素太多 - 社交媒体、多任务、开放式学习与办公环境 - 我们总是
+能不断地收到来自外部的各种刺激信号。
+
+　　我们已经丧失了专注的能力。然而专注是学习和掌握很多科目和专业必备的前提条件。
+　　为了学习一种新的技能，我尽量让自己处于一个没有打扰的环境之中。当我阅读一些东
+西时，\\我会听一些没有歌词的纯音乐\\，这样的话，我的注意力就不会被分散了。
+
+　　史蒂夫·乔布斯说过，『人们通常认为专注意味着，对你正在做的事情说 Yes，实际上
+根本不是这样。专注的真正含义在于，当你同时面对几百个好想法时，你必须精挑细选。』
+
+*** 3) 背景与细节
+　　为了理解一门学科，我觉得首先你应该对这个学科的概貌有一个大致的了解。我自己就
+非常喜欢探求一些事物的背景以及来龙去脉。
+
+　　所以，我在阅读一本书之前，总是先浏览一下这本书的目录。这样我就对这本书的内容
+有了一个基本印象。当我阅读内容细节时，我将对内容中一个主题与另一个主题之间的关系
+就更加清晰了。细节非常重要，但是要在合适的时机。
+　　
+过早地开始关注细节，你很可能错失上下文或整体信息。当然，错失了细节，也会让你
+的理解仅仅停留在一些事物的表面。
+
+　　所以，我会不停地在细节和上下文之间来回切换。这样我就能够在获取知识或技能的整
+
+体性概念的同时，又能学到具体内容及细节。
+
+*** 4) 关系
+　　这种在上下文与细节之间来回切换的学习方式，向我充分展现了信息之间的关系。这一
+点对于学习与记忆的长期效果来说，非常非常重要。
+
+　　这就是为什么当我们谈论某一局牌时，有人能够绘声绘色地回忆起每一个细节。其实诀
+窍就在于牌与牌之间的关系。
+
+　　在不同主题之间构建一种有意义的关系或联系，就是加速学习和强化长期记忆的最有效
+手段。
+
+*** 5) 节奏
+　　节奏是学习过程中最有趣的一个可变因素。
+
+　　例如，如果你正在听一场在线视频讲座，你可以加速这个讲座的播放速度（如以两倍速
+率播放）。
+
+　　节奏还有一个重要功能。它能够让我们置身于完全不同的环境和压力之下。为了适应这
+种变换，我们自身会自发地调节相应的学习方法。
+
+　　刻意让自己体验这种不断变化的学习节奏，能够更好地强化我们的学习效果和学习能力。
+长跑运动员训练冲刺式的速跑，就是为了磨练自己对不同状况路面的适应性。
+
+　　就我个人而言，如果我正在准备一场演讲或者技术演示，我会在最后一次练习中以两倍
+语速讲话。这样做就是为了确保，在我面临外部压力之下（公开场合演示），可以记起所有
+的演讲内容和信息。如果在语速加倍的情况下，我都能回忆起这些信息，我自然能在正常语
+速下，轻松地想起这些内容。
+
+
+　　变换节奏不只是与回忆或记忆相关，其实这样做在很大程度上，能够激发和改变学习的
+潜能和活力 - 为你的学习工具箱添加一个灵活的新工具。
+
+　　我希望以上信息对你有所帮助。祝你在个人成长的过程中好运！
+
+** DONE 学习如何学习
+   CLOSED: [2017-09-28 四 08:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-28 四 08:56]
+   CLOCK: [2017-09-28 四 08:46]--[2017-09-28 四 08:56] =>  0:10
+   :END:
+作者: 李忠  发布时间: 2016-06-18 17:34  阅读: 5925 次  推荐: 48   原文链接   [收藏]
+　　在「如何学习」这点上，一直觉得自己做的不够好，曾经想学吉他，坚持了两个礼拜就
+以「手指太短，不适合」终结了，后来想学数学，却终究连翻开书的勇气都没有，工作一忙
+更是顾不上这些了。所以在 Youtube 上看到 Barbara Oakley 的 Learning How to Learn
+时，才发现自己在学习上的各种问题，收获颇多。如果有兴趣的话，建议直接看视频，讲解
+地很有条理且生动。
+　　Barbara Oakley 是系统工程学博士，但对于「学习」方面也颇有研究，在 Coursera
+上也有相应的课程。还出了几本书，比如 A Mind For Numbers: How to Excel at Math
+and Science，这里对于她在 Google 的分享做一个简单的翻译和摘要。
+摘要
+
+　　(主持人)我记得查理芒格说过，他认识的人中没有一个不每天阅读的，还把巴菲特形容
+为一台学习机器。那么如何才能成为一个高效学习者呢？
+
+　　正文
+　　我小的时候，想要学习其他语言，但大学的助学金不太容易拿到，而我又迫切想要学习
+一门语言，然后我想到了一个既可以学习语言，又能得到些收入的方法，那就是参军。然后
+我确实学了一门语言：俄语。虽然俄国的环境不怎么样，但我喜欢冒险和新的视角。我回想
+在西点的工程师们，他们解决问题的能力非常出众，往往能想到我想不到的。然后我就想，
+我能不能也达到跟他们一样的程度？有学生提了这么个问题：如何改变你的大脑。然后我就
+去了解世界顶级的教授他们是如何做到让学生更好地学习工程学、数学、化学的？他们自己
+又是如何学习的？跟他们接触后发现，他们常用的有隐喻和类比。接下来我想跟大家分享下
+学习的关键因素。
+　　
+我们都知道大脑是很复杂的，那么来简化一下，可以想象成大脑以两种不同的模式工作。
+第一个是「专注」，另一个则是「发散」。我们用一个弹球机来描述这两种状态。
+
+假设大脑里有一个弹球机底部有一个触发开关，有很多的槽点密集排布。比如，你已经知道
+了乘法，然后要处理一道乘法运算题。当你处于「专注」模式时，会运用已有的模型，在
+「乘法」的槽点附近打转，也就是结合以前的学习经验去寻找答案。如果你要解决的问题是
+基于新的模型，比如你已经知道了乘法运算，但从没有接触过除法运算，如何掌握这个新的
+模型呢，这时就要用到「发散」了。当处于「发散」状态时，「槽点」之间的距离会变大，
+你无法通过局限在某一点来解决问题，但至少能找到一种新的思考事物的角度。当你在解决
+一个非常困难的问题时，不要逼自己长时间处于「专注」状态，这样就会局限在一个狭小的
+范围。所以需要进入到另一种模式，也就是「发散」模式。简单来说，就是脱离当前的工作
+环境，出去走走，冲个澡等，总之是让大脑脱离「专注」状态。我们来举一个例子吧。
+　　Salvador Dali 是20世纪著名的超现实主义画家，他最爱干的事情就是，当遇到一个棘
+手的问题时，会躺在椅子上，放松再放松，同时手里握着一把钥匙。当足够放松到快要睡着
+时，钥匙就会掉在地上，与地板碰撞的声音会把他叫醒，然后就可以带着从「发散」状态收
+获的想法继续进入到「专注」模式。
+　　你可能会觉得这个对艺术家有用，那么对工程师是否也同样有效呢？据传，爱迪生也有
+类似的行为爱好，只不过不是钥匙，而是滚珠轴承。
+
+　　当你在解决一个问题时，即使已经有成千上万的人已经解决过了，但对你来说确实第一
+次，你也可以试试类似的方法。
+
+　　当你处于「专注」状态时，并没有利用到其他更多的关联，这也是为什么在两种状态间
+切换是如此重要。就像你不能一下吃成大胖子一样，神经系统也是需要一段时间来适应新的
+学习和思维方式。
+　　你或许会说，我有拖延症，那我们就来说说拖延症。拖延症的成因是当你面对不喜欢做
+的事情时，大脑的「痛感中心」就会被激活。所以当你看一本不喜欢的书时，会感觉到隐痛，
+这种痛就像手指被锤子砸了一样，通常会有两种做法：第一种是花大概 20 分钟去搞定它，
+然后痛感就会慢慢降低进而消失。但如果你像大多数人一样，将注意力集中到其他做起来更
+舒服的事情上，就会马上就会感到好些了。
+　　从某种程度上来说，拖延症也是会上瘾的，这对你的生活是非常有害的。最有效的方式
+是使用「番茄工作法」，通常来说设置 25 分钟为一个「番茄时间」，然后关闭其他所有会
+打扰你的一切。在这 25 分钟内，集中精力进入到「专注」模式。由于你专注于当前的任务，
+而不是「我必须完成它」的痛苦，做起来就会容易很多。当到时间后，给自己点奖励，出去
+走走或上上网、聊聊天都行。有一点要注意的是，不要以完成任务为目标，时间到了，就休
+息。它能帮助你跨过痛苦期，进入 flow 状态。还有就是不要一下子做太多的「番茄」，一
+步一步来，慢慢适应这套系统。
+　　还有跟学习很相关的一点是睡眠。常常有人说考试前要睡好觉，事实上，睡眠在各种层
+面上都很重要。当处于非睡眠状态时，代谢物会在细胞间产生，它们就像垃圾一样在那，而
+且越积越多，这会影响你的判断。这也是为什么当你长时间工作时，逻辑会越来越乱。当你
+睡觉时，这些细胞会缩小，然后垃圾就被冲走了，就像重新打扫了房间一样。
+　　根据神经学上的发现，将学习分为多个短期学习、睡觉，多个短期学习、睡觉，这样的
+循环系统，对于构建神经网络非常有帮助，这也是高效学习的秘诀之一。
+
+　　人每天都会长出新的神经元，有两种方式可以让这些神经元存活并成长。一个就是将自
+己暴露在新的环境中，这也是为什么旅行会很有帮助，这些新元素能让新出生的神经元活下
+来。还有一个让新长出来的神经元活下来的方法，很简单，就是锻炼。不需要励志成为奥林
+匹克运动员或者成为马拉松选手，即使只是简单的散步也是非常有效的。但即使只有几天的
+锻炼也会带来更大的效果，它会增强新神经元的存活和生长。
+　　接下来聊聊工作记忆（Working Memory），工作记忆就是临时记住一些信息，以前常说
+有7个槽可以用，这也是为什么你能记住7位数的电话号码，但事实上大概只有4个槽可以用，
+所以当你用工作记忆来记一些东西时，可以想象有一只章鱼在掌控着这几个槽，并建立连接，
+这也是为什么不能一次记住太多的想法。当你多任务同时开工时，相当于把章鱼的触角从仅
+有的几个槽中拿走一个或多个，这会让你变得笨一点。而发散模式则是有更多的连接。
+　　那如何把短期记忆变成长期记忆呢，最好的方法就是练习，练得越多，神经元就会长得
+越长，扎得越深。
+　　如果你不练习，那么这些「蝙蝠」就会在模式形成长期记忆前把它叼走，这也是为什么
+有时觉得已经理解了某个概念，然后走开了，过了两天，这些内容都被「蝙蝠」叼走了，然
+后就记不起什么了。所以最好的方式就是带一定间隙的重复练习(Spaced Repetition)，比
+如周一、周二、周三、周五、周日练习。
+　　再来说说 Chunk。假设你要拼一副图，如果不明白每一块代表的含义，就会有无从下手
+的感觉，就像中间的那个圆一样，你能看到它，它也是个 Chunk，但却无法与其他的 Chunk
+产生联系，这也是为什么死记硬背的效果会很差的原因。
+　　当你在研究某个课题时，你其实在创建一个 Chunk 群，这些 Chunks 会跟其他的
+Chunks 生关联，这也是伟大创意的产生之源。这时往往会得到一些支离破碎的 Chunks，如
+果都学会了，就会形成一副完整的图片，即使少了其中几片。
+　　但如果你不重复练习，并且深刻掌握 Chunks，也能把 Chunks 拼起来，只不过是模糊
+的，而且很难拼成全图。
+
+　　不同领域的 Chunks，有可能长得差不多，这样就可以借鉴原有的 Chunk 来学习新的
+Chunk。比如你是一个物理学家，再去学经济学会更简单些，因为其中的一些 Chunks 非常
+相像。
+
+　　最后给大家一些关于学习的建议：
+　　测试是必要且重要的。Test yourself on everything, all the time。同样的时间用
+来做测试和学习，前者会让你收获更多。使用卡片(Flashcards)，卡片不是专门用来学习语
+言的，卡片是一个通用的学习手段，诗人们会用它记忆诗句，以此来更强烈地感受诗词带来
+的震撼。记得做「家庭作业」，不要只做一次，挑其中的重点多做几次，即使只是在大脑里
+过一遍，确保自己真的掌握了，这样你就得到了一组 Chunks。
+
+　　最有效的方法还是「回想」，尤其是当你在解决困难的问题时。当你在阅读文章时，试
+着离开书本，回想一下能否记起其中的要点，这对于理解内容有很大的帮助，比反复读和思
+维导图效果都要好.
+
+　　还有一个简单的技巧是向其他人阐述你所理解的东西，并且假设对方只是一个 10 岁的
+小孩（费曼学习法）。如果你能找到一个简单清楚的描述，就能更加深入地理解。你甚至可
+以把自己放到问题发生的场景中。当你处于专注模式时，会有一种「我已经掌握了」的感觉，
+这时可以跟其他处于diffuse 模式的人交流下想法，有时会帮助你纠正错误。
+
+
+
+　　最后，我们都说要追随你的热情，但热情只是让你擅长的东西变得更擅长，而有些东西
+要花很长的时间才能擅长，所以不仅仅要追随你的热情，还要扩大你的热情，然后生活质量
+就会有大幅度的提升。
+
+** DONE 如何阅读计算机科学类的书
+   CLOSED: [2017-09-28 四 09:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-28 四 09:05]
+   CLOCK: [2017-09-28 四 08:57]--[2017-09-28 四 09:05] =>  0:08
+   :END:
+ http://kb.cnblogs.com/page/576251/
+作者: Joshua Nie  发布时间: 2017-09-21 13:51  阅读: 4263 次  推荐: 17   原文链接
+[收藏]
+　　作为一个研发工程师，无论你是否喜爱阅读，相信你都一定读过不少关于计算机技术的
+书籍。这其中不乏《21天学会JAVA》这样的语言入门书籍，也有《算法导论》这样的专题书
+籍，也有《人月神话》这样关于软件管理学的实用性的书籍。也许你已经读过他们中的大部
+分，也许你现在还在不断地购入新的书籍来补充你的知识库。但请稍等一下，你是否思考过
+这样的问题，面对大量的计算机科学书籍，你是否都真正读懂了它们呢？有多少本书，当你
+将他放在书架上之后，就再也没有重新打开过？有多少知识是真正被存储在你的大脑中，并
+随时可以提供调用？拿到一本书后，高效阅读的正确姿势的什么？如果你有以上的疑惑，那
+么接下来，我们将一起探讨一个问题，如何阅读一本计算机科学类书籍。
+*** 　　阅读的四种层次
+　　首先，我们先要学会如何阅读。你可能会觉得不可思议，我已经接受过高等教育，怎么
+可能还不会阅读。然而可悲的是，现代教育体系中，恰恰忽略了对阅读能力的训练。我们在
+初中之后，阅读水平就几乎没有机会再得到提升。总体来说，阅读分为四种层次，分别是：
+- 基础阅读
+- 检视阅读
+- 分析阅读
+- 主题阅读
+　　这其中的概念来源于莫提默·J·艾德勒和查尔斯·范多伦的著作《如何阅读一本书（How
+To Read A Book）》，这里我必须对其中的概念做简单的总结，以便在后续的篇幅中，我们
+能统一对阅读名词的理解。
+**** 　　基础阅读
+　　当我们完成中学学业后，我们中的绝大部分人，都已经掌握了基础阅读的能力。在这个
+层次中，我们关心的是，书里的每句话是什么意思。这是一个最基础的层次。
+**** 　　检视阅读
+　　检视阅读，我们也可以称之为快速阅读。快速浏览全书，了解书的主题，架构全书，提
+出核心问题。这并不是很新鲜的概念，但很多人可能并没有思考过，为什么要做检视阅读。
+检视阅读作用是为了帮助我们筛选这本书是否值得阅读，同时为接下来的分析阅读打下基础。
+在这个层次中，我们关心的是，这本书在讲什么。
+**** 　　分析阅读
+　　分析阅读是一个更为高级的阅读层次，目标让我们能充分理解本书，与作者对话。其中
+包含了多个阶段，这里不再详述，有兴趣的同学可以研读原著。
+**** 　　主题阅读
+　　当我们跨越过分析阅读后，这本书已经被我们掌握。此时，我们会就相同的主题，阅读
+不同的书籍，找出其中关联与矛盾，倾听不同的作者的不同声音，从而对某个主题产生更加
+深刻的认识。这个阶段，我们关注的不再是某一本书，而是一个具体的问题。
+　　计算机科学书籍的特征
+　　原著中针对不同类型的书籍，给予了不同的阅读建议。但由于所著时间很早，就计算机
+科学类图书的阅读建议，在书中并没有专门设计章节阐述。根据我的阅读经历，深感计算机
+*** 科学类书籍，较其他类型图书有着其独特性：
+**** 　　单本书籍的信息量大
+　　相较其他学科，绝大多数计算机科学类书籍并不是以得出结论并且论证结论为核心，而
+偏重于阐述方法和解释原理。有很多计算机书籍旨在剖析某个系统。这里的系统不仅仅指代
+诸如操作系统这样的实体系统，还包括一门语言或者一套管理方法论这样的理论系统。而系
+统通常是由多个部分组成的综合体，这其中势必包含不同组成部分的不同细节，信息量之大
+可见一斑。
+**** 　　注重实践
+　　计算机科学是一门实用性的学科。这里的实用性可以理解为，计算机科学诞生的目的就
+是为了解决实际问题。因此，几乎所有的计算机科学书籍，都是以指导实践为目标而作。
+**** 　　更新速度快
+　　计算机科学的更迭速度可以准确地被描述为日新月异。有些技术很快地火爆起来，又很
+快地消亡，所以有些书也就跟着很快地淹没在时代的进程中。
+**** 　　分类细致但同质度高
+　　计算机科学对自己有着过分清晰的划分，不同的技术之间往往边界清晰。我们很少见操
+作系统和数据库系统在同一本书中论述，也不常见集不同语言之成的大作。由于领域划分细
+致，相同领域的书籍，多数时候往往论述的是同样的主题。
+*** 　　阅读计算机科学书籍的误区
+　　绝大多数读者的错误意识在于把所有的书籍都认为是层层推进的论述过程。这样的阅读
+经验一旦沿用在计算机科学类书籍中，就会感觉举步维艰。前文说过，大多数的计算机书籍
+都是在剖析系统，一个系统又是由许多相互关联的部分组成。解读这类书籍，如同拆解一个
+机械，我们在拆解的过程，常常会犯下这些错误。
+**** 　　通读全书
+　　在你的头脑中没有对全书的结构有整体了解的情况下，从头至尾通读全书，意味着试图
+从细节窥视一个系统的全貌。这是一种低效的读书方式。当读到中落时，你会因为没有全局
+概念，而迷失在各种细节中，以至于完全失去了阅读的方向和目标。
+**** 　　跳过序言
+　　序言往往是很多人忽略的内容，似乎序言只是重复了正文的内容。而正因为如此，序言
+以简短精炼的语言，为你分解了整本书的架构，帮助你把握系统的整体。这项工作本来应该
+是读者在阅读全书之前的必备工作，绝大多数的作者都已经帮你完成了，而你需要做的仅仅
+是认真的阅读它。
+**** 　　脱离实践
+　　前文说过，计算机科学类书籍重视实践，脱离了实践，往往就不能完全理解书中所述的
+理论和方法，过目就忘，纸上谈兵。
+**** 　　忽视基础
+　　封装在计算机的世界中是一个非常重要的概念。计算机的发展史，总的来说就是一部封
+装史：将底层不断包装，提供简单的调用方式，由此不断的扩展计算机的边界和能力。新的
+技术层出不穷，而他们的很多所依赖的环境和系统，从设计之初就没有发生过质的变化。
+　　有时，在追逐新的技术之前，深入了解他们所在的系统；在学习新的算法之前，掌握好
+其基础的数学原理。只有牢固的基础才能支撑足够结实的上层建筑。
+*** 　　阅读计算机科学书籍的建议
+　　当了解阅读误区后，你们是不是已经发现阅读这类书籍的核心原理呢？那就是将整本书
+当做一个系统，从整体到局部，层层递进，逐步剖析。根据这个核心原理，我总结了一些好
+的实践方式。
+**** 　　检视阅读
+　　当你拿到一本计算机科学书籍，第一步就应该快速浏览序言和目录，然后用检视阅读的
+方式整理出整本书的大纲。这样，你对这本书是介绍理论还是关注实践，所属什么分类，哪
+些问题是本书将会讨论，而哪些问题是不被详细讨论的，这些信息你都会有整体上的认知。
+这时，你就可以很轻松地判断，这本书值不值的阅读，哪些内容是你已经熟知的，哪些内容
+是你关注的重点，这样做阅读的效率将会大大的提高。
+　　如果从来没有使用过这种阅读方式，开始实践时，会受到一定的心理上的阻力。可能你
+对某个专有名词完全没有概念，以至于整章的内容都模棱两可。这时，你应该坚持继续阅读，
+对不甚理解的内容，先记住有这样的概念。绝大多数的时候，经过检视阅读后，过程中的问
+题都会有所释怀，剩下依然没有明白的内容，视其重要性，再决定是否对其进行分析阅读。
+**** 　　提取问题
+
+　　当你了解了整本书的全貌，一般而言，你会发现，有些章节你已经熟悉，有些章节你全
+然不知。这时就要对这些章节进行分析阅读。分析阅读的很多步骤和方法在《如何阅读一本
+书（How To Read A Book）》有详细的介绍，这里不展开细说。但有时，你在阅读的过程中，
+会发现阅读的兴趣在下降。信息量愈大，阅读的动力愈弱，最后你就迷失在信息的汪洋之中。
+　　我们应该如何避免这样的信息疲劳呢？答案就是去掉冗余的干扰信息。在上一个建议中，
+我们强调了检视阅读的重要性。那检视阅读的成果是什么呢？那就是你对每个部分（不一定
+是书中给你划分的章节）所提出的问题，也可以称之为阅读目标。而你要做的就是，找到这
+些问题的答案，完成自己的阅读目标。
+　　这样做过滤了很多作者认为重要，其实和你关心的主旨没有联系的信息，减少了信息疲
+劳。同时，不同部分之间有关联的问题，可以帮助你更好的串联全书阐述的核心概念，把握
+整本书的主要脉络。
+　　例如，我在阅读《深入理解计算机系统》的异常控制流时，就提出这样的问题：进程是
+如何管理内存？而部分的答案，在下一个章节虚拟内存中。当我解答这个问题时，我就会将
+这两个分离的章节的内容，通过一个问题联系在一起，加深了自己的理解。
+**** 　　持续重读
+　　一本经典优秀的计算机科学书籍，值得你反复的阅读。不要觉得整本书我已经完全理解，
+就再也不需要重新回顾阅读了。因为此类书籍存在大量信息，而这些信息并没有必要占据我
+们大脑有限的记忆存储空间。我们要做的就是认真做好第一条建议，当我们需要使用这些书
+籍解决问题的时候，能第一时间在其中找到我们需要的信息。毫不夸张的说，计算机科学类
+的书籍生来就是供人反复翻阅的。
+**** 　　鉴别烂书
+　　作为阅读爱好者，谁能说自己没读过几本烂书呢。在计算机科学这个类别中，烂书的比
+例一点也不比其他学科低。信息重复（抄袭），结构混乱，论证不清晰（作者对某个技术一
+知半解）等等，都是烂书的特征。关于烂书，我们要做的就是第一时间将其鉴别出来，然后
+放到自己的黑名单中。具体如何鉴别烂书，由于本篇幅太长，我可能会新开一篇文章单独讨
+论。
+*** 　　结语
+
+　　以上就是我对于如何阅读计算机科学类书籍的理解。本来想缩短些篇幅，但最后还是决
+定保留那些我觉得应该详细论述的部分。毕竟这篇文章的初心并非是厕所读物，而是一个阅
+读爱好者认真地与读者探讨一个严肃的话题。如果可以，我希望在通过我不断地探索，阅读
+能力的持续提升，我还能在此宝地继续这个话题，完善我的理论。
+*** 　　我在下面列出我认为经典优秀的计算机科学书籍，也欢迎大家补充，排名不分先后。
+《算法导论》Thomas H.Cormen、 Charles E.Leiserson
+《深入理解计算机系统》Randal E. Bryant
+《人月神话》Frederick P.Brooks
+《编程珠玑》Jon Bentley
+《高性能MySQL》施瓦茨 (Baron Schwartz)、 扎伊采夫 (Peter Zaitsev)
+《代码大全》Steve McConnell
+《程序员修炼之道:从小工到专家》亨特(Andrew Hunt)、 托马斯(David Thomas)
+** 你所知道的学习方法，都是错的！
+http://kb.cnblogs.com/page/137524/
+来源: 果壳网  发布时间: 2012-04-03 11:05  阅读: 11966 次  推荐: 10   原文链接
+[收藏]
+
+上课的时候记笔记？哪门功课不行，就集中精力专项突击？自习的时候不要晃，选好一个地
+儿安安稳稳地待那儿学习？你还在这样学习吗？不要被骗了：这些被我们奉为良好学习习惯
+的东西，恰恰是冒了学习正道的大不韪。
+　　英文原文：Everything You Thought You Knew About Learning Is Wrong
+　　原文发布于 2012 年 1 月 29 日
+　　文 / Garth Sundem
+　　译 / 小老鼠汪
+
+　　前不久，我有幸采访了加州大学洛杉矶分校 “学习和遗忘实验室” 主任，心理学特聘
+教授 —— 罗伯特 · 比约克(Robert Bjork)。要说往脑子里狂塞东西还不掉出来，比约克就
+是这方面大大的专家。跟比约克谈过后我发现，我所知道的关于学习方法的一切，都是错的！
+
+　　一开始，比约克问我说，当我面前堆了一摞书要啃的时候，我会怎么办。
+　　“人通常会一块儿一块儿地整，” 比约克说， “干完这个再干那个。”
+
+　　正确地学习方法，应该是交换着学，学会儿这个，再学会儿那个。 好比你要练网球的
+发球，你不应该花一个小时的时间苦练发球，而应该把反手击球、截击、扣杀和步法，结合
+起来交换着练。“这就增加了难度，” 比约克说， “而人们往往容易忽略这些不是立竿见
+影的效果。”
+
+　　专注地练一段时间能让你的发球水平有一个明显的提高，而交换着练习则能够使你在很
+多技能上，都往前迈出小小的一步，你几乎无法察觉自己有所提高。然而，随着时间的推移，
+这些小小的进步累积起来，将会比你花同样多的时间，去一项一项单独掌握每一个技能所获
+得的提高多得多。
+
+　　对此，比约克表示，交换练习用得好的话，能让你把各项技能都相应的 “座” 到位。
+“把一个知识点跟记忆中的其他东西联系起来学，这样的学习会更加有效，” 他说。需要
+注意的一点是：交换着练习的这些小技巧，要同属于一个大的技能才行。如果你想学打网球，
+那么你交换着练习的应该是发球、反手击球、截击、扣杀和步法，而不是发球、花样游泳、
+背诵欧洲国家的首都和学习用 Java 编程。
+
+　　同样，只在一个固定的地方学习当然很好，前提是你只需要在那个地方才会用到你学的
+那些东西。如果你想在宿舍、办公室或者图书馆二楼自习室等等以外的地方，也能回忆起你
+所学的知识，比约克建议， 不妨在几个不同的地点换着进行自习 。
+
+　　无论你是学数学、学法语，还是学社交舞步，交替着学和换着地点学都将适用。类似的
+还有一个叫做 “时间间隔效果”（spacing effect），这一概念最初由赫尔曼 · 艾宾浩斯
+（Hermann Ebbinghaus）在 1885 年提出，学习的时候，复习要隔开一段时间，会学得更好。
+
+　　“如果你学了之后不练，研究表明，中间隔的时间越长，你忘的就越多，” 比约克说
+
+　　但有趣的是： 如果你学了之后，隔一段时间再学，这时候你隔的时间越长，复习的时
+候你学到的东西就越多。 比约克表示： “当我们从记忆中提取信息的时候，我们做的不只
+是说它在那里就行了。记忆不仅仅是回放。我们这次取出来了的东西，下次要取的话，取起
+来就会变得更容易。我们每次取的过程越难、涉及的东西越多，整个记忆就越有效。”
+
+　　注意这里所说的是 “我们这次取出来了的东西”（没取出来是没有用的）。所以， 从
+学完到你开始复习的时间，应该是你刚刚好要开始忘记的时候。 这样，你越是拼命地回忆
+之前学过的东西，你复习的效果就会越好。如果你学完之后马上复习，就没有这个效果了。
+
+　　同理，比约克还建议说，笔记最好下课之后才开始记，以强迫自己回忆课上讲过的东西；
+而不是在课堂上记，黑板上有啥抄啥。你必须下苦功才行。你花的工夫越多，你学到的就越
+多，你当然也就越牛。
+　　那么，关于遗忘呢？
+　　“赶紧忘掉你知道的 ‘遗忘’ 的定义吧，”比约克说， “人们通常认为，学习就是
+在记忆里面修东西，而遗忘呢，则是把你修起来的东西给拆了。但在某些方面，反过来说才
+是对的。”
+　　这么说吧，只要是你学过的东西，其实是一直待在你记忆里不会忘的。你还记得你儿时
+好友的电话号码吗？ 记不得了？ 那好，比约克说了，如果这时候提醒你一下，那么你回忆
+起这个电话号码的速度和印象，会比让你重新记一个新的 7 位数电话号码，要迅速和清晰
+得多。所以这个旧的电话号码不是被你忘记了 —— 它一直待在你脑海里的某个地方 —— 只是
+把它取出来有点儿麻烦就是了。我们一直把遗忘当成是学习的死对头，这也算是冤案一桩。
+学习和遗忘的关系有点儿像是共生，实际上遗忘对记忆还有帮助作用.
+　　“人脑有无限的存储量，要是什么都回忆得起那就糟了，” 比约克说， “试想一下，
+你记得你住过的所有地方的所有电话号码，每当有人问你电话号码的时候，你必须把这一长
+串电话号码都给理一遍才行。” 我们忘记旧的电话号码，或者把它们埋于记忆深处，回忆
+够不到的地方，方便我们迅速提取出现在使用的那个电话号码。被你恨得牙痒痒的敌人（我
+就是忘性大），其实更像是默默守在一旁的伙伴（吐槽：防止你因为一直忘不掉以前的糗而
+自绝于寰呀！）。
+
 ** DONE 梁漱溟：学问的境界
    CLOSED: [2017-09-27 三 10:32]
    :LOGBOOK:
@@ -2550,7 +3202,12 @@ http://www.sohu.com/a/139474140_385655?loc=1&focus_pic=0
 木心《上海赋》、《文学回忆录》、《木心谈木心》
 薛忆沩《文学的祖国》、《通往天堂的最后那一段路程》
 * 大数据
-** 大数据时代的思维变革
+** DONE 大数据时代的思维变革
+   CLOSED: [2017-09-30 六 09:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-30 六 09:06]
+   CLOCK: [2017-09-30 六 08:25]--[2017-09-30 六 09:06] =>  0:41
+   :END:
 https://wenku.baidu.com/view/376226a276eeaeaad0f33014.html?re=view
 大数据如今成了一个炙手可热的词汇，成了各行各业的人们热烈谈论的话题。种种迹象表明，
 大数据正向我们扑面而来，世界正急速地被推入大数据时代。因此，许多有识之士都急速呼
@@ -3671,7 +4328,20 @@ Google Car能在高速公路上比99%以上的人都开的更好，但是它碰�
 来的一百年，这三点都有可能被克服，也会给人类带来机会和灾难，但是我们现在真正面临
 的问题还是50%的人可能失业的问题。
 
+** 2014年度辛 星Python教程第一版
+https://wenku.baidu.com/view/d60bbd9ada38376baf1faec7.html
 * 管理
+** 信息技术工程系在线课程
+http://172.16.36.13/moodle/
+** 信息技术工程系综合管理平台
+http://172.16.36.3/redmine/
+** 信息技术工程系ERP
+http://172.16.36.11:8069/zh_CN/
+** 学院办公系统
+http://172.16.22.43:9082/ehome/oaIndex.do#
+** 高效能人士的七个习惯
+http://wenku.baidu.com/link?url=CmXvHhwlRW4w5VMA3J8OOq7BsjmV4aBLounpOvi6-c60h5RhJADEkMuQYk3sgYnXiUnLFFkt9ld52AtMQffYmY1J_tuU-qco4L0h4899GYq
+
 ** DONE 大数据时代，我们如何做教师<2017-09-26 二>
    CLOSED: [2017-09-26 二 15:46]
    :LOGBOOK:
@@ -3837,7 +4507,15 @@ KATHY就是匹兹堡这样的一个教师。在VINCENTIAN高中校，KATHY已经
 
  本文为《《教师教育论坛》约稿文章，转载请注明出处
 魏忠
+** 高效能的个人工作方法
+https://wenku.baidu.com/view/e0cd4514f18583d048645905.html
+** Facebook
+http://kb.cnblogs.com/page/545228/
+
 * 英语单词学习
+** Test your vocab
+How many words do you know?
+http://testyourvocab.com/result?user=9002732
 ** 名词
 *** DONE computer
     CLOSED: [2017-09-26 二 17:13]
@@ -3996,3 +4674,20 @@ shake | BrE ʃeɪk, AmE ʃeɪk |
 学习笔记
 
 [[/Users/Mac/Pictures/IMG_2144.PNG]]
+* 书法及练习
+** DONE practice
+   CLOSED: [2017-09-28 四 09:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-28 四 09:42]
+   CLOCK: [2017-09-28 四 09:16]--[2017-09-28 四 09:42] =>  0:26
+   :END:
+** 灵飞经小楷
+http://www.360doc.com/content/16/0222/21/26707738_536518887.shtml
+* 杂学
+** 一直在说“上善若水”，原来这个才是真正的意思！
+http://www.sohu.com/a/157716108_488223?loc=4&tag_id=60056
+** 千字文全文带拼音(附译文)
+http://www.bangnishouji.com/guoxue/201305/1336.html
+** 王羲之《兰亭序》神龙本高清晰单字版！
+http://blog.sina.com.cn/s/blog_60d27f6d0102dv8z.html
+** 孙过庭书谱 http://www.360doc.com/content/14/0709/10/12074893_393131239.shtml

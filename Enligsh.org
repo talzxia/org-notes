@@ -2187,6 +2187,12 @@ swimsuit and a pink skirt.
    - State "DONE"       from "STARTED"    [2017-07-12 三 05:37]
    CLOCK: [2017-07-12 三 05:20]--[2017-07-12 三 05:37] =>  0:17
    :END:
+** DONE Review<2017-10-01 日 04:34>99.6%
+   CLOSED: [2017-10-01 日 04:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-01 日 04:52]
+   CLOCK: [2017-10-01 日 04:34]--[2017-10-01 日 04:52] =>  0:18
+   :END:
 ** Lesson 9
 
 a chair
@@ -2602,6 +2608,12 @@ Are the young women in a nighclub? No, they are in a shop.
    - State "DONE"       from "STARTED"    [2017-07-12 三 05:56]
    CLOCK: [2017-07-12 三 05:38]--[2017-07-12 三 05:56] =>  0:18
    :END:
+** DONE Review<2017-10-01 日 05:47>99.4%
+   CLOSED: [2017-10-01 日 06:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-01 日 06:07]
+   CLOCK: [2017-10-01 日 05:47]--[2017-10-01 日 06:07] =>  0:20
+   :END:
 ** Lesson 10
 
 a café
@@ -2862,6 +2874,12 @@ Is the table in the kitchen dirty? No, the table in the kitchen is clean.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-07-12 三 06:17]
    CLOCK: [2017-07-12 三 05:57]--[2017-07-12 三 06:17] =>  0:20
+   :END:
+** DONE Review<2017-10-01 日 06:23>98.9%
+   CLOSED: [2017-10-01 日 06:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-01 日 06:44]
+   CLOCK: [2017-10-01 日 06:23]--[2017-10-01 日 06:44] =>  0:21
    :END:
 ** Lesson 11
 
@@ -3307,6 +3325,12 @@ Are grandma and grandad crying? No, grandma and grandad are laughing.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-07-26 三 04:47]
    CLOCK: [2017-07-26 三 04:27]--[2017-07-26 三 04:47] =>  0:20
+   :END:
+** DONE Review<2017-10-01 日 09:07>99.1%
+   CLOSED: [2017-10-01 日 09:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-01 日 09:30]
+   CLOCK: [2017-10-01 日 09:07]--[2017-10-01 日 09:30] =>  0:23
    :END:
 ** Lesson 12
 
@@ -3768,6 +3792,12 @@ Are they brother and sister? No, they are husband and wife.
    - State "DONE"       from "STARTED"    [2017-09-24 日 05:16]
    CLOCK: [2017-09-24 日 04:48]--[2017-09-24 日 05:16] =>  0:28
    :END:
+** DONE Review<2017-10-01 日 15:51>99.0%
+   CLOSED: [2017-10-01 日 16:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-01 日 16:10]
+   CLOCK: [2017-10-01 日 15:51]--[2017-10-01 日 16:10] =>  0:19
+   :END:
 ** Lesson13
 grown-ups
 a child
@@ -4124,6 +4154,12 @@ She twisted a wet towel a
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-07-26 三 05:25]
    CLOCK: [2017-07-26 三 05:06]--[2017-07-26 三 05:25] =>  0:19
+   :END:
+** DONE Review<2017-10-01 日 16:40>98.8%
+   CLOSED: [2017-10-01 日 16:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-01 日 16:59]
+   CLOCK: [2017-10-01 日 16:40]--[2017-10-01 日 16:59] =>  0:19
    :END:
 ** Lesson 14
 
@@ -30405,6 +30441,18 @@ Only the chairman's strong control was able to impart some sense of seriousness 
    - State "DONE"       from "STARTED"    [2017-09-19 Tue 05:31]
    CLOCK: [2017-09-19 Tue 05:12]--[2017-09-19 Tue 05:31] =>  0:19
    :END:
+** DONE Review<2017-09-28 四 05:28>98.7%
+   CLOSED: [2017-09-28 四 05:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-28 四 05:49]
+   CLOCK: [2017-09-28 四 05:28]--[2017-09-28 四 05:49] =>  0:21
+   :END:
+** DONE Review<2017-09-28 四 05:53>99.5%
+   CLOSED: [2017-09-28 四 06:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-28 四 06:13]
+   CLOCK: [2017-09-28 四 05:53]--[2017-09-28 四 06:13] =>  0:20
+   :END:
 ** text
 
    the chest the mouth legs the belly the head arms
@@ -31830,11 +31878,29 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2017-09-17 日 06:02]
    CLOCK: [2017-09-17 日 05:41]--[2017-09-17 日 06:02] =>  0:21
    :END:
+** DONE Review<2017-09-29 五 04:38>98.8%
+   CLOSED: [2017-09-29 五 04:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-29 五 04:59]
+   CLOCK: [2017-09-29 五 04:37]--[2017-09-29 五 04:59] =>  0:22
+   :END:
+** DONE there is a break<2017-09-29 五 05:09>98.6%
+   CLOSED: [2017-09-29 五 05:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-29 五 05:30]
+   CLOCK: [2017-09-29 五 05:00]--[2017-09-29 五 05:25] =>  0:25
+   :END:
+** DONE Review<2017-09-29 五 06:45>99.6%
+   CLOSED: [2017-09-29 五 07:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-29 五 07:07]
+   CLOCK: [2017-09-29 五 06:45]--[2017-09-29 五 07:07] =>  0:22
+   :END:
 ** Lesson forty eight
 
 a ballerina an actor a poet a sculptor a singer a painter
 
-clay canvas a pencil wood paints brushes
+clay canvas a pencil wood paints  brushes
 
 to dance to sculpt to sing to carve to draw to write
 
@@ -32919,8 +32985,26 @@ A child should help his parents.
    - State "DONE"       from "STARTED"    [2017-09-18 一 05:42]
    CLOCK: [2017-09-18 一 05:22]--[2017-09-18 一 05:42] =>  0:20
    :END:
+** DONE Review <2017-09-30 六 03:42>98.6%
+   CLOSED: [2017-09-30 六 04:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-30 六 04:02]
+   CLOCK: [2017-09-30 六 03:42]--[2017-09-30 六 04:02] =>  0:20
+   :END:
+** DONE Review<2017-09-30 六 04:03>98.6%
+   CLOSED: [2017-09-30 六 04:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-30 六 04:23]
+   CLOCK: [2017-09-30 六 04:03]--[2017-09-30 六 04:23] =>  0:20
+   :END:
+** DONE Review<2017-09-30 六 04:42>99.4%
+   CLOSED: [2017-09-30 六 05:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-30 六 05:01]
+   CLOCK: [2017-09-30 六 04:41]--[2017-09-30 六 05:01] =>  0:20
+   :END:
 ** Lesson forty nine
-a city a capital an emblem a building a flag a country
+   a city a capital an emblem a building a flag a country
 
 This woman is a citizen.
 
@@ -32959,7 +33043,7 @@ The man was born in this country. He is a citizen of this country.
 
 These people aren't citizens of this country. They're here on vacation.
 
-Citizens elect the government of their country.
+ Citizens elect the government of their country.
 
 The president lives in the capital.
 
@@ -33410,6 +33494,12 @@ there.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-09-16 六 05:55]
    CLOCK: [2017-09-16 六 05:28]--[2017-09-16 六 05:55] =>  0:27
+   :END:
+** DONE Review<2017-10-01 日 03:58>99.4%
+   CLOSED: [2017-10-01 日 04:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-01 日 04:27]
+   CLOCK: [2017-10-01 日 03:58]--[2017-10-01 日 04:27] =>  0:29
    :END:
 ** Lesson fifty
 

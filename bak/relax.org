@@ -1447,3 +1447,10 @@ bring water from the mountains.
    - State "DONE"       from "STARTED"    [2017-07-08 六 11:30]
    CLOCK: [2017-07-08 六 09:00]--[2017-07-08 六 11:30] =>  2:30
    :END:
+* September
+** DONE Relaxing
+   CLOSED: [2017-09-29 五 11:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-09-29 五 11:20]
+   CLOCK: [2017-09-29 五 10:48]--[2017-09-29 五 11:20] =>  0:32
+   :END:
