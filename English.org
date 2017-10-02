@@ -1974,6 +1974,18 @@ An orange and a banana? No, an orange and a lemon.
    - State "DONE"       from "STARTED"    [2017-07-09 日 06:21]
    CLOCK: [2017-07-09 日 06:04]--[2017-07-09 日 06:21] =>  0:17
    :END:
+** DONE Review<2017-10-02 一 15:39>98.3%
+   CLOSED: [2017-10-02 一 15:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-02 一 15:57]
+   CLOCK: [2017-10-02 一 15:39]--[2017-10-02 一 15:57] =>  0:18
+   :END:
+** DONE Review<2017-10-02 一 16:20>99.8%
+   CLOSED: [2017-10-02 一 16:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-02 一 16:39]
+   CLOCK: [2017-10-02 一 16:20]--[2017-10-02 一 16:39] =>  0:19
+   :END:
 ** Lesson 8
 
 a skirt
@@ -4161,6 +4173,14 @@ She twisted a wet towel a
    - State "DONE"       from "STARTED"    [2017-10-01 日 16:59]
    CLOCK: [2017-10-01 日 16:40]--[2017-10-01 日 16:59] =>  0:19
    :END:
+** DONE Review<2017-10-02 Mon 04:26>99.1%
+   CLOSED: [2017-10-02 Mon 04:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-02 Mon 04:47]
+   CLOCK: [2017-10-02 Mon 04:26]--[2017-10-02 Mon 04:47] =>  0:21
+   :END:
+
+
 ** Lesson 14
 
 dishes
@@ -4578,6 +4598,18 @@ listen to happy music
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-07-26 三 05:45]
    CLOCK: [2017-07-26 三 05:28]--[2017-07-26 三 05:45] =>  0:17
+   :END:
+** DONE Review<2017-10-02 Mon 04:48>98.8%
+   CLOSED: [2017-10-02 Mon 05:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-02 Mon 05:07]
+   CLOCK: [2017-10-02 Mon 04:48]--[2017-10-02 Mon 05:07] =>  0:19
+   :END:
+** DONE Review<2017-10-02 Mon 05:07>99.7%
+   CLOSED: [2017-10-02 Mon 05:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-02 Mon 05:25]
+   CLOCK: [2017-10-02 Mon 05:07]--[2017-10-02 Mon 05:25] =>  0:18
    :END:
 ** Lesson 15
 

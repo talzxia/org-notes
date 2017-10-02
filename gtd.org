@@ -6089,11 +6089,13 @@ to have lunch
    0
 
 ** TODO [#B] Learn Enlish                                             :learn:
-   DEADLINE: <2017-10-02 一 06:50 +1d> SCHEDULED: <2017-10-02 一 05:20 +1d>
+   DEADLINE: <2017-10-03 Tue 06:50 +1d> SCHEDULED: <2017-10-03 Tue 05:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-10-01 日 04:58]
+   :LAST_REPEAT: [2017-10-02 Mon 05:27]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-02 Mon 05:27]
+   CLOCK: [2017-10-02 Mon 04:25]--[2017-10-02 Mon 04:26] =>  0:01
    - State "DONE"       from "STARTED"    [2017-10-01 日 04:58]
    CLOCK: [2017-10-01 日 03:57]--[2017-10-01 日 03:58] =>  0:01
    - State "DONE"       from "STARTED"    [2017-09-30 六 05:02]
@@ -6271,11 +6273,12 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-10-02 一 08:00 +1d>--<2017-10-02 一 08:20 +1d>
+   SCHEDULED: <2017-10-03 二 08:00 +1d>--<2017-10-03 二 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-10-01 日 09:06]
+   :LAST_REPEAT: [2017-10-02 一 15:34]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-02 一 15:34]
    - State "DONE"       from "STARTED"    [2017-10-01 日 09:06]
    CLOCK: [2017-10-01 日 08:44]--[2017-10-01 日 09:06] =>  0:22
    - State "DONE"       from "STARTED"    [2017-09-30 六 08:01]
@@ -6526,13 +6529,17 @@ to have lunch
    :END:
 ** TODO [#B]Handwriting                                         :Handwriting:
    :PROPERTIES:
-   :LAST_REPEAT: [2017-10-01 日 05:34]
+   :LAST_REPEAT: [2017-10-02 一 16:19]
    :END:
-   --<2017-10-02 一 06:40 +1d>
+   --<2017-10-04 三 06:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-09-17 日 07:28]
    :END:
  :LOGBOOK:
+ - State "DONE"       from "STARTED"    [2017-10-02 一 16:19]
+ CLOCK: [2017-10-02 一 15:59]--[2017-10-02 一 16:19] =>  0:20
+ - State "DONE"       from "STARTED"    [2017-10-02 一 06:13]
+ CLOCK: [2017-10-02 一 05:41]--[2017-10-02 一 06:13] =>  0:32
  - State "DONE"       from "STARTED"    [2017-10-01 日 05:34]
  CLOCK: [2017-10-01 日 04:59]--[2017-10-01 日 05:34] =>  0:35
  - State "DONE"       from "STARTED"    [2017-09-30 六 05:44]
@@ -7103,6 +7110,19 @@ to have lunch
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-09-28 四 11:42]
    CLOCK: [2017-09-28 四 11:16]--[2017-09-28 四 11:42] =>  0:26
+   :END:
+
+** DONE [#B] uptata
+   CLOSED: [2017-10-02 Mon 04:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-02 Mon 04:23]
+   :END:
+
+** DONE [#B] relax in nature
+   CLOSED: [2017-10-02 一 15:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-02 一 15:34]
+   CLOCK: [2017-10-02 一 09:27]--[2017-10-02 一 15:34] =>  6:07
    :END:
 
 * Cocos2d-X
