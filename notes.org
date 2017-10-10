@@ -324,6 +324,110 @@
    :END:
    http://wenku.baidu.com/view/8463bd6102020740be1e9ba7.html?re=view&pn=51
 
+** [[http://orgmode.org/org.html][The Org Manual]]
+
+** [[http://www.cnblogs.com/holbrook/archive/2012/04/12/2444992.html#sec-3-1][org-mode: 最好的文档编辑利器，没有之一]]
+** [[http://www.worldhello.net/gotgithub/appendix/markups.html][轻量级标记语言]]
+;* 一级标题
+;** 二级标题
+;*** 三级标题
+
+行尾两个反斜线\\
+保持段落内换行符。
+
+Org-mode式段落缩进：
+
+#+BEGIN_QUOTE
+ 段落缩进。
+#+END_QUOTE
+
+下面是代码块。
+
+#+BEGIN_SRC ruby
+  require 'redcarpet'
+  md = Redcarpet.new("Hello, world.")
+  puts md.to_html
+#+END_SRC
+
+列表语法和Markdown、reST类似。
+星号和列表语法冲突需缩进，不建议使用。
+
+  - 减号、加号开始列表。
+
+    + 列表层级和缩进有关。
+
+      - 和具体符号无关。
+
+  - 返回一级列表。
+
+1. 数字和点或右括号开始有序列表。
+
+   1) 缩进即为子列表。
+
+      1. 三级列表。
+      1. 编号会自动更正。
+
+   2) 二级列表。
+
+2. 返回一级列表。
+
+1. 列表项可以折行，
+   对齐则自动续行。
+
+2. 列表项可包含多个段落。
+
+   空行开始的新段落，
+   新段落和列表项内容对齐即可。
+
+3. 列表下的代码段注意缩进。
+
+   #+BEGIN_SRC bash
+     $ printf "Hello, world.\n"
+   #+END_SRC
+
+- git :: Simple and beautiful.
+- hg :: Another DVCS.
+- subversion :: VCS with many constrains.
+
+                Why not Git?
+
+
+*加粗* /斜体/ +删除线+ 效果 _下划线_ 效果
+
+- Water: H_2 O
+- E = mc^2
+
+行内用字符=或~嵌入代码，如:
+=git status= 和 ~git st~ 。
+
+
+
+- 网址 http://github.com/
+- 邮件 me@foo.bar
+
+- 访问 [[http://google.com][Google]]
+
+- GitHub Logo: [[file:/images/github.png]]
+ - 带链接的图片：
+  [[https://github.com/][file:/images/...]]
+
+#+CAPTION: 示例表格
+#+LABEL: tblref
+   | head1 | head2 | head3 |
+   |-------+-------+-------|
+   | cell  | cell  | cell  |
+   | cell  | cell  | cell  |
+
+# 行首井号是注释。
+
+  #+ 缩进行首用 ``#+`` 标记为注释。
+
+
+  #+BEGIN_COMMENT
+   块注释
+   ...
+  #+END_COMMENT
+
 * DONE \latex
   CLOSED: [2017-09-27 三 20:28]
   :LOGBOOK:

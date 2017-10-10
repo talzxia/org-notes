@@ -14283,6 +14283,12 @@ bake tasty pies.
    - State "DONE"       from "STARTED"    [2017-10-10 Tue 05:51]
    CLOCK: [2017-10-10 Tue 05:23]--[2017-10-10 Tue 05:51] =>  0:28
    :END:
+** DONE Reveiw<2017-10-10 二 19:10>96.8%
+   CLOSED: [2017-10-10 二 20:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-10 二 20:08]
+   CLOCK: [2017-10-10 二 19:10]--[2017-10-10 二 20:08] =>  0:58
+   :END:
 * DONE thirty five 95%
   CLOSED: [2016-07-30 Sat 06:02]
   :LOGBOOK:

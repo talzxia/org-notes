@@ -1936,11 +1936,12 @@ read two books about a hundred pages
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-13 二 11:15]
    :END:
-*** TODO [#A]<2017-10-10 Tue 15:40-17:00 +1w>                        :meeting:
+*** TODO [#A]<2017-10-17 二 15:40-17:00 +1w>                       :meeting:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-10-03 Tue 15:52]
+    :LAST_REPEAT: [2017-10-10 二 16:50]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-10-10 二 16:50]
     - State "DONE"       from "STARTED"    [2017-10-03 Tue 15:52]
     - State "DONE"       from "STARTED"    [2017-09-26 二 16:09]
     - State "DONE"       from "STARTED"    [2017-09-26 二 16:08]
@@ -2476,11 +2477,12 @@ read two books about a hundred pages
    CLOCK: [2017-06-07 Wed 06:09]--[2017-06-07 Wed 06:37] =>  0:28
    :END:
 ** TODO [#B] work                                                 :afternoon:
-   DEADLINE: <2017-10-10 Tue 17:30 .+1d> SCHEDULED: <2017-10-10 Tue 14:00 .+1d>
+   DEADLINE: <2017-10-11 三 17:30 .+1d> SCHEDULED: <2017-10-11 三 14:00 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-10-09 Mon 16:41]
+   :LAST_REPEAT: [2017-10-10 二 16:50]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-10 二 16:50]
    - State "DONE"       from "STARTED"    [2017-10-09 Mon 16:41]
    - State "DONE"       from "STARTED"    [2017-10-08 Sun 18:44]
    CLOCK: [2017-10-08 Sun 14:23]--[2017-10-08 Sun 18:44] =>  4:21
