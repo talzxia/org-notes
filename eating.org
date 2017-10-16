@@ -1328,12 +1328,13 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 15:11]
     CLOCK: [2017-06-05 Mon 11:44]--[2017-06-05 Mon 11:46] =>  0:02
     :END:
-*** STARTED <2017-10-11 三 11:41 +1d>                                 :lunch:
+*** TODO <2017-10-18 三 11:41 +1d>                                    :lunch:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-10-10 二 14:43]
+    :LAST_REPEAT: [2017-10-16 一 14:19]
     :END:
     :LOGBOOK:
-    CLOCK: [2017-10-16 一 11:50]
+    - State "DONE"       from "STARTED"    [2017-10-16 一 14:19]
+    CLOCK: [2017-10-16 一 11:50]--[2017-10-16 一 14:19] =>  2:29
     - State "DONE"       from "STARTED"    [2017-10-10 二 14:43]
     CLOCK: [2017-10-10 二 11:39]--[2017-10-10 二 14:43] =>  3:04
     - State "DONE"       from "STARTED"    [2017-10-09 Mon 16:13]
@@ -1574,11 +1575,13 @@ my daughter fried potatoes with meat and I drink a beer.
     - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:12]
     CLOCK: [2017-06-05 Mon 18:02]--[2017-06-05 Mon 19:12] =>  1:10
     :END:
-*** TODO [#A] <2017-10-11 三 17:33 +1d>                             :dinner:
+*** TODO [#A] <2017-10-12 四 17:33 +1d>                              :dinner:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-10-10 二 19:09]
+    :LAST_REPEAT: [2017-10-16 一 18:43]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-10-16 一 18:43]
+    CLOCK: [2017-10-16 一 17:26]--[2017-10-16 一 18:43] =>  1:17
     - State "DONE"       from "STARTED"    [2017-10-10 二 19:09]
     CLOCK: [2017-10-10 二 16:50]--[2017-10-10 二 19:09] =>  2:19
     - State "DONE"       from "STARTED"    [2017-10-09 Mon 18:58]

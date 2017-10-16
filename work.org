@@ -2939,16 +2939,17 @@ DEADLINE: <2017-10-15 日 11:40 +1d>
    - State "DONE"       from "STARTED"    [2017-06-08 四 09:53]
    CLOCK: [2017-06-08 四 09:35]--[2017-06-08 四 09:43] =>  0:08
    :END:
-** STARTED Give a lecture                                          :training:
+** TODO Give a lecture                                             :training:
    :PROPERTIES:
-   :LAST_REPEAT: [2017-10-09 Mon 16:41]
+   :LAST_REPEAT: [2017-10-16 一 17:03]
    :END:
 
    :PROPERTIES:
    :LAST_REPEAT: [2017-09-25 一 17:30]
    :END:
    :LOGBOOK:
-   CLOCK: [2017-10-16 一 14:20]
+   - State "DONE"       from "STARTED"    [2017-10-16 一 17:03]
+   CLOCK: [2017-10-16 一 13:50]--[2017-10-16 一 17:03] =>  3:13
    - State "DONE"       from "STARTED"    [2017-10-09 Mon 16:41]
    - State "DONE"       from "STARTED"    [2017-10-02 Mon 17:09]
    - State "DONE"       from "STARTED"    [2017-09-25 一 17:30]
@@ -2961,5 +2962,5 @@ DEADLINE: <2017-10-15 日 11:40 +1d>
    - State "STARTED"    from "DONE"       [2017-09-18 一 14:39]
    - State "DONE"       from "STARTED"    [2017-09-18 一 08:13]
    :END:
-SCHEDULED<2017-10-16 Mon 14:10 +1w>DEADLINE<2017-10-16 Mon 17:30 +1w>
+SCHEDULED<2017-10-23 一 14:10 +1w>DEADLINE<2017-10-23 一 17:30 +1w>
 放假<2017-10-09 Mon>
