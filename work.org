@@ -1048,8 +1048,11 @@ Madame Bovary
    CLOCK: [2017-05-02 Tue 14:36]--[2017-05-02 Tue 17:31] =>  2:55
    :END:
 ** DONE Guide the training of students<2017-05-02 Tue 19:15>
-   CLOSED: [2017-05-02 Tue 20:56]
+   CLOSED: [2017-10-16 一 21:15]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-16 一 21:15]
+   - State "STARTED"    from "DONE"       [2017-10-16 一 19:55]
+   CLOCK: [2017-10-16 一 19:55]--[2017-10-16 一 21:15] =>  1:20
    - State "DONE"       from "STARTED"    [2017-05-02 Tue 20:56]
    CLOCK: [2017-05-02 Tue 19:15]--[2017-05-02 Tue 20:56] =>  1:41
    :END:
@@ -2929,7 +2932,7 @@ CLOCK: [2017-06-07 Wed 14:57]--[2017-06-07 Wed 15:09] =>  0:12
 - State "DONE"       from "STARTED"    [2017-06-06 Tue 11:33]
 - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:35]
 :END:
-DEADLINE: <2017-10-15 日 11:40 +1d>
+DEADLINE: <2017-10-17 二 11:40 +1d>
 ** TODO Phone  <2017-06-08 四 >                                       :phone:
    :LOGBOOK:
    - State "STARTED"    from "DONE"       [2017-06-08 四 09:56]
