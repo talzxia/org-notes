@@ -632,9 +632,10 @@ elisp 有两个最基本的条件判断表达式 if 和 cond。使用形式分�
 (or CONDITIONS ...)
 (and CONDITIONS ...)
 (not OBJECT)
-** DONE [[http://ergoemacs.org/emacs/elisp.html][Practical Emacs Lisp]]
-   CLOSED: [2017-10-16 一 19:56]
+** STARTED [[http://ergoemacs.org/emacs/elisp.html][Practical Emacs Lisp]]
    :LOGBOOK:
+   - State "STARTED"    from "DONE"       [2017-10-17 二 14:45]
+   CLOCK: [2017-10-17 二 14:45]--[2017-10-17 二 16:23] =>  1:38
    - State "DONE"       from "STARTED"    [2017-10-16 一 19:56]
    - State "STARTED"    from "DONE"       [2017-10-16 一 18:49]
    CLOCK: [2017-10-16 一 18:49]--[2017-10-16 一 19:24] =>  0:35
