@@ -19784,6 +19784,18 @@ What lays eggs? Chickens lay eggs.
    - State "DONE"       from "STARTED"    [2017-09-06 三 06:15]
    CLOCK: [2017-09-06 三 05:55]--[2017-09-06 三 06:15] =>  0:20
    :END:
+** DONE Review<2017-10-18 三 05:29>95.9%
+   CLOSED: [2017-10-18 三 05:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-18 三 05:52]
+   CLOCK: [2017-10-18 三 05:29]--[2017-10-18 三 05:52] =>  0:23
+   :END:
+** DONE Review<2017-10-18 三 05:53>99.1%
+   CLOSED: [2017-10-18 三 06:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-18 三 06:13]
+   CLOCK: [2017-10-18 三 05:53]--[2017-10-18 三 06:13] =>  0:20
+   :END:
 ** text
 
 *** a cow
