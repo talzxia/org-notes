@@ -17638,6 +17638,12 @@ What is the chef doing ? He's frying a whole chicken.
    - State "DONE"       from "STARTED"    [2017-10-17 二 12:01]
    CLOCK: [2017-10-17 二 11:32]--[2017-10-17 二 12:01] =>  0:29
    :END:
+** DONE Review<2017-10-19 四 05:46>99%
+   CLOSED: [2017-10-19 四 06:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-19 四 06:16]
+   CLOCK: [2017-10-19 四 05:46]--[2017-10-19 四 06:16] =>  0:30
+   :END:
 ** Lesson 38
 a drum film a guitar dance music a voilin
 
@@ -19795,6 +19801,12 @@ What lays eggs? Chickens lay eggs.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-10-18 三 06:13]
    CLOCK: [2017-10-18 三 05:53]--[2017-10-18 三 06:13] =>  0:20
+   :END:
+** DONE Review<2017-10-19 四 05:25>99.1%
+   CLOSED: [2017-10-19 四 05:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-19 四 05:45]
+   CLOCK: [2017-10-19 四 05:25]--[2017-10-19 四 05:45] =>  0:20
    :END:
 ** text
 
