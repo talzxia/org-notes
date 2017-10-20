@@ -557,7 +557,12 @@ let* 和 let 的使用形式完全相同，唯一的区别是在 let* 声明中�
          (area (* pi radix radix)))
     (message "直径为 %.2f 的圆面积是 %.2f" radix area)))
 
-****** lambda 表达式
+****** DONE lambda 表达式
+       CLOSED: [2017-10-20 五 08:51]
+       :LOGBOOK:
+       - State "DONE"       from "STARTED"    [2017-10-20 五 08:51]
+       CLOCK: [2017-10-20 五 08:15]--[2017-10-20 五 08:51] =>  0:36
+       :END:
 
 可能你久闻 lambda 表达式的大名了。其实依我的理解，lambda 表达式相当于其它语言中的匿名函数。比如 perl 里的匿名函数。它的形式和 defun 是完全一样的：
 (lambda (arguments-list)
@@ -579,7 +584,12 @@ lambda 表达式最常用的是作为参数传递给其它函数，比如 mapc�
 (progn
   (setq foo 3)
   (message "Square of %d is %d" foo (* foo foo)))
-****** 条件判断
+****** DONE 条件判断
+       CLOSED: [2017-10-20 五 11:11]
+       :LOGBOOK:
+       - State "DONE"       from "STARTED"    [2017-10-20 五 11:11]
+       CLOCK: [2017-10-20 五 10:56]--[2017-10-20 五 11:11] =>  0:15
+       :END:
 elisp 有两个最基本的条件判断表达式 if 和 cond。使用形式分别如下：
 (if condition
     then
@@ -779,6 +789,246 @@ most-negative-fixnum
    CLOCK: [2017-10-13 Fri 06:07]--[2017-10-13 Fri 06:19] =>  0:12
    :END:
    <2017-10-13 Fri>
+*** DONE Emacs Lisp Basics
+    CLOSED: [2017-10-20 Fri 15:14]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-10-20 Fri 15:14]
+    CLOCK: [2017-10-20 Fri 14:31]--[2017-10-20 Fri 15:14] =>  0:43
+    :END:
+By Xah Lee. Date: 2005-10-30. Last updated: 2017-01-04.
+This page is a short, practical, tutorial of Emacs Lisp the language.
+To evaluate elisp code, for example, type (+ 3 4), then move your cursor to
+after the closing parenthesis, then call eval-last-sexp 【Ctrl+x Ctrl+e】. Emacs
+will evaluate the lisp expression to the left of the cursor.
+
+Alternatively, you can select the lisp code, then Alt+x eval-region.
+Alternatively, you can Alt+x ielm. It will start a interactive elisp command line interface.
+To find the doc string of a function, Alt+x describe-function 【Ctrl+h f】. (If
+the word under cursor is a function, emacs will lookup that by default, saves
+typing.)
+
+
+eval emacs lisp code basics. [see How to Evaluate Emacs Lisp Code]
+**** Printing
+***** ; printing
+(message "hi")
+
+***** ; printing variable values
+(message "Her age is: %d" 16)        ; %d is for number
+(message "Her name is: %s" "Vicky")  ; %s is for string
+(message "My list is: %S" (list 8 2 3))  ; %S is for any lisp expression
+You can see the output in the buffer named “*Messages*”. You can switch to it by Alt+x view-echo-area-messages 【Ctrl+h e】.
+More detail: Emacs Lisp's print, princ, prin1, format, message.
+**** Arithmetic Functions
+(+ 4 5 1)     ;    ⇒ 10
+(- 9 2)       ;    ⇒  7
+(- 9 2 3)     ;    ⇒  4
+(* 2 3)       ;    ⇒  6
+(* 2 3 2)     ;    ⇒ 12
+(/ 7 2)       ;    ⇒  3 (integer part of quotient)
+(/ 7 2.0)     ;    ⇒  3.5
+(% 7 4)       ;    ⇒  3 (mod, remainder)
+(expt 2 3)    ;    ⇒ 8 (power; exponential)
+*WARNING: single digit decimal number such as 2. needs a zero after the dot, like this: 2.0. For example, (/ 7 2.) returns 3, not 3.5.*
+;; 3. is a integer, 3.0 is a float
+(integerp 3.) ; returns t
+(floatp 3.) ; returns nil
+(floatp 3.0) ; returns t
+Function names that end with a “p” often means it return either true or false. (The “p” stands for “predicate”) t means true; nil means false.
+**** Convert String and Numbers
+(string-to-number "3")
+(number-to-string 3)
+You can also use format to convert number to string. [see Elisp: print, princ, prin1, format, message]
+**** (info "(elisp) Numbers")
+**** True, False
+In elisp, the symbol nil is false, anything else is considered true. Also, nil
+is equivalent to the empty list (), so () is also false.
+
+;; all the following are false. They all evaluate to “nil”
+(if nil "yes" "no") ; ⇒ "no"
+(if () "yes" "no") ; ⇒ "no"
+(if '() "yes" "no") ; ⇒ "no"
+(if (list) "yes" "no") ; ⇒ "no", because (list) eval to a empty list, same as ()
+By convention, the symbol t is used for true.
+(if t "yes" "no") ; ⇒ "yes"
+(if 0 "yes" "no") ; ⇒ "yes"
+(if "" "yes" "no") ; ⇒ "yes"
+(if [] "yes" "no") ; ⇒ "yes". The [] is vector of 0 elements
+There is no “boolean datatype” in elisp. Just remember that nil and empty list
+() are false, anything else is true.
+
+**** Boolean Functions
+Here's and and or.
+(and t nil) ; ⇒ nil
+(or t nil) ; ⇒ t
+
+;; can take multiple args
+(and t nil t t t t) ; ⇒ nil
+Comparing numbers:
+(< 3 4) ; less than
+(> 3 4) ; greater than
+
+(<= 3 4) ; less or equal to
+(>= 3 4) ; greater or equal to
+
+(= 3 3)   ; ⇒ t
+(= 3 3.00000000000000001) ; ⇒ t
+
+(/= 3 4) ; not equal. ⇒ t
+**** Comparing strings:
+;; compare string
+(equal "abc" "abc") ; ⇒ t
+
+**** ;; dedicated function for comparing string
+(string-equal "abc" "abc") ; ⇒ t
+
+(string-equal "abc" "Abc") ; ⇒ nil. Case matters
+
+;; can be used to compare string and symbol
+(string-equal "abc" 'abc) ; ⇒ t
+For generic equality test, use equal. It tests if two values have the same datatype and value.
+;; test if two values have the same datatype and value.
+
+(equal 3 3) ; ⇒ t
+(equal 3.0 3.0) ; ⇒ t
+
+(equal 3 3.0) ; ⇒ nil. Because datatype doesn't match.
+
+**** ;; test equality of lists
+(equal '(3 4 5) '(3 4 5))  ; ⇒ t
+(equal '(3 4 5) '(3 4 "5")) ; ⇒ nil
+
+**** ;; test equality of strings
+(equal "e" "e") ; ⇒ t
+
+**** ;; test equality of symbols
+(equal 'abc 'abc) ; ⇒ t
+There's also the function eq, it returns t if the two args are the same Lisp
+object. This is usually not what you want. (eq "e" "e") returns nil.
+
+To test for inequality, the /= is for numbers only, and doesn't work for strings
+and other lisp data. Use not to negate your equality test, like this:
+
+(not (= 3 4)) ; ⇒ t
+(/= 3 4) ; ⇒ t. “/=” is for comparing numbers only
+
+(not (equal 3 4)) ; ⇒ t. General way to test inequality.
+	•	(info "(elisp) Comparison of Numbers")
+	•	(info "(elisp) Equality Predicates")
+even, odd
+(= (% n 2) 0) ; test even
+
+(= (% n 2) 1) ; test odd
+Variables
+Global Variables
+setq is used to set variables. Variables need not be declared, and is global.
+(setq x 1) ; assign 1 to x
+(setq a 3 b 2 c 7) ; assign 3 to a, 2 to b, 7 to c
+Local Variables
+To define local variables, use let. The form is: (let (var1 var2 …) body) where body is (one or more) lisp expressions. The body's last expression's value is returned.
+(let (a b)
+ (setq a 3)
+ (setq b 4)
+ (+ a b)
+) ; returns 7
+Another form of let is this: (let ((var1 val1) (var2 val2) …) body). Example:
+(let ((a 3) (b 4))
+ (+ a b)
+) ; returns 7
+This form lets you set values to variable without using many setq in the body. This form is convenient if you just have a few simple local vars with known values.
+**** (info "(elisp) Variables")
+If Then Else
+The form for “if” expression is: (if test body).
+If you want a “else” part, the form is (if test true_body false_body).
+Examples:
+(if (< 3 2) (message "yes") ) ; does nothing. returns nil
+
+(if (< 3 2) 7 8 ) ; returns 8
+**** (info "(elisp) Control Structures")
+If you do not need a “else” part, you should use the function when instead, because it is more clear. The form is this: (when test expr1 expr2 …). Its meaning is the same as (if test (progn expr1 expr2 …)).
+Block of Expressions
+Sometimes you need to group several expressions together as one single expression. This can be done with progn.
+(progn (message "a") (message "b"))
+;; is equivalent to
+(message "a") (message "b")
+The purpose of (progn …) is similar to a block of code {…} in C-like languages. It is used to group together a bunch of expressions into one single parenthesized expression. Most of the time it's used inside “if”. For example:
+(if something
+    (progn ; true
+    …
+    )
+    (progn ; else
+    …
+    )
+)
+progn returns the last expression in its body.
+(progn 3 4 ) ; ⇒ 4
+(info "(elisp) Sequencing")
+Loop
+Most basic loop in elisp is with while.
+(while test body)
+, where body is one or more lisp expressions.
+(setq x 0)
+
+(while (< x 4)
+  (print (format "number is %d" x))
+  (setq x (1+ x)))
+;; inserts Unicode chars 32 to 126
+(let ((x 32))
+  (while (< x 127)
+    (insert-char x)
+    (setq x (+ x 1))))
+Usually it's better to use dolist or dotimes.
+[see Elisp: Map / Loop Thru List / Vector]
+(info "(elisp) Iteration")
+Break/Exit a Loop
+Elisp: Exit Loop/Function, catch/throw
+Sequence, List, Vector
+Elisp: Sequence: List, Array
+Elisp: Vector
+Elisp: List
+Define a Function
+Basic function definition is of the form:
+(defun function_name (param1 param2 …) "doc_string" body)
+Example:
+(defun myFunction ()
+  "testing"
+  (message "Yay!"))
+When a function is called, the last expression in the function's definition body is returned. (there's no “return statement”.)
+(info "(elisp) Defining Functions")
+Define a Command
+A command is a function that emacs user can call by execute-extended-command 【Alt+x】.
+When a function is also a command, we say that the function is available for interactive use.
+To make a function available for interactive use, add (interactive) right after the doc string.
+Evaluate the following code. Then, you can call it by execute-extended-command 【Alt+x】
+(defun yay ()
+  "Insert “Yay!” at cursor position."
+  (interactive)
+  (insert "Yay!"))
+(info "(elisp) Defining Commands")
+Here is a function definition template that majority of elisp commands follow:
+(defun myCommand ()
+  "One sentence summary of what this command do.
+
+More detailed documentation here."
+  (interactive)
+  (let (localVar1 localVar2 …)
+    ; do something here …
+    ; …
+    ; last expression is returned
+  )
+)
+See also:
+	•	Elisp: Function Optional Parameters
+	•	Elisp: Doc String Markup
+Emacs Lisp Basics Topic
+	1	Emacs Lisp Basics
+	2	Overview of Text-Processing in Emacs Lisp
+	3	Emacs Lisp Examples, page 1
+	4	How to Evaluate Emacs Lisp Code
+	5	Elisp: Documentation Lookup
+	6	Elisp: Search Documentation
+	7	How to Edit Lisp Code with Emacs
+
 ** DONE [[http://www.yiibai.com/lisp/lisp_basic_syntax.html][LISP - 基本语法]]
    CLOSED: [2017-10-18 三 16:16]
    :LOGBOOK:
@@ -1229,6 +1479,345 @@ age, race, or position.）
 为了澄清“黑客”这个概念，他们提出只有传统意义上的黑客才能被称为hacker，而那些恶
 意入侵计算机系统的人应该被称为cracker(入侵者)。这个观点已经在程序员社区中得到普
 遍认同。
+** [[https://learnxinyminutes.com/docs/elisp/][Learn lisp.el]]
+
+;; This gives an introduction to Emacs Lisp in 15 minutes (v0.2d)
+;;
+;; First make sure you read this text by Peter Norvig:
+;; http://norvig.com/21-days.html
+;;
+;; Then install GNU Emacs 24.3:
+;;
+;; Debian: apt-get install emacs (or see your distro instructions)
+;; OSX: http://emacsformacosx.com/emacs-builds/Emacs-24.3-universal-10.6.8.dmg
+;; Windows: http://ftp.gnu.org/gnu/windows/emacs/emacs-24.3-bin-i386.zip
+;;
+;; More general information can be found at:
+;; http://www.gnu.org/software/emacs/#Obtaining
+
+;; Important warning:
+;;
+;; Going through this tutorial won't damage your computer unless
+;; you get so angry that you throw it on the floor.  In that case,
+;; I hereby decline any responsibility.  Have fun!
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;
+;; Fire up Emacs.
+;;
+;; Hit the `q' key to dismiss the welcome message.
+;;
+;; Now look at the gray line at the bottom of the window:
+;;
+;; "*scratch*" is the name of the editing space you are now in.
+;; This editing space is called a "buffer".
+;;
+;; The scratch buffer is the default buffer when opening Emacs.
+;; You are never editing files: you are editing buffers that you
+;; can save to a file.
+;;
+;; "Lisp interaction" refers to a set of commands available here.
+;;
+;; Emacs has a built-in set of commands available in every buffer,
+;; and several subsets of commands available when you activate a
+;; specific mode.  Here we use the `lisp-interaction-mode', which
+;; comes with commands to evaluate and navigate within Elisp code.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;
+;; Semi-colons start comments anywhere on a line.
+;;
+;; Elisp programs are made of symbolic expressions ("sexps"):
+(+ 2 2)
+
+;; This symbolic expression reads as "Add 2 to 2".
+
+;; Sexps are enclosed into parentheses, possibly nested:
+(+ 2 (+ 1 1))
+
+;; A symbolic expression contains atoms or other symbolic
+;; expressions.  In the above examples, 1 and 2 are atoms,
+;; (+ 2 (+ 1 1)) and (+ 1 1) are symbolic expressions.
+
+;; From `lisp-interaction-mode' you can evaluate sexps.
+;; Put the cursor right after the closing parenthesis then
+;; hold down the control and hit the j keys ("C-j" for short).
+
+(+ 3 (+ 1 2))
+;;           ^ cursor here
+;; `C-j' => 6
+
+;; `C-j' inserts the result of the evaluation in the buffer.
+
+;; `C-xC-e' displays the same result in Emacs bottom line,
+;; called the "minibuffer".  We will generally use `C-xC-e',
+;; as we don't want to clutter the buffer with useless text.
+
+;; `setq' stores a value into a variable:
+(setq my-name "Bastien")
+;; `C-xC-e' => "Bastien" (displayed in the mini-buffer)
+
+;; `insert' will insert "Hello!" where the cursor is:
+(insert "Hello!")
+;; `C-xC-e' => "Hello!"
+
+;; We used `insert' with only one argument "Hello!", but
+;; we can pass more arguments -- here we use two:
+
+(insert "Hello" " world!")
+;; `C-xC-e' => "Hello world!"
+
+;; You can use variables instead of strings:
+(insert "Hello, I am " my-name)
+;; `C-xC-e' => "Hello, I am Bastien"
+
+;; You can combine sexps into functions:
+(defun hello () (insert "Hello, I am " my-name))
+;; `C-xC-e' => hello
+
+;; You can evaluate functions:
+(hello)
+;; `C-xC-e' => Hello, I am Bastien
+
+;; The empty parentheses in the function's definition means that
+;; it does not accept arguments.  But always using `my-name' is
+;; boring, let's tell the function to accept one argument (here
+;; the argument is called "name"):
+
+(defun hello (name) (insert "Hello " name))
+;; `C-xC-e' => hello
+
+;; Now let's call the function with the string "you" as the value
+;; for its unique argument:
+(hello "you")
+;; `C-xC-e' => "Hello you"
+
+;; Yeah!
+
+;; Take a breath.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;
+;; Now switch to a new buffer named "*test*" in another window:
+
+(switch-to-buffer-other-window "*test*")
+;; `C-xC-e'
+;; => [screen has two windows and cursor is in the *test* buffer]
+
+;; Mouse over the top window and left-click to go back.  Or you can
+;; use `C-xo' (i.e. hold down control-x and hit o) to go to the other
+;; window interactively.
+
+;; You can combine several sexps with `progn':
+(progn
+  (switch-to-buffer-other-window "*test*")
+  (hello "you"))
+;; `C-xC-e'
+;; => [The screen has two windows and cursor is in the *test* buffer]
+
+;; Now if you don't mind, I'll stop asking you to hit `C-xC-e': do it
+;; for every sexp that follows.
+
+;; Always go back to the *scratch* buffer with the mouse or `C-xo'.
+
+;; It's often useful to erase the buffer:
+(progn
+  (switch-to-buffer-other-window "*test*")
+  (erase-buffer)
+  (hello "there"))
+
+;; Or to go back to the other window:
+(progn
+  (switch-to-buffer-other-window "*test*")
+  (erase-buffer)
+  (hello "you")
+  (other-window 1))
+
+;; You can bind a value to a local variable with `let':
+(let ((local-name "you"))
+  (switch-to-buffer-other-window "*test*")
+  (erase-buffer)
+  (hello local-name)
+  (other-window 1))
+
+;; No need to use `progn' in that case, since `let' also combines
+;; several sexps.
+
+;; Let's format a string:
+(format "Hello %s!\n" "visitor")
+
+;; %s is a place-holder for a string, replaced by "visitor".
+;; \n is the newline character.
+
+;; Let's refine our function by using format:
+(defun hello (name)
+  (insert (format "Hello %s!\n" name)))
+
+(hello "you")
+
+;; Let's create another function which uses `let':
+(defun greeting (name)
+  (let ((your-name "Bastien"))
+    (insert (format "Hello %s!\n\nI am %s."
+                    name       ; the argument of the function
+                    your-name  ; the let-bound variable "Bastien"
+                    ))))
+
+;; And evaluate it:
+(greeting "you")
+
+;; Some functions are interactive:
+(read-from-minibuffer "Enter your name: ")
+
+;; Evaluating this function returns what you entered at the prompt.
+
+;; Let's make our `greeting' function prompt for your name:
+(defun greeting (from-name)
+  (let ((your-name (read-from-minibuffer "Enter your name: ")))
+    (insert (format "Hello!\n\nI am %s and you are %s."
+                    from-name ; the argument of the function
+                    your-name ; the let-bound var, entered at prompt
+                    ))))
+
+(greeting "Bastien")
+
+;; Let's complete it by displaying the results in the other window:
+(defun greeting (from-name)
+  (let ((your-name (read-from-minibuffer "Enter your name: ")))
+    (switch-to-buffer-other-window "*test*")
+    (erase-buffer)
+    (insert (format "Hello %s!\n\nI am %s." your-name from-name))
+    (other-window 1)))
+
+;; Now test it:
+(greeting "Bastien")
+
+;; Take a breath.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;
+;; Let's store a list of names:
+;; If you want to create a literal list of data, use ' to stop it from
+;; being evaluated - literally, "quote" the data.
+(setq list-of-names '("Sarah" "Chloe" "Mathilde"))
+
+;; Get the first element of this list with `car':
+(car list-of-names)
+
+;; Get a list of all but the first element with `cdr':
+(cdr list-of-names)
+
+;; Add an element to the beginning of a list with `push':
+(push "Stephanie" list-of-names)
+
+;; NOTE: `car' and `cdr' don't modify the list, but `push' does.
+;; This is an important difference: some functions don't have any
+;; side-effects (like `car') while others have (like `push').
+
+;; Let's call `hello' for each element in `list-of-names':
+(mapcar 'hello list-of-names)
+
+;; Refine `greeting' to say hello to everyone in `list-of-names':
+(defun greeting ()
+    (switch-to-buffer-other-window "*test*")
+    (erase-buffer)
+    (mapcar 'hello list-of-names)
+    (other-window 1))
+
+(greeting)
+
+;; Remember the `hello' function we defined above?  It takes one
+;; argument, a name.  `mapcar' calls `hello', successively using each
+;; element of `list-of-names' as the argument for `hello'.
+
+;; Now let's arrange a bit what we have in the displayed buffer:
+
+(defun replace-hello-by-bonjour ()
+    (switch-to-buffer-other-window "*test*")
+    (goto-char (point-min))
+    (while (search-forward "Hello")
+      (replace-match "Bonjour"))
+    (other-window 1))
+
+;; (goto-char (point-min)) goes to the beginning of the buffer.
+;; (search-forward "Hello") searches for the string "Hello".
+;; (while x y) evaluates the y sexp(s) while x returns something.
+;; If x returns `nil' (nothing), we exit the while loop.
+
+(replace-hello-by-bonjour)
+
+;; You should see all occurrences of "Hello" in the *test* buffer
+;; replaced by "Bonjour".
+
+;; You should also get an error: "Search failed: Hello".
+;;
+;; To avoid this error, you need to tell `search-forward' whether it
+;; should stop searching at some point in the buffer, and whether it
+;; should silently fail when nothing is found:
+
+;; (search-forward "Hello" nil 't) does the trick:
+
+;; The `nil' argument says: the search is not bound to a position.
+;; The `'t' argument says: silently fail when nothing is found.
+
+;; We use this sexp in the function below, which doesn't throw an error:
+
+(defun hello-to-bonjour ()
+    (switch-to-buffer-other-window "*test*")
+    (erase-buffer)
+    ;; Say hello to names in `list-of-names'
+    (mapcar 'hello list-of-names)
+    (goto-char (point-min))
+    ;; Replace "Hello" by "Bonjour"
+    (while (search-forward "Hello" nil 't)
+      (replace-match "Bonjour"))
+    (other-window 1))
+
+(hello-to-bonjour)
+
+;; Let's boldify the names:
+
+(defun boldify-names ()
+    (switch-to-buffer-other-window "*test*")
+    (goto-char (point-min))
+    (while (re-search-forward "Bonjour \\(.+\\)!" nil 't)
+      (add-text-properties (match-beginning 1)
+                           (match-end 1)
+                           (list 'face 'bold)))
+    (other-window 1))
+
+;; This functions introduces `re-search-forward': instead of
+;; searching for the string "Bonjour", you search for a pattern,
+;; using a "regular expression" (abbreviated in the prefix "re-").
+
+;; The regular expression is "Bonjour \\(.+\\)!" and it reads:
+;; the string "Bonjour ", and
+;; a group of            | this is the \\( ... \\) construct
+;;   any character       | this is the .
+;;   possibly repeated   | this is the +
+;; and the "!" string.
+
+;; Ready?  Test it!
+
+(boldify-names)
+
+;; `add-text-properties' adds... text properties, like a face.
+
+;; OK, we are done.  Happy hacking!
+
+;; If you want to know more about a variable or a function:
+;;
+;; C-h v a-variable RET
+;; C-h f a-function RET
+;;
+;; To read the Emacs Lisp manual with Emacs:
+;;
+;; C-h i m elisp RET
+;;
+;; To read an online introduction to Emacs Lisp:
+;; https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html
+
+
 * 时事政治学习
 
 ** 凤凰网

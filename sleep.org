@@ -552,13 +552,15 @@
    - State "DONE"       from "STARTED"    [2017-06-09 Fri 06:28]
    CLOCK: [2017-06-09 Fri 00:47]--[2017-06-09 Fri 06:28] =>  5:41
    :END:
-** STARTED sleep<2017-10-19 四 +1d>
-   DEADLINE: <2017-10-19 四 22:00 +1d>--<2017-10-19 四 05:00 +1d>
+** STARTED sleep
+   DEADLINE: <2017-10-20 五 22:00 +1d>--<2017-10-20 五 05:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-10-19 四 05:24]
+   :LAST_REPEAT: [2017-10-20 五 04:37]
    :END:
    :LOGBOOK:
-   CLOCK: [2017-10-19 四 21:32]
+   CLOCK: [2017-10-20 五 20:45]
+   - State "DONE"       from "STARTED"    [2017-10-20 五 04:37]
+   CLOCK: [2017-10-19 四 21:32]--[2017-10-20 五 04:37] =>  7:05
    - State "DONE"       from "STARTED"    [2017-10-19 四 05:24]
    CLOCK: [2017-10-18 三 21:26]--[2017-10-19 四 05:24] =>  7:58
    - State "DONE"       from "STARTED"    [2017-10-18 三 05:27]

@@ -1,12 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.2.13)  24 JUN 2017 17:01
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.9.13)  20 OCT 2017 17:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**thesis2.tex
+**\input thesis2.tex
 (./thesis2.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 
 ! LaTeX Error: File `swfcthesis.cls' not found.
 
@@ -19,15 +17,15 @@ Enter file name:
          
 l.2 ^^M
        
-End of file on the terminal!
+*** (cannot \read from terminal in nonstop modes)
 
  
 Here is how much of TeX's memory you used:
- 9 strings out of 493706
- 111 string characters out of 6145769
- 53323 words of memory out of 5000000
- 3449 multiletter control sequences out of 15000+600000
+ 9 strings out of 493005
+ 111 string characters out of 6134596
+ 61634 words of memory out of 5000000
+ 4080 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
- 1328 hyphenation exceptions out of 8191
- 10i,0n,7p,40b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 1348 hyphenation exceptions out of 8191
+ 10i,0n,7p,47b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
 No pages of output.

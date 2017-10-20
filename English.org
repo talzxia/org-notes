@@ -11480,6 +11480,12 @@ The woman is checking her flight on her ticket.
    - State "DONE"       from "STARTED"    [2017-10-08 Sun 08:44]
    CLOCK: [2017-10-08 Sun 08:17]--[2017-10-08 Sun 08:44] =>  0:27
    :END:
+** DONE Review<2017-10-20 五 05:26>99%
+   CLOSED: [2017-10-20 五 05:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-20 五 05:53]
+   CLOCK: [2017-10-20 五 05:26]--[2017-10-20 五 05:53] =>  0:27
+   :END:
 ** Lesson 31
 passport control customs control registration flight a currency exchange booth a
 waiting area
@@ -12177,6 +12183,12 @@ The man is lying on the soft couch because he's watching television.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-10-08 Sun 19:15]
    CLOCK: [2017-10-08 Sun 18:47]--[2017-10-08 Sun 19:15] =>  0:28
+   :END:
+** DONE Review<2017-10-20 五 05:53>98.5%
+   CLOSED: [2017-10-20 五 06:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-20 五 06:21]
+   CLOCK: [2017-10-20 五 05:53]--[2017-10-20 五 06:21] =>  0:28
    :END:
 * DONE Review thirty three 95.3%
   CLOSED: [2016-08-03 Wed 04:53]
