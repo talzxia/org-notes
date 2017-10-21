@@ -6089,11 +6089,13 @@ to have lunch
    0
 
 ** TODO [#B] Learn Enlish                                             :learn:
-   DEADLINE: <2017-10-21 六 06:50 +1d> SCHEDULED: <2017-10-21 六 05:20 +1d>
+   DEADLINE: <2017-10-22 日 06:50 +1d> SCHEDULED: <2017-10-22 日 05:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-10-20 五 06:22]
+   :LAST_REPEAT: [2017-10-21 六 06:04]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-21 六 06:04]
+   CLOCK: [2017-10-21 六 05:07]--[2017-10-21 六 05:08] =>  0:01
    - State "DONE"       from "STARTED"    [2017-10-20 五 06:22]
    - State "DONE"       from "STARTED"    [2017-10-19 四 06:17]
    CLOCK: [2017-10-19 四 05:24]--[2017-10-19 四 05:25] =>  0:01
@@ -6294,11 +6296,12 @@ to have lunch
    :END:
 
 ** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-10-21 六 08:00 +1d>--<2017-10-21 六 08:20 +1d>
+   SCHEDULED: <2017-10-22 日 08:00 +1d>--<2017-10-22 日 08:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-10-20 五 08:00]
+   :LAST_REPEAT: [2017-10-21 六 08:35]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-21 六 08:35]
    - State "DONE"       from "STARTED"    [2017-10-20 五 08:00]
    CLOCK: [2017-10-20 五 07:53]--[2017-10-20 五 08:00] =>  0:07
    - State "DONE"       from "STARTED"    [2017-10-19 四 08:11]
@@ -6578,13 +6581,15 @@ to have lunch
    :END:
 ** TODO [#B]Handwriting                                         :Handwriting:
    :PROPERTIES:
-   :LAST_REPEAT: [2017-10-20 五 06:24]
+   :LAST_REPEAT: [2017-10-21 六 06:42]
    :END:
-   --<2017-10-21 六 06:40 +1d>
+   --<2017-10-22 日 06:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-09-17 日 07:28]
    :END:
  :LOGBOOK:
+ - State "DONE"       from "STARTED"    [2017-10-21 六 06:42]
+ CLOCK: [2017-10-21 六 06:12]--[2017-10-21 六 06:42] =>  0:30
  - State "DONE"       from "STARTED"    [2017-10-20 五 06:24]
  CLOCK: [2017-10-20 五 04:22]--[2017-10-20 五 05:04] =>  0:42
  - State "DONE"       from "STARTED"    [2017-10-19 四 07:02]
@@ -7306,6 +7311,14 @@ to have lunch
    :END:
 苑富乙 北京中关村加一战略新兴人才发展中心
 13331122346
+
+** DONE [#B] take water
+   CLOSED: [2017-10-21 六 13:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-21 六 13:37]
+   CLOCK: [2017-10-21 六 11:04]--[2017-10-21 六 11:46] =>  0:42
+   :END:
+
 * Cocos2d-X
 
 ** DONE [#A] 制定下学期工作目标

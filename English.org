@@ -12190,6 +12190,12 @@ The man is lying on the soft couch because he's watching television.
    - State "DONE"       from "STARTED"    [2017-10-20 五 06:21]
    CLOCK: [2017-10-20 五 05:53]--[2017-10-20 五 06:21] =>  0:28
    :END:
+** DONE Review<2017-10-21 六 05:08>99%
+   CLOSED: [2017-10-21 六 05:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-21 六 05:35]
+   CLOCK: [2017-10-21 六 05:08]--[2017-10-21 六 05:35] =>  0:27
+   :END:
 * DONE Review thirty three 95.3%
   CLOSED: [2016-08-03 Wed 04:53]
   :LOGBOOK:
@@ -13337,6 +13343,12 @@ On the window in the living room hang beautiful, grren drapes.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-10-09 Mon 16:41]
    CLOCK: [2017-10-09 Mon 16:14]--[2017-10-09 Mon 16:41] =>  0:27
+   :END:
+** DONE Review<2017-10-21 六 05:35>98.9%
+   CLOSED: [2017-10-21 六 06:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-21 六 06:03]
+   CLOCK: [2017-10-21 六 05:35]--[2017-10-21 六 06:03] =>  0:28
    :END:
 ** Lesson 33
 a floor a ceiling drapes blinds a fireplace a balcony
