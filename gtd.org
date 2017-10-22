@@ -1652,11 +1652,13 @@ http://wenku.baidu.com/link?url=zacfqqWNFH4MTfgF7YRp3aIy9iqfdHk-3vvqt0_abOaefv7f
    CLOCK: [2016-09-10 六 15:53]--[2016-09-10 六 16:49] =>  0:56
    :END:
 
-** TODO [#B] read Ruby
+** DONE [#B] read Ruby
+CLOSED: [2017-10-22 日 20:43]
    :PROPERTIES:
    :ID:       3927E0ED-93C4-492E-A74D-0820D92B595C
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-22 日 20:43]
    CLOCK: [2016-09-10 六 16:50]--[2016-09-10 六 17:10] =>  0:20
    :END:
 
@@ -6088,12 +6090,15 @@ to have lunch
    :END:
    0
 
-** TODO [#B] Learn Enlish                                             :learn:
-   DEADLINE: <2017-10-22 日 06:50 +1d> SCHEDULED: <2017-10-22 日 05:20 +1d>
+** DONE [#B] Learn Enlish                                            :learn:
+   DEADLINE: <2017-10-24 二 06:50 +1d> SCHEDULED: <2017-10-24 二 05:20 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-10-21 六 06:04]
+   :LAST_REPEAT: [2017-10-22 日 20:44]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-22 日 20:44]
+   - State "DONE"       from "STARTED"    [2017-10-22 Sun 07:22]
+   CLOCK: [2017-10-22 Sun 06:22]--[2017-10-22 Sun 06:24] =>  0:02
    - State "DONE"       from "STARTED"    [2017-10-21 六 06:04]
    CLOCK: [2017-10-21 六 05:07]--[2017-10-21 六 05:08] =>  0:01
    - State "DONE"       from "STARTED"    [2017-10-20 五 06:22]
@@ -6295,12 +6300,13 @@ to have lunch
    - State "DONE"       from "STARTED"    [2017-06-06 Tue 06:09]
    :END:
 
-** TODO clean office                                                    :clean up:
-   SCHEDULED: <2017-10-22 日 08:00 +1d>--<2017-10-22 日 08:20 +1d>
+** DONE clean office                                                    :clean up:
+SCHEDULED: <2017-10-22 日 08:00>--<2017-10-22 日 08:20>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-10-21 六 08:35]
+   :LAST_REPEAT: [2017-10-22 Sun 08:55]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-22 Sun 08:55]
    - State "DONE"       from "STARTED"    [2017-10-21 六 08:35]
    - State "DONE"       from "STARTED"    [2017-10-20 五 08:00]
    CLOCK: [2017-10-20 五 07:53]--[2017-10-20 五 08:00] =>  0:07
@@ -6579,15 +6585,17 @@ to have lunch
    - State "DONE"       from "STARTED"    [2017-06-06 Tue 11:32]
    CLOCK: [2017-06-06 Tue 11:05]--[2017-06-06 Tue 11:32] =>  0:27
    :END:
-** TODO [#B]Handwriting                                         :Handwriting:
+** DONE [#B]Handwriting                                        :Handwriting:
    :PROPERTIES:
-   :LAST_REPEAT: [2017-10-21 六 06:42]
+   :LAST_REPEAT: [2017-10-22 Sun 08:55]
    :END:
-   --<2017-10-22 日 06:40 +1d>
+   --<2017-10-22 日 06:40>
    :PROPERTIES:
    :LAST_REPEAT: [2017-09-17 日 07:28]
    :END:
  :LOGBOOK:
+ - State "DONE"       from "STARTED"    [2017-10-22 Sun 08:55]
+ CLOCK: [2017-10-22 Sun 08:21]--[2017-10-22 Sun 08:55] =>  0:34
  - State "DONE"       from "STARTED"    [2017-10-21 六 06:42]
  CLOCK: [2017-10-21 六 06:12]--[2017-10-21 六 06:42] =>  0:30
  - State "DONE"       from "STARTED"    [2017-10-20 五 06:24]
@@ -6943,7 +6951,7 @@ to have lunch
 4.汶上职业中专来访。
 5.招生宣传安排
 
-** TODO [#A] 一天的工作安排
+** DONE [#A] 一天的工作安排
    :PROPERTIES:
    :LAST_REPEAT: [2017-06-20 二 08:21]
    :END:
@@ -6991,8 +6999,10 @@ to have lunch
    CLOCK: [2017-06-22 Thu 06:27]--[2017-06-22 Thu 08:26] =>  1:59
    :END:
 
-** STARTED [#B] to relax
+** DONE [#B] to relax
+CLOSED: [2017-10-22 日 20:45]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-22 日 20:45]
    CLOCK: [2017-06-25 日 15:42]--[2017-06-25 日 18:05] =>  2:23
    CLOCK: [2017-06-22 Thu 09:17]--[2017-06-23 Fri 08:04] => 22:47
    :END:
@@ -7030,7 +7040,11 @@ to have lunch
    - State "DONE"       from "STARTED"    [2017-07-10 一 06:03]
    :END:
 
-** TODO [#B] 今天14级毕业生返校
+** DONE [#B] 今天14级毕业生返校
+CLOSED: [2017-10-22 日 20:45]
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-10-22 日 20:45]
+:END:
 
 ** DONE [#B] meeting
    CLOSED: [2017-07-12 Wed 11:11]
@@ -7185,8 +7199,10 @@ to have lunch
    CLOCK: [2017-09-19 Tue 05:32]--[2017-09-19 Tue 07:48] =>  2:16
    :END:
 
-** STARTED [#B] updata
+** DONE [#B] updata
+CLOSED: [2017-10-22 日 20:46]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-22 日 20:46]
    CLOCK: [2017-09-28 四 05:22]--[2017-09-28 四 05:28] =>  0:06
    :END:
 
@@ -7230,7 +7246,11 @@ to have lunch
    CLOCK: [2017-10-04 Wed 16:02]--[2017-10-04 Wed 19:22] =>  3:20
    :END:
 
-** TODO [#B] back to yutai and bring the daughter's grandma.
+** DONE [#B] back to yutai and bring the daughter's grandma.
+CLOSED: [2017-10-22 日 20:46]
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-10-22 日 20:46]
+:END:
 
 ** DONE [#B] To make a purchase
    CLOSED: [2017-10-06 Fri 14:16]
@@ -7270,7 +7290,11 @@ to have lunch
 
 信息消费指导意见务虚会
 
-** TODO [#B] meetin
+** DONE [#B] meetin
+CLOSED: [2017-10-22 日 20:46]
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-10-22 日 20:46]
+:END:
 
 ** DONE [#B] 体检<2017-10-17 二>
    CLOSED: [2017-10-17 二 09:15]
@@ -7318,6 +7342,13 @@ to have lunch
    - State "DONE"       from "STARTED"    [2017-10-21 六 13:37]
    CLOCK: [2017-10-21 六 11:04]--[2017-10-21 六 11:46] =>  0:42
    :END:
+
+** DONE [#B] make newgtd.org
+CLOSED: [2017-10-22 日 20:53]
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-10-22 日 20:53]
+CLOCK: [2017-10-22 日 18:50]--[2017-10-22 日 20:53] =>  2:03
+:END:
 
 * Cocos2d-X
 
@@ -7384,7 +7415,11 @@ creat a new lesson
 
   [2017-06-15 四 11:44]
 
-** TODO [#A] 做准备迎接军队检查
+** DONE [#A] 做准备迎接军队检查
+CLOSED: [2017-10-22 日 20:46]
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-10-22 日 20:46]
+:END:
 
   [2017-06-15 四 17:36]
 
