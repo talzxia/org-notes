@@ -118,6 +118,10 @@
 
   [2017-10-12 Thu 19:52]
 
+** Today 21:00upata 13.1beta
+
+  [2017-10-24 二 21:24]
+
 * spacemacs
 ** DONE Spacemacs 使用总结
    CLOSED: [2017-10-03 Tue 17:08]
@@ -438,9 +442,164 @@ Org-mode式段落缩进：
    ...
   #+END_COMMENT
 
-* DONE \latex
-  CLOSED: [2017-09-27 三 20:28]
+** DONE [[https://github.com/emacs-china/Spacemacs-rocks][spacemacs-rocks]]
+   CLOSED: [2017-10-24 二 06:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-24 二 06:41]
+CLOCK: [2017-10-24 二 06:00]--[2017-10-24 二 06:41] =>  0:41
+   :END:
+*** 常见符号所代表的意义如下
+
+M(eta)，在 Mac 下为 Option 键
+s(uper)，在 Mac 环境下为左 Command 键
+S(Shift)
+C(trl)
+*** 光标的移动是编辑器中最常用的操作所以必须熟知。
+
+C-f 为前移一个字符， f 代表 forward。
+C-b 为后移一个字符， b 代表 backward。
+C-p 为上移至前一行， p 代表 previous。
+C-n 为上移至下一行， n 代表 next。
+C-a 为移至行首， a 代表 ahead。
+C-e 为移至行尾， e 代表 end。
+*** 常用的文件操作快捷键组合也必须熟记。
+
+C-x C-f 为打开目标文件， f 代表 find/file
+C-x C-s 为保存当前缓冲区（Buffer）， s 代表 save
+C-x 是 Emacs 的快捷键中常用的前缀命令。这些前缀命令常常代表了一系列有关联的指 令，
+十分重要，请特别牢记。其它常见的还有 C-c, C-h 。打断组合键为 C-g ，它 用于终端取
+消之前的指令。快捷键就是用预先绑定好的方式告诉 Emacs 去执行指定的命令。 （之后会
+介绍到更多有关绑定的内容）
+*** 内置功能
+
+Emacs 功能强大，但是部分功能默认情况下并未开启。下面就有几个例子，
+
+编辑器内显示行号可使用 M-x linum-mode 来开启。
+
+*** 获取帮助
+
+Emacs 是一个富文档编辑器（Self document, extensible editor）而下面的三种方法在学 习 Emacs 的过程中也非常重要。他们分别是，
+
+C-h k 寻找快捷键的帮助信息
+C-h v 寻找变量的帮助信息
+C-h f 寻找函数的帮助信息
+
+在每次编辑配置文件后，刚刚做的修改并不会立刻生效。这时你需要重启编辑器或者重新加
+载配置文件。重新加载配置文件你需要在当前配置文件中使用 M-x load-file 双击两次 回
+车确认默认文件名，或者使用 M-x eval-buffer 去执行当前缓冲区的所有 Lisp 命令。 你
+也可以使用 C-x C-e 来执行某一行的 Lisp 代码。这些可使刚刚修改的配置文件生效。 当
+然你也可以将这些函数绑定为快捷键。
+*** 学习基础 Elisp
+
+请务必完成这篇教程（Learn X in Y Minutes）来了解 Elisp 的使用（阅读时间大约 15 分钟），你也可以在这里找到它的中文版。Emacs Lisp 为一个函数式的语言，所以它全部 功能都是由函数来实现的。
+
+下面为一些简单的例子
+#+BEGIN_SRC emacs-lisp
+ ;; 2 + 2
+(+ 2 2)
+
+;; 2 + 3 * 4
+(+ 2 (* 3 4))
+
+;; 定义变量
+(setq name "username")
+(message name) ; -> "username"
+
+;; 定义函数
+(defun func ()
+  (message "Hello, %s" name))
+
+;; 执行函数
+(func) ; -> Hello, username
+
+;; 设置快捷键
+(global-set-key (kbd "<f1>") 'func)
+
+;; 使函数可直接被调用可添加 (interactive)
+(defun func ()
+  (interactive)
+  (message "Hello, %s" name))
+#+END_SRC
+*** 关于分屏的使用，如果你已经读过 Emacs 自带的教程，现在你应该已经掌握了基本的分屏 操作方法了。关于分屏的更多内容你可以在这里找到。
+
+
+C-x 1 仅保留当前窗口
+C-x 2 将当前窗口分到上边
+C-x 3 将当前窗口分到右边
+
+*** 下面的这些函数可以让你找到不同函数，变量以及快捷键所定义的文件位置。因为非常常用
+所以我们建议将其设置为与查找文档类似的快捷键（如下所示），
+
+
+find-function （ C-h C-f ）
+find-variable （ C-h C-v ）
+find-function-on-key （ C-h C-k ）
+*** 你只需将你的 *.org 文件放入上面所指定的文件夹中就可以开始使用 Agenda 模式了。
+    DEADLINE: <2017-10-24 二 07:00> SCHEDULED: <2017-10-24 二 06:25>
+
+C-c C-s 选择想要开始的时间
+C-c C-d 选择想要结束的时间
+C-c a 可以打开 Agenda 模式菜单并选择不同的可视方式（ r ）
+
+*** Dired Mode
+
+Dired Mode 是一个强大的模式它能让我们完成和文件管理相关的所有操作。
+
+使用 C-x d 就可以进入 Dired Mode，这个模式类似于图形界面系统中的资源管理器。你 可以在其中查看文件和目录的详细信息，对他们进行各种操作，甚至复制粘贴缓冲区中的内 容。下面是一些常用的操作（下面的所有键均需在 Dired Mode 下使用），
+
++ 创建目录
+g 刷新目录
+C 拷贝
+D 删除
+R 重命名
+d 标记删除
+u 取消标记
+x 执行所有的标记
+这里有几点可以优化的地方。第一是删除目录的时候 Emacs 会询问是否递归删除或拷贝， 这也有些麻烦我们可以用下面的配置将其设定为默认递归删除目录（出于安全原因的考虑， 也许你需要保持此行为。所有文中的配置请务必按需配置）。
+
+(setq dired-recursive-deletes 'always)
+(setq dired-recursive-copies 'always)
+第二是，每一次你进入一个回车进入一个新的目录中是，一个新的缓冲区就会被建立。这使 得我们的缓冲区列表中充满了大量没有实际意义的记录。我们可以使用下面的代码，让 Emacs 重用唯一的一个缓冲区作为 Dired Mode 显示专用缓冲区。
+
+(put 'dired-find-alternate-file 'disabled nil)
+
+;; 主动加载 Dired Mode
+;; (require 'dired)
+;; (defined-key dired-mode-map (kbd "RET") 'dired-find-alternate-file)
+
+;; 延迟加载
+(with-eval-after-load 'dired
+    (define-key dired-mode-map (kbd "RET") 'dired-find-alternate-file))
+使用延迟加载可以使编辑器加载速度有所提升。
+
+启用 dired-x 可以让每一次进入 Dired 模式时，使用新的快捷键 C-x C-j 就可以进 入当前文件夹的所在的路径。
+
+(require 'dired-x)
+使用 (setq dired-dwin-target 1) 则可以使当一个窗口（frame）中存在两个分屏 （window）时，将另一个分屏自动设置成拷贝地址的目标。
+
+最后如果你是 Mac OS X 的用户，可以安装 reveal-in-osx-finder 这个插件（你可以在
+这里找到它），它可以将任意文件直接在 Finder 中打开。你想安装这个插件，将其添加至
+第二天的插件列表中即可，下次启动 Emacs 时，它就会自动帮你完成下载。
+*** expand-region
+
+使用同样的方法将 expand-region 添加至我们的插件列表中，重启 Emacs 安装插件。
+
+再为其绑定一个快捷键，
+
+(global-set-key (kbd "C-=") 'er/expand-region)
+使用这个插件可以使我们更方便的选中一个区域。（更多使用方法和文档可以在这里找到）
+
+*** iedit
+
+iedit 是一个可以同时编辑多个区域的插件，它类似 Sublime Text 中的多光标编辑。它的 GitHub 仓库在这里。
+
+我们将其绑定快捷键以便更快捷的使用这个模式（ C-; 为默认快捷键），
+
+(global-set-key (kbd "M-s e") 'iedit-mode)
+我们可以使用 Customized-group 来更改其高亮的背景色，将 highlight 改为 region 。
+*  DONE \latex
   :LOGBOOK:
+  CLOCK: [2017-10-24 二 05:58]--[2017-10-24 二 06:47] =>  0:49
   - State "DONE"       from "STARTED"    [2017-09-27 三 20:28]
   - State "STARTED"    from "DONE"       [2017-09-27 三 19:42]
   CLOCK: [2017-09-27 三 19:42]--[2017-09-27 三 20:28] =>  0:46
@@ -594,8 +753,11 @@ let* 和 let 的使用形式完全相同，唯一的区别是在 let* 声明中�
 (funcall foo "Emacser")                   ; => "Hello, Emacser!"
 lambda 表达式最常用的是作为参数传递给其它函数，比如 mapc。
 **** DONE 控制结构
-CLOSED: [2017-10-23 一 10:50]
+CLOSED: [2017-10-24 二 19:40]
 :LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-10-24 二 19:40]
+- State "STARTED"    from "DONE"       [2017-10-24 二 19:27]
+CLOCK: [2017-10-24 二 19:27]--[2017-10-24 二 19:40] =>  0:13
 - State "DONE"       from "STARTED"    [2017-10-23 一 10:50]
 CLOCK: [2017-10-23 一 10:47]--[2017-10-23 一 10:50] =>  0:03
 :END:
@@ -634,7 +796,12 @@ elisp 有两个最基本的条件判断表达式 if 和 cond。使用形式分�
                  (fib (- n 2))))))
 (fib 10)                                ; => 55
 还有两个宏 when 和 unless，从它们的名字也就能知道它们是作什么用的。使用这两个宏的好处是使代码可读性提高，when 能省去 if 里的 progn 结构，unless 省去条件为真子句需要的的 nil 表达式。
-****** 循环
+****** DONE 循环
+CLOSED: [2017-10-24 二 17:14]
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-10-24 二 17:14]
+CLOCK: [2017-10-24 二 14:40]--[2017-10-24 二 17:09] =>  2:29
+:END:
 循环使用的是 while 表达式。它的形式是：
 (while condition
   body)
@@ -795,7 +962,208 @@ random 可以产生随机数。可以用 (random t) 来产生一个新种子。�
 变量列表
 most-positive-fixnum
 most-negative-fixnum
-** DONE [[http://ergoemacs.org/emacs/elisp.html][Practical Emacs Lisp]]
+** DONE Emacs Lisp 简明教程
+   CLOSED: [2017-10-24 二 08:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-24 二 08:30]
+   CLOCK: [2017-10-24 二 08:01]--[2017-10-24 二 08:30] =>  0:29
+   :END:
+
+这是叶文彬(水木ID: happierbee)写的一份Emacs Lisp的教程, 深入浅出, 非常适合初学者. 文档的TeX代码及PDF文档可在此处下载.
+emacs 的高手不能不会 elisp。但是对于很多人来说 elisp 学习是一个痛苦的历程，至少我是有这样一段经历。因此，我写了这一系列文章，希望能为后来者提供一点捷径。
+一个 Hello World 例子
+基础知识
+基本数据类型之一 ── 数字
+基本数据类型之二 ── 字符和字符串
+基本数据类型之三 ── cons cell 和列表
+基本数据类型之四 ── 数组和序列
+基本数据类型之五 ── 符号
+求值规则
+变量
+函数和命令
+正则表达式
+操作对象之一 ── 缓冲区
+操作对象之二 ── 窗口
+操作对象之三 ── 文件
+操作对象之四 ── 文本
+后记
+*** 一个 Hello World 例子
+
+自从 K&R 以来，hello world 程序历来都是程序语言教程的第一个例子。我也用一个
+hello world 的例子来演示 emacs 里执行 elisp 的环境。下面就是这个语句：
+
+(message "hello world")
+前面我没有说这个一个程序，这是因为，elisp 不好作为可执行方式来运行（当然也不是不
+可能），所有的 elisp 都是运行在 emacs 这个环境下。
+
+首先切换到 *scratch* 缓冲区里，如果当前模式不是 lisp-interaction-mode，用 M-x
+lisp-interaction-mode 先转换到 lisp-interaction-mode。然后输入前面这一行语句。在
+行尾右括号后，按 C-j 键。如果 Minibuffer 里显示 hello world，光标前一行也显示
+"hello world"，那说明你的操作没有问题。我们就可以开始 elisp 学习之旅了。
+
+注：elisp 里的一个完整表达式，除了简单数据类型（如数字，向量），都是用括号括起来，
+称为一个 S-表达式。让 elisp 解释器执行一个 S-表达式除了前一种方法之外，还可以用
+C-x C-e。它们的区别是，C-x C-e 是一个全局按键绑定，几乎可以在所有地方都能用。它
+会将运行返回值显示在 Minibuffer 里。这里需要强调一个概念是返回值和作用是不同的。
+比如前面 message 函数它的作用是在 Minibuffer 里显示一个字符串，但是它的返回值是
+"hello world" 字符串。
+
+*** 基础知识
+
+这一节介绍一下 elisp 编程中一些最基本的概念，比如如何定义函数，程序的控制结构，
+变量的使用和作用域等等。
+
+**** 函数和变量
+***** elisp 中定义一个函数是用这样的形式：
+(defun function-name (arguments-list)
+  "document string"
+  body)
+比如：
+#+BEGIN_SCR lisp-mode
+ (defun hello-world (name)
+  "Say hello to user whose name is NAME."
+  (message "Hello, %s" name))
+#+END_SCR
+
+其中函数的文档字符串是可以省略的。但是建议为你的函数（除了最简单，不作为接口的）都加上文档字符串。这样将来别人使用你的扩展或者别人阅读你的代码或者自己进行维护都提供很大的方便。
+在 emacs 里，当光标处于一个函数名上时，可以用 C-h f 查看这个函数的文档。比如前面这个函数，在 *Help* 缓冲区里的文档是：
+hello-world is a Lisp function.
+#+BEGIN_SCR emacs-lisp
+(hello-world name)
+#+END_SCR
+Say hello to user whose name is name.
+如果你的函数是在文件中定义的。这个文档里还会给出一个链接能跳到定义的地方。
+***** 要运行一个函数，最一般的方式是：
+(function-name arguments-list)
+比如前面这个函数：
+(hello-world "Emacser")                 ; => "Hello, Emacser"
+每个函数都有一个返回值。这个返回值一般是函数定义里的最后一个表达式的值。
+***** elisp 里的变量使用无需象 C 语言那样需要声明，你可以用 setq 直接对一个变量赋值。
+(setq foo "I'm foo")                    ; => "I'm foo"
+(message foo)                           ; => "I'm foo"
+和函数一样，你可以用 C-h v 查看一个变量的文档。比如当光标在 foo 上时用 C-h v 时，文档是这样的：
+foo's value is "I'm foo"
+
+Documentation:
+Not documented as a variable.
+***** 有一个特殊表达式（special form）defvar，它可以声明一个变量，一般的形式是：
+(defvar variable-name value
+  "document string")
+它与 setq 所不同的是，如果变量在声明之前，这个变量已经有一个值的话，用 defvar 声明的变量值不会改变成声明的那个值。另一个区别是 defvar 可以为变量提供文档字符串，当变量是在文件中定义的话，C-h v 后能给出变量定义的位置。比如：
+(defvar foo "Did I have a value?"
+  "A demo variable")                    ; => foo
+foo                                     ; => "I'm foo"
+(defvar bar "I'm bar"
+  "A demo variable named \"bar\"")      ; => bar
+bar                                     ; => "I'm bar"
+用 C-h v 查看 foo 的文档，可以看到它已经变成：
+foo's value is "I'm foo"
+
+Documentation:
+A demo variable
+由于 elisp 中函数是全局的，变量也很容易成为全局变量（因为全局变量和局部变量的赋值都是使用 setq 函数），名字不互相冲突是很关键的。所以除了为你的函数和变量选择一个合适的前缀之外，用 C-h f 和 C-h v 查看一下函数名和变量名有没有已经被使用过是很关键的。
+***** 局部作用域的变量
+如果没有局部作用域的变量，都使用全局变量，函数会相当难写。elisp 里可以用 let 和 let* 进行局部变量的绑定。let 使用的形式是：
+(let (bindings)
+  body)
+bingdings 可以是 (var value) 这样对 var 赋初始值的形式，或者用 var 声明一个初始值为 nil 的变量。比如：
+(defun circle-area (radix)
+  (let ((pi 3.1415926)
+        area)
+    (setq area (* pi radix radix))
+    (message "直径为 %.2f 的圆面积是 %.2f" radix area)))
+(circle-area 3)
+C-h v 查看 area 和 pi 应该没有这两个变量。
+let* 和 let 的使用形式完全相同，唯一的区别是在 let* 声明中就能使用前面声明的变量，比如：
+(defun circle-area (radix)
+  (let* ((pi 3.1415926)
+         (area (* pi radix radix)))
+    (message "直径为 %.2f 的圆面积是 %.2f" radix area)))
+**** lambda 表达式
+可能你久闻 lambda 表达式的大名了。其实依我的理解，lambda 表达式相当于其它语言中的匿名函数。比如 perl 里的匿名函数。它的形式和 defun 是完全一样的：
+(lambda (arguments-list)
+  "documentation string"
+  body)
+调用 lambda 方法如下：
+(funcall (lambda (name)
+           (message "Hello, %s!" name)) "Emacser")
+你也可以把 lambda 表达式赋值给一个变量，然后用 funcall 调用：
+(setq foo (lambda (name)
+            (message "Hello, %s!" name)))
+(funcall foo "Emacser")                   ; => "Hello, Emacser!"
+lambda 表达式最常用的是作为参数传递给其它函数，比如 mapc。
+**** 控制结构
+***** 顺序执行
+一般来说程序都是按表达式顺序依次执行的。这在 defun 等特殊环境中是自动进行的。但是一般情况下都不是这样的。比如你无法用 eval-last-sexp 同时执行两个表达式，在 if 表达式中的条件为真时执行的部分也只能运行一个表达式。这时就需要用 progn 这个特殊表达式。它的使用形式如下：
+(progn A B C ...)
+它的作用就是让表达式 A, B, C 顺序执行。比如：
+(progn
+  (setq foo 3)
+  (message "Square of %d is %d" foo (* foo foo)))
+***** 条件判断
+elisp 有两个最基本的条件判断表达式 if 和 cond。使用形式分别如下：
+(if condition
+    then
+  else)
+
+(cond (case1 do-when-case1)
+      (case2 do-when-case2)
+      ...
+      (t do-when-none-meet))
+使用的例子如下：
+(defun my-max (a b)
+  (if (> a b)
+      a b))
+(my-max 3 4)                            ; => 4
+
+(defun fib (n)
+  (cond ((= n 0) 0)
+        ((= n 1) 1)
+        (t (+ (fib (- n 1))
+                 (fib (- n 2))))))
+(fib 10)                                ; => 55
+还有两个宏 when 和 unless，从它们的名字也就能知道它们是作什么用的。使用这两个宏的好处是使代码可读性提高，when 能省去 if 里的 progn 结构，unless 省去条件为真子句需要的的 nil 表达式。
+***** 循环
+循环使用的是 while 表达式。它的形式是：
+(while condition
+  body)
+比如：
+(defun factorial (n)
+  (let ((res 1))
+    (while (> n 1)
+      (setq res (* res n)
+            n (- n 1)))
+    res))
+(factorial 10)                          ; => 3628800
+**** 逻辑运算
+条件的逻辑运算和其它语言都是很类似的，使用 and、or、not。and 和 or 也同样具有短路性质。很多人喜欢在表达式短时，用 and 代替 when，or 代替 unless。当然这时一般不关心它们的返回值，而是在于表达式其它子句的副作用。比如 or 经常用于设置函数的缺省值，而 and 常用于参数检查：
+(defun hello-world (&optional name)
+  (or name (setq name "Emacser"))
+  (message "Hello, %s" name))           ; => hello-world
+(hello-world)                           ; => "Hello, Emacser"
+(hello-world "Ye")                      ; => "Hello, Ye"
+
+(defun square-number-p (n)
+  (and (>= n 0)
+       (= (/ n (sqrt n)) (sqrt n))))
+(square-number-p -1)                    ; => nil
+(square-number-p 25)                    ; => t
+**** 函数列表
+(defun NAME ARGLIST [DOCSTRING] BODY...)
+(defvar SYMBOL &optional INITVALUE DOCSTRING)
+(setq SYM VAL SYM VAL ...)
+(let VARLIST BODY...)
+(let* VARLIST BODY...)
+(lambda ARGS [DOCSTRING] [INTERACTIVE] BODY)
+(progn BODY ...)
+(if COND THEN ELSE...)
+(cond CLAUSES...)
+(when COND BODY ...)
+(unless COND BODY ...)
+(when COND BODY ...)
+(or CONDITIONS ...)
+(and CONDITIONS ...)
+(not OBJECT)** DONE [[http://ergoemacs.org/emacs/elisp.html][Practical Emacs Lisp]]
 CLOSED: [2017-10-22 日 21:06]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-10-22 日 21:06]
