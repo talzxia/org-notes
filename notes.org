@@ -1442,7 +1442,12 @@ Emacs Lisp Basics Topic
    - State "DONE"       from "STARTED"    [2017-10-11 三 10:23]
    CLOCK: [2017-10-11 三 08:33]--[2017-10-11 三 10:23] =>  1:50
    :END:
-*** 概述介绍
+*** DONE 概述介绍
+CLOSED: [2017-10-26 四 08:57]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-10-26 四 08:57]
+    CLOCK: [2017-10-26 四 08:26]--[2017-10-26 四 08:57] =>  0:31
+    :END:
 
 约翰·麦卡锡发明LISP于1958年，FORTRAN语言的发展后不久。首次由史蒂夫·拉塞尔实施在
 IBM704计算机上。
@@ -1975,17 +1980,17 @@ age, race, or position.）
   ;; `C-xC-e' => "Bastien" (displayed in the mini-buffer)
 
   ;; `insert' will insert "Hello!" where the cursor is:
-  (insert "Hello!")
+  (insert "Hello!")Hello!
   ;; `C-xC-e' => "Hello!"
 
   ;; We used `insert' with only one argument "Hello!", but
   ;; we can pass more arguments -- here we use two:
 
-  (insert "Hello" " world!")
+  (insert "Hello" " world!")Hello world!
   ;; `C-xC-e' => "Hello world!"
 
   ;; You can use variables instead of strings:
-  (insert "Hello, I am " my-name)
+  (insert "Hello, I am " my-name)Hello, I am Bastien
   ;; `C-xC-e' => "Hello, I am Bastien"
 
   ;; You can combine sexps into functions:
@@ -1993,7 +1998,7 @@ age, race, or position.）
   ;; `C-xC-e' => hello
 
   ;; You can evaluate functions:
-  (hello)
+  (hello)Hello, I am Bastien
   ;; `C-xC-e' => Hello, I am Bastien
 
   ;; The empty parentheses in the function's definition means that
@@ -2006,7 +2011,7 @@ age, race, or position.）
 
   ;; Now let's call the function with the string "you" as the value
   ;; for its unique argument:
-  (hello "you")
+  (hello "you")Hello you
   ;; `C-xC-e' => "Hello you"
 
   ;; Yeah!
@@ -2070,7 +2075,7 @@ age, race, or position.）
   (defun hello (name)
     (insert (format "Hello %s!\n" name)))
 
-  (hello "you")
+  (hello "you")Hello you
 
   ;; Let's create another function which uses `let':
   (defun greeting (name)
@@ -2081,7 +2086,9 @@ age, race, or position.）
                       ))))
 
   ;; And evaluate it:
-  (greeting "you")
+  (greeting "you")Hello you!
+
+I am Bastien.
 
   ;; Some functions are interactive:
   (read-from-minibuffer "Enter your name: ")
@@ -2096,7 +2103,9 @@ age, race, or position.）
                       your-name ; the let-bound var, entered at prompt
                       ))))
 
-  (greeting "Bastien")
+  (greeting "Bastien")Hello Bastien!
+
+I am Bastien.
 
   ;; Let's complete it by displaying the results in the other window:
   (defun greeting (from-name)
@@ -2132,7 +2141,7 @@ age, race, or position.）
   ;; side-effects (like `car') while others have (like `push').
 
   ;; Let's call `hello' for each element in `list-of-names':
-  (mapcar 'hello list-of-names)
+  (mapcar 'hello list-of-names)Hello SarahHello ChloeHello Mathilde
 
   ;; Refine `greeting' to say hello to everyone in `list-of-names':
   (defun greeting ()
@@ -3268,18 +3277,15 @@ age, race, or position.）
 有效的社会治理、良好的社会秩序，使人民获得感、幸福感、安全感更加充实、更有保障、
 更可持续。
 
-****  　 (一)优先发展教育事业。
+**** DONE 　 (一)优先发展教育事业。
+CLOSED: [2017-10-26 四 11:26]
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-10-26 四 11:26]
+CLOCK: [2017-10-26 四 10:27]--[2017-10-26 四 11:26] =>  0:59
+:END:
 
-建设教育强国是中华民族伟大复兴的基础工程，
-必须把教育事业放在优先位置，加快教育现代化，办好人民满意的教育。要全面贯彻党的教
-育方针，落实立德树人根本任务，发展素质教育，推进教育公平，培养德智体美全面发展的
-社会主义建设者和接班人。推动城乡义务教育一体化发展，高度重视农村义务教育，办好学
-前教育、特殊教育和网络教育，普及高中阶段教育，努力让每个孩子都能享有公平而有质量
-的教育。完善职业教育和培训体系，深化产教融合、校企合作。加快一流大学和一流学科建
-设，实现高等教育内涵式发展。健全学生资助制度，使绝大多数城乡新增劳动力接受高中阶
-段教育、更多接受高等教育。支持和规范社会力量兴办教育。加强师德师风建设，培养高素
-质教师队伍，倡导全社会尊师重教。办好继续教育，加快建设学习型社会，大力提高国民素
-质。
+建设教育强国是中华民族伟大复兴的基础工程，必须把教育事业放在优先位置，加快教育现代化，办好人民满意的教育。要全面贯彻党的教育方针，落实立德树人根本任务，发展素质教育，推进教育公平，培养德智体美全面发展的社会主义建设者和接班人。推动城乡义务教育一体化发展，高度重视农村义务教育，办好学前教育、特殊教育和网络教育，普及高中阶段教育，努力让每个孩子都能享有公平而有质量的教育。完善职业教育和培训体系，*深化产教融合、校企合作。*加快一流大学和一流学科建设，实现高等教育内涵式发展。健全学生资助制度，使绝大多数城乡新增劳动力接受高中阶段教育、更多接受高等教育。支持和规范社会力量兴办教育。加强师德师风建设，培养高素质教师队伍，倡导全社会尊师重教。办好继续教育，加快建设学习型社会，大力提高国民素质。
+
 
 ****  　 (二)提高就业质量和人民收入水平。
 
@@ -9253,3 +9259,22 @@ dkkdkkdkdkdkdkkkd
 dkkdkkdkdkdkdkkkd
 dkkdkkdkdkdkdkkkd
 dkkdkkdkdkdkdkkkd
+* 文档
+** DONE 信息技术工程系简介
+   CLOSED: [2017-10-27 Fri 10:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-10-27 Fri 10:32]
+   CLOCK: [2017-10-27 Fri 09:26]--[2017-10-27 Fri 10:32] =>  1:06
+   :END:
+*** 基本情况
+信息技术工程系经过名校建设和发展，建成了全新的实训实验平台，有实训终端近300台。
+建有andride 及IOS开发机房，物联网开发实训室，拥有云技术中心，全体教师经过培训，
+正从传统计算机教育转向大数据、云技术、人工智能。近年来，教学及管理围绕企业正在和
+将要用到的技术进行，先后在学生管理及教学中应用了企业级丁丁管理手机软件，项目化管
+理平台、在线教育平台、ERP平台等。在大数据建设、云技术应用及管理平台使用上积累了
+宝贵的实践经验。随着新技术人才需求地激增，招生也成倍增长，15年300人，16年400人，
+17年近600人。
+*** 下一步发展思路
+重点建设和推广云技术、大数据管理与应用、人工智能的应用。以建设教学及示范的大数据、
+云技术中心、人工智能的应用示范中心为目标，服务于泰安学校、社区、及中小企业。形式
+上建成智能化物联网大楼，起引领示范作用。
