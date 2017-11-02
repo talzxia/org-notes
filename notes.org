@@ -714,6 +714,24 @@ CLOSED: [2017-10-22 Sun 09:26]
    - State "DONE"       from "STARTED"    [2017-10-19 四 11:57]
    CLOCK: [2017-10-19 四 09:06]--[2017-10-19 四 11:24] =>  2:18
    :END:
+这是叶文彬(水木ID: happierbee)写的一份Emacs Lisp的教程, 深入浅出, 非常适合初学者. 文档的TeX代码及PDF文档可在此处下载.
+emacs 的高手不能不会 elisp。但是对于很多人来说 elisp 学习是一个痛苦的历程，至少我是有这样一段经历。因此，我写了这一系列文章，希望能为后来者提供一点捷径。
+一个 Hello World 例子
+基础知识
+基本数据类型之一 ── 数字
+基本数据类型之二 ── 字符和字符串
+基本数据类型之三 ── cons cell 和列表
+基本数据类型之四 ── 数组和序列
+基本数据类型之五 ── 符号
+求值规则
+变量
+函数和命令
+正则表达式
+操作对象之一 ── 缓冲区
+操作对象之二 ── 窗口
+操作对象之三 ── 文件
+操作对象之四 ── 文本
+后记
 *** DONE 基础知识
 CLOSED: [2017-10-22 日 10:32]
 :LOGBOOK:
@@ -1706,6 +1724,425 @@ my-subseq 函数的定义
 绍。elisp 里用到这样的环状列表并不多见，但是也不是没有，org 和 session 那个 bug
 就是由于一个环状列表造成的。
 
+*** DONE 基本数据类型之五 ── 符号
+    CLOSED: [2017-11-02 四 10:00]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-11-02 四 10:00]
+    CLOCK: [2017-11-02 四 09:15]--[2017-11-02 四 10:00] =>  0:45
+    :END:
+    符号是有名字的对象。可能这么说有点抽象。作个不恰当的比方，符号可以看作是 C
+    语言里的指针。
+
+过符号你可以得到和这个符号相关联的信息，比如值，函数，属性列表等等。
+
+首先必须知道的是符号的命名规则。符号名字可以含有任何字符。大多数的符号名字只含有
+字母、数字和标点“-+=*/”。这样的名字需要其它标点。名字前缀要足够把符号名和数字
+区分开来，如果需要的话，可以在前面用 \ 表示为符号，比如：
+
+(symbolp '+1)                           ; => nil
+(symbolp '\+1)                          ; => t
+(symbol-name '\+1)                      ; => "+1"
+其它字符 _~!@$%^&amp;:<>{}? 用的比较少。但是也可以直接作为符号的名字。任何其它字
+符都可以用 \ 转义后用在符号名字里。是和字符串里字符表示不同，\ 转义后只是表示其
+后的字符，比如 \t 代表的字符 t，而不是制表符。如果要在符号名里使用制表符，必须在
+\ 后加上制表符本身。
+
+符号名是区分大小写的。这里有一些符号名的例子：
+foo                 ; 名为 `foo' 的符号
+FOO                 ; 名为 `FOO' 的符号，和 `foo' 不同
+char-to-string      ; 名为 `char-to-string' 的符号
+1+                  ; 名为 `1+' 的符号 (不是整数 `+1')
+\+1                 ; 名为 `+1' 的符号 (可读性很差的名字)
+\(*\ 1\ 2\)         ; 名为 `(* 1 2)' 的符号 (更差劲的名字).
++-*/_~!@$%^&=:<>{}  ; 名为 `+-*/_~!@$%^&=:<>{}' 的符号.
+                    ;   这些字符无须转义
+**** 创建符号
+
+一个名字如何与数据对应上呢？这就要了解一下符号是如何创建的了。符号名要有唯一性，
+所以一定会有一个表与名字关联，这个表在 elisp 里称为 obarray。从这个名字可以看出
+这个表是用数组类型，事实上是一个向量。当 emacs 创建一个符号时，首先会对这个名字
+求 hash 值以得到一个在 obarray 这个向量中查找值所用的下标。hash 是查找字符串的很
+有效的方法。这里强调的是obarray 不是一个特殊的数据结构，就是一个一般的向量。全局
+变量 obarray里 emacs 所有变量、函数和其它符号所使用的 obarray（注意不同语境中
+obarray 的含义不同。前一个 obarray 是变量名，后一个 obarray 是数据类型名）。也可
+以自己建立向量，把这个向量作为 obarray 来使用。这是一种代替散列的一种方法。它比
+直接使用散列有这样一些好处：
+
+符号不仅可以有一个值，还可以用属性列表，后者又可以相当于一个关联列表。这样有很高
+的扩展性，而且可以表达更高级的数据结构。
+
+emacs 里有一些函数可以接受 obarray 作为参数，比如补全相关的函数。
+
+当 lisp 读入一个符号时，通常会先查找这个符号是否在 obarray 里出现过，如果没有则
+会把这个符号加入到 obarray 里。这样查找并加入一个符号的过程称为是 intern。intern
+函数可以查找或加入一个名字到 obarray 里，返回对应的符号。默认是全局的obarray，也
+可以指定一个 obarray。intern-soft 与 intern 不同的是，当名字不在 obarray 里时，
+intern-soft 会返回 nil，而 intern 会加入到 obarray里。为了不污染 obarray，我下面
+的例子中尽量在 foo 这个 obarray 里进行。一般来说，去了 foo 参数，则会在 obarray
+里进行。其结果应该是相同的：
+
+(setq foo (make-vector 10 0))           ; => [0 0 0 0 0 0 0 0 0 0]
+(intern-soft "abc" foo)                 ; => nil
+(intern "abc" foo)                      ; => abc
+(intern-soft "abc" foo)                 ; => abc
+lisp 每读入一个符号都会 intern 到 obarray 里，如果想避免，可以用在符号名前加上 #:：
+(intern-soft "abc")                     ; => nil
+'abc                                    ; => abc
+(intern-soft "abc")                     ; => abc
+(intern-soft "abcd")                    ; => nil
+'#:abcd                                 ; => abcd
+(intern-soft "abcd")                    ; => nil
+如果想除去 obarray 里的符号，可以用 unintern 函数。unintern 可以用符号名或符号作
+参数在指定的 obarray 里去除符号，成功去除则返回 t，如果没有查找到对应的符号则返
+回 nil：
+
+(intern-soft "abc" foo)                 ; => abc
+(unintern "abc" foo)                    ; => t
+(intern-soft "abc" foo)                 ; => nil
+和 hash-table 一样，obarray 也提供一个 mapatoms 函数来遍历整个 obarray。比如要计
+算 obarray 里所有的符号数量：
+
+(setq count 0)                          ; => 0
+(defun count-syms (s)
+  (setq count (1+ count)))              ; => count-syms
+(mapatoms 'count-syms)                  ; => nil
+count                                   ; => 28371
+(length obarray)                        ; => 1511
+***** 思考题
+由前面的例子可以看出elisp 中的向量长度都是有限的，而 obarray 里的符号有成千上万
+个。那这些符号是怎样放到 obarray 里的呢？
+
+**** 符号的组成
+每个符号可以对应四个组成部分，一是符号的名字，可以用 symbol-name 访问。二是符号
+的值。符号的值可以通过 set 函数来设置，用 symbol-value 来访问。
+
+(set (intern "abc" foo) "I'm abc")      ; => "I'm abc"
+(symbol-value (intern "abc" foo))       ; => "I'm abc"
+可能大家最常见到 setq 函数，而 set 函数确很少见到。setq 可以看成是一个宏，它可以
+让你用 (setq sym val) 代替 (set (quote sym) val)。事实上这也是它名字的来源 (q 代
+表 quoted)。但是 setq 只能设置 obarray 里的变量，前面这个例子中就只能用 set 函数。
+
+***** 思考题
+参考 assoc-default 的代码，写一个函数从一个关联列表中除去一个关键字对应的元素。
+这个函数可以直接修改关联列表符号的值。要求可以传递一个参数作为测试关键字是否相同
+的函数。比如：
+
+(setq foo '((?a . a) (?A . c) (?B . d)))
+(remove-from-list 'foo ?b 'char-equal)  ; => ((97 . a) (65 . c))
+foo                                     ; => ((97 . a) (65 . c))
+如果一个符号的值已经有设置过的话，则 boundp 测试返回 t，否则为 nil。对于 boundp
+测试返回 nil 的符号，使用符号的值会引起一个变量值为 void 的错误。
+
+符号的第三个组成部分是函数。它可以用 symbol-function 来访问，用 fset 来设置
+(fset (intern "abc" foo) (symbol-function 'car)) ; => #<subr car>
+(funcall (intern "abc" foo) '(a . b))            ; => a
+类似的，可以用 fboundp 测试一个符号的函数部分是否有设置。
+符号的第四个组成部分是属性列表(property list)。通常属性列表用于存储和符号相关的
+信息，比如变量和函数的文档，定义的文件名和位置，语法类型。属性名和值可以是任意的
+lisp 对象，但是通常名字是符号，可以用 get 和 put 来访问和修改属性值，用
+symbol-plist 得到所有的属性列表：
+
+(put (intern "abc" foo) 'doc "this is abc")      ; => "this is abc"
+(get (intern "abc" foo) 'doc)                    ; => "this is abc"
+(symbol-plist (intern "abc" foo))                ; => (doc "this is abc")
+关联列表和属性列表很相似。符号的属性列表在内部表示上是用(prop1 value1 prop2
+value2 ...) 的形式，和关联列表也是很相似的。属性列表在查找和这个符号相关的信息时，
+要比直接用关联列表要简单快捷的多。所以变量的文档等信息都是放在符号的属性列表里。
+但是关联表在头端加入元素是很快的，而且它可以删除表里的元素。而属性列表则不能删除
+一个属性。
+
+如果已经把属性列表取出，那么还可以用 plist-get 和 plist-put 的方法来访问和设置属
+性列表
+
+(plist-get '(foo 4) 'foo)               ; => 4
+(plist-get '(foo 4 bad) 'bar)           ; => nil
+(setq my-plist '(bar t foo 4))          ; => (bar t foo 4)
+(setq my-plist (plist-put my-plist 'foo 69)) ; => (bar t foo 69)
+(setq my-plist (plist-put my-plist 'quux '(a))) ; => (bar t foo 69 quux (a))
+***** 思考题
+你能不能用已经学过的函数来实现 plist-get 和 plist-put？
+**** 函数列表
+(symbolp OBJECT)
+(intern-soft NAME &optional OBARRAY)
+(intern STRING &optional OBARRAY)
+(unintern NAME &optional OBARRAY)
+(mapatoms FUNCTION &optional OBARRAY)
+(symbol-name SYMBOL)
+(symbol-value SYMBOL)
+(boundp SYMBOL)
+(set SYMBOL NEWVAL)
+(setq SYM VAL SYM VAL ...)
+(symbol-function SYMBOL)
+(fset SYMBOL DEFINITION)
+(fboundp SYMBOL)
+(symbol-plist SYMBOL)
+(get SYMBOL PROPNAME)
+(put SYMBOL PROPNAME VALUE)
+**** 问题解答
+obarray 里符号数为什么大于向量长度
+其实这和散列的的实现是一样的。obarray 里的每一个元素通常称为 bucket。 一个
+bucket 是可以容纳多个相同 hash 值的字符串和它们的数据。我们可以用 这样的方法来模
+拟一下：
+#+BEGIN_SCR lisp
+(defun hash-string (str)
+  (let ((hash 0) c)
+    (dotimes (i (length str))
+      (setq c (aref str i))
+      (if (> c #o140)
+          (setq c (- c 40)))
+      (setq hash (+ (setq hash (lsh hash 3))
+                    (lsh hash -28)
+                    c)))
+    hash))
+
+(let ((len 10) str hash)
+  (setq foo (make-vector len 0))
+  (dotimes (i (1+ len))
+    (setq str (char-to-string (+ ?a i))
+          hash (% (hash-string str) len))
+    (message "I put %s in slot %d"
+             str hash)
+    (if (eq (aref foo hash) 0)
+        (intern str foo)
+      (message "I found %S is already taking the slot: %S"
+               (aref foo hash) foo)
+      (intern str foo)
+      (message "Now I'am in the slot too: %S" foo))))
+#+END_SCR
+
+在我这里的输出是
+I put a in slot 7
+I put b in slot 8
+I put c in slot 9
+I put d in slot 0
+I put e in slot 1
+I put f in slot 2
+I put g in slot 3
+I put h in slot 4
+I put i in slot 5
+I put j in slot 6
+I put k in slot 7
+I found a is already taking the slot: [d e f g h i j a b c]
+Now I'am in the slot too: [d e f g h i j k b c]
+当然，这个 hash-string 和实际 obarray 里用的 hash-string 只是算法上是 相同的，但
+  是由于数据类型和 c 不是完全相同，所以对于长一点的字符串结果 可能不一样，我只好
+  用单个字符来演示一下。
+
+根据关键字删除关联列表中的元素
+#+BEGIN_SCR lisp
+(defun remove-from-list (list-var key &optional test)
+  (let ((prev (symbol-value list-var))
+        tail found value elt)
+    (or test (setq test 'equal))
+    (if (funcall test (caar prev) key)
+        (set list-var (cdr prev))
+      (setq tail (cdr prev))
+      (while (and tail (not found))
+        (setq elt (car tail))
+        (if (funcall test (car elt) key)
+            (progn
+              (setq found t)
+              (setcdr prev (cdr tail)))
+          (setq tail (cdr tail)
+                prev (cdr prev)))))
+    (symbol-value list-var)))
+#+END_SCR
+注意这个函数的参数 list-var 是一个符号，所以这个函数不能直接传递一个列表。这和
+add-to-list 的参数是一样的。
+
+plist-get 和 plist-put 的实现
+(defun my-plist-get (plist prop)
+  (cadr (memq plist prop)))
+(defun my-plist-put (plist prop val)
+  (let ((tail (memq prop plist)))
+    (if tail
+        (setcar (cdr tail) val)
+      (setcdr (last plist) (list prop val))))
+  plist)
+my-plist-put 函数没有 plist-put 那样 robust，如果属性列表是 '(bar t foo) 这样的
+话，这个函数就会出错。而且加入一个属性的时间复杂度比 plist 更高（memq 和 last 都
+是 O(n)），不过可以用循环来达到相同的时间复杂度。
+
+*** 求值规则
+至此，elisp 中最常见的数据类型已经介绍完了。我们可以真正开始学习怎样写一个 elisp
+程序。如果想深入了解一下 lisp 是如何工作的，不妨先花些时间看看 lisp 的求值过程。
+当然忽略这一部分也是可以的，因为我觉得这个求值规则是那么自然，以至于你会认为它就
+是应该这样的。
+
+求值是 lisp 解释器的核心，理解了求值过程也就学会了 lisp 编程的一半。正因为这样，
+我有点担心自己说得不清楚或者理解错误，会误导了你。所以如果真想深入了解的话，还是
+自己看 /info elisp - Evaluation/ 这一章吧。
+
+一个要求值的 lisp 对象被称为表达式（form）。所有的表达式可以分为三种：符号、列表
+和其它类型（废话）。下面一一说明各种表达式的求值规则。
+
+第一种表达式是最简单的，自求值表达式。前面说过数字、字符串、向量都是自求值表达式。
+还有两个特殊的符号 t 和 nil 也可以看成是自求值表达式。
+
+第二种表达式是符号。符号的求值结果就是符号的值。如果它没有值，就会出现
+void-variable 的错误。
+
+第三种表达式是列表表达式。而列表表达式又可以根据第一个元素分为函数调用、宏调用和
+特殊表达式（special form）三种。列表的第一个表达式如果是一个符号，解释器会查找这
+个表达式的函数值。如果函数值是另一个符号，则会继续查找这个符号的函数值。这称为
+“symbol function indirection”。最后直到某个符号的函数值是一个 lisp 函数
+（lambda 表达式）、byte-code 函数、原子函数（primitive function）、宏、特殊表达
+式或 autoload 对象。如果不是这些类型，比如某个符号的函数值是前面出现的某个符号导
+致无限循环，或者某个符号函数值为空，都会导致一个错误 invalid-function。
+
+这个函数显示 indirection function
+(symbol-function 'car)                  ; => #<subr car>
+(fset 'first 'car)                      ; => car
+(fset 'erste 'first)                    ; => first
+(erste '(1 2 3))                        ; => 1
+对于第一个元素是 lisp 函数对象、byte-code 对象和原子函数时，这个列表也称为函数调
+用（funtion call）。对这样的列表求值时，先对列表中其它元素先求值，求值的结果作为
+函数调用的真正参数。然后使用 apply 函数用这些参数调用函数。如果函数是用 lisp 写
+的，可以理解为把参数和变量绑定到函数后，对函数体顺序求值，返回最后一个 form 的值。
+
+如果第一个元素是一个宏对象，列表里的其它元素不会立即求值，而是根据宏定义进行扩展。
+如果扩展后还是一个宏调用，则会继续扩展下去，直到扩展的结果不再是一个宏调用为止。
+例如
+
+(defmacro cadr (x)
+  (list 'car (list 'cdr x)))
+这样 (cadr (assq 'handler list)) 扩展后成为 (car (cdr (assq 'handler list)))。
+第一个元素如果是一个特殊表达式时，它的参数可能并不会全求值。这些特殊表达式通常是
+  用于控制结构或者变量绑定。每个特殊表达式都有对应的求值规则。这在下面会提到。
+
+最后用这个伪代码来说明一下 elisp 中的求值规则：
+(defun (eval exp)
+  (cond
+   ((numberp exp) exp)
+   ((stringp exp) exp)
+   ((arrayp exp) exp)
+   ((symbolp exp) (symbol-value exp))
+   ((special-form-p (car exp))
+    (eval-special-form exp))
+   ((fboundp (car exp))
+    (apply (car exp) (cdr exp)))
+   (t
+    (error "Unknown expression type -- EVAL %S" exp))))
+*** 变量
+#+BEGIN_SCR lisp
+在此之前，我们已经见过 elisp 中的两种变量，全局变量和 let 绑定的局部变量。它们相当于其它语言中的全局变量和局部变量。
+关于 let 绑定的变量，有两点需要补充的。当同一个变量名既是全局变量也是局部变量，或者用 let 多层绑定，只有最里层的那个变量是有效的，用 setq 改变的也只是最里层的变量，而不影响外层的变量。比如
+(progn
+  (setq foo "I'm global variable!")
+  (let ((foo 5))
+    (message "foo value is: %S" foo)
+    (let (foo)
+      (setq foo "I'm local variable!")
+      (message foo))
+    (message "foo value is still: %S" foo))
+  (message foo))
+另外需要注意一点的是局部变量的绑定不能超过一定的层数，也就是说，你不能把 foo 用 let 绑定 10000 层。当然普通的函数是不可能写成这样的，但是递归函数就不一定了。限制层数的变量在 max-specpdl-size 中定义。如果你写的递归函数有这个需要的话，可以先设置这个变量的值。
+emacs 有一种特殊的局部变量 ── buffer-local 变量。
+buffer-local 变量
+emacs 能有如此丰富的模式，各个缓冲区之间能不相互冲突，很大程度上要归功于 buffer-local 变量。
+声明一个 buffer-local 的变量可以用 make-variable-buffer-local 或用 make-local-variable。这两个函数的区别在于前者是相当于在所有变量中都产生一个 buffer-local 的变量。而后者只在声明时所在的缓冲区内产生一个局部变量，而其它缓冲区仍然使用的是全局变量。一般来说推荐使用 make-local-variable。
+为了方便演示，下面的代码我假定你是在 *scratch* 缓冲区里运行。我使用另一个一般都会有的缓冲区 *Messages* 作为测试。先介绍两个用到的函数（ with-current-buffer 其实是一个宏）。
+with-current-buffer 的使用形式是
+(with-current-buffer buffer
+  body)
+其中 buffer 可以是一个缓冲区对象，也可以是缓冲区的名字。它的作用是使其中的 body 表达式在指定的缓冲区里执行。
+get-buffer 可以用缓冲区的名字得到对应的缓冲区对象。如果没有这样名字的缓冲区会返回 nil。
+下面是使用 buffer-local 变量的例子：
+(setq foo "I'm global variable!")       ; => "I'm global variable!"
+(make-local-variable 'foo)              ; => foo
+foo                                     ; => "I'm global variable!"
+(setq foo "I'm buffer-local variable!") ; => "I'm buffer-local variable!"
+foo                                  ; => "I'm buffer-local variable!"
+(with-current-buffer "*Messages*" foo)  ; => "I'm global variable!"
+从这个例子中可以看出，当一个符号作为全局变量时有一个值的话，用 make-local-variable 声明为 buffer-local 变量时，这个变量的值还是全局变量的值。这时候全局的值也称为缺省值。你可以用 default -value 来访问这个符号的全局变量的值
+(default-value 'foo)                    ; => "I'm global variable!"
+如果一个变量是 buffer-local，那么在这个缓冲区内使用用 setq 就只能用改变当前缓冲区里这个变量的值。setq-default 可以修改符号作为全局变量的值。通常在 .emacs 里经常使用 setq-default，这样可以防止修改的是导入 .emacs 文件对应的缓冲区里的 buffer-local 变量，而不是设置全局的值。
+测试一个变量是不是 buffer-local 可以用 local-variable-p
+(local-variable-p 'foo)                           ; => t
+(local-variable-p 'foo (get-buffer "*Messages*")) ; => nil
+如果要在当前缓冲区里得到其它缓冲区的 buffer-local 变量可以用 buffer-local-value
+(with-current-buffer "*Messages*"
+  (buffer-local-value 'foo (get-buffer "*scratch*")))
+                    ; => "I'm buffer local variable!"
+变量的作用域
+我们现在已经学习这样几种变量：
+全局变量
+buffer-local 变量
+let 绑定局部变量
+如果还要考虑函数的参数列表声明的变量，也就是 4 种类型的变量。那这种变量的作用范围(scope)和生存期（extent）分别是怎样的呢？
+作用域（scope）是指变量在代码中能够访问的位置。emacs lisp 这种绑定称为 indefinite scope。indefinite scope 也就是说可以在任何位置都可能访问一个变量名。而 lexical scope（词法作用域）指局部变量只能作用在函数中和一个块里（block）。
+比如 let 绑定和函数参数列表的变量在整个表达式内都是可见的，这有别于其它语言词法作用域的变量。先看下面这个例子：
+(defun binder (x)                      ; `x' is bound in `binder'.
+  (foo 5))                             ; `foo' is some other function.
+(defun user ()                         ; `x' is used "free" in `user'.
+  (list x))
+(defun foo (ignore)
+  (user))
+(binder 10)                            ; => (10)
+对于词法作用域的语言，在 user 函数里无论如何是不能访问 binder 函数中绑定的 x。但是在 elisp 中可以。
+生存期是指程序运行过程中，变量什么时候是有效的。全局变量和 buffer-local 变量都是始终存在的，前者只能当关闭emacs 或者用 unintern 从 obarray 里除去时才能消除。而 buffer-local 的变量也只能关闭缓冲区或者用 kill-local-variable 才会消失。而对于局部变量，emacs lisp 使用的方式称为动态生存期：只有当绑定了这个变量的表达式运行时才是有效的。这和 C 和 Pascal 里的 Local 和automatic 变量是一样的。与此相对的是 indefinite extent，变量即使离开绑定它的表达式还能有效。比如：
+(defun make-add (n)
+  (function (lambda (m) (+ n m))))      ; Return a function.
+(fset 'add2 (make-add 2))               ; Define function `add2'
+                                        ;   with `(make-add 2)'.
+(add2 4)                                ; Try to add 2 to 4.
+其它 Lisp 方言中有闭包，但是 emacs lisp 中没有。
+说完这些概念，可能你还是一点雾水。我给一个判断变量是否有效的方法吧：
+看看包含这个变量的 form 中是否有 let 绑定这个局部变量。如果这个 form 不是在定义一个函数，则跳到第 3 步。
+如果是在定义函数，则不仅要看这个函数的参数中是否有这个变量，而且还要看所有直接或间接调用这个函数的函数中是否有用 let 绑定或者参数列表里有这个变量名。这就没有办法确定了，所以你永远无法判断一个函数中出现的没有用 let 绑定，也不在参数列表中的变量是否是没有定义过的。但是一般来说这不是一个好习惯。
+看这个变量是否是一个全局变量或者是 buffer-local 变量。
+对于在一个函数中绑定一个变量，而在另一个函数中还在使用，manual 里认为这两个种情况下是比较好的：
+这个变量只有相关的几个函数中使用，在一个文件中放在一起。这个变量起程序里通信的作用。而且需要写好注释告诉其它程序员怎样使用它。
+如果这个变量是定义明确、有很好文档作用的，可能让所有函数使用它，但是不要设置它。比如 case-fold-search。（我怎么觉得这里是用全局变量呢。）
+思考题
+先在 scratch 缓冲区里运行了 (kill-local-variable 'foo) 后，运行几次下面的表达式，你能预测它们结果吗？
+(progn
+ (setq foo "I'm local variable!")
+ (let ((foo "I'm local variable!"))
+   (set (make-local-variable 'foo) "I'm buffer-local variable!")
+   (setq foo "This is a variable!")
+   (message foo))
+ (message foo))
+其它函数
+一个符号如果值为空，直接使用可能会产生一个错误。可以用 boundp 来测试一个变量是否有定义。这通常用于 elisp 扩展的移植（用于不同版本或 XEmacs）。对于一个 buffer-local 变量，它的缺省值可能是没有定义的，这时用 default-value 函数可能会出错。这时就先用 default-boundp 先进行测试。
+使一个变量的值重新为空，可以用 makunbound。要消除一个 buffer-local 变量用函数 kill-local-variable。可以用 kill-all-local-variables 消除所有的 buffer-local 变量。但是有属性 permanent-local 的不会消除，带有这些标记的变量一般都是和缓冲区模式无关的，比如输入法。
+foo                                     ; => "I'm local variable!"
+(boundp 'foo)                           ; => t
+(default-boundp 'foo)                   ; => t
+(makunbound 'foo)                       ; => foo
+foo                                     ; This will signal an error
+(default-boundp 'foo)                   ; => t
+(kill-local-variable 'foo)              ; => foo
+变量名习惯
+对于变量的命名，有一些习惯，这样可以从变量名就能看出变量的用途：
+hook 一个在特定情况下调用的函数列表，比如关闭缓冲区时，进入某个模式时。
+function 值为一个函数
+functions 值为一个函数列表
+flag 值为 nil 或 non-nil
+predicate 值是一个作判断的函数，返回 nil 或 non-nil
+program 或 -command 一个程序或 shell 命令名
+form 一个表达式
+forms 一个表达式列表。
+map 一个按键映射（keymap）
+函数列表
+(make-local-variable VARIABLE)
+(make-variable-buffer-local VARIABLE)
+(with-current-buffer BUFFER &rest BODY)
+(get-buffer NAME)
+(default-value SYMBOL)
+(local-variable-p VARIABLE &optional BUFFER)
+(buffer-local-value VARIABLE BUFFER)
+(boundp SYMBOL)
+(default-boundp SYMBOL)
+(makunbound SYMBOL)
+(kill-local-variable VARIABLE)
+(kill-all-local-variables)
+变量列表
+max-specpdl-size
+问题解答
+同一个表达式运行再次结果不同？
+运行第一次时，foo 缺省值为 "I'm local variable!"，而 buffer-local 值为 "This is a variable!"。第一个和第二个 message 都会显示 "This is a variable!"。运行第二次时，foo 缺省值和 buffer-local 值都成了 "I'm local variable!"，而第一次 message 显示 "This is a variable!"，第二次 显示 "I'm local variable!"。这是由于 make-local-variable 在这个符号是 否已经是 buffer-local 变量时有不同表现造成的。如果已经是一个 buffer-local 变量，则它什么也不做，而如果不是，则会生成一个 buffer-local 变量，这时在这个表达式内的所有 foo 也被重新绑定了。希望你 写的函数能想到一点。
+#+END_SCR
 ** DONE Emacs Lisp 简明教程
    CLOSED: [2017-10-24 二 08:30]
    :LOGBOOK:
@@ -1713,24 +2150,6 @@ my-subseq 函数的定义
    CLOCK: [2017-10-24 二 08:01]--[2017-10-24 二 08:30] =>  0:29
    :END:
 
-这是叶文彬(水木ID: happierbee)写的一份Emacs Lisp的教程, 深入浅出, 非常适合初学者. 文档的TeX代码及PDF文档可在此处下载.
-emacs 的高手不能不会 elisp。但是对于很多人来说 elisp 学习是一个痛苦的历程，至少我是有这样一段经历。因此，我写了这一系列文章，希望能为后来者提供一点捷径。
-一个 Hello World 例子
-基础知识
-基本数据类型之一 ── 数字
-基本数据类型之二 ── 字符和字符串
-基本数据类型之三 ── cons cell 和列表
-基本数据类型之四 ── 数组和序列
-基本数据类型之五 ── 符号
-求值规则
-变量
-函数和命令
-正则表达式
-操作对象之一 ── 缓冲区
-操作对象之二 ── 窗口
-操作对象之三 ── 文件
-操作对象之四 ── 文本
-后记
 *** 一个 Hello World 例子
 
 自从 K&R 以来，hello world 程序历来都是程序语言教程的第一个例子。我也用一个
