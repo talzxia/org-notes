@@ -2143,6 +2143,326 @@ max-specpdl-size
 同一个表达式运行再次结果不同？
 运行第一次时，foo 缺省值为 "I'm local variable!"，而 buffer-local 值为 "This is a variable!"。第一个和第二个 message 都会显示 "This is a variable!"。运行第二次时，foo 缺省值和 buffer-local 值都成了 "I'm local variable!"，而第一次 message 显示 "This is a variable!"，第二次 显示 "I'm local variable!"。这是由于 make-local-variable 在这个符号是 否已经是 buffer-local 变量时有不同表现造成的。如果已经是一个 buffer-local 变量，则它什么也不做，而如果不是，则会生成一个 buffer-local 变量，这时在这个表达式内的所有 foo 也被重新绑定了。希望你 写的函数能想到一点。
 #+END_SCR
+*** DONE 函数和命令
+    CLOSED: [2017-11-03 五 08:49]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-11-03 五 08:49]
+    CLOCK: [2017-11-03 五 08:13]--[2017-11-03 五 08:49] =>  0:36
+    :END:
+在 elisp 里类似函数的对象很多，比如：
+函数。这里的函数特指用 lisp 写的函数。
+原子函数（primitive）。用 C 写的函数，比如 car、append。
+lambda 表达式
+特殊表达式
+宏(macro)。宏是用 lisp 写的一种结构，它可以把一种 lisp 表达式转换成等价的另一个
+表达式。
+
+命令。命令能用 command-execute 调用。函数也可以是命令。
+以上这些用 functionp 来测试都会返回 t。
+我们已经学过如何定义一个函数。但是这些函数的参数个数都是确定。但是你可以看到
+emacs 里有很多函数是接受可选参数，比如 random 函数。还有一些函数可以接受不确定的
+参数，比如加减乘除。这样的函数在 elisp 中是如何定义的呢？
+
+**** 参数列表的语法
+
+这是参数列表的方法形式：
+(REQUIRED-VARS...
+ [&optional OPTIONAL-VARS...]
+ [&rest REST-VAR])
+它的意思是说，你必须把必须提供的参数写在前面，可选的参数写在后面，最后用一个符号
+表示剩余的所有参数。比如
+
+(defun foo (var1 var2 &optional opt1 opt2 &rest rest)
+  (list var1 var2 opt1 opt2 rest))
+
+(foo 1 2)                               ; => (1 2 nil nil nil)
+(foo 1 2 3)                             ; => (1 2 3 nil nil)
+(foo 1 2 3 4 5 6)                       ; => (1 2 3 4 (5 6))
+从这个例子可以看出，当可选参数没有提供时，在函数体里，对应的参数值都是 nil。同样
+调用函数时没有提供剩余参数时，其值也为 nil，但是一旦提供了剩余参数，则所有参数是
+以列表的形式放在对应变量里。
+
+***** 思考题
+写一个函数测试两个浮点数是否相等，设置一个可选参数，如果提供这个参数，则用这个参
+数作为测试误差，否则用 1.0e-6 作为误差。
+
+**** 关于文档字符串
+
+最好为你的函数都提供一个文档字符串。关于文档字符串有一些规范，最好遵守这些约定。
+字符串的第一行最好是独立的。因为 apropos 命令只能显示第一行的文档。所以最好用一
+行（一两个完整的句子）总结这个函数的目的。
+
+文档的缩进最好要根据最后的显示的效果来调用。因为引号之类字符会多占用一个字符，所
+以在源文件里缩进最好看，不一定显示的最好。
+
+如果你想要让你的函数参数显示的与函数定义的不同（比如提示用户如何调用这个函数），
+可以在文档最后一行，加上一行：
+
+\(fn ARGLIST)
+注意这一行前面要有一个空行，这一行后不能再有空行。比如
+(defun foo (var1 var2 &optional opt1 opt2 &rest rest)
+  "You should call the function like:
+
+\(fn v1 v2)"
+  (list var1 var2 opt1 opt2 rest))
+还有一些有特殊标记功能的符号，比如 `' 引起的符号名可以生成一个链接，这样可以在
+  *Help* 中更方便的查看相关变量或函数的文档。\\{major-mode-map} 可以显示扩展成这
+  个模式按键的说明，例如：
+
+(defun foo ()
+  "A simple document string to show how to use `' and \\=\\{}.
+You can press this button `help' to see the document of
+function \"help\".
+
+This is keybind of text-mode(substitute from \\=\\{text-mode-map}):
+\\{text-mode-map}
+
+See also `substitute-command-keys' and `documentation'"
+  )
+
+**** 调用函数
+
+通常函数的调用都是用 eval 进行的，但是有时需要在运行时才决定使用什么函数，这时就
+需要用 funcall 和 apply 两个函数了。这两个函数都是把其余的参数作为函数的参数进行
+调用。那这两个函数有什么参数呢？唯一的区别就在于 funcall 是直接把参数传递给函数，
+而 apply 的最后一个参数是一个列表，传入函数的参数把列表进行一次平铺后再传给函数，
+看下面这个例子就明白了
+
+(funcall 'list 'x '(y) '(z))               ; => (x (y) (z))
+(apply 'list 'x '(y ) '(z))                ; => (x (y) z)
+***** 思考题
+如果一个 list 作为一个树的结构，任何是 cons cell 的元素都是一个内部节点（不允许
+有 dotted list 出现），任何不是 cons cell 的元素都是树的叶子。请写一个函数，调用
+的一个类似 mapcar 的函数，调用一个函数遍历树的叶子，并收集所有的结果，返回一个结
+构相同的树，比如：
+
+(tree-mapcar '1+ '(1 (2 (3 4)) (5)))    ; => (2 (3 (4 5)) (6))
+
+**** 宏
+
+前面在已经简单介绍过宏。宏的调用和函数是很类似的，它的求值和函数差不多，但是有一
+个重要的区别是，宏的参数是出现在最后扩展后的表达式中，而函数参数是求值后才传递给
+这个函数：
+
+(defmacro foo (arg)
+  (list 'message "%d %d" arg arg))
+
+(defun bar (arg)
+  (message "%d %d" arg arg))
+
+(let ((i 1))
+  (bar (incf i)))                       ; => "2 2"
+
+(let ((i 1))
+  (foo (incf i)))                       ; => "2 3"
+也许你对前面这个例子 foo 里为什么要用 list 函数很不解。其实宏可以这样看，如果把
+  宏定义作一个表达式来运行，最后把参数用调用时的参数替换，这样就得到了宏调用最后
+  用于求值的表达式。这个过程称为扩展。可以用 macroexpand 函数进行模拟
+
+(macroexpand '(foo (incf i))) ; => (message "%d %d" (incf i) (incf i))
+上面用 macroexpand 得到的结果就是用于求值的表达式。
+使用 macroexpand 可以使宏的编写变得容易一些。但是如果不能进行 debug 是很不方便的。
+在宏定义里可以引入 declare 表达式，它可以增加一些信息。目前只支持两类声明：debug
+和 indent。debug 可选择的类型很多，具体参考 info elisp - Edebug 一章，一般情况下
+用 t 就足够了。indent 的类型比较简单，它可以使用这样几种类型：
+
+nil 也就是一般的方式缩进
+defun 类似 def 的结构，把第二行作为主体，对主体里的表达式使用同样的缩进
+整数 表示从第 n 个表达式后作为主体。比如 if 设置为 2，而 when 设置为 1
+符号 这个是最坏情况，你要写一个函数自己处理缩进。
+看 when 的定义就能知道 declare 如何使用了
+(defmacro when (cond &rest body)
+  (declare (indent 1) (debug t))
+  (list 'if cond (cons 'progn body)))
+实际上，declare 声明只是设置这个符号的属性列表
+(symbol-plist 'when)    ; => (lisp-indent-function 1 edebug-form-spec t)
+***** 思考题
+一个比较常用的结构是当 buffer 是可读情况下，绑定 inhibit-read-only 值为 t 来强制
+插入字符串。请写一个这样的宏，处理好缩进和调用。
+
+从前面宏 when 的定义可以看出直接使用 list，cons，append 构造宏是很麻烦的。为了使
+记号简洁，lisp 中有一个特殊的宏 "`"，称为 backquote。在这个宏里，所有的表达式都
+是引起（quote）的，如果要让一个表达式不引起（也就是列表中使用的是表达式的值），
+需要在前面加 “,”，如果要让一个列表作为整个列表的一部分（slice），可以用 ",@"。
+
+`(a list of ,(+ 2 3) elements)          ; => (a list of 5 elements)
+(setq some-list '(2 3))                 ; => (2 3)
+`(1 ,some-list 4 ,@some-list)           ; => (1 (2 3) 4 2 3)
+有了这些标记，前面 when 这个宏可以写成
+(defmacro when (cond &rest body)
+  `(if ,cond
+       (progn ,@body)))
+值得注意的是这个 backquote 本身就是一个宏，从这里可以看出宏除了减少重复代码这个
+作用之外的另一个用途：定义新的控制结构，甚至增加新的语法特性。
+
+**** 命令
+
+emacs 运行时就是处于一个命令循环中，不断从用户那得到按键序列，然后调用对应命令来
+执行。lisp 编写的命令都含有一个 interactive 表达式。这个表达式指明了这个命令的参
+数。比如下面这个命令
+#+BEGIN_SCR lisp
+(defun hello-world (name)
+  (interactive "sWhat you name? ")
+  (message "Hello, %s" name))
+#+END_SCR
+现在你可以用 M-x 来调用这个命令。让我们来看看 interactive 的参数是什么意思。这个
+  字符串的第一个字符（也称为代码字符）代表参数的类型，比如这里 s 代表参数的类型
+  是一个字符串，而其后的字符串是用来提示的字符串。如果这个命令有多个参数，可以在
+  这个提示字符串后使用换行符分开，比如：
+
+(defun hello-world (name time)
+  (interactive "sWhat you name? \nnWhat the time? ")
+  (message "Good %s, %s"
+           (cond ((< time 13) "morning")
+                 ((< time 19) "afternoon")
+                 (t "evening"))
+           name))
+interactive 可以使用的代码字符很多，虽然有一定的规则，比如字符串用 s，数字用 n，
+  文件用 f，区域用 r，但是还是很容易忘记，用的时候看 interactive 函数的文档还是
+  很有必要的。但是不是所有时候都参数类型都能使用代码字符，而且一个好的命令，应该
+  尽可能的让提供默认参数以让用户少花时间在输入参数上，这时，就有可能要自己定制参
+  数。
+
+首先学习和代码字符等价的几个函数。s 对应的函数是 read-string。比如
+(read-string "What your name? " user-full-name)
+n 对应的函数是 read-number，文件对应 read-file-name。很容易记对吧。其实大部分代
+码字符都是有这样对应的函数或替换的方法（见下表）。
+
+代码字符	代替的表达式
+a	(completing-read prompt obarray 'fboundp t)
+b	(read-buffer prompt nil t)
+B	(read-buffer prompt)
+c	(read-char prompt)
+C	(read-command prompt)
+d	(point)
+D	(read-directory-name prompt)
+e	(read-event)
+f	(read-file-name prompt nil nil t)
+F	(read-file-name prompt)
+G	暂时不知道和 f 的差别
+k	(read-key-sequence prompt)
+K	(read-key-sequence prompt nil t)
+m	(mark)
+n	(read-number prompt)
+N	(if current-prefix-arg (prefix-numeric-value current-prefix-arg) (read-number prompt))
+p	(prefix-numeric-value current-prefix-arg)
+P	current-prefix-arg
+r	(region-beginning) (region-end)
+s	(read-string prompt)
+S	(completing-read prompt obarray nil t)
+v	(read-variable prompt)
+x	(read-from-minibuffer prompt nil nil t)
+X	(eval (read-from-minibuffer prompt nil nil t))
+z	(read-coding-system prompt)
+Z	(and current-prefix-arg (read-coding-system prompt))
+知道这些表达式如何用于 interactive 表达式里呢？简而言之，如果 interactive 的参数
+是一个表达式，则这个表达式求值后的列表元素对应于这个命令的参数。请看这个例子：
+
+(defun read-hiden-file (file arg)
+  (interactive
+   (list (read-file-name "Choose a hiden file: " "~/" nil nil nil
+                         (lambda (name)
+                           (string-match "^\\." (file-name-nondirectory name))))
+         current-prefix-arg))
+  (message "%s, %S" file arg))
+第一个参数是读入一个以 "." 开头的文件名，第二个参数为当前的前缀参数（prefix
+  argument），它可以用 C-u 或 C-u 加数字提供。list 把这两个参数构成一个列表。这
+  就是命令一般的自定义设定参数的方法。
+
+需要注意的是 current-prefix-arg 这个变量。这个变量当一个命令被调用，它就被赋与一
+  个值，你可以用 C-u 就能改变它的值。在命令运行过程中，它的值始终都存在。即使你
+  的命令不用参数，你也可以访问它
+
+(defun foo ()
+  (interactive)
+  (message "%S" current-prefix-arg))
+用 C-u foo 调用它，你可以发现它的值是 (4)。那为什么大多数命令还单独为它设置一个
+  参数呢？这是因为命令不仅是用户可以调用，很可能其它函数也可以调用，单独设置一个
+  参数可以方便的用参数传递的方法调用这个命令。事实上所有的命令都可以不带参数，而
+  使用前面介绍的方法在命令定义的部分读入需要的参数，但是为了提高命令的可重用性和
+  代码的可读性，还是把参数分离到 interactive 表达式里好。
+
+从现在开始可能会遇到很多函数，它们的用法有的简单，有的却复杂的要用大段篇幅来解释。
+我可能就会根据需要来解释一两个函数，就不一一介绍了。自己看 info elisp，用 i 来查
+找对应的函数。
+
+***** 思考题
+写一个命令用来切换 major-mode。要求用户输入一个 major-mode 的名字，就切换到这个
+major-mode，而且要提供一种补全的办法，去除所有不是 major-mode 的符号，这样用户需
+要输入少量词就能找到对应的 major-mode。
+
+**** 函数列表
+(functionp OBJECT)
+(apply FUNCTION &rest ARGUMENTS)
+(funcall FUNCTION &rest ARGUMENTS)
+(defmacro NAME ARGLIST [DOCSTRING] [DECL] BODY...)
+(macroexpand FORM &optional ENVIRONMENT)
+(declare &rest SPECS)
+(` ARG)
+(interactive ARGS)
+(read-string PROMPT &optional INITIAL-INPUT HISTORY DEFAULT-VALUE
+             INHERIT-INPUT-METHOD)
+(read-file-name PROMPT &optional DIR DEFAULT-FILENAME MUSTMATCH
+                INITIAL PREDICATE)
+(completing-read PROMPT COLLECTION &optional PREDICATE
+                 REQUIRE-MATCH INITIAL-INPUT HIST DEF
+                 INHERIT-INPUT-METHOD)
+(read-buffer PROMPT &optional DEF REQUIRE-MATCH)
+(read-char &optional PROMPT INHERIT-INPUT-METHOD SECONDS)
+(read-command PROMPT &optional DEFAULT-VALUE)
+(read-directory-name PROMPT &optional DIR DEFAULT-DIRNAME
+                     MUSTMATCH INITIAL)
+(read-event &optional PROMPT INHERIT-INPUT-METHOD SECONDS)
+(read-key-sequence PROMPT &optional CONTINUE-ECHO
+                   DONT-DOWNCASE-LAST CAN-RETURN-SWITCH-FRAME
+                   COMMAND-LOOP)
+(read-number PROMPT &optional DEFAULT)
+(prefix-numeric-value RAW)
+(read-from-minibuffer PROMPT &optional INITIAL-CONTENTS KEYMAP
+                      READ HIST DEFAULT-VALUE INHERIT-INPUT-METHOD)
+(read-coding-system PROMPT &optional DEFAULT-CODING-SYSTEM)
+变量列表
+current-prefix-arg
+**** 问题解答
+***** 可选误差的浮点数比较
+(defun approx-equal (x y &optional err)
+  (if err
+      (setq err (abs err))
+    (setq err 1.0e-6))
+  (or (and (= x 0) (= y 0))
+      (< (/ (abs (- x y))
+            (max (abs x) (abs y)))
+         err)))
+这个应该是很简单的一个问题。
+***** 遍历树的函数
+(defun tree-mapcar (func tree)
+  (if (consp tree)
+      (mapcar (lambda (child)
+                (tree-mapcar func child))
+              tree)
+    (funcall func tree)))
+这个函数可能对于树算法比较熟悉的人一点都不难，就当练手吧。
+宏 with-inhibit-read-only-t
+(defmacro with-inhibit-read-only-t (&rest body)
+  (declare (indent 0) (debug t))
+  (cons 'let (cons '((inhibit-read-only t))
+                   body)))
+如果用 backquote 来改写一个就会发现这个宏会很容易写，而且更容易读了。
+***** 切换 major-mode 的命令
+(defvar switch-major-mode-history nil)
+(defun switch-major-mode (mode)
+  (interactive
+   (list
+    (intern
+     (completing-read "Switch to mode: "
+                      obarray (lambda (s)
+                                (and (fboundp s)
+                                     (string-match "-mode$" (symbol-name s))))
+                      t nil 'switch-major-mode-history))))
+  (setq switch-major-mode-history
+        (cons (symbol-name major-mode) switch-major-mode-history))
+  (funcall mode))
+这是我常用的一个命令之一。这个实现也是一个使用 minibuffer 历史的例子。
 ** DONE Emacs Lisp 简明教程
    CLOSED: [2017-10-24 二 08:30]
    :LOGBOOK:
@@ -5604,6 +5924,468 @@ CLOCK: [2017-10-28 六 16:50]--[2017-10-28 六 17:05] =>  0:15
 
 本文来自新华社
 * 教育教学
+** [[http://www.imooc.com/article/12768][成长路径：送给准备入行的同学]]
+先跟大家说一个事实：
+
+我公司招聘（小初创公司 ）的时候， 曾经一个星期收到一千封简历： 600 IOS， 200 安
+卓， 200 美工。 95%都是应届生。
+
+
+前些天跟几个培训机构的朋友聊天， 大家也纷纷表示， IOS现在工作不好找。
+
+所以， 各位同学务必记住： 全栈开发才是趋势， 一人多能才是出路！
+
+如果你只会切菜， 你就是打杂的。
+如果你不但会切菜，还会煎炒蒸炸，粤菜鲁菜都精通，你就是大厨！ 老板离不开你！
+下面是我总结的全栈开发的路径：（按照顺序来看，提及到的具体技术，请大家自行google
+官方网站来学习。）
+
+
+*** HTML , CSS
+互联网开发的本质是web开发。 这个是基础中的基础。
+
+不要以为android, ios中用不到CSS。 现在越来越多的app已经被页面的改动拖死了。 微信，
+QQ，京东都开始越来越多的使用 native 壳 + webview了。 所以， 大家务必把 CSS 学好！
+
+
+时间： 20分钟看概念。（主要是看CSS的各种属性）， 然后自己动手写上3,5个静态页面。 也就熟悉了。
+
+javascript, jQuery, jQuery的各种插件。
+javascript的语法非常简单， 5分钟入门。 （基本上你学会了for, if, try, 声明数组,
+hash, 以及 this的用法，也就没了）
+
+
+jQuery 可以认为是javascript的人性化改版。 好多难用的，难以理解的函数，都被改造成
+了对程序员和蔼可亲的函数。 这个非常棒。
+
+
+jQuery 操作DOM是重点。 这里建议大家多看看书， 30分钟看书，6 个小时练习。
+
+jQuery Plugs
+光会jQuery是远远不够的。 我们在实际的工作当中，是要为web页面添加很多功能的。 所
+以， 要使用各种各样的插件。
+
+
+下面是我回顾过去多年的项目经验，梳理出来的最常用的若干组件：
+
+上传图片 jquery-file-upload
+
+弹出窗口 modal dialog
+
+轮播图 slider
+
+表单验证 form-validate
+
+树状菜单 jstree
+
+图表 highchart
+
+时间选择器 datepicker
+
+标签页 tab
+
+提示框 tooltip
+
+快捷编辑 inplace editor
+
+超级强大的下拉框： select2
+
+地图插件: amap 高德地图。 bmap 百度地图
+
+标签 tag
+
+动画 animation
+
+限制性输入框 masked input
+基本上，只要大家把上面的这些插件都“熟悉了”（也就是每个都做过demo）， 那么做项目
+的时候， 老板就会对你很放心了。 也许你的算法不好，没关系啊，能解决问题就行。
+
+
+
+*** 数据库基础：SQL
+很多参加过前端培训的同学， 我发现都是不懂数据库的。 所以我把它单独列出来。
+
+数据库就用 Mysql. 会用之后， 发现 sqlite, postgres 等等都是一样的。
+
+基本功：
+
+select ... where .
+update
+insert
+delete
+创建，删除数据库，
+创建，删除index
+foreign key 与 1对多，多对多的关联关系，以及 join.
+基本上，把这些了解过了， 你对数据库也就能上手用了。（注意， 务必都要手动敲一遍）
+
+
+同时， 要熟悉 安装mysql, mysql GUI 客户端的过程。
+
+*** 一门后端语言， 比如Ruby
+后端语言， 包括 Ruby, Python, Java, PHP, .NET等等。
+
+这里我推荐Ruby. 它非常优雅， 简单。 不花哨。 同样的事儿， Ruby 语言2行代码， 用
+
+Java写的话，你的先写3个Class再加一堆getter setter.
+
+
+学习语言的基本功， 包括几个方面：
+
+数据类型, 以及各种转换。
+常见的 for, if-else, try-catch
+this/self ， 作用域这样的高级特性
+（指针啊， static non-static, 元编程这样的特性，可以边做项目边学）
+*** web开发的框架， 比如Rails, Spring, Play.
+框架跟语言不一样。
+
+学习了语言，你会发现 你其实只能写个算法。 连GUI都做不了。所以，我们需要借助框架
+来写Web.
+
+
+java世界中比较知名的有：SSH (Spring Struts Hibernate， 居然跟十年前没太大变化）
+以及 Play这个借鉴了Rails的框架。 Python中有Django, Tornado， PHP中有Cake,
+ThinkPhp等等。
+
+
+还是用Rails吧。 那么， 无论任何一个Web框架，都需要具备下面一些基本功能：
+
+ORM（数据持久层）
+让我们免于直接书写 select from 这样的语句。 有的同学问为什么， 当你见到100行的
+select from 的时候，你就会极度受不了这样的语法的。 Java中的框架叫 Hibernate.
+Rails中自带这个叫ActiveRecord.
+
+
+处理路由。
+Java的第一个web框架Struts，05年红遍了大江南北。 它被人最推崇的地方，就是如何把一
+个 "/some_controller/action" 这样的URL， 交给对应的controller 和 action 来处理。
+Rails中叫router, 可以认为更加简单方便。
+
+
+*** 必要的表单辅助方法。
+例如， <select> 标签，就是很复杂的东西。我曾经见到一个很著名的收费项目，没有使用
+表单辅助方法， 手写select标签， 写了8000多行。我都无语了。 COPY起来机器都卡。 而
+在rails中， 3行代码搞定。
+
+
+*** 良好的页面渲染。
+比如JSP， PHP， 都是这样。 在Rails中，我们使用erb. 可以很方便的在controller中定
+义变量， 在view中渲染。 也可以把公共的页面提取出来， 然后被其他页面公用。
+
+
+*** 方便的单元测试。
+当老板问起：“这个项目明天能上线吗？” 你的时候心是特别虚的。 但是，如果你有单元测
+试， 就可以先运行个命令（例如 $ rake tests）然后，告诉你的老板： “我们总共有300
+个单元测试， 通过了290个， 失败的10个不影响核心功能，我觉得明天可以上线”。 是不
+是就很专业？
+
+
+*** 数据库迁移
+这个可能刚入行的同学很少听说。 据我了解，在python, java中都比较少见。 只在Rails
+中见到。 这是对于“数据库的版本控制”。
+
+
+我们在团队协同开发时，最大的问题是： 数据库容易不同步。 比较low的解决办法是把
+sql文件放到代码仓库中，然后有了改动随时更新。
+
+
+最好的办法， 是把数据库的变迁，使用代码来表示。 这样的话， 别人下载来代码， 运行
+个命令， 数据库就是最新的了。
+
+
+*** 后端的组件大集合
+下面是我梳理了过去十多年的项目，总结出来的最常见的web后端组件：
+
+1. 分页
+
+把结果集合按页显示。这个东东看起来常见， 实际上实现起来特别复杂。甚至专门有个论
+文： “分页设计模式”
+
+
+在Rails中特别简单，使用 Karminari
+
+2. 上传图片
+
+后端处理上传的过程也极其常见：
+
+处理request
+保存到本地
+生成各种尺寸的缩略图
+等等。
+但是这么简单的东东在任何语言里面都很麻烦。
+
+在Rails中， 使用 carrierwave
+
+3. 上传图片到云端CDN
+
+仅仅把图片上传到你的本地服务器还不够。 图片在北京服务器上，西藏的朋友访问起来是
+特别慢的。
+
+
+最初 CDN只是极少数有财力的公司的专利。 现在越来越多的公司开始为平民提供服务了。
+upyun就是其中一个。
+
+
+ruby中的用法已经省略到几行代码了。 具体见 'upyun'的例子。
+
+4. 发送短信
+
+这个是最简单的技术。但是用的也最多。基本过程就是：
+
+申请账号，充钱
+添加个短信模板
+使用代码向短信服务商发送请求。
+短信就发送到了用户手机上。
+任何语言都可以很方便的实现它。 具体的短信提供商自行搜索吧。
+
+5. 所见即所得编辑器 WYSIWYG
+
+图片描述
+如果你的项目是 论坛，或者内容管理系统，那么就一定会用到它。
+
+最著名的编辑器是 CKEditor。
+
+虽然已经有人为大家做好了， 但是这个东东还是很复杂。
+
+在Rails中使用的话， 记得用 'ckeditor' gem, 不要用 'ckeditor_rails' gem.
+
+6. 发送 HTTP请求的包
+
+虽然各种语言都有内置的发送HTTP请求的工具， 但是还是不如一些专门的第三方包好用。
+
+Ruby中使用 HTTParty。
+
+这些第三方包一定要满足几个特点：
+
+可以发送RESTful请求
+可以设置 timout等参数
+可以记录 log
+7. 良好的日志工具: log4j, log4r
+
+大家一定记住: 少用断点！ 这个东东太low了。
+一定要使用日志！
+
+断点： 每次都得人肉运行。 无法把信息存留下来。
+日志： 每次都会自动的记录下所有日志。 把信息写到某个文件中。
+我们在生产环境中， 永远会使用日志作为调试bug的工具。断点就是个玩具。在开发的时候用用还行。
+
+举个例子： 在上亿用户的应用中， 每秒钟产生的log就几百屏。这个时候是没有机会给你
+时间打断点，一个变量一个变量的分析的。
+
+
+所以，在优酷，每天会产生一个G的日志。 有了问题，我们都会在日志中分析。
+
+8. 要在恰当的时候使用配置项
+
+很多初学者会忽略这个问题， 配置项，有什么用？
+
+下面一些东西必须提取出来：
+
+调用的第三方的服务的域名
+常见的系统常量
+版本号等等
+千万不要把我们的后台服务器域名 分散的写在代码中。 曾经有个项目， 请求了后台120个
+接口， 每个接口的域名都是 'http://yoursite.com/interface' ，如果它有个配置项，
+就可以写成： SERVER + '/interface'同学们， 配置项做起来容易，收效也大，大家务必
+重视起来！
+
+
+ruby中的工具叫： rails-config
+
+9. 分析HTML
+
+可能一般的项目会用不到。 但是一旦用到，就会用的特别多。
+
+我们这个时候，要对XML， HTML做分析的话，就得借助工具。否则用语言自带的分析XML 工
+具的话，会特别复杂。
+
+
+这样的工具要：
+
+支持 CSS selector
+支持 各种常见的DOM操作
+传统的XPATH也要支持。
+ruby中的工具叫 nokogiri.
+
+10. 普通登录 和 单点登录
+
+普通的登录，就是在某台特性的web应用中登录。 这个在传统语言中特别麻烦。 Java中的
+框架之前交Acegi. 现在好像被整合到了某个著名框架中。
+
+
+总之， 需要对数据库中的用户进行密码验证， 还要有注册，解锁， 发送邮件，忘记密码
+等功能。 还要记录最后一次登陆IP。特别复杂。
+
+
+Rails中的解决方案是Devise.
+
+单点登录， 是让一个用户可以在多个不同的WEB应用中登陆。 需要在目标WEB应用中都添加
+一些配置，然后搭建一个单点登录服务器。
+
+
+单点登录特别适合把一个大项目拆分成多个小项目。我曾经成功的把一个项目拆分成了20多
+个子项目。 各个项目之间还特别独立。
+
+
+Ruby 中的单点登录服务器是 ruby cas.
+
+11. 定时执行的任务
+
+例如： 我要在每天的上午十点 发送一个提醒邮件。
+
+Rails 中这个组件是 rufu-scheduler，下面是这个脚本的例子：
+
+
+scheduler.every '180s' do
+  # 每隔180s执行
+end
+
+scheduler.in '5s' do
+  # 5s时执行
+end
+
+scheduler.in '10d' do
+  # 10天时执行
+end
+
+scheduler.at '2030/12/12 23:30:00' do
+  # 在某一个详细的时间段执行
+end
+12. 延迟执行的任务
+
+跟“定时执行”不同， 延迟执行的任务的特点是：
+
+不能马上执行
+不能立刻结束
+常见的场景是： 我要发送一万封邮件。
+
+如果一封一封的顺序发送， 那么估计要3个小时。
+
+所以，解决方案是： 让十个或者更多进程（也叫worker）在后台发送邮件。每发送一个邮
+件，就是完成一个任务。 这十个进程每隔一段时间，就扫描一下任务表，看有没有任务要
+做。
+
+
+ruby中的组件叫 DelayedJob
+
+*** 知道软件工程的知识。
+重构
+单元测试
+代码风格，代码的坏味道
+设计模式
+常见的实现模式
+同学们， 对于上面的概念， 如果面试官问到你这样的概念时， 千万不要不懂装懂。 对于
+新手， 你说不知道， 显得诚实。 我做面试官时， 最怕对方说：“重构，我知道呀！ 就是
+重新构造代码么”。 一旦对方让你说说 重构的常见“手法”时， 就懵了。
+
+
+所以， 对于上面几个概念，大家务必有时间要多看书。多学习！
+
+*** 要知道自动化工具
+常见的工具
+java中的： Ant, Maven, Ivy
+c: Make
+Rails: Rake,
+javascript: npm, grunt
+自动化的部署工具
+Ruby: Capistran
+Python: Fabric
+测试的自动化工具
+Selenium : 专门测试Web页面的工具。 可以实现对页面的各种操作。
+Appium ： 专门测试App的工具。 原理同 Selenium . 把人肉的操作过程使用代码记录下来，
+然后重现。
+
+这两个工具各位同学务必要学会！ 然后在你的同事面前运行一下， 亮瞎他们的双眼。 ^_^
+
+对于一些 持续集成的工具， 大家也要去学习（当然了， 要先学会单元测试，才能做持续
+集成）。 不过， 可惜的一点是，我无论在大公司， 还是小公司， 都没有遇到过做持续集
+成的朋友。 有些孤独。 侧面也反映出， 大家对于“实现代码” 和 “测试代码” 的平衡，不
+好掌握。
+
+
+*** 一开始就要学习的： Linux, Vim, Git
+虽然这三个技术我放在了文章末尾， 但是它们应该在你学习的第一天就出现。
+
+对于点亮 .NET 和 IOS技能树的同学， 你们可以继续用Windows/Mac. 但是对于Java, Php,
+Android的同学， 赶紧用Linux！！！ 因为，最后，你们的程序都要运行在Linux上的。
+
+
+推荐大家使用 ubuntu （读音 乌班图，而不是 优版图） 桌面版。 目前最高版本是 16.04
+LTS。 这个是最广泛的Linux.
+
+
+推荐大家使用 win7 + ubuntu双系统。 这样对于新手比较友好。 不要使用虚拟机，特别卡。
+
+**** Vim
+如果你开发的语言不是Java, Object C 这样的传统语言（需要编译）， 而是 javascript,
+scala, Ruby, Python这样的动态语言，推荐使用VIM. 理由很简单：
+
+
+世界上只有三种编辑器： Vim, Emacs, 其他。
+同学们还是直接用Vim 吧。没那么花哨，极度好用。就是学习曲线略高。 一旦用上了，你
+身边的人看你敲键盘，完全是眼花缭乱的感觉。比鼠标流 效率高太多。
+
+
+**** 版本控制工具： Git
+不要用SVN. 过时了。
+
+更不要用 CVS, VSS这样 的工具， 更加的过时。
+
+使用Git。 使用命令行。 不要用图形化的工具， 也不要在IDE中使用GIT。
+
+下面是必须掌握的Git命令：
+
+clone, add, commit, push, pull, merge, branch
+
+具体的大家自行查看吧。
+
+*** 推荐唯一的一本书：《Pragmatic Programmer: 从小工到专家》
+图片描述
+作者是 敏捷宣言的两个创始人。 世界顶级软件专家。
+
+这本书05年9月左右开始，引领了我过去十一年的技术之路。充满了大量的方法论和安身立
+命的内容。 大家务必学习。 我过去读了好多本书，很多书是我一年就可以翻完的（因为已
+经具备了相应的知识和丰富的经验）。但是，这本书是特别少有的让人每次读起来都有收获
+的书。
+
+
+通篇没有几行代码， 都是文字，但是句句经典。
+
+*** 你要有自己的个人博客！
+作为一个互联网程序员，你务必要有自己的博客或者个人网站。 比如 http://siwei.me 就
+是我最好的名片。好多朋友和机会都是从我的个人网站找到我的。
+
+
+写技术博客很简单，你不需要长篇大论。 我每天写博客，无非就是把自己每天遇到的问题
+和想法记录下来。 一般来说不超过20行。 有的时候甚至就几十个字。但是它一旦被记录下
+来，你翻阅起来就特别方便。不需要去翻源代码了。
+
+
+程序员的知识很复杂的，不是看几本书就够的。
+软件开发不是一个特别系统的学科。 它的内容特别繁杂。 我梳理了过去5年我写的上千篇
+文章，发现工作中用到的内容，是一个大杂烩： 有app端，有H5端，有语言层面，也有服务
+器层面，有脚本，还有方法论，如何梳理需求，各种工具，等等等等。
+
+
+所以，大家不要认为， 我学了一本书，（某某开发指南）我就立马是个前端开发好手了。
+大家不要把自己限定成 前端 或者 后端； 也不要对自己说我就是一个java程序员， 我才
+不学PHP呢。
+
+
+你一定要做一个全栈好手，需要你做什么你就能顶上！
+
+*** 结语
+没想到会写这么多，不过还有很多东西没能特别详细的说明。 一家之言，我的观点与市面
+上流行的不太一致。 但是作为行业老兵，我坚持自己的观点。
+
+
+希望对大家有用。祝各位同学顺利！
+
+相关标签：JAVALinux职场生活
+
+作者： 申思维
+链接：http://www.imooc.com/article/12768
+来源：慕课网
+本文原创发布于慕课网 ，转载请注明出处，谢谢合作！
 ** DONE 你和高考状元之间只差这十个学习习惯
    CLOSED: [2017-09-26 二 16:18]
    :LOGBOOK:

@@ -7270,8 +7270,12 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
 
 ** DONE [#B] To relax in nature
-   CLOSED: [2017-10-09 Mon 10:58]
+   CLOSED: [2017-11-04 六 13:56]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-04 六 13:56]
+   - State "STARTED"    from "DONE"       [2017-11-04 六 08:49]
+   CLOCK: [2017-11-04 六 08:49]--[2017-11-04 六 13:56] =>  5:07
+   赶了个集，到乡村看一看。
    - State "DONE"       from "STARTED"    [2017-10-09 Mon 10:58]
    CLOCK: [2017-10-09 Mon 08:46]--[2017-10-09 Mon 10:58] =>  2:12
    :END:
