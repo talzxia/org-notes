@@ -687,7 +687,7 @@ Lisp背后的故事很有趣(你可以在第一编程语言史中查阅John McCa
 McCarthy在50年代后期考虑过使用一种最普通的编程语言来构造一个用户界面的AI(称为
 “警告”)。
 Lisp可以进行编程，大多数的程序都是机器代码;Fortran表处理语言存在，语言也有链表。
-John开发的Lisp可以编译任何编程语言都能做到的程序，而且相对简单，这也体现了它的本
+John开发的 Lisp 可以编译任何编程语言都能做到的程序，而且相对简单，这也体现了它的本
 质。(这让我们联想到数学部分或现代麦克斯韦方程式)，而这样的方式也会比图灵机器更简
 洁。
 我们知道从最简单的机器结构到最高级语言的发展斜率都是最陡峭的——这就意味着可识别的
@@ -2463,6 +2463,1214 @@ current-prefix-arg
         (cons (symbol-name major-mode) switch-major-mode-history))
   (funcall mode))
 这是我常用的一个命令之一。这个实现也是一个使用 minibuffer 历史的例子。
+*** DONE 正则表达式
+    CLOSED: [2017-11-05 日 14:51]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-11-05 日 14:51]
+    CLOCK: [2017-11-05 日 08:17]--[2017-11-05 日 11:16] =>  2:59
+    :END:
+如果你不懂正则表达式，而你还想进一步学习编程的话，那你应该停下手边的事情，先学学
+正则表达式。即使你不想学习编程，也不喜欢编程，学习一点正则表达式，也可能让你的文
+本编辑效率提高很多。
+
+在这里，我不想详细介绍正则表达式，因为我觉得这类的文档已经很多了，比我写得好的文
+章多的是。如果你找不到一个好的入门教程，我建议你不妨看看 perlretut。我想说的是和
+emacs 有关的正则表达式的内容，比如，和 Perl 正则表达式的差异、语法表格（syntax
+table）和字符分类（category）等。
+**** 与 Perl 正则表达式比较
+Perl是文本处理的首选语言。它内置强大而简洁的正则表达式，许多程序也都兼容 Perl
+的正则表达式。说实话，就简洁而言，我对 emacs 的正则表达式是非常反感的，那么多的
+反斜线经常让我抓狂。首先，emacs 里的反斜线构成的特殊结构（backslash construct）
+出现是相当频繁的。在 Perl 正则表达式里，()[]{}| 都是特殊字符，而 emacs 它们不是
+这样。所以它们匹配字符时是不用反斜线，而作为特殊结构时就要用反斜线。而事实上()|
+作为字符来匹配的情形远远小于作为捕捉字符串和作或运算的情形概率小。而 emacs 的正
+则表达式又没有 Perl 那种简洁的记号，完全用字符串来表示，这样使得一个正则表达式常
+常一眼看去全是 \\。到底要用多少个\？ 经常会记不住在 emacs 的正则表达式中应该用几个 \。有一个比较好
+的方法，首先想想没有引号引起时的正则表达式是怎样。比如对于特殊字符 $ 要用 \$，对
+于反斜线结构是 \(, \{，\| 等等。知道这个怎样写之后，再把所有 \ 替换成 \\，这就是
+最后写到双引号里形式。所以要匹配一个 \，应该用 \\，而写在引号里就应该用 \\\\ 来
+匹配。
+
+emacs 里匹配的对象不仅包括字符串，还有 buffer，所以有一些对字符串和 buffer 有区
+分的结构。比如 $ 对于字符串是匹配字符串的末尾，而在 buffer 里是行尾。而 \' 匹配
+的是字符串和 buffe 的末尾。对应 ^ 和 \` 也是这样。
+
+emacs 对字符有很多种分类方法，在正则表达式里也可以使用。比如按语法类型分类，可以
+用 "\s" 结构匹配一类语法分类的字符，最常用的比如匹配空格的 \s- 和匹配词的
+\sw（等价于 \w）。这在 Perl 里是没有的。另外 emacs 里字符还对应一个或多个分类
+（category），比如所有汉字在分类 c 里。这样可以用 \cc 来匹配一个汉字。这在 Perl
+里也有类似的分类。除此之外，还有一些预定义的字符分类，可以用 [:class:] 的形式，
+比如 [:digit:] 匹配 0-9 之间的数，[:ascii:] 匹配所有 ASCII 字符等等。在 Perl 里
+只定义几类最常用的字符集，比如 \d, \s, \w，但是我觉得非常实用。比 emacs 这样长的
+标记好用的多。
+
+另外在用 [] 表示一个字符集时，emacs 里不能用 \ 进行转义，事实上 \ 在这里不是一个
+特殊字符。所以 emacs 里的处理方法是，把特殊字符提前或放在后面，比如如果要在字符
+集里包括 ] 的话，要把 ] 放在第一位。而如果要包括 -，只能放在最后一位，如果要包括
+^ 不能放在第一位。如果只想匹配一个 ^，就只能用 \^ 的形式。比较拗口，希望下面这个
+例子能帮你理解
+(let ((str "abc]-^]123"))
+  (string-match "[]^0-9-]+" str)
+  (match-string 0 str))                 ; => "]-^]123"
+最后提示一下，emacs 提供一个很好的正则表达式调试工具：M-x re-builder。它能显示
+buffer 匹配正则表达式的字符串，并用不同颜色显示捕捉的字符串。
+
+**** 语法表格和分类表格简介
+
+语法表格指的是 emacs 为每个字符都指定了语法功能，这为解析函数，复杂的移动命令等
+等提供了各种语法结构的起点和终点。语法表使用的数据结构是一种称为字符表
+（char-table）的数组，它能以字符作为下标（还记得 emacs 里的字符就是整数吗）来得
+到对应的值。语法表里一个字符对应一个语法分类的列表。每一个分类都有一个助记字符
+（mnemonic character）。一共有哪几类分类呢？
+名称	助记符	说明
+空白（whitespace）	- 或 ' '
+词（word）	w
+符号（symbol）	_	这是除 word 之外其它用于变量和命令名的字符。
+标点（punctuation）	.
+open 和 close	( 和 )	一般是括号 ()[]{}
+字符串引号（string quote）	"
+转义符（escape-syntax）	\	用于转义序列，比如 C 和 Lisp 字符串中的 \。
+字符引号（character quote）	/
+paired delimiter	$	只有 TeX 模式中使用
+expression prefix	'
+注释开始和注释结束	< 和 >
+inherit standard syntax	@
+generic comment delimiter	!
+语法表格可以继承，所以基本上所有语法表格都是从 standard-syntax-table 继承而来，
+作少量修改，加上每个模式特有的语法构成就行了。一般来说记住几类重要的分类就行了，
+比如，空白包括空格，制表符，换行符，换页符。词包括所有的大小写字母，数字。符号一
+般按使用的模式而定，比如C中包含 _，而Lisp 中是 $&*+-_<>。可以用 M-x
+describe-syntax 来查看所有字符的语法分类。
+字符分类（category）是另一种分类方法，每个分类都有一个名字，对应一个从 到 ~ 的
+ASCII 字符。可以用 M-x describe-categories 查看所有字符的分类。每一种分类都有说
+明，我就不详细解释了。
+
+**** 几个常用的函数
+
+如果你要匹配的字符串中含有很多特殊字符，而你又想用正则表达式进行匹配，可以使用
+regexp-quote 函数，它可以让字符串中的特殊字符自动转义。
+
+一般多个可选词的匹配可以用或运算连接起来，但是这有两个不好的地方，一是要写很长的
+正则表达式，还含有很多反斜线，不好看，容易出错，也不好修改，二是效率很低。这时可
+以使用 regexp-opt 还产生一个更好的正则表达式
+(regexp-opt '("foobar" "foobaz" "foo")) ; => "foo\\(?:ba[rz]\\)?"
+**** 函数列表
+(regexp-quote STRING)
+(regexp-opt STRINGS &optional PAREN)
+**** 命令列表
+describe-syntax
+describe-categories
+*** DONE 操作对象之一 ── 缓冲区
+    CLOSED: [2017-11-05 日 15:30]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-11-05 日 15:30]
+    CLOCK: [2017-11-05 日 14:58]--[2017-11-05 日 15:30] =>  0:32
+    :END:
+
+缓冲区（buffer）是用来保存要编辑文本的对象。通常缓冲区都是和文件相关联的，但是也
+有很多缓冲区没有对应的文件。emacs 可以同时打开多个文件，也就是说能同时有很多个缓
+冲区存在，但是在任何时候都只有一个缓冲区称为当前缓冲区（current buffer）。即使在
+lisp 编程中也是如此。许多编辑和移动的命令只能针对当前缓冲区。
+
+**** 缓冲区的名字
+
+emacs 里的所有缓冲区都有一个不重复的名字。所以和缓冲区相关的函数通常都是可以接受
+一个缓冲区对象或一个字符串作为缓冲区名查找对应的缓冲区。下面的函数列表中如果参数
+是 BUFFER-OR-NAME 则是能同时接受缓冲区对象和缓冲区名的函数，否则只能接受一种参数。
+有一个习惯是名字以空格开头的缓冲区是临时的，用户不需要关心的缓冲区。所以现在一般
+显示缓冲区列表的命令都不会显示这样的变量，除非这个缓冲区关联一个文件。
+要得到缓冲区的名字，可以用 buffer-name 函数，它的参数是可选的，如果不指定参数，
+则返回当前缓冲区的名字，否则返回指定缓冲区的名字。更改一个缓冲区的名字用
+rename-buffer，这是一个命令，所以你可以用 M-x 调用来修改当前缓冲区的名字。如果你
+指定的名字与现有的缓冲区冲突，则会产生一个错误，除非你使用第二个可选参数以产生一
+个不相同的名字，通常是在名字后加上 <序号> 的方式使名字变得不同。你也可以用
+generate-new-buffer-name 来产生一个唯一的缓冲区名。
+
+**** 当前缓冲区
+
+当前缓冲区可以用 current-buffer 函数得到。当前缓冲区不一定是显示在屏幕上的那个缓
+冲区，你可以用 set-buffer 来指定当前缓冲区。但是需要注意的是，当命令返回到命令循
+环时，光标所在的缓冲区 会自动成为当前缓冲区。这也是单独在 *scratch* 中执行
+set-buffer 后并不能改变当前缓冲区，而必须使用 progn 语句同时执行多个语句才能改变
+当前缓冲区的原因
+(set-buffer "*Messages*")   ; => #<buffer *Messages*>
+(message (buffer-name))                  ; => "*scratch*"
+(progn
+  (set-buffer "*Messages*")
+  (message (buffer-name)))               ; "*Messages*"
+但是你不能依赖命令循环来把当前缓冲区设置成使用 set-buffer 之前的。因为这个命令很
+可以会被另一个程序员来调用。你也不能直接用 set-buffer 设置成原来的缓冲区，比如
+
+(let (buffer-read-only
+      (obuf (current-buffer)))
+  (set-buffer ...)
+  ...
+  (set-buffer obuf))
+因为 set-buffer 不能处理错误或退出情况。正确的作法是使用 save-current-buffer、
+      with-current-buffer 和 save-excursion 等方法。save-current-buffer 能保存当
+      前缓冲区，执行其中的表达式，最后恢复为原来的缓冲区。如果原来的缓冲区被关闭
+      了，则使用最后使用的那个当前缓冲区作为语句返回后的当前缓冲区。lisp 中很多
+      以 with 开头的宏，这些宏通常是在不改变当前状态下，临时用另一个变量代替现有
+      变量执行语句。比如 with-current-buffer 使用另一个缓冲区作为当前缓冲区，语
+      句执行结束后恢复成执行之前的那个缓冲区
+(with-current-buffer BUFFER-OR-NAME
+   body)
+相当于
+(save-current-buffer
+  (set-buffer BUFFER-OR-NAME)
+  body)
+save-excursion 与 save-current-buffer 不同之处在于，它不仅保存当前缓冲区，还保存
+      了当前的位置和 mark。在 *scratch* 缓冲区中运行下面两个语句就能看出它们的差
+      别了
+(save-current-buffer
+  (set-buffer "*scratch*")
+  (goto-char (point-min))
+  (set-buffer "*Messages*"))
+
+(save-excursion
+  (set-buffer "*scratch*")
+  (goto-char (point-min))
+  (set-buffer "*Messages*"))
+**** 创建和关闭缓冲区
+产生一个缓冲区必须用给这个缓冲区一个名字，所以两个能产生新缓冲区的函数都是以一个
+字符串为参数：get-buffer-create 和 generate-new-buffer。这两个函数的差别在于前者
+如果给定名字的缓冲区已经存在，则返回这个缓冲区对象，否则新建一个缓冲区，名字为参
+数字符串，而后者在给定名字的缓冲区存在时，会使用加上后缀 <N>（N 是一个整数，从2
+开始） 的名字创建新的缓冲区。
+关闭一个缓冲区可以用 kill-buffer。当关闭缓冲区时，如果要用户确认是否要关闭缓冲区，
+可以加到 kill-buffer-query-functions 里。如果要做一些善后处理，可以用
+kill-buffer-hook。
+通常一个接受缓冲区作为参数的函数都需要参数所指定的缓冲区是存在的。如果要确认一个
+缓冲区是否依然还存在可以使用 buffer-live-p。
+要对所有缓冲区进行某个操作，可以用 buffer-list 获得所有缓冲区的列表。
+
+如果你只是想使用一个临时的缓冲区，而不想先建一个缓冲区，使用结束后又需要关闭这个
+缓冲区，可以用 with-temp-buffer 这个宏。从这个宏的名字可以看出，它所做的事情是先
+新建一个临时缓冲区，并把这个缓冲区作为当前缓冲区，使用结束后，关闭这个缓冲区，并
+恢复之前的缓冲区为当前缓冲区。
+
+**** 在缓冲区内移动
+
+在学会移动函数之前，先要理解两个概念：位置（position）和标记（mark）。位置是指某
+个字符在缓冲区内的下标，它从1开始。更准确的说位置是在两个字符之间，所以有在位置
+之前的字符和在位置之后的字符之说。但是通常我们说在某个位置的字符都是指在这个位置
+之后的字符。
+标记和位置的区别在于位置会随文本插入和删除而改变位置。一个标记包含了缓冲区和位置
+两个信息。在插入和删除缓冲区里的文本时，所有的标记都会检查一遍，并重新设置位置。
+这对于含有大量标记的缓冲区处理是很花时间的，所以当你确认某个标记不用的话应该释放
+这个标记。
+创建一个标记使用函数 make-marker。这样产生的标记不会指向任何地方。你需要用
+set-marker 命令来设置标记的位置和缓冲区
+(setq foo (make-marker))             ; => #<marker in no buffer>
+(set-marker foo (point))             ; => #<marker at 3594 in *scratch*>
+也可以用 point-marker 直接得到 point 处的标记。或者用 copy-marker 复制一个标记或
+者直接用位置生成一个标记
+(point-marker)                       ; => #<marker at 3516 in *scratch*>
+(copy-marker 20)                     ; => #<marker at 20 in *scratch*>
+(copy-marker foo)                    ; => #<marker at 3502 in *scratch*>
+如果要得一个标记的内容，可以用 marker-position，marker-buffer
+(marker-position foo)                ; => 3502
+(marker-buffer foo)                  ; => #<buffer *scratch*>
+位置就是一个整数，而标记在一般情况下都是以整数的形式使用，所以很多接受整数运算的
+函数也可以接受标记为参数。比如加减乘。
+和缓冲区相关的变量，有的可以用变量得到，比如缓冲区关联的文件名，有的只能用函数来
+得到，比如 point。point 是一个特殊的缓冲区位置，许多命令在这个位置进行文本插入。
+每个缓冲区都有一个 point 值，它总是比函数point-min 大，比另一个函数 point-max 返
+回值小。注意，point-min 的返回值不一定是 1，point-max 的返回值也不定是比缓冲区大
+小函数 buffer-size 的返回值大 1 的数，因为 emacs 可以把一个缓冲区缩小（narrow）
+到一个区域，这时 point-min 和 point-max 返回值就是这个区域的起点和终点位置。所以
+要得到 point 的范围，只能用这两个函数，而不能用 1 和 buffer-size 函数。
+和 point 类似，有一个特殊的标记称为 "the mark"。它指定了一个区域的文本用于某些命
+令，比如 kill-region，indent-region。可以用 mark 函数返回当前 mark 的值。如果使
+用 transient-mark-mode，而且 mark-even-if-inactive值是 nil 的话，在 mark 没有激
+活时（也就是 mark-active 的值为 nil），调用 mark 函数会产生一个错误。如果传递一
+个参数 force 才能返回当前缓冲区 mark 的位置。mark-marker 能返回当前缓冲区的 mark，
+这不是 mark 的拷贝，所以设置它的值会改变当前 mark 的值。set-mark 可以设置 mark
+的值，并激活 mark。每个缓冲区还维护一个mark-ring，这个列表里保存了 mark 的前一个
+值。当一个命令修改了 mark 的值时，通常要把旧的值放到 mark-ring 里。可以用
+push-mark 和 pop-mark 加入或删除 mark-ring 里的元素。当缓冲区里 mark 存在且指向
+某个位置时，可以用 region-beginning 和 region-end 得到 point 和 mark 中较小的和
+较大的值。当然如果使用 transient-mark-mode 时，需要激活 mark，否则会产生一个错误。
+***** 思考题
+写一个命令，对于使用 transient-mark-mode 时，当选中一个区域时显示区域 的起点和终
+点，否则显示 point-min 和 point-max 的位置。如果不使用 transient-mark-mode，则显
+示 point 和 mark 的位置。
+按单个字符位置来移动的函数主要使用 goto-char 和 forward-char、backward-char。前
+者是按缓冲区的绝对位置移动，而后者是按 point 的偏移位置移动比如
+(goto-char (point-min))                   ; 跳到缓冲区开始位置
+(forward-char 10)                         ; 向前移动 10 个字符
+(forward-char -10)                        ; 向后移动 10 个字符
+可能有一些写 elisp 的人没有读文档或者贪图省事，就在写的 elisp 里直接用
+beginning-of-buffer 和 end-of-buffer 来跳到缓冲区的开头和末尾，这其实是不对的。
+因为这两个命令还做了其它事情，比如设置标记等等。同样，还有一些函数都是不推荐在
+elisp 中使用的，如果你准备写一个要发布 elisp，还是要注意一下。
+按词移动使用 forward-word 和 backward-word。至于什么是词，这就要看语法表格的定义了。
+按行移动使用 forward-line。没有 backward-line。forward-line 每次移动都是移动到行
+首的。所以，如果要移动到当前行的行首，使用 (forward-line 0)。如果不想移动就得到
+行首和行尾的位置，可以用 line-beginning-position 和 line-end-position。得到当前
+行的行号可以用 line-number-at-pos。需要注意的是这个行号是从当前状态下的行号，如
+果使用 narrow-to-region 或者用 widen 之后都有可能改变行号。
+由于 point 只能在 point-min 和 point-max 之间，所以 point 位置测试有时是很重要的，
+特别是在循环条件测试里。常用的测试函数是 bobp（beginning of buffer predicate）和
+eobp（end of buffer predicate）。对于行位置测试使用 bolp（beginning of line
+predicate）和 eolp（end of line predicate）。
+**** 缓冲区的内容
+要得到整个缓冲区的文本，可以用 buffer-string 函数。如果只要一个区间的文本，使用
+buffer-substring 函数。point 附近的字符可以用 char-after 和 char-before 得到。
+point 处的词可以用 current-word 得到，其它类型的文本，比如符号，数字，S 表达式等
+等，可以用 thing-at-point 函数得到。
+***** 思考题
+参考 thing-at-point 写一个命令标记光标处的 S 表达式。这个命令和 mark-sexp 不同的
+  是，它能从整个 S 表达式的开始标记。
+**** 修改缓冲区的内容
+要修改缓冲区的内容，最常见的就是插入、删除、查找、替换了。下面就分别介绍这几种操作。
+插入文本最常用的命令是 insert。它可以插入一个或者多个字符串到当前缓冲区的 point
+  后。也可以用 insert-char 插入单个字符。插入另一个缓冲区的一个区域使用
+  insert-buffer-substring。
+删除一个或多个字符使用 delete-char 或 delete-backward-char。删除一个区间使用
+  delete-region。如果既要删除一个区间又要得到这部分的内容使用
+  delete-and-extract-region，它返回包含被删除部分的字符串。
+最常用的查找函数是 re-search-forward 和 re-search-backward。这两个函数参数如下
+(re-search-forward REGEXP &optional BOUND NOERROR COUNT)
+(re-search-backward REGEXP &optional BOUND NOERROR COUNT)
+其中 BOUND 指定查找的范围，默认是 point-max（对于 re-search-forward）或
+  point-min（对于 re-search-backward），NOERROR 是当查找失败后是否要产生一个错误，
+  一般来说在 elisp 里都是自己进行错误处理，所以这个一般设置为 t，这样在查找成功
+  后返回区配的位置，失败后会返回 nil。COUNT 是指定查找匹配的次数。
+替换一般都是在查找之后进行，也是使用 replace-match 函数。和字符串的替换不同的是
+  不需要指定替换的对象了。
+
+**** 思考题
+
+从 OpenOffice 字处理程序里拷贝到 emacs 里的表格通常都是每一个单元格就是一行的。
+  写一个命令，让用户输入表格的列数，把选中区域转换成用制表符分隔的表格。
+
+**** 函数列表
+
+(buffer-name &optional BUFFER)
+(rename-buffer NEWNAME &optional UNIQUE)
+(generate-new-buffer-name NAME &optional IGNORE)
+(current-buffer)
+(set-buffer BUFFER-OR-NAME))
+(save-current-buffer &rest BODY)
+(with-current-buffer BUFFER-OR-NAME &rest BODY)
+(save-excursion &rest BODY)
+(get-buffer-create NAME)
+(generate-new-buffer NAME)
+(kill-buffer BUFFER-OR-NAME)
+(buffer-live-p OBJECT)
+(buffer-list &optional FRAME)
+(with-temp-buffer &rest BODY)
+(make-marker)
+(set-marker MARKER POSITION &optional BUFFER)
+(point-marker)
+(copy-marker MARKER &optional TYPE)
+(marker-position MARKER)
+(marker-buffer MARKER)
+(point)
+(point-min)
+(point-max)
+(buffer-size &optional BUFFER)
+(mark &optional FORCE)
+(mark-marker)
+(set-mark POS)
+(push-mark &optional LOCATION NOMSG ACTIVATE)
+(pop-mark)
+(region-beginning)
+(region-end)
+(goto-char POSITION)
+(forward-char &optional N)
+(backward-char &optional N)
+(beginning-of-buffer &optional ARG)
+(end-of-buffer &optional ARG)
+(forward-word &optional ARG)
+(backward-word &optional ARG)
+(forward-line &optional N)
+(line-beginning-position &optional N)
+(line-end-position &optional N)
+(line-number-at-pos &optional POS)
+(narrow-to-region START END)
+(widen)
+(bobp)
+(eobp)
+(bolp)
+(eolp)
+(buffer-string)
+(buffer-substring START END)
+(char-after &optional POS)
+(char-before &optional POS)
+(current-word &optional STRICT REALLY-WORD)
+(thing-at-point THING)
+(insert &rest ARGS)
+(insert-char CHARACTER COUNT &optional INHERIT)
+(insert-buffer-substring BUFFER &optional START END)
+(delete-char N &optional KILLFLAG)
+(delete-backward-char N &optional KILLFLAG)
+(delete-region START END)
+(delete-and-extract-region START END)
+(re-search-forward REGEXP &optional BOUND NOERROR COUNT)
+(re-search-backward REGEXP &optional BOUND NOERROR COUNT)
+**** 问题解答
+可选择区域也可不选择区域的命令
+(defun show-region (beg end)
+  (interactive
+   (if (or (null transient-mark-mode)
+           mark-active)
+       (list (region-beginning) (region-end))
+     (list (point-min) (point-max))))
+  (message "Region start from %d to %d" beg end))
+这是通常那种如果选择区域则对这个区域应用命令，否则对整个缓冲区应用命令的方法。我喜欢用 transient-mark-mode，因为它让这种作用于区域的命令更灵活。当然也有人反对，无所谓了，emacs 本身就是很个性化的东西。
+标记整个S表达式
+(defun mark-whole-sexp ()
+  (interactive)
+  (let ((bound (bounds-of-thing-at-point 'sexp)))
+    (if bound
+        (progn
+          (goto-char (car bound))
+          (set-mark (point))
+          (goto-char (cdr bound)))
+      (message "No sexp found at point!"))))
+学习过程中应该可以看看其它一些函数是怎样实现的，从这些源代码中常常能学到很多有用的技巧和方法。比如要标记整个 S 表达式，联想到 thing-at-point 能得到整个 S 表达式，那自然能得到整个S表达式的起点和终点了。所以看看 thing-at-point 的实现，一个很简单的函数，一眼就能发现其中最关键的函数是 bounds-of-thing-at-point，它能返回某个语法实体（syntactic entity）的起点和终点。这样这个命令就很容易就能写出来了。从这个命令中还应该注意到的是对于错误应该很好的处理，让用户明白发生什么错了。比如这里，如果当前光标下没有 S 表达式时，bound 变量为 nil，如果不进行判断，会出现错误：
+Wrong type argument: integer-or-marker-p, nil
+加上这个判断，用户就明白发生什么事了。
+oowriter 表格转换
+实现这个目的有多种方法：
+一行一行移动，删除回车，替换成制表符
+(defun oowrite-table-convert (col beg end)
+  (interactive "nColumns of table: \nr")
+  (setq col (1- col))
+  (save-excursion
+    (save-restriction
+      (narrow-to-region beg end)
+      (goto-char (point-min))
+      (while (not (eobp))
+        (dotimes (i col)
+          (forward-line 1)
+          (backward-delete-char 1)
+          (insert-char ?\t 1))
+        (forward-line 1)))))
+用 subst-char-in-region 函数直接替换
+(defun oowrite-table-convert (col beg end)
+  (interactive "nColumns of table: \nr")
+  (save-excursion
+    (save-restriction
+      (narrow-to-region beg end)
+      (goto-char (point-min))
+      (while (not (eobp))
+        (subst-char-in-region
+         (point) (progn (forward-line col) (1- (point)))
+         ?\n ?\t)))))
+用 re-search-forward 和 replace-match 查找替
+(defun oowrite-table-convert (col beg end)
+  (interactive "nColumns of table: \nr")
+  (let (start bound)
+    (save-excursion
+      (save-restriction
+        (narrow-to-region beg end)
+        (goto-char (point-min))
+        (while (not (eobp))
+          (setq start (point))
+          (forward-line col)
+          (setq bound (copy-marker (1- (point))))
+          (goto-char start)
+          (while (re-search-forward "\n" bound t)
+            (replace-match "\t"))
+          (goto-char (1+ bound)))))))
+之所以要给出这三种方法，是想借此说明 elisp 编程其实要实现一个目的通常有 很多种方
+  法，选择一种适合的方法。比如这个问题较好的方法是使用第二种方法， 前提是你要知
+  道有 subst-char-in-region 这个函数，这就要求你对 emacs提供 的内置的函数比较熟
+  悉了，没有别的办法，只有自己多读 elisp manual，如果你 真想学习 elisp 的话，读
+  manual 还是值得的，我每读一遍都会有一些新的发 现。如果你不知道这个函数，只知道
+  常用的函数，那么相比较而言，第一种方法 是比较容易想到，也比较容易实现的。但是
+  事实上第三种方法才是最重要的方法， 因为这个方法是适用范围最广的。试想一下你如
+  果不是替换两个字符，而是字符 串的话，前面两种方法都没有办法使用了，而这个方法
+  只要稍微修改就能用了。
+另外，需要特别说明的是这个命令中 bound 使用的是一个标记而不是一个位置， 如果替换
+  的字符串和删除的字符串是相同长度的，当前用什么都可以，否则就要 注意了，因为在
+  替换之后，边界就有可能改变。这也是写查找替换的函数中很容 易出现的一个错误。解
+  决的办法，一是像我这样用一个标记来记录边界位置。另 一种就是用 narrow-to-region
+  的方法，先把缓冲区缩小到查找替换的区域，结 束后用 widen 展开。当然为了省事，可
+  以直接用 save-restriction。
+
+*** 操作对象之二 ── 窗口
+
+首先还是要定义一下什么是窗口（window）。窗口是屏幕上用于显示一个缓冲区 的部分。和它要区分开来的一个概念是 frame。frame 是 Emacs 能够使用屏幕的 部分。可以用窗口的观点来看 frame 和窗口，一个 frame 里可以容纳多个（至 少一个）窗口，而 Emacs 可以有多个 frame。（可能需要和通常所说的窗口的概 念要区分开来，一般来说，我们所说的其它程序的窗口更类似于 Emacs 的一个 frame，所以也有人认为这里 window 译为窗格更好一些。但是窗格这个词是一个 生造出来的词，我还是用窗口比较顺一些，大家自己注意就行了。）在任何时候， 都有一个被选中的 frame，而在这个 frame 里有一个被选中的窗口，称为选择的 窗口（selected window）。
+**** 分割窗口
+刚启动时，emacs 都是只有一个 frame 一个窗口。多个窗口都是用分割窗口的函 数生成的。分割窗口的内建函数是split-window。这个函数的参数如下：
+(split-window &optional window size horizontal)
+这个函数的功能是把当前或者指定窗口进行分割，默认分割方式是水平分割，可 以将参数中的 horizontal 设置为 non-nil 的值，变成垂直分割。如果不指定 大小，则分割后两个窗口的大小是一样的。分割后的两个窗口里的缓冲区是同 一个缓冲区。使用这个函数后，光标仍然在原窗口，而返回的新窗口对象：
+(selected-window)                       ; => #<window 136 on *scratch*>
+(split-window)                          ; => #<window 138 on *scratch*>
+需要注意的是，窗口的分割也需要用树的结构来看分割后的窗口，比如这样一个过程：
+    +---------------+         +---------------+
+    |               |         |      |        |
+    | win1          |         | win1 | win2   |
+    |               |   -->   |      |        |
+    |               |         |      |        |
+    |               |         |      |        |
+    +---------------+         +---------------+
+                                     |
+                                     v
+    +---------------+         +---------------+
+    | win1   |      |         |       |       |
+    |        | win2 |         | win1  | win2  |
+    |--------|      |   <--   |-------|       |
+    | 3 | 4  |      |         | win3  |       |
+    |   |    |      |         |       |       |
+    +---------------+         +---------------+
+可以看成是这样一种结构：
+(win1) ->  (win1 win2) -> ((win1 win3) win2) -> ((win1 (win3 win4)) win2)
+事实上可以用 window-tree 函数得到当前窗口的结构，如果忽略 minibuffer 对应的窗口，得到的应该类似这样的一个结果：
+(nil (0 0 170 42)
+     (t (0 0 85 42)
+        #<win 3>
+        (nil (0 21 85 42) #<win 8> #<win 10>))
+     #<win 6>)
+window-tree 返回值的第一个元素代表子窗口的分割方式，nil 表示水平分割， t 表示垂直分割。第二个元素代表整个结构的大小，这四个数字可以看作是左上 和右下两个顶点的坐标。其余元素是子窗口。每个子窗口也是同样的结构。所以 把前面这个列表还原成窗口排列应该是这样：
+     (0,0) +-------------------+
+           |         |         |
+           | win 3   |  win6   |
+           |         |         |
+    (0,21) |---------|         |
+           |    |    |         |
+           | 8  | 10 |         |
+           |    |    |         |
+           +-------------------+ (170, 42)
+                   (85, 42)
+由上面的图可以注意到由 window-tree 返回的结果一些窗口的大小不能确定， 比较上面的 win 8 和 win 10 只能知道它们合并起来的大小，不能确定它们分 别的宽度是多少。
+**** 删除窗口
+如果要让一个窗口不显示在屏幕上，要使用 delete-window 函数。如果没有指定 参数，删除的窗口是当前选中的窗口，如果指定了参数，删除的是这个参数对应 的窗口。删除的窗口多出来的空间会自动加到它的邻接的窗口中。如果要删除除 了当前窗口之外的窗口，可以用 delete-other-windows 函数。
+当一个窗口不可见之后，这个窗口对象也就消失了
+(setq foo (selected-window))            ; => #<window 90 on *scratch*>
+(delete-window)
+(windowp foo)                           ; => t
+(window-live-p foo)                     ; => nil
+**** 窗口配置
+窗口配置(window configuration) 包含了 frame 中所有窗口的位置信息：窗口 大小，显示的缓冲区，缓冲区中光标的位置和 mark，还有 fringe，滚动条等等。 用 current-window-configuration 得到当前窗口配置，用 set-window-configuration 来还原
+(setq foo (current-window-configuration))
+;; do sth to make some changes on windows
+(set-window-configuration foo)
+**** 选择窗口
+可以用 selected-window 得到当前光标所在的窗口
+(selected-window)                       ; => #<window 104 on *scratch*>
+可以用 select-window 函数使某个窗口变成选中的窗口
+(progn
+  (setq foo (selected-window))
+  (message "Original window: %S" foo)
+  (other-window 1)
+  (message "Current window: %S" (selected-window))
+  (select-window foo)
+  (message "Back to original window: %S" foo))
+两个特殊的宏可以保存窗口位置执行语句：save-selected-window 和 with-selected-window。它们的作用是在执行语句结束后选择的窗口仍留在执行 语句之前的窗口。with-selected-window 和 save-selected-window 几乎相同， 只不过 save-selected-window 选择了其它窗口。这两个宏不会保存窗口的位置 信息，如果执行语句结束后，保存的窗口已经消失，则会选择最后一个选择的窗 口。
+;; 让另一个窗口滚动到缓冲区开始
+(save-selected-window
+  (select-window (next-window))
+  (goto-char (point-min)))
+当前 frame 里所有的窗口可以用 window-list 函数得到。可以用 next-window 来得到在 window-list 里排在某个 window 之后的窗口。对应的用 previous-window 得到排在某个 window 之前的窗口。
+(selected-window)                       ; => #<window 245 on *scratch*>
+(window-list)
+;; => (#<window 245 on *scratch*> #<window 253 on *scratch*> #<window 251 on *info*>)
+(next-window)                           ; => #<window 253 on *scratch*>
+(next-window (next-window))             ; => #<window 251 on *info*>
+(next-window (next-window (next-window))) ; => #<window 245 on *scratch*>
+walk-windows 可以遍历窗口，相当于 (mapc proc (window-list))。 get-window-with-predicate 用于查找符合某个条件的窗口。
+**** 窗口大小信息
+窗口是一个长方形区域，所以窗口的大小信息包括它的高度和宽度。用来度量窗 口大小的单位都是以字符数来表示，所以窗口高度为 45 指的是这个窗口可以容 纳 45 行字符，宽度为 140 是指窗口一行可以显示 140 个字符。
+mode line 和 header line 都包含在窗口的高度里，所以有 window-height 和 window-body-height 两个函数，后者返回把 mode-line 和 header line 排除后 的高度。
+(window-height)                         ; => 45
+(window-body-height)                    ; => 44
+滚动条和 fringe 不包括在窗口的亮度里，window-width 返回窗口的宽度
+(window-width)                          ; => 72
+也可以用 window-edges 返回各个顶点的坐标信息
+(window-edges)                          ; => (0 0 73 45)
+window-edges 返回的位置信息包含了滚动条、fringe、mode line、header line 在内，window-inside-edges 返回的就是窗口的文本区域的位置
+(window-inside-edges)                   ; => (1 0 73 44)
+如果需要的话也可以得到用像素表示的窗口位置信息
+(window-pixel-edges)                    ; => (0 0 511 675)
+(window-inside-pixel-edges)             ; => (7 0 511 660)
+***** 思考题
+current-window-configuration 可以将当前窗口的位置信 息保存到一个变量中以便将来恢
+                   复窗口。但是这个对象没有读入形式，所以不 能保存到文件中。请写
+                   一个函数可以把当前窗口的位置信息生成一个列表，然 后用一个函数
+                   就能从这个列表恢复窗口。提示：这个列表结构用窗口的分割顺 序表
+                   示。比如用这样一个列表表示对应的窗口：
+;; +---------------+
+;; |   |   |       |
+;; |   |   |       |
+;; |-------|       |
+;; |       |       |
+;; |       |       |
+;; +---------------+
+;; =>
+(horizontal 73
+            (vertical 22
+                      (horizontal 36 win win)
+                      win)
+            win)
+**** 窗口对应的缓冲区
+窗口对应的缓冲区可以用 window-buffer 函数得到：
+(window-buffer)                         ; => #<buffer *scratch*>
+(window-buffer (next-window))           ; => #<buffer *info*>
+缓冲区对应的窗口也可以用 get-buffer-window 得到。如果有多个窗口显示同一 个缓冲区，那这个函数只能返回其中的一个，由window-list 决定。如果要得到 所有的窗口，可以用 get-buffer-window-list
+(get-buffer-window (get-buffer "*scratch*"))
+;; => #<window 268 on *scratch*>
+(get-buffer-window-list (get-buffer "*scratch*"))
+;; => (#<window 268 on *scratch*> #<window 270 on *scratch*>)
+让某个窗口显示某个缓冲区可以用 set-window-buffer 函数。 让选中窗口显示某个缓冲区也可以用 switch-to-buffer，但是一般不要在 elisp 编程中用这个命令，如果需要让某个缓冲区成为当前缓冲区使用 set-buffer 函数，如果要让当前窗口显示某个缓冲区，使用 set-window-buffer 函数。
+让一个缓冲区可见可以用 display-buffer。默认的行为是当缓冲区已经显示在某 个窗口中时，如果不是当前选中窗口，则返回那个窗口，如果是当前选中窗口， 且如果传递的 not-this-window 参数为 non-nil 时，会新建一个窗口，显示缓 冲区。如果没有任何窗口显示这个缓冲区，则新建一个窗口显示缓冲区，并返回 这个窗口。display-buffer 是一个比较高级的命令，用户可以通过一些变量来改 变这个命令的行为。比如控制显示的 pop-up-windows， display-buffer-reuse-frames，pop-up-frames，控制新建窗口高度的 split-height-threshold，even-window-heights，控制显示的 frame 的 special-display-buffer-names，special-display-regexps， special-display-function，控制是否应该显示在当前选中窗口 same-window-buffer-names，same-window-regexps 等等。如果这些还不能满 足你的要求（事实上我觉得已经太复杂了），你还可以自己写一个函数，将 display-buffer-function 设置成这个函数。
+***** 思考题
+前一个思考题只能还原窗口，不能还原缓冲区。请修改一下使它能保存缓冲区信息，还原时
+                   让对应的窗口显示对应的缓冲区。
+
+**** 改变窗口显示区域
+
+每个窗口会保存一个显示缓冲区的起点位置，这个位置对应于窗口左上角光标在 缓冲区里
+                   的位置。可以用 window-start 函数得到某个窗口的起点位置。可以
+                   通 过 set-window-start 来改变显示起点位置。可以通过
+                   pos-visible-in-window-p 来检测缓冲区中某个位置是否是可见的。
+                   但是直接通过 set-window-start 来控制显示比较容易出现错误，因
+                   为 set-window-start 并不会改变 point 所在的位置，在窗口调用
+                   redisplay 函 数之后 point 会跳到相应的位置。如果你确实有这个
+                   需要，我建议还是用： (with-selected-window window (goto-char
+                   pos)) 来代替。
+
+**** 函数列表
+(windowp OBJECT)
+(split-window &optional WINDOW SIZE HORFLAG)
+(selected-window)
+(window-tree &optional FRAME)
+(delete-window &optional WINDOW)
+(delete-other-windows &optional WINDOW)
+(current-window-configuration &optional FRAME)
+(set-window-configuration CONFIGURATION)
+(other-window ARG &optional ALL-FRAMES)
+(save-selected-window &rest BODY)
+(with-selected-window WINDOW &rest BODY)
+(window-list &optional FRAME MINIBUF WINDOW)
+(next-window &optional WINDOW MINIBUF ALL-FRAMES)
+(previous-window &optional WINDOW MINIBUF ALL-FRAMES)
+(walk-windows PROC &optional MINIBUF ALL-FRAMES)
+(get-window-with-predicate PREDICATE &optional MINIBUF ALL-FRAMES DEFAULT)
+(window-height &optional WINDOW)
+(window-body-height &optional WINDOW)
+(window-width &optional WINDOW)
+(window-edges &optional WINDOW)
+(window-inside-edges &optional WINDOW)
+(window-pixel-edges &optional WINDOW)
+(window-inside-pixel-edges &optional WINDOW)
+(window-buffer &optional WINDOW)
+(get-buffer-window BUFFER-OR-NAME &optional FRAME)
+(get-buffer-window-list BUFFER-OR-NAME &optional MINIBUF FRAME)
+(set-window-buffer WINDOW BUFFER-OR-NAME &optional KEEP-MARGINS)
+(switch-to-buffer BUFFER-OR-NAME &optional NORECORD)
+(display-buffer BUFFER-OR-NAME &optional NOT-THIS-WINDOW FRAME)
+(window-start &optional WINDOW)
+(set-window-start WINDOW POS &optional NOFORCE)
+**** 问题解答
+***** 保存窗口位置信息
+这是我的答案。欢迎提出改进意见
+(defun my-window-tree-to-list (tree)
+  (if (windowp tree)
+      'win
+    (let ((dir (car tree))
+          (children (cddr tree)))
+      (list (if dir 'vertical 'horizontal)
+            (if dir
+                (my-window-height (car children))
+              (my-window-width (car children)))
+            (my-window-tree-to-list (car children))
+            (if (> (length children) 2)
+                (my-window-tree-to-list (cons dir (cons nil (cdr children))))
+              (my-window-tree-to-list (cadr children)))))))
+
+(defun my-window-width (win)
+  (if (windowp win)
+      (window-width win)
+    (let ((edge (cadr win)))
+      (- (nth 2 edge) (car edge)))))
+
+(defun my-window-height (win)
+  (if (windowp win)
+      (window-height win)
+    (let ((edge (cadr win)))
+      (- (nth 3 edge) (cadr edge)))))
+
+(defun my-list-to-window-tree (conf)
+  (when (listp conf)
+    (let (newwin)
+      (setq newwin (split-window nil (cadr conf)
+                                 (eq (car conf) 'horizontal)))
+      (my-list-to-window-tree (nth 2 conf))
+      (select-window newwin)
+      (my-list-to-window-tree (nth 3 conf)))))
+
+(defun my-restore-window-configuration (winconf)
+  (delete-other-windows)
+  (my-list-to-window-tree winconf))
+
+(defun my-current-window-configuration ()
+  (my-window-tree-to-list (car (window-tree))))
+
+;; test code here
+(setq foo (my-current-window-configuration))
+;; do sth to change windows
+(my-restore-window-configuration foo)
+***** 改进的保存窗口信息的函数
+由于缓冲区对象也是没有读入形式的，所以返回的列表里只能用缓冲区名来代表 缓冲区，只要没有修改过缓冲区的名字，就能正确的还原缓冲区。如果对于访问 文件的缓冲区，使用文件名可能是更好的想法。保存信息只要对 my-window-tree-to-list 函数做很小的修改就能用了。而恢复窗口则要做较大 改动。my-list-to-window-tree 加了一个函数参数，这样这个函数的可定制性 更高一些。
+(defun my-window-tree-to-list (tree)
+  (if (windowp tree)
+      (buffer-name (window-buffer tree))
+    (let ((dir (car tree))
+          (children (cddr tree)))
+      (list (if dir 'vertical 'horizontal)
+            (if dir
+                (my-window-height (car children))
+              (my-window-width (car children)))
+            (my-window-tree-to-list (car children))
+            (if (> (length children) 2)
+                (my-window-tree-to-list (cons dir (cons nil (cdr children))))
+              (my-window-tree-to-list (cadr children)))))))
+
+(defun my-list-to-window-tree (conf set-winbuf)
+  (let ((newwin (split-window nil (cadr conf)
+                              (eq (car conf) 'horizontal))))
+    (if (eq (car conf) 'horizontal)
+        (progn
+          (funcall set-winbuf (selected-window) (nth 2 conf))
+          (select-window newwin)
+          (if (listp (nth 3 conf))
+              (my-list-to-window-tree (nth 3 conf))
+            (funcall set-winbuf newwin (nth 3 conf))))
+      (if (listp (nth 2 conf))
+          (my-list-to-window-tree (nth 2 conf))
+        (funcall set-winbuf (selected-window) (nth 2 conf)))
+      (select-window newwin)
+      (funcall set-winbuf newwin (nth 3 conf)))))
+
+(defun my-restore-window-configuration (winconf)
+  (let ((buf (current-buffer)))
+    (delete-other-windows)
+    (my-list-to-window-tree winconf
+                            (lambda (win name)
+                              (set-window-buffer win (or (get-buffer name)
+                                                         buf))))))
+*** 操作对象之三 ── 文件
+
+作为一个编辑器，自然文件是最重要的操作对象之一。这一节要介绍有关文件的一系列命令，比如查找文件，读写文件，文件信息、读取目录、文件名操作等。
+**** 打开文件的过程
+当你打开一个文件时，实际上 emacs 做了很多事情：
+把文件名展开成为完整的文件名
+**** 判断文件是否存在
+判断文件是否可读或者文件大小是否太大
+查看文件是否已经打开，是否被锁定
+向缓冲区插入文件内容
+**** 设置缓冲区的模式
+这还只是简单的一个步骤，实际情况比这要复杂的多，许多异常需要考虑。而且 为了所有函数的可扩展性，许多变量、handler 和 hook 加入到文件操作的函数 中，使得每一个环节都可以让用户或者 elisp 开发者可以定制，甚至完全接管 所有的文件操作。
+这里需要区分两个概念：文件和缓冲区。它们是两个不同的对象，文件是在计算 机上可持久保存的信息，而缓冲区是 Emacs 中包含文件内容信息的对象，在 emacs 退出后就会消失，只有当保存缓冲区之后缓冲区里的内容才写到文件中去。
+**** 文件读写
+打开一个文件的命令是 find-file。这命令使一个缓冲区访问某个文件，并让这 个缓冲区成为当前缓冲区。在打开文件过程中会调用 find-file-hook。 find-file-noselect 是所有访问文件的核心函数。与 find-file 不同，它只返 回访问文件的缓冲区。这两个函数都有一个特点，如果 emacs 里已经有一个缓冲 区访问这个文件的话，emacs 不会创建另一个缓冲区来访问文件，而只是简单返 回或者转到这个缓冲区。怎样检查有没有缓冲区是否访问某个文件呢？所有和文 件关联的缓冲区里都有一个 buffer-local 变量buffer-file-name。但是不要直 接设置这个变量来改变缓冲区关联的文件。而是使用 set-visited-file-name 来 修改。同样不要直接从 buffer-list 里搜索buffer-file-name 来查找和某个文 件关联的缓冲区。应该使用get-file-buffer 或者 find-buffer-visiting。
+(find-file "~/temp/test.txt")
+(with-current-buffer
+    (find-file-noselect "~/temp/test.txt")
+  buffer-file-name)                     ; => "/home/ywb/temp/test.txt"
+(find-buffer-visiting "~/temp/test.txt") ; => #<buffer test.txt>
+(get-file-buffer "~/temp/test.txt")      ; => #<buffer test.txt>
+保存一个文件的过程相对简单一些。首先创建备份文件，处理文件的位模式，将 缓冲区写入文件。保存文件的命令是 save-buffer。相当于其它编辑器里另存为 的命令是 write-file。在这个过程中会调用一些函数或者 hook。 write-file-functions 和 write-contents-functions 几乎功能完全相同。它们 都是在写入文件之前运行的函数，如果这些函数中有一个返回了 non-nil 的值， 则会认为文件已经写入了，后面的函数都不会运行，而且也不会使用再调用其它 写入文件的函数。这两个变量有一个重要的区别是write-contents-functions 在 改变主模式之后会被修改，因为它没有permanent-local 属性，而 write-file-functions 则会仍然保留。before-save-hook 和 write-file-functions 功能也比较类似，但是这个变量里的函数会逐个执行，不 论返回什么值也不会影响后面文件的写入。after-save-hook 是在文件已经写入 之后才调用的 hook，它是 save-buffer 最后一个动作。
+但是实际上在 elisp 编程过程中经常遇到的一个问题是读取一个文件中的内容， 读取完之后并不希望这个缓冲区还留下来，如果直接用 kill-buffer 可能会把 用户打开的文件关闭。而且 find-file-noselect 做的事情实在超出我们的需要 的。这时你可能需要的是更底层的文件读写函数，它们是 insert-file-contents 和 write-region，调用形式分别是
+(insert-file-contents filename &optional visit beg end replace)
+(write-region start end filename &optional append visit lockname mustbenew)
+insert-file-contents 可以插入文件中指定部分到当前缓冲区中。如果指定 visit 则会标记缓冲区的修改状态并关联缓冲区到文件，一般是不用的。 replace 是指是否要删除缓冲区里其它内容，这比先删除缓冲区其它内容后插入文 件内容要快一些，但是一般也用不上。insert-file-contents 会处理文件的编 码，如果不需要解码文件的话，可以用 insert-file-contents-literally。
+write-region 可以把缓冲区中的一部分写入到指定文件中。如果指定 append 则是添加到文件末尾。和 insert-file-contents 相似，visit 参数也会把缓冲 区和文件关联，lockname 则是文件锁定的名字，mustbenew 确保文件存在时会 要求用户确认操作。
+***** 思考题
+写一个函数提取出某个 c 头文件中的函数声明中的函数名和声明位置。
+**** 文件信息
+文件是否存在可以使用 file-exists-p 来判断。对于目录和一般文件都可以用 这个函数进行判断，但是符号链接只有当目标文件存在时才返回 t。
+如何判断文件是否可读或者可写呢？file-readable-p、file-writable-p， file-executable-p 分用来测试用户对文件的权限。文件的位模式还可以用 file-modes 函数得到。
+(file-exists-p "~/temp/test.txt")              ; => t
+(file-readable-p "~/temp/test.txt")            ; => t
+(file-writable-p "~/temp/test.txt")            ; => t
+(file-executable-p "~/temp/test.txt")          ; => nil
+(format "%o" (file-modes "~/temp/test.txt"))   ; => "644"
+文件类型判断可以使用 file-regular-p、file-directory-p、file-symlink-p， 分别判断一个文件名是否是一个普通文件（不是目录，命名管道、终端或者其它 IO 设备）、文件名是否一个存在的目录、文件名是否是一个符号链接。其中 file-symlink-p 当文件名是一个符号链接时会返回目标文件名。文件的真实名 字也就是除去相对链接和符号链接后得到的文件名可以用 file-truename 得到。 事实上每个和文件关联的 buffer 里也有一个缓冲区局部变量 buffer-file-truename 来记录这个文件名。
+$ ls -l t.txt
+lrwxrwxrwx 1 ywb ywb 8 2007-07-15 15:51 t.txt -> test.txt
+(file-regular-p "~/temp/t.txt")         ; => t
+(file-directory-p "~/temp/t.txt")       ; => nil
+(file-symlink-p "~/temp/t.txt")         ; => "test.txt"
+(file-truename "~/temp/t.txt")          ; => "/home/ywb/temp/test.txt"
+文件更详细的信息可以用 file-attributes 函数得到。这个函数类似系统的 stat 命令，返回文件几乎所有的信息，包括文件类型，用户和组用户，访问日 期、修改日期、status change 日期、文件大小、文件位模式、inode number、 system number。这是我写的方便使用的帮助函数：
+(defun file-stat-type (file &optional id-format)
+  (car (file-attributes file id-format)))
+(defun file-stat-name-number (file &optional id-format)
+  (cadr (file-attributes file id-format)))
+(defun file-stat-uid (file &optional id-format)
+  (nth 2 (file-attributes file id-format)))
+(defun file-stat-gid (file &optional id-format)
+  (nth 3 (file-attributes file id-format)))
+(defun file-stat-atime (file &optional id-format)
+  (nth 4 (file-attributes file id-format)))
+(defun file-stat-mtime (file &optional id-format)
+  (nth 5 (file-attributes file id-format)))
+(defun file-stat-ctime (file &optional id-format)
+  (nth 6 (file-attributes file id-format)))
+(defun file-stat-size (file &optional id-format)
+  (nth 7 (file-attributes file id-format)))
+(defun file-stat-modes (file &optional id-format)
+  (nth 8 (file-attributes file id-format)))
+(defun file-stat-guid-changep (file &optional id-format)
+  (nth 9 (file-attributes file id-format)))
+(defun file-stat-inode-number (file &optional id-format)
+  (nth 10 (file-attributes file id-format)))
+(defun file-stat-system-number (file &optional id-format)
+  (nth 11 (file-attributes file id-format)))
+(defun file-attr-type (attr)
+  (car attr))
+(defun file-attr-name-number (attr)
+  (cadr attr))
+(defun file-attr-uid (attr)
+  (nth 2 attr))
+(defun file-attr-gid (attr)
+  (nth 3 attr))
+(defun file-attr-atime (attr)
+  (nth 4 attr))
+(defun file-attr-mtime (attr)
+  (nth 5 attr))
+(defun file-attr-ctime (attr)
+  (nth 6 attr))
+(defun file-attr-size (attr)
+  (nth 7 attr))
+(defun file-attr-modes (attr)
+  (nth 8 attr))
+(defun file-attr-guid-changep (attr)
+  (nth 9 attr))
+(defun file-attr-inode-number (attr)
+  (nth 10 attr))
+(defun file-attr-system-number (attr)
+  (nth 11 attr))
+前一组函数是直接由文件名访问文件信息，而后一组函数是由 file-attributes 的返回值来得到文件信息。
+修改文件信息
+重命名和复制文件可以用 rename-file 和 copy-file。删除文件使用 delete-file。创建目录使用 make-directory 函数。不能用 delete-file 删除 目录，只能用 delete-directory 删除目录。当目录不为空时会产生一个错误。
+设置文件修改时间使用 set-file-times。设置文件位模式可以用 set-file-modes 函数。set-file-modes函数的参数必须是一个整数。你可以用位 函数 logand、logior 和 logxor 函数来进行位操作。
+***** 思考题
+写一个函数模拟 chmod 命令的行为。
+**** 文件名操作
+虽然 MSWin 的文件名使用的路径分隔符不同，但是这里介绍的函数都能用于 MSWin 形式的文件名，只是返回的文件名都是 Unix 形式了。路径一般由目录和 文件名，而文件名一般由主文件名(basename)、文件名后缀和版本号构成。 Emacs 有一系列函数来得到路径中的不同部分
+(file-name-directory "~/temp/test.txt")      ; => "~/temp/"
+(file-name-nondirectory "~/temp/test.txt")   ; => "test.txt"
+(file-name-sans-extension "~/temp/test.txt") ; => "~/temp/test"
+(file-name-extension "~/temp/test.txt")      ; => "txt"
+(file-name-sans-versions "~/temp/test.txt~") ; => "~/temp/test.txt"
+(file-name-sans-versions "~/temp/test.txt.~1~") ; => "~/temp/test.txt"
+路径如果是从根目录开始的称为是绝对路径。测试一个路径是否是绝对路径使用 file-name-absolute-p。如果在 Unix 或 GNU/Linux 系统，以 ~ 开头的路径也是绝对路径。在 MSWin 上，以 "/" 、 "\"、"X:" 开头的路径都是绝对路径。如果不是绝对路径，可以使用 expand-file-name 来得到绝对路径。把一个绝对路径转换成相对某个路径的相 对路径的可以用 file-relative-name 函数。
+(file-name-absolute-p "~rms/foo")       ; => t
+(file-name-absolute-p "/user/rms/foo")  ; => t
+(expand-file-name "foo")                ; => "/home/ywb/foo"
+(expand-file-name "foo" "/usr/spool/")  ; => "/usr/spool/foo"
+(file-relative-name "/foo/bar" "/foo/") ; => "bar"
+(file-relative-name "/foo/bar" "/hack/") ; => "../foo/bar"
+对于目录，如果要将其作为目录，也就是确保它是以路径分隔符结束，可以用 file-name-as-directory。不要用 (concat dir "/") 来转换，这会有移植问题。 和它相对应的函数是 directory-file-name
+(file-name-as-directory "~rms/lewis")   ; => "~rms/lewis/"
+(directory-file-name "~lewis/")         ; => "~lewis"
+如果要得到所在系统使用的文件名，可以用 convert-standard-filename。比如 在 MSWin 系统上，可以用这个函数返回用 "\" 分隔的文件名
+(convert-standard-filename "c:/windows")  ;=> "c:\\windows"
+**** 临时文件
+如果需要产生一个临时文件，可以使用 make-temp-file。这个函数按给定前缀产 生一个不和现有文件冲突的文件，并返回它的文件名。如果给定的名字是一个相 对文件名，则产生的文件名会用 temporary-file-directory 进行扩展。也可以 用这个函数产生一个临时文件夹。如果只想产生一个不存在的文件名，可以用 make-temp-name 函数
+(make-temp-file "foo")                  ; => "/tmp/foo5611dxf"
+(make-temp-name "foo")                  ; => "foo5611q7l"
+**** 读取目录内容
+可以用 directory-files 来得到某个目录中的全部或者符合某个正则表达式的 文件名。
+(directory-files "~/temp/dir/")
+;; =>
+;; ("#foo.el#" "." ".#foo.el" ".." "foo.el" "t.pl" "t2.pl")
+(directory-files "~/temp/dir/" t)
+;; =>
+;; ("/home/ywb/temp/dir/#foo.el#"
+;;  "/home/ywb/temp/dir/."
+;;  "/home/ywb/temp/dir/.#foo.el"
+;;  "/home/ywb/temp/dir/.."
+;;  "/home/ywb/temp/dir/foo.el"
+;;  "/home/ywb/temp/dir/t.pl"
+;;  "/home/ywb/temp/dir/t2.pl")
+(directory-files "~/temp/dir/" nil "\\.pl$") ; => ("t.pl" "t2.pl")
+directory-files-and-attributes 和 directory-files 相似，但是返回的列表 中包含了 file-attributes 得到的信息。file-name-all-versions 用于得到某 个文件在目录中的所有版本，file-expand-wildcards 可以用通配符来得到目录 中的文件列表。
+***** 思考题
+写一个函数返回当前目录包括子目录中所有文件名。
+**** 神奇的 Handle
+如果不把文件局限在存储在本地机器上的信息，如果有一套基本的文件操作，比 如判断文件是否存在、打开文件、保存文件、得到目录内容之类，那远程的文件 和本地文件的差别也仅在于文件名表示方法不同而已。在 Emacs 里，底层的文件 操作函数都可以托管给 elisp 中的函数，这样只要用 elisp 实现了某种类型文 件的基本操作，就能像编辑本地文件一样编辑其它类型文件了。
+决定何种类型的文件名使用什么方式来操作是在 file-name-handler-alist 变 量定义的。它是由形如 (REGEXP . HANDLER) 的列表。如果文件名匹配这个 REGEXP 则使用 HANDLER 来进行相应的文件操作。这里所说的文件操作，具体的 来说有这些函数：
+`access-file', `add-name-to-file', `byte-compiler-base-file-name',
+`copy-file', `delete-directory', `delete-file',
+`diff-latest-backup-file', `directory-file-name', `directory-files',
+`directory-files-and-attributes', `dired-call-process',
+`dired-compress-file', `dired-uncache',
+`expand-file-name', `file-accessible-directory-p', `file-attributes',
+`file-directory-p', `file-executable-p', `file-exists-p',
+`file-local-copy', `file-remote-p', `file-modes',
+`file-name-all-completions', `file-name-as-directory',
+`file-name-completion', `file-name-directory', `file-name-nondirectory',
+`file-name-sans-versions', `file-newer-than-file-p',
+`file-ownership-preserved-p', `file-readable-p', `file-regular-p',
+`file-symlink-p', `file-truename', `file-writable-p',
+`find-backup-file-name', `find-file-noselect',
+`get-file-buffer', `insert-directory', `insert-file-contents',
+`load', `make-auto-save-file-name', `make-directory',
+`make-directory-internal', `make-symbolic-link',
+`rename-file', `set-file-modes', `set-file-times',
+`set-visited-file-modtime', `shell-command', `substitute-in-file-name',
+`unhandled-file-name-directory', `vc-registered',
+`verify-visited-file-modtime',
+`write-region'.
+在 HANDLE 里，可以只接管部分的文件操作，其它仍交给 emacs 原来的函数来完 成。举一个简单的例子。比如最新版本的 emacs 把 *scratch* 的 auto-save-mode 打开了。如果你不想这个缓 冲区的自动保存的文件名散布得到处都是，可以想办法让这个缓冲区的自动保存 文件放到指定的目录中。刚好 make-auto-save-file-name 是在上面这个列表里 的，但是不幸的是在函数定义里 make-auto-save-file-name 里不对不关联文件 的缓冲区使用 handler（我觉得是一个 bug 呀），继续往下看，发现生成保存文 件名是使用了 expand-file-name 函数，所以解决办法就产生了：
+(defun my-scratch-auto-save-file-name (operation &rest args)
+  (if (and (eq operation 'expand-file-name)
+           (string= (car args) "#*scratch*#"))
+      (expand-file-name (concat "~/.emacs.d/backup/" (car args)))
+    (let ((inhibit-file-name-handlers
+           (cons 'my-scratch-auto-save-file-name
+                 (and (eq inhibit-file-name-operation operation)
+                      inhibit-file-name-handlers)))
+          (inhibit-file-name-operation operation))
+      (apply operation args))))
+**** 函数列表
+(find-file FILENAME &optional WILDCARDS)
+(find-file-noselect FILENAME &optional NOWARN RAWFILE WILDCARDS)
+(set-visited-file-name FILENAME &optional NO-QUERY ALONG-WITH-FILE)
+(get-file-buffer FILENAME)
+(find-buffer-visiting FILENAME &optional PREDICATE)
+(save-buffer &optional ARGS)
+(insert-file-contents FILENAME &optional VISIT BEG END REPLACE)
+(insert-file-contents-literally FILENAME &optional VISIT BEG END REPLACE)
+(write-region START END FILENAME &optional APPEND VISIT LOCKNAME MUSTBENEW)
+(file-exists-p FILENAME)
+(file-readable-p FILENAME)
+(file-writable-p FILENAME)
+(file-executable-p FILENAME)
+(file-modes FILENAME)
+(file-regular-p FILENAME)
+(file-directory-p FILENAME)
+(file-symlink-p FILENAME)
+(file-truename FILENAME)
+(file-attributes FILENAME &optional ID-FORMAT)
+(rename-file FILE NEWNAME &optional OK-IF-ALREADY-EXISTS)
+(copy-file FILE NEWNAME &optional OK-IF-ALREADY-EXISTS KEEP-TIME PRESERVE-UID-GID)
+(delete-file FILENAME)
+(make-directory DIR &optional PARENTS)
+(delete-directory DIRECTORY)
+(set-file-modes FILENAME MODE)
+(file-name-directory FILENAME)
+(file-name-nondirectory FILENAME)
+(file-name-sans-extension FILENAME)
+(file-name-sans-versions NAME &optional KEEP-BACKUP-VERSION)
+(file-name-absolute-p FILENAME)
+(expand-file-name NAME &optional DEFAULT-DIRECTORY)
+(file-relative-name FILENAME &optional DIRECTORY)
+(file-name-as-directory FILE)
+(directory-file-name DIRECTORY)
+(convert-standard-filename FILENAME)
+(make-temp-file PREFIX &optional DIR-FLAG SUFFIX)
+(make-temp-name PREFIX)
+(directory-files DIRECTORY &optional FULL MATCH NOSORT)
+(dired-files-attributes DIR)
+**** 问题解答
+***** 提取头文件中函数名
+这是我写的一个版本，主要是函数声明的正则表达式不好写，函数是很简单的。 从这个例子也可以看出它错误的把那个 typedef void 当成函数声明了。如果你 知道更好的正则表达式，请告诉我一下。
+(defvar header-regexp-list
+  '(("^\\(?:\\(?:G_CONST_RETURN\\|extern\\|const\\)\\s-+\\)?[a-zA-Z][_a-zA-Z0-9]*\
+\\(?:\\s-*[*]*[ \t\n]+\\|\\s-+[*]*\\)\\([a-zA-Z][_a-zA-Z0-9]*\\)\\s-*(" . 1)
+    ("^\\s-*#\\s-*define\\s-+\\([a-zA-Z][_a-zA-Z0-9]*\\)" . 1)))
+(defun parse-c-header (file)
+  "Extract function name and declaration position using
+`header-regexp-list'."
+  (interactive "fHeader file: \nP")
+  (let (info)
+    (with-temp-buffer
+      (insert-file-contents file)
+      (dolist (re header-regexp-list)
+        (goto-char (point-min))
+        (while (re-search-forward (car re) nil t)
+          (push (cons (match-string (cdr re)) (line-beginning-position)) info))))
+    info))
+(parse-c-header "/usr/include/glib-2.0/gmodule.h")
+;; =>
+;; (("g_module_name" . 1788)
+;;  ("g_module_open" . 1747)
+;;  ("G_MODULE_EXPORT" . 1396)
+;;  ("G_MODULE_EXPORT" . 1317)
+;;  ("G_MODULE_IMPORT" . 1261)
+;;  ("g_module_build_path" . 3462)
+;;  ("g_module_name" . 2764)
+;;  ("g_module_symbol" . 2570)
+;;  ("g_module_error" . 2445)
+;;  ("g_module_make_resident" . 2329)
+;;  ("g_module_close" . 2190)
+;;  ("g_module_open" . 2021)
+;;  ("g_module_supported" . 1894)
+;;  ("void" . 1673))
+***** 模拟 chmod 的函数
+这是一个改变单个文件模式的 chmod 版本。递归版本的就自己作一个练习吧。最 好不要直接调用这个函数，因为每次调用都要解析一次 mode 参数，想一个只解 析一次的方法吧。
+(defun chmod (mode file)
+  "A elisp function to simulate command chmod.
+Note that the command chmod can accept MODE match
+`[ugoa]*([-+=]([rwxXst]*|[ugo]))+', but this version only can process
+MODE match `[ugoa]*[-+=]([rwx]*|[ugo])'.
+"
+  (cond ((integerp mode)
+         (if (> mode #o777)
+             (error "Unknown mode option: %d" mode)))
+        ((string-match "^[0-7]\\{3\\}$" mode)
+         (setq mode (string-to-number mode 8)))
+        ((string-match "^\\([ugoa]*\\)\\([-+=]\\)\\([rwx]*\\|[ugo]\\)$" mode)
+         (let ((users (append (match-string 1 mode) nil))
+               (mask-func (string-to-char (match-string 2 mode)))
+               (bits (append (match-string 3 mode) nil))
+               (oldmode (file-modes file))
+               (user-list '((?a . #o777)
+                            (?u . #o700)
+                            (?g . #o070)
+                            (?o . #o007)))
+               mask)
+           (when bits
+             (setq bits (* (cond ((= (car bits) ?u)
+                                  (lsh (logand oldmode #o700) -6))
+                                 ((= (car bits) ?g)
+                                  (lsh (logand oldmode #o070) -3))
+                                 ((= (car bits) ?o)
+                                  (logand oldmode #o007))
+                                 (t
+                                  (+ (if (member ?r bits) 4 0)
+                                     (if (member ?w bits) 2 0)
+                                     (if (member ?x bits) 1 0))))
+                           #o111))
+             (if users
+                 (setq mask (apply 'logior
+                                   (delq nil (mapcar
+                                              (lambda (u)
+                                                (assoc-default u user-list))
+                                              users))))
+               (setq mask #o777))
+             (setq mode
+                   (cond ((= mask-func ?\=)
+                          (logior (logand bits mask)
+                                  (logand oldmode (logxor mask #o777))))
+                         ((= mask-func ?\+)
+                          (logior oldmode (logand bits mask)))
+                         (t
+                          (logand oldmode
+                                  (logxor (logand bits mask) #o777))))))))
+        (t (error "Unknow mode option: %S" mode)))
+  (set-file-modes file mode))
+***** 列出目录中所有文件
+为了让这个函数更类似 directory-files 函数，我把参数设置为和它一样的：
+(defun my-directory-all-files (dir &optional full match nosort)
+  (apply 'append
+   (delq nil
+    (mapcar
+     (lambda (file)
+       (if (and (not (string-match "^[.]+$" (file-name-nondirectory file)))
+                (file-directory-p (expand-file-name file dir)))
+           (if full
+               (my-directory-all-files file full match nosort)
+             (mapcar (lambda (f)
+                       (concat (file-name-as-directory file) f))
+                     (my-directory-all-files (expand-file-name file dir)
+                                             full match nosort)))
+         (if (string-match match file)
+             (list file))))
+     (directory-files dir full nil nosort)))))
+*** 操作对象之四 ── 文本
+
+文本的插入删除，查找替换操作已经在缓冲区一节中讲过了。这一节主要介绍文 本属性。
+如果使用过其它图形界面的文本组件进行编程，它们对于文本的高亮一般都是采 用给对应
+文本贴上相应标签的方法。Emacs 的处理方法也是类似的，但是相比之 下，要强大的多。
+在 Emacs 里，在不同位置上的每个字符都可以有一个属性列表。 这个属性列表和符号的属
+性列表很相似，都是由一个名字和值构成的对组成。名 字和值都可以是一个 lisp 对象，
+但是通常名字都是一个符号，这样可以用这个 符号来查找相应的属性值。复制文本通常都
+会复制相应的字符的文本属性，但是 也可以用相应的函数只复制文本字符串，比如
+substring-no-properties、 insert-buffer-substring-no-properties、
+buffer-substring-no-properties。
+
+产生一个带属性的字符串可以用 propertize 函数
+(propertize "abc" 'face 'bold)          ; => #("abc" 0 3 (face bold))
+如果你在一个 text-mode 的缓冲区内用 M-x eval-expression 用 insert 函数 插入前面
+这个字符串，就会发现插入的文本已经是粗体字了。之所以不能在 *scratch* 产生这种效
+果，是因为通常我们是开启了 font-lock-mode，在 font-lock-mode 里，文本的 face 属
+性是实时计算出来的。 在插入文本之后，它的 face 属性已经很快地被改变了。你可以在
+关闭 font-lock-mode 后再测试一次应该是可以看到 *scratch* 里也是可以用这种方法插
+入带 face 属性的文本的。
+虽然文本属性的名字可以是任意的，但是一些名字是有特殊含义的。
+
+**** 属性名	含义
+
+category	值必须是一个符号，这个符号的属性将作为这个字符的属性
+face	控制文本的字体和颜色
+font-lock-face	和 face 相似，可以作为 font-lock-mode 中静态文本的 face
+mouse-face	当鼠标停在文本上时的文本 face
+fontified	记录是否使用 font lock 标记了 face
+display	改变文本的显示方式，比如高、低、长短、宽窄，或者用图片代替
+help-echo	鼠标停在文本上时显示的文字
+keymap	光标或者鼠标在文本上时使用的按键映射
+local-map	和 keymap 类似，通常只使用 keymap
+syntax-table	字符的语法表
+read-only	不能修改文本，通过 stickness 来选择可插入的位置
+invisible	不显示在屏幕上
+intangible	把文本作为一个整体，光标不能进入
+field	一个特殊标记，有相应的函数可以操作带这个标记的文本
+cursor	（不知道具体用途）
+pointer	修改鼠标停在文本上时的图像
+line-spacing	新的一行的距离
+line-height	本行的高度
+modification-hooks	修改这个字符时调用的函数
+insert-in-front-hooks	与 modification-hooks 相似，在字符前插入调用的函数
+insert-behind-hooks	与 modification-hooks 相似，在字符后插入调用的函数
+point-entered	当光标进入时调用的函数
+point-left	当光标离开时调用的函数
+composition	将多个字符显示为一个字形
+正是由于 emacs 的文本有如此丰富的属性，使得 emacs 里的文字才变得多彩， 变得人性
+化。
+
+**** 查看文本属性
+
+由于字符串和缓冲区都可以有文本属性，所以下面的函数通常不提供特定参数就是检 查当
+前缓冲区的文本属性，如果提供文本对象，则是操作对应的文本属性。
+查看文本对象在某处的文本属性可以用 get-text-property 函数。
+(setq foo (concat "abc"
+                  (propertize "cde" 'face 'bold))) ; => #("abccde" 3 6 (face bold))
+(get-text-property 3 'face foo)                    ; => bold
+(save-excursion
+  (goto-char (point-min))
+  (insert foo))
+(get-text-property 4 'face)                        ; => bold
+get-char-property 和 get-text-property 相似，但是它是先查找 overlay 的 文本属性。
+overlay 是缓冲区文字在屏幕上的显示方式，它属于某个缓冲区，具 有起点和终点，也具
+有文本属性，可以修改缓冲区对应区域上文本的显示方式。
+get-text-property 是查找某个属性的值，用 text-properties-at 可以得到某 个位置上
+文本的所有属性。
+
+**** 修改文本属性
+
+put-text-property 可以给文本对象添加一个属性。比如
+(let ((str "abc"))
+  (put-text-property 0 3 'face 'bold str)
+  str)                                  ; => #("abc" 0 3 (face bold))
+和 put-text-property 类似，add-text-properties 可以给文本对象添加一系 列的属性。和 add-text-properties 不同，可以用 set-text-properties 直接 设置文本属性列表。你可以用 =(set-text-properties start end nil)= 来除去 某个区间上的文本属性。也可以用 remove-text-properties 和 remove-list-of-text-properties 来除去某个区域的指定文本属性。这两个函 数的属性列表参数只有名字起作用，值是被忽略的。
+(setq foo (propertize "abcdef" 'face 'bold
+                      'pointer 'hand))
+;; => #("abcdef" 0 6 (pointer hand face bold))
+(set-text-properties 0 2 nil foo)       ; => t
+foo   ; => #("abcdef" 2 6 (pointer hand face bold))
+(remove-text-properties 2 4 '(face nil) foo) ; => t
+foo   ; => #("abcdef" 2 4 (pointer hand) 4 6 (pointer hand face bold))
+(remove-list-of-text-properties 4 6 '(face nil pointer nil) foo) ; => t
+foo   ; => #("abcdef" 2 4 (pointer hand))
+
+**** 查找文本属性
+
+文本属性通常都是连成一个区域的，所以查找文本属性的函数是查找属性变化的 位置。这
+些函数一般都不作移动，只是返回查找到的位置。使用这些函数时最好 使用 LIMIT 参数，
+这样可以提高效率，因为有时一个属性直到缓冲区末尾也没 有变化，在这些文本中可能就
+是多余的。
+next-property-change 查找从当前位置起任意一个文本属性发生改变的位置。
+next-single-property-change 查找指定的一个文本属性改变的位置。
+next-char-property-change 把 overlay 的文本属性考虑在内查找属性发生改 变的位置。
+next-single-property-change 类似的查找指定的一个考虑 overlay 后文本属性改变的位
+置。这四个函数都对应有 previous- 开头的函数，用于查 找当前位置之前文本属性改变的
+位置
+(setq foo (concat "ab"
+                  (propertize "cd" 'face 'bold)
+                  (propertize "ef" 'pointer 'hand)))
+;; => #("abcdef" 2 4 (face bold) 4 6 (pointer hand))
+(next-property-change 1 foo)                  ; => 2
+(next-single-property-change 1 'pointer foo)  ; => 4
+(previous-property-change 6 foo)              ; => 4
+(previous-single-property-change 6 'face foo) ; => 4
+text-property-any 查找区域内第一个指定属性值为给定值的字符位置。
+text-property-not-all 和它相反，查找区域内第一个指定属性值不是给定值的 字符位置。
+(text-property-any 0 6 'face 'bold foo)          ; => 2
+(text-property-any 0 6 'face 'underline foo)     ; => nil
+(text-property-not-all 2 6 'face 'bold foo)      ; => 4
+(text-property-not-all 2 6 'face 'underline foo) ; => 2
+***** 思考题
+写一个命令，可在 text-mode 里用指定模式给选中的文本添加高亮。
+**** 函数列表
+(propertize STRING &rest PROPERTIES)
+(get-text-property POSITION PROP &optional OBJECT)
+(get-char-property POSITION PROP &optional OBJECT)
+(text-properties-at POSITION &optional OBJECT)
+(put-text-property START END PROPERTY VALUE &optional OBJECT)
+(add-text-properties START END PROPERTIES &optional OBJECT)
+(set-text-properties START END PROPERTIES &optional OBJECT)
+(remove-text-properties START END PROPERTIES &optional OBJECT)
+(remove-list-of-text-properties START END LIST-OF-PROPERTIES &optional OBJECT)
+(next-property-change POSITION &optional OBJECT LIMIT)
+(next-single-property-change POSITION PROP &optional OBJECT LIMIT)
+(next-char-property-change POSITION &optional LIMIT)
+(next-single-char-property-change POSITION PROP &optional OBJECT LIMIT)
+(previous-property-change POSITION &optional OBJECT LIMIT)
+(previous-single-property-change POSITION PROP &optional OBJECT LIMIT)
+(previous-char-property-change POSITION &optional LIMIT)
+(previous-single-char-property-change POSITION PROP &optional OBJECT LIMIT)
+(text-property-any START END PROPERTY VALUE &optional OBJECT)
+(text-property-not-all START END PROPERTY VALUE &optional OBJECT)
+**** 问题解答
+***** 手工高亮代码
+(defun my-fontify-region (beg end mode)
+  (interactive
+   (list (region-beginning)
+         (region-end)
+         (intern
+          (completing-read "Which mode to use: "
+                           obarray (lambda (s)
+                                     (and (fboundp s)
+                                          (string-match "-mode$" (symbol-name s))))
+                           t))))
+  (let ((buf (current-buffer))
+        (font-lock-verbose nil)
+        (start 1) face face-list)
+    (set-text-properties beg end '(face nil))
+    (with-temp-buffer
+      (goto-char (point-min))
+      (insert-buffer-substring buf beg end)
+      (funcall mode)
+      (font-lock-fontify-buffer)
+      (or (get-text-property start 'face)
+          (setq start (next-single-property-change start 'face)))
+      (while (and start (< start (point-max)))
+        (setq end (or (next-single-property-change start 'face)
+                      (point-max))
+              face (get-text-property start 'face))
+        (and face end (setq face-list (cons (list (1- start) (1- end) face) face-list)))
+        (setq start end)))
+    (when face-list
+      (dolist (f (nreverse face-list))
+        (put-text-property (+ beg (car f)) (+ beg (cadr f))
+                           'face (nth 2 f))))))
+但是直接从那个临时缓冲区里把整个代码拷贝出来也可以了，但是可能某些情况 下，不好
+  修改当前缓冲区，或者不想把那个模式里其它文本属性拷贝出来，这个 函数还是有用的。
+  当然最主要的用途是演示使用查找和添加文本属性的方法。事 实上这个函数也是我用来
+  高亮 muse 模式里 src 标签内源代码所用的方法。但是 不幸的是 muse 模式里这个函数
+  并不能产生很好的效果，不知道为什么。
+
+*** 后记
+
+到现在为止，我计划写的 elisp 入门内容已经写完了。如果你都看完看懂这些内 容，我想
+写一些简单的 elisp 应用应该是没有什么问题了。还有一些比较重要的 内容没有涉及到，
+我在这列一下，如果你对此有兴趣，可以自己看 elisp manual 里相关章节：
+按键映射(keymap) 和菜单
+Minibuffer 和补全
+进程
+调试
+主模式(major mode) 和从属模式(minor mode)
+定制声明
+修正函数 (advising function)
+非 ASCII 字符
+其实看一遍 elisp manual 也是很好的选择。我在写这些文字时就是一边参考 elisp
+manual 一边写的。写的时候我一直有种不安的感觉，这近 3M 的文字被 我压缩到这么一点
+点是不是太过份了。在 elisp manual 里一些很重要的说明经 常被我一两句话就带过了，
+有时根本就没有提到，这会不会让刚学 elisp 的人 误入歧途呢？每每想到这一点，我就想
+就此停住。但是半途而废总是不好的。所 以我还是决定写完应该写的就好了。其它的再说
+吧。
+如果你是一个新手，我很想知道你看完这个入门教程的感受。当然如果实在没有 兴趣看，
+也可以告诉我究竟哪里写的不好。我希望在这份文档上花的时间和精力 没有白费。
 ** DONE Emacs Lisp 简明教程
    CLOSED: [2017-10-24 二 08:30]
    :LOGBOOK:
@@ -4861,7 +6069,15 @@ CLOSED: [2017-10-26 四 11:26]
 CLOCK: [2017-10-26 四 10:27]--[2017-10-26 四 11:26] =>  0:59
 :END:
 
-建设教育强国是中华民族伟大复兴的基础工程，必须把教育事业放在优先位置，加快教育现代化，办好人民满意的教育。要全面贯彻党的教育方针，落实立德树人根本任务，发展素质教育，推进教育公平，培养德智体美全面发展的社会主义建设者和接班人。推动城乡义务教育一体化发展，高度重视农村义务教育，办好学前教育、特殊教育和网络教育，普及高中阶段教育，努力让每个孩子都能享有公平而有质量的教育。完善职业教育和培训体系，*深化产教融合、校企合作。*加快一流大学和一流学科建设，实现高等教育内涵式发展。健全学生资助制度，使绝大多数城乡新增劳动力接受高中阶段教育、更多接受高等教育。支持和规范社会力量兴办教育。加强师德师风建设，培养高素质教师队伍，倡导全社会尊师重教。办好继续教育，加快建设学习型社会，大力提高国民素质。
+建设教育强国是中华民族伟大复兴的基础工程，必须把教育事业放在优先位置，加快教育现
+代化，办好人民满意的教育。要全面贯彻党的教育方针，落实立德树人根本任务，发展素质
+教育，推进教育公平，培养德智体美全面发展的社会主义建设者和接班人。推动城乡义务教
+育一体化发展，高度重视农村义务教育，办好学前教育、特殊教育和网络教育，普及高中阶
+段教育，努力让每个孩子都能享有公平而有质量的教育。完善职业教育和培训体系，*深化
+产教融合、校企合作。*加快一流大学和一流学科建设，实现高等教育内涵式发展。健全学
+生资助制度，使绝大多数城乡新增劳动力接受高中阶段教育、更多接受高等教育。支持和规
+范社会力量兴办教育。加强师德师风建设，培养高素质教师队伍，倡导全社会尊师重教。办
+好继续教育，加快建设学习型社会，大力提高国民素质。
 
 
 ****  　 (二)提高就业质量和人民收入水平。
