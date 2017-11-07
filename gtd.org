@@ -7230,8 +7230,11 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
 
 ** DONE [#B] uptata
-   CLOSED: [2017-10-02 Mon 04:23]
+   CLOSED: [2017-11-07 Tue 11:39]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-07 Tue 11:39]
+   - State "STARTED"    from "DONE"       [2017-11-07 二 08:08]
+   CLOCK: [2017-11-07 二 08:08]--[2017-11-07 二 11:39] =>  3:31
    - State "DONE"       from "STARTED"    [2017-10-02 Mon 04:23]
    :END:
 
@@ -9842,11 +9845,13 @@ read two books about a hundred pages
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-13 二 11:15]
    :END:
-*** TODO [#A]<2017-10-24 二 15:40-17:00 +1w>                        :meeting:
+*** TODO [#A]<2017-11-14 Tue 15:40-17:00 +1w>                       :meeting:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-10-17 二 14:42]
+    :LAST_REPEAT: [2017-11-07 Tue 17:06]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-11-07 Tue 17:06]
+    - State "DONE"       from "STARTED"    [2017-11-07 Tue 17:04]
     - State "DONE"       from "STARTED"    [2017-10-17 二 14:42]
     - State "DONE"       from "STARTED"    [2017-10-10 二 16:50]
     - State "DONE"       from "STARTED"    [2017-10-03 Tue 15:52]
@@ -10637,7 +10642,7 @@ read two books about a hundred pages
    - State "DONE"       from "STARTED"    [2017-06-06 Tue 14:18]
    - State "DONE"       from "STARTED"    [2017-06-05 Mon 19:35]
    :END:
-** Done   working                                                   :morning:
+** DONE   working                                                   :morning:
    SCHEDULED: <2017-10-31 二 08:00 > DEADLINE:<2017-10-31 二 11:40>
    :PROPERTIES:
    :LAST_REPEAT: [2017-11-06 一 15:09]
@@ -10925,3 +10930,14 @@ DEADLINE: <2017-10-31 二 11:40 >
    :END:
    SCHEDULED<2017-10-23 一 14:10 >DEADLINE<2017-10-23 一 17:30 >
 放假<2017-10-09 Mon>
+* Cocos2D-X
+
+** DONE [#A] 下午学习十九大文件
+   CLOSED: [2017-11-07 Tue 16:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-07 Tue 16:57]
+   CLOCK: [2017-11-07 Tue 15:00]--[2017-11-07 Tue 16:57] =>  1:57
+   :END:
+王科长领学三部分，谈学习体会，提要求：学用结合。
+重新安排值班，每班一人。责任明确。
+  [2017-11-07 Tue 14:59]

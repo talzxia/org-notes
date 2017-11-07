@@ -1,0 +1,11 @@
+*     :lisp:
+#+BEGIN_SRC lisp
+(+ 2 2)
+(defun hello(name)
+(message "Hello, %s" name))
+(hello "xia")
+#+END_SRC
+*     :Lisp:
+#+BEGIN_SRC lisp
+(concat "abc" "def")
+#+END_SRC
