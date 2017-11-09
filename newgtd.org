@@ -341,13 +341,13 @@ SCHEDULED: <2017-11-10 五 07:00 +1d> DEADLINE: <2017-11-10 五 07:40 +1d>
 财经系陈卫华
 
 
-** STARTED [#B]lunch
-SCHEDULED: <2017-11-09 四 11:40 +1d> DEADLINE: <2017-11-09 四 13:40 +1d>
+** TODO [#B]lunch
+SCHEDULED: <2017-11-10 Fri 11:40 +1d> DEADLINE: <2017-11-10 Fri 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-11-08 三 15:32]
+   :LAST_REPEAT: [2017-11-09 Thu 12:45]
    :END:
    :LOGBOOK:
-   CLOCK: [2017-11-09 四 11:32]
+   - State "DONE"       from "STARTED"    [2017-11-09 Thu 12:45]
    - State "DONE"       from "STARTED"    [2017-11-08 三 15:32]
    CLOCK: [2017-11-08 三 11:41]--[2017-11-08 三 15:32] =>  3:51
    - State "DONE"       from "STARTED"    [2017-11-07 Tue 14:06]
@@ -636,11 +636,13 @@ SCHEDULED: <2017-11-09 四 11:40 +1d> DEADLINE: <2017-11-09 四 13:40 +1d>
 13:50-14:30检查
 
 ** TODO [#B] dinner
-   DEADLINE: <2017-11-09 四 18:40 +1d> SCHEDULED: <2017-11-09 四 17:40 +1d>
+   DEADLINE: <2017-11-10 Fri 18:40 +1d> SCHEDULED: <2017-11-10 Fri 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-11-08 三 19:22]
+   :LAST_REPEAT: [2017-11-09 Thu 22:45]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-09 Thu 22:45]
+   CLOCK: [2017-11-09 Thu 17:48]
    - State "DONE"       from "STARTED"    [2017-11-08 三 19:22]
    CLOCK: [2017-11-08 三 17:22]--[2017-11-08 三 19:22] =>  2:00
    - State "DONE"       from "STARTED"    [2017-11-07 Tue 18:42]
@@ -2674,11 +2676,12 @@ clean up spending 15 minutes
   CLOCK: [2017-10-23 一 10:31]--[2017-10-23 一 10:47] =>  0:16
   :END:
 * TODO [#B] practice
-  DEADLINE: <2017-11-09 四 13:40 +1d> SCHEDULED: <2017-11-09 四 17:00 +1d>
+  DEADLINE: <2017-11-10 Fri 13:40 +1d> SCHEDULED: <2017-11-10 Fri 17:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-11-08 三 17:22]
+  :LAST_REPEAT: [2017-11-09 Thu 17:48]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-11-09 Thu 17:48]
   - State "DONE"       from "STARTED"    [2017-11-08 三 17:22]
   CLOCK: [2017-11-08 三 15:33]--[2017-11-08 三 17:22] =>  1:49
   - State "DONE"       from "STARTED"    [2017-11-07 Tue 15:01]

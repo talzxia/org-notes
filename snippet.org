@@ -11,6 +11,7 @@
 #+END_SRC
 *     :Lisp:
 #+BEGIN_SRC lisp
+<<<<<<< Updated upstream
 (defun multiply-by-seven (number)
   "Multiply NNUMBER by seven."
   (interactive "p")
@@ -71,4 +72,8 @@ else say it's not fierce."
 (if nil
     'true
   'false)
+=======
+(+ 2 2)
+(message "Hello, world!")
+>>>>>>> Stashed changes
 #+END_SRC
