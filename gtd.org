@@ -7520,8 +7520,12 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
 
 ** STARTED [#B] Meeting
+
+** DONE [#B] return to taian
+   CLOSED: [2017-11-10 Fri 18:19]
    :LOGBOOK:
-   CLOCK: [2017-11-10 Fri 09:16]
+   - State "DONE"       from "STARTED"    [2017-11-10 Fri 18:19]
+   CLOCK: [2017-11-10 Fri 13:15]--[2017-11-10 Fri 16:39] =>  3:24
    :END:
 
 * DONE [#B]看望任淑君老师
