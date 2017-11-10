@@ -7512,6 +7512,18 @@ CLOSED: [2017-10-22 日 20:46]
    CLOCK: [2017-11-09 Thu 12:45]--[2017-11-09 Thu 17:32] =>  4:47
    :END:
 
+** DONE [#B] relax
+   CLOSED: [2017-11-10 Fri 07:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-10 Fri 07:06]
+   CLOCK: [2017-11-10 Fri 05:45]--[2017-11-10 Fri 07:06] =>  1:21
+   :END:
+
+** STARTED [#B] Meeting
+   :LOGBOOK:
+   CLOCK: [2017-11-10 Fri 09:16]
+   :END:
+
 * DONE [#B]看望任淑君老师
 <<<<<<< Updated upstream
 * Workspace
