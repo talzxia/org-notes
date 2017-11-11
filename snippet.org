@@ -77,3 +77,29 @@ else say it's not fierce."
 (message "Hello, world!")
 >>>>>>> Stashed changes
 #+END_SRC
+*     :lisp:
+#+BEGIN_SRC lisp
+(defun simplified-begining-of-buffer ()
+  "Move pont to the beginning of the buffer;
+leave mark at previous position."
+  (interactive)
+  (push-mark)
+  (goto-char (point-min)))
+(defun mark-whole-buffer ()
+  "Put point at beginning and mark at end of buffer."
+  (interactive)
+  (push-mark (point))
+  (push-mark (point-max))
+  (goto-char (point-min)))
+(defun append-to-buffer (buffer start end)
+  "Append to specified buffer the text of the region.
+It is inserted into that buffer before its point.
+a buffer or the name of one, and two character numbers
+specifying the portion of the current buffer to be copied."
+  (interactive "BAppend to buffer:\nr")
+  (let ((oldbuf (current-buffer)))
+    (save-excursion
+      (set-buffer (get-buffer-create buffer))
+      (insert-buffer-substring oldbuf start end))))
+copy-to-buffer
+#+END_SRC
