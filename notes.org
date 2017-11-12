@@ -660,6 +660,40 @@
    http://www.latexstudio.net/wp-content/uploads/2017/08/Note-by-LaTeX-cn.pdf
    **
 * lisp
+** GNU Emacs Lisp编程入门读书笔记
+*** 本书作者罗伯特・卡塞尔是自由软件基金合创人之一，也是理查德・斯托曼博士青年结交的挚友，他精通GNU Emacs Lisp的每一方面。
+*** 致中国读者
+Calendars, email, writing in general, programming, and debugging programs: GNU
+Emacs gives you tools for all these actions, and gives you even more. GNU Emacs
+is truly an integrated environment. Emacs Lisp is the language in which most of
+Emacs is written. It is a simple yet powerful language that is easily understood
+and learned.
+
+FSF-CHINA led by Hong Feng is doing us all a great service by translating this
+   document from Englis into Chinese. The work will bring the joy, the
+   efficiency, and the power of GNU Emacs to amy people. I hope you will gain as
+   much from reading this book as I did from writing it.
+
+My best wishes to you. Robert J. Chassell
+*** 译者序
+GNU Emacs长期以来一直是自由软件基金会的旗舰产品。它由（Richard Stallman）博士为
+   GUN 工程开发的第一个自由软件。 在所有目前已开发的GNU软件中，GNU Emacs的作用和
+   地位是非常突出的，因为几乎所有其他的自由软件基金会的工具都是用GNU Emacs编写出
+   来的。
+GNU Emacs有许多特点。最为突出是在创造 Emacs 编辑器是非常巧妙地揉合了用 Lisp 语言
+   和 C 语言编写的代码。
+Lisp发明于20世纪50年代，广泛地应用于人工智能研究领域，Stallman早年曾经在麻省理工
+   学院人工智能实验室工作过很长时间，他非常熟悉 Lisp 语言的优点。Lisp 是解释性语
+   言，开发的程序有良好的可读性，用于处理文本编辑是非常合适的。与硬件直接作用时
+   效率与编译性比不高，由C语言代码来完成。
+天才构想：利用C语言编写与硬件直接作用的GNU Emacs模块（如显示模块），而绝大多数文
+   本编辑模块则统统利用 Lisp来写。Lisp 语言是一种功能全语言，其解释器被嵌入了
+   Emacs后，用户自行对其寶。这几乎无限的灵活性是其他编辑器很难做到的。在Emacs 中
+   Lisp代码模块和 C 代码模块组织良好，取长补短，相得益彰。
+为保持源代码的可读性与一致性，Emacs中的 C 语言代码模块的函数名写得很像 Lisp函数
+   名。难将两者区分。GUN Emacs成了“高级的、自带文档的、可定制的可扩充的实时显示
+   的编辑器”
+自Emacs 问世以来，这一天才的泛对称设计思想极富艺术性，具有方法论的研究的永久价值。
 ** [[http://www.hao123.com/mid/14816051782311469487?key=&from=tuijian&pn=1][为何说Lisp是有史以来最牛的编程语言？]]
    面向对象之父Alan Kay对“Lisp是有史以来最牛的编程语言”进行了解答。原回答如下：
    Alan Kay：首先对我以前的一些答案进行澄清。有些人要尝试着用Lisp做操作系统，这看上
