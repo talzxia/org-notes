@@ -3126,6 +3126,12 @@ listen to happy music
    - State "DONE"       from "STARTED"    [2017-11-14 二 06:28]
    CLOCK: [2017-11-14 二 06:08]--[2017-11-14 二 06:28] =>  0:20
    :END:
+** DONE Review<2017-11-15 三 21:06>99.4%
+   CLOSED: [2017-11-15 三 21:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-15 三 21:26]
+   CLOCK: [2017-11-15 三 21:06]--[2017-11-15 三 21:26] =>  0:20
+   :END:
 * lesson 3nineteen
 ** DONE Review 96.7%
    CLOSED: [2016-08-25 Thu 15:20]
@@ -3311,6 +3317,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-11-14 二 06:05]
    CLOCK: [2017-11-14 二 05:47]--[2017-11-14 二 06:05] =>  0:18
+   :END:
+** DONE Review<2017-11-15 三 20:48>99.5%
+   CLOSED: [2017-11-15 三 21:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-15 三 21:05]
+   CLOCK: [2017-11-15 三 20:47]--[2017-11-15 三 21:05] =>  0:18
    :END:
 * lesson 16twenty
 ** DONE Review twenty 96.9%
@@ -3505,6 +3517,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-11-14 二 05:42]
    CLOCK: [2017-11-14 二 05:22]--[2017-11-14 二 05:42] =>  0:20
+   :END:
+** DONE Review<2017-11-15 三 20:28>99.4%
+   CLOSED: [2017-11-15 三 20:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-15 三 20:47]
+   CLOCK: [2017-11-15 三 20:28]--[2017-11-15 三 20:47] =>  0:19
    :END:
 * lesson 19twenty one
 ** DONE Review twenty one 97.7%
@@ -4599,6 +4617,18 @@ Today has review three times.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-11-14 二 19:25]
    CLOCK: [2017-11-14 二 19:02]--[2017-11-14 二 19:25] =>  0:23
+   :END:
+** DONE Review<2017-11-15 三 05:27>98.9%
+   CLOSED: [2017-11-15 三 05:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-15 三 05:50]
+   CLOCK: [2017-11-15 三 05:27]--[2017-11-15 三 05:50] =>  0:23
+   :END:
+** DONE Review<2017-11-15 三 05:50>99.7%
+   CLOSED: [2017-11-15 三 06:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-15 三 06:13]
+   CLOCK: [2017-11-15 三 05:50]--[2017-11-15 三 06:13] =>  0:23
    :END:
 * lesson 50twenty eight
 ** DONE Review twenty eight 95.3%
