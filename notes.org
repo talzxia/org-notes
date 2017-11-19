@@ -553,8 +553,11 @@
     find-function （ C-h C-f ）
     find-variable （ C-h C-v ）
     find-function-on-key （ C-h C-k ）
-*** 你只需将你的文件放入上面所指定的文件夹中就可以开始使用 Agenda 模式了。
-    DEADLINE: <2017-10-24 二 07:00> SCHEDULED: <2017-10-24 二 06:25>
+*** DONE 你只需将你的文件放入上面所指定的文件夹中就可以开始使用 Agenda 模式了。
+    CLOSED: [2017-11-19 日 21:31] DEADLINE: <2017-10-24 二 07:00> SCHEDULED: <2017-10-24 二 06:25>
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-11-19 日 21:31]
+    :END:
 
     C-c C-s 选择想要开始的时间
     C-c C-d 选择想要结束的时间
