@@ -4110,6 +4110,12 @@ meet shang hai ruiya 葛锡宝
    - State "DONE"       from "STARTED"    [2017-11-19 日 20:29]
    CLOCK: [2017-11-19 日 20:10]--[2017-11-19 日 20:29] =>  0:19
    :END:
+** DONE Review<2017-11-20 一 05:25>99.4%
+   CLOSED: [2017-11-20 一 05:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-20 一 05:44]
+   CLOCK: [2017-11-20 一 05:25]--[2017-11-20 一 05:44] =>  0:19
+   :END:
 * lesson 1twenty five
 ** DONE Review <2016-09-03 Sat 09:04> 95.8%
    CLOSED: [2016-09-03 Sat 09:59]
@@ -4271,6 +4277,21 @@ meet shang hai ruiya 葛锡宝
    CLOCK: [2017-10-04 Wed 20:24]--[2017-10-04 Wed 20:46] =>  0:22
    :END:
 
+** DONE Review<2017-11-20 一 05:45>98.5%
+   CLOSED: [2017-11-20 一 07:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-20 一 07:09]
+   - State "STARTED"    from "DONE"       [2017-11-20 一 06:58]
+   CLOCK: [2017-11-20 一 06:58]--[2017-11-20 一 07:09] =>  0:11
+   - State "DONE"       from "STARTED"    [2017-11-20 一 05:55]
+   CLOCK: [2017-11-20 一 05:45]--[2017-11-20 一 05:55] =>  0:10
+   :END:
+** DONE Review<2017-11-20 一 07:10>99%
+   CLOSED: [2017-11-20 一 07:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-20 一 07:31]
+   CLOCK: [2017-11-20 一 07:09]--[2017-11-20 一 07:31] =>  0:22
+   :END:
 * lesson 8twenty six
 ** DONE Review twenty six 95.2%
   CLOSED: [2016-08-12 五 08:55]
@@ -4493,6 +4514,24 @@ Today has review three times.
    CLOCK: [2017-10-07 Sat 15:45]--[2017-10-07 Sat 16:13] =>  0:28
    :END:
 
+** DONE Review<2017-11-20 一 07:31>98.8%
+   CLOSED: [2017-11-20 一 07:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-20 一 07:58]
+   CLOCK: [2017-11-20 一 07:31]--[2017-11-20 一 07:58] =>  0:27
+   :END:
+** DONE Review<2017-11-20 一 13:51>98.9%
+   CLOSED: [2017-11-20 一 14:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-20 一 14:18]
+   CLOCK: [2017-11-20 一 13:51]--[2017-11-20 一 14:18] =>  0:27
+   :END:
+** DONE Review<2017-11-20 一 14:22>99.5%
+   CLOSED: [2017-11-20 一 14:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-20 一 14:49]
+   CLOCK: [2017-11-20 一 14:22]--[2017-11-20 一 14:49] =>  0:27
+   :END:
 * lesson 9twenty seven
 ** DONE Review twenty seven 95.7%
    CLOSED: [2016-08-12 五 14:38]

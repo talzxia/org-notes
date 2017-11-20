@@ -1,10 +1,12 @@
 * eating
 ** TODO [#B]breakfast
-SCHEDULED: <2017-11-20 一 07:00 +1d> DEADLINE: <2017-11-20 一 07:40 +1d>
+SCHEDULED: <2017-11-21 二 07:00 +1d> DEADLINE: <2017-11-21 二 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-11-19 日 08:38]
+   :LAST_REPEAT: [2017-11-20 一 06:58]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-20 一 06:58]
+   CLOCK: [2017-11-20 一 05:56]--[2017-11-20 一 06:58] =>  1:02
    - State "DONE"       from "STARTED"    [2017-11-19 日 08:38]
    CLOCK: [2017-11-19 日 07:31]--[2017-11-19 日 08:38] =>  1:07
    - State "DONE"       from "STARTED"    [2017-11-18 Sat 09:13]
@@ -362,11 +364,13 @@ SCHEDULED: <2017-11-20 一 07:00 +1d> DEADLINE: <2017-11-20 一 07:40 +1d>
 
 
 ** TODO [#B]lunch
-SCHEDULED: <2017-11-20 一 11:40 +1d> DEADLINE: <2017-11-20 一 13:40 +1d>
+SCHEDULED: <2017-11-21 二 11:40 +1d> DEADLINE: <2017-11-21 二 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-11-19 日 15:45]
+   :LAST_REPEAT: [2017-11-20 一 13:37]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-20 一 13:37]
+   CLOCK: [2017-11-20 一 11:48]--[2017-11-20 一 13:37] =>  1:49
    - State "DONE"       from "STARTED"    [2017-11-19 日 15:45]
    CLOCK: [2017-11-19 日 11:36]--[2017-11-19 日 15:45] =>  4:09
    - State "DONE"       from "STARTED"    [2017-11-18 六 14:00]
@@ -1657,13 +1661,14 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED sleep [#A]
-  DEADLINE: <2017-11-20 一 05:00 +1d> SCHEDULED: <2017-11-19 日 22:00 +1d>
+* TODO sleep [#A]
+  DEADLINE: <2017-11-21 二 05:00 +1d> SCHEDULED: <2017-11-20 一 22:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-11-19 日 05:24]
+  :LAST_REPEAT: [2017-11-20 一 05:24]
   :END:
   :LOGBOOK:
-  CLOCK: [2017-11-19 日 21:32]
+  - State "DONE"       from "STARTED"    [2017-11-20 一 05:24]
+  CLOCK: [2017-11-19 日 21:32]--[2017-11-20 一 05:24] =>  7:52
   - State "DONE"       from "STARTED"    [2017-11-19 日 05:24]
   CLOCK: [2017-11-18 六 21:35]--[2017-11-19 日 05:24] =>  7:49
   - State "DONE"       from "STARTED"    [2017-11-18 六 05:06]
@@ -2533,11 +2538,13 @@ clean up spending 15 minutes
    :END:
 
 * TODO [#A] clean office
-  DEADLINE: <2017-11-20 一 07:50 +1d> SCHEDULED: <2017-11-20 一 08:20 +1d>
+  DEADLINE: <2017-11-21 二 07:50 +1d> SCHEDULED: <2017-11-21 二 08:20 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-11-19 日 08:47]
+  :LAST_REPEAT: [2017-11-20 一 08:44]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-11-20 一 08:44]
+  CLOCK: [2017-11-20 一 07:58]--[2017-11-20 一 08:44] =>  0:46
   - State "DONE"       from "STARTED"    [2017-11-19 日 08:47]
   CLOCK: [2017-11-19 日 08:38]--[2017-11-19 日 08:47] =>  0:09
   - State "DONE"       from "STARTED"    [2017-11-18 Sat 09:21]
@@ -2656,12 +2663,15 @@ clean up spending 15 minutes
   - State "DONE"       from "STARTED"    [2017-10-23 一 06:52]
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
-* TODO [#B] browse news and free learn
-  DEADLINE: <2017-11-20 一 08:30 +1d> SCHEDULED: <2017-11-20 一 08:20 +1d>
+* STARTED [#B] browse news and free learn
+  DEADLINE: <2017-11-21 二 08:30 +1d> SCHEDULED: <2017-11-21 二 08:20 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-11-19 日 07:31]
+  :LAST_REPEAT: [2017-11-20 一 09:06]
   :END:
   :LOGBOOK:
+  CLOCK: [2017-11-20 一 10:13]--[2017-11-20 一 11:48] =>  1:35
+  - State "DONE"       from "STARTED"    [2017-11-20 一 09:06]
+  CLOCK: [2017-11-20 一 08:44]--[2017-11-20 一 09:06] =>  0:22
   - State "DONE"       from "STARTED"    [2017-11-19 日 07:31]
   CLOCK: [2017-11-19 日 07:14]--[2017-11-19 日 07:31] =>  0:17
   - State "DONE"       from "STARTED"    [2017-11-18 Sat 07:34]
@@ -2731,11 +2741,13 @@ clean up spending 15 minutes
   CLOCK: [2017-10-23 一 06:53]--[2017-10-23 一 06:56] =>  0:03
   :END:
 * TODO [#B] learn lisp
-  DEADLINE: <2017-11-20 一 09:30 +1d> SCHEDULED: <2017-11-20 一 08:30 +1d>
+  DEADLINE: <2017-11-21 二 09:30 +1d> SCHEDULED: <2017-11-21 二 08:30 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-11-19 日 10:11]
+  :LAST_REPEAT: [2017-11-20 一 09:40]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-11-20 一 09:40]
+  CLOCK: [2017-11-20 一 09:06]--[2017-11-20 一 09:40] =>  0:34
   - State "DONE"       from "STARTED"    [2017-11-19 日 10:11]
   CLOCK: [2017-11-19 日 08:48]--[2017-11-19 日 10:11] =>  1:23
   - State "DONE"       from "STARTED"    [2017-11-18 Sat 11:42]
@@ -2792,11 +2804,13 @@ clean up spending 15 minutes
   :END:
 高龙寅、王院长来玩8：30至10：30两个小时。
 * TODO [#B] check teaching
-  DEADLINE: <2017-11-20 Mon 10:00 +1d> SCHEDULED: <2017-11-20 Mon 09:30 +1d>
+  DEADLINE: <2017-11-21 二 10:00 +1d> SCHEDULED: <2017-11-21 二 09:30 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-11-17 五 11:26]
+  :LAST_REPEAT: [2017-11-20 一 10:06]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-11-20 一 10:06]
+  CLOCK: [2017-11-20 一 09:40]--[2017-11-20 一 10:06] =>  0:26
   - State "DONE"       from "STARTED"    [2017-11-17 五 11:26]
   CLOCK: [2017-11-17 五 10:06]--[2017-11-17 五 11:26] =>  1:20
   - State "DONE"       from "STARTED"    [2017-11-16 四 10:46]
@@ -2902,12 +2916,13 @@ clean up spending 15 minutes
   CLOCK: [2017-10-24 二 14:26]--[2017-10-24 二 14:40] =>  0:14
   - State "DONE"       from "STARTED"    [2017-10-24 二 14:23]
   :END:
-* TODO [#A] give a lecture
+* STARTED [#A] give a lecture
   DEADLINE: <2017-11-20 一 13:40 +1w> SCHEDULED: <2017-11-20 一 17:00 +1w>
   :PROPERTIES:
   :LAST_REPEAT: [2017-11-13 一 17:13]
   :END:
   :LOGBOOK:
+  CLOCK: [2017-11-20 一 13:37]--[2017-11-20 一 13:51] =>  0:14
   - State "DONE"       from "STARTED"    [2017-11-13 一 17:13]
   CLOCK: [2017-11-13 一 13:35]--[2017-11-13 一 17:13] =>  3:38
   - State "DONE"       from "STARTED"    [2017-11-06 一 16:59]
