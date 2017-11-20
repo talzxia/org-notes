@@ -688,6 +688,105 @@
 
 ** [[http://www.fidding.me/article/16][在emacs使用magit管理git版本控制]]
 ** [[emacs下的git工具 magit 简介][emacs下的git工具 magit 简介]]
+** [[http://blog.csdn.net/gcc_sky/article/details/14047687][让你的代码有个归宿：Git学习及Emacs之magit]]
+转载：请注明http://blog.csdn.net/gcc_sky
+本文主要为Git新手介绍Git的命令操作，以及emacs编辑代码过程中使用magit管理代码。
+也许你正在为以下问题而烦恼：
+每个项目工程代码以单独目录存在于本地，队友们想共享代码，必须到对方目录下进行拷贝，变化的路径名难免带来不便；
+半个钟前，哪些代码被修改了？你记性没那么好；
+每次为了bug修复或新功能开发，不得不另拷贝原工程；修改完还要进行手动diff并合并；
+。。。。。。。。。。。可能还有更多烦人问题！
+Git是一款分布式版本控制／软件配置管理软件。与CVS、Subversion一类的集中式版本控制工具不同，它采用了分布式版本库的作法，不需要服务器端软件，就可以运作版本控制，使得源代码的发布和交流极其方便。Git的速度很快，这对于诸如Linux kernel这样的大项目来说自然很重要。Git最为出色的是它的合并追踪（merge tracing）能力。
+实际上内核开发团队决定开始开发和使用Git来作为内核开发的版本控制系统的时候，世界开源社群的反对声音不少，最大的理由是Git太艰涩难懂，从Git的内部工作机制来说，的确是这样。但是随着开发的深入，Git的正常使用都由一些友善的命令稿来执行，使Git变得非常好用。
+Git工作流程
+代码仓库的管理，即管理四棵“Tree”，远程仓库(remote repository)、本地仓库(HEAD/local repository)、缓冲区(INDEX/stage)、本地目录(Local directory)。
+严格来说，管理的三棵树：仓库、缓冲区、本地目录；使用频繁的基本操作：
+检出仓库：git clone <server:/repository>
+跟踪文件：git add <filename>，添加至缓存区
+取消跟踪文件：git rm --cached <filename>
+提交：git commit -m "代码提交信息"，提交到本地仓库(Local repository)
+删除文件：git rm <filename>，取消HEAD的提交，并将本地文件置为“Stage：delete”状态
+检出文件：git checkout <filename>，使用最新的提交覆盖目标文件
+rollback：git reset --soft <commit>，保持当前文件修改的状态，版本rollback至commit版本
+                git reset --hard <commit>, 版本rollback至commit版本
+新建/切换分支：git branch <branch_name>
+删除分支：git branch -d <branch_name>
+检出(远程)分支：git checkout -b <(origin/)branch_name>
+推送分支：git push origin <branch_name>，推送至远程仓库
+设置推送的目标远程仓库：git remote add origin <server>，在推送分支前，需先配置
+同步代码：git pull，本地仓库更新到远程仓库的最新提交
+合并分支至当前分支：git merge <branch_name>
+丢弃本地改动及提交，同步最新远程仓库版本：git reset --hard <origin/branch_name> 或 git fetch orgin
+阅读下图，有助于记忆和理解工作流程：
+
+
+
+
+个人习惯使用emacs阅读编辑代码，使用其magit-mode来进行Git管理。这里简单介绍一些操作：
+emacs编辑状态时，输入M-x: magit-status，进入magit管理界面:
+
+下面是快捷键列表：
+TAB             magit-toggle-section
+RET             magit-visit-item
+C-w             magit-copy-item-as-kill
+C-x             Prefix Command
+ESC             Prefix Command
+SPC             magit-show-item-or-scroll-up
+!               magit-key-mode-popup-running
+$               magit-display-process
++               magit-diff-larger-hunks
+-               magit-diff-smaller-hunks
+.               magit-mark-item
+0               magit-diff-default-hunks
+1               magit-show-level-1
+2               magit-show-level-2
+3               magit-show-level-3
+4               magit-show-level-4
+:               magit-git-command
+=               magit-diff-with-mark
+?               magit-describe-item
+A               magit-cherry-pick-item
+B               magit-key-mode-popup-bisecting
+C               magit-add-log
+D               magit-diff
+E               magit-interactive-rebase
+F               magit-key-mode-popup-pulling
+G               magit-refresh-all
+I               magit-ignore-item-locally
+L               magit-add-change-log-entry-no-option
+M               magit-key-mode-popup-remoting
+P               magit-key-mode-popup-pushing
+R               magit-rebase-step
+S               magit-stage-all
+U               magit-unstage-all
+X               magit-reset-working-tree
+^               magit-goto-parent-section
+a               magit-apply-item
+b               magit-key-mode-popup-branching
+c               magit-log-edit
+d               magit-diff-working-tree
+e               magit-ediff
+f               magit-key-mode-popup-fetching
+g               magit-refresh
+h               magit-toggle-diff-refine-hunk
+i               magit-ignore-item
+k               magit-discard-item
+l               magit-key-mode-popup-logging
+m               magit-key-mode-popup-merging
+n               magit-goto-next-section
+o               magit-key-mode-popup-submodule
+p               magit-goto-previous-section
+q               magit-quit-session
+r               magit-key-mode-popup-rewriting
+s               magit-stage-item
+t               magit-key-mode-popup-tagging
+u               magit-unstage-item
+v               magit-revert-item
+w               magit-wazzup
+x               magit-reset-head
+z               magit-key-mode-popup-stashing
+DEL             magit-show-item-or-scroll-down
+本文介绍到这里，如有纰漏，还请各大侠指出^^
 *  DONE \latex
   :LOGBOOK:
   CLOCK: [2017-10-24 二 05:58]--[2017-10-24 二 06:47] =>  0:49
