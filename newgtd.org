@@ -680,11 +680,13 @@ SCHEDULED: <2017-11-21 二 11:40 +1d> DEADLINE: <2017-11-21 二 13:40 +1d>
 13:50-14:30检查
 
 ** TODO [#B] dinner
-   DEADLINE: <2017-11-20 一 18:40 +1d> SCHEDULED: <2017-11-20 一 17:40 +1d>
+   DEADLINE: <2017-11-21 二 18:40 +1d> SCHEDULED: <2017-11-21 二 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-11-19 日 19:08]
+   :LAST_REPEAT: [2017-11-20 一 18:41]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-20 一 18:41]
+   CLOCK: [2017-11-20 一 17:06]--[2017-11-20 一 18:41] =>  1:35
    - State "DONE"       from "STARTED"    [2017-11-19 日 19:08]
    - State "DONE"       from "STARTED"    [2017-11-18 六 20:22]
    CLOCK: [2017-11-18 六 17:59]--[2017-11-18 六 19:21] =>  1:22
@@ -2940,11 +2942,12 @@ clean up spending 15 minutes
   - State "DONE"       from "STARTED"    [2017-10-24 二 14:09]
   :END:
 * TODO [#B] training
-  DEADLINE: <2017-11-20 一 20:00 +1d> SCHEDULED: <2017-11-20 一 19:00 +1d>
+  DEADLINE: <2017-11-21 二 20:00 +1d> SCHEDULED: <2017-11-21 二 19:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-11-19 日 21:30]
+  :LAST_REPEAT: [2017-11-20 一 21:12]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-11-20 一 21:12]
   - State "DONE"       from "STARTED"    [2017-11-19 日 21:30]
   CLOCK: [2017-11-19 日 19:44]--[2017-11-19 日 20:10] =>  0:26
   - State "DONE"       from "STARTED"    [2017-11-18 六 20:23]
@@ -2994,11 +2997,13 @@ clean up spending 15 minutes
   - State "DONE"       from "STARTED"    [2017-10-23 一 21:31]
   :END:
 * TODO [#B] free learn
-  DEADLINE: <2017-11-20 一 21:40 +1d> SCHEDULED: <2017-11-21 二 20:00 +1d>
+  DEADLINE: <2017-11-21 二 21:40 +1d> SCHEDULED: <2017-11-22 三 20:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-11-19 日 21:32]
+  :LAST_REPEAT: [2017-11-20 一 21:12]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-11-20 一 21:12]
+  CLOCK: [2017-11-20 一 19:02]--[2017-11-20 一 21:12] =>  2:10
   - State "DONE"       from "STARTED"    [2017-11-19 日 21:32]
   CLOCK: [2017-11-19 日 21:31]--[2017-11-19 日 21:32] =>  0:01
   - State "DONE"       from "STARTED"    [2017-11-18 六 21:35]
