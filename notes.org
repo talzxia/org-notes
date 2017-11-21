@@ -142,6 +142,7 @@
 
 * spacemacs
 ** [[https://github.com/zilongshanren][zilongshanren-github]]
+** [[https://github.com/fidding/spacemacs.d/blob/master/fidding/packages.el][fidding/spacemacs.d]]
 ** DONE Spacemacs 使用总结
    CLOSED: [2017-10-03 Tue 17:08]
    :LOGBOOK:
@@ -688,7 +689,9 @@
 
 ** [[http://www.fidding.me/article/16][在emacs使用magit管理git版本控制]]
 ** [[emacs下的git工具 magit 简介][emacs下的git工具 magit 简介]]
+** [[https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137583770360579bc4b458f044ce7afed3df579123eca000][搭建Git服务器]]
 ** [[http://blog.csdn.net/gcc_sky/article/details/14047687][让你的代码有个归宿：Git学习及Emacs之magit]]
+
 转载：请注明http://blog.csdn.net/gcc_sky
 本文主要为Git新手介绍Git的命令操作，以及emacs编辑代码过程中使用magit管理代码。
 也许你正在为以下问题而烦恼：
