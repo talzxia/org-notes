@@ -4532,6 +4532,18 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2017-11-20 一 14:49]
    CLOCK: [2017-11-20 一 14:22]--[2017-11-20 一 14:49] =>  0:27
    :END:
+** DONE Review<2017-11-22 三 16:43>98.2%
+   CLOSED: [2017-11-22 三 17:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-22 三 17:08]
+   CLOCK: [2017-11-22 三 16:43]--[2017-11-22 三 17:08] =>  0:25
+   :END:
+** DONE Review<2017-11-22 三 20:54>98.9%
+   CLOSED: [2017-11-22 三 21:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-22 三 21:18]
+   CLOCK: [2017-11-22 三 20:54]--[2017-11-22 三 21:18] =>  0:24
+   :END:
 * lesson 9twenty seven
 ** DONE Review twenty seven 95.7%
    CLOSED: [2016-08-12 五 14:38]
@@ -4687,6 +4699,12 @@ Today has review three times.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-11-20 一 17:03]
    CLOCK: [2017-11-20 一 16:41]--[2017-11-20 一 17:03] =>  0:22
+   :END:
+** DONE Review<2017-11-22 三 15:19>99.1%
+   CLOSED: [2017-11-22 三 16:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-22 三 16:06]
+   CLOCK: [2017-11-22 三 15:19]--[2017-11-22 三 16:06] =>  0:47
    :END:
 * lesson 50twenty eight
 ** DONE Review twenty eight 95.3%
