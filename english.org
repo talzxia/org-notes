@@ -4842,6 +4842,18 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2017-11-20 一 18:59]
    CLOCK: [2017-11-20 一 18:42]--[2017-11-20 一 18:59] =>  0:17
    :END:
+** DONE Review<2017-11-22 三 11:15>98.1%
+   CLOSED: [2017-11-22 三 11:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-22 三 11:32]
+   CLOCK: [2017-11-22 三 11:15]--[2017-11-22 三 11:32] =>  0:17
+   :END:
+** DONE Review<2017-11-22 三 11:33>99.7%
+   CLOSED: [2017-11-22 三 11:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-22 三 11:50]
+   CLOCK: [2017-11-22 三 11:33]--[2017-11-22 三 11:50] =>  0:17
+   :END:
 * lesson 46twenty nine
 ** DONE Review twenty nine 96.3%
    CLOSED: [2016-08-13 六 16:24]
@@ -5020,6 +5032,12 @@ Today has review three times.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-11-21 二 06:30]
    CLOCK: [2017-11-21 二 05:59]--[2017-11-21 二 06:30] =>  0:31
+   :END:
+** DONE Review<2017-11-22 三 05:25>99.6%
+   CLOSED: [2017-11-22 三 06:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-22 三 06:00]
+   CLOCK: [2017-11-22 三 05:25]--[2017-11-22 三 06:00] =>  0:35
    :END:
 * lesson 5thirty
 ** DONE Review thirty 93.9%
@@ -5433,6 +5451,12 @@ Today has review three times.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-11-21 二 19:15]
    CLOCK: [2017-11-21 二 18:35]--[2017-11-21 二 19:15] =>  0:40
+   :END:
+** DONE Review<2017-11-22 三 04:34>99.4%
+   CLOSED: [2017-11-22 三 05:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-11-22 三 05:22]
+   CLOCK: [2017-11-22 三 04:34]--[2017-11-22 三 05:22] =>  0:48
    :END:
 * lesson 2thirty one
 ** DONE 复习 95.0%
