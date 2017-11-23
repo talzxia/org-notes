@@ -150,6 +150,18 @@
     - State "DONE"       from "STARTED"    [2017-11-22 三 08:57]
     CLOCK: [2017-11-22 三 08:15]--[2017-11-22 三 08:57] =>  0:42
     :END:
+*** DONE 第十章 找回文本
+    CLOSED: [2017-11-23 四 09:44]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-11-23 四 09:44]
+    CLOCK: [2017-11-23 四 09:36]--[2017-11-23 四 09:44] =>  0:08
+    :END:
+*** DONE 第11章 循环和递归
+    CLOSED: [2017-11-23 四 10:41]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-11-23 四 10:41]
+    CLOCK: [2017-11-23 四 09:45]--[2017-11-23 四 10:41] =>  0:56
+    :END:
 ** DONE Spacemacs 使用总结
    CLOSED: [2017-10-03 Tue 17:08]
    :LOGBOOK:
