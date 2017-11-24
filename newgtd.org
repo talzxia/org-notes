@@ -371,13 +371,14 @@ SCHEDULED: <2017-11-25 六 07:00 +1d> DEADLINE: <2017-11-25 六 07:40 +1d>
 财经系陈卫华
 
 
-** STARTED [#B]lunch
-SCHEDULED: <2017-11-24 五 11:40 +1d> DEADLINE: <2017-11-24 五 13:40 +1d>
+** TODO [#B]lunch
+SCHEDULED: <2017-11-25 六 11:40 +1d> DEADLINE: <2017-11-25 六 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-11-23 四 14:49]
+   :LAST_REPEAT: [2017-11-24 五 14:20]
    :END:
    :LOGBOOK:
-   CLOCK: [2017-11-24 五 11:35]
+   - State "DONE"       from "STARTED"    [2017-11-24 五 14:20]
+   CLOCK: [2017-11-24 五 11:35]--[2017-11-24 五 14:20] =>  2:45
    - State "DONE"       from "STARTED"    [2017-11-23 四 14:49]
    CLOCK: [2017-11-23 四 11:02]--[2017-11-23 四 14:49] =>  3:47
    - State "DONE"       from "STARTED"    [2017-11-22 三 14:33]
@@ -694,12 +695,13 @@ SCHEDULED: <2017-11-24 五 11:40 +1d> DEADLINE: <2017-11-24 五 13:40 +1d>
     :END:
 13:50-14:30检查
 
-** TODO [#B] dinner
+** STARTED [#B] dinner
    DEADLINE: <2017-11-24 五 18:40 +1d> SCHEDULED: <2017-11-24 五 17:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-11-23 四 20:17]
    :END:
    :LOGBOOK:
+   CLOCK: [2017-11-24 五 16:39]
    - State "DONE"       from "STARTED"    [2017-11-23 四 20:17]
    CLOCK: [2017-11-23 四 16:39]--[2017-11-23 四 20:17] =>  3:38
    - State "DONE"       from "STARTED"    [2017-11-22 三 20:32]
@@ -2713,11 +2715,13 @@ clean up spending 15 minutes
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 * TODO [#B] browse news and free learn
-  DEADLINE: <2017-11-25 六 08:30 +1d> SCHEDULED: <2017-11-25 六 08:20 +1d>
+  DEADLINE: <2017-11-26 日 08:30 +1d> SCHEDULED: <2017-11-26 日 08:20 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-11-24 五 08:29]
+  :LAST_REPEAT: [2017-11-24 五 16:39]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-11-24 五 16:39]
+  CLOCK: [2017-11-24 五 15:51]--[2017-11-24 五 16:39] =>  0:48
   - State "DONE"       from "STARTED"    [2017-11-24 五 08:29]
   CLOCK: [2017-11-24 五 08:15]--[2017-11-24 五 08:29] =>  0:14
   - State "DONE"       from "STARTED"    [2017-11-23 四 09:33]
@@ -2934,11 +2938,13 @@ clean up spending 15 minutes
   CLOCK: [2017-10-23 一 10:31]--[2017-10-23 一 10:47] =>  0:16
   :END:
 * TODO [#B] practice
-  DEADLINE: <2017-11-24 五 13:40 +1d> SCHEDULED: <2017-11-24 五 17:00 +1d>
+  DEADLINE: <2017-11-25 六 13:40 +1d> SCHEDULED: <2017-11-25 六 17:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-11-23 四 16:38]
+  :LAST_REPEAT: [2017-11-24 五 15:51]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-11-24 五 15:51]
+  CLOCK: [2017-11-24 五 14:20]--[2017-11-24 五 15:29] =>  1:09
   - State "DONE"       from "STARTED"    [2017-11-23 四 16:38]
   CLOCK: [2017-11-23 四 15:33]--[2017-11-23 四 16:38] =>  1:05
   - State "DONE"       from "STARTED"    [2017-11-22 三 17:09]
