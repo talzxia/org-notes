@@ -1,10 +1,11 @@
 * eating
-** TODO [#B]breakfast
+** STARTED [#B]breakfast
 SCHEDULED: <2017-11-25 六 07:00 +1d> DEADLINE: <2017-11-25 六 07:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-11-24 五 07:50]
    :END:
    :LOGBOOK:
+   CLOCK: [2017-11-25 六 07:27]
    - State "DONE"       from "STARTED"    [2017-11-24 五 07:50]
    CLOCK: [2017-11-24 五 06:56]--[2017-11-24 五 07:50] =>  0:54
    - State "DONE"       from "STARTED"    [2017-11-23 四 08:02]
@@ -1687,13 +1688,14 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED sleep [#A]
-  DEADLINE: <2017-11-25 六 05:00 +1d> SCHEDULED: <2017-11-24 五 22:00 +1d>
+* TODO sleep [#A]
+  DEADLINE: <2017-11-26 日 05:00 +1d> SCHEDULED: <2017-11-25 六 22:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-11-24 五 04:18]
+  :LAST_REPEAT: [2017-11-25 六 04:21]
   :END:
   :LOGBOOK:
-  CLOCK: [2017-11-24 五 21:48]
+  - State "DONE"       from "STARTED"    [2017-11-25 六 04:21]
+  CLOCK: [2017-11-24 五 21:48]--[2017-11-25 六 04:21] =>  6:33
   - State "DONE"       from "STARTED"    [2017-11-24 五 04:18]
   CLOCK: [2017-11-23 四 20:18]--[2017-11-24 五 04:18] =>  8:00
   - State "DONE"       from "STARTED"    [2017-11-23 四 05:26]
@@ -2642,11 +2644,13 @@ clean up spending 15 minutes
   CLOCK: [2017-10-23 一 07:56]--[2017-10-23 一 08:15] =>  0:19
   :END:
 * TODO [#B] handwriting
-  SCHEDULED: <2017-11-25 六 06:30 +1d> DEADLINE: <2017-11-25 六 07:00 +1d>
+  SCHEDULED: <2017-11-26 日 06:30 +1d> DEADLINE: <2017-11-26 日 07:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-11-24 五 06:56]
+  :LAST_REPEAT: [2017-11-25 六 07:06]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-11-25 六 07:06]
+  CLOCK: [2017-11-25 六 06:29]--[2017-11-25 六 07:06] =>  0:37
   - State "DONE"       from "STARTED"    [2017-11-24 五 06:56]
   CLOCK: [2017-11-24 五 05:50]--[2017-11-24 五 06:56] =>  1:06
   - State "DONE"       from "STARTED"    [2017-11-23 四 07:05]
@@ -2719,9 +2723,11 @@ clean up spending 15 minutes
 * TODO [#B] browse news and free learn
   DEADLINE: <2017-11-26 日 08:30 +1d> SCHEDULED: <2017-11-26 日 08:20 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-11-24 五 16:39]
+  :LAST_REPEAT: [2017-11-25 六 06:29]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-11-25 六 06:29]
+  CLOCK: [2017-11-25 六 05:24]--[2017-11-25 六 06:29] =>  1:05
   - State "DONE"       from "STARTED"    [2017-11-24 五 16:39]
   CLOCK: [2017-11-24 五 15:51]--[2017-11-24 五 16:39] =>  0:48
   - State "DONE"       from "STARTED"    [2017-11-24 五 08:29]
