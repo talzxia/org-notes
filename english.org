@@ -3214,9 +3214,11 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2017-11-25 六 05:22]
    CLOCK: [2017-11-25 六 05:04]--[2017-11-25 六 05:22] =>  0:18
    :END:
-** STARTED Review<2017-11-25 六 07:09>
+** DONE Review<2017-11-25 六 07:09>98.9%
+   CLOSED: [2017-11-25 六 07:43]
    :LOGBOOK:
-   CLOCK: [2017-11-25 六 07:09]
+   - State "DONE"       from "STARTED"    [2017-11-25 六 07:43]
+   CLOCK: [2017-11-25 六 07:09]--[2017-11-25 六 07:29] =>  0:20
    :END:
 * lesson 19twenty one
 ** DONE Review twenty one 97.7%
