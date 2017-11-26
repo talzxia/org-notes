@@ -103,3 +103,7 @@ specifying the portion of the current buffer to be copied."
       (insert-buffer-substring oldbuf start end))))
 copy-to-buffer
 #+END_SRC
+*     :lisp:
+#+BEGIN_SRC list
+(+ 3 4)
+#+END_SRC
