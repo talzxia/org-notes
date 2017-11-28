@@ -107,3 +107,14 @@ copy-to-buffer
 #+BEGIN_SRC list
 (+ 3 4)
 #+END_SRC
+*     :lisp:
+#+BEGIN_SRC lisp
+(defun triangle (number-of-rows)
+  (let ((total 0)
+    (row-number 1))
+  (while (<= row-number number-of-rows)
+    (setq total (+ total row-number))
+    (setq row-number (1+ row-number)))
+    total))
+(triangle 100)
+#+END_SRC
