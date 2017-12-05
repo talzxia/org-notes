@@ -140,6 +140,10 @@
   [[file:~/org-notes/notes.org::*%E4%BD%A0%E5%8F%AA%E9%9C%80%E5%B0%86%E4%BD%A0%E7%9A%84%E6%96%87%E4%BB%B6%E6%94%BE%E5%85%A5%E4%B8%8A%E9%9D%A2%E6%89%80%E6%8C%87%E5%AE%9A%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%AD%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8%20Agenda%20%E6%A8%A1%E5%BC%8F%E4%BA%86%E3%80%82][你只需将你的文件放入上面所指定的文件夹中就可以开始使用 Agenda 模式了。]]
   [2017-11-07 Tue 14:17]
 
+*** 眼睛难受，不宜看出了，休息。
+
+   [2017-12-05 二 09:39]
+
 * spacemacs
 ** [[https://github.com/zilongshanren][zilongshanren-github]]
 ** [[https://github.com/fidding/spacemacs.d/blob/master/fidding/packages.el][fidding/spacemacs.d]]
@@ -485,8 +489,11 @@
    #+END_COMMENT
 
 ** DONE [[https://github.com/emacs-china/Spacemacs-rocks][spacemacs-rocks]]
-   CLOSED: [2017-10-24 二 06:41]
+   CLOSED: [2017-12-05 二 11:42]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-12-05 二 11:42]
+   - State "STARTED"    from "DONE"       [2017-12-05 二 11:12]
+   CLOCK: [2017-12-05 二 11:12]--[2017-12-05 二 11:42] =>  0:30
    - State "DONE"       from "STARTED"    [2017-10-24 二 06:41]
    CLOCK: [2017-10-24 二 06:00]--[2017-10-24 二 06:41] =>  0:41
    :END:
