@@ -393,13 +393,14 @@ SCHEDULED: <2017-12-06 三 07:00 +1d> DEADLINE: <2017-12-06 三 07:40 +1d>
 财经系陈卫华
 
 
-** STARTED [#A]lunch
-SCHEDULED: <2017-12-05 二 11:40 +1d> DEADLINE: <2017-12-05 二 13:40 +1d>
+** TODO [#A]lunch
+SCHEDULED: <2017-12-06 三 11:40 +1d> DEADLINE: <2017-12-06 三 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-12-04 一 13:49]
+   :LAST_REPEAT: [2017-12-05 二 14:19]
    :END:
    :LOGBOOK:
-   CLOCK: [2017-12-05 二 11:43]
+   - State "DONE"       from "STARTED"    [2017-12-05 二 14:19]
+   CLOCK: [2017-12-05 二 11:43]--[2017-12-05 二 14:19] =>  2:36
    - State "DONE"       from "STARTED"    [2017-12-04 一 13:49]
    CLOCK: [2017-12-04 一 12:07]--[2017-12-04 一 13:40] =>  1:33
    - State "DONE"       from "STARTED"    [2017-12-03 日 14:49]
@@ -3147,11 +3148,13 @@ clean up spending 15 minutes
   CLOCK: [2017-10-23 一 10:31]--[2017-10-23 一 10:47] =>  0:16
   :END:
 * TODO [#B] practice
-  DEADLINE: <2017-12-05 二 13:40 +1d> SCHEDULED: <2017-12-05 二 17:00 +1d>
+  DEADLINE: <2017-12-06 三 13:40 +1d> SCHEDULED: <2017-12-06 三 17:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-12-04 一 13:50]
+  :LAST_REPEAT: [2017-12-05 二 15:59]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-12-05 二 15:59]
+  CLOCK: [2017-12-05 二 14:19]--[2017-12-05 二 15:59] =>  1:40
   - State "DONE"       from "STARTED"    [2017-12-04 一 13:50]
   - State "DONE"       from "STARTED"    [2017-12-03 日 18:06]
   CLOCK: [2017-12-03 日 14:49]--[2017-12-03 日 15:02] =>  0:13

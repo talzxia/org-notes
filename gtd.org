@@ -9921,11 +9921,13 @@ read two books about a hundred pages
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-13 二 11:15]
    :END:
-*** TODO [#A]<2017-11-28 二 15:40-17:00 +1w>                        :meeting:
+*** TODO [#A]<2017-12-12 二 15:40-17:00 +1w>                        :meeting:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-11-21 二 16:37]
+    :LAST_REPEAT: [2017-12-05 二 16:00]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-12-05 二 16:00]
+    - State "DONE"       from "STARTED"    [2017-12-05 二 16:00]
     - State "DONE"       from "STARTED"    [2017-11-21 二 16:37]
     - State "DONE"       from "STARTED"    [2017-11-14 二 17:22]
     CLOCK: [2017-11-14 二 15:20]--[2017-11-14 二 17:22] =>  2:02
