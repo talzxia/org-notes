@@ -1756,12 +1756,13 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO sleep [#A]
+* STARTED sleep [#A]
   DEADLINE: <2017-12-07 四 05:00 +1d> SCHEDULED: <2017-12-06 三 22:00 +1d>
   :PROPERTIES:
   :LAST_REPEAT: [2017-12-06 三 04:02]
   :END:
   :LOGBOOK:
+  CLOCK: [2017-12-06 三 21:13]
   - State "DONE"       from "STARTED"    [2017-12-06 三 04:02]
   CLOCK: [2017-12-05 二 21:47]--[2017-12-06 三 04:02] =>  6:15
   - State "DONE"       from "STARTED"    [2017-12-05 二 06:45]
@@ -3286,13 +3287,14 @@ clean up spending 15 minutes
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2017-10-24 二 14:09]
   :END:
-* STARTED [#B] training
-  DEADLINE: <2017-12-06 三 20:00 +1d> SCHEDULED: <2017-12-06 三 19:00 +1d>
+* TODO [#B] training
+  DEADLINE: <2017-12-07 四 20:00 +1d> SCHEDULED: <2017-12-07 四 19:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-12-05 二 19:55]
+  :LAST_REPEAT: [2017-12-06 三 20:59]
   :END:
   :LOGBOOK:
-  CLOCK: [2017-12-06 三 18:47]
+  - State "DONE"       from "STARTED"    [2017-12-06 三 20:59]
+  CLOCK: [2017-12-06 三 18:47]--[2017-12-06 三 19:59] =>  1:12
   - State "DONE"       from "STARTED"    [2017-12-05 二 19:55]
   CLOCK: [2017-12-05 二 19:36]--[2017-12-05 二 19:55] =>  0:19
   - State "DONE"       from "STARTED"    [2017-12-04 一 21:12]
