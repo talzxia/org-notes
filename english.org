@@ -6248,11 +6248,26 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2017-12-10 Sun 20:38]
    CLOCK: [2017-12-10 Sun 20:10]--[2017-12-10 Sun 20:38] =>  0:28
    :END:
-** DONE Review<2017-12-10 Sun 20:38>
-   CLOSED: [2017-12-10 Sun 21:45]
+** DONE Review<2017-12-10 Sun 20:38>98.7%
+   CLOSED: [2017-12-11 Mon 06:33]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-12-11 Mon 06:33]
+   - State "STARTED"    from "DONE"       [2017-12-11 Mon 06:22]
+   CLOCK: [2017-12-11 Mon 06:22]--[2017-12-11 Mon 06:33] =>  0:11
    - State "DONE"       from "STARTED"    [2017-12-10 Sun 21:45]
    CLOCK: [2017-12-10 Sun 20:38]--[2017-12-10 Sun 21:45] =>  1:07
+   :END:
+** DONE Review<2017-12-11 Mon 19:43>98.4%
+   CLOSED: [2017-12-11 Mon 20:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-12-11 Mon 20:10]
+   CLOCK: [2017-12-11 Mon 19:43]--[2017-12-11 Mon 20:10] =>  0:27
+   :END:
+** DONE Review<2017-12-11 Mon 20:13>99.1%
+   CLOSED: [2017-12-11 Mon 20:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-12-11 Mon 20:46]
+   CLOCK: [2017-12-11 Mon 20:13]--[2017-12-11 Mon 20:46] =>  0:33
    :END:
 * lesson 17thirty four
 ** DONE Review<2017-10-29 日 20:50>98.4%
@@ -6470,6 +6485,12 @@ Today has review three times.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-12-10 Sun 05:29]
    CLOCK: [2017-12-10 Sun 05:02]--[2017-12-10 Sun 05:29] =>  0:27
+   :END:
+** DONE Review<2017-12-11 Mon 06:33>99.1%
+   CLOSED: [2017-12-11 Mon 07:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-12-11 Mon 07:00]
+   CLOCK: [2017-12-11 Mon 06:33]--[2017-12-11 Mon 07:00] =>  0:27
    :END:
 * lesson 18thirty five
 ** DONE Review<2017-10-23 一 05:21>98.6%
