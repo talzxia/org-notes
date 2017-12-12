@@ -7601,8 +7601,11 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
 
 ** DONE [#B] listen to the lecture
-   CLOSED: [2017-12-11 Mon 12:55]
+   CLOSED: [2017-12-12 Tue 12:22]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-12-12 Tue 12:22]
+   - State "STARTED"    from "DONE"       [2017-12-12 Tue 08:37]
+   CLOCK: [2017-12-12 Tue 08:37]--[2017-12-12 Tue 11:12] =>  2:35
    - State "DONE"       from "STARTED"    [2017-12-11 Mon 12:55]
    CLOCK: [2017-12-11 Mon 08:40]--[2017-12-11 Mon 12:00] =>  3:20
    :END:
@@ -9954,11 +9957,13 @@ read two books about a hundred pages
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-13 二 11:15]
    :END:
-*** TODO [#A]<2017-12-12 二 15:40-17:00 +1w>                        :meeting:
+*** TODO [#A]<2017-12-19 Tue 15:40-17:00 +1w>                        :meeting:
     :PROPERTIES:
-    :LAST_REPEAT: [2017-12-05 二 16:00]
+    :LAST_REPEAT: [2017-12-12 Tue 21:36]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2017-12-12 Tue 21:36]
+    CLOCK: [2017-12-12 Tue 14:35]--[2017-12-12 Tue 15:36] =>  1:01
     - State "DONE"       from "STARTED"    [2017-12-05 二 16:00]
     - State "DONE"       from "STARTED"    [2017-12-05 二 16:00]
     - State "DONE"       from "STARTED"    [2017-11-21 二 16:37]
