@@ -7611,8 +7611,14 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
 
 ** DONE [#B] listen to the lecture
-   CLOSED: [2017-12-11 Mon 18:08]
+   CLOSED: [2017-12-13 三 18:17]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-12-13 三 18:17]
+   - State "STARTED"    from "DONE"       [2017-12-13 三 18:16]
+   CLOCK: [2017-12-13 三 14:00]--[2017-12-13 三 16:00] =>  2:00
+   - State "DONE"       from "STARTED"    [2017-12-13 三 18:15]
+   - State "STARTED"    from "DONE"       [2017-12-13 三 18:13]
+   CLOCK: [2017-12-13 三 07:43]--[2017-12-13 三 11:25] =>  3:42
    - State "DONE"       from "STARTED"    [2017-12-11 Mon 18:08]
    CLOCK: [2017-12-11 Mon 14:06]--[2017-12-11 Mon 17:08] =>  3:02
    :END:
