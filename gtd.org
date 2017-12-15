@@ -7540,12 +7540,15 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
 
 ** DONE [#B] meeting
-   CLOSED: [2017-11-25 六 05:24]
+   CLOSED: [2017-12-15 五 10:07]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-12-15 五 10:07]
+   - State "STARTED"    from "DONE"       [2017-12-15 五 10:06]
+   CLOCK: [2017-12-15 五 08:50]--[2017-12-15 五 10:07] =>  1:17
    - State "DONE"       from "STARTED"    [2017-11-25 六 05:24]
    CLOCK: [2017-11-17 五 09:25]--[2017-11-17 五 10:06] =>  0:41
    :END:
-
+胶州职业中专
 ** DONE [#B] take daughter to learn drive
    CLOSED: [2017-11-18 Sat 10:18]
    :LOGBOOK:
