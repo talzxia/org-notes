@@ -794,12 +794,13 @@ SCHEDULED: <2017-12-20 三 11:40 +1d> DEADLINE: <2017-12-20 三 13:40 +1d>
     :END:
 13:50-14:30检查
 
-** TODO [#B] dinner
+** STARTED [#B] dinner
    DEADLINE: <2017-12-19 二 18:40 +1d> SCHEDULED: <2017-12-19 二 17:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-12-18 一 20:42]
    :END:
    :LOGBOOK:
+   CLOCK: [2017-12-19 二 16:38]
    - State "DONE"       from "STARTED"    [2017-12-18 一 20:42]
    CLOCK: [2017-12-18 一 16:58]--[2017-12-18 一 20:42] =>  3:44
    - State "DONE"       from "STARTED"    [2017-12-17 日 18:36]
@@ -3403,11 +3404,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 10:31]--[2017-10-23 一 10:47] =>  0:16
   :END:
 * TODO [#B] practice
-  DEADLINE: <2017-12-19 二 13:40 +1d> SCHEDULED: <2017-12-19 二 17:00 +1d>
+  DEADLINE: <2017-12-20 三 13:40 +1d> SCHEDULED: <2017-12-20 三 17:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-12-18 一 16:58]
+  :LAST_REPEAT: [2017-12-19 二 15:55]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2017-12-19 二 15:55]
+  CLOCK: [2017-12-19 二 15:02]--[2017-12-19 二 15:55] =>  0:53
   - State "DONE"       from "STARTED"    [2017-12-18 一 16:58]
   - State "DONE"       from "STARTED"    [2017-12-16 六 08:35]
   - State "DONE"       from "STARTED"    [2017-12-16 六 08:35]
