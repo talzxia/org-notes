@@ -10461,6 +10461,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2017-12-24 日 20:38]
    CLOCK: [2017-12-24 日 20:18]--[2017-12-24 日 20:38] =>  0:20
    :END:
+** DONE Review<2017-12-25 一 06:53>90%
+   CLOSED: [2017-12-25 一 07:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-12-25 一 07:13]
+     CLOCK: [2017-12-25 一 06:53]--[2017-12-25 一 07:13] =>  0:20
+   :END:
 * Lesson 25fitty
 ** Review<2016-09-11 日 12:11>98.8%
 ** DONE Review <2016-09-11 日 18:39>99.2%
@@ -10705,4 +10711,10 @@ A notebook is finished.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-10-01 日 04:27]
    CLOCK: [2017-10-01 日 03:58]--[2017-10-01 日 04:27] =>  0:29
+   :END:
+** DONE Review<2017-12-25 一 07:14>98.6%
+   CLOSED: [2017-12-25 一 07:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-12-25 一 07:39]
+   CLOCK: [2017-12-25 一 07:14]--[2017-12-25 一 07:39] =>  0:25
    :END:
