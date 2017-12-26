@@ -6504,6 +6504,18 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2017-12-11 Mon 07:00]
    CLOCK: [2017-12-11 Mon 06:33]--[2017-12-11 Mon 07:00] =>  0:27
    :END:
+** DONE Review<2017-12-26 二 05:29>98.4%
+   CLOSED: [2017-12-26 二 05:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-12-26 二 05:57]
+   CLOCK: [2017-12-26 二 05:29]--[2017-12-26 二 05:57] =>  0:28
+   :END:
+** DONE Review<2017-12-26 二 06:00>99.5%
+   CLOSED: [2017-12-26 二 06:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-12-26 二 06:27]
+   CLOCK: [2017-12-26 二 05:59]--[2017-12-26 二 06:27] =>  0:28
+   :END:
 * lesson 18thirty five
 ** DONE Review<2017-10-23 一 05:21>98.6%
 CLOSED: [2017-10-23 一 05:52]
@@ -9111,6 +9123,12 @@ Arrange student internship
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-12-19 二 05:40]
    CLOCK: [2017-12-19 二 05:16]--[2017-12-19 二 05:40] =>  0:24
+   :END:
+** DONE Review<2017-12-26 二 18:48>97.9%
+   CLOSED: [2017-12-26 二 19:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-12-26 二 19:09]
+   CLOCK: [2017-12-26 二 18:48]--[2017-12-26 二 19:09] =>  0:21
    :END:
 * lesson 23forty five
 ** DONE Review<2017-06-01 Thu 19:07>98.3%
