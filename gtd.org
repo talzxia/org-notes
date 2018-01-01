@@ -7663,8 +7663,11 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
 
 ** DONE [#B] to attend a party
-   CLOSED: [2017-12-31 日 14:49]
+   CLOSED: [2018-01-01 Mon 17:58]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-01-01 Mon 17:58]
+   - State "STARTED"    from "DONE"       [2018-01-01 一 09:29]
+   CLOCK: [2018-01-01 一 09:29]--[2018-01-01 一 17:58] =>  8:29
    - State "DONE"       from "STARTED"    [2017-12-31 日 14:49]
    CLOCK: [2017-12-31 日 09:41]--[2017-12-31 日 14:49] =>  5:08
    :END:
