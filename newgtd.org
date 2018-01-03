@@ -848,13 +848,14 @@ SCHEDULED: <2018-01-04 Thu 11:40 +1d> DEADLINE: <2018-01-04 Thu 13:40 +1d>
     :END:
 13:50-14:30检查
 
-** STARTED [#B] dinner
-   DEADLINE: <2018-01-03 Wed 18:40 +1d> SCHEDULED: <2018-01-03 Wed 17:40 +1d>
+** TODO [#B] dinner
+   DEADLINE: <2018-01-04 Thu 18:40 +1d> SCHEDULED: <2018-01-04 Thu 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-01-02 Tue 18:00]
+   :LAST_REPEAT: [2018-01-03 Wed 18:33]
    :END:
    :LOGBOOK:
-   CLOCK: [2018-01-03 Wed 16:30]
+   - State "DONE"       from "STARTED"    [2018-01-03 Wed 18:33]
+   CLOCK: [2018-01-03 Wed 16:30]--[2018-01-03 Wed 18:33] =>  2:03
    - State "DONE"       from "STARTED"    [2018-01-02 Tue 18:00]
    CLOCK: [2018-01-02 Tue 16:18]--[2018-01-02 Tue 18:00] =>  1:42
    - State "DONE"       from "STARTED"    [2018-01-01 Mon 17:56]
@@ -1911,7 +1912,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO sleep [#A]
+* STARTED sleep [#A]
   DEADLINE: <2018-01-04 Thu 05:00 +1d> SCHEDULED: <2018-01-03 Wed 22:00 +1d> :PROPERTIES:
   :PROPERTIES:
   :LAST_REPEAT: [2018-01-03 Wed 05:23]
@@ -1919,6 +1920,7 @@ clean up spending 15 minutes
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-01-03 Wed 21:08]
   - State "DONE"       from "STARTED"    [2018-01-03 Wed 05:23]
   CLOCK: [2018-01-02 Tue 20:46]--[2018-01-03 Wed 05:23] =>  8:37
   - State "DONE"       from "STARTED"    [2018-01-02 Tue 04:58]
@@ -3852,11 +3854,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-24 二 14:09]
   :END:
 * TODO [#B] training
-  DEADLINE: <2018-01-03 Wed 20:00 +1d> SCHEDULED: <2018-01-03 Wed 19:00 +1d>
+  DEADLINE: <2018-01-04 Thu 20:00 +1d> SCHEDULED: <2018-01-04 Thu 19:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-01-02 Tue 20:46]
+  :LAST_REPEAT: [2018-01-03 Wed 21:08]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-01-03 Wed 21:08]
   - State "DONE"       from "STARTED"    [2018-01-02 Tue 20:46]
   - State "DONE"       from "STARTED"    [2018-01-01 Mon 21:49]
   - State "DONE"       from "STARTED"    [2017-12-31 日 17:54]
