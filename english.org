@@ -8846,6 +8846,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2017-12-17 日 19:02]
    CLOCK: [2017-12-17 日 18:36]--[2017-12-17 日 19:02] =>  0:26
    :END:
+** DONE Review<2037-02-04 三>98.5%
+   CLOSED: [2018-01-05 五 05:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-01-05 五 05:05]
+   CLOCK: [2018-01-05 五 04:38]--[2018-01-05 五 05:05] =>  0:27
+   :END:
 * lesson 24forty four
 ** DONE Review 94%
    CLOSED: [2016-08-23 二 04:36]
@@ -9153,6 +9159,12 @@ Arrange student internship
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-01-04 Thu 03:56]
    CLOCK: [2018-01-04 Thu 03:36]--[2018-01-04 Thu 03:56] =>  0:20
+   :END:
+** DONE Review<2018-01-05 五 04:17>98.4%
+   CLOSED: [2018-01-05 五 04:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-01-05 五 04:37]
+   CLOCK: [2018-01-05 五 04:16]--[2018-01-05 五 04:37] =>  0:21
    :END:
 * lesson 23forty five
 ** DONE Review<2017-06-01 Thu 19:07>98.3%
