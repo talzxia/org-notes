@@ -277,9 +277,10 @@ To proceed, enter your password, or type Ctrl-C to abort
    CLOCK: [2016-08-03 Wed 08:43]--[2016-08-03 Wed 09:45] =>  1:02
    :END:
 
-** DONE [#B] relaxing
-   CLOSED: [2016-08-04 Thu 06:46]
+** STARTED [#B] relaxing
    :LOGBOOK:
+   - State "STARTED"    from "DONE"       [2018-01-06 六 12:26]
+   CLOCK: [2018-01-06 六 12:26]
    - State "DONE"       from "STARTED"    [2016-08-04 Thu 06:46]
    CLOCK: [2016-08-04 Thu 06:08]--[2016-08-04 Thu 06:46] =>  0:38
    :END:
@@ -7678,6 +7679,25 @@ CLOSED: [2017-10-22 日 20:46]
    - State "DONE"       from "STARTED"    [2018-01-04 四 21:19]
    CLOCK: [2018-01-04 四 14:10]--[2018-01-04 四 17:19] =>  3:09
    :END:
+
+** DONE [#B] to attend meeting
+   CLOSED: [2018-01-05 五 11:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-01-05 五 11:32]
+   CLOCK: [2018-01-05 五 09:00]--[2018-01-05 五 10:32] =>  0:02
+   :END:
+
+** DONE [#B] Take part in the CPPCC
+   CLOSED: [2018-01-06 六 11:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-01-06 六 11:24]
+   - State "STARTED"    from "DONE"       [2018-01-06 六 11:22]
+   CLOCK: [2018-01-06 六 08:22]--[2018-01-06 六 10:44] =>  2:22
+   - State "DONE"       from "STARTED"    [2018-01-05 五 18:46]
+   CLOCK: [2018-01-05 五 13:30]--[2018-01-05 五 17:16] =>  0:08
+   :END:
+
+** TODO [#B] Group discussion
 
 * DONE [#B]看望任淑君老师
 <<<<<<< Updated upstream
