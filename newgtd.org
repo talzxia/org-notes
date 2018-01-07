@@ -1,11 +1,12 @@
 * eating
-** STARTED [#B]breakfast
-SCHEDULED: <2018-01-07 日 07:00 +1d> DEADLINE: <2018-01-07 日 07:40 +1d>
+** TODO [#B]breakfast
+SCHEDULED: <2018-01-08 一 07:00 +1d> DEADLINE: <2018-01-08 一 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-01-06 六 11:20]
+   :LAST_REPEAT: [2018-01-07 日 11:18]
    :END:
    :LOGBOOK:
-   CLOCK: [2018-01-07 日 06:36]
+   - State "DONE"       from "STARTED"    [2018-01-07 日 11:18]
+   CLOCK: [2018-01-07 日 06:36]--[2018-01-07 日 08:00] =>  1:24
    - State "DONE"       from "STARTED"    [2018-01-06 六 11:20]
    CLOCK: [2018-01-06 六 07:19]--[2018-01-06 六 08:20] =>  1:01
    - State "DONE"       from "STARTED"    [2018-01-05 五 11:26]
@@ -457,11 +458,13 @@ SCHEDULED: <2018-01-07 日 07:00 +1d> DEADLINE: <2018-01-07 日 07:40 +1d>
 
 
 ** TODO [#A]lunch
-SCHEDULED: <2018-01-07 日 11:40 +1d> DEADLINE: <2018-01-07 日 13:40 +1d>
+SCHEDULED: <2018-01-08 一 11:40 +1d> DEADLINE: <2018-01-08 一 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-01-06 六 12:22]
+   :LAST_REPEAT: [2018-01-07 日 12:04]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-01-07 日 12:04]
+   CLOCK: [2018-01-07 日 11:26]--[2018-01-07 日 12:04] =>  0:38
    - State "DONE"       from "STARTED"    [2018-01-06 六 12:22]
    CLOCK: [2018-01-06 六 11:37]--[2018-01-06 六 12:22] =>  0:45
    - State "DONE"       from "STARTED"    [2018-01-05 五 12:33]
@@ -3286,11 +3289,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 * TODO [#B] browse news and free learn
-  DEADLINE: <2018-01-09 二 08:30 +1d> SCHEDULED: <2018-01-09 二 08:20 +1d>
+  DEADLINE: <2018-01-10 三 08:30 +1d> SCHEDULED: <2018-01-10 三 08:20 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-01-07 日 06:35]
+  :LAST_REPEAT: [2018-01-07 日 12:05]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-01-07 日 12:05]
   - State "DONE"       from "STARTED"    [2018-01-07 日 06:35]
   CLOCK: [2018-01-07 日 04:12]--[2018-01-07 日 06:35] =>  2:23
   - State "DONE"       from "STARTED"    [2018-01-07 日 04:07]

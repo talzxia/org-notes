@@ -7687,8 +7687,14 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
 
 ** DONE [#B] Take part in the CPPCC
-   CLOSED: [2018-01-06 六 11:24]
+   CLOSED: [2018-01-07 日 15:53]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-01-07 日 15:53]
+   - State "STARTED"    from "DONE"       [2018-01-07 日 15:51]
+   CLOCK: [2018-01-07 日 13:21]--[2018-01-07 日 15:53] =>  2:32
+   - State "DONE"       from "STARTED"    [2018-01-07 日 11:25]
+   - State "STARTED"    from "DONE"       [2018-01-07 日 11:20]
+   CLOCK: [2018-01-07 日 08:20]--[2018-01-07 日 11:00] =>  2:40
    - State "DONE"       from "STARTED"    [2018-01-06 六 11:24]
    - State "STARTED"    from "DONE"       [2018-01-06 六 11:22]
    CLOCK: [2018-01-06 六 08:22]--[2018-01-06 六 10:44] =>  2:22
@@ -7773,8 +7779,11 @@ Lesson 18 98.2%
    :END:
 
 ** DONE [#B] relax
-   CLOSED: [2017-12-19 二 14:46]
+   CLOSED: [2018-01-07 日 15:50]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-01-07 日 15:50]
+   - State "STARTED"    from "DONE"       [2018-01-07 日 12:06]
+   CLOCK: [2018-01-07 日 12:06]--[2018-01-07 日 13:20] =>  1:14
    - State "DONE"       from "STARTED"    [2017-12-19 二 14:46]
    - State "STARTED"    from "DONE"       [2017-12-19 二 13:01]
    CLOCK: [2017-12-19 二 13:01]--[2017-12-19 二 14:46] =>  1:45
