@@ -6293,6 +6293,12 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2017-12-25 一 20:37]
    CLOCK: [2017-12-25 一 20:09]--[2017-12-25 一 20:37] =>  0:28
    :END:
+** DONE Review<2018-01-23 二 05:55>99.1%
+   CLOSED: [2018-01-23 二 06:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-01-23 二 06:24]
+   CLOCK: [2018-01-23 二 05:55]--[2018-01-23 二 06:24] =>  0:29
+   :END:
 * lesson 17thirty four
 ** DONE Review<2017-10-29 日 20:50>98.4%
    CLOSED: [2017-10-29 日 21:14]
