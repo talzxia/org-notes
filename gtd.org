@@ -3337,8 +3337,11 @@ sound is so low
 
 <<<<<<< Updated upstream
 ** DONE [#B] update system
-   CLOSED: [2016-11-15 二 06:46]
+   CLOSED: [2018-01-25 Thu 15:15]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-01-25 Thu 15:15]
+   - State "STARTED"    from "DONE"       [2018-01-25 四 14:49]
+   CLOCK: [2018-01-25 四 14:49]--[2018-01-25 四 15:17] =>  0:28
    - State "DONE"       from "STARTED"    [2016-11-15 二 06:46]
    CLOCK: [2016-11-15 二 06:28]--[2016-11-15 二 06:46] =>  0:18
    :END:
@@ -10010,8 +10013,11 @@ read two books about a hundred pages
     CLOCK: [2017-05-31 Wed 07:39]--[2017-05-31 Wed 10:15] =>  2:36
     :END:
 ** DONE relaxing<2017-05-26 Fri 09:43>
-   CLOSED: [2017-05-26 Fri 10:31]
+   CLOSED: [2018-01-25 四 14:25]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-01-25 四 14:25]
+   - State "STARTED"    from "DONE"       [2018-01-25 四 09:01]
+   CLOCK: [2018-01-25 四 09:01]--[2018-01-25 四 14:25] =>  5:24
    - State "DONE"       from "STARTED"    [2017-05-26 Fri 10:31]
    CLOCK: [2017-05-26 Fri 09:43]--[2017-05-26 Fri 10:31] =>  0:48
    :END:
