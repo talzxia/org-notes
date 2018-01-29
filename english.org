@@ -3020,6 +3020,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2018-01-29 Mon 05:43]
    CLOCK: [2018-01-29 Mon 05:25]--[2018-01-29 Mon 05:43] =>  0:18
    :END:
+** DONE Review<2018-01-29 Mon 18:39>99.3%
+   CLOSED: [2018-01-29 Mon 18:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-01-29 Mon 18:56]
+   CLOCK: [2018-01-29 Mon 18:39]--[2018-01-29 Mon 18:56] =>  0:17
+   :END:
 * lesson 16twenty
 ** DONE Review twenty 96.9%
    CLOSED: [2016-08-10 Wed 15:29]
@@ -11090,10 +11096,11 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 ** TODO [#b] Words Book one
-  DEADLINE: <2018-01-29 Mon 08:30 +1d> SCHEDULED: <2018-01-29 Mon 08:00 +1d>
+  DEADLINE: <2018-01-30 Tue 08:30 +1d> SCHEDULED: <2018-01-30 Tue 08:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-01-28 Sun 16:14]
+  :LAST_REPEAT: [2018-01-29 Mon 18:31]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-01-29 Mon 18:31]
   - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:14]
   :END:
