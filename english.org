@@ -1729,6 +1729,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2017-11-17 五 05:55]
    CLOCK: [2017-11-17 五 05:37]--[2017-11-17 五 05:55] =>  0:18
    :END:
+** DONE Review<2018-02-01 Thu 05:36>99.3%
+   CLOSED: [2018-02-01 Thu 05:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-01 Thu 05:56]
+   CLOCK: [2018-02-01 Thu 05:36]--[2018-02-01 Thu 05:56] =>  0:20
+   :END:
 * lesson 38thirteen
 ** DONE Review 98.1%
    CLOSED: [2016-08-21 Sun 16:57]
@@ -1925,6 +1931,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-11-17 五 05:36]
    CLOCK: [2017-11-17 五 05:17]--[2017-11-17 五 05:36] =>  0:19
+   :END:
+** DONE Review<2018-02-01 Thu 05:18>99.5%
+   CLOSED: [2018-02-01 Thu 05:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-01 Thu 05:36]
+   CLOCK: [2018-02-01 Thu 05:18]--[2018-02-01 Thu 05:36] =>  0:18
    :END:
 * lesson 49fourteen
 ** DONE Review fourteen 97.4%
@@ -11140,11 +11152,13 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-02-01 Thu 06:30 +1d> SCHEDULED: <2018-02-01 Thu 06:00 +1d>
+   DEADLINE: <2018-02-02 Fri 06:30 +1d> SCHEDULED: <2018-02-02 Fri 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-01-31 Wed 06:05]
+   :LAST_REPEAT: [2018-02-01 Thu 06:17]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-01 Thu 06:17]
+   CLOCK: [2018-02-01 Thu 05:56]--[2018-02-01 Thu 06:17] =>  0:21
    - State "DONE"       from "STARTED"    [2018-01-31 Wed 06:05]
    CLOCK: [2018-01-31 Wed 05:45]--[2018-01-31 Wed 06:05] =>  0:20
    - State "DONE"       from "STARTED"    [2018-01-30 Tue 06:30]
