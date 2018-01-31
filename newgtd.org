@@ -1,11 +1,12 @@
 * eating
-** STARTED [#B]breakfast
-SCHEDULED: <2018-01-31 Wed 07:00 +1d> DEADLINE: <2018-01-31 Wed 07:40 +1d>
+** TODO [#B]breakfast
+SCHEDULED: <2018-02-01 Thu 07:00 +1d> DEADLINE: <2018-02-01 Thu 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-01-30 Tue 16:46]
+   :LAST_REPEAT: [2018-01-31 Wed 08:17]
    :END:
    :LOGBOOK:
-   CLOCK: [2018-01-31 Wed 06:54]
+   - State "DONE"       from "STARTED"    [2018-01-31 Wed 08:17]
+   CLOCK: [2018-01-31 Wed 06:54]--[2018-01-31 Wed 08:17] =>  1:23
    - State "DONE"       from "STARTED"    [2018-01-30 Tue 16:46]
    CLOCK: [2018-01-30 Tue 07:04]--[2018-01-30 Tue 07:42] =>  0:38
    - State "DONE"       from "STARTED"    [2018-01-29 Mon 18:31]
@@ -3248,8 +3249,8 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-23 一 08:15]
   CLOCK: [2017-10-23 一 07:56]--[2017-10-23 一 08:15] =>  0:19
   :END:
-* TODO Words
-  SCHEDULED: <2018-01-31 Wed 06:00 +1d> DEADLINE: <2018-01-31 Wed 06:10 +1d>
+*   Words
+  SCHEDULED: <2018-01-31 Wed 06:00 > DEADLINE: <2018-01-31 Wed 06:10 >
   :PROPERTIES:
   :LAST_REPEAT: [2018-01-30 Tue 17:13]
   :END:
@@ -3593,12 +3594,39 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-23 一 06:52]
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
-* TODO [#B] browse news and free learn
+** TODO [#b] Copy a model of paiting
+   SCHEDULED: <2018-02-01 Thu 09:00 +1d> DEADLINE: <2018-02-01 Thu 08:00 +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2018-01-31 Wed 08:51]
+   :END:
+   :LOGBOOK:
+   - State "SOMEDAY"    from "WAITING"    [2018-01-31 Wed 08:51]
+   - State "SOMEDAY"    from "WAITING"    [2018-01-31 Wed 08:51]
+   - State "SOMEDAY"    from "WAITING"    [2018-01-31 Wed 08:51]
+   - State "DONE"       from "STARTED"    [2018-01-31 Wed 08:46]
+   CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
+   :END:
+** TODO [#b] Copy (a model of calligraphy)
+   SCHEDULED: <2018-01-31 Wed 09:00 +1d> DEADLINE: <2018-01-31 Wed 08:00 +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2018-01-31 Wed 08:51]
+   :END:
+   :LOGBOOK:
+   - State "SOMEDAY"    from "WAITING"    [2018-01-31 Wed 08:51]
+   - State "SOMEDAY"    from "WAITING"    [2018-01-31 Wed 08:51]
+   - State "SOMEDAY"    from "WAITING"    [2018-01-31 Wed 08:51]
+   - State "DONE"       from "STARTED"    [2018-01-31 Wed 08:46]
+   CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
+   :END:
+
+
+* STARTED [#B] browse news and free learn
   DEADLINE: <2018-01-31 三 08:30 +1d> SCHEDULED: <2018-01-31 三 08:20 +1d>
   :PROPERTIES:
   :LAST_REPEAT: [2018-01-30 二 19:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-01-31 Wed 08:56]
   - State "DONE"       from "STARTED"    [2018-01-30 二 19:16]
   - State "DONE"       from "STARTED"    [2018-01-28 Sun 09:30]
   CLOCK: [2018-01-28 Sun 08:29]--[2018-01-28 Sun 09:30] =>  1:01
