@@ -912,6 +912,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2017-11-18 六 05:23]
    CLOCK: [2017-11-18 六 05:07]--[2017-11-18 六 05:23] =>  0:16
    :END:
+** DONE Review<2018-02-02 Fri 20:06>99.6%
+   CLOSED: [2018-02-02 Fri 20:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-02 Fri 20:21]
+   CLOCK: [2018-02-02 Fri 20:06]--[2018-02-02 Fri 20:21] =>  0:15
+   :END:
 * lesson 15eight
 ** DONE Review 98.4%
    CLOSED: [2016-08-19 五 21:15]
@@ -1063,6 +1069,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-11-17 五 21:39]
    CLOCK: [2017-11-17 五 21:22]--[2017-11-17 五 21:39] =>  0:17
+   :END:
+** DONE Review<2018-02-02 Fri 19:49>99.3%
+   CLOSED: [2018-02-02 Fri 20:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-02 Fri 20:06]
+   CLOCK: [2018-02-02 Fri 19:49]--[2018-02-02 Fri 20:06] =>  0:17
    :END:
 * lesson 20nine
 ** DONE Review Nine 99.0% very good
