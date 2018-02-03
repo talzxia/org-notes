@@ -511,12 +511,13 @@ SCHEDULED: <2018-02-04 Sun 07:00 +1d> DEADLINE: <2018-02-04 Sun 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#A]lunch
+** STARTED [#A]lunch
 SCHEDULED: <2018-02-03 Sat 11:40 +1d> DEADLINE: <2018-02-03 Sat 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-02 Fri 14:18]
    :END:
    :LOGBOOK:
+   CLOCK: [2018-02-03 Sat 12:18]
    - State "DONE"       from "STARTED"    [2018-02-02 Fri 14:18]
    CLOCK: [2018-02-02 Fri 11:14]--[2018-02-02 Fri 14:18] =>  3:04
    - State "DONE"       from "STARTED"    [2018-02-01 Thu 15:41]
