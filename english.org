@@ -467,6 +467,12 @@
    - State "DONE"       from "STARTED"    [2018-02-03 Sat 04:29]
    CLOCK: [2018-02-03 Sat 04:13]--[2018-02-03 Sat 04:29] =>  0:16
    :END:
+** DONE Review<2018-02-06 Tue 05:29>99.3%
+   CLOSED: [2018-02-06 Tue 05:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-06 Tue 05:45]
+   CLOCK: [2018-02-06 Tue 05:29]--[2018-02-06 Tue 05:45] =>  0:16
+   :END:
 * lesson 37five
 ** DONE Review 95.8%-->97.6%
    CLOSED: [2016-08-18 四 20:34]
@@ -670,6 +676,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2018-02-03 Sat 04:10]
    CLOCK: [2018-02-03 Sat 03:51]--[2018-02-03 Sat 04:10] =>  0:19
    :END:
+** DONE Review<2018-02-06 Tue 05:46>99.3%
+   CLOSED: [2018-02-06 Tue 06:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-06 Tue 06:03]
+   CLOCK: [2018-02-06 Tue 05:45]--[2018-02-06 Tue 06:03] =>  0:18
+   :END:
 * lesson 40six
 ** DONE Review<2017-11-06 一 05:24>99.3%
    CLOSED: [2017-11-06 一 05:40]
@@ -819,6 +831,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-02-03 Sat 03:51]
    CLOCK: [2018-02-03 Sat 03:32]--[2018-02-03 Sat 03:51] =>  0:19
+   :END:
+** DONE Review<2018-02-06 Tue 06:07>99.6%
+   CLOSED: [2018-02-06 Tue 06:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-06 Tue 06:22]
+   CLOCK: [2018-02-06 Tue 06:07]--[2018-02-06 Tue 06:22] =>  0:15
    :END:
 * lesson 39seven
 ** DONE Review 99.1%
@@ -11236,11 +11254,13 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-02-06 Tue 06:30 +1d> SCHEDULED: <2018-02-06 Tue 06:00 +1d>
+   DEADLINE: <2018-02-07 Wed 06:30 +1d> SCHEDULED: <2018-02-07 Wed 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-05 Mon 20:04]
+   :LAST_REPEAT: [2018-02-06 Tue 06:53]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-06 Tue 06:53]
+   CLOCK: [2018-02-06 Tue 06:23]--[2018-02-06 Tue 06:53] =>  0:30
    - State "DONE"       from "STARTED"    [2018-02-05 Mon 20:04]
    CLOCK: [2018-02-05 Mon 19:34]--[2018-02-05 Mon 20:04] =>  0:30
    - State "DONE"       from "STARTED"    [2018-02-04 Sun 06:56]
@@ -11271,3 +11291,84 @@ A notebook is finished.
   - State "DONE"       from "STARTED"    [2018-01-29 Mon 18:31]
   - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:14]
   :END:
+* New Concept English
+** Book One
+*** Lesson 77
+Good morning. Mr. Croft.
+Good morning, nurse.
+I want to see the dentist, please.
+Do you have an appointment?
+No, I don't.
+Is it urgent?
+Yes, it is.
+It's very urgent.
+I feel awful.
+I have a terrible toothache.
+Can you come at 10 a.m. on Mondy, April 24th?
+I must see the dentist now, nurse.
+The dentist is very busy at the momment.
+Can you come at 2 p.m.?
+That's very late.
+Can the dentist see me now?
+I'm afraid that he can't, Mr. Croft.
+Can't you wait till this afternoon?
+I can wait, but my toothache can't.
+
+早上好，克罗夫特先生。
+早上好，护士。
+我想见牙科医生。
+您约好了吗？
+没有。
+急吗？
+是的。
+很急。
+我难受极了，
+牙痛的要命。
+你在4月24日星期一上午10点钟来行吗？
+我必须现在就见牙拉医生，护士。
+牙科医生这会很忙。
+您下午两点来行吗？
+那就太晚了。
+牙科医生现在就不能给我看一下吗？
+恐怕不能，克罗夫特先生。
+您就不能等到今天下午吗？
+我倒是可以等。可是我的牙痛等不了啊！
+*** Lesson 79
+What are you doing, Carol?
+I'm making a shopping list, Tom.
+What do you need?
+We need a lot of thing this week.
+I must go to the grocer's.
+We haven't got much tea or coffee,
+and we haven't got any sugar or jam.
+What about vegetables?
+I must go to the greengrocer's.
+What haven't got many tomatoes,
+but we've got a lot of potatoes.
+I must go to the butcher's, too.
+We need some meat.
+We haven't got any meat at all.
+Have we got any beer and wine?
+And I'm not goint to get any!
+I hop that you've got some money.
+I haven't got much.
+Well, I haven't got much either!
+
+卡罗尔，你在干什么？
+我在写购物单，汤姆。
+我们都需要什么？
+这星期我们需要很多东西。
+我得去一下食品店。
+我们的茶叶和咖啡不多了，
+糖和果酱也没有了。
+蔬菜呢？
+我还得到蔬菜水果店去一下。
+我们番茄不多了，但土豆还有不少。
+我还要到肉店去一下。
+我们需要些肉。
+我们一点肉也没有了。
+我们还有啤酒和葡萄酒吗？
+没有了。不过，我不打算去买！
+我希望你还有钱。
+我的钱不多了。
+唉，我也不多了。
