@@ -1544,6 +1544,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2018-02-02 Fri 05:24]
    CLOCK: [2018-02-02 Fri 05:06]--[2018-02-02 Fri 05:24] =>  0:18
    :END:
+** DONE Review<2018-02-07 Wed 20:44>99%
+   CLOSED: [2018-02-07 Wed 21:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-07 Wed 21:04]
+   CLOCK: [2018-02-07 Wed 20:44]--[2018-02-07 Wed 21:04] =>  0:20
+   :END:
 * lesson 36eleven
 ** DONE Review 98%
    CLOSED: [2016-08-21 Sun 10:46]
@@ -1675,6 +1681,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-02-01 Thu 21:36]
    CLOCK: [2018-02-01 Thu 21:19]--[2018-02-01 Thu 21:36] =>  0:17
+   :END:
+** DONE Review<2018-02-07 Wed 21:08>99.2%
+   CLOSED: [2018-02-07 Wed 21:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-07 Wed 21:27]
+   CLOCK: [2018-02-07 Wed 21:07]--[2018-02-07 Wed 21:27] =>  0:20
    :END:
 * lesson 41twelve
 ** DONE Review <2016-08-29 Mon 18:45>97.9%
