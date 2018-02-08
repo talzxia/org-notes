@@ -2709,6 +2709,12 @@ listen to happy music
    - State "DONE"       from "STARTED"    [2018-02-08 Thu 21:34]
    CLOCK: [2018-02-08 Thu 21:17]--[2018-02-08 Thu 21:34] =>  0:17
    :END:
+** DONE Review<2018-02-09 Fri 04:16>99.4%
+   CLOSED: [2018-02-09 Fri 04:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-09 Fri 04:32]
+   CLOCK: [2018-02-09 Fri 04:16]--[2018-02-09 Fri 04:32] =>  0:16
+   :END:
 * lesson 45seventeen
 ** DONE Review seventeen 97.6%
    CLOSED: [2016-08-09 Tue 15:15]
@@ -2876,6 +2882,12 @@ listen to happy music
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-01-30 Tue 16:29]
    CLOCK: [2018-01-30 Tue 16:12]--[2018-01-30 Tue 16:29] =>  0:17
+   :END:
+** DONE Review<2018-02-09 Fri 04:32>99.8%
+   CLOSED: [2018-02-09 Fri 04:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-09 Fri 04:50]
+   CLOCK: [2018-02-09 Fri 04:32]--[2018-02-09 Fri 04:50] =>  0:18
    :END:
 * lesson 4eighteen
 ** DONE Review 97.2%
@@ -3049,6 +3061,12 @@ listen to happy music
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-01-29 Mon 06:05]
    CLOCK: [2018-01-29 Mon 05:44]--[2018-01-29 Mon 06:05] =>  0:21
+   :END:
+** DONE Review<2018-02-09 Fri 04:53>99.7%
+   CLOSED: [2018-02-09 Fri 05:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-09 Fri 05:12]
+   CLOCK: [2018-02-09 Fri 04:53]--[2018-02-09 Fri 05:12] =>  0:19
    :END:
 * lesson 3nineteen
 ** DONE Review 96.7%
@@ -11314,15 +11332,17 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-02-09 五 06:30 +1d> SCHEDULED:
+   DEADLINE: <2018-02-10 Sat 06:30 +1d> SCHEDULED:
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-08 四 07:00]
+   :LAST_REPEAT: [2018-02-09 Fri 05:47]
    :END:
-<2018-02-09 五 06:00 +1d>
+<2018-02-10 Sat 06:00 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-09 Fri 05:47]
+   CLOCK: [2018-02-09 Fri 05:19]--[2018-02-09 Fri 05:47] =>  0:28
    - State "DONE"       from "STARTED"    [2018-02-08 四 07:00]
    CLOCK: [2018-02-08 四 06:28]--[2018-02-08 四 07:00] =>  0:32
    - State "DONE"       from "STARTED"    [2018-02-07 三 06:32]
