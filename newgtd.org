@@ -522,11 +522,13 @@ SCHEDULED: <2018-02-09 五 07:00 +1d> DEADLINE: <2018-02-09 五 07:40 +1d>
 
 
 ** TODO [#A]lunch
-SCHEDULED: <2018-02-08 四 11:40 +1d> DEADLINE: <2018-02-08 四 13:40 +1d>
+SCHEDULED: <2018-02-09 五 11:40 +1d> DEADLINE: <2018-02-09 五 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-07 三 14:39]
+   :LAST_REPEAT: [2018-02-08 四 14:09]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-08 四 14:09]
+   CLOCK: [2018-02-08 四 11:32]--[2018-02-08 四 14:09] =>  2:37
    - State "DONE"       from "STARTED"    [2018-02-07 三 14:39]
    CLOCK: [2018-02-07 三 11:35]--[2018-02-07 三 14:39] =>  3:04
    - State "DONE"       from "STARTED"    [2018-02-06 二 15:56]
@@ -3707,11 +3709,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
 ** TODO [#b] Copy (a model of calligraphy)
-   SCHEDULED: <2018-02-08 四 09:00 +1d> DEADLINE: <2018-02-08 四 08:00 +1d>
+   SCHEDULED: <2018-02-09 五 09:00 +1d> DEADLINE: <2018-02-09 五 08:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-07 三 19:12]
+   :LAST_REPEAT: [2018-02-08 四 15:11]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-08 四 15:11]
+   CLOCK: [2018-02-08 四 14:42]--[2018-02-08 四 15:11] =>  0:29
    - State "DONE"       from "STARTED"    [2018-02-07 三 19:12]
    CLOCK: [2018-02-07 三 18:49]--[2018-02-07 三 19:12] =>  0:23
    - State "DONE"       from "STARTED"    [2018-02-06 二 16:04]
@@ -3737,11 +3741,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
 
 
 * TODO [#B] browse news and free learn
-  DEADLINE: <2018-02-12 一 08:30 +1d> SCHEDULED: <2018-02-12 一 08:20 +1d>
+  DEADLINE: <2018-02-09 五 08:30 +1d> SCHEDULED: <2018-02-09 五 08:20 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-02-08 四 09:59]
+  :LAST_REPEAT: [2018-02-08 四 14:42]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-02-08 四 14:42]
+  CLOCK: [2018-02-08 四 14:10]--[2018-02-08 四 14:42] =>  0:32
   - State "DONE"       from "STARTED"    [2018-02-08 四 09:59]
   CLOCK: [2018-02-08 四 09:55]--[2018-02-08 四 09:59] =>  0:04
   - State "DONE"       from "STARTED"    [2018-02-07 三 16:05]
