@@ -526,11 +526,13 @@ SCHEDULED: <2018-02-11 日 07:00 +1d> DEADLINE: <2018-02-11 日 07:40 +1d>
 
 
 ** TODO [#A]lunch
-SCHEDULED: <2018-02-10 Sat 11:40 +1d> DEADLINE: <2018-02-10 Sat 13:40 +1d>
+SCHEDULED: <2018-02-11 日 11:40 +1d> DEADLINE: <2018-02-11 日 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-09 Fri 13:03]
+   :LAST_REPEAT: [2018-02-10 六 16:35]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-10 六 16:35]
+   CLOCK: [2018-02-10 六 11:06]--[2018-02-10 六 14:35] =>  3:29
    - State "DONE"       from "STARTED"    [2018-02-09 Fri 13:03]
    CLOCK: [2018-02-09 Fri 11:20]--[2018-02-09 Fri 13:04]  =>  1:44
    - State "DONE"       from "STARTED"    [2018-02-08 四 14:09]
@@ -4080,11 +4082,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:53]--[2017-10-23 一 06:56] =>  0:03
   :END:
 * TODO [#A] learn lisp
-  DEADLINE: <2018-02-10 Sat 09:30 +1d> SCHEDULED: <2018-02-10 Sat 08:30 +1d>
+  DEADLINE: <2018-02-11 日 09:30 +1d> SCHEDULED: <2018-02-11 日 08:30 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-02-09 Fri 10:02]
+  :LAST_REPEAT: [2018-02-10 六 16:36]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-02-10 六 16:36]
   - State "DONE"       from "STARTED"    [2018-02-09 Fri 10:02]
   - State "DONE"       from "STARTED"    [2018-02-08 四 09:59]
   - State "DONE"       from "STARTED"    [2018-02-07 三 09:49]
@@ -4389,11 +4392,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 10:31]--[2017-10-23 一 10:47] =>  0:16
   :END:
 * TODO [#B]practice
-  DEADLINE: <2018-02-10 Sat 13:40 +1w> SCHEDULED: <2018-02-10 Sat 17:00 +1w>
+  DEADLINE: <2018-02-17 六 13:40 +1w> SCHEDULED: <2018-02-17 六 17:00 +1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-02-03 Sat 17:19]
+  :LAST_REPEAT: [2018-02-10 六 16:36]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-02-10 六 16:36]
   - State "DONE"       from "STARTED"    [2018-02-03 Sat 17:19]
   - State "DONE"       from "STARTED"    [2018-01-27 Sat 15:39]
   - State "DONE"       from "STARTED"    [2018-01-26 Fri 17:05]
