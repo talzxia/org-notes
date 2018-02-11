@@ -5521,7 +5521,6 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
     CLOCK: [2016-08-01 Mon 17:13]--[2016-08-01 Mon 17:32] =>  0:19
     :END:
  three pargraph
-
 ** DONE Review<2016-09-25 日 08:18>97.2%
    CLOSED: [2016-09-25 日 09:36]
    :LOGBOOK:
@@ -5969,6 +5968,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-01-25 四 06:09]
    CLOCK: [2018-01-25 四 05:22]--[2018-01-25 四 06:09] =>  0:47
+   :END:
+** DONE Review<2018-02-11 Sun 20:42>98.7%
+   CLOSED: [2018-02-11 Sun 21:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-11 Sun 21:22]
+   CLOCK: [2018-02-11 Sun 20:42]--[2018-02-11 Sun 21:22] =>  0:40
    :END:
 * lesson 2thirty one
 ** DONE 复习 95.0%
