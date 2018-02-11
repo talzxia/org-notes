@@ -999,13 +999,14 @@ SCHEDULED: <2018-02-12 Mon 11:40 +1d> DEADLINE: <2018-02-12 Mon 13:40 +1d>
     :END:
 13:50-14:30检查
 
-** STARTED [#B] dinner
-   DEADLINE: <2018-02-11 Sun 18:40 +1d> SCHEDULED: <2018-02-11 Sun 17:40 +1d>
+** TODO [#B] dinner
+   DEADLINE: <2018-02-12 Mon 18:40 +1d> SCHEDULED: <2018-02-12 Mon 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-10 Sat 21:40]
+   :LAST_REPEAT: [2018-02-11 Sun 19:41]
    :END:
    :LOGBOOK:
-   CLOCK: [2018-02-11 Sun 19:11]
+   - State "DONE"       from "STARTED"    [2018-02-11 Sun 19:41]
+   CLOCK: [2018-02-11 Sun 19:11]--[2018-02-11 Sun 19:42] =>  0:31
    - State "DONE"       from "STARTED"    [2018-02-10 Sat 21:40]
    - State "DONE"       from "STARTED"    [2018-02-09 Fri 18:29]
    CLOCK: [2018-02-09 Fri 18:11]--[2018-02-09 Fri 18:29] =>  0:18
