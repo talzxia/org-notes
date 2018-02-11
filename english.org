@@ -5975,6 +5975,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-02-11 Sun 21:22]
    CLOCK: [2018-02-11 Sun 20:42]--[2018-02-11 Sun 21:22] =>  0:40
    :END:
+** DONE Review<2018-02-12 Mon 05:26>99%
+   CLOSED: [2018-02-12 Mon 06:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-12 Mon 06:07]
+   CLOCK: [2018-02-12 Mon 05:26]--[2018-02-12 Mon 06:07] =>  0:41
+   :END:
 * lesson 2thirty one
 ** DONE 复习 95.0%
    CLOSED: [2016-07-25 Mon 18:10]
@@ -11403,15 +11409,17 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-02-12 Mon 06:30 +1d> SCHEDULED:
+   DEADLINE: <2018-02-13 Tue 06:30 +1d> SCHEDULED:
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-11 Sun 06:54]
+   :LAST_REPEAT: [2018-02-12 Mon 06:26]
    :END:
-<2018-02-12 Mon 06:00 +1d>
+<2018-02-13 Tue 06:00 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-12 Mon 06:26]
+   CLOCK: [2018-02-12 Mon 06:09]--[2018-02-12 Mon 06:26] =>  0:17
    - State "DONE"       from "STARTED"    [2018-02-11 Sun 06:54]
    CLOCK: [2018-02-11 日 06:14]--[2018-02-11 日 06:54] =>  0:40
    - State "DONE"       from "STARTED"    [2018-02-10 六 07:24]
