@@ -5918,8 +5918,11 @@ place as church when you are talking about the time that people spend there. 教
    :END:
 
 ** DONE [#B]take the daughter <2017-05-14 Sun 08:15>
-   CLOSED: [2017-05-14 Sun 10:26]
+   CLOSED: [2018-02-13 Tue 15:46]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-13 Tue 15:46]
+   - State "STARTED"    from "DONE"       [2018-02-13 Tue 15:42]
+   CLOCK: [2018-02-13 Tue 09:00]--[2018-02-13 Tue 12:46] =>  3:46
    - State "DONE"       from "STARTED"    [2017-05-14 Sun 10:26]
    CLOCK: [2017-05-14 Sun 08:15]--[2017-05-14 Sun 10:26] =>  2:11
    :END:
