@@ -1024,11 +1024,12 @@ SCHEDULED: <2018-02-18 Sun 11:40 +1d> DEADLINE: <2018-02-18 Sun 13:40 +1d>
 13:50-14:30检查
 
 ** TODO [#B] dinner
-   DEADLINE: <2018-02-17 Sat 18:40 +1d> SCHEDULED: <2018-02-17 Sat 17:40 +1d>
+   DEADLINE: <2018-02-18 Sun 18:40 +1d> SCHEDULED: <2018-02-18 Sun 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-16 Fri 20:25]
+   :LAST_REPEAT: [2018-02-17 Sat 18:09]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-17 Sat 18:09]
    - State "DONE"       from "STARTED"    [2018-02-16 Fri 20:25]
    CLOCK: [2018-02-16 Fri 18:42]--[2018-02-16 Fri 20:25] =>  1:43
    - State "DONE"       from "STARTED"    [2018-02-15 Thu 19:41]
@@ -4512,11 +4513,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 10:31]--[2017-10-23 一 10:47] =>  0:16
   :END:
 * TODO [#B]practice
-  DEADLINE: <2018-02-17 六 13:40 +1w> SCHEDULED: <2018-02-17 六 17:00 +1w>
+  DEADLINE: <2018-02-24 Sat 13:40 +1w> SCHEDULED: <2018-02-24 Sat 17:00 +1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-02-10 六 16:36]
+  :LAST_REPEAT: [2018-02-17 Sat 18:09]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-02-17 Sat 18:09]
   - State "DONE"       from "STARTED"    [2018-02-10 六 16:36]
   - State "DONE"       from "STARTED"    [2018-02-03 Sat 17:19]
   - State "DONE"       from "STARTED"    [2018-01-27 Sat 15:39]
@@ -4837,13 +4839,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-24 二 19:26]
   - State "DONE"       from "STARTED"    [2017-10-23 一 21:31]
   :END:
-* STARTED [#A] free learn
-  DEADLINE: <2018-02-17 Sat 21:40 +1d> SCHEDULED: <2018-02-17 Sat 20:00 +1d>
+* TODO [#A] free learn
+  DEADLINE: <2018-02-18 Sun 21:40 +1d> SCHEDULED: <2018-02-18 Sun 20:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-02-17 Sat 05:25]
+  :LAST_REPEAT: [2018-02-17 Sat 18:08]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-02-17 Sat 17:26]
+  - State "DONE"       from "STARTED"    [2018-02-17 Sat 18:08]
+  CLOCK: [2018-02-17 Sat 17:26]--[2018-02-17 Sat 18:08] =>  0:42
   - State "DONE"       from "STARTED"    [2018-02-17 Sat 05:25]
   - State "DONE"       from "STARTED"    [2018-02-17 Sat 05:24]
   - State "DONE"       from "STARTED"    [2018-02-16 Fri 21:35]
