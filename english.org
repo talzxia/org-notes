@@ -11568,6 +11568,12 @@ A notebook is finished.
   - State "DONE"       from "STARTED"    [2018-01-29 Mon 18:31]
   - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:14]
   :END:
+** DONE Review<2018-02-17 Sat 18:10>
+   CLOSED: [2018-02-17 Sat 18:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-17 Sat 18:18]
+   CLOCK: [2018-02-17 Sat 18:10]--[2018-02-17 Sat 18:18] =>  0:08
+   :END:
 * New Concept English
 ** Book One
 *** Lesson 77
