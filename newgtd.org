@@ -2178,7 +2178,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
    DEADLINE: <2018-02-20 Tue 05:00 +1d> SCHEDULED: <2018-02-19 Mon 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
@@ -2187,6 +2187,7 @@ clean up spending 15 minutes
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-02-19 Mon 21:32]
   - State "DONE"       from "STARTED"    [2018-02-19 Mon 05:28]
   CLOCK: [2018-02-18 Sun 21:40]--[2018-02-19 Mon 05:28] =>  7:48
   - State "DONE"       from "STARTED"    [2018-02-18 Sun 04:51]
@@ -3891,12 +3892,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* STARTED [#B] browse news and free learn
+* TODO [#B] browse news and free learn
   DEADLINE: <2018-02-20 Tue 08:30 .+1d> SCHEDULED: <2018-02-20 Tue 08:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-02-19 Mon 15:55]
+  :LAST_REPEAT: [2018-02-19 Mon 21:25]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-02-19 Mon 21:25]
+  CLOCK: [2018-02-19 Mon 21:01]--[2018-02-19 Mon 21:25] =>  0:24
   CLOCK: [2018-02-19 Mon 17:17]--[2018-02-19 Mon 20:17] =>  3:00
   - State "DONE"       from "STARTED"    [2018-02-19 Mon 15:55]
   CLOCK: [2018-02-19 Mon 15:17]--[2018-02-19 Mon 15:55] =>  0:38
@@ -4888,13 +4891,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-24 二 19:26]
   - State "DONE"       from "STARTED"    [2017-10-23 一 21:31]
   :END:
-* STARTED [#A] free learn
-  DEADLINE: <2018-02-19 Mon 21:40 +1d> SCHEDULED: <2018-02-19 Mon 20:00 +1d>
+* TODO [#A] free learn
+  DEADLINE: <2018-02-20 Tue 21:40 +1d> SCHEDULED: <2018-02-20 Tue 20:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-02-18 Sun 21:40]
+  :LAST_REPEAT: [2018-02-19 Mon 20:59]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-02-19 Mon 20:17]
+  - State "DONE"       from "STARTED"    [2018-02-19 Mon 20:59]
   - State "DONE"       from "STARTED"    [2018-02-18 Sun 21:40]
   CLOCK: [2018-02-18 Sun 21:16]--[2018-02-18 Sun 21:40] =>  0:24
   - State "DONE"       from "STARTED"    [2018-02-17 Sat 18:08]
