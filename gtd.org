@@ -7143,8 +7143,11 @@ CLOSED: [2017-10-22 日 20:45]
    :END:
 
 ** DONE [#B] to relax in nature
-   CLOSED: [2018-02-18 Sun 20:51]
+   CLOSED: [2018-02-19 Mon 11:54]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-19 Mon 11:54]
+   - State "STARTED"    from "DONE"       [2018-02-19 Mon 09:53]
+   CLOCK: [2018-02-19 Mon 09:53]--[2018-02-19 Mon 11:54] =>  2:01
    - State "DONE"       from "STARTED"    [2018-02-18 Sun 20:51]
    - State "STARTED"    from "DONE"       [2018-02-18 Sun 17:25]
    CLOCK: [2018-02-18 Sun 17:25]--[2018-02-18 Sun 20:51] =>  3:26
