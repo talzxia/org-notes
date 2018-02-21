@@ -9891,6 +9891,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2018-02-21 Wed 19:08]
    CLOCK: [2018-02-21 Wed 18:43]--[2018-02-21 Wed 19:08] =>  0:25
    :END:
+** DONE Review<2018-02-22 四 06:41>99.6%
+   CLOSED: [2018-02-22 四 07:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-22 四 07:00]
+   CLOCK: [2018-02-22 四 06:41]--[2018-02-22 四 07:00] =>  0:19
+   :END:
 * lesson 23forty five
 ** DONE Review<2017-06-01 Thu 19:07>98.3%
    CLOSED: [2017-06-01 Thu 19:25]
@@ -10177,6 +10183,12 @@ Arrange student internship
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-01-04 Thu 03:36]
    CLOCK: [2018-01-04 Thu 03:18]--[2018-01-04 Thu 03:36] =>  0:18
+   :END:
+** DONE Review<2018-02-22 四 06:19>99.3%
+   CLOSED: [2018-02-22 四 06:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-22 四 06:38]
+   CLOCK: [2018-02-22 四 06:19]--[2018-02-22 四 06:38] =>  0:19
    :END:
 * lesson 21forty six
 ** DONE Review forty six 96.6%
@@ -11583,9 +11595,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-02-22 四 06:30 +1d> SCHEDULED: <2018-02-22 四 06:00 +1d>
+   DEADLINE: <2018-02-23 五 06:30 +1d> SCHEDULED: <2018-02-23 五 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-21 三 04:54]
+   :LAST_REPEAT: [2018-02-22 四 07:17]
    :END:
 
    :PROPERTIES:
@@ -11595,6 +11607,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-22 四 07:17]
+   CLOCK: [2018-02-22 四 07:04]--[2018-02-22 四 07:17] =>  0:13
    - State "DONE"       from "STARTED"    [2018-02-21 三 04:54]
    CLOCK: [2018-02-21 三 04:40]--[2018-02-21 三 04:54] =>  0:14
    - State "DONE"       from "STARTED"    [2018-02-20 二 04:49]
