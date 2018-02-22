@@ -7493,12 +7493,16 @@ CLOSED: [2017-10-22 日 20:46]
 周五交材料，一页。
 
 ** DONE [#B] to relax in nature
-   CLOSED: [2018-02-22 Thu 11:48]
+   CLOSED: [2018-02-22 四 17:48]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-22 四 17:48]
+   - State "STARTED"    from "DONE"       [2018-02-22 四 15:54]
+   CLOCK: [2018-02-22 四 15:54]--[2018-02-22 四 17:48] =>  1:54
    - State "DONE"       from "STARTED"    [2018-02-22 Thu 11:48]
    - State "STARTED"    from "DONE"       [2018-02-22 四 09:43]
    - State "DONE"       from "STARTED"    [2018-02-08 四 14:02]
    - State "STARTED"    from "DONE"       [2018-02-08 四 10:00]
+   CLOCK: [2018-02-22 四 09:43]--[2018-02-22 四 11:48] =>  2:05
    CLOCK: [2018-02-08 四 10:00]--[2018-02-08 四 11:02] =>  1:02
    - State "DONE"       from "STARTED"    [2017-10-28 六 14:52]
    CLOCK: [2017-10-28 六 09:30]--[2017-10-28 六 12:42] =>  3:12
