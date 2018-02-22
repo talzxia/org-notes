@@ -10518,6 +10518,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2018-01-02 Tue 05:55]
    CLOCK: [2018-01-02 Tue 05:32]--[2018-01-02 Tue 05:55] =>  0:23
    :END:
+** DONE Review<2018-02-23 五 04:53>98.1%
+   CLOSED: [2018-02-23 五 05:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-23 五 05:17]
+   CLOCK: [2018-02-23 五 04:53]--[2018-02-23 五 05:17] =>  0:24
+   :END:
 * lesson 22forty seven
 ** DONE Review 92.5%
    CLOSED: [2016-08-19 五 20:39]
@@ -11595,9 +11601,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-02-23 五 06:30 +1d> SCHEDULED: <2018-02-23 五 06:00 +1d>
+   DEADLINE: <2018-02-24 六 06:30 +1d> SCHEDULED: <2018-02-24 六 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-22 四 07:17]
+   :LAST_REPEAT: [2018-02-23 五 05:34]
    :END:
 
    :PROPERTIES:
@@ -11607,6 +11613,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-23 五 05:34]
+   CLOCK: [2018-02-23 五 05:19]--[2018-02-23 五 05:34] =>  0:15
    - State "DONE"       from "STARTED"    [2018-02-22 四 07:17]
    CLOCK: [2018-02-22 四 07:04]--[2018-02-22 四 07:17] =>  0:13
    - State "DONE"       from "STARTED"    [2018-02-21 三 04:54]
