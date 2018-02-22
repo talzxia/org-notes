@@ -549,11 +549,13 @@ SCHEDULED: <2018-02-23 五 07:00 +1d> DEADLINE: <2018-02-23 五 07:40 +1d>
 
 
 ** TODO [#A]lunch
-SCHEDULED: <2018-02-22 四 11:40 +1d> DEADLINE: <2018-02-22 四 13:40 +1d>
+SCHEDULED: <2018-02-23 Fri 11:40 +1d> DEADLINE: <2018-02-23 Fri 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-21 三 15:33]
+   :LAST_REPEAT: [2018-02-22 Thu 14:31]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-22 Thu 14:31]
+   CLOCK: [2018-02-22 Thu 11:50]--[2018-02-22 Thu 14:31] =>  2:41
    - State "DONE"       from "STARTED"    [2018-02-21 三 15:33]
    CLOCK: [2018-02-21 三 12:49]--[2018-02-21 三 15:33] =>  2:44
    - State "DONE"       from "STARTED"    [2018-02-20 二 14:43]
@@ -3514,7 +3516,6 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :LAST_REPEAT: [2018-02-21 三 05:46]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-02-22 四 08:29]
   - State "DONE"       from "STARTED"    [2018-02-21 三 05:46]
   CLOCK: [2018-02-21 三 04:54]--[2018-02-21 三 05:46] =>  0:52
   - State "DONE"       from "STARTED"    [2018-02-20 二 06:20]
