@@ -2200,7 +2200,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
    DEADLINE: <2018-02-24 六 05:00 +1d> SCHEDULED: <2018-02-23 五 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
@@ -2209,6 +2209,7 @@ clean up spending 15 minutes
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-02-23 五 21:30]
   - State "DONE"       from "STARTED"    [2018-02-23 五 04:53]
   CLOCK: [2018-02-22 四 21:32]--[2018-02-23 五 04:53] =>  7:21
   - State "DONE"       from "STARTED"    [2018-02-22 四 06:18]
