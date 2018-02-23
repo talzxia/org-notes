@@ -3889,13 +3889,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    - State "DONE"       from "STARTED"    [2018-01-31 Wed 08:46]
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
-** STARTED [#b] Copy (a model of calligraphy)
-   SCHEDULED: <2018-02-23 五 09:00 +1d> DEADLINE: <2018-02-23 五 08:00 +1d>
+** TODO [#b] Copy (a model of calligraphy)
+   SCHEDULED: <2018-02-24 六 09:00 +1d> DEADLINE: <2018-02-24 六 08:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-22 四 15:16]
+   :LAST_REPEAT: [2018-02-23 五 20:44]
    :END:
    :LOGBOOK:
-   CLOCK: [2018-02-23 五 19:40]
+   - State "DONE"       from "STARTED"    [2018-02-23 五 20:44]
+   CLOCK: [2018-02-23 五 20:23]--[2018-02-23 五 20:45] =>  0:22
    - State "DONE"       from "STARTED"    [2018-02-22 四 15:16]
    CLOCK: [2018-02-22 四 14:46]--[2018-02-22 四 15:16] =>  0:30
    - State "DONE"       from "STARTED"    [2018-02-21 三 17:27]
