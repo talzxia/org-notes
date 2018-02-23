@@ -7142,10 +7142,12 @@ CLOSED: [2017-10-22 日 20:45]
    CLOCK: [2017-07-23 日 08:04]--[2017-07-23 日 11:34] =>  3:30
    :END:
 
-** STARTED [#B] to relax in nature
+** DONE [#B] to relax in nature
+   CLOSED: [2018-02-23 五 15:40]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-23 五 15:40]
    - State "STARTED"    from "DONE"       [2018-02-23 五 08:06]
-   CLOCK: [2018-02-23 五 08:06]
+   CLOCK: [2018-02-23 五 08:06]--[2018-02-23 五 12:20] =>  4:14
    - State "DONE"       from "STARTED"    [2018-02-19 Mon 11:54]
    - State "STARTED"    from "DONE"       [2018-02-19 Mon 09:53]
    CLOCK: [2018-02-19 Mon 09:53]--[2018-02-19 Mon 11:54] =>  2:01
@@ -10142,11 +10144,12 @@ read two books about a hundred pages
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-13 二 11:15]
    :END:
-*** TODO [#A]<2018-02-23 五 15:40-17:00 +1m>                        :meeting:
+*** TODO [#A]<2018-03-23 五 15:40-17:00 +1m>                        :meeting:
     :PROPERTIES:
-    :LAST_REPEAT: [2018-01-23 二 19:03]
+    :LAST_REPEAT: [2018-02-23 五 15:47]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-02-23 五 15:47]
     - State "DONE"       from "STARTED"    [2018-01-23 二 19:03]
     - State "DONE"       from "STARTED"    [2018-01-16 二 19:40]
     - State "DONE"       from "STARTED"    [2018-01-10 三 05:01]
