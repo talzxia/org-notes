@@ -1,11 +1,12 @@
 * eating
-** STARTED [#B]breakfast
-SCHEDULED: <2018-02-23 五 07:00 +1d> DEADLINE: <2018-02-23 五 07:40 +1d>
+** TODO [#B]breakfast
+SCHEDULED: <2018-02-24 六 07:00 +1d> DEADLINE: <2018-02-24 六 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-22 四 07:51]
+   :LAST_REPEAT: [2018-02-23 五 07:49]
    :END:
    :LOGBOOK:
-   CLOCK: [2018-02-23 五 06:55]
+   - State "DONE"       from "STARTED"    [2018-02-23 五 07:49]
+   CLOCK: [2018-02-23 五 06:55]--[2018-02-23 五 07:49] =>  0:54
    - State "DONE"       from "STARTED"    [2018-02-22 四 07:51]
    - State "DONE"       from "STARTED"    [2018-02-21 三 08:18]
    CLOCK: [2018-02-21 三 07:06]--[2018-02-21 三 08:18] =>  1:12
@@ -3936,12 +3937,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* TODO [#B] browse news and free learn
+* STARTED [#B] browse news and free learn
   DEADLINE: <2018-02-24 六 08:30 .+1d> SCHEDULED: <2018-02-24 六 08:20 .+1d>
   :PROPERTIES:
   :LAST_REPEAT: [2018-02-23 五 06:55]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-02-23 五 07:49]
   - State "DONE"       from "STARTED"    [2018-02-23 五 06:55]
   CLOCK: [2018-02-23 五 06:35]--[2018-02-23 五 06:55] =>  0:20
   - State "DONE"       from "STARTED"    [2018-02-23 五 05:43]

@@ -7142,9 +7142,10 @@ CLOSED: [2017-10-22 日 20:45]
    CLOCK: [2017-07-23 日 08:04]--[2017-07-23 日 11:34] =>  3:30
    :END:
 
-** DONE [#B] to relax in nature
-   CLOSED: [2018-02-19 Mon 11:54]
+** STARTED [#B] to relax in nature
    :LOGBOOK:
+   - State "STARTED"    from "DONE"       [2018-02-23 五 08:06]
+   CLOCK: [2018-02-23 五 08:06]
    - State "DONE"       from "STARTED"    [2018-02-19 Mon 11:54]
    - State "STARTED"    from "DONE"       [2018-02-19 Mon 09:53]
    CLOCK: [2018-02-19 Mon 09:53]--[2018-02-19 Mon 11:54] =>  2:01
