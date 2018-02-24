@@ -1,11 +1,12 @@
 * eating
-** STARTED [#B]breakfast
-SCHEDULED: <2018-02-24 六 07:00 +1d> DEADLINE: <2018-02-24 六 07:40 +1d>
+** TODO [#B]breakfast
+SCHEDULED: <2018-02-25 日 07:00 +1d> DEADLINE: <2018-02-25 日 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-23 五 07:49]
+   :LAST_REPEAT: [2018-02-24 六 08:11]
    :END:
    :LOGBOOK:
-   CLOCK: [2018-02-24 六 06:55]
+   - State "DONE"       from "STARTED"    [2018-02-24 六 08:11]
+   CLOCK: [2018-02-24 六 06:55]--[2018-02-24 六 08:11] =>  1:16
    - State "DONE"       from "STARTED"    [2018-02-23 五 07:49]
    CLOCK: [2018-02-23 五 06:55]--[2018-02-23 五 07:49] =>  0:54
    - State "DONE"       from "STARTED"    [2018-02-22 四 07:51]
@@ -3840,11 +3841,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2018-02-24 六 09:00 .+1d> DEADLINE: <2018-02-24 六 08:00 .+1d>
+   SCHEDULED: <2018-02-25 日 09:00 .+1d> DEADLINE: <2018-02-25 日 08:00 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-23 五 16:09]
+   :LAST_REPEAT: [2018-02-24 六 08:50]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-24 六 08:50]
+   CLOCK: [2018-02-24 六 08:12]--[2018-02-24 六 08:50] =>  0:38
    - State "DONE"       from "STARTED"    [2018-02-23 五 16:09]
    CLOCK: [2018-02-23 五 15:53]--[2018-02-23 五 16:09] =>  0:16
    - State "DONE"       from "STARTED"    [2018-02-22 四 07:51]
@@ -4330,11 +4333,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:53]--[2017-10-23 一 06:56] =>  0:03
   :END:
 * TODO [#A] learn lisp
-  DEADLINE: <2018-02-24 六 09:30 +1d> SCHEDULED: <2018-02-24 六 08:30 +1d>
+  DEADLINE: <2018-02-25 日 09:30 +1d> SCHEDULED: <2018-02-25 日 08:30 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-02-23 五 15:46]
+  :LAST_REPEAT: [2018-02-24 六 08:50]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-02-24 六 08:50]
   - State "DONE"       from "STARTED"    [2018-02-23 五 15:46]
   - State "DONE"       from "STARTED"    [2018-02-22 四 15:17]
   - State "DONE"       from "STARTED"    [2018-02-21 三 12:45]

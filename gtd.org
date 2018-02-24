@@ -7495,9 +7495,10 @@ CLOSED: [2017-10-22 日 20:46]
 下一步打算
 周五交材料，一页。
 
-** DONE [#B] to relax in nature
-   CLOSED: [2018-02-22 四 17:48]
+** STARTED [#B] to relax in nature
    :LOGBOOK:
+   - State "STARTED"    from "DONE"       [2018-02-24 六 08:51]
+   CLOCK: [2018-02-24 六 08:51]
    - State "DONE"       from "STARTED"    [2018-02-22 四 17:48]
    - State "STARTED"    from "DONE"       [2018-02-22 四 15:54]
    CLOCK: [2018-02-22 四 15:54]--[2018-02-22 四 17:48] =>  1:54
