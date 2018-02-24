@@ -552,12 +552,13 @@ SCHEDULED: <2018-02-25 日 07:00 +1d> DEADLINE: <2018-02-25 日 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#A]lunch
+** STARTED [#A]lunch
 SCHEDULED: <2018-02-24 六 11:40 +1d> DEADLINE: <2018-02-24 六 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-23 五 15:46]
    :END:
    :LOGBOOK:
+   CLOCK: [2018-02-24 六 11:34]
    - State "DONE"       from "STARTED"    [2018-02-23 五 15:46]
    CLOCK: [2018-02-23 五 11:20]--[2018-02-23 五 15:46] =>  4:26
    - State "DONE"       from "STARTED"    [2018-02-22 四 15:19]
@@ -3898,11 +3899,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
 ** TODO [#b] Copy (a model of calligraphy)
-   SCHEDULED: <2018-02-24 六 09:00 +1d> DEADLINE: <2018-02-24 六 08:00 +1d>
+   SCHEDULED: <2018-02-25 日 09:00 +1d> DEADLINE: <2018-02-25 日 08:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-23 五 20:44]
+   :LAST_REPEAT: [2018-02-24 六 11:30]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-24 六 11:30]
+   CLOCK: [2018-02-24 六 11:12]--[2018-02-24 六 11:30] =>  0:18
    - State "DONE"       from "STARTED"    [2018-02-23 五 20:44]
    CLOCK: [2018-02-23 五 20:23]--[2018-02-23 五 20:45] =>  0:22
    - State "DONE"       from "STARTED"    [2018-02-22 四 15:16]
@@ -3956,9 +3959,11 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
 * TODO [#B] browse news and free learn
   DEADLINE: <2018-02-25 日 08:30 .+1d> SCHEDULED: <2018-02-25 日 08:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-02-24 六 05:45]
+  :LAST_REPEAT: [2018-02-24 六 11:11]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-02-24 六 11:11]
+  CLOCK: [2018-02-24 六 11:05]--[2018-02-24 六 11:11] =>  0:06
   - State "DONE"       from "STARTED"    [2018-02-24 六 05:45]
   CLOCK: [2018-02-24 六 05:39]--[2018-02-24 六 05:45] =>  0:06
   - State "DONE"       from "STARTED"    [2018-02-23 五 08:05]
