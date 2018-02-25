@@ -7789,8 +7789,11 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
 
 ** DONE [#B] Go shopping
-   CLOSED: [2018-02-21 三 11:17]
+   CLOSED: [2018-02-25 日 12:26]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-25 日 12:26]
+   - State "STARTED"    from "DONE"       [2018-02-25 日 12:25]
+   CLOCK: [2018-02-25 日 08:25]--[2018-02-25 日 11:46] =>  3:21
    - State "DONE"       from "STARTED"    [2018-02-21 三 11:17]
    CLOCK: [2018-02-21 三 08:19]--[2018-02-21 三 11:17] =>  2:58
    :END:
