@@ -11660,6 +11660,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-02-26 一 06:07]
    CLOCK: [2018-02-26 一 05:35]--[2018-02-26 一 06:07] =>  0:32
    :END:
+** DONE Review<2018-02-26 一 20:48>98.4%
+   CLOSED: [2018-02-26 一 21:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-26 一 21:09]
+   CLOCK: [2018-02-26 一 20:48]--[2018-02-26 一 21:09] =>  0:21
+   :END:
 * New concept English
 ** TODO [#B] Book One
    DEADLINE: <2018-02-27 二 06:30 +1d> SCHEDULED: <2018-02-27 二 06:00 +1d>
