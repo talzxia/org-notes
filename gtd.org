@@ -7496,8 +7496,11 @@ CLOSED: [2017-10-22 日 20:46]
 周五交材料，一页。
 
 ** DONE [#B] to relax in nature
-   CLOSED: [2018-02-26 一 11:21]
+   CLOSED: [2018-02-27 二 18:19]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-02-27 二 18:19]
+   - State "STARTED"    from "DONE"       [2018-02-27 二 15:41]
+   CLOCK: [2018-02-27 二 15:41]--[2018-02-27 二 18:19] =>  2:38
    - State "DONE"       from "STARTED"    [2018-02-26 一 11:21]
    - State "STARTED"    from "DONE"       [2018-02-26 一 08:47]
    CLOCK: [2018-02-26 一 08:47]--[2018-02-26 一 11:21] =>  2:34
