@@ -1071,11 +1071,13 @@ SCHEDULED: <2018-03-02 五 11:40 +1d> DEADLINE: <2018-03-02 五 13:40 +1d>
 13:50-14:30检查
 
 ** TODO [#B] dinner
-   DEADLINE: <2018-03-01 四 18:40 +1d> SCHEDULED: <2018-03-01 四 17:40 +1d>
+   DEADLINE: <2018-03-02 五 18:40 +1d> SCHEDULED: <2018-03-02 五 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-28 三 19:02]
+   :LAST_REPEAT: [2018-03-01 四 19:00]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-01 四 19:00]
+   CLOCK: [2018-03-01 四 17:25]--[2018-03-01 四 19:00] =>  1:35
    - State "DONE"       from "STARTED"    [2018-02-28 三 19:02]
    CLOCK: [2018-02-28 三 17:30]--[2018-02-28 三 19:02] =>  1:32
    - State "DONE"       from "STARTED"    [2018-02-27 二 18:19]
@@ -4038,12 +4040,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* TODO [#B] browse news and free learn
+* STARTED [#B] browse news and free learn
   DEADLINE: <2018-03-02 五 08:30 .+1d> SCHEDULED: <2018-03-02 五 08:20 .+1d>
   :PROPERTIES:
   :LAST_REPEAT: [2018-03-01 四 09:23]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-03-01 四 20:34]
   - State "DONE"       from "STARTED"    [2018-03-01 四 09:23]
   CLOCK: [2018-03-01 四 09:13]--[2018-03-01 四 09:23] =>  0:10
   CLOCK: [2018-03-01 四 07:01]--[2018-03-01 四 07:13] =>  0:12

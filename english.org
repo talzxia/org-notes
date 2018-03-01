@@ -11076,11 +11076,17 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-02-24 六 16:20]
    CLOCK: [2018-02-24 六 15:54]--[2018-02-24 六 16:20] =>  0:26
    :END:
-** DONE Review<2018-03-01 四 14:16>98.%
+** DONE Review<2018-03-01 四 14:16>98.5%
    CLOSED: [2018-03-01 四 14:35]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-03-01 四 14:35]
    CLOCK: [2018-03-01 四 14:15]--[2018-03-01 四 14:35] =>  0:20
+   :END:
+** DONE Review<2018-03-01 四 19:31>98.6%
+   CLOSED: [2018-03-01 四 19:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-01 四 19:59]
+   CLOCK: [2018-03-01 四 19:31]--[2018-03-01 四 19:59] =>  0:28
    :END:
 * lesson 30forty nine
 ** DONE Review<2017-10-27 五 04:14>98.3%
@@ -11779,11 +11785,13 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 ** TODO [#b] Words Book one
-  DEADLINE: <2018-03-02 Fri 08:30 +1m> SCHEDULED: <2018-03-02 Fri 08:00 +1m>
+  DEADLINE: <2018-04-02 一 08:30 +1m> SCHEDULED: <2018-04-02 一 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-02-12 Mon 21:13]
+  :LAST_REPEAT: [2018-03-01 四 19:18]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-03-01 四 19:18]
+  CLOCK: [2018-03-01 四 19:01]--[2018-03-01 四 19:18] =>  0:17
   - State "DONE"       from "STARTED"    [2018-02-12 Mon 21:13]
   - State "DONE"       from "STARTED"    [2018-02-01 Thu 15:38]
   - State "DONE"       from "STARTED"    [2018-01-31 Wed 15:47]
@@ -11921,6 +11929,25 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** STARTED Lesson 141 萨莉第一次乘火车旅行
+    :LOGBOOK:
+    CLOCK: [2018-03-01 四 19:20]--[2018-03-01 四 19:31] =>  0:11
+    :END:
+Last week, my four-year-old daughter, Sally, was invited to a children's party.
+I decided to take her by train.
+Sally was very excited because she had never travelled on a train before.
+She sat near the window and asked questions about everything she saw.
+Suddenly, a middle-age lady got on the train and sat opposite Sally.
+'Hello, little girl,' she said.
+Sally did not answer, but looked at her curiously.
+The lady was dressed in a blue coat and a large, funny hat.
+After the train had left the station, the lady opened her handbag and took out her power compact.
+She then began to make her face.
+'Why are you doing that?' Sally asked.
+'To make myself beautiful,' the lady answered.
+She put away her compact and smiled and kindly.
+'But you are still ugly,' Sally said.
+Sally was amused, but I was very embarrassed!
 *** Lesson 143 林中散步
 I live in a very old town which is surrounded by beautiful woods.
 It is a famous beauty spot.
