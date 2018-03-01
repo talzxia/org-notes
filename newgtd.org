@@ -2235,7 +2235,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
    DEADLINE: <2018-03-02 五 05:00 +1d> SCHEDULED: <2018-03-01 四 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
@@ -2244,6 +2244,7 @@ clean up spending 15 minutes
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-03-01 四 21:09]
   - State "DONE"       from "STARTED"    [2018-03-01 四 05:25]
   CLOCK: [2018-02-28 三 21:19]--[2018-03-01 四 05:25] =>  8:06
   - State "DONE"       from "STARTED"    [2018-02-28 三 05:58]
@@ -4040,13 +4041,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* STARTED [#B] browse news and free learn
+* TODO [#B] browse news and free learn
   DEADLINE: <2018-03-02 五 08:30 .+1d> SCHEDULED: <2018-03-02 五 08:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-03-01 四 09:23]
+  :LAST_REPEAT: [2018-03-01 四 21:06]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-03-01 四 20:34]
+  - State "DONE"       from "STARTED"    [2018-03-01 四 21:06]
+  CLOCK: [2018-03-01 四 20:34]--[2018-03-01 四 21:06] =>  0:32
   - State "DONE"       from "STARTED"    [2018-03-01 四 09:23]
   CLOCK: [2018-03-01 四 09:13]--[2018-03-01 四 09:23] =>  0:10
   CLOCK: [2018-03-01 四 07:01]--[2018-03-01 四 07:13] =>  0:12
