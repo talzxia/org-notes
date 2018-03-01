@@ -562,12 +562,13 @@ SCHEDULED: <2018-03-02 五 07:00 +1d> DEADLINE: <2018-03-02 五 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#A]lunch
+** STARTED [#A]lunch
 SCHEDULED: <2018-03-01 四 11:40 +1d> DEADLINE: <2018-03-01 四 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-28 三 13:05]
    :END:
    :LOGBOOK:
+   CLOCK: [2018-03-01 四 11:21]
    - State "DONE"       from "STARTED"    [2018-02-28 三 13:05]
    CLOCK: [2018-02-28 三 11:21]--[2018-02-28 三 13:05] =>  1:44
    - State "DONE"       from "STARTED"    [2018-02-27 二 14:05]
@@ -3967,11 +3968,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
 ** TODO [#b] Copy (a model of calligraphy)
-   SCHEDULED: <2018-03-01 四 09:00 +1d> DEADLINE: <2018-03-01 四 08:00 +1d>
+   SCHEDULED: <2018-03-02 五 09:00 +1d> DEADLINE: <2018-03-02 五 08:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-02-28 三 19:36]
+   :LAST_REPEAT: [2018-03-01 四 10:51]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-01 四 10:51]
+   CLOCK: [2018-03-01 四 10:16]--[2018-03-01 四 10:51] =>  0:35
    - State "DONE"       from "STARTED"    [2018-02-28 三 19:36]
    CLOCK: [2018-02-28 三 19:21]--[2018-02-28 三 19:36] =>  0:15
    - State "DONE"       from "STARTED"    [2018-02-27 二 15:38]
@@ -4434,11 +4437,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:53]--[2017-10-23 一 06:56] =>  0:03
   :END:
 * TODO [#A] learn lisp
-  DEADLINE: <2018-03-01 四 09:30 +1d> SCHEDULED: <2018-03-01 四 08:30 +1d>
+  DEADLINE: <2018-03-02 五 09:30 +1d> SCHEDULED: <2018-03-02 五 08:30 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-02-28 三 19:36]
+  :LAST_REPEAT: [2018-03-01 四 11:21]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-03-01 四 11:21]
+  CLOCK: [2018-03-01 四 10:52]--[2018-03-01 四 11:21] =>  0:29
   - State "DONE"       from "STARTED"    [2018-02-28 三 19:36]
   - State "DONE"       from "STARTED"    [2018-02-27 二 11:29]
   - State "DONE"       from "STARTED"    [2018-02-26 一 08:47]
