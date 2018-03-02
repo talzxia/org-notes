@@ -10555,6 +10555,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2018-02-24 六 05:19]
    CLOCK: [2018-02-24 六 04:47]--[2018-02-24 六 05:19] =>  0:32
    :END:
+** DONE Review<2018-03-03 六 05:29>99.1%
+   CLOSED: [2018-03-03 六 05:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-03 六 05:50]
+   CLOCK: [2018-03-03 六 05:29]--[2018-03-03 六 05:50] =>  0:21
+   :END:
 * lesson 22forty seven
 ** DONE Review 92.5%
    CLOSED: [2016-08-19 五 20:39]
@@ -11715,10 +11721,10 @@ A notebook is finished.
    CLOCK: [2018-02-27 二 04:46]--[2018-02-27 二 05:11] =>  0:25
    :END:
 * New concept English
-** STARTED [#B] Book One
-   DEADLINE: <2018-03-03 六 06:30 +1d> SCHEDULED: <2018-03-03 六 06:00 +1d>
+** TODO [#B] Book One
+   DEADLINE: <2018-03-04 日 06:30 +1d> SCHEDULED: <2018-03-04 日 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-02 五 06:06]
+   :LAST_REPEAT: [2018-03-03 六 06:12]
    :END:
 
    :PROPERTIES:
@@ -11728,6 +11734,9 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-03 六 06:12]
+   CLOCK: [2018-03-03 六 05:53]--[2018-03-03 六 06:04] =>  0:11
+   - State "DONE"       from "STARTED"    [2018-03-03 六 05:27]
    CLOCK: [2018-03-02 五 19:03]--[2018-03-02 五 19:11] =>  0:08
    - State "DONE"       from "STARTED"    [2018-03-02 五 06:06]
    CLOCK: [2018-03-02 五 05:49]--[2018-03-02 五 06:06] =>  0:17
@@ -11944,6 +11953,32 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** DONE Lesson 135 最新消息
+    CLOSED: [2018-03-03 六 06:12]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-03-03 六 06:12]
+    CLOCK: [2018-03-03 六 06:04]--[2018-03-03 六 06:12] =>  0:08
+    :END:
+Are you relly going to retire, miss Marsh?
+I may.
+I can't make up my mind.
+I will have to ask my future husbnad.
+He won't let me make another film.
+Your future husband, Miss marsh?
+Yes, Let me introduce him to you.
+His name is Carlos.
+We're goint to get married next week.
+Look, Liz!
+Here's another report about Karen Marsh.
+'Karen Marsh: The latest.
+At her Londen Hotel today Miss Marsh told reporters she might retire.
+She said she couldn't make up her mind.
+She said she would have to ask her future husband.
+She said her future husband would not let her make another film.
+Then she introduced us to Carlos and told us they would get married next week.'
+That's sensational news, isn't it, Kate?
+It certainly is.
+He'll be her sixth husbnad.
 *** DONE Lesson 137 美好的梦
     CLOSED: [2018-03-02 五 19:18]
     :LOGBOOK:
