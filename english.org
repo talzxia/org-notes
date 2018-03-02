@@ -10836,6 +10836,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2018-02-24 六 04:44]
    CLOCK: [2018-02-24 六 04:20]--[2018-02-24 六 04:44] =>  0:24
    :END:
+** DONE Review<2018-03-02 五 18:43>99%
+   CLOSED: [2018-03-02 五 19:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-02 五 19:01]
+   CLOCK: [2018-03-02 五 18:43]--[2018-03-02 五 19:01] =>  0:18
+   :END:
 * lesson 31forty eight
 ** DONE Review<2017-10-28 六 05:16>98.3%
    CLOSED: [2017-10-28 六 05:38]
@@ -11709,7 +11715,7 @@ A notebook is finished.
    CLOCK: [2018-02-27 二 04:46]--[2018-02-27 二 05:11] =>  0:25
    :END:
 * New concept English
-** TODO [#B] Book One
+** STARTED [#B] Book One
    DEADLINE: <2018-03-03 六 06:30 +1d> SCHEDULED: <2018-03-03 六 06:00 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2018-03-02 五 06:06]
@@ -11722,6 +11728,7 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   CLOCK: [2018-03-02 五 19:03]--[2018-03-02 五 19:11] =>  0:08
    - State "DONE"       from "STARTED"    [2018-03-02 五 06:06]
    CLOCK: [2018-03-02 五 05:49]--[2018-03-02 五 06:06] =>  0:17
    - State "DONE"       from "STARTED"    [2018-03-01 四 06:22]
@@ -11937,6 +11944,28 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** DONE Lesson 137 美好的梦
+    CLOSED: [2018-03-02 五 19:18]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-03-02 五 19:18]
+    CLOCK: [2018-03-02 五 19:11]--[2018-03-02 五 19:18] =>  0:07
+    :END:
+Are you doing the football pools, Brain?
+Yes, I've nearly finished , Julie.
+I'm sure we'll win something this week.
+You always say that, but we never win anything!
+What will you do if you win a lot of money?
+If I win a lot of money I'll buy you a mink coat.
+I don't want a mink coat!
+I want to see the world.
+All right. If we win a lot of money,
+We'll travel around the world and we'll stay at the best hotels.
+Then we'll return home and buy a big house in the country.
+We'll have a beautiful garden and …
+But if we spend all the money we'll be poor again.
+What'll we do then?
+If we spend all the money we'll try and win the football pools again.
+It's a pleasant dream but everything depends on 'if'!
 *** STARTED Lesson 141 萨莉第一次乘火车旅行
     :LOGBOOK:
     CLOCK: [2018-03-01 四 19:20]--[2018-03-01 四 19:31] =>  0:11
