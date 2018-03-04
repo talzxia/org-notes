@@ -9922,6 +9922,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2018-02-22 四 07:00]
    CLOCK: [2018-02-22 四 06:41]--[2018-02-22 四 07:00] =>  0:19
    :END:
+** DONE Review<2018-03-05 一 05:10>99.4%
+   CLOSED: [2018-03-05 一 05:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-05 一 05:32]
+   CLOCK: [2018-03-05 一 05:10]--[2018-03-05 一 05:32] =>  0:22
+   :END:
 * lesson 23forty five
 ** DONE Review<2017-06-01 Thu 19:07>98.3%
    CLOSED: [2017-06-01 Thu 19:25]
@@ -11746,9 +11752,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-05 一 06:30 +1d> SCHEDULED: <2018-03-05 一 06:00 +1d>
+   DEADLINE: <2018-03-06 二 06:30 +1d> SCHEDULED: <2018-03-06 二 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-04 日 05:34]
+   :LAST_REPEAT: [2018-03-05 一 05:56]
    :END:
 
    :PROPERTIES:
@@ -11758,6 +11764,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-05 一 05:56]
+   CLOCK: [2018-03-05 一 05:34]--[2018-03-05 一 05:56] =>  0:22
    - State "DONE"       from "STARTED"    [2018-03-04 日 05:34]
    CLOCK: [2018-03-04 日 05:12]--[2018-03-04 日 05:34] =>  0:22
    - State "DONE"       from "STARTED"    [2018-03-03 六 20:45]
@@ -11981,6 +11989,28 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 129 时速70英里
+Look, Gary!
+That policeman's waving to you.
+He wants you to stop.
+Where do you think you are?
+On a race track?
+You must have been driving at seventy miles an hour.
+I can't have been.
+I was doing eighty when I overtook you.
+Didn't you see the speed limit?
+I'm afraid I didn't, officer.
+I must have been dreaming.
+He wasn't dreaming, officer.
+I was telling him to drive slowly.
+That's why I didn't see the sign.
+Let me see your driving licence.
+I won't charge you this time.
+But you'd better not do it again!
+Think you. I'll certainly be more careful.
+I told you to drive slowly, Gary.
+You always tell me to drive slowly, darling.
+Well, next time you'd better take my advice!
 *** DONE Lesson 131 最那么肯定
     CLOSED: [2018-03-04 日 19:57]
     :LOGBOOK:
@@ -12069,8 +12099,10 @@ But if we spend all the money we'll be poor again.
 What'll we do then?
 If we spend all the money we'll try and win the football pools again.
 It's a pleasant dream but everything depends on 'if'!
-*** STARTED Lesson 141 萨莉第一次乘火车旅行
+*** DONE Lesson 141 萨莉第一次乘火车旅行
+    CLOSED: [2018-03-05 一 06:53]
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-03-05 一 06:53]
     CLOCK: [2018-03-01 四 19:20]--[2018-03-01 四 19:31] =>  0:11
     :END:
 Last week, my four-year-old daughter, Sally, was invited to a children's party.
