@@ -9008,6 +9008,12 @@ CLOCK: [2017-10-23 一 05:53]--[2017-10-23 一 06:25] =>  0:32
    - State "DONE"       from "STARTED"    [2018-02-19 Mon 12:17]
    CLOCK: [2018-02-19 Mon 11:54]--[2018-02-19 Mon 12:17] =>  0:23
    :END:
+** DONE Review<2018-03-06 二 05:26>98.9%
+   CLOSED: [2018-03-06 二 05:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-06 二 05:48]
+   CLOCK: [2018-03-06 二 05:25]--[2018-03-06 二 05:48] =>  0:23
+   :END:
 * lesson 29forty two
 ** DONE Review <2016-08-27 六 20:55> 95.9%
    CLOSED: [2016-08-27 六 21:26]
@@ -11758,9 +11764,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-06 二 06:30 +1d> SCHEDULED: <2018-03-06 二 06:00 +1d>
+   DEADLINE: <2018-03-07 三 06:30 +1d> SCHEDULED: <2018-03-07 三 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-05 一 05:56]
+   :LAST_REPEAT: [2018-03-06 二 06:09]
    :END:
 
    :PROPERTIES:
@@ -11770,6 +11776,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-06 二 06:09]
+   CLOCK: [2018-03-06 二 05:49]--[2018-03-06 二 06:09] =>  0:20
    - State "DONE"       from "STARTED"    [2018-03-05 一 05:56]
    CLOCK: [2018-03-05 一 05:34]--[2018-03-05 一 05:56] =>  0:22
    - State "DONE"       from "STARTED"    [2018-03-04 日 05:34]
@@ -11997,6 +12005,28 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 127著名的女演员
+Can you recognize that woman, Liz?
+I think I can, Kate.
+It must be Karen Marsh, the actress.
+I though so.
+Who's that man beside her?
+That must be Conrad Reeves.
+Conrad Reeves, the actor?
+It's can't be.
+Let me have another look.
+I think you're right!
+Isn't he her third husband?
+No, He must be her fourth or fifth.
+Doesn't Karen Marsh look old!
+She does, doesn't she!
+I read she's twenty-nine,
+but she must be at least forty.
+I'm sure she is.
+She was a famous actress when I was still at school.
+That was a long time age, wasn't it?
+Not that long ago!
+I'm not more than twenty-nine myself.
 *** Lesson 129 时速70英里
 Look, Gary!
 That policeman's waving to you.
