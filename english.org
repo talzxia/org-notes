@@ -5527,6 +5527,13 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-02-12 Mon 21:00]
    CLOCK: [2018-02-12 Mon 20:31]--[2018-02-12 Mon 21:00] =>  0:29
    :END:
+** DONE Review<2018-03-08 四 05:05>99%
+   CLOSED: [2018-03-08 四 05:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-08 四 05:40]
+   CLOCK: [2018-03-08 四 05:05]--[2018-03-08 四 05:40] =>  0:35
+   :END:
+
 * lesson 5thirty
 ** DONE Review thirty 93.9%
    CLOSED: [2016-08-01 Mon 19:27]
@@ -11782,9 +11789,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-08 四 06:30 +1d> SCHEDULED: <2018-03-08 四 06:00 +1d>
+   DEADLINE: <2018-03-09 五 06:30 +1d> SCHEDULED: <2018-03-09 五 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-07 三 05:56]
+   :LAST_REPEAT: [2018-03-08 四 05:58]
    :END:
 
    :PROPERTIES:
@@ -11794,6 +11801,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-08 四 05:58]
+   CLOCK: [2018-03-08 四 05:41]--[2018-03-08 四 05:58] =>  0:17
    - State "DONE"       from "STARTED"    [2018-03-07 三 05:56]
    CLOCK: [2018-03-07 三 05:42]--[2018-03-07 三 05:56] =>  0:14
    - State "DONE"       from "STARTED"    [2018-03-06 二 06:09]
@@ -12025,6 +12034,27 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 123 澳大利亚之行
+Look, Scott.
+This is a photograph I took during my trip to Australia.
+Let me see it, Mike.
+This is a good photograph.
+Who are these people?
+They're people I met during the trip.
+That's the ship we travelled on.
+What a beautful ship!
+Who's this?
+That's the man I told you about.
+Remember?
+Ah yes.
+The man who offered you a job in Australia. That's right.
+Who's this?
+Guess!
+It's not you, is it? That's right.
+I grew a beard during the trip.
+but I shaved it off when I came home.
+Why did you shave it off?
+My wife didn't like it!
 *** Lesson 125 两个人一起喝茶
 Can't you come in and have tea now, Peter?
 Not yet.
