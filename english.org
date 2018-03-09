@@ -8359,6 +8359,12 @@ CLOCK: [2017-10-23 一 05:53]--[2017-10-23 一 06:25] =>  0:32
    - State "DONE"       from "STARTED"    [2018-02-18 Sun 05:11]
    CLOCK: [2018-02-18 Sun 04:52]--[2018-02-18 Sun 05:11] =>  0:19
    :END:
+** DONE Review<2018-03-09 五 05:28>98.7%
+   CLOSED: [2018-03-09 五 05:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-09 五 05:45]
+   CLOCK: [2018-03-09 五 05:26]--[2018-03-09 五 05:45] =>  0:19
+   :END:
 * lesson 26forty
 ** DONE Review Forty
    CLOSED: [2016-08-06 六 16:31]
@@ -11789,9 +11795,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-09 五 06:30 +1d> SCHEDULED: <2018-03-09 五 06:00 +1d>
+   DEADLINE: <2018-03-10 六 06:30 +1d> SCHEDULED: <2018-03-10 六 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-08 四 05:58]
+   :LAST_REPEAT: [2018-03-09 五 06:05]
    :END:
 
    :PROPERTIES:
@@ -11801,6 +11807,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-09 五 06:05]
+   CLOCK: [2018-03-09 五 05:46]--[2018-03-09 五 06:05] =>  0:19
    - State "DONE"       from "STARTED"    [2018-03-08 四 05:58]
    CLOCK: [2018-03-08 四 05:41]--[2018-03-08 四 05:58] =>  0:17
    - State "DONE"       from "STARTED"    [2018-03-07 三 05:56]
@@ -12034,6 +12042,21 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 121 戴帽子的男士
+I bought two expensive dictionaries here half and hour ago,
+but I forgot take them with me.
+Who served you, sir?
+The lady who is standing behind the counter.
+Which books did you buy?
+The books whick are on the counter.
+Did you serve this gentleman half an hour ago, Caroline?
+He says he's the man who bought these books.
+I can't remember.
+The man who I served was wearing a hat.
+Have you got a hat, sir? Yes, I have.
+Would you put it on, please? A right.
+Is this the man that you served, Caroline?
+Yes, I recognize him now.
 *** Lesson 123 澳大利亚之行
 Look, Scott.
 This is a photograph I took during my trip to Australia.
