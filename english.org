@@ -7762,6 +7762,12 @@ CLOCK: [2017-10-23 一 05:53]--[2017-10-23 一 06:25] =>  0:32
    - State "DONE"       from "STARTED"    [2018-02-17 Sat 05:54]
    CLOCK: [2018-02-17 Sat 05:27]--[2018-02-17 Sat 05:54] =>  0:27
    :END:
+** DONE Review<2018-03-11 日 20:18>99.2%
+   CLOSED: [2018-03-11 日 20:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-11 日 20:42]
+   CLOCK: [2018-03-11 日 20:18]--[2018-03-11 日 20:42] =>  0:24
+   :END:
 * lesson 34thirty eight
 ** DONE Review<2017-10-26 四 05:29>97.9%
    CLOSED: [2017-10-26 四 06:02]
@@ -8071,6 +8077,12 @@ CLOCK: [2017-10-23 一 05:53]--[2017-10-23 一 06:25] =>  0:32
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-03-10 六 21:15]
    CLOCK: [2018-03-10 六 20:47]--[2018-03-10 六 21:15] =>  0:28
+   :END:
+** DONE Review<2018-03-11 日 05:25>99.2%
+   CLOSED: [2018-03-11 日 05:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-11 日 05:55]
+   CLOCK: [2018-03-11 日 05:25]--[2018-03-11 日 05:55] =>  0:30
    :END:
 * lesson 35thirty nine
 ** DONE Review<2017-10-27 五 03:52>99%
@@ -11807,9 +11819,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-11 日 06:30 +1d> SCHEDULED: <2018-03-11 日 06:00 +1d>
+   DEADLINE: <2018-03-12 一 06:30 +1d> SCHEDULED: <2018-03-12 一 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-10 六 06:02]
+   :LAST_REPEAT: [2018-03-11 日 06:12]
    :END:
 
    :PROPERTIES:
@@ -11819,6 +11831,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-11 日 06:12]
+   CLOCK: [2018-03-11 日 05:56]--[2018-03-11 日 06:12] =>  0:16
    - State "DONE"       from "STARTED"    [2018-03-10 六 06:02]
    CLOCK: [2018-03-10 六 05:46]--[2018-03-10 六 06:02] =>  0:16
    - State "DONE"       from "STARTED"    [2018-03-09 五 06:05]
@@ -12056,6 +12070,30 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 115 敲敲门
+Isn't there anyone at home?
+I'll knock again, Helen.
+Everything's very quiet.
+I'm sure there's no one at home.
+But that's impossible.
+Carol and Tom invited us to lunch.
+Look through the window.
+Can you see anything?
+Nothing at all.
+Let's try the back door.
+Look! Everyone's in the garden.
+Hello, Helen. Hello, Jim.
+Everyboday wants to have lunch in the garden.
+It's nice and warm out here.
+Come and have something to drink.
+Thanks, Carol.
+May I have a glass of beer please?
+Beer?
+There's none left.
+You can have some lemonade.
+Lemonade!
+Don't belive her, Jim. She's only joking.
+Have some beer!
 *** DONE Lesson 117 汤米的早餐
     CLOSED: [2018-03-10 六 21:29]
     :LOGBOOK:
