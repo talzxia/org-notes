@@ -7329,6 +7329,12 @@ CLOCK: [2017-10-23 一 05:53]--[2017-10-23 一 06:25] =>  0:32
    - State "DONE"       from "STARTED"    [2018-02-16 Fri 12:31]
    CLOCK: [2018-02-16 Fri 12:04]--[2018-02-16 Fri 12:31] =>  0:27
    :END:
+** DONE Review<2018-03-13 二 05:25>99%
+   CLOSED: [2018-03-13 二 05:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-13 二 05:54]
+   CLOCK: [2018-03-13 二 05:25]--[2018-03-13 二 05:54] =>  0:29
+   :END:
 * lesson 14thirty six
 ** DONE Review<2017-11-02 四 05:22>98.1%
    CLOSED: [2017-11-02 四 05:44]
@@ -11831,9 +11837,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-13 二 06:30 +1d> SCHEDULED: <2018-03-13 二 06:00 +1d>
+   DEADLINE: <2018-03-14 三 06:30 +1d> SCHEDULED: <2018-03-14 三 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-12 一 08:29]
+   :LAST_REPEAT: [2018-03-13 二 06:14]
    :END:
 
    :PROPERTIES:
@@ -11843,6 +11849,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-13 二 06:14]
+   CLOCK: [2018-03-13 二 05:54]--[2018-03-13 二 06:14] =>  0:20
    - State "DONE"       from "STARTED"    [2018-03-12 一 08:29]
    CLOCK: [2018-03-12 一 08:14]--[2018-03-12 一 08:29] =>  0:15
    - State "DONE"       from "STARTED"    [2018-03-11 日 06:12]
@@ -12084,6 +12092,29 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 111 最昂贵的型号
+I like this television very much.
+How much does it cost?
+It's the most expensive model in the shop.
+It costs five hundred pounds.
+That's too expensive for us.
+We can't afford all that money.
+This model's less expensive than that one.
+It's only three hundred pounds.
+But, of course, it's not as good as the expensive one.
+I don't like the model.
+The other model's more expensive,
+but it's worth the money.
+Can we buy it on instalments?
+Of course. You can pay a deposit of thirty pounds,
+and then fourteen pounds a month for three years.
+Do you like it, dear?
+I ceitainly do,
+but I don't like the price.
+You always want the best,
+but we can't afford it.
+Sometimes you think you're a millionaire!
+Millionaires don't buy things on instalments!
 *** Lesson 113 零钱
 Fares, please!
 Trafalgar Square, please.
