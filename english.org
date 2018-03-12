@@ -7524,6 +7524,18 @@ CLOCK: [2017-10-23 一 05:53]--[2017-10-23 一 06:25] =>  0:32
    - State "DONE"       from "STARTED"    [2018-02-16 Fri 17:58]
    CLOCK: [2018-02-16 Fri 17:38]--[2018-02-16 Fri 17:58] =>  0:20
    :END:
+** DONE Review<2018-03-12 一 07:52>98.8%
+   CLOSED: [2018-03-12 一 08:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-12 一 08:12]
+   CLOCK: [2018-03-12 一 07:52]--[2018-03-12 一 08:12] =>  0:20
+   :END:
+** DONE Review<2018-03-12 一 20:30>99.4%
+   CLOSED: [2018-03-12 一 20:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-12 一 20:49]
+   CLOCK: [2018-03-12 一 20:29]--[2018-03-12 一 20:49] =>  0:20
+   :END:
 * lesson 11thirty seven
 ** DONE Review<2017-10-25 三 04:49>98.8%
    CLOSED: [2017-10-25 三 05:17]
@@ -11819,9 +11831,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-12 一 06:30 +1d> SCHEDULED: <2018-03-12 一 06:00 +1d>
+   DEADLINE: <2018-03-13 二 06:30 +1d> SCHEDULED: <2018-03-13 二 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-11 日 06:12]
+   :LAST_REPEAT: [2018-03-12 一 08:29]
    :END:
 
    :PROPERTIES:
@@ -11831,6 +11843,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-12 一 08:29]
+   CLOCK: [2018-03-12 一 08:14]--[2018-03-12 一 08:29] =>  0:15
    - State "DONE"       from "STARTED"    [2018-03-11 日 06:12]
    CLOCK: [2018-03-11 日 05:56]--[2018-03-11 日 06:12] =>  0:16
    - State "DONE"       from "STARTED"    [2018-03-10 六 06:02]
@@ -12070,6 +12084,26 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 113 零钱
+Fares, please!
+Trafalgar Square, please.
+I'm sorry, sir. I can't change a ten-pound note.
+Haven't you gott any small change?
+I've got no small change, I am afraid.
+I'll ask some of the passengers.
+Have you any small change, sir?
+I'm sorry. I've got none.
+I haven't got any either.
+Can you change this ten-pound note, madam?
+I'm afraid I can't.
+Neither can I.
+I'm very sorry, sir.
+You must get off the bus.
+None of our passengers can change this note.
+They're all millionaires!
+Except us.
+I've got some small change.
+So have I.
 *** Lesson 115 敲敲门
 Isn't there anyone at home?
 I'll knock again, Helen.
