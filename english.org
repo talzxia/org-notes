@@ -7062,6 +7062,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-03-13 二 20:02]
    CLOCK: [2018-03-13 二 19:40]--[2018-03-13 二 20:02] =>  0:22
    :END:
+** DONE Review<2018-03-14 三 05:26>99.4%
+   CLOSED: [2018-03-14 三 05:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-14 三 05:50]
+   CLOCK: [2018-03-14 三 05:26]--[2018-03-14 三 05:50] =>  0:24
+   :END:
 * lesson 18thirty five
 ** DONE Review<2017-10-23 一 05:21>98.6%
 CLOSED: [2017-10-23 一 05:52]
@@ -11843,9 +11849,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-14 三 06:30 +1d> SCHEDULED: <2018-03-14 三 06:00 +1d>
+   DEADLINE: <2018-03-15 四 06:30 +1d> SCHEDULED: <2018-03-15 四 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-13 二 06:14]
+   :LAST_REPEAT: [2018-03-14 三 06:03]
    :END:
 
    :PROPERTIES:
@@ -11855,6 +11861,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-14 三 06:03]
+   CLOCK: [2018-03-14 三 05:50]--[2018-03-14 三 06:03] =>  0:13
    - State "DONE"       from "STARTED"    [2018-03-13 二 06:14]
    CLOCK: [2018-03-13 二 05:54]--[2018-03-13 二 06:14] =>  0:20
    - State "DONE"       from "STARTED"    [2018-03-12 一 08:29]
@@ -12098,6 +12106,26 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 107 太小了
+Do you like this dress, madam?
+I like the colour very much.
+It's lovely dress.
+but it's too small for me.
+What about this one? It's a lovely dress.
+It's very smart.
+Short skirts are in fashion now.
+Would you like to try it?
+All right.
+I'm afraird this green dress is too small for me as well.
+It's smaller than the blue one.
+I don't like the colour either.
+It doesn't suit me at all.
+I think the blue dress is prettier.
+Could you show me another blue dress?
+I want a dress like that one,
+but it must be my size.
+I'm afraid I haven't got a larger dress.
+This is the largest dress in the shop.
 *** DONE Lesson 109 好主意
     CLOSED: [2018-03-13 二 20:17]
     :LOGBOOK:
