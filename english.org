@@ -6779,6 +6779,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-02-14 Wed 06:24]
    CLOCK: [2018-02-14 Wed 05:56]--[2018-02-14 Wed 06:24] =>  0:28
    :END:
+** DONE [#B] Review<2018-03-15 四 05:24>98.5%
+   CLOSED: [2018-03-15 四 05:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-15 四 05:52]
+   CLOCK: [2018-03-15 四 05:24]--[2018-03-15 四 05:52] =>  0:28
+   :END:
 * lesson 17thirty four
 ** DONE Review<2017-10-29 日 20:50>98.4%
    CLOSED: [2017-10-29 日 21:14]
@@ -11849,9 +11855,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-15 四 06:30 +1d> SCHEDULED: <2018-03-15 四 06:00 +1d>
+   DEADLINE: <2018-03-16 五 06:30 +1d> SCHEDULED: <2018-03-16 五 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-14 三 06:03]
+   :LAST_REPEAT: [2018-03-15 四 06:08]
    :END:
 
    :PROPERTIES:
@@ -11861,6 +11867,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-15 四 06:08]
+   CLOCK: [2018-03-15 四 05:53]--[2018-03-15 四 06:08] =>  0:15
    - State "DONE"       from "STARTED"    [2018-03-14 三 06:03]
    CLOCK: [2018-03-14 三 05:50]--[2018-03-14 三 06:03] =>  0:13
    - State "DONE"       from "STARTED"    [2018-03-13 二 06:14]
@@ -12106,6 +12114,26 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 105 错误百出
+Where's Sandra, Bob?
+I want her.
+Do you want to speak to her?
+Yes, I do. I want her to come to my office.
+Tell her to come at once.
+Did you want to see me?
+Ah, yes, Sandra.
+How do you spell 'intelligent'?
+Can you tell me?
+I-N-T-E-L-L-I-G-E-N-T.
+That's ringt. You've type it with only one 'L'.
+This letter's full of mistakkes.
+I want you to type it again.
+Yes, I'll do that.
+I'm sorry about that.
+And here's a little present for you.
+What's it?
+It's a dictionary.
+I hope it'll help you.
 *** Lesson 107 太小了
 Do you like this dress, madam?
 I like the colour very much.
