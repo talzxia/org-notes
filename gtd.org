@@ -7835,6 +7835,27 @@ CLOSED: [2017-10-22 日 20:46]
    CLOCK: [2018-03-12 一 06:10]--[2018-03-12 一 07:39] =>  0:02
    :END:
 
+** DONE [#B] go to qingdao
+   CLOSED: [2018-03-16 Fri 17:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-16 Fri 17:40]
+   CLOCK: [2018-03-16 Fri 03:00]--[2018-03-16 Fri 17:40] =>  0:02
+   :END:
+
+** DONE [#B] to walk around the sea
+   CLOSED: [2018-03-17 Sat 08:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-17 Sat 08:17]
+   CLOCK: [2018-03-17 Sat 07:05]--[2018-03-17 Sat 08:17] =>  0:02
+   :END:
+
+** DONE [#B] 考察学生实习企业
+   CLOSED: [2018-03-17 Sat 17:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-17 Sat 17:24]
+   CLOCK: [2018-03-17 Sat 10:22]--[2018-03-17 Sat 12:00] =>  0:02
+   :END:
+
 * DONE [#B]看望任淑君老师
 <<<<<<< Updated upstream
 * Workspace
