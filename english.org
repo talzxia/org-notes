@@ -6012,6 +6012,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-03-19 一 19:35]
    CLOCK: [2018-03-19 一 18:48]--[2018-03-19 一 19:35] =>  0:47
    :END:
+** DONE Review<2018-03-20 Tue 04:28>98.7%
+   CLOSED: [2018-03-20 Tue 05:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-20 Tue 05:16]
+   CLOCK: [2018-03-20 Tue 04:28]--[2018-03-20 Tue 05:16] =>  0:48
+   :END:
 * lesson 2thirty one
 ** DONE 复习 95.0%
    CLOSED: [2016-07-25 Mon 18:10]
@@ -11885,9 +11891,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-20 二 06:30 +1d> SCHEDULED: <2018-03-20 二 06:00 +1d>
+   DEADLINE: <2018-03-21 Wed 06:30 +1d> SCHEDULED: <2018-03-21 Wed 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-19 一 05:22]
+   :LAST_REPEAT: [2018-03-20 Tue 05:36]
    :END:
 
    :PROPERTIES:
@@ -11897,6 +11903,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-20 Tue 05:36]
+   CLOCK: [2018-03-20 Tue 05:16]--[2018-03-20 Tue 05:36] =>  0:20
    - State "DONE"       from "STARTED"    [2018-03-19 一 05:22]
    CLOCK: [2018-03-19 一 05:03]--[2018-03-19 一 05:22] =>  0:19
    - State "DONE"       from "STARTED"    [2018-03-18 Sun 09:48]
@@ -12150,6 +12158,27 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 101 吉米的明信片
+Read Jimmy's card to me please, penny.
+'I have just arrive in Scotland and I'm staying at a Youth Hostel.'
+Eh?
+He says he's just arrived in Scotland.
+He says he's staying at a Youth Hostel.
+You know he's a member of the Y.H. A.
+The what?
+The Y.H.A., Mum.
+The Youth Hostels Association.
+What else does he say?
+I'll write a letter soon.
+I hope you all well.
+What? Speak up. Penny.
+I'm afraid I cant's hear you.
+He say he'll write a letter soon.
+He hopes we are all well.
+'Love, Jimmy.'
+Is that all?
+He doesn't say very much, does he?
+He cant't write very much on a card, Mum.
 *** Lesson 103 法语考试
 How was the exam, Richard?
 Not too bad.
