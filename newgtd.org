@@ -1144,13 +1144,13 @@ SCHEDULED: <2018-03-21 三 11:40 +1d> DEADLINE: <2018-03-21 三 13:40 +1d>
     :END:
 13:50-14:30检查
 
-** STARTED [#B] dinner
-   DEADLINE: <2018-03-20 二 18:40 +1d> SCHEDULED: <2018-03-20 二 17:40 +1d>
+** TODO [#B] dinner
+   DEADLINE: <2018-03-21 Wed 18:40 +1d> SCHEDULED: <2018-03-21 Wed 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-19 一 18:47]
+   :LAST_REPEAT: [2018-03-20 Tue 22:01]
    :END:
    :LOGBOOK:
-   CLOCK: [2018-03-20 二 17:07]
+   - State "DONE"       from "STARTED"    [2018-03-20 Tue 22:01]
    - State "DONE"       from "STARTED"    [2018-03-19 一 18:47]
    CLOCK: [2018-03-19 一 17:21]--[2018-03-19 一 18:47] =>  1:26
    - State "DONE"       from "STARTED"    [2018-03-18 日 21:08]
@@ -2342,7 +2342,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
    DEADLINE: <2018-03-21 Wed 05:00 +1d> SCHEDULED: <2018-03-20 Tue 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
@@ -2351,6 +2351,7 @@ clean up spending 15 minutes
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-03-20 Tue 22:01]
   - State "DONE"       from "STARTED"    [2018-03-20 Tue 04:26]
   CLOCK: [2018-03-19 一 20:43]--[2018-03-20 二 04:27] =>  7:44
   - State "DONE"       from "STARTED"    [2018-03-19 一 04:33]
