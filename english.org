@@ -6018,6 +6018,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-03-20 Tue 05:16]
    CLOCK: [2018-03-20 Tue 04:28]--[2018-03-20 Tue 05:16] =>  0:48
    :END:
+** DONE Review<2018-03-21 Wed 05:06>99.0%
+   CLOSED: [2018-03-21 Wed 05:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-21 Wed 05:52]
+   CLOCK: [2018-03-21 Wed 05:06]--[2018-03-21 Wed 05:52] =>  0:46
+   :END:
 * lesson 2thirty one
 ** DONE 复习 95.0%
    CLOSED: [2016-07-25 Mon 18:10]
@@ -11891,9 +11897,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-21 Wed 06:30 +1d> SCHEDULED: <2018-03-21 Wed 06:00 +1d>
+   DEADLINE: <2018-03-22 Thu 06:30 +1d> SCHEDULED: <2018-03-22 Thu 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-20 Tue 05:36]
+   :LAST_REPEAT: [2018-03-21 Wed 06:07]
    :END:
 
    :PROPERTIES:
@@ -11903,6 +11909,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-21 Wed 06:07]
+   CLOCK: [2018-03-21 Wed 05:53]--[2018-03-21 Wed 06:07] =>  0:14
    - State "DONE"       from "STARTED"    [2018-03-20 Tue 05:36]
    CLOCK: [2018-03-20 Tue 05:16]--[2018-03-20 Tue 05:36] =>  0:20
    - State "DONE"       from "STARTED"    [2018-03-19 一 05:22]
@@ -12158,6 +12166,21 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 99 啊哟！
+Ow!
+What's the matter, Andy?
+I slipped and fell downstairs.
+Have you hurt yourself?
+Yes, I have. I think I've hurt any back.
+Try and stand up.
+Can you stand up?
+Here. Let me help you.
+I'm sorry, Lucy.
+I'm afraid that I can't get up.
+I think that the doctor had better see you.
+I'll phone Dr. Carter.
+The doctor says tha he will come at once.
+I'm sure that you need an X-ray, Andy.
 *** Lesson 101 吉米的明信片
 Read Jimmy's card to me please, penny.
 'I have just arrive in Scotland and I'm staying at a Youth Hostel.'
