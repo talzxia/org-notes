@@ -5534,6 +5534,18 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    CLOCK: [2018-03-08 四 05:05]--[2018-03-08 四 05:40] =>  0:35
    :END:
 
+** DONE Review<2018-03-21 三 18:37>98.9%
+   CLOSED: [2018-03-21 三 19:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-21 三 19:08]
+   CLOCK: [2018-03-21 三 18:37]--[2018-03-21 三 19:08] =>  0:31
+   :END:
+** DONE Review<2018-03-22 四 04:25>99.4%
+   CLOSED: [2018-03-22 四 04:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-22 四 04:56]
+   CLOCK: [2018-03-22 四 04:25]--[2018-03-22 四 04:56] =>  0:31
+   :END:
 * lesson 5thirty
 ** DONE Review thirty 93.9%
    CLOSED: [2016-08-01 Mon 19:27]
@@ -11897,9 +11909,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-22 Thu 06:30 +1d> SCHEDULED: <2018-03-22 Thu 06:00 +1d>
+   DEADLINE: <2018-03-23 五 06:30 +1d> SCHEDULED: <2018-03-23 五 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-21 Wed 06:07]
+   :LAST_REPEAT: [2018-03-22 四 05:15]
    :END:
 
    :PROPERTIES:
@@ -11909,6 +11921,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-22 四 05:15]
+   CLOCK: [2018-03-22 四 04:58]--[2018-03-22 四 05:15] =>  0:17
    - State "DONE"       from "STARTED"    [2018-03-21 Wed 06:07]
    CLOCK: [2018-03-21 Wed 05:53]--[2018-03-21 Wed 06:07] =>  0:14
    - State "DONE"       from "STARTED"    [2018-03-20 Tue 05:36]
@@ -12166,6 +12180,51 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 95 请把车票拿出来
+Two return tickets to London, please.
+What time will the next train leave?
+At nineteen minutes past eight.
+Which platform?
+Platform Two. Over the bridge.
+What time will the next train leave?
+At eight nineteen.
+We've got plenty of time.
+It's only three minutes to eight.
+Let's go and have a drink.
+There is a bar next door to the station.
+We had better to back to the station now, Ken.
+Tickets, please.
+We were to catch the eight nineteen to London.
+You've just missed it!
+What! It's only eight fifteen.
+I'm sorry, sir.
+That clock's ten minutes slow.
+When's the next train?
+In five hours' time!
+*** DONE Lesson 97 一只蓝色的小箱
+    CLOSED: [2018-03-21 三 19:24]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-03-21 三 19:24]
+    CLOCK: [2018-03-21 三 19:10]--[2018-03-21 三 19:24] =>  0:14
+    :END:
+I left a suitcase on the train to London the other day.
+Can you describe it, sir?
+It's a small blue case and it's got a zip.
+There's a lable on the handle with my name and address on it.
+Is this case yours?
+No, that's not mine.
+What about this one?
+This one's got a label.
+Let me see it.
+What's your name and address?
+David Hall, 83 Bridge Street.
+That's right. D.N.Hall, 83 Bridge Street.
+Three pounds fifty pence, please.
+Here you are. Thank you.
+Key!
+What's matter?
+This case doesn't belong to me!
+You've given me the wrong case!
 *** Lesson 99 啊哟！
 Ow!
 What's the matter, Andy?

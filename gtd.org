@@ -6057,8 +6057,11 @@ to have lunch
    :END:
 
 ** DONE [#B] update system
-   CLOSED: [2017-05-31 Wed 15:45]
+   CLOSED: [2018-03-21 三 11:49]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-21 三 11:49]
+   - State "STARTED"    from "DONE"       [2018-03-21 Wed 11:08]
+   CLOCK: [2018-03-21 Wed 11:08]--[2018-03-21 Wed 11:50] =>  0:42
    - State "DONE"       from "STARTED"    [2017-05-31 Wed 15:45]
       CLOCK: [2017-05-31 Wed 05:45]--[2017-05-31 Wed 07:05] =>  1:20
 
