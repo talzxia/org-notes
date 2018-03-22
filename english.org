@@ -5080,6 +5080,18 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2018-02-11 日 05:53]
    CLOCK: [2018-02-11 日 05:30]--[2018-02-11 日 05:53] =>  0:23
    :END:
+** DONE Review<2018-03-23 五 04:27>98.9%
+   CLOSED: [2018-03-23 五 04:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-23 五 04:50]
+   CLOCK: [2018-03-23 五 04:26]--[2018-03-23 五 04:50] =>  0:24
+   :END:
+** DONE Review<2018-03-23 五 05:13>99.1%
+   CLOSED: [2018-03-23 五 05:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-23 五 05:35]
+   CLOCK: [2018-03-23 五 05:13]--[2018-03-23 五 05:35] =>  0:22
+   :END:
 * lesson 50twenty eight
 ** DONE Review twenty eight 95.3%
    CLOSED: [2016-08-13 Sat 14:39]
@@ -11921,9 +11933,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-23 五 06:30 +1d> SCHEDULED: <2018-03-23 五 06:00 +1d>
+   DEADLINE: <2018-03-24 六 06:30 +1d> SCHEDULED: <2018-03-24 六 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-22 四 05:15]
+   :LAST_REPEAT: [2018-03-23 五 05:12]
    :END:
 
    :PROPERTIES:
@@ -11933,6 +11945,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-23 五 05:12]
+   CLOCK: [2018-03-23 五 04:54]--[2018-03-23 五 05:12] =>  0:18
    - State "DONE"       from "STARTED"    [2018-03-22 四 05:15]
    CLOCK: [2018-03-22 四 04:58]--[2018-03-22 四 05:15] =>  0:17
    - State "DONE"       from "STARTED"    [2018-03-21 Wed 06:07]
@@ -12192,6 +12206,29 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 91 可怜的伊恩
+Has Ian sold his house yet?
+Yes, he has.
+He sold it last week.
+Has he moved to his new house yet?
+No, not yet.
+He's still here.
+He's going to move tomorrow.
+When? Tomorrow morning.
+No, tomorrow afternoon.
+I'll miss him.
+He has always been a good neighbour.
+He's a very nice person.
+We'll all miss him.
+When will the new people move into the house?
+I think that they'll move in the day after tomorrow.
+Will you see Ian today, Jenny?
+Yes, I will.
+Pleast give him my regards.
+Poor Ian!
+He didn't want to leave this house.
+No, he didn't want to leave.
+but his wife dit!
 *** DONE Lesson 93 我们的新临居
     CLOSED: [2018-03-22 四 19:20]
     :LOGBOOK:
