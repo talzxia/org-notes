@@ -4888,6 +4888,18 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2018-03-23 五 19:10]
    CLOCK: [2018-03-23 五 18:45]--[2018-03-23 五 19:10] =>  0:25
    :END:
+** DONE Review<2018-03-24 六 05:56>98.4%
+   CLOSED: [2018-03-24 六 06:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-24 六 06:24]
+   CLOCK: [2018-03-24 六 05:55]--[2018-03-24 六 06:24] =>  0:29
+   :END:
+** DONE Review <2018-03-24 六 06:27>99.4%
+   CLOSED: [2018-03-24 六 06:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-24 六 06:52]
+   CLOCK: [2018-03-24 六 06:27]--[2018-03-24 六 06:52] =>  0:25
+   :END:
 * lesson 9twenty seven
 ** DONE Review twenty seven 95.7%
    CLOSED: [2016-08-12 五 14:38]
@@ -11939,9 +11951,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-24 六 06:30 +1d> SCHEDULED: <2018-03-24 六 06:00 +1d>
+   DEADLINE: <2018-03-25 日 06:30 +1d> SCHEDULED: <2018-03-25 日 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-23 五 05:12]
+   :LAST_REPEAT: [2018-03-24 六 07:05]
    :END:
 
    :PROPERTIES:
@@ -11951,6 +11963,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-24 六 07:05]
+   CLOCK: [2018-03-24 六 06:52]--[2018-03-24 六 07:05] =>  0:13
    - State "DONE"       from "STARTED"    [2018-03-23 五 05:12]
    CLOCK: [2018-03-23 五 04:54]--[2018-03-23 五 05:12] =>  0:18
    - State "DONE"       from "STARTED"    [2018-03-22 四 05:15]
@@ -12212,6 +12226,26 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 89 待售
+Good afternoon.
+I belive that this house is for sale. That's right.
+May I have a look at it, please?
+Yes, of course. Come in.
+How long have you lived here?
+I've live here for twenty years.
+Twenty years!
+That's long time.
+Yes, I've been here since 1976.
+Then why do you want to sell it?
+Because I've just retired.
+I want to buy a small house in the country.
+How much does this house cost?
+that's a lot of money.
+It's worth every penny of it.
+Well, I like the house.
+but I can't decide yet.
+My wife must see it first.
+Women always have the last word.
 *** Lesson 91 可怜的伊恩
 Has Ian sold his house yet?
 Yes, he has.
