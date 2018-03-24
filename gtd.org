@@ -7290,8 +7290,11 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
 
 ** DONE [#B] to make a purchase
-   CLOSED: [2017-10-08 Sun 14:23]
+   CLOSED: [2018-03-24 六 19:23]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-24 六 19:23]
+   - State "STARTED"    from "DONE"       [2018-03-24 六 17:10]
+   CLOCK: [2018-03-24 六 17:10]--[2018-03-24 六 19:23] =>  2:13
    - State "DONE"       from "STARTED"    [2017-10-08 Sun 14:23]
    CLOCK: [2017-10-08 Sun 10:23]--[2017-10-08 Sun 14:23] =>  4:00
    :END:
@@ -7502,8 +7505,11 @@ CLOSED: [2017-10-22 日 20:46]
 周五交材料，一页。
 
 ** DONE [#B] to relax in nature
-   CLOSED: [2018-03-01 四 10:52]
+   CLOSED: [2018-03-24 六 15:58]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-24 六 15:58]
+   - State "STARTED"    from "DONE"       [2018-03-24 六 08:36]
+   CLOCK: [2018-03-24 六 08:36]--[2018-03-24 六 12:28] =>  3:52
    - State "DONE"       from "STARTED"    [2018-03-01 四 10:52]
    - State "STARTED"    from "DONE"       [2018-03-01 四 09:24]
    CLOCK: [2018-03-01 四 09:24]--[2018-03-01 四 10:16] =>  0:52
