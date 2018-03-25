@@ -4148,6 +4148,12 @@ meet shang hai ruiya 葛锡宝
    - State "DONE"       from "STARTED"    [2018-02-10 六 06:34]
    CLOCK: [2018-02-10 六 06:15]--[2018-02-10 六 06:34] =>  0:19
    :END:
+** DONE Review<2018-03-25 日 19:36>99%
+   CLOSED: [2018-03-25 日 19:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-25 日 19:53]
+   CLOCK: [2018-03-25 日 19:36]--[2018-03-25 日 19:53] =>  0:17
+   :END:
 * lesson 6twenty four
 ** DONE Review twenty four 96.8%
    CLOSED: [2016-08-11 四 15:53]
@@ -4339,6 +4345,12 @@ meet shang hai ruiya 葛锡宝
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-02-25 日 20:22]
    CLOCK: [2018-02-25 日 20:04]--[2018-02-25 日 20:22] =>  0:18
+   :END:
+** DONE Review<2018-03-25 日 05:49>99.5%
+   CLOSED: [2018-03-25 日 06:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-25 日 06:08]
+   CLOCK: [2018-03-25 日 05:49]--[2018-03-25 日 06:08] =>  0:19
    :END:
 * lesson 1twenty five
 ** DONE Review <2016-09-03 Sat 09:04> 95.8%
@@ -4593,6 +4605,12 @@ meet shang hai ruiya 葛锡宝
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-03-24 六 21:24]
    CLOCK: [2018-03-24 六 21:03]--[2018-03-24 六 21:24] =>  0:21
+   :END:
+** DONE Review<2018-03-25 日 05:24>99.7%
+   CLOSED: [2018-03-25 日 05:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-25 日 05:45]
+   CLOCK: [2018-03-25 日 05:23]--[2018-03-25 日 05:45] =>  0:22
    :END:
 * lesson 8twenty six
 ** DONE Review twenty six 95.2%
@@ -11957,9 +11975,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-25 日 06:30 +1d> SCHEDULED: <2018-03-25 日 06:00 +1d>
+   DEADLINE: <2018-03-26 一 06:30 +1d> SCHEDULED: <2018-03-26 一 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-24 六 07:05]
+   :LAST_REPEAT: [2018-03-25 日 06:24]
    :END:
 
    :PROPERTIES:
@@ -11969,6 +11987,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-25 日 06:24]
+   CLOCK: [2018-03-25 日 06:10]--[2018-03-25 日 06:24] =>  0:14
    - State "DONE"       from "STARTED"    [2018-03-24 六 07:05]
    CLOCK: [2018-03-24 六 06:52]--[2018-03-24 六 07:05] =>  0:13
    - State "DONE"       from "STARTED"    [2018-03-23 五 05:12]
@@ -12232,6 +12252,55 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** DONE Lesson 83 度假
+    CLOSED: [2018-03-25 日 20:23]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-03-25 日 20:23]
+    CLOCK: [2018-03-25 日 19:55]--[2018-03-25 日 20:23] =>  0:28
+    :END:
+Hello, Sam. come in.
+Hi, Sam.
+We're having lunch.
+Do you want to have lunch with us?
+No, thank you. Tom.
+I've already had lunch.
+I had a lunch at half pass twelve.
+Have a cup of coffee then.
+I've just had a cup, thank you.
+I had one after my lunch.
+Let's go into the living room, Carol.
+We can have our coffee there.
+Excuse the mess, Sam.
+This room's very untidy.
+We're packing our suitcases.
+We're going to leave tomorrow.
+Tom and I are going to have a holiday.
+Aren't you lucky!
+When are you going to have a holiday, Sam?
+I don't know.
+I've already had my holiday this year.
+Where did you go?
+I stayed at home.
+*** Lesson 85 巴黎之春
+Hello, Ken.
+Hi, George.
+Have you just been to the cinema?
+Yes, I have.
+What's on?
+'Pairs in the spring'.
+Oh, I've already seen it.
+I saw it on television last year.
+It's an old film, but it's very good.
+Pairs is a beautiful city.
+I've never been  there.
+Have you ever been there, Ken?
+Yes, I have. I was there in April.
+Pairs in the spring, eh?
+It was spring.
+but the weather was awful.
+It rained all the time.
+Just like London!
+
 *** DONE Lesson 87 车祸
     CLOSED: [2018-03-24 六 21:38]
     :LOGBOOK:

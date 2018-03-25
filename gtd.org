@@ -7149,8 +7149,11 @@ CLOSED: [2017-10-22 日 20:45]
    :END:
 
 ** DONE [#B] to relax in nature
-   CLOSED: [2018-02-23 五 15:40]
+   CLOSED: [2018-03-25 日 15:38]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-25 日 15:38]
+   - State "STARTED"    from "DONE"       [2018-03-25 日 09:15]
+   CLOCK: [2018-03-25 日 09:15]--[2018-03-25 日 12:38] =>  3:23
    - State "DONE"       from "STARTED"    [2018-02-23 五 15:40]
    - State "STARTED"    from "DONE"       [2018-02-23 五 08:06]
    CLOCK: [2018-02-23 五 08:06]--[2018-02-23 五 12:20] =>  4:14
@@ -7290,8 +7293,11 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
 
 ** DONE [#B] to make a purchase
-   CLOSED: [2018-03-24 六 19:23]
+   CLOSED: [2018-03-25 日 19:28]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-25 日 19:28]
+   - State "STARTED"    from "DONE"       [2018-03-25 日 17:50]
+   CLOCK: [2018-03-25 日 17:50]--[2018-03-25 日 19:28] =>  1:38
    - State "DONE"       from "STARTED"    [2018-03-24 六 19:23]
    - State "STARTED"    from "DONE"       [2018-03-24 六 17:10]
    CLOCK: [2018-03-24 六 17:10]--[2018-03-24 六 19:23] =>  2:13
