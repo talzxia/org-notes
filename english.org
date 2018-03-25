@@ -3956,6 +3956,18 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2018-02-10 六 06:11]
    CLOCK: [2018-02-10 六 05:56]--[2018-02-10 六 06:11] =>  0:15
    :END:
+** DONE Review<2018-03-26 一 04:54>98.9%
+   CLOSED: [2018-03-26 一 05:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-26 一 05:10]
+   CLOCK: [2018-03-26 一 04:54]--[2018-03-26 一 05:10] =>  0:16
+   :END:
+** DONE Review<2018-03-26 一 05:11>99.1%
+   CLOSED: [2018-03-26 一 05:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-26 一 05:26]
+   CLOCK: [2018-03-26 一 05:11]--[2018-03-26 一 05:26] =>  0:15
+   :END:
 * lesson 12twenty three
 ** DONE Review twenty three 97.1%
    CLOSED: [2016-08-11 四 15:28]
@@ -11975,9 +11987,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-26 一 06:30 +1d> SCHEDULED: <2018-03-26 一 06:00 +1d>
+   DEADLINE: <2018-03-27 二 06:30 +1d> SCHEDULED:<2018-03-27 二 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-25 日 06:24]
+   :LAST_REPEAT: [2018-03-26 一 06:37]
    :END:
 
    :PROPERTIES:
@@ -11987,6 +11999,9 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-26 一 06:37]
+   CLOCK: [2018-03-26 一 06:29]--[2018-03-26 一 06:37] =>  0:08
+   CLOCK: [2018-03-26 一 05:26]--[2018-03-26 一 05:32] =>  0:06
    - State "DONE"       from "STARTED"    [2018-03-25 日 06:24]
    CLOCK: [2018-03-25 日 06:10]--[2018-03-25 日 06:24] =>  0:14
    - State "DONE"       from "STARTED"    [2018-03-24 六 07:05]
@@ -12252,6 +12267,28 @@ Well, you're going to have roast beef and potateos again tonight!
 噢！
 怎么了，卡罗尔？
 唉，今晚你们又要吃烤牛肉和土豆了!
+*** Lesson 81 烤牛肉和土豆
+Hi, Carol! Where's Tom?
+He's upstairs.
+He's having a bath.
+Tom! Yes?
+Sam's here.
+I'm nearly ready.
+Hello, Sam.
+Have a cigarette.
+No, thanks, Tom.
+Have a glass of whisky then.
+OK. Thanks.
+Is dinner ready, Carol?
+It's nearly ready.
+We can have dinner at seven o'clock.
+Sam and I had lunch together today.
+We went to a restaurant.
+What did you have?
+We had roast beef and potatoes.
+Oh!
+What's the matter, Carol?
+Well, you're going to have roast beef and potatoes again tonight!
 *** DONE Lesson 83 度假
     CLOSED: [2018-03-25 日 20:23]
     :LOGBOOK:
