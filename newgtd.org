@@ -611,12 +611,13 @@ SCHEDULED: <2018-03-27 二 07:00 +1d> DEADLINE: <2018-03-27 二 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#A]lunch
+** STARTED [#A]lunch
 SCHEDULED: <2018-03-26 一 11:40 +1d> DEADLINE: <2018-03-26 一 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2018-03-25 日 15:40]
    :END:
    :LOGBOOK:
+   CLOCK: [2018-03-26 一 12:13]
    - State "DONE"       from "STARTED"    [2018-03-25 日 15:40]
    CLOCK: [2018-03-25 日 12:39]--[2018-03-25 日 15:40] =>  3:01
    - State "DONE"       from "STARTED"    [2018-03-24 六 16:13]
@@ -3507,13 +3508,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2017-06-09 Fri 21:43]--[2017-06-10 Sat 04:12] =>  6:29
    :END:
 
-* STARTED [#A] clean office
-  DEADLINE: <2018-03-26 一 07:50 +1d> SCHEDULED: <2018-03-26 一 08:20 +1d>
+* TODO [#A] clean office
+  DEADLINE: <2018-03-27 二 07:50 +1d> SCHEDULED: <2018-03-27 二 08:20 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-03-25 日 08:32]
+  :LAST_REPEAT: [2018-03-26 一 12:08]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-03-26 一 07:20]
+  - State "DONE"       from "STARTED"    [2018-03-26 一 12:08]
+  CLOCK: [2018-03-26 一 07:20]--[2018-03-26 一 08:00] =>  0:40
   - State "DONE"       from "STARTED"    [2018-03-25 日 08:32]
   CLOCK: [2018-03-25 日 08:24]--[2018-03-25 日 08:32] =>  0:08
   - State "DONE"       from "STARTED"    [2018-03-24 六 15:59]
