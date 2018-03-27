@@ -1,10 +1,12 @@
 * eating
 ** TODO [#B]breakfast
-SCHEDULED: <2018-03-28 三 07:00 +1d> DEADLINE: <2018-03-28 三 07:40 +1d>
+SCHEDULED: <2018-03-29 四 07:00 +1d> DEADLINE: <2018-03-29 四 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-27 二 07:45]
+   :LAST_REPEAT: [2018-03-28 三 07:41]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-28 三 07:41]
+   CLOCK: [2018-03-28 三 06:38]--[2018-03-28 三 07:41] =>  1:03
    - State "DONE"       from "STARTED"    [2018-03-27 二 07:45]
    CLOCK: [2018-03-27 二 06:38]--[2018-03-27 二 07:45] =>  1:07
    - State "DONE"       from "STARTED"    [2018-03-26 一 06:29]
@@ -2382,16 +2384,17 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
-   DEADLINE: <2018-03-28 三 05:00 +1d> SCHEDULED: <2018-03-27 二 22:00 +1d>
+* TODO [#A] sleep
+   DEADLINE: <2018-03-29 四 05:00 +1d> SCHEDULED: <2018-03-28 三 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2018-03-27 二 04:51]
+  :LAST_REPEAT: [2018-03-28 三 07:38]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-03-27 二 21:12]
+  - State "DONE"       from "STARTED"    [2018-03-28 三 07:38]
+  CLOCK: [2018-03-27 二 21:12]--[2018-03-28 三 06:38] =>  9:26
   - State "DONE"       from "STARTED"    [2018-03-27 二 04:51]
   CLOCK: [2018-03-26 一 21:40]--[2018-03-27 二 04:51] =>  7:11
   - State "DONE"       from "STARTED"    [2018-03-26 一 04:53]
@@ -3816,12 +3819,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2018-01-01 一 05:20]--[2018-01-01 一 05:27] =>  0:07
   :END:
 
-* TODO [#B] handwriting
+* STARTED [#B] handwriting
   SCHEDULED: <2018-03-28 三 06:30 .+1d> DEADLINE: <2018-03-28 三 07:00 .+1d>
   :PROPERTIES:
   :LAST_REPEAT: [2018-03-27 二 06:31]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-03-28 三 07:42]
   - State "DONE"       from "STARTED"    [2018-03-27 二 06:31]
   CLOCK: [2018-03-27 二 05:42]--[2018-03-27 二 06:31] =>  0:49
   - State "DONE"       from "STARTED"    [2018-03-26 一 07:20]
