@@ -2889,6 +2889,12 @@ listen to happy music
    - State "DONE"       from "STARTED"    [2018-02-09 Fri 04:50]
    CLOCK: [2018-02-09 Fri 04:32]--[2018-02-09 Fri 04:50] =>  0:18
    :END:
+** DONE Review<2018-03-29 四 05:24>99.2%
+   CLOSED: [2018-03-29 四 05:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-29 四 05:42]
+   CLOCK: [2018-03-29 四 05:24]--[2018-03-29 四 05:42] =>  0:18
+   :END:
 * lesson 4eighteen
 ** DONE Review 97.2%
    CLOSED: [2016-08-25 四 03:44]
@@ -3067,6 +3073,12 @@ listen to happy music
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-02-09 Fri 05:12]
    CLOCK: [2018-02-09 Fri 04:53]--[2018-02-09 Fri 05:12] =>  0:19
+   :END:
+** DONE Review<2018-03-29 四 05:02>99%
+   CLOSED: [2018-03-29 四 05:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-29 四 05:23]
+   CLOCK: [2018-03-29 四 05:02]--[2018-03-29 四 05:23] =>  0:21
    :END:
 * lesson 3nineteen
 ** DONE Review 96.7%
@@ -12011,9 +12023,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-28 三 06:30 +1d> SCHEDULED:<2018-03-28 三 06:00 +1d>
+   DEADLINE: <2018-03-30 五 06:30 +1d> SCHEDULED:<2018-03-30 五 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-27 二 05:42]
+   :LAST_REPEAT: [2018-03-29 四 05:59]
    :END:
 
    :PROPERTIES:
@@ -12023,6 +12035,9 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-29 四 05:59]
+   CLOCK: [2018-03-29 四 05:42]--[2018-03-29 四 05:59] =>  0:17
+   - State "DONE"       from "STARTED"    [2018-03-29 四 05:00]
    - State "DONE"       from "STARTED"    [2018-03-27 二 05:42]
    CLOCK: [2018-03-27 二 05:31]--[2018-03-27 二 05:42] =>  0:11
    - State "DONE"       from "STARTED"    [2018-03-26 一 06:37]
@@ -12171,6 +12186,21 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** Lesson 73 到国王街的走法
+Last week Mrs. Mills went to London.
+She does not know London very well, and she lost her way.
+Suddenly, she saw a man near a bus stop.
+'I can ask him the way.' she said to herself.
+'Excuse me,' she said. 'Can you tell me the way to King Street, please?'
+The man smilled pleasantly.
+He dit not understand English!
+He spoke German.
+He was a tourist.
+Then he put his hand into his pocket.
+and took out a phrasebook.
+He opened the book and found a phrase.
+He read the phrase slowly.
+'I am sorry,' he said. 'I do not speak English.'
 *** Lesson 77
 Good morning. Mr. Croft.
 Good morning, nurse.
