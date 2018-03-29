@@ -4346,11 +4346,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
 ** TODO [#b] Copy (a model of calligraphy)
-   SCHEDULED: <2018-03-29 四 09:00 +1d> DEADLINE: <2018-03-29 四 08:00 +1d>
+   SCHEDULED: <2018-03-30 五 09:00 +1d> DEADLINE: <2018-03-30 五 08:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-29 四 05:01]
+   :LAST_REPEAT: [2018-03-29 四 19:46]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-29 四 19:46]
+   CLOCK: [2018-03-29 四 19:26]--[2018-03-29 四 19:46] =>  0:20
    - State "DONE"       from "STARTED"    [2018-03-29 四 05:01]
    - State "DONE"       from "STARTED"    [2018-03-27 二 14:19]
    CLOCK: [2018-03-27 二 13:57]--[2018-03-27 二 14:19] =>  0:22
