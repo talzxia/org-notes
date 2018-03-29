@@ -4452,12 +4452,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* STARTED [#B] browse news and free learn
-  DEADLINE: <2018-03-29 四 08:30 .+1d> SCHEDULED: <2018-03-29 四 08:20 .+1d>
+* TODO [#B] browse news and free learn
+  DEADLINE: <2018-03-30 五 08:30 .+1d> SCHEDULED: <2018-03-30 五 08:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-03-28 三 15:03]
+  :LAST_REPEAT: [2018-03-29 四 10:22]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-03-29 四 10:22]
   CLOCK: [2018-03-29 四 06:48]--[2018-03-29 四 07:06] =>  0:18
   - State "DONE"       from "STARTED"    [2018-03-28 三 15:03]
   CLOCK: [2018-03-28 三 13:50]--[2018-03-28 三 15:03] =>  1:13
