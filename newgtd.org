@@ -616,12 +616,13 @@ SCHEDULED: <2018-03-30 五 07:00 +1d> DEADLINE: <2018-03-30 五 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#A]lunch
+** STARTED [#A]lunch
 SCHEDULED: <2018-03-29 四 11:40 +1d> DEADLINE: <2018-03-29 四 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2018-03-28 三 13:49]
    :END:
    :LOGBOOK:
+   CLOCK: [2018-03-29 四 11:23]
    - State "DONE"       from "STARTED"    [2018-03-28 三 13:49]
    CLOCK: [2018-03-28 三 11:55]--[2018-03-28 三 13:49] =>  1:54
    - State "DONE"       from "STARTED"    [2018-03-27 二 13:57]
@@ -5158,13 +5159,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 08:15]--[2017-10-23 一 10:29] =>  2:14
   :END:
 高龙寅、王院长来玩8：30至10：30两个小时。
-* STARTED [#B] check teaching
-  DEADLINE: <2018-03-29 四 10:00 +1d> SCHEDULED: <2018-03-29 四 09:30 +1d>
+* TODO [#B] check teaching
+  DEADLINE: <2018-03-30 五 10:00 +1d> SCHEDULED: <2018-03-30 五 09:30 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-03-28 三 11:25]
+  :LAST_REPEAT: [2018-03-29 四 11:22]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-03-29 四 10:54]
+  - State "DONE"       from "STARTED"    [2018-03-29 四 11:22]
+  CLOCK: [2018-03-29 四 10:54]--[2018-03-29 四 11:22] =>  0:28
   - State "DONE"       from "STARTED"    [2018-03-28 三 11:25]
   CLOCK: [2018-03-28 三 09:55]--[2018-03-28 三 11:25] =>  1:30
   - State "DONE"       from "STARTED"    [2018-03-27 二 09:34]
