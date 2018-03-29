@@ -1,10 +1,11 @@
 * eating
-** TODO [#B]breakfast
+** STARTED [#B]breakfast
 SCHEDULED: <2018-03-30 五 07:00 +1d> DEADLINE: <2018-03-30 五 07:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2018-03-29 四 07:59]
    :END:
    :LOGBOOK:
+   CLOCK: [2018-03-30 Fri 06:52]
    - State "DONE"       from "STARTED"    [2018-03-29 四 07:59]
    - State "DONE"       from "STARTED"    [2018-03-28 三 07:41]
    CLOCK: [2018-03-28 三 06:38]--[2018-03-28 三 07:41] =>  1:03
@@ -2393,16 +2394,17 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
-   DEADLINE: <2018-03-30 五 05:00 +1d> SCHEDULED: <2018-03-29 四 22:00 +1d>
+* TODO [#A] sleep
+   DEADLINE: <2018-03-31 Sat 05:00 +1d> SCHEDULED: <2018-03-30 Fri 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2018-03-29 四 04:59]
+  :LAST_REPEAT: [2018-03-30 Fri 04:54]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-03-29 Thu 20:41]
+  - State "DONE"       from "STARTED"    [2018-03-30 Fri 04:54]
+  CLOCK: [2018-03-29 Thu 20:41]--[2018-03-30 Fri 04:55] =>  8:14
   - State "DONE"       from "STARTED"    [2018-03-29 四 04:59]
   CLOCK: [2018-03-28 三 21:58]--[2018-03-29 四 04:59] =>  7:01
   - State "DONE"       from "STARTED"    [2018-03-28 三 07:38]
@@ -3835,11 +3837,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 
 * TODO [#B] handwriting
-  SCHEDULED: <2018-03-30 五 06:30 .+1d> DEADLINE: <2018-03-30 五 07:00 .+1d>
+  SCHEDULED: <2018-03-31 Sat 06:30 .+1d> DEADLINE: <2018-03-31 Sat 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-03-29 四 06:48]
+  :LAST_REPEAT: [2018-03-30 Fri 06:51]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-03-30 Fri 06:51]
+  CLOCK: [2018-03-30 Fri 05:58]--[2018-03-30 Fri 06:52] =>  0:54
   - State "DONE"       from "STARTED"    [2018-03-29 四 06:48]
   CLOCK: [2018-03-29 四 05:59]--[2018-03-29 四 06:48] =>  0:49
   - State "DONE"       from "STARTED"    [2018-03-28 三 08:38]
