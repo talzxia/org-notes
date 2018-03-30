@@ -3337,8 +3337,11 @@ sound is so low
 
 <<<<<<< Updated upstream
 ** DONE [#B] update system
-   CLOSED: [2018-01-25 Thu 15:15]
+   CLOSED: [2018-03-30 五 18:59]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-30 五 18:59]
+   - State "STARTED"    from "DONE"       [2018-03-30 五 18:39]
+   CLOCK: [2018-03-30 五 18:39]--[2018-03-30 五 18:59] =>  0:20
    - State "DONE"       from "STARTED"    [2018-01-25 Thu 15:15]
    - State "STARTED"    from "DONE"       [2018-01-25 四 14:49]
    CLOCK: [2018-01-25 四 14:49]--[2018-01-25 四 15:17] =>  0:28

@@ -2399,7 +2399,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
    DEADLINE: <2018-03-31 Sat 05:00 +1d> SCHEDULED: <2018-03-30 Fri 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
@@ -2408,6 +2408,7 @@ clean up spending 15 minutes
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-03-30 五 20:22]
   - State "DONE"       from "STARTED"    [2018-03-30 Fri 04:54]
   CLOCK: [2018-03-29 Thu 20:41]--[2018-03-30 Fri 04:55] =>  8:14
   - State "DONE"       from "STARTED"    [2018-03-29 四 04:59]
@@ -5611,11 +5612,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-24 二 14:09]
   :END:
 * TODO [#B] training
-  DEADLINE: <2018-03-30 Fri 20:00 +1d> SCHEDULED: <2018-03-30 Fri 19:00 +1d>
+  DEADLINE: <2018-03-31 六 20:00 +1d> SCHEDULED: <2018-03-31 六 19:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-03-29 Thu 20:41]
+  :LAST_REPEAT: [2018-03-30 五 20:22]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-03-30 五 20:22]
+  CLOCK: [2018-03-30 五 20:19]--[2018-03-30 五 20:22] =>  0:03
   - State "DONE"       from "STARTED"    [2018-03-29 Thu 20:41]
   - State "DONE"       from "STARTED"    [2018-03-29 四 05:01]
   - State "DONE"       from "STARTED"    [2018-03-27 二 20:52]
@@ -5769,11 +5772,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-23 一 21:31]
   :END:
 * TODO [#A] free learn
-  DEADLINE: <2018-03-30 Fri 21:40 +1d> SCHEDULED: <2018-03-30 Fri 20:00 +1d>
+  DEADLINE: <2018-03-31 六 21:40 +1d> SCHEDULED: <2018-03-31 六 20:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-03-29 Thu 20:41]
+  :LAST_REPEAT: [2018-03-30 五 20:19]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-03-30 五 20:19]
+  CLOCK: [2018-03-30 五 19:49]--[2018-03-30 五 20:19] =>  0:30
   - State "DONE"       from "STARTED"    [2018-03-29 Thu 20:41]
   CLOCK: [2018-03-29 Thu 20:05]--[2018-03-29 Thu 20:41] =>  0:36
   - State "DONE"       from "STARTED"    [2018-03-29 四 05:01]
