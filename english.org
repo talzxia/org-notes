@@ -1873,6 +1873,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2018-02-08 四 05:48]
    CLOCK: [2018-02-08 四 05:28]--[2018-02-08 四 05:48] =>  0:20
    :END:
+** DONE Review<2018-03-31 六 17:59>99.3%
+   CLOSED: [2018-03-31 六 18:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-31 六 18:16]
+   CLOCK: [2018-03-31 六 17:58]--[2018-03-31 六 18:16] =>  0:18
+   :END:
 * lesson 38thirteen
 ** DONE Review 98.1%
    CLOSED: [2016-08-21 Sun 16:57]
@@ -2082,6 +2088,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2018-02-08 四 06:07]
    CLOCK: [2018-02-08 四 05:49]--[2018-02-08 四 06:07] =>  0:18
    :END:
+** DONE Review<2018-03-31 六 05:34>99.7%
+   CLOSED: [2018-03-31 六 05:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-31 六 05:52]
+   CLOCK: [2018-03-31 六 05:34]--[2018-03-31 六 05:52] =>  0:18
+   :END:
 * lesson 49fourteen
 ** DONE Review fourteen 97.4%
    CLOSED: [2016-08-08 一 20:19]
@@ -2270,6 +2282,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-03-30 五 19:34]
    CLOCK: [2018-03-30 五 19:16]--[2018-03-30 五 19:34] =>  0:18
+   :END:
+** DONE Review<2018-03-31 六 05:12>99.5%
+   CLOSED: [2018-03-31 六 05:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-31 六 05:31]
+   CLOCK: [2018-03-31 六 05:12]--[2018-03-31 六 05:31] =>  0:19
    :END:
 * lesson 48fifteen
 ** DONE Review 97.3%
@@ -12053,9 +12071,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-03-31 Sat 06:30 +1d> SCHEDULED:<2018-03-31 Sat 06:00 +1d>
+   DEADLINE: <2018-04-01 日 06:30 +1d> SCHEDULED:<2018-04-01 日 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-30 Fri 05:58]
+   :LAST_REPEAT: [2018-03-31 六 06:10]
    :END:
 
    :PROPERTIES:
@@ -12065,6 +12083,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-03-31 六 06:10]
+   CLOCK: [2018-03-31 六 05:53]--[2018-03-31 六 06:10] =>  0:17
    - State "DONE"       from "STARTED"    [2018-03-30 Fri 05:58]
    CLOCK: [2018-03-30 Fri 05:40]--[2018-03-30 Fri 05:58] =>  0:18
    - State "DONE"       from "STARTED"    [2018-03-29 四 05:59]
@@ -12218,6 +12238,55 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** DONE Lesson 63 谢谢你医生
+    CLOSED: [2018-03-31 六 18:32]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-03-31 六 18:32]
+    CLOCK: [2018-03-31 六 18:17]--[2018-03-31 六 18:32] =>  0:15
+    :END:
+How's Jimmy today?
+Better. Thank you, Doctor.
+Can I see him please, Mrs Willians?
+Certainly, doctor.
+Come up stairs.
+You look very well, Jimmy.
+You are better now,
+but you mustn't get up yet.
+You must stay in bed for another two days.
+The boy mustn't go to school yet, Mrs. Willians.
+And he mustn't eat rich food.
+Does he have a temperature, doctor?
+No, he doesn't.
+Must he stay in bed?
+Yes. He must remain in bed for another two days.
+He can get up for about two hours each day,
+but you must keep the room warm.
+Where's Mr. Willians this evening？
+He's in bed, doctor.
+Can you see him please?
+He has a bad cold, too!
+*** Lesson 65 不是一个孩子
+What are you going to do this evening, Jill?
+I'm going to meet some friends, Dad.
+You mustn't come home late.
+You must be home at half past ten.
+I can't get home so early, Dad!
+Can I have the key to the front door please?
+No, you can't.
+Jill's eighteen years old, Tom.
+She's not a boby.
+Give her the key.
+She always somes home early.
+Oh, all right!
+Here you are.
+But you mustn't come home after a quarter past eleven.
+Do you hear?
+Yes, Dad.
+Thanks, Mom.
+That's all right. Goodbye.
+Enjoy yourself!
+We always enjoy ourselves, Mum.
+Bye-bye.
 *** DONE Lesson 67 周未
     CLOSED: [2018-03-30 五 19:49]
     :LOGBOOK:
