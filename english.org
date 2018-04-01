@@ -1550,6 +1550,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2018-02-07 Wed 21:04]
    CLOCK: [2018-02-07 Wed 20:44]--[2018-02-07 Wed 21:04] =>  0:20
    :END:
+** DONE Review<2018-04-01 日 18:44>98.9%
+   CLOSED: [2018-04-01 日 19:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-01 日 19:01]
+   CLOCK: [2018-04-01 日 18:44]--[2018-04-01 日 19:01] =>  0:17
+   :END:
 * lesson 36eleven
 ** DONE Review 98%
    CLOSED: [2016-08-21 Sun 10:46]
@@ -1687,6 +1693,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-02-07 Wed 21:27]
    CLOCK: [2018-02-07 Wed 21:07]--[2018-02-07 Wed 21:27] =>  0:20
+   :END:
+** DONE Review<2018-04-01 日 07:56>99.4%
+   CLOSED: [2018-04-01 日 08:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-01 日 08:15]
+   CLOCK: [2018-04-01 日 07:56]--[2018-04-01 日 08:15] =>  0:19
    :END:
 * lesson 41twelve
 ** DONE Review <2016-08-29 Mon 18:45>97.9%
@@ -12071,9 +12083,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-01 日 06:30 +1d> SCHEDULED:<2018-04-01 日 06:00 +1d>
+   DEADLINE: <2018-04-02 一 06:30 +1d> SCHEDULED:<2018-04-02 一 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-03-31 六 06:10]
+   :LAST_REPEAT: [2018-04-01 日 08:30]
    :END:
 
    :PROPERTIES:
@@ -12083,6 +12095,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-01 日 08:30]
+   CLOCK: [2018-04-01 日 08:15]--[2018-04-01 日 08:30] =>  0:15
    - State "DONE"       from "STARTED"    [2018-03-31 六 06:10]
    CLOCK: [2018-03-31 六 05:53]--[2018-03-31 六 06:10] =>  0:17
    - State "DONE"       from "STARTED"    [2018-03-30 Fri 05:58]
@@ -12238,6 +12252,50 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** DONE Lesson 59 就这些吗？
+    CLOSED: [2018-04-01 日 19:18]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-04-01 日 19:18]
+    CLOCK: [2018-04-01 日 19:03]--[2018-04-01 日 19:18] =>  0:15
+    :END:
+I want some envelopes, please.
+Do you want the large size or the small size?
+The large size, please.
+Do you have any writing paper?
+Yes, we do.
+I don't have any small pads.
+I only have large one.
+Do you want a pad?
+Yes, please.
+And I want some glue.
+A bottle of glue.
+And I want a large box of chalk, too.
+I only have small boxes.
+Do you want one?
+No, thank you.
+Is that all?
+That's all, thank you.
+What else do you want?
+I want my change.
+*** Lesson 61 重感冒
+Where's Jimmy?
+He's in bed.
+What's the matter with him?
+He feels ill.
+He looks ill.
+We must call the doctor.
+Yes, we must.
+Can you remember the doctor's telephone number?
+Yes. It's 09754.
+Open your mouth, Jimmy.
+Show me your tongue.
+Say, "Ah".
+What's the matter with him, doctor?
+He has a bad cold, Mr. Williams,
+so he must stay in bed for a week.
+That's a good news for Jimmy.
+Good news? Why?
+Because he doesn't like school!
 *** DONE Lesson 63 谢谢你医生
     CLOSED: [2018-03-31 六 18:32]
     :LOGBOOK:
