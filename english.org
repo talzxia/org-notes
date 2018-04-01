@@ -1160,6 +1160,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2018-02-07 三 05:47]
    CLOCK: [2018-02-07 三 05:31]--[2018-02-07 三 05:47] =>  0:16
    :END:
+** DONE Review<2018-04-02 一 05:32>99.2%
+   CLOSED: [2018-04-02 一 05:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-02 一 05:48]
+   CLOCK: [2018-04-02 一 05:32]--[2018-04-02 一 05:48] =>  0:16
+   :END:
 * lesson 20nine
 ** DONE Review Nine 99.0% very good
    CLOSED: [2016-07-26 Tue 18:29]
@@ -1330,6 +1336,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-02-07 三 06:04]
    CLOCK: [2018-02-07 三 05:48]--[2018-02-07 三 06:04] =>  0:16
+   :END:
+** DONE Review<2018-04-02 一 05:15>99.7%
+   CLOSED: [2018-04-02 一 05:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-02 一 05:31]
+   CLOCK: [2018-04-02 一 05:15]--[2018-04-02 一 05:31] =>  0:16
    :END:
 * lesson 33ten
 ** DONE Review 96.3%
@@ -1555,6 +1567,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-01 日 19:01]
    CLOCK: [2018-04-01 日 18:44]--[2018-04-01 日 19:01] =>  0:17
+   :END:
+** DONE Review<2018-04-02 一 04:54>99.5%
+   CLOSED: [2018-04-02 一 05:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-02 一 05:13]
+   CLOCK: [2018-04-02 一 04:54]--[2018-04-02 一 05:13] =>  0:19
    :END:
 * lesson 36eleven
 ** DONE Review 98%
@@ -12083,9 +12101,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-02 一 06:30 +1d> SCHEDULED:<2018-04-02 一 06:00 +1d>
+   DEADLINE: <2018-04-03 二 06:30 +1d> SCHEDULED:<2018-04-03 二 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-01 日 08:30]
+   :LAST_REPEAT: [2018-04-02 一 06:06]
    :END:
 
    :PROPERTIES:
@@ -12095,6 +12113,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-02 一 06:06]
+   CLOCK: [2018-04-02 一 05:49]--[2018-04-02 一 06:06] =>  0:17
    - State "DONE"       from "STARTED"    [2018-04-01 日 08:30]
    CLOCK: [2018-04-01 日 08:15]--[2018-04-01 日 08:30] =>  0:15
    - State "DONE"       from "STARTED"    [2018-03-31 六 06:10]
@@ -12252,6 +12272,23 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** Lesson 57 很不平常的一天
+It is eight o'clock.
+The children go to school by car every day.
+but today, they are goint to school on foot.
+It it ten o'clock. Mrs Sawyer usually stays at home in the morning.
+but this morning, she is going to shops.
+It is four o'clock.
+In the afternoon, Mrs Swayer usually drinks tea in the living room.
+But this afternoon, she is drinking tea in the garden.
+It is ten o'clock.
+In the evening, the children usually do their homework,
+but this evening, they are not doing their homework.
+At the moment, they are playing in the garden.
+It is nine o'clock.
+Mr. Sawyer usually reads his newspaper at night.
+But he's not reading his newspaper tonight.
+At the moment, he's reading an interesting book.
 *** DONE Lesson 59 就这些吗？
     CLOSED: [2018-04-01 日 19:18]
     :LOGBOOK:
