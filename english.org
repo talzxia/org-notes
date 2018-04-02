@@ -350,6 +350,12 @@
    - State "DONE"       from "STARTED"    [2018-02-05 Mon 19:33]
    CLOCK: [2018-02-05 Mon 19:17]--[2018-02-05 Mon 19:33] =>  0:16
    :END:
+** DONE Review<2018-04-03 二 04:38>99.5%
+   CLOSED: [2018-04-03 二 04:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-03 二 04:54]
+   CLOCK: [2018-04-03 二 04:38]--[2018-04-03 二 04:54] =>  0:16
+   :END:
 * lesson 32four
 ** DONE Review<2017-10-29 日 06:38>99.7%
    CLOSED: [2017-10-29 日 06:55]
@@ -472,6 +478,12 @@
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-02-06 Tue 05:45]
    CLOCK: [2018-02-06 Tue 05:29]--[2018-02-06 Tue 05:45] =>  0:16
+   :END:
+** DONE Review<2018-04-03 二 04:22>99.5%
+   CLOSED: [2018-04-03 二 04:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-03 二 04:38]
+   CLOCK: [2018-04-03 二 04:22]--[2018-04-03 二 04:38] =>  0:16
    :END:
 * lesson 37five
 ** DONE Review 95.8%-->97.6%
@@ -681,6 +693,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-02-06 Tue 06:03]
    CLOCK: [2018-02-06 Tue 05:45]--[2018-02-06 Tue 06:03] =>  0:18
+   :END:
+** DONE Review<2018-04-03 二 04:03>99.2%
+   CLOSED: [2018-04-03 二 04:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-03 二 04:21]
+   CLOCK: [2018-04-03 二 04:03]--[2018-04-03 二 04:21] =>  0:18
    :END:
 * lesson 40six
 ** DONE Review<2017-11-06 一 05:24>99.3%
@@ -12113,9 +12131,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-03 二 06:30 +1d> SCHEDULED:<2018-04-03 二 06:00 +1d>
+   DEADLINE: <2018-04-04 三 06:30 +1d> SCHEDULED:<2018-04-04 三 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-02 一 06:06]
+   :LAST_REPEAT: [2018-04-03 二 05:42]
    :END:
 
    :PROPERTIES:
@@ -12125,6 +12143,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-03 二 05:42]
+   CLOCK: [2018-04-03 二 05:28]--[2018-04-03 二 05:42] =>  0:14
    - State "DONE"       from "STARTED"    [2018-04-02 一 06:06]
    CLOCK: [2018-04-02 一 05:49]--[2018-04-02 一 06:06] =>  0:17
    - State "DONE"       from "STARTED"    [2018-04-01 日 08:30]
@@ -12284,6 +12304,24 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** Lesson 55 有趣的天气
+Where do you come from?
+I come from England.
+What's the climate like in your country?
+It's mild.
+but it's not always pleasent.
+The weather's often cold in North
+and windy in the East.
+It's often wet in the West and sometimes warm in the south.
+Which seasons do you like best?
+I like spring and summer.
+The days are long and the nights are short.
+I don't like autumn and winter.
+The days are short and the nights are long.
+The sun rises late and set early.
+Our climate is not very good,
+but it's certainly interesting.
+It's our favourite subject of conversation.
 *** DONE Lesson 55 索耶一家人
     CLOSED: [2018-04-02 一 20:01]
     :LOGBOOK:
