@@ -59,6 +59,12 @@
    - State "DONE"       from "STARTED"    [2018-02-05 Mon 19:01]
    CLOCK: [2018-02-05 Mon 18:47]--[2018-02-05 Mon 19:01] =>  0:14
    :END:
+** DONE Review<2018-04-03 二 18:49>99.6%
+   CLOSED: [2018-04-03 二 19:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-03 二 19:01]
+   CLOCK: [2018-04-03 二 18:49]--[2018-04-03 二 19:01] =>  0:12
+   :END:
 * lesson 43two
 ** DONE Review<2017-11-06 一 05:42>99.6%
    CLOSED: [2017-11-06 一 05:54]
@@ -189,6 +195,12 @@
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-02-05 Mon 19:13]
    CLOCK: [2018-02-05 Mon 19:01]--[2018-02-05 Mon 19:13] =>  0:12
+   :END:
+** DONE Review<2018-04-03 二 18:37>99.3%
+   CLOSED: [2018-04-03 二 18:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-03 二 18:49]
+   CLOCK: [2018-04-03 二 18:37]--[2018-04-03 二 18:49] =>  0:12
    :END:
 * lesson 44three
 ** DONE Review<2017-11-06 一 05:54>99.2%
@@ -12304,7 +12316,30 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
-*** Lesson 55 有趣的天气
+*** DONE Lesson 宜人的气候
+    CLOSED: [2018-04-03 二 19:29]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-04-03 二 19:29]
+    CLOCK: [2018-04-03 二 19:18]--[2018-04-03 二 19:29] =>  0:11
+    :END:
+Where do you come from?
+I come from Greece.
+What's the climate like in your country?
+It's very pleasant.
+What's the weather like in spring?
+It's often windy in March.
+It's always warm in April and May,
+but it rains sometimes.
+What's it like in summer?
+It's always hot in June, July and August.
+The sun shines every day.
+Is it cold or warm in autumn?
+It's often warm in September and October.
+It's often cold in November and it rains sometimes.
+Is it very cold in winter?
+It's often cold in December, January and February.
+It snows tometimes.
+*** Lesson 53 有趣的天气
 Where do you come from?
 I come from England.
 What's the climate like in your country?
