@@ -65,6 +65,12 @@
    - State "DONE"       from "STARTED"    [2018-04-03 二 19:01]
    CLOCK: [2018-04-03 二 18:49]--[2018-04-03 二 19:01] =>  0:12
    :END:
+** DONE Review<2018-04-04 三 05:46>99.7%
+   CLOSED: [2018-04-04 三 05:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-04 三 05:59]
+   CLOCK: [2018-04-04 三 05:45]--[2018-04-04 三 05:59] =>  0:14
+   :END:
 * lesson 43two
 ** DONE Review<2017-11-06 一 05:42>99.6%
    CLOSED: [2017-11-06 一 05:54]
@@ -201,6 +207,12 @@
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-03 二 18:49]
    CLOCK: [2018-04-03 二 18:37]--[2018-04-03 二 18:49] =>  0:12
+   :END:
+** DONE Review<2018-04-04 三 06:00>99.7%
+   CLOSED: [2018-04-04 三 06:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-04 三 06:12]
+   CLOCK: [2018-04-04 三 06:00]--[2018-04-04 三 06:12] =>  0:12
    :END:
 * lesson 44three
 ** DONE Review<2017-11-06 一 05:54>99.2%
@@ -367,6 +379,12 @@
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-03 二 04:54]
    CLOCK: [2018-04-03 二 04:38]--[2018-04-03 二 04:54] =>  0:16
+   :END:
+** DONE Review<2018-04-04 三 06:12>99.4%
+   CLOSED: [2018-04-04 三 06:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-04 三 06:28]
+   CLOCK: [2018-04-04 三 06:12]--[2018-04-04 三 06:28] =>  0:16
    :END:
 * lesson 32four
 ** DONE Review<2017-10-29 日 06:38>99.7%
@@ -12143,9 +12161,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-04 三 06:30 +1d> SCHEDULED:<2018-04-04 三 06:00 +1d>
+   DEADLINE: <2018-04-05 四 06:30 +1d> SCHEDULED:<2018-04-05 四 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-03 二 05:42]
+   :LAST_REPEAT: [2018-04-04 三 06:41]
    :END:
 
    :PROPERTIES:
@@ -12155,6 +12173,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-04 三 06:41]
+   CLOCK: [2018-04-04 三 06:29]--[2018-04-04 三 06:41] =>  0:12
    - State "DONE"       from "STARTED"    [2018-04-03 二 05:42]
    CLOCK: [2018-04-03 二 05:28]--[2018-04-03 二 05:42] =>  0:14
    - State "DONE"       from "STARTED"    [2018-04-02 一 06:06]
@@ -12316,7 +12336,26 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
-*** DONE Lesson 宜人的气候
+*** Lesson 49 在肉店
+Do you want any meat today, Mrs Bird?
+Yes, please.
+Do you want beer or lamb?
+Beef, please.
+This lamb's very good.
+I like lamb,
+but my husband doesn't.
+What about some steak?
+This is a nice piece.
+Give me that piece, please.
+And a pound of mince, too.
+Do you want a chicken, Mrs. Bird?
+They're very nice.
+No, thank you.
+My husband likes steak,
+but he doesn't like chicken.
+To tell you the truth, Mrs. Bird,
+I don't like chicken either.
+*** DONE Lesson 51宜人的气候
     CLOSED: [2018-04-03 二 19:29]
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2018-04-03 二 19:29]
