@@ -386,6 +386,12 @@
    - State "DONE"       from "STARTED"    [2018-04-04 三 06:28]
    CLOCK: [2018-04-04 三 06:12]--[2018-04-04 三 06:28] =>  0:16
    :END:
+** DONE Review<2018-04-04 三 16:16>99.6%
+   CLOSED: [2018-04-04 三 16:31]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-04 三 16:31]
+   CLOCK: [2018-04-04 三 16:16]--[2018-04-04 三 16:31] =>  0:15
+   :END:
 * lesson 32four
 ** DONE Review<2017-10-29 日 06:38>99.7%
    CLOSED: [2017-10-29 日 06:55]
@@ -12336,6 +12342,26 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** DONE Lesson 47 一杯咖啡
+    CLOSED: [2018-04-04 三 20:48]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-04-04 三 20:48]
+    CLOCK: [2018-04-04 三 20:36]--[2018-04-04 三 20:48] =>  0:12
+    :END:
+Do you like coffee, Am?
+Yes, I do.
+Do you want a cup?
+Yes, please, Christine.
+Do you want any sugar?
+Yes, please.
+Do you want any milk?
+No, thank you.
+I don't like milk in my coffee.
+I like black coffee.
+Do you like biscuits?
+Yes, I do.
+Do you want one?
+Yes, please.
 *** Lesson 49 在肉店
 Do you want any meat today, Mrs Bird?
 Yes, please.
