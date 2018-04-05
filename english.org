@@ -521,6 +521,12 @@
    - State "DONE"       from "STARTED"    [2018-04-03 二 04:38]
    CLOCK: [2018-04-03 二 04:22]--[2018-04-03 二 04:38] =>  0:16
    :END:
+** DONE Review<2018-04-05 四 04:13>99.2%
+   CLOSED: [2018-04-05 四 04:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-05 四 04:29]
+   CLOCK: [2018-04-05 四 04:13]--[2018-04-05 四 04:29] =>  0:16
+   :END:
 * lesson 37five
 ** DONE Review 95.8%-->97.6%
    CLOSED: [2016-08-18 四 20:34]
@@ -736,6 +742,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2018-04-03 二 04:21]
    CLOCK: [2018-04-03 二 04:03]--[2018-04-03 二 04:21] =>  0:18
    :END:
+** DONE Review<2018-04-05 四 04:32>99.5%
+   CLOSED: [2018-04-05 四 04:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-05 四 04:50]
+   CLOCK: [2018-04-05 四 04:32]--[2018-04-05 四 04:50] =>  0:18
+   :END:
 * lesson 40six
 ** DONE Review<2017-11-06 一 05:24>99.3%
    CLOSED: [2017-11-06 一 05:40]
@@ -897,6 +909,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-02 一 19:48]
    CLOCK: [2018-04-02 一 19:33]--[2018-04-02 一 19:48] =>  0:15
+   :END:
+** DONE Review<2018-04-05 四 04:53>99.7%
+   CLOSED: [2018-04-05 四 05:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-05 四 05:09]
+   CLOCK: [2018-04-05 四 04:53]--[2018-04-05 四 05:09] =>  0:16
    :END:
 * lesson 39seven
 ** DONE Review 99.1%
@@ -12167,9 +12185,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-05 四 06:30 +1d> SCHEDULED:<2018-04-05 四 06:00 +1d>
+   DEADLINE: <2018-04-06 五 06:30 +1d> SCHEDULED:<2018-04-06 五 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-04 三 06:41]
+   :LAST_REPEAT: [2018-04-05 四 06:22]
    :END:
 
    :PROPERTIES:
@@ -12179,6 +12197,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-05 四 06:22]
+   CLOCK: [2018-04-05 四 06:12]--[2018-04-05 四 06:22] =>  0:10
    - State "DONE"       from "STARTED"    [2018-04-04 三 06:41]
    CLOCK: [2018-04-04 三 06:29]--[2018-04-04 三 06:41] =>  0:12
    - State "DONE"       from "STARTED"    [2018-04-03 二 05:42]
@@ -12342,6 +12362,25 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** Lesson 45 老板的信
+Can you come here a minute please, Bob?
+Yes, sir?
+Where's Pamela?
+She's next door.
+She's in her office, sir.
+Can she type this letter for me?
+Ask her please.
+Yes, sir.
+Can you type this letter for the boss please, Pamela?
+Yes, of course I can.
+Here you are.
+Thank you, Bob.
+Bob！
+Yes?
+What's the matter.
+I can't type this letter.
+I can't read it!
+The boss's handwriting is terrible!
 *** DONE Lesson 47 一杯咖啡
     CLOSED: [2018-04-04 三 20:48]
     :LOGBOOK:
