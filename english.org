@@ -1080,6 +1080,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2018-04-02 一 19:33]
    CLOCK: [2018-04-02 一 19:19]--[2018-04-02 一 19:33] =>  0:14
    :END:
+** DONE Review<2018-04-06 五 06:34>99%
+   CLOSED: [2018-04-06 五 06:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-06 五 06:48]
+   CLOCK: [2018-04-06 五 06:34]--[2018-04-06 五 06:48] =>  0:14
+   :END:
 * lesson 15eight
 ** DONE Review 98.4%
    CLOSED: [2016-08-19 五 21:15]
@@ -1249,6 +1255,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-02 一 05:48]
    CLOCK: [2018-04-02 一 05:32]--[2018-04-02 一 05:48] =>  0:16
+   :END:
+** DONE Review<2018-04-06 五 06:49>99.1%
+   CLOSED: [2018-04-06 五 07:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-06 五 07:05]
+   CLOCK: [2018-04-06 五 06:49]--[2018-04-06 五 07:05] =>  0:16
    :END:
 * lesson 20nine
 ** DONE Review Nine 99.0% very good
@@ -12185,9 +12197,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-06 五 06:30 +1d> SCHEDULED:<2018-04-06 五 06:00 +1d>
+   DEADLINE: <2018-04-07 六 06:30 +1d> SCHEDULED:<2018-04-07 六 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-05 四 06:22]
+   :LAST_REPEAT: [2018-04-06 五 08:17]
    :END:
 
    :PROPERTIES:
@@ -12197,6 +12209,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-06 五 08:17]
+   CLOCK: [2018-04-06 五 08:06]--[2018-04-06 五 08:17] =>  0:11
    - State "DONE"       from "STARTED"    [2018-04-05 四 06:22]
    CLOCK: [2018-04-05 四 06:12]--[2018-04-05 四 06:22] =>  0:10
    - State "DONE"       from "STARTED"    [2018-04-04 三 06:41]
@@ -12362,6 +12376,25 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** Lesson 43 快点
+Can you make the tea, Sam?
+Yes, of course I can, Penny.
+Is there any water in this kettle?
+Yes, there is.
+Where's the tea?
+It's over there, behind the teapot.
+Can you see it?
+I can see the teapot,
+but I can't see the tea.
+There it is!
+It's in front of you!
+Ah, yes, I can see it now.
+Where are the cups?
+There are some in the cupboard.
+Can you find them?
+Yes. Here they are.
+Hurry up, Sam!
+The kittle's boiling!
 *** Lesson 45 老板的信
 Can you come here a minute please, Bob?
 Yes, sir?
