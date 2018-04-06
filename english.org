@@ -1439,6 +1439,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2018-04-02 一 05:31]
    CLOCK: [2018-04-02 一 05:15]--[2018-04-02 一 05:31] =>  0:16
    :END:
+** DONE Review<2018-04-07 六 05:24>99.5%
+   CLOSED: [2018-04-07 六 05:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-07 六 05:41]
+   CLOCK: [2018-04-07 六 05:23]--[2018-04-07 六 05:41] =>  0:18
+   :END:
 * lesson 33ten
 ** DONE Review 96.3%
    CLOSED: [2016-08-21 Sun 10:25]
@@ -1669,6 +1675,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-02 一 05:13]
    CLOCK: [2018-04-02 一 04:54]--[2018-04-02 一 05:13] =>  0:19
+   :END:
+** DONE Review<2018-04-07 六 05:46>99.2%
+   CLOSED: [2018-04-07 六 06:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-07 六 06:03]
+   CLOCK: [2018-04-07 六 05:46]--[2018-04-07 六 06:03] =>  0:17
    :END:
 * lesson 36eleven
 ** DONE Review 98%
@@ -12197,9 +12209,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-07 六 06:30 +1d> SCHEDULED:<2018-04-07 六 06:00 +1d>
+   DEADLINE: <2018-04-08 日 06:30 +1d> SCHEDULED:<2018-04-08 日 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-06 五 08:17]
+   :LAST_REPEAT: [2018-04-07 六 06:15]
    :END:
 
    :PROPERTIES:
@@ -12209,6 +12221,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-07 六 06:15]
+   CLOCK: [2018-04-07 六 06:04]--[2018-04-07 六 06:15] =>  0:11
    - State "DONE"       from "STARTED"    [2018-04-06 五 08:17]
    CLOCK: [2018-04-06 五 08:06]--[2018-04-06 五 08:17] =>  0:11
    - State "DONE"       from "STARTED"    [2018-04-05 四 06:22]
@@ -12376,6 +12390,22 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** Lesson 41 彭妮的提包
+Is that bag heavy, Penny?
+Not very.
+Here!
+Put it on this chair.
+What's in it?
+A piece of cheese.
+A loaf of bread.
+A bar of soap.
+A bar of Chocolate.
+A pound of sugar.
+Half a pound of coffee.
+A quarter of pound of tea.
+And a tin of tobacco.
+Is that tin of tobacco for me?
+Well, it's certainly not for me!
 *** Lesson 43 快点
 Can you make the tea, Sam?
 Yes, of course I can, Penny.
