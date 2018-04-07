@@ -527,6 +527,12 @@
    - State "DONE"       from "STARTED"    [2018-04-05 四 04:29]
    CLOCK: [2018-04-05 四 04:13]--[2018-04-05 四 04:29] =>  0:16
    :END:
+** DONE Review<2018-04-08 日 04:58>100%
+   CLOSED: [2018-04-08 日 05:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-08 日 05:14]
+   CLOCK: [2018-04-08 日 04:58]--[2018-04-08 日 05:14] =>  0:16
+   :END:
 * lesson 37five
 ** DONE Review 95.8%-->97.6%
    CLOSED: [2016-08-18 四 20:34]
@@ -1843,6 +1849,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-01 日 08:15]
    CLOCK: [2018-04-01 日 07:56]--[2018-04-01 日 08:15] =>  0:19
+   :END:
+** DONE Review<2018-04-08 日 05:17>99.9%
+   CLOSED: [2018-04-08 日 05:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-08 日 05:37]
+   CLOCK: [2018-04-08 日 05:17]--[2018-04-08 日 05:37] =>  0:20
    :END:
 * lesson 41twelve
 ** DONE Review <2016-08-29 Mon 18:45>97.9%
@@ -12227,9 +12239,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-08 日 06:30 +1d> SCHEDULED:<2018-04-08 日 06:00 +1d>
+   DEADLINE: <2018-04-09 一 06:30 +1d> SCHEDULED:<2018-04-09 一 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-07 六 06:15]
+   :LAST_REPEAT: [2018-04-08 日 05:54]
    :END:
 
    :PROPERTIES:
@@ -12239,6 +12251,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-08 日 05:54]
+   CLOCK: [2018-04-08 日 05:40]--[2018-04-08 日 05:54] =>  0:14
    - State "DONE"       from "STARTED"    [2018-04-07 六 06:15]
    CLOCK: [2018-04-07 六 06:04]--[2018-04-07 六 06:15] =>  0:11
    - State "DONE"       from "STARTED"    [2018-04-06 五 08:17]
@@ -12408,6 +12422,25 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** Lesson 37 做书架
+You're working hard, George.
+What are you doing?
+I'm making a bookcase.
+Give me that hammer please, Dan.
+Which hammer?
+This one?
+No, not that one.
+The big one.
+Here you are.
+Thanks, Dan.
+What are you going to do now, George?
+I'm goint to paint it.
+What colour are you going to paint it?
+I'm going to paint it pink.
+Pink！
+This bookcase isn't for me.
+It's for my daughter, Susan.
+Pink's her favourite colour.
 *** DONE Lesson 39 别摔了
     CLOSED: [2018-04-07 六 21:06]
     :LOGBOOK:
