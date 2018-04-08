@@ -2274,6 +2274,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2018-03-31 六 05:52]
    CLOCK: [2018-03-31 六 05:34]--[2018-03-31 六 05:52] =>  0:18
    :END:
+** DONE Review<2018-04-09 一 05:27>99.5%
+   CLOSED: [2018-04-09 一 05:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-09 一 05:46]
+   CLOCK: [2018-04-09 一 05:27]--[2018-04-09 一 05:46] =>  0:19
+   :END:
 * lesson 49fourteen
 ** DONE Review fourteen 97.4%
    CLOSED: [2016-08-08 一 20:19]
@@ -2468,6 +2474,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-03-31 六 05:31]
    CLOCK: [2018-03-31 六 05:12]--[2018-03-31 六 05:31] =>  0:19
+   :END:
+** DONE Review<2018-04-09 一 05:50>99.7%
+   CLOSED: [2018-04-09 一 06:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-09 一 06:08]
+   CLOCK: [2018-04-09 一 05:50]--[2018-04-09 一 06:08] =>  0:18
    :END:
 * lesson 48fifteen
 ** DONE Review 97.3%
@@ -12251,9 +12263,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-09 一 06:30 +1d> SCHEDULED:<2018-04-09 一 06:00 +1d>
+   DEADLINE: <2018-04-10 二 06:30 +1d> SCHEDULED:<2018-04-10 二 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-08 日 05:54]
+   :LAST_REPEAT: [2018-04-09 一 06:18]
    :END:
 
    :PROPERTIES:
@@ -12263,6 +12275,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-09 一 06:18]
+   CLOCK: [2018-04-09 一 06:09]--[2018-04-09 一 06:18] =>  0:09
    - State "DONE"       from "STARTED"    [2018-04-08 日 05:54]
    CLOCK: [2018-04-08 日 05:40]--[2018-04-08 日 05:54] =>  0:14
    - State "DONE"       from "STARTED"    [2018-04-07 六 06:15]
@@ -12434,6 +12448,18 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** Lesson 33 晴天
+It is a fine day today.
+There are some clouds in the sky,
+but the sun is shining.
+Mr. Jones is walking with his family.
+They are walking over the bridge.
+There are some boats on the river.
+Mr. Jones and his wife are looking at them.
+Sally is looking at a big ship.
+The ship is going under the bridge.
+Tim is looking at an aeroplane.
+The aeroplane is flying over the river.
 *** DONE Lesson 35 我们的村庄
     CLOSED: [2018-04-08 日 19:57]
     :LOGBOOK:
