@@ -2686,6 +2686,12 @@ listen to happy music
    - State "DONE"       from "STARTED"    [2018-03-30 Fri 05:39]
    CLOCK: [2018-03-30 Fri 05:20]--[2018-03-30 Fri 05:39] =>  0:19
    :END:
+** DONE Review<2018-04-10 二 19:18>99.4%
+   CLOSED: [2018-04-10 二 19:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-10 二 19:35]
+   CLOCK: [2018-04-10 二 19:18]--[2018-04-10 二 19:35] =>  0:17
+   :END:
 * lesson 42sixteen
 ** DONE Review 97.2%
    CLOSED: [2016-08-24 三 05:43]
@@ -12263,9 +12269,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-10 二 06:30 +1d> SCHEDULED:<2018-04-10 二 06:00 +1d>
+   DEADLINE: <2018-04-11 三 06:30 +1d> SCHEDULED:<2018-04-11 三 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-09 一 06:18]
+   :LAST_REPEAT: [2018-04-10 二 19:44]
    :END:
 
    :PROPERTIES:
@@ -12275,6 +12281,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-10 二 19:44]
+   CLOCK: [2018-04-10 二 19:36]--[2018-04-10 二 19:44] =>  0:08
    - State "DONE"       from "STARTED"    [2018-04-09 一 06:18]
    CLOCK: [2018-04-09 一 06:09]--[2018-04-09 一 06:18] =>  0:09
    - State "DONE"       from "STARTED"    [2018-04-08 日 05:54]
@@ -12448,6 +12456,22 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** Lesson 31 萨得在哪里？
+Where's Sally, Jack?
+She's in the garden, Jean.
+What's she doing?
+She's sitting under the tree.
+Is Tim in the garden, too?
+Yes, he is.
+He's climbing the tree.
+I beg your pardon?
+Who's climbing the tree?
+Tim is.
+What about the dog?
+The dog's in the garden, too.
+It's running across the grass.
+It's running after the cat.
+
 *** Lesson 33 晴天
 It is a fine day today.
 There are some clouds in the sky,
