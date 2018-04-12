@@ -3602,6 +3602,18 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2018-03-27 二 21:12]
    CLOCK: [2018-03-27 二 20:53]--[2018-03-27 二 21:12] =>  0:19
    :END:
+** DONE Review<2018-04-13 五 05:15>98.8%
+   CLOSED: [2018-04-13 五 05:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-13 五 05:33]
+   CLOCK: [2018-04-13 五 05:15]--[2018-04-13 五 05:33] =>  0:18
+   :END:
+** DONE Review<2018-04-13 五 05:34>99.8%
+   CLOSED: [2018-04-13 五 05:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-13 五 05:51]
+   CLOCK: [2018-04-13 五 05:34]--[2018-04-13 五 05:51] =>  0:17
+   :END:
 * lesson 16twenty
 ** DONE Review twenty 96.9%
    CLOSED: [2016-08-10 Wed 15:29]
@@ -3855,6 +3867,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-03-27 二 05:10]
    CLOCK: [2018-03-27 二 04:52]--[2018-03-27 二 05:10] =>  0:18
+   :END:
+** DONE Review<2018-04-13 五 05:51>99.4%
+   CLOSED: [2018-04-13 五 06:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-13 五 06:11]
+   CLOCK: [2018-04-13 五 05:51]--[2018-04-13 五 06:11] =>  0:20
    :END:
 * lesson 19twenty one
 ** DONE Review twenty one 97.7%
@@ -12330,9 +12348,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-13 五 06:30 +1d> SCHEDULED:<2018-04-13 五 06:00 +1d>
+   DEADLINE: <2018-04-14 六 06:30 +1d> SCHEDULED:<2018-04-14 六 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-12 四 06:13]
+   :LAST_REPEAT: [2018-04-13 五 06:24]
    :END:
 
    :PROPERTIES:
@@ -12342,6 +12360,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-13 五 06:24]
+   CLOCK: [2018-04-13 五 06:12]--[2018-04-13 五 06:24] =>  0:12
    - State "DONE"       from "STARTED"    [2018-04-12 四 06:13]
    CLOCK: [2018-04-12 四 06:08]--[2018-04-12 四 06:13] =>  0:05
    - State "DONE"       from "STARTED"    [2018-04-11 三 05:48]
@@ -12521,6 +12541,25 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** Lesson 17 你好
+Come and meet our employees, Mr. Richards.
+Thank you, Mr. Jackson.
+This is Nicola Grey,
+and this is Claire Taylor
+How do you do?
+Those women are very hard-working.
+What are their jobs?
+They're keyboard operators.
+This is Michael Baker,
+and this is Jeremy Short.
+How do you do?
+They aren't very busy!
+What are their jobs?
+They're sales reps.
+They're very lazy.
+Who is this young man?
+This is Jim.
+He's our office assistant.
 *** DONE Lesson 19 又累又渴
     CLOSED: [2018-04-12 四 20:23]
     :LOGBOOK:

@@ -1,10 +1,11 @@
 * eating
-** TODO [#B]breakfast
+** STARTED [#B]breakfast
 SCHEDULED: <2018-04-13 五 07:00 +1d> DEADLINE: <2018-04-13 五 07:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2018-04-12 四 07:58]
    :END:
    :LOGBOOK:
+   CLOCK: [2018-04-13 五 07:08]
    - State "DONE"       from "STARTED"    [2018-04-12 四 07:58]
    CLOCK: [2018-04-12 四 06:58]--[2018-04-12 四 07:58] =>  1:00
    - State "DONE"       from "STARTED"    [2018-04-11 三 08:00]
@@ -2475,16 +2476,17 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
-   DEADLINE: <2018-04-13 五 05:00 +1d> SCHEDULED: <2018-04-12 四 22:00 +1d>
+* TODO [#A] sleep
+   DEADLINE: <2018-04-14 六 05:00 +1d> SCHEDULED: <2018-04-13 五 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2018-04-12 四 04:53]
+  :LAST_REPEAT: [2018-04-13 五 05:15]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-04-12 四 21:05]
+  - State "DONE"       from "STARTED"    [2018-04-13 五 05:15]
+  CLOCK: [2018-04-12 四 21:05]--[2018-04-13 五 05:15] =>  8:10
   - State "DONE"       from "STARTED"    [2018-04-12 四 04:53]
   CLOCK: [2018-04-11 三 21:10]--[2018-04-12 四 04:53] =>  7:43
   - State "DONE"       from "STARTED"    [2018-04-11 三 04:53]
@@ -3967,11 +3969,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 
 * TODO [#B] handwriting
-  SCHEDULED: <2018-04-13 五 06:30 .+1d> DEADLINE: <2018-04-13 五 07:00 .+1d>
+  SCHEDULED: <2018-04-14 六 06:30 .+1d> DEADLINE: <2018-04-14 六 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-04-12 四 06:58]
+  :LAST_REPEAT: [2018-04-13 五 07:08]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-04-13 五 07:08]
+  CLOCK: [2018-04-13 五 06:24]--[2018-04-13 五 07:08] =>  0:44
   - State "DONE"       from "STARTED"    [2018-04-12 四 06:58]
   CLOCK: [2018-04-12 四 06:13]--[2018-04-12 四 06:58] =>  0:45
   - State "DONE"       from "STARTED"    [2018-04-11 三 06:36]
