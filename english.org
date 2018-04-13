@@ -3880,6 +3880,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2018-04-13 五 19:01]
    CLOCK: [2018-04-13 五 18:42]--[2018-04-13 五 19:01] =>  0:19
    :END:
+** DONE Review<2018-04-14 六 04:03>99.8%
+   CLOSED: [2018-04-14 六 04:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-14 六 04:25]
+   CLOCK: [2018-04-14 六 04:02]--[2018-04-14 六 04:25] =>  0:23
+   :END:
 * lesson 19twenty one
 ** DONE Review twenty one 97.7%
    CLOSED: [2016-08-10 Wed 15:56]
@@ -4077,6 +4083,18 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-03-26 一 20:26]
    CLOCK: [2018-03-26 一 20:05]--[2018-03-26 一 20:26] =>  0:21
+   :END:
+** DONE Review<2018-04-14 六 04:25>99.4%
+   CLOSED: [2018-04-14 六 04:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-14 六 04:48]
+   CLOCK: [2018-04-14 六 04:25]--[2018-04-14 六 04:48] =>  0:23
+   :END:
+** DONE Review<2018-04-14 六 06:15>98.7%
+   CLOSED: [2018-04-14 六 06:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-14 六 06:34]
+   CLOCK: [2018-04-14 六 06:14]--[2018-04-14 六 06:34] =>  0:20
    :END:
 * lesson 13twenty two
 ** DONE Review twenty two 93.6%
@@ -12354,9 +12372,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-14 六 06:30 +1d> SCHEDULED:<2018-04-14 六 06:00 +1d>
+   DEADLINE: <2018-04-15 日 06:30 +1d> SCHEDULED:<2018-04-15 日 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-13 五 06:24]
+   :LAST_REPEAT: [2018-04-14 六 05:23]
    :END:
 
    :PROPERTIES:
@@ -12366,6 +12384,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-14 六 05:23]
+   CLOCK: [2018-04-14 六 05:15]--[2018-04-14 六 05:23] =>  0:08
    - State "DONE"       from "STARTED"    [2018-04-13 五 06:24]
    CLOCK: [2018-04-13 五 06:12]--[2018-04-13 五 06:24] =>  0:12
    - State "DONE"       from "STARTED"    [2018-04-12 四 06:13]
@@ -12547,6 +12567,19 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** Lesson 13 一件新连衣裙
+What colour's your new dress?
+It's green.
+Come upstairs and see it.
+Thank you.
+Look! Here it is!
+That's nice dress.
+It's very smart.
+My hat's new, too.
+What colour is it?
+It's the same colour.
+It's green, too.
+That is a lovely hat!
 *** DONE Lesson 15 请出示你们的护照
     CLOSED: [2018-04-13 五 19:12]
     :LOGBOOK:
