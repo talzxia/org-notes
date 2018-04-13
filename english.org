@@ -3874,6 +3874,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2018-04-13 五 06:11]
    CLOCK: [2018-04-13 五 05:51]--[2018-04-13 五 06:11] =>  0:20
    :END:
+** DONE Review<2018-04-13 五 18:42>99.4%
+   CLOSED: [2018-04-13 五 19:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-13 五 19:01]
+   CLOCK: [2018-04-13 五 18:42]--[2018-04-13 五 19:01] =>  0:19
+   :END:
 * lesson 19twenty one
 ** DONE Review twenty one 97.7%
    CLOSED: [2016-08-10 Wed 15:56]
@@ -12541,6 +12547,31 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** DONE Lesson 15 请出示你们的护照
+    CLOSED: [2018-04-13 五 19:12]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-04-13 五 19:12]
+    CLOCK: [2018-04-13 五 19:03]--[2018-04-13 五 19:12] =>  0:09
+    :END:
+Are you Swedish?
+No, we are not.
+We are Danish.
+Are your friends Danish, too?
+No, they aren't.
+They are Novwegian.
+Your passports, please.
+Here they are.
+Are these your cases?
+No, they aren't.
+Our cases are brown.
+Here they are.
+Are you tourists?
+Yes, we are.
+Are your friends tourists too?
+Yes, they are.
+That's fine.
+Thank you very much.
+
 *** Lesson 17 你好
 Come and meet our employees, Mr. Richards.
 Thank you, Mr. Jackson.
