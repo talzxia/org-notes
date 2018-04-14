@@ -4096,6 +4096,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2018-04-14 六 06:34]
    CLOCK: [2018-04-14 六 06:14]--[2018-04-14 六 06:34] =>  0:20
    :END:
+** DONE Review<2018-04-14 六 20:54>97.8%
+   CLOSED: [2018-04-14 六 21:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-14 六 21:12]
+   CLOCK: [2018-04-14 六 20:53]--[2018-04-14 六 21:12] =>  0:19
+   :END:
 * lesson 13twenty two
 ** DONE Review twenty two 93.6%
    CLOSED: [2016-08-11 四 04:13]
@@ -12567,6 +12573,28 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** DONE Lesson 11 这是你的衬衫吗？
+    CLOSED: [2018-04-14 六 21:20]
+    :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-04-14 六 21:20]
+    CLOCK: [2018-04-14 六 21:13]--[2018-04-14 六 21:20] =>  0:07
+    :END:
+Whose shrit is that?
+Is this your shirt, Dave?
+No, Sir.
+It's not my shirt.
+This is my shirt.
+My shirt's blue.
+Is this shirt Tim's?
+Perhaps it is, sir.
+Tim's shirt's white.
+Tim!
+Yes, sir?
+Is this your shirt?
+Yes, sir.
+Here you are.
+Catch!
+Thank you sir.
 *** Lesson 13 一件新连衣裙
 What colour's your new dress?
 It's green.
