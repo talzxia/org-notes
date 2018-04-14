@@ -4102,6 +4102,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2018-04-14 六 21:12]
    CLOCK: [2018-04-14 六 20:53]--[2018-04-14 六 21:12] =>  0:19
    :END:
+** DONE Review<2018-04-15 日 04:38>99.6%
+   CLOSED: [2018-04-15 日 04:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-15 日 04:58]
+   CLOCK: [2018-04-15 日 04:38]--[2018-04-15 日 04:58] =>  0:20
+   :END:
 * lesson 13twenty two
 ** DONE Review twenty two 93.6%
    CLOSED: [2016-08-11 四 04:13]
@@ -4351,6 +4357,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-03-26 一 05:26]
    CLOCK: [2018-03-26 一 05:11]--[2018-03-26 一 05:26] =>  0:15
+   :END:
+** DONE Review<2018-04-15 日 05:00>99.5%
+   CLOSED: [2018-04-15 日 05:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-15 日 05:15]
+   CLOCK: [2018-04-15 日 04:59]--[2018-04-15 日 05:15] =>  0:16
    :END:
 * lesson 12twenty three
 ** DONE Review twenty three 97.1%
@@ -12378,9 +12390,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-15 日 06:30 +1d> SCHEDULED:<2018-04-15 日 06:00 +1d>
+   DEADLINE: <2018-04-16 一 06:30 +1d> SCHEDULED:<2018-04-16 一 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-14 六 05:23]
+   :LAST_REPEAT: [2018-04-15 日 05:24]
    :END:
 
    :PROPERTIES:
@@ -12390,6 +12402,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-15 日 05:24]
+   CLOCK: [2018-04-15 日 05:16]--[2018-04-15 日 05:24] =>  0:08
    - State "DONE"       from "STARTED"    [2018-04-14 六 05:23]
    CLOCK: [2018-04-14 六 05:15]--[2018-04-14 六 05:23] =>  0:08
    - State "DONE"       from "STARTED"    [2018-04-13 五 06:24]
@@ -12573,6 +12587,21 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** Lesson 9 今天好吗？
+Hello, Helen.
+Hi, Steven.
+How are you today?
+I'm very well, thank you.
+And you?
+I'm fine, thanks.
+How is Tony?
+He's fine, thanks.
+How's Emma?
+She's very well, too, Hellen.
+Goodbye, Helen.
+Nice to see you.
+Nine to see you, too, Steven.
+Goodbye.
 *** DONE Lesson 11 这是你的衬衫吗？
     CLOSED: [2018-04-14 六 21:20]
     :LOGBOOK:
