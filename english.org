@@ -4778,6 +4778,12 @@ meet shang hai ruiya 葛锡宝
    - State "DONE"       from "STARTED"    [2018-04-16 一 06:12]
    CLOCK: [2018-04-16 一 05:53]--[2018-04-16 一 06:12] =>  0:19
    :END:
+** DONE Review<2018-04-16 一 19:47>99.5%
+   CLOSED: [2018-04-16 一 20:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-16 一 20:06]
+   CLOCK: [2018-04-16 一 19:47]--[2018-04-16 一 20:06] =>  0:19
+   :END:
 * lesson 1twenty five
 ** DONE Review <2016-09-03 Sat 09:04> 95.8%
    CLOSED: [2016-09-03 Sat 09:59]
@@ -5037,6 +5043,12 @@ meet shang hai ruiya 葛锡宝
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-03-25 日 05:45]
    CLOCK: [2018-03-25 日 05:23]--[2018-03-25 日 05:45] =>  0:22
+   :END:
+** DONE Review<2018-04-16 一 20:18>99.3%
+   CLOSED: [2018-04-16 一 20:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-16 一 20:38]
+   CLOCK: [2018-04-16 一 20:17]--[2018-04-16 一 20:38] =>  0:21
    :END:
 * lesson 8twenty six
 ** DONE Review twenty six 95.2%
@@ -12408,9 +12420,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-17 二 06:30 +1d> SCHEDULED:<2018-04-17 二 06:00 +1d>
+   DEADLINE: <2018-04-18 三 06:30 +1d> SCHEDULED:<2018-04-18 三 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-16 一 06:25]
+   :LAST_REPEAT: [2018-04-16 一 20:17]
    :END:
 
    :PROPERTIES:
@@ -12420,6 +12432,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-16 一 20:17]
+   CLOCK: [2018-04-16 一 20:06]--[2018-04-16 一 20:17] =>  0:11
    - State "DONE"       from "STARTED"    [2018-04-16 一 06:25]
    CLOCK: [2018-04-16 一 06:13]--[2018-04-16 一 06:25] =>  0:12
    - State "DONE"       from "STARTED"    [2018-04-15 日 05:24]
@@ -12607,6 +12621,27 @@ A notebook is finished.
    :END:
 * New Concept English Lesson
 ** Book One
+*** Lesson 1 对不起
+Excuse me!
+Yes?
+Is this your handbag?
+Pardon?
+Is this your handbag?
+Yes, it is.
+Thank you very much.
+*** Lesson 3 对不起，先生
+My coat and my umbrella please.
+Here is my ticket.
+Thank you, sir.
+Number five.
+Here's your umbrella and your coat.
+This is not my umbrella.
+Sorry sir.
+Is this your umbrella?
+No, it isn't.
+Is this it?
+Yes, it is.
+Thank you very much.
 *** Lesson 5 很高兴见到你
 Good morning.
 Good morning, Mr. Blake.
