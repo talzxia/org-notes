@@ -2498,16 +2498,17 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
-   DEADLINE: <2018-04-17 二 05:00 +1d> SCHEDULED: <2018-04-16 一 22:00 +1d>
+* TODO [#A] sleep
+   DEADLINE: <2018-04-18 三 05:00 +1d> SCHEDULED: <2018-04-17 二 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2018-04-16 一 05:34]
+  :LAST_REPEAT: [2018-04-17 二 05:03]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-04-16 一 21:14]
+  - State "DONE"       from "STARTED"    [2018-04-17 二 05:03]
+  CLOCK: [2018-04-16 一 21:14]--[2018-04-17 二 05:03] =>  7:49
   - State "DONE"       from "STARTED"    [2018-04-16 一 05:34]
   CLOCK: [2018-04-15 日 21:28]--[2018-04-16 一 05:34] =>  8:06
   - State "DONE"       from "STARTED"    [2018-04-15 日 04:37]
@@ -4004,11 +4005,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 
 * TODO [#B] handwriting
-  SCHEDULED: <2018-04-17 二 06:30 .+1d> DEADLINE: <2018-04-17 二 07:00 .+1d>
+  SCHEDULED: <2018-04-18 三 06:30 .+1d> DEADLINE: <2018-04-18 三 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-04-16 一 07:03]
+  :LAST_REPEAT: [2018-04-17 二 06:47]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-04-17 二 06:47]
+  CLOCK: [2018-04-17 二 06:02]--[2018-04-17 二 06:47] =>  0:45
   - State "DONE"       from "STARTED"    [2018-04-16 一 07:03]
   CLOCK: [2018-04-16 一 06:25]--[2018-04-16 一 07:03] =>  0:38
   - State "DONE"       from "STARTED"    [2018-04-15 日 06:05]
