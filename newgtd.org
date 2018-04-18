@@ -655,11 +655,13 @@ SCHEDULED: <2018-04-19 四 07:00 +1d> DEADLINE: <2018-04-19 四 07:40 +1d>
 
 
 ** TODO [#A]lunch
-SCHEDULED: <2018-04-18 三 11:40 +1d> DEADLINE: <2018-04-18 三 13:40 +1d>
+SCHEDULED: <2018-04-19 四 11:40 +1d> DEADLINE: <2018-04-19 四 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-17 二 14:38]
+   :LAST_REPEAT: [2018-04-18 三 13:34]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-18 三 13:34]
+   CLOCK: [2018-04-18 三 11:36]--[2018-04-18 三 13:34] =>  1:58
    - State "DONE"       from "STARTED"    [2018-04-17 二 14:38]
    CLOCK: [2018-04-17 二 12:05]--[2018-04-17 二 14:38] =>  2:33
    - State "DONE"       from "STARTED"    [2018-04-16 一 13:52]
@@ -1255,12 +1257,13 @@ SCHEDULED: <2018-04-18 三 11:40 +1d> DEADLINE: <2018-04-18 三 13:40 +1d>
     :END:
 13:50-14:30检查
 
-** TODO [#B] dinner
+** STARTED [#B] dinner
    DEADLINE: <2018-04-18 三 18:40 +1d> SCHEDULED: <2018-04-18 三 17:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2018-04-17 二 19:32]
    :END:
    :LOGBOOK:
+   CLOCK: [2018-04-18 三 17:16]
    - State "DONE"       from "STARTED"    [2018-04-17 二 19:32]
    CLOCK: [2018-04-17 二 17:42]--[2018-04-17 二 19:32] =>  1:50
    - State "DONE"       from "STARTED"    [2018-04-16 一 18:42]
@@ -3688,11 +3691,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 * TODO [#A] clean office
-  DEADLINE: <2018-04-18 三 07:50 +1d> SCHEDULED: <2018-04-18 三 08:20 +1d>
+  DEADLINE: <2018-04-19 四 07:50 +1d> SCHEDULED: <2018-04-19 四 08:20 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-04-17 二 07:50]
+  :LAST_REPEAT: [2018-04-18 三 08:01]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-04-18 三 08:01]
+  CLOCK: [2018-04-18 三 07:45]--[2018-04-18 三 08:01] =>  0:16
   - State "DONE"       from "STARTED"    [2018-04-17 二 07:50]
   CLOCK: [2018-04-17 二 07:42]--[2018-04-17 二 07:50] =>  0:08
   - State "DONE"       from "STARTED"    [2018-04-16 一 09:18]
@@ -4443,11 +4448,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2018-04-18 三 09:00 .+1d> DEADLINE: <2018-04-18 三 08:00 .+1d>
+   SCHEDULED: <2018-04-19 四 09:00 .+1d> DEADLINE: <2018-04-19 四 08:00 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-17 二 21:10]
+   :LAST_REPEAT: [2018-04-18 三 10:50]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-18 三 10:50]
+   CLOCK: [2018-04-18 三 10:22]--[2018-04-18 三 10:50] =>  0:28
    - State "DONE"       from "STARTED"    [2018-04-17 二 21:10]
    - State "DONE"       from "STARTED"    [2018-04-16 一 15:05]
    CLOCK: [2018-04-16 一 14:34]--[2018-04-16 一 15:05] =>  0:31
@@ -4750,12 +4757,15 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* TODO [#B] browse news and free learn
+* STARTED [#B] browse news and free learn
   DEADLINE: <2018-04-18 三 08:30 .+1d> SCHEDULED: <2018-04-18 三 08:20 .+1d>
   :PROPERTIES:
   :LAST_REPEAT: [2018-04-17 二 21:10]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-04-18 三 13:35]--[2018-04-18 三 17:16] =>  3:41
+  CLOCK: [2018-04-18 三 10:50]--[2018-04-18 三 11:36] =>  0:46
+  CLOCK: [2018-04-18 三 08:01]--[2018-04-18 三 09:17] =>  1:16
   - State "DONE"       from "STARTED"    [2018-04-17 二 21:10]
   CLOCK: [2018-04-17 二 20:03]--[2018-04-17 二 21:10] =>  1:07
   CLOCK: [2018-04-17 二 17:04]--[2018-04-17 二 17:42] =>  0:38
@@ -5530,11 +5540,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 高龙寅、王院长来检查8：30至10：30两个小时。
 * TODO [#B] check teaching
-  DEADLINE: <2018-04-18 三 10:00 +1d> SCHEDULED: <2018-04-18 三 09:30 +1d>
+  DEADLINE: <2018-04-19 四 10:00 +1d> SCHEDULED: <2018-04-19 四 09:30 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-04-17 二 12:05]
+  :LAST_REPEAT: [2018-04-18 三 10:22]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-04-18 三 10:22]
+  CLOCK: [2018-04-18 三 09:17]--[2018-04-18 三 10:22] =>  1:05
   - State "DONE"       from "STARTED"    [2018-04-17 二 12:05]
   - State "DONE"       from "STARTED"    [2018-04-16 一 11:34]
   CLOCK: [2018-04-16 一 11:09]--[2018-04-16 一 11:34] =>  0:25
