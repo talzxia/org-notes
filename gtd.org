@@ -7296,8 +7296,11 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
 
 ** DONE [#B] to make a purchase
-   CLOSED: [2018-03-25 日 19:28]
+   CLOSED: [2018-04-21 六 20:54]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-21 六 20:54]
+   - State "STARTED"    from "DONE"       [2018-04-21 六 17:24]
+   CLOCK: [2018-04-21 六 17:24]--[2018-04-21 六 20:54] =>  3:30
    - State "DONE"       from "STARTED"    [2018-03-25 日 19:28]
    - State "STARTED"    from "DONE"       [2018-03-25 日 17:50]
    CLOCK: [2018-03-25 日 17:50]--[2018-03-25 日 19:28] =>  1:38
