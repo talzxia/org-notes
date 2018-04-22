@@ -2533,7 +2533,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
    DEADLINE: <2018-04-23 一 05:00 +1d> SCHEDULED: <2018-04-22 日 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
@@ -2542,6 +2542,7 @@ clean up spending 15 minutes
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-04-22 日 21:36]
   - State "DONE"       from "STARTED"    [2018-04-22 日 04:43]
   CLOCK: [2018-04-21 六 21:46]--[2018-04-22 日 04:43] =>  6:57
   - State "DONE"       from "STARTED"    [2018-04-21 六 05:19]
@@ -4816,13 +4817,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* STARTED [#B] browse news and free learn
-  DEADLINE: <2018-04-22 日 08:30 .+1d> SCHEDULED: <2018-04-22 日 08:20 .+1d>
+* TODO [#B] browse news and free learn
+  DEADLINE: <2018-04-23 一 08:30 .+1d> SCHEDULED: <2018-04-23 一 08:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-04-21 六 21:46]
+  :LAST_REPEAT: [2018-04-22 日 21:36]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-04-22 日 19:54]
+  - State "DONE"       from "STARTED"    [2018-04-22 日 21:36]
+  CLOCK: [2018-04-22 日 19:54]--[2018-04-22 日 21:20] =>  1:26
   CLOCK: [2018-04-22 日 17:09]--[2018-04-22 日 17:53] =>  0:44
   CLOCK: [2018-04-22 日 10:40]--[2018-04-22 日 11:05] =>  0:25
   CLOCK: [2018-04-22 日 09:35]--[2018-04-22 日 10:13] =>  0:38
