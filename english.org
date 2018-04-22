@@ -5620,6 +5620,12 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2018-03-23 五 05:35]
    CLOCK: [2018-03-23 五 05:13]--[2018-03-23 五 05:35] =>  0:22
    :END:
+** DONE Review<2018-04-22 日 04:44>99.3%
+   CLOSED: [2018-04-22 日 05:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-22 日 05:07]
+   CLOCK: [2018-04-22 日 04:44]--[2018-04-22 日 05:07] =>  0:23
+   :END:
 * lesson 50twenty eight
 ** DONE Review twenty eight 95.3%
    CLOSED: [2016-08-13 Sat 14:39]
@@ -12468,9 +12474,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-22 日 06:30 +1d> SCHEDULED:<2018-04-22 日 06:00 +1d>
+   DEADLINE: <2018-04-23 一 06:30 +1d> SCHEDULED:<2018-04-23 一 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-21 六 06:24]
+   :LAST_REPEAT: [2018-04-22 日 07:37]
    :END:
 
    :PROPERTIES:
@@ -12480,6 +12486,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-22 日 07:37]
+   CLOCK: [2018-04-22 日 07:17]--[2018-04-22 日 07:37] =>  0:20
    - State "DONE"       from "STARTED"    [2018-04-21 六 06:24]
    CLOCK: [2018-04-21 六 06:19]--[2018-04-21 六 06:24] =>  0:05
    - State "DONE"       from "STARTED"    [2018-04-20 五 05:01]
@@ -14091,3 +14099,17 @@ I counted seven old cars and three old refrigerators.
 The litter baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins.
 Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecruted!
 '
+* TODO [#B] Writing
+  SCHEDULED: <2018-04-23 一 06:00 .+1d> DEADLINE: <2018-04-23 一 05:30 .+1d>
+  :PROPERTIES:
+  :LAST_REPEAT: [2018-04-22 日 07:17]
+  :END:
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-04-22 日 07:17]
+  :END:
+** DONE Lesson 27
+   CLOSED: [2018-04-22 日 07:17]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-22 日 07:17]
+   CLOCK: [2018-04-22 日 05:25]--[2018-04-22 日 07:17] =>  1:52
+   :END:
