@@ -4829,12 +4829,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* STARTED [#B] browse news and free learn
-  DEADLINE: <2018-04-23 一 08:30 .+1d> SCHEDULED: <2018-04-23 一 08:20 .+1d>
+* TODO [#B] browse news and free learn
+  DEADLINE: <2018-04-24 二 08:30 .+1d> SCHEDULED: <2018-04-24 二 08:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-04-22 日 21:36]
+  :LAST_REPEAT: [2018-04-23 一 17:56]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-04-23 一 17:56]
   CLOCK: [2018-04-23 一 15:45]--[2018-04-23 一 16:55] =>  1:10
   CLOCK: [2018-04-23 一 11:11]--[2018-04-23 一 11:37] =>  0:26
   CLOCK: [2018-04-23 一 07:34]--[2018-04-23 一 07:55] =>  0:21
