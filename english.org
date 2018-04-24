@@ -6122,6 +6122,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-03-22 四 04:56]
    CLOCK: [2018-03-22 四 04:25]--[2018-03-22 四 04:56] =>  0:31
    :END:
+** DONE Review<1970-05-04 一>98.7%
+   CLOSED: [2018-04-24 二 05:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-24 二 05:29]
+   CLOCK: [2018-04-24 二 04:55]--[2018-04-24 二 05:29] =>  0:34
+   :END:
 * lesson 5thirty
 ** DONE Review thirty 93.9%
    CLOSED: [2016-08-01 Mon 19:27]
@@ -12495,9 +12501,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-24 二 06:30 +1d> SCHEDULED:<2018-04-24 二 06:00 +1d>
+   DEADLINE: <2018-04-25 三 06:30 +1d> SCHEDULED:<2018-04-25 三 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-22 日 19:53]
+   :LAST_REPEAT: [2018-04-24 二 05:51]
    :END:
 
    :PROPERTIES:
@@ -12507,6 +12513,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-24 二 05:51]
+   CLOCK: [2018-04-24 二 05:33]--[2018-04-24 二 05:51] =>  0:18
    - State "DONE"       from "STARTED"    [2018-04-22 日 19:53]
    CLOCK: [2018-04-22 日 19:30]--[2018-04-22 日 19:53] =>  0:23
    - State "DONE"       from "STARTED"    [2018-04-22 日 07:37]
@@ -12787,7 +12795,7 @@ Goodbye, Helen.
 Nice to see you.
 Nine to see you, too, Steven.
 Goodbye.
-*** DONE Lesson 11 这是你的衬衫吗？
+*** DONE Lesson11 这是你的衬衫吗？
     CLOSED: [2018-04-14 六 21:20]
     :LOGBOOK:
     - State "DONE"       from "STARTED"    [2018-04-14 六 21:20]
@@ -14122,12 +14130,13 @@ I counted seven old cars and three old refrigerators.
 The litter baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins.
 Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecruted!
 '
-* TODO [#B] Writing
+* STARTED [#B] Writing
   SCHEDULED: <2018-04-24 二 06:00 .+1d> DEADLINE: <2018-04-24 二 05:30 .+1d>
   :PROPERTIES:
   :LAST_REPEAT: [2018-04-23 一 08:39]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-04-24 二 14:33]--[2018-04-24 二 14:34] =>  0:01
   - State "DONE"       from "STARTED"    [2018-04-23 一 08:39]
   CLOCK: [2018-04-23 一 07:55]--[2018-04-23 一 08:39] =>  0:44
   - State "DONE"       from "STARTED"    [2018-04-22 日 07:17]
@@ -14137,4 +14146,10 @@ Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-22 日 07:17]
    CLOCK: [2018-04-22 日 05:25]--[2018-04-22 日 07:17] =>  1:52
+   :END:
+** DONE Lesson 29
+   CLOSED: [2018-04-24 二 15:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-24 二 15:04]
+   CLOCK: [2018-04-24 二 14:34]--[2018-04-24 二 15:04] =>  0:30
    :END:
