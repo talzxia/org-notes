@@ -6140,6 +6140,18 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-04-26 四 05:46]
    CLOCK: [2018-04-26 四 05:03]--[2018-04-26 四 05:46] =>  0:43
    :END:
+** DONE Review<2018-04-26 四 17:00>99%
+   CLOSED: [2018-04-26 四 17:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-26 四 17:29]
+   CLOCK: [2018-04-26 四 16:59]--[2018-04-26 四 17:29] =>  0:30
+   :END:
+** DONE Review<2018-04-27 五 07:36>99.1%
+   CLOSED: [2018-04-27 五 08:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-27 五 08:05]
+   CLOCK: [2018-04-27 五 07:35]--[2018-04-27 五 08:05] =>  0:30
+   :END:
 * lesson 5thirty
 ** DONE Review thirty 93.9%
    CLOSED: [2016-08-01 Mon 19:27]
@@ -10801,9 +10813,10 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2017-01-29 日 06:37]
    CLOCK: [2017-01-29 日 06:17]--[2017-01-29 日 06:37] =>  0:20
    :END:
-** DONE Writing
-   CLOSED: [2018-04-23 一 17:35]
+** STARTED Writing
    :LOGBOOK:
+   - State "STARTED"    from "DONE"       [2018-04-26 四 10:56]
+   CLOCK: [2018-04-26 四 10:56]--[2018-04-26 四 10:58] =>  0:02
    - State "DONE"       from "STARTED"    [2018-04-23 一 17:35]
    - State "STARTED"    from "DONE"       [2018-04-23 一 16:55]
    CLOCK: [2018-04-23 一 16:55]--[2018-04-23 一 17:35] =>  0:40
@@ -12513,9 +12526,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-04-27 五 06:30 +1d> SCHEDULED:<2018-04-27 五 06:00 +1d>
+   DEADLINE: <2018-04-28 六 06:30 +1d> SCHEDULED:<2018-04-28 六 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-26 四 05:50]
+   :LAST_REPEAT: [2018-04-27 五 21:34]
    :END:
 
    :PROPERTIES:
@@ -12525,6 +12538,7 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-27 五 21:34]
    - State "DONE"       from "STARTED"    [2018-04-26 四 05:50]
    CLOCK: [2018-04-26 四 05:47]--[2018-04-26 四 05:50] =>  0:03
    - State "DONE"       from "STARTED"    [2018-04-25 三 19:16]
@@ -14146,13 +14160,17 @@ I counted seven old cars and three old refrigerators.
 The litter baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins.
 Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecruted!
 '
-* STARTED [#B] Writing
-  SCHEDULED: <2018-04-26 四 06:00 .+1d> DEADLINE: <2018-04-26 四 05:30 .+1d>
+* TODO [#B] Writing
+  SCHEDULED: <2018-04-28 六 06:00 .+1d> DEADLINE: <2018-04-28 六 05:30 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-04-25 三 11:14]
+  :LAST_REPEAT: [2018-04-27 五 21:34]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-04-26 四 08:15]
+  - State "DONE"       from "STARTED"    [2018-04-27 五 21:34]
+  - State "DONE"       from "STARTED"    [2018-04-26 四 11:15]
+  CLOCK: [2018-04-26 四 10:58]--[2018-04-26 四 11:15] =>  0:17
+  - State "DONE"       from "STARTED"    [2018-04-26 四 08:37]
+  CLOCK: [2018-04-26 四 08:15]--[2018-04-26 四 08:37] =>  0:22
   - State "DONE"       from "STARTED"    [2018-04-25 三 11:14]
   CLOCK: [2018-04-25 三 08:54]--[2018-04-25 三 11:14] =>  2:20
   - State "DONE"       from "STARTED"    [2018-04-24 二 21:44]
