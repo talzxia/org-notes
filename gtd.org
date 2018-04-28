@@ -7925,8 +7925,12 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
 
 ** DONE [#B] sports meet
-   CLOSED: [2018-04-27 五 11:54]
+   CLOSED: [2018-04-28 六 11:22]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-04-28 六 11:22]
+   CLOCK: [2018-04-28 六 10:43]--[2018-04-28 六 11:22] =>  0:39
+   - State "STARTED"    from "DONE"       [2018-04-28 六 08:54]
+   CLOCK: [2018-04-28 六 08:54]--[2018-04-28 六 08:57] =>  0:03
    - State "DONE"       from "STARTED"    [2018-04-27 五 11:54]
    - State "STARTED"    from "DONE"       [2018-04-27 五 10:26]
    CLOCK: [2018-04-27 五 10:26]--[2018-04-27 五 11:54] =>  1:28
