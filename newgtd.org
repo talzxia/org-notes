@@ -1,10 +1,11 @@
 * eating
-** TODO [#B]breakfast
+** STARTED [#B]breakfast
 SCHEDULED: <2018-05-01 二 07:00 +1d> DEADLINE: <2018-05-01 二 07:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2018-04-30 一 14:58]
    :END:
    :LOGBOOK:
+   CLOCK: [2018-05-01 二 08:12]
    - State "DONE"       from "STARTED"    [2018-04-30 一 14:58]
    CLOCK: [2018-04-30 一 07:00]--[2018-04-30 一 07:30] =>  0:30
    - State "DONE"       from "STARTED"    [2018-04-29 日 09:01]
@@ -2579,16 +2580,17 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
-   DEADLINE: <2018-05-01 二 05:00 +1d> SCHEDULED: <2018-04-30 一 22:00 +1d>
+* TODO [#A] sleep
+   DEADLINE: <2018-05-02 三 05:00 +1d> SCHEDULED: <2018-05-01 二 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2018-04-30 一 14:54]
+  :LAST_REPEAT: [2018-05-01 二 05:31]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-04-30 一 21:04]
+  - State "DONE"       from "STARTED"    [2018-05-01 二 05:31]
+  CLOCK: [2018-04-30 一 21:04]--[2018-05-01 二 05:31] =>  8:27
   - State "DONE"       from "STARTED"    [2018-04-30 一 14:54]
   CLOCK: [2018-04-29 日 21:30]--[2018-04-30 一 06:30] =>  9:00
   - State "DONE"       from "STARTED"    [2018-04-29 日 08:51]
@@ -4136,11 +4138,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 
 * TODO [#B] handwriting
-  SCHEDULED: <2018-05-01 二 06:30 .+1d> DEADLINE: <2018-05-01 二 07:00 .+1d>
+  SCHEDULED: <2018-05-02 三 06:30 .+1d> DEADLINE: <2018-05-02 三 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-04-30 一 18:57]
+  :LAST_REPEAT: [2018-05-01 二 07:31]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-05-01 二 07:31]
+  CLOCK: [2018-05-01 二 06:51]--[2018-05-01 二 07:31] =>  0:40
   - State "DONE"       from "STARTED"    [2018-04-30 一 18:57]
   CLOCK: [2018-04-30 一 16:00]--[2018-04-30 一 16:37] =>  0:37
   - State "DONE"       from "STARTED"    [2018-04-29 日 09:02]
@@ -4935,6 +4939,8 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :LAST_REPEAT: [2018-04-30 一 14:46]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-05-01 二 07:31]--[2018-05-01 二 08:12] =>  0:41
+  CLOCK: [2018-05-01 二 06:25]--[2018-05-01 二 06:51] =>  0:26
   CLOCK: [2018-04-30 一 15:29]--[2018-04-30 一 16:48] =>  1:19
   - State "DONE"       from "STARTED"    [2018-04-30 一 14:46]
   - State "DONE"       from "STARTED"    [2018-04-30 一 14:46]
