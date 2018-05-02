@@ -6666,6 +6666,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-05-01 二 06:25]
    CLOCK: [2018-05-01 二 05:31]--[2018-05-01 二 06:25] =>  0:54
    :END:
+** DONE Review<2018-05-02 三 05:47>98.8%
+   CLOSED: [2018-05-02 三 06:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-02 三 06:29]
+   CLOCK: [2018-05-02 三 05:46]--[2018-05-02 三 06:29] =>  0:43
+   :END:
 * lesson 2thirty one
 ** DONE 复习 95.0%
    CLOSED: [2016-07-25 Mon 18:10]
@@ -12550,9 +12556,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-05-01 二 06:30 +1d> SCHEDULED:<2018-05-01 二 06:00 +1d>
+   DEADLINE: <2018-05-03 四 06:30 +1d> SCHEDULED:<2018-05-03 四 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-04-30 一 19:43]
+   :LAST_REPEAT: [2018-05-02 三 21:55]
    :END:
 
    :PROPERTIES:
@@ -12562,6 +12568,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-02 三 21:55]
+   - State "DONE"       from "STARTED"    [2018-05-01 二 21:44]
    - State "DONE"       from "STARTED"    [2018-04-30 一 19:43]
    - State "DONE"       from "STARTED"    [2018-04-30 一 14:46]
    - State "DONE"       from "STARTED"    [2018-04-29 日 08:37]
@@ -12749,11 +12757,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 ** TODO [#b] Words Book one
-  DEADLINE: <2018-05-02 三 08:30 +1m> SCHEDULED: <2018-05-02 三 08:00 +1m>
+  DEADLINE: <2018-06-02 六 08:30 +1m> SCHEDULED: <2018-06-02 六 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-03-05 一 14:43]
+  :LAST_REPEAT: [2018-05-02 三 21:54]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-05-02 三 21:54]
   - State "DONE"       from "STARTED"    [2018-03-05 一 14:43]
   CLOCK: [2018-03-05 一 14:27]--[2018-03-05 一 14:43] =>  0:16
   - State "DONE"       from "STARTED"    [2018-03-01 四 19:18]
@@ -14188,11 +14197,14 @@ The litter baskets were empty and the ground was covered with pieces of paper, c
 Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecruted!
 '
 * TODO [#B] Writing
-  SCHEDULED: <2018-05-01 二 06:00 .+1d> DEADLINE: <2018-05-01 二 05:30 .+1d>
+  SCHEDULED: <2018-05-03 四 06:00 .+1d> DEADLINE: <2018-05-03 四 05:30 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-04-30 一 19:43]
+  :LAST_REPEAT: [2018-05-02 三 10:42]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-05-02 三 10:42]
+  CLOCK: [2018-05-02 三 10:12]--[2018-05-02 三 10:42] =>  0:30
+  - State "DONE"       from "STARTED"    [2018-05-01 二 21:44]
   - State "DONE"       from "STARTED"    [2018-04-30 一 19:43]
   - State "DONE"       from "STARTED"    [2018-04-29 日 08:52]
   - State "DONE"       from "STARTED"    [2018-04-29 日 08:52]
