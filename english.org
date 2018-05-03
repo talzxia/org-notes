@@ -6672,6 +6672,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-05-02 三 06:29]
    CLOCK: [2018-05-02 三 05:46]--[2018-05-02 三 06:29] =>  0:43
    :END:
+** DONE Review<2018-05-04 五 05:10>98.8%
+   CLOSED: [2018-05-04 五 05:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-04 五 05:49]
+   CLOCK: [2018-05-04 五 05:10]--[2018-05-04 五 05:49] =>  0:39
+   :END:
 * lesson 2thirty one
 ** DONE 复习 95.0%
    CLOSED: [2016-07-25 Mon 18:10]
@@ -12556,9 +12562,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-05-03 四 06:30 +1d> SCHEDULED:<2018-05-03 四 06:00 +1d>
+   DEADLINE: <2018-05-05 六 06:30 +1d> SCHEDULED:<2018-05-05 六 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-05-02 三 21:55]
+   :LAST_REPEAT: [2018-05-04 五 05:54]
    :END:
 
    :PROPERTIES:
@@ -12568,6 +12574,9 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-04 五 05:54]
+   CLOCK: [2018-05-04 五 05:51]--[2018-05-04 五 05:54] =>  0:03
+   - State "DONE"       from "STARTED"    [2018-05-04 五 05:50]
    - State "DONE"       from "STARTED"    [2018-05-02 三 21:55]
    - State "DONE"       from "STARTED"    [2018-05-01 二 21:44]
    - State "DONE"       from "STARTED"    [2018-04-30 一 19:43]
@@ -14197,11 +14206,12 @@ The litter baskets were empty and the ground was covered with pieces of paper, c
 Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecruted!
 '
 * TODO [#B] Writing
-  SCHEDULED: <2018-05-03 四 06:00 .+1d> DEADLINE: <2018-05-03 四 05:30 .+1d>
+  SCHEDULED: <2018-05-05 六 06:00 .+1d> DEADLINE: <2018-05-05 六 05:30 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-05-02 三 10:42]
+  :LAST_REPEAT: [2018-05-04 五 05:51]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-05-04 五 05:51]
   - State "DONE"       from "STARTED"    [2018-05-02 三 10:42]
   CLOCK: [2018-05-02 三 10:12]--[2018-05-02 三 10:42] =>  0:30
   - State "DONE"       from "STARTED"    [2018-05-01 二 21:44]
