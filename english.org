@@ -12562,9 +12562,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-05-05 六 06:30 +1d> SCHEDULED:<2018-05-05 六 06:00 +1d>
+   DEADLINE: <2018-05-06 日 06:30 +1d> SCHEDULED:<2018-05-06 日 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-05-04 五 05:54]
+   :LAST_REPEAT: [2018-05-05 六 21:07]
    :END:
 
    :PROPERTIES:
@@ -12574,6 +12574,7 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-05 六 21:07]
    - State "DONE"       from "STARTED"    [2018-05-04 五 05:54]
    CLOCK: [2018-05-04 五 05:51]--[2018-05-04 五 05:54] =>  0:03
    - State "DONE"       from "STARTED"    [2018-05-04 五 05:50]
@@ -14205,11 +14206,12 @@ I counted seven old cars and three old refrigerators.
 The litter baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins.
 Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecruted!
 '
-* TODO [#B] Writing  SCHEDULED: <2018-05-05 六 06:00 .+1d> DEADLINE: <2018-05-05 六 05:30 .+1d>
+* TODO [#B] Writing  SCHEDULED: <2018-05-06 日 06:00 .+1d> DEADLINE: <2018-05-06 日 05:30 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-05-04 五 09:48]
+  :LAST_REPEAT: [2018-05-05 六 21:07]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-05-05 六 21:07]
   - State "DONE"       from "STARTED"    [2018-05-04 五 09:48]
   CLOCK: [2018-05-04 五 09:12]--[2018-05-04 五 09:48] =>  0:36
   - State "DONE"       from "STARTED"    [2018-05-04 五 05:51]
