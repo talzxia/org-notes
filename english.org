@@ -6684,6 +6684,24 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-05-06 日 06:07]
    CLOCK: [2018-05-06 日 05:24]--[2018-05-06 日 06:07] =>  0:43
    :END:
+** DONE Reading<2018-05-07 一 04:56>
+   CLOSED: [2018-05-07 一 05:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-07 一 05:20]
+   CLOCK: [2018-05-07 一 04:56]--[2018-05-07 一 05:20] =>  0:24
+   :END:
+** DONE Review<2018-05-07 一 05:21>99.3%
+   CLOSED: [2018-05-07 一 06:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-07 一 06:01]
+   CLOCK: [2018-05-07 一 05:21]--[2018-05-07 一 06:01] =>  0:40
+   :END:
+** DONE Review<2018-05-08 二 05:17>99.2%
+   CLOSED: [2018-05-08 二 05:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-08 二 05:58]
+   CLOCK: [2018-05-08 二 05:17]--[2018-05-08 二 05:58] =>  0:41
+   :END:
 * lesson 2thirty one
 ** DONE 复习 95.0%
    CLOSED: [2016-07-25 Mon 18:10]
@@ -12568,9 +12586,9 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-05-07 一 06:30 +1d> SCHEDULED:<2018-05-07 一 06:00 +1d>
+   DEADLINE: <2018-05-09 三 06:30 +1d> SCHEDULED:<2018-05-09 三 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-05-06 日 20:55]
+   :LAST_REPEAT: [2018-05-08 二 21:42]
    :END:
 
    :PROPERTIES:
@@ -12580,6 +12598,9 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-08 二 21:42]
+   - State "DONE"       from "STARTED"    [2018-05-07 一 07:23]
+   CLOCK: [2018-05-07 一 07:21]--[2018-05-07 一 07:23] =>  0:02
    - State "DONE"       from "STARTED"    [2018-05-06 日 20:55]
    - State "DONE"       from "STARTED"    [2018-05-05 六 21:07]
    - State "DONE"       from "STARTED"    [2018-05-04 五 05:54]
@@ -14213,11 +14234,14 @@ I counted seven old cars and three old refrigerators.
 The litter baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins.
 Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecruted!
 '
-* TODO [#B] Writing  SCHEDULED: <2018-05-07 一 06:00 .+1d> DEADLINE: <2018-05-07 一 05:30 .+1d>
+* TODO [#B] Writing  SCHEDULED: <2018-05-09 三 06:00 .+1d> DEADLINE: <2018-05-09 三 05:30 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-05-06 日 20:56]
+  :LAST_REPEAT: [2018-05-08 二 21:42]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-05-08 二 21:42]
+  - State "DONE"       from "STARTED"    [2018-05-07 一 15:02]
+  CLOCK: [2018-05-07 一 14:20]--[2018-05-07 一 15:02] =>  0:42
   - State "DONE"       from "STARTED"    [2018-05-06 日 20:56]
   - State "DONE"       from "STARTED"    [2018-05-05 六 21:07]
   - State "DONE"       from "STARTED"    [2018-05-04 五 09:48]
