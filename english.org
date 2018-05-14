@@ -7026,6 +7026,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-05-13 日 05:27]
    CLOCK: [2018-05-13 日 04:58]--[2018-05-13 日 05:27] =>  0:29
    :END:
+** DONE Review<2018-05-14 一 09:24>98.7%
+   CLOSED: [2018-05-14 一 09:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-14 一 09:51]
+   CLOCK: [2018-05-14 一 09:23]--[2018-05-14 一 09:51] =>  0:28
+   :END:
 * lesson 7thirty two
 ** DONE Review thirty two 95.5%
    CLOSED: [2016-08-02 Tue 18:46]
@@ -12604,11 +12610,15 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-05-14 一 06:30 +1d> SCHEDULED:<2018-05-14 一 06:00 +1d>
+   DEADLINE: <2018-05-15 二 06:30 +1d> SCHEDULED:<2018-05-15 二 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-05-13 日 21:38]
+   :LAST_REPEAT: [2018-05-14 一 20:23]
    :END:
-
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-14 一 20:23]
+   :END:
+* DONE [#B] Writing
+  CLOSED: [2018-05-14 一 17:34]
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-12 Mon 20:30]
    :END:
@@ -12616,6 +12626,8 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-14 一 17:34]
+   CLOCK: [2018-05-14 一 17:06]--[2018-05-14 一 17:34] =>  0:28
    - State "DONE"       from "STARTED"    [2018-05-13 日 21:38]
    - State "DONE"       from "STARTED"    [2018-05-12 六 06:39]
    CLOCK: [2018-05-12 六 06:07]--[2018-05-12 六 06:39] =>  0:32
@@ -14263,11 +14275,17 @@ I counted seven old cars and three old refrigerators.
 The litter baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins.
 Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecruted!
 '
-* TODO [#B] Writing  SCHEDULED: <2018-05-14 一 06:00 .+1d> DEADLINE: <2018-05-14 一 05:30 .+1d>
+  CLOSED: [2018-05-14 一 10:38]
   :PROPERTIES:
   :LAST_REPEAT: [2018-05-13 日 21:38]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-05-14 一 10:38]
+  - State "STARTED"    from "DONE"       [2018-05-14 一 09:52]
+  CLOCK: [2018-05-14 一 09:52]--[2018-05-14 一 10:38] =>  0:46
+  - State "MEETING"    from "CANCELLED"  [2018-05-14 一 07:49]
+  - State "SOMEDAY"    from "WAITING"    [2018-05-14 一 07:48]
+  - State "DONE"       from "STARTED"    [2018-05-14 一 07:47]
   - State "DONE"       from "STARTED"    [2018-05-13 日 21:38]
   - State "DONE"       from "STARTED"    [2018-05-12 六 20:45]
   - State "DONE"       from "STARTED"    [2018-05-11 五 19:12]
