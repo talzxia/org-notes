@@ -12616,11 +12616,13 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-05-15 二 06:30 +1d> SCHEDULED:<2018-05-15 二 06:00 +1d>
+   DEADLINE: <2018-05-16 三 06:30 +1d> SCHEDULED:<2018-05-16 三 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-05-14 一 20:23]
+   :LAST_REPEAT: [2018-05-15 二 14:30]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-15 二 14:30]
+   CLOCK: [2018-05-15 二 14:28]--[2018-05-15 二 14:30] =>  0:02
    - State "DONE"       from "STARTED"    [2018-05-14 一 20:23]
    :END:
 * DONE [#B] Writing
