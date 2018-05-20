@@ -1,10 +1,12 @@
 * TODO eating
 ** TODO [#B]breakfast
-SCHEDULED: <2018-05-20 日 07:00 +1d> DEADLINE: <2018-05-20 日 07:40 +1d>
+SCHEDULED: <2018-05-21 一 07:00 +1d> DEADLINE: <2018-05-21 一 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-05-19 六 08:23]
+   :LAST_REPEAT: [2018-05-20 日 08:53]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-20 日 08:53]
+   CLOCK: [2018-05-20 日 08:09]--[2018-05-20 日 08:53] =>  0:44
    - State "DONE"       from "STARTED"    [2018-05-19 六 08:23]
    CLOCK: [2018-05-19 六 07:37]--[2018-05-19 六 08:23] =>  0:46
    - State "DONE"       from "STARTED"    [2018-05-18 五 07:04]
@@ -715,11 +717,12 @@ SCHEDULED: <2018-05-20 日 07:00 +1d> DEADLINE: <2018-05-20 日 07:40 +1d>
 
 
 ** TODO [#A]lunch
-SCHEDULED: <2018-05-20 日 11:40 +1d> DEADLINE: <2018-05-20 日 13:40 +1d>
+SCHEDULED: <2018-05-21 一 11:40 +1d> DEADLINE: <2018-05-21 一 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-05-19 六 14:28]
+   :LAST_REPEAT: [2018-05-20 日 14:40]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-20 日 14:40]
    - State "DONE"       from "STARTED"    [2018-05-19 六 14:28]
    CLOCK: [2018-05-19 六 12:09]--[2018-05-19 六 14:28] =>  2:19
    - State "DONE"       from "STARTED"    [2018-05-18 五 13:52]
@@ -1379,11 +1382,13 @@ SCHEDULED: <2018-05-20 日 11:40 +1d> DEADLINE: <2018-05-20 日 13:40 +1d>
 13:50-14:30检查
 
 ** TODO [#B] dinner
-   DEADLINE: <2018-05-20 日 18:40 +1d> SCHEDULED: <2018-05-21 一 17:40 +1d>
+   DEADLINE: <2018-05-21 一 18:40 +1d> SCHEDULED: <2018-05-22 二 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-05-19 六 21:41]
+   :LAST_REPEAT: [2018-05-20 日 19:44]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-20 日 19:44]
+   CLOCK: [2018-05-20 日 17:28]--[2018-05-20 日 19:44] =>  2:16
    - State "DONE"       from "STARTED"    [2018-05-19 六 21:41]
    CLOCK: [2018-05-19 六 18:07]--[2018-05-19 六 21:41] =>  3:34
    - State "DONE"       from "STARTED"    [2018-05-18 五 21:49]
@@ -2685,15 +2690,17 @@ clean up spending 15 minutes
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
 * STARTED [#A] sleep
-   DEADLINE: <2018-05-20 日 05:00 +1d> SCHEDULED: <2018-05-19 六 22:00 +1d>
+   DEADLINE: <2018-05-21 一 05:00 +1d> SCHEDULED: <2018-05-20 日 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2018-05-19 六 06:20]
+  :LAST_REPEAT: [2018-05-20 日 06:46]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-05-19 六 21:41]
+  CLOCK: [2018-05-20 日 21:42]
+  - State "DONE"       from "STARTED"    [2018-05-20 日 06:46]
+  CLOCK: [2018-05-19 六 21:41]--[2018-05-20 日 06:46] =>  9:05
   - State "DONE"       from "STARTED"    [2018-05-19 六 06:20]
   CLOCK: [2018-05-18 五 21:49]--[2018-05-19 六 06:20] =>  8:31
   - State "DONE"       from "STARTED"    [2018-05-18 五 07:03]
@@ -3929,11 +3936,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 * TODO [#A] clean office
-  DEADLINE: [2018-05-18 五 07:50 +1d] SCHEDULED: <2018-05-20 日 08:20 +1d>
+  DEADLINE: [2018-05-18 五 07:50 +1d] SCHEDULED: <2018-05-21 一 08:20 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-05-19 六 18:06]
+  :LAST_REPEAT: [2018-05-20 日 07:13]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-05-20 日 07:13]
   - State "DONE"       from "STARTED"    [2018-05-19 六 18:06]
   - State "DONE"       from "STARTED"    [2018-05-18 五 07:51]
   CLOCK: [2018-05-18 五 07:36]--[2018-05-18 五 07:51] =>  0:15
@@ -4311,11 +4319,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 
 * TODO [#B] handwriting
-  SCHEDULED: <2018-05-20 日 06:30 .+1d> DEADLINE: <2018-05-20 日 07:00 .+1d>
+  SCHEDULED: <2018-05-21 一 06:30 .+1d> DEADLINE: <2018-05-21 一 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-05-19 六 18:06]
+  :LAST_REPEAT: [2018-05-20 日 15:11]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-05-20 日 15:11]
+  CLOCK: [2018-05-20 日 14:40]--[2018-05-20 日 15:11] =>  0:31
   - State "DONE"       from "STARTED"    [2018-05-19 六 18:06]
   - State "DONE"       from "STARTED"    [2018-05-18 五 08:43]
   CLOCK: [2018-05-18 五 07:51]--[2018-05-18 五 08:43] =>  0:52
@@ -4797,11 +4807,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2018-05-20 日 09:00 .+1d> DEADLINE: <2018-05-20 日 08:00 .+1d>
+   SCHEDULED: <2018-05-21 一 09:00 .+1d> DEADLINE: <2018-05-21 一 08:00 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-05-19 六 16:55]
+   :LAST_REPEAT: [2018-05-20 日 19:44]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-20 日 19:44]
    - State "DONE"       from "STARTED"    [2018-05-19 六 16:55]
    CLOCK: [2018-05-19 六 16:42]--[2018-05-19 六 16:55] =>  0:13
    - State "DONE"       from "STARTED"    [2018-05-18 五 15:52]
@@ -5009,11 +5020,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
 ** TODO [#b] Copy (a model of calligraphy)
-   SCHEDULED: <2018-05-20 日 09:00 +1d> DEADLINE: <2018-05-20 日 08:00 +1d>
+   SCHEDULED: <2018-05-21 一 09:00 +1d> DEADLINE: <2018-05-21 一 08:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-05-19 六 18:06]
+   :LAST_REPEAT: [2018-05-20 日 21:22]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-20 日 21:22]
+   CLOCK: [2018-05-20 日 21:13]--[2018-05-20 日 21:22] =>  0:09
    - State "DONE"       from "STARTED"    [2018-05-19 六 18:06]
    CLOCK: [2018-05-19 六 17:41]--[2018-05-19 六 18:06] =>  0:25
    - State "DONE"       from "STARTED"    [2018-05-18 五 17:17]
@@ -5192,11 +5205,17 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
 
 
 * TODO [#B] browse news and free learn
-  DEADLINE: <2018-05-20 日 08:30 .+1d> SCHEDULED: <2018-05-20 日 08:20 .+1d>
+  DEADLINE: <2018-05-21 一 08:30 .+1d> SCHEDULED: <2018-05-21 一 08:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-05-19 六 21:41]
+  :LAST_REPEAT: [2018-05-20 日 21:42]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-05-20 日 21:42]
+  CLOCK: [2018-05-20 日 21:22]--[2018-05-20 日 21:42] =>  0:20
+  CLOCK: [2018-05-20 日 19:45]--[2018-05-20 日 21:13] =>  1:28
+  CLOCK: [2018-05-20 日 15:11]--[2018-05-20 日 17:28] =>  2:17
+  CLOCK: [2018-05-20 日 08:53]--[2018-05-20 日 09:00] =>  0:07
+  CLOCK: [2018-05-20 日 07:13]--[2018-05-20 日 08:09] =>  0:56
   - State "DONE"       from "STARTED"    [2018-05-19 六 21:41]
   CLOCK: [2018-05-19 六 16:55]--[2018-05-19 六 17:41] =>  0:46
   CLOCK: [2018-05-19 六 14:29]--[2018-05-19 六 16:42] =>  2:13
