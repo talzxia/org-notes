@@ -7565,6 +7565,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-05-21 一 05:47]
    CLOCK: [2018-05-21 一 05:15]--[2018-05-21 一 05:47] =>  0:32
    :END:
+** DONE Review<2018-05-21 一 19:10>99.3%
+   CLOSED: [2018-05-21 一 19:37]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-21 一 19:37]
+   CLOCK: [2018-05-21 一 19:09]--[2018-05-21 一 19:37] =>  0:28
+   :END:
 * lesson 17thirty four
 ** DONE Review<2017-10-29 日 20:50>98.4%
    CLOSED: [2017-10-29 日 21:14]
@@ -12646,11 +12652,13 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-05-21 一 06:30 +1d> SCHEDULED:<2018-05-21 一 06:00 +1d>
+   DEADLINE: <2018-05-22 二 06:30 +1d> SCHEDULED:<2018-05-22 二 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-05-20 日 21:22]
+   :LAST_REPEAT: [2018-05-21 一 19:39]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-05-21 一 19:39]
+   CLOCK: [2018-05-21 一 19:38]--[2018-05-21 一 19:39] =>  0:01
    - State "DONE"       from "STARTED"    [2018-05-20 日 21:22]
    - State "DONE"       from "STARTED"    [2018-05-19 六 21:41]
    - State "DONE"       from "STARTED"    [2018-05-18 五 17:17]
