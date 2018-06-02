@@ -12718,11 +12718,12 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-06-02 六 06:30 +1d> SCHEDULED:<2018-06-02 六 06:00 +1d>
+   DEADLINE: <2018-06-03 日 06:30 +1d> SCHEDULED:<2018-06-03 日 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-06-01 五 21:25]
+   :LAST_REPEAT: [2018-06-02 六 21:43]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-06-02 六 21:43]
    - State "DONE"       from "STARTED"    [2018-06-01 五 21:25]
    - State "DONE"       from "STARTED"    [2018-05-31 四 21:39]
    - State "DONE"       from "STARTED"    [2018-05-30 三 21:22]
@@ -12963,11 +12964,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 ** TODO [#b] Words Book one
-  DEADLINE: <2018-06-02 六 08:30 +1m> SCHEDULED: <2018-06-02 六 08:00 +1m>
+  DEADLINE: <2018-07-02 一 08:30 +1m> SCHEDULED: <2018-07-02 一 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-05-02 三 21:54]
+  :LAST_REPEAT: [2018-06-02 六 21:43]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-06-02 六 21:43]
   - State "DONE"       from "STARTED"    [2018-05-02 三 21:54]
   - State "DONE"       from "STARTED"    [2018-03-05 一 14:43]
   CLOCK: [2018-03-05 一 14:27]--[2018-03-05 一 14:43] =>  0:16
