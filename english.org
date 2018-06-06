@@ -8436,6 +8436,12 @@ CLOCK: [2017-10-23 一 05:53]--[2017-10-23 一 06:25] =>  0:32
    - State "DONE"       from "STARTED"    [2018-06-05 Tue 21:23]
    CLOCK: [2018-06-05 Tue 21:01]--[2018-06-05 Tue 21:23] =>  0:22
    :END:
+** DONE Reveiw<2018-06-06 Wed 04:51>99.5%
+   CLOSED: [2018-06-06 Wed 05:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-06-06 Wed 05:14]
+   CLOCK: [2018-06-06 Wed 04:51]--[2018-06-06 Wed 05:14] =>  0:23
+   :END:
 * lesson 11thirty seven
 ** DONE Review<2017-10-25 三 04:49>98.8%
    CLOSED: [2017-10-25 三 05:17]
@@ -12742,11 +12748,14 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-06-06 三 06:30 +1d> SCHEDULED:<2018-06-06 三 06:00 +1d>
+   DEADLINE: <2018-06-09 Sat 06:30 +1d> SCHEDULED:<2018-06-09 Sat 06:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-06-05 二 09:18]
+   :LAST_REPEAT: [2018-06-06 Wed 11:48]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-06-06 Wed 11:48]
+   - State "DONE"       from "STARTED"    [2018-06-06 Wed 11:48]
+   - State "DONE"       from "STARTED"    [2018-06-06 Wed 11:48]
    - State "DONE"       from "STARTED"    [2018-06-05 二 09:18]
    - State "DONE"       from "STARTED"    [2018-06-04 一 11:16]
    - State "DONE"       from "STARTED"    [2018-06-03 日 20:16]
@@ -12774,7 +12783,7 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-05-14 一 20:23]
    :END:
 * DONE [#B] Writing
-  CLOSED: [2018-06-04 一 10:17]
+  CLOSED: [2018-06-06 Wed 08:32]
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-12 Mon 20:30]
    :END:
@@ -12782,6 +12791,9 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-06-06 Wed 08:32]
+   - State "STARTED"    from "DONE"       [2018-06-06 Wed 08:04]
+   CLOCK: [2018-06-06 Wed 08:04]--[2018-06-06 Wed 08:32] =>  0:28
    - State "DONE"       from "STARTED"    [2018-06-04 一 10:17]
    - State "STARTED"    from "DONE"       [2018-06-04 一 08:52]
    CLOCK: [2018-06-04 一 08:52]--[2018-06-04 一 10:17] =>  1:25
