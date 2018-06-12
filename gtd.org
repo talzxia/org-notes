@@ -1198,8 +1198,11 @@ Award），这个奖项是由世界科幻协会（World Science Fiction Society�
    :END:
 
 ** DONE [#B] meeting
-   CLOSED: [2017-10-31 二 15:38]
+   CLOSED: [2018-06-12 Tue 21:18]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-06-12 Tue 21:18]
+   - State "STARTED"    from "DONE"       [2018-06-12 Tue 18:37]
+   CLOCK: [2018-06-12 Tue 18:37]--[2018-06-12 Tue 19:45] =>  1:08
    - State "DONE"       from "STARTED"    [2017-10-31 二 15:38]
    - State "STARTED"    from "DONE"       [2017-10-31 二 14:18]
    CLOCK: [2017-10-31 二 14:18]--[2017-10-31 二 15:38] =>  1:20
@@ -10310,11 +10313,13 @@ read two books about a hundred pages
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-13 二 11:15]
    :END:
-*** TODO [#A]<2018-06-12 Tue 15:40-17:00 +1w>                       :meeting:
+*** TODO [#A]<2018-06-19 Tue 15:40-17:00 +1w>                       :meeting:
     :PROPERTIES:
-    :LAST_REPEAT: [2018-06-05 Tue 16:59]
+    :LAST_REPEAT: [2018-06-12 Tue 16:42]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-06-12 Tue 16:42]
+    CLOCK: [2018-06-12 Tue 16:00]--[2018-06-12 Tue 16:42] =>  0:42
     - State "DONE"       from "STARTED"    [2018-06-05 Tue 16:59]
     - State "DONE"       from "STARTED"    [2018-06-05 Tue 16:58]
     CLOCK: [2018-06-05 Tue 15:57]--[2018-06-05 Tue 16:58] =>  1:01
