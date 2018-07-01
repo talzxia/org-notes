@@ -7158,8 +7158,11 @@ CLOSED: [2017-10-22 日 20:45]
    :END:
 
 ** DONE [#B] to relax in nature
-   CLOSED: [2018-05-20 日 14:39]
+   CLOSED: [2018-07-01 Sun 15:35]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-07-01 Sun 15:35]
+   - State "STARTED"    from "DONE"       [2018-07-01 Sun 09:39]
+   CLOCK: [2018-07-01 Sun 09:39]--[2018-07-01 Sun 15:35] =>  5:56
    - State "DONE"       from "STARTED"    [2018-05-20 日 14:39]
    - State "STARTED"    from "DONE"       [2018-05-20 日 09:00]
    CLOCK: [2018-05-20 日 09:00]--[2018-05-20 日 14:39] =>  5:39
@@ -7181,6 +7184,7 @@ CLOSED: [2017-10-22 日 20:45]
    - State "DONE"       from "STARTED"    [2017-07-29 六 13:28]
    CLOCK: [2017-07-29 六 11:44]--[2017-07-29 六 13:28] =>  1:44
    :END:
+
 
 ** DONE [#B] relax go outdoors
    CLOSED: [2017-08-03 四 17:39]
