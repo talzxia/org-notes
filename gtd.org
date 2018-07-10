@@ -10320,11 +10320,12 @@ read two books about a hundred pages
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-06-13 二 11:15]
    :END:
-*** TODO [#A]<2018-07-10 Tue 15:40-17:00 +1w>                       :meeting:
+*** TODO [#A]<2018-07-17 Tue 15:40-17:00 +1w>                       :meeting:
     :PROPERTIES:
-    :LAST_REPEAT: [2018-07-03 Tue 18:16]
+    :LAST_REPEAT: [2018-07-10 Tue 18:48]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-07-10 Tue 18:48]
     - State "DONE"       from "STARTED"    [2018-07-03 Tue 18:16]
     - State "DONE"       from "STARTED"    [2018-06-26 Tue 21:39]
     - State "DONE"       from "STARTED"    [2018-06-19 Tue 18:15]
