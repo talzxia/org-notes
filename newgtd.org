@@ -1,10 +1,12 @@
 * TODO eating
 ** TODO [#B]breakfast
-SCHEDULED: <2018-07-26 Thu 07:00 +1d> DEADLINE: <2018-07-26 Thu 07:40 +1d>
+SCHEDULED: <2018-07-27 Fri 07:00 +1d> DEADLINE: <2018-07-27 Fri 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-07-25 Wed 09:51]
+   :LAST_REPEAT: [2018-07-26 Thu 15:28]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-07-26 Thu 15:28]
+   CLOCK: [2018-07-26 Thu 07:45]--[2018-07-26 Thu 15:28] =>  7:43
    - State "DONE"       from "STARTED"    [2018-07-25 Wed 09:51]
    CLOCK: [2018-07-25 Wed 07:49]--[2018-07-25 Wed 09:51] =>  2:02
    - State "DONE"       from "STARTED"    [2018-07-24 Tue 17:28]
@@ -1610,11 +1612,13 @@ SCHEDULED: <2018-07-27 Fri 11:40 +1d> DEADLINE: <2018-07-27 Fri 13:40 +1d>
 13:50-14:30检查
 
 ** TODO [#B] dinner
-   DEADLINE: <2018-07-26 Thu 18:40 +1d> SCHEDULED: <2018-07-27 Fri 17:40 +1d>
+   DEADLINE: <2018-07-27 Fri 18:40 +1d> SCHEDULED: <2018-07-28 Sat 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-07-25 Wed 21:57]
+   :LAST_REPEAT: [2018-07-26 Thu 21:44]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-07-26 Thu 21:44]
+   CLOCK: [2018-07-26 Thu 18:05]--[2018-07-26 Thu 21:44] =>  3:39
    - State "DONE"       from "STARTED"    [2018-07-25 Wed 21:57]
    - State "DONE"       from "STARTED"    [2018-07-24 Tue 21:42]
    - State "DONE"       from "STARTED"    [2018-07-23 Mon 19:01]
@@ -3024,15 +3028,17 @@ clean up spending 15 minutes
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
 * STARTED [#A] sleep
-   DEADLINE: <2018-07-26 Thu 05:00 +1d> SCHEDULED: <2018-07-25 Wed 22:00 +1d>
+   DEADLINE: <2018-07-27 Fri 05:00 +1d> SCHEDULED: <2018-07-26 Thu 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2018-07-25 Wed 06:24]
+  :LAST_REPEAT: [2018-07-26 Thu 05:21]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-07-25 Wed 21:57]
+  CLOCK: [2018-07-26 Thu 21:45]
+  - State "DONE"       from "STARTED"    [2018-07-26 Thu 05:21]
+  CLOCK: [2018-07-25 Wed 21:57]--[2018-07-26 Thu 05:21] =>  7:24
   - State "DONE"       from "STARTED"    [2018-07-25 Wed 06:24]
   CLOCK: [2018-07-24 Tue 21:43]--[2018-07-25 Wed 06:24] =>  8:41
   - State "DONE"       from "STARTED"    [2018-07-24 Tue 05:16]
@@ -4873,11 +4879,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 
 * TODO [#B] handwriting
-  SCHEDULED: <2018-07-26 Thu 06:30 .+1d> DEADLINE: <2018-07-26 Thu 07:00 .+1d>
+  SCHEDULED: <2018-07-27 Fri 06:30 .+1d> DEADLINE: <2018-07-27 Fri 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-07-25 Wed 21:57]
+  :LAST_REPEAT: [2018-07-26 Thu 21:44]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-07-26 Thu 21:44]
   - State "DONE"       from "STARTED"    [2018-07-25 Wed 21:57]
   - State "DONE"       from "STARTED"    [2018-07-24 Tue 17:29]
   - State "DONE"       from "STARTED"    [2018-07-24 Tue 17:29]
@@ -5923,11 +5930,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
 
 
 * TODO [#B] browse news and free learn
-  DEADLINE: <2018-07-26 Thu 08:30 .+1d> SCHEDULED: <2018-07-26 Thu 08:20 .+1d>
+  DEADLINE: <2018-07-27 Fri 08:30 .+1d> SCHEDULED: <2018-07-27 Fri 08:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-07-25 Wed 21:57]
+  :LAST_REPEAT: [2018-07-26 Thu 21:45]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-07-26 Thu 21:45]
   - State "DONE"       from "STARTED"    [2018-07-25 Wed 21:57]
   CLOCK: [2018-07-25 Wed 09:51]--[2018-07-25 Wed 12:45] =>  2:54
   - State "DONE"       from "STARTED"    [2018-07-24 Tue 21:42]
@@ -7278,11 +7286,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 10:31]--[2017-10-23 一 10:47] =>  0:16
   :END:
 * TODO [#B]practice
-  DEADLINE: <2018-07-26 Thu 13:40 +1d> SCHEDULED: <2018-07-26 Thu 17:00 +1d>
+  DEADLINE: <2018-07-27 Fri 13:40 +1d> SCHEDULED: <2018-07-27 Fri 17:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-07-25 Wed 12:44]
+  :LAST_REPEAT: [2018-07-26 Thu 18:04]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-07-26 Thu 18:04]
+  CLOCK: [2018-07-26 Thu 15:28]--[2018-07-26 Thu 18:04] =>  2:36
   - State "DONE"       from "STARTED"    [2018-07-25 Wed 12:44]
   - State "DONE"       from "STARTED"    [2018-07-24 Tue 17:47]
   - State "DONE"       from "STARTED"    [2018-07-23 Mon 16:00]
@@ -7734,11 +7744,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-24 二 14:09]
   :END:
 * TODO [#B] training
-  DEADLINE: <2018-07-26 Thu 20:00 +1w> SCHEDULED: <2018-07-26 Thu 19:00 +1w>
+  DEADLINE: <2018-08-02 Thu 20:00 +1w> SCHEDULED: <2018-08-02 Thu 19:00 +1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-07-19 Thu 21:28]
+  :LAST_REPEAT: [2018-07-26 Thu 21:44]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-07-26 Thu 21:44]
   - State "DONE"       from "STARTED"    [2018-07-19 Thu 21:28]
   - State "DONE"       from "STARTED"    [2018-07-12 Thu 19:39]
   - State "DONE"       from "STARTED"    [2018-07-05 Thu 22:28]
@@ -8538,11 +8549,93 @@ take my daugher to jinan
   CLOCK: [2018-04-14 六 08:09]--[2018-04-14 六 15:22] =>  7:13
   :END:
 * DONE [#A] Test learn
-  CLOSED: [2018-07-25 Wed 07:48]
+  CLOSED: [2018-07-26 Thu 07:34]
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-07-26 Thu 07:34]
+  - State "STARTED"    from "DONE"       [2018-07-26 Thu 05:21]
+  CLOCK: [2018-07-26 Thu 05:21]--[2018-07-26 Thu 07:34] =>  2:13
   - State "DONE"       from "STARTED"    [2018-07-25 Wed 07:48]
   - State "STARTED"    from "DONE"       [2018-07-25 Wed 06:24]
   CLOCK: [2018-07-25 Wed 06:24]--[2018-07-25 Wed 07:48] =>  1:24
   - State "DONE"       from "STARTED"    [2018-07-24 Tue 17:46]
   CLOCK: [2018-07-24 Tue 17:31]--[2018-07-24 Tue 17:46] =>  0:15
   :END:
+* test
+** Wrong
+3 2020年，是建成小康的决战期。（错，时间错）
+11 实现高等教育外延式发展 （错 内涵发展）
+2 辞职申请，一般人员30日，领导干部90日
+13 公务员兼职，不可领取报酬。
+15 公务员血亲，不能在同一单位直接隶属于同一领导下任职。
+16 公务员晋升领导职务，必须进行公示（错，不是视情况）
+17 考核不称职，降低一个职务层次
+20 公务员只能在内部交流（错，可以在类公务员管理所有岗位）
+21 公务员降级、撤职后，原级别、职务自动恢复（错，）
+22 公务员被辞退，可以有辞退费及享受失业保险
+23 因公致殘，不能辞退。
+24 旷工15天，或一年累计30天，辞退。
+25 公务员职务与级别对应 国家规定 非省级
+31 监察机关管辖有争议，同上级监察机关决定（错，共同上级监察机关决定）
+36 通辑应上报有决定权的上级监察机关（错）
+37 （错）有决定权的
+39 （错）职务违法、犯罪，配合而非共同
+45 （错）只要挪用公款，就构成犯罪。
+54 （错）警告不影响岗位及合格考核
+63 （错）事业单位本单位可以作出开除决定
+70 （错）举办展会可以的
+71 （错）不能进行评比达标
+74 （错）可以组织境外培训
+78 （错）只能使用一处办公用房
+79 （错）可以租用办公用房
+82 （错）非所有的，可以公开的公开
+84 （错）不能进行评比达标
+85 （错）预算可以追加
+86 （错）有些执法车不宜喷涂统一标志
+91（错）可以改变办公用房功能
+92 （错）适宜公开的公开，非所有
+96 （错）党纪政纪处分（分别或语法错误）
+99 （错）办公用房项目一律不准
+100 （错）没收卖
+106 （错）陪餐人数10人以内3人
+107 （错）不能承担自行承担的费用
+108 （错）可能选乘飞机
+110 （错）单位及纪委管
+112 （错）非公务活动不接待
+114 （错）个人可以出版著作
+121 （错）涉及子女回避
+124 （错）价值不大的不交出，非受贿
+129 （错）机关人员受处分，影响职务、级别晋升
+130 （错）开除处分不存在提前解除
+132 （错）违法违纪必须处分
+135 （错）决定后报
+136 （错）按规定处理，而非开除
+140 （错）两种处分，分别执行
+141 （错）责任追究执行，同时可以申诉
+145 （错）处分期满不能自动解除
+147 （错）判刑必开
+150 （错）组织处理及纪律处理同时进行
+154 （错）单位处理
+155 （错）
+161 （错）个人申报事项，由组织及纪委核实
+164 （错）个人申报事项，由组织及纪委负责
+166 （错）只要不退
+167 （错）主管部门受理
+170 （错）管理权限
+175 （错）人民行使权力人民代表大会
+177 （错）我国现行宪法：序言、总纲、公民权力及义务、国家机关、国家标志
+180 （错）最高权力机关是人大
+181 （错）部分职权
+191 （错）人大人员专职，不能兼任其它
+193 （错）本级及上级
+197 （错）
+200 （错）上级规定
+6 （错）非公有制经济非主体
+** 单选
+8 稳中求进的总基调
+10 与时俱进的理论品格
+** 多选
+2 职务 级别
+6 越级晋升 优秀 特殊需要
+8 工勤及事业单位不属于公务员
+60 解除处分条件 悔改 没有再违纪
+65 处分 法定程序 法定事由
