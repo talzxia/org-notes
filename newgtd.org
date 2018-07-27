@@ -1,10 +1,12 @@
 * TODO eating
 ** TODO [#B]breakfast
-SCHEDULED: <2018-07-27 Fri 07:00 +1d> DEADLINE: <2018-07-27 Fri 07:40 +1d>
+SCHEDULED: <2018-07-28 Sat 07:00 +1d> DEADLINE: <2018-07-28 Sat 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-07-26 Thu 15:28]
+   :LAST_REPEAT: [2018-07-27 Fri 14:17]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-07-27 Fri 14:17]
+   CLOCK: [2018-07-27 Fri 07:54]--[2018-07-27 Fri 14:17] =>  6:23
    - State "DONE"       from "STARTED"    [2018-07-26 Thu 15:28]
    CLOCK: [2018-07-26 Thu 07:45]--[2018-07-26 Thu 15:28] =>  7:43
    - State "DONE"       from "STARTED"    [2018-07-25 Wed 09:51]
@@ -835,11 +837,12 @@ SCHEDULED: <2018-07-27 Fri 07:00 +1d> DEADLINE: <2018-07-27 Fri 07:40 +1d>
 
 
 ** TODO [#A]lunch
-SCHEDULED: <2018-07-27 Fri 11:40 +1d> DEADLINE: <2018-07-27 Fri 13:40 +1d>
+SCHEDULED: <2018-07-28 Sat 11:40 +1d> DEADLINE: <2018-07-28 Sat 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-07-25 Wed 19:48]
+   :LAST_REPEAT: [2018-07-27 Fri 14:17]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-07-27 Fri 14:17]
    - State "DONE"       from "STARTED"    [2018-07-25 Wed 19:48]
    CLOCK: [2018-07-25 Wed 12:45]--[2018-07-25 Wed 19:48] =>  7:03
    - State "DONE"       from "STARTED"    [2018-07-24 Tue 17:47]
@@ -1612,11 +1615,13 @@ SCHEDULED: <2018-07-27 Fri 11:40 +1d> DEADLINE: <2018-07-27 Fri 13:40 +1d>
 13:50-14:30检查
 
 ** TODO [#B] dinner
-   DEADLINE: <2018-07-27 Fri 18:40 +1d> SCHEDULED: <2018-07-28 Sat 17:40 +1d>
+   DEADLINE: <2018-07-28 Sat 18:40 +1d> SCHEDULED: <2018-07-29 Sun 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-07-26 Thu 21:44]
+   :LAST_REPEAT: [2018-07-27 Fri 20:58]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-07-27 Fri 20:58]
+   CLOCK: [2018-07-27 Fri 15:28]--[2018-07-27 Fri 20:58] =>  5:30
    - State "DONE"       from "STARTED"    [2018-07-26 Thu 21:44]
    CLOCK: [2018-07-26 Thu 18:05]--[2018-07-26 Thu 21:44] =>  3:39
    - State "DONE"       from "STARTED"    [2018-07-25 Wed 21:57]
@@ -3028,15 +3033,17 @@ clean up spending 15 minutes
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
 * STARTED [#A] sleep
-   DEADLINE: <2018-07-27 Fri 05:00 +1d> SCHEDULED: <2018-07-26 Thu 22:00 +1d>
+   DEADLINE: <2018-07-28 Sat 05:00 +1d> SCHEDULED: <2018-07-27 Fri 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2018-07-26 Thu 05:21]
+  :LAST_REPEAT: [2018-07-27 Fri 06:12]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-07-26 Thu 21:45]
+  CLOCK: [2018-07-27 Fri 21:50]
+  - State "DONE"       from "STARTED"    [2018-07-27 Fri 06:12]
+  CLOCK: [2018-07-26 Thu 21:45]--[2018-07-27 Fri 06:12] =>  8:27
   - State "DONE"       from "STARTED"    [2018-07-26 Thu 05:21]
   CLOCK: [2018-07-25 Wed 21:57]--[2018-07-26 Thu 05:21] =>  7:24
   - State "DONE"       from "STARTED"    [2018-07-25 Wed 06:24]
@@ -4400,11 +4407,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 * TODO [#A] clean office
-  DEADLINE: [2018-07-20 Fri 07:50 +1d] SCHEDULED: <2018-07-27 Fri 08:20 +1d>
+  DEADLINE: [2018-07-20 Fri 07:50 +1d] SCHEDULED: <2018-07-28 Sat 08:20 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-07-24 Tue 17:29]
+  :LAST_REPEAT: [2018-07-27 Fri 14:17]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-07-27 Fri 14:17]
   - State "DONE"       from "STARTED"    [2018-07-24 Tue 17:29]
   - State "DONE"       from "STARTED"    [2018-07-24 Tue 17:29]
   - State "DONE"       from "STARTED"    [2018-07-24 Tue 17:29]
@@ -4879,11 +4887,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 
 * TODO [#B] handwriting
-  SCHEDULED: <2018-07-27 Fri 06:30 .+1d> DEADLINE: <2018-07-27 Fri 07:00 .+1d>
+  SCHEDULED: <2018-07-28 Sat 06:30 .+1d> DEADLINE: <2018-07-28 Sat 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-07-26 Thu 21:44]
+  :LAST_REPEAT: [2018-07-27 Fri 20:58]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-07-27 Fri 20:58]
   - State "DONE"       from "STARTED"    [2018-07-26 Thu 21:44]
   - State "DONE"       from "STARTED"    [2018-07-25 Wed 21:57]
   - State "DONE"       from "STARTED"    [2018-07-24 Tue 17:29]
@@ -5930,11 +5939,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
 
 
 * TODO [#B] browse news and free learn
-  DEADLINE: <2018-07-27 Fri 08:30 .+1d> SCHEDULED: <2018-07-27 Fri 08:20 .+1d>
+  DEADLINE: <2018-07-28 Sat 08:30 .+1d> SCHEDULED: <2018-07-28 Sat 08:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-07-26 Thu 21:45]
+  :LAST_REPEAT: [2018-07-27 Fri 21:50]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-07-27 Fri 21:50]
+  CLOCK: [2018-07-27 Fri 20:59]--[2018-07-27 Fri 21:50] =>  0:51
   - State "DONE"       from "STARTED"    [2018-07-26 Thu 21:45]
   - State "DONE"       from "STARTED"    [2018-07-25 Wed 21:57]
   CLOCK: [2018-07-25 Wed 09:51]--[2018-07-25 Wed 12:45] =>  2:54
@@ -7286,11 +7297,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 10:31]--[2017-10-23 一 10:47] =>  0:16
   :END:
 * TODO [#B]practice
-  DEADLINE: <2018-07-27 Fri 13:40 +1d> SCHEDULED: <2018-07-27 Fri 17:00 +1d>
+  DEADLINE: <2018-07-28 Sat 13:40 +1d> SCHEDULED: <2018-07-28 Sat 17:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-07-26 Thu 18:04]
+  :LAST_REPEAT: [2018-07-27 Fri 15:28]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-07-27 Fri 15:28]
   - State "DONE"       from "STARTED"    [2018-07-26 Thu 18:04]
   CLOCK: [2018-07-26 Thu 15:28]--[2018-07-26 Thu 18:04] =>  2:36
   - State "DONE"       from "STARTED"    [2018-07-25 Wed 12:44]
@@ -8549,8 +8561,14 @@ take my daugher to jinan
   CLOCK: [2018-04-14 六 08:09]--[2018-04-14 六 15:22] =>  7:13
   :END:
 * DONE [#A] Test learn
-  CLOSED: [2018-07-26 Thu 07:34]
+  CLOSED: [2018-07-27 Fri 15:19]
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-07-27 Fri 15:19]
+  - State "STARTED"    from "DONE"       [2018-07-27 Fri 14:17]
+  CLOCK: [2018-07-27 Fri 14:17]--[2018-07-27 Fri 15:19] =>  1:02
+  - State "DONE"       from "STARTED"    [2018-07-27 Fri 14:17]
+  - State "STARTED"    from "DONE"       [2018-07-27 Fri 06:12]
+  CLOCK: [2018-07-27 Fri 06:12]--[2018-07-27 Fri 07:54] =>  1:42
   - State "DONE"       from "STARTED"    [2018-07-26 Thu 07:34]
   - State "STARTED"    from "DONE"       [2018-07-26 Thu 05:21]
   CLOCK: [2018-07-26 Thu 05:21]--[2018-07-26 Thu 07:34] =>  2:13
@@ -8639,3 +8657,31 @@ take my daugher to jinan
 8 工勤及事业单位不属于公务员
 60 解除处分条件 悔改 没有再违纪
 65 处分 法定程序 法定事由
+** 一
+33 中国精神 中国力量
+36 紧紧围绕党同人民群众的血肉联系
+10 根本政治前提和制度基础
+11 行政体制改革 监察体制改革 司法体制改革
+13 上下主体问题 知 存 守 下级
+14 统一指挥 全面覆盖 权威高效
+15 除科学思维
+17 深化改革的总目标是
+完善和发展中国特色社会主义制度
+推进国家治理体系和治理能力现代化
+25 除个人主义（形式主义 官僚主义 享乐主义）
+26 三大历史任务 建设 统一 共同发展
+29 保护 尊重 顺应自然
+31 提倡 简约适度 绿色低碳的生活方式
+32 耕地红线早已划定
+33 听党指挥 能打胜仗 作风优良
+34 新型政商关系 亲 清
+37 坚持 德才兼备 以德为先 五湖四海 任人为贤 事业为上 公道正派
+38 激励机制 容错纠错机制
+39 世界观 价值观 人生观
+40 压倒性态势 压倒性胜利
+41 党内存在 思想不纯 组织不纯 作用不纯（道德不纯不是）
+42 坚持党的中央权威和集中统一领导
+44 圈子文化 宗派主义 码头文化
+45 四风 特权思想 特权现象
+57 坚持 党的领导 人民当家作主 依法治国
+59 除金融风险
