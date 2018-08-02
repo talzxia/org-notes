@@ -9818,6 +9818,12 @@ w<2017-10-19 四 05:46>99%
    - State "DONE"       from "STARTED"    [2018-07-11 Wed 05:45]
    CLOCK: [2018-07-11 Wed 05:18]--[2018-07-11 Wed 05:45] =>  0:27
    :END:
+** DONE Review <2018-08-02 Thu 05:11>99.1%
+   CLOSED: [2018-08-02 Thu 05:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-08-02 Thu 05:41]
+   CLOCK: [2018-08-02 Thu 05:11]--[2018-08-02 Thu 05:41] =>  0:30
+   :END:
 * lesson 27forty one
 ** DONE Review e 95.9% igh 95.9%t 95.9%
    CLOSED: [2016-08-06 六 21:15]
@@ -12967,8 +12973,8 @@ A notebook is finished.
    CLOCK: [2018-05-15 二 14:28]--[2018-05-15 二 14:30] =>  0:02
    - State "DONE"       from "STARTED"    [2018-05-14 一 20:23]
    :END:
-* DONE [#B] Writing
-  CLOSED: [2018-06-08 Fri 08:39]
+* DONE [#B]Writing
+  CLOSED: [2018-08-02 Thu 20:23]
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-12 Mon 20:30]
    :END:
@@ -12976,6 +12982,9 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-08-02 Thu 20:23]
+   - State "STARTED"    from "DONE"       [2018-08-02 Thu 19:28]
+   CLOCK: [2018-08-02 Thu 19:28]--[2018-08-02 Thu 20:23] =>  0:55
    - State "DONE"       from "STARTED"    [2018-06-08 Fri 08:39]
    - State "STARTED"    from "DONE"       [2018-06-08 Fri 08:08]
    CLOCK: [2018-06-08 Fri 08:08]--[2018-06-08 Fri 08:39] =>  0:31
@@ -13193,12 +13202,14 @@ A notebook is finished.
    CLOCK: [2018-01-29 Mon 06:05]--[2018-01-29 Mon 06:24] =>  0:19
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
-** TODO [#b] Words Book one
-  DEADLINE: <2018-08-02 Thu 08:30 +1m> SCHEDULED: <2018-08-02 Thu 08:00 +1m>
+* TODO [#b] Words Book one
+  DEADLINE: <2018-09-02 Sun 08:30 +1m> SCHEDULED: <2018-09-02 Sun 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-07-02 Mon 21:57]
+  :LAST_REPEAT: [2018-08-02 Thu 15:56]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-08-02 Thu 15:56]
+  CLOCK: [2018-08-02 Thu 15:38]--[2018-08-02 Thu 15:56] =>  0:18
   - State "DONE"       from "STARTED"    [2018-07-02 Mon 21:57]
   - State "DONE"       from "STARTED"    [2018-06-02 六 21:43]
   - State "DONE"       from "STARTED"    [2018-05-02 三 21:54]
