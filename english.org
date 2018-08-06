@@ -10191,6 +10191,12 @@ w<2017-10-19 四 05:46>99%
    - State "DONE"       from "STARTED"    [2018-08-05 Sun 20:43]
    CLOCK: [2018-08-05 Sun 20:20]--[2018-08-05 Sun 20:43] =>  0:23
    :END:
+** DONE Review<2018-08-06 Mon 05:21>99.6%
+   CLOSED: [2018-08-06 Mon 05:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-08-06 Mon 05:46]
+   CLOCK: [2018-08-06 Mon 05:21]--[2018-08-06 Mon 05:46] =>  0:25
+   :END:
 ** DONE writing<2018-08-04 Sat 18:44>
    CLOSED: [2018-08-05 Sun 11:51]
    :LOGBOOK:
@@ -10465,6 +10471,12 @@ Arrange student internship
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-03-06 二 20:07]
    CLOCK: [2018-03-06 二 19:44]--[2018-03-06 二 20:07] =>  0:23
+   :END:
+** DONE Review<2018-08-06 Mon 05:46>98.5%
+   CLOSED: [2018-08-06 Mon 06:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-08-06 Mon 06:13]
+   CLOCK: [2018-08-06 Mon 05:46]--[2018-08-06 Mon 06:13] =>  0:27
    :END:
 * lesson 28forty three
 ** DONE Review 94.8%
