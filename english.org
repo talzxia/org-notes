@@ -10478,6 +10478,30 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2018-08-06 Mon 06:13]
    CLOCK: [2018-08-06 Mon 05:46]--[2018-08-06 Mon 06:13] =>  0:27
    :END:
+** DONE Review<2018-08-07 Tue 05:42>99.1%
+   CLOSED: [2018-08-07 Tue 06:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-08-07 Tue 06:06]
+   CLOCK: [2018-08-07 Tue 05:42]--[2018-08-07 Tue 06:06] =>  0:24
+   :END:
+** DONE Review<2018-08-07 Tue 18:10>99.2%
+   CLOSED: [2018-08-07 Tue 18:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-08-07 Tue 18:33]
+   CLOCK: [2018-08-07 Tue 18:09]--[2018-08-07 Tue 18:33] =>  0:24
+   :END:
+** DONE loud read<2018-08-07 Tue 05:28>
+   CLOSED: [2018-08-07 Tue 05:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-08-07 Tue 05:42]
+   CLOCK: [2018-08-07 Tue 05:28]--[2018-08-07 Tue 05:42] =>  0:14
+   :END:
+** DONE Writing<2018-08-07 Tue 17:21>
+   CLOSED: [2018-08-07 Tue 18:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-08-07 Tue 18:09]
+   CLOCK: [2018-08-07 Tue 17:21]--[2018-08-07 Tue 18:09] =>  0:48
+   :END:
 * lesson 28forty three
 ** DONE Review 94.8%
    CLOSED: [2016-08-23 二 5:44]
