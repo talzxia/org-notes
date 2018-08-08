@@ -10490,9 +10490,18 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2018-08-07 Tue 18:33]
    CLOCK: [2018-08-07 Tue 18:09]--[2018-08-07 Tue 18:33] =>  0:24
    :END:
-** DONE loud read<2018-08-07 Tue 05:28>
-   CLOSED: [2018-08-07 Tue 05:42]
+** DONE Review<2018-08-08 Wed 05:35>99.6%
+   CLOSED: [2018-08-08 Wed 05:59]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-08-08 Wed 05:59]
+   CLOCK: [2018-08-08 Wed 05:35]--[2018-08-08 Wed 05:59] =>  0:24
+   :END:
+** DONE loud read<2018-08-07 Tue 05:28>
+   CLOSED: [2018-08-08 Wed 05:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-08-08 Wed 05:35]
+   - State "STARTED"    from "DONE"       [2018-08-08 Wed 05:22]
+   CLOCK: [2018-08-08 Wed 05:22]--[2018-08-08 Wed 05:35] =>  0:13
    - State "DONE"       from "STARTED"    [2018-08-07 Tue 05:42]
    CLOCK: [2018-08-07 Tue 05:28]--[2018-08-07 Tue 05:42] =>  0:14
    :END:
