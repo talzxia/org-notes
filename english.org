@@ -13469,11 +13469,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 * TODO [#b] Words Book one
-  DEADLINE: <2018-09-02 Sun 08:30 +1m> SCHEDULED: <2018-09-02 Sun 08:00 +1m>
+  DEADLINE: <2018-10-02 Tue 08:30 +1m> SCHEDULED: <2018-10-02 Tue 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-08-02 Thu 15:56]
+  :LAST_REPEAT: [2018-09-02 Sun 15:53]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-09-02 Sun 15:53]
   - State "DONE"       from "STARTED"    [2018-08-02 Thu 15:56]
   CLOCK: [2018-08-02 Thu 15:38]--[2018-08-02 Thu 15:56] =>  0:18
   - State "DONE"       from "STARTED"    [2018-07-02 Mon 21:57]
