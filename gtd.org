@@ -7975,6 +7975,13 @@ CLOSED: [2017-10-22 日 20:46]
    CLOCK: [2018-08-04 Sat 08:37]--[2018-08-04 Sat 15:56] =>  7:19
    :END:
 
+** DONE [#B] 新生专业教育
+   CLOSED: [2018-09-04 Tue 20:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-09-04 Tue 20:11]
+   CLOCK: [2018-09-04 Tue 18:59]--[2018-09-04 Tue 19:47] =>  0:48
+   :END:
+
 * DONE [#B]看望任淑君老师
 <<<<<<< Updated upstream
 * Workspace
@@ -10323,15 +10330,18 @@ read two books about a hundred pages
     CLOCK: [2017-06-04 Sun 09:21]--[2017-06-04 Sun 11:12] =>  1:51
     :END:
 ** DONE meeting
-   CLOSED: [2017-06-13 二 11:15]
+   CLOSED: [2018-09-04 Tue 17:10]
    :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2018-09-04 Tue 17:10]
    - State "DONE"       from "STARTED"    [2017-06-13 二 11:15]
    :END:
-*** TODO [#A]<2018-09-04 Tue 15:40-17:00 +1w>                       :meeting:
+*** TODO [#A]<2018-09-11 Tue 15:40-17:00 +1w>                       :meeting:
     :PROPERTIES:
-    :LAST_REPEAT: [2018-08-28 Tue 09:57]
+    :LAST_REPEAT: [2018-09-04 Tue 17:10]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-09-04 Tue 17:10]
+    CLOCK: [2018-09-04 Tue 15:40]--[2018-09-04 Tue 17:10] =>  1:30
     - State "DONE"       from "STARTED"    [2018-08-28 Tue 09:57]
     CLOCK: [2018-08-28 Tue 08:20]--[2018-08-28 Tue 09:57] =>  1:37
     - State "DONE"       from "STARTED"    [2018-08-22 Wed 10:07]
