@@ -1198,9 +1198,15 @@ Award），这个奖项是由世界科幻协会（World Science Fiction Society�
    :END:
 
 ** DONE [#B] meeting
-   CLOSED: [2018-06-12 Tue 21:18]
+   CLOSED: [2018-09-05 Wed 11:50]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-09-05 Wed 11:50]
+   - State "STARTED"    from "DONE"       [2018-09-05 Wed 09:55]
+   CLOCK: [2018-09-05 Wed 09:55]--[2018-09-05 Wed 11:50] =>  1:55
    - State "DONE"       from "STARTED"    [2018-06-12 Tue 21:18]
+   -工作责任分工
+   - 重大问题议事程序
+   - 评选先进上报研究
    - State "STARTED"    from "DONE"       [2018-06-12 Tue 18:37]
    CLOCK: [2018-06-12 Tue 18:37]--[2018-06-12 Tue 19:45] =>  1:08
    - State "DONE"       from "STARTED"    [2017-10-31 二 15:38]
