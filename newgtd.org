@@ -1,10 +1,12 @@
 * TODO eating
 ** TODO [#B]breakfast
-SCHEDULED: <2018-09-06 Thu 07:00 +1d> DEADLINE: <2018-09-06 Thu 07:40 +1d>
+SCHEDULED: <2018-09-07 Fri 07:00 +1d> DEADLINE: <2018-09-07 Fri 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-09-05 Wed 19:51]
+   :LAST_REPEAT: [2018-09-06 Thu 08:13]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-09-06 Thu 08:13]
+   CLOCK: [2018-09-06 Thu 06:53]--[2018-09-06 Thu 08:13] =>  1:20
    - State "DONE"       from "STARTED"    [2018-09-05 Wed 19:51]
    - State "DONE"       from "STARTED"    [2018-09-04 Tue 07:59]
    CLOCK: [2018-09-04 Tue 06:59]--[2018-09-04 Tue 07:59] =>  1:00
@@ -3243,16 +3245,17 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
-   DEADLINE: <2018-09-06 Thu 05:00 +1d> SCHEDULED: <2018-09-05 Wed 22:00 +1d>
+* TODO [#A] sleep
+   DEADLINE: <2018-09-07 Fri 05:00 +1d> SCHEDULED: <2018-09-06 Thu 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2018-09-05 Wed 07:23]
+  :LAST_REPEAT: [2018-09-06 Thu 05:32]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-09-05 Wed 20:51]
+  - State "DONE"       from "STARTED"    [2018-09-06 Thu 05:32]
+  CLOCK: [2018-09-05 Wed 20:51]--[2018-09-06 Thu 05:32] =>  8:41
   - State "DONE"       from "STARTED"    [2018-09-05 Wed 07:23]
   CLOCK: [2018-09-04 Tue 21:57]--[2018-09-05 Wed 07:23] =>  9:26
   - State "DONE"       from "STARTED"    [2018-09-04 Tue 05:54]
@@ -4698,11 +4701,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 * TODO [#A] clean office
-  DEADLINE: [2018-07-20 Fri 07:50 +1d] SCHEDULED: <2018-09-06 Thu 08:20 +1d>
+  DEADLINE: [2018-07-20 Fri 07:50 +1d] SCHEDULED: <2018-09-07 Fri 08:20 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-09-05 Wed 09:35]
+  :LAST_REPEAT: [2018-09-06 Thu 10:32]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-09-06 Thu 10:32]
   - State "DONE"       from "STARTED"    [2018-09-05 Wed 09:35]
   CLOCK: [2018-09-05 Wed 07:49]--[2018-09-05 Wed 09:35] =>  1:46
   - State "DONE"       from "STARTED"    [2018-09-04 Tue 09:24]
@@ -5263,11 +5267,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 
 * TODO [#B] handwriting
-  SCHEDULED: <2018-09-06 Thu 06:30 .+1d> DEADLINE: <2018-09-06 Thu 07:00 .+1d>
+  SCHEDULED: <2018-09-07 Fri 06:30 .+1d> DEADLINE: <2018-09-07 Fri 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-09-05 Wed 19:51]
+  :LAST_REPEAT: [2018-09-06 Thu 06:52]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-09-06 Thu 06:52]
+  CLOCK: [2018-09-06 Thu 06:23]--[2018-09-06 Thu 06:52] =>  0:29
   - State "DONE"       from "STARTED"    [2018-09-05 Wed 19:51]
   - State "DONE"       from "STARTED"    [2018-09-04 Tue 10:24]
   CLOCK: [2018-09-04 Tue 09:24]--[2018-09-04 Tue 10:24] =>  1:00
@@ -6479,12 +6485,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* TODO [#B] browse news and free learn
+* STARTED [#B] browse news and free learn
   DEADLINE: <2018-09-06 Thu 08:30 .+1d> SCHEDULED: <2018-09-06 Thu 08:20 .+1d>
   :PROPERTIES:
   :LAST_REPEAT: [2018-09-05 Wed 19:51]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-09-06 Thu 06:20]--[2018-09-06 Thu 06:23] =>  0:03
   - State "DONE"       from "STARTED"    [2018-09-05 Wed 19:51]
   CLOCK: [2018-09-05 Wed 09:35]--[2018-09-05 Wed 09:55] =>  0:20
   - State "DONE"       from "STARTED"    [2018-09-04 Tue 21:56]
@@ -7581,12 +7588,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 08:15]--[2017-10-23 一 10:29] =>  2:14
   :END:
 高龙寅、王院长来检查8：30至10：30两个小时。
-* TODO [#B] check teaching
+* STARTED [#B] check teaching
   DEADLINE: <2018-09-06 Thu 10:00 +1d> SCHEDULED: <2018-09-06 Thu 09:30 +1d>
   :PROPERTIES:
   :LAST_REPEAT: [2018-09-05 Wed 17:34]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-09-06 Thu 10:33]
   - State "DONE"       from "STARTED"    [2018-09-05 Wed 17:34]
   CLOCK: [2018-09-05 Wed 14:32]--[2018-09-05 Wed 17:34] =>  3:02
   - State "DONE"       from "STARTED"    [2018-09-04 Tue 20:08]
@@ -13240,3 +13248,9 @@ BCD
 164 地方各级人民政府 是权力机关的执行机关
 165 监察委员会的组织及职权 由法律规定
 166 监察委员会 是监察机关
+* DONE test <2018-09-06 Thu 05:30>
+  CLOSED: [2018-09-06 Thu 09:44]
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-09-06 Thu 09:44]
+  CLOCK: [2018-09-06 Thu 09:43]--[2018-09-06 Thu 09:44] =>  0:01
+  :END:
