@@ -3254,16 +3254,17 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
-   DEADLINE: <2018-09-08 Sat 05:00 +1d> SCHEDULED: <2018-09-07 Fri 22:00 +1d>
+* TODO [#A] sleep
+   DEADLINE: <2018-09-09 Sun 05:00 +1d> SCHEDULED: <2018-09-08 Sat 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2018-09-07 Fri 05:23]
+  :LAST_REPEAT: [2018-09-08 Sat 05:30]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2018-09-07 Fri 21:22]
+  - State "DONE"       from "STARTED"    [2018-09-08 Sat 05:30]
+  CLOCK: [2018-09-07 Fri 21:22]--[2018-09-08 Sat 05:30] =>  8:08
   - State "DONE"       from "STARTED"    [2018-09-07 Fri 05:23]
   CLOCK: [2018-09-06 Thu 21:58]--[2018-09-07 Fri 05:23] =>  7:25
   - State "DONE"       from "STARTED"    [2018-09-06 Thu 05:32]
@@ -6506,12 +6507,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* TODO [#B] browse news and free learn
+* STARTED [#B] browse news and free learn
   DEADLINE: <2018-09-08 Sat 08:30 .+1d> SCHEDULED: <2018-09-08 Sat 08:20 .+1d>
   :PROPERTIES:
   :LAST_REPEAT: [2018-09-07 Fri 21:22]
   :END:
   :LOGBOOK:
+  CLOCK: [2018-09-08 Sat 05:47]
   - State "DONE"       from "STARTED"    [2018-09-07 Fri 21:22]
   CLOCK: [2018-09-07 Fri 05:42]--[2018-09-07 Fri 07:08] =>  1:26
   - State "DONE"       from "STARTED"    [2018-09-06 Thu 21:57]
