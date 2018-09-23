@@ -5769,6 +5769,18 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2018-04-22 日 17:08]
    CLOCK: [2018-04-22 日 16:47]--[2018-04-22 日 17:08] =>  0:21
    :END:
+** DONE Review<2018-09-23 Sun 07:29>98%
+   CLOSED: [2018-09-23 Sun 07:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-09-23 Sun 07:58]
+   CLOCK: [2018-09-23 Sun 07:29]--[2018-09-23 Sun 07:58] =>  0:29
+   :END:
+** DONE Review<2018-09-23 Sun 20:28>99.4%
+   CLOSED: [2018-09-23 Sun 20:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-09-23 Sun 20:50]
+   CLOCK: [2018-09-23 Sun 20:28]--[2018-09-23 Sun 20:50] =>  0:22
+   :END:
 * lesson 50twenty eight
 ** DONE Review twenty eight 95.3%
    CLOSED: [2016-08-13 Sat 14:39]
@@ -13314,11 +13326,12 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   DEADLINE: <2018-09-23 Sun 06:30 +1m> SCHEDULED:<2018-09-23 Sun 06:00 +1m>
+   SCHEDULED:<2018-10-23 Tue 06:00 +1m>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-08-23 Thu 21:17]
+   :LAST_REPEAT: [2018-09-23 Sun 14:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-09-23 Sun 14:32]
    - State "DONE"       from "STARTED"    [2018-08-23 Thu 21:17]
    - State "DONE"       from "STARTED"    [2018-07-23 Mon 16:10]
    - State "DONE"       from "STARTED"    [2018-07-22 Sun 21:37]
