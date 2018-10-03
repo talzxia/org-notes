@@ -71,6 +71,12 @@
    - State "DONE"       from "STARTED"    [2018-04-04 三 05:59]
    CLOCK: [2018-04-04 三 05:45]--[2018-04-04 三 05:59] =>  0:14
    :END:
+** DONE Review<2018-10-03 Wed 05:49>99.7%
+   CLOSED: [2018-10-03 Wed 06:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-03 Wed 06:01]
+   CLOCK: [2018-10-03 Wed 05:49]--[2018-10-03 Wed 06:01] =>  0:12
+   :END:
 * lesson 43two
 ** DONE Review<2017-11-06 一 05:42>99.6%
    CLOSED: [2017-11-06 一 05:54]
@@ -213,6 +219,12 @@
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-04 三 06:12]
    CLOCK: [2018-04-04 三 06:00]--[2018-04-04 三 06:12] =>  0:12
+   :END:
+** DONE Review<2018-10-03 Wed 06:02>99.9%
+   CLOSED: [2018-10-03 Wed 06:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-03 Wed 06:14]
+   CLOCK: [2018-10-03 Wed 06:02]--[2018-10-03 Wed 06:14] =>  0:12
    :END:
 * lesson 44three
 ** DONE Review<2017-11-06 一 05:54>99.2%
@@ -392,6 +404,18 @@
    - State "DONE"       from "STARTED"    [2018-04-04 三 16:31]
    CLOCK: [2018-04-04 三 16:16]--[2018-04-04 三 16:31] =>  0:15
    :END:
+** DONE Review<2018-10-03 Wed 06:14>99.2%
+   CLOSED: [2018-10-03 Wed 06:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-03 Wed 06:30]
+   CLOCK: [2018-10-03 Wed 06:14]--[2018-10-03 Wed 06:30] =>  0:16
+   :END:
+** DONE Review<2018-10-03 Wed 08:33>99.8%
+   CLOSED: [2018-10-03 Wed 08:49]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-03 Wed 08:49]
+   CLOCK: [2018-10-03 Wed 08:33]--[2018-10-03 Wed 08:49] =>  0:16
+   :END:
 * lesson 32four
 ** DONE Review<2017-10-29 日 06:38>99.7%
    CLOSED: [2017-10-29 日 06:55]
@@ -532,6 +556,12 @@
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-08 日 05:14]
    CLOCK: [2018-04-08 日 04:58]--[2018-04-08 日 05:14] =>  0:16
+   :END:
+** DONE Review<2018-10-03 Wed 08:50>99.7%
+   CLOSED: [2018-10-03 Wed 10:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-03 Wed 10:23]
+   CLOCK: [2018-10-03 Wed 08:50]--[2018-10-03 Wed 10:23] =>  1:33
    :END:
 * lesson 37five
 ** DONE Review 95.8%-->97.6%
@@ -754,6 +784,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2018-04-05 四 04:50]
    CLOCK: [2018-04-05 四 04:32]--[2018-04-05 四 04:50] =>  0:18
    :END:
+** DONE Review<2018-10-03 Wed 10:23>99.5%
+   CLOSED: [2018-10-03 Wed 10:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-03 Wed 10:41]
+   CLOCK: [2018-10-03 Wed 10:23]--[2018-10-03 Wed 10:41] =>  0:18
+   :END:
 * lesson 40six
 ** DONE Review<2017-11-06 一 05:24>99.3%
    CLOSED: [2017-11-06 一 05:40]
@@ -921,6 +957,24 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-05 四 05:09]
    CLOCK: [2018-04-05 四 04:53]--[2018-04-05 四 05:09] =>  0:16
+   :END:
+** DONE Review<2018-10-03 Wed 10:41>99.3%
+   CLOSED: [2018-10-03 Wed 10:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-03 Wed 10:57]
+   CLOCK: [2018-10-03 Wed 10:41]--[2018-10-03 Wed 10:57] =>  0:16
+   :END:
+** DONE Review<2018-10-03 Wed 16:01>99.4%
+   CLOSED: [2018-10-03 Wed 16:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-03 Wed 16:16]
+   CLOCK: [2018-10-03 Wed 16:00]--[2018-10-03 Wed 16:16] =>  0:16
+   :END:
+** DONE Review<2018-10-03 Wed 19:39>99.3%
+   CLOSED: [2018-10-03 Wed 19:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-03 Wed 19:54]
+   CLOCK: [2018-10-03 Wed 19:39]--[2018-10-03 Wed 19:54] =>  0:15
    :END:
 * lesson 39seven
 ** DONE Review 99.1%
@@ -11111,6 +11165,12 @@ Arrange student internship
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-10-02 Tue 21:16]
    CLOCK: [2018-10-02 Tue 20:53]--[2018-10-02 Tue 21:16] =>  0:23
+   :END:
+** DONE Review<2018-10-03 Wed 05:22>99.6%
+   CLOSED: [2018-10-03 Wed 05:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-03 Wed 05:47]
+   CLOCK: [2018-10-03 Wed 05:22]--[2018-10-03 Wed 05:47] =>  0:25
    :END:
 * lesson 24forty four
 ** DONE Review 94%
