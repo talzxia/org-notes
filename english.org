@@ -1352,6 +1352,17 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2018-10-04 Thu 06:39]
    CLOCK: [2018-10-04 Thu 06:23]--[2018-10-04 Thu 06:39] =>  0:16
    :END:
+** DONE Review<2018-10-05 Fri 15:12>99.1%
+   CLOSED: [2018-10-05 Fri 20:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-05 Fri 20:22]
+   :END:
+** DONE Review<2018-10-05 Fri 20:24>99.4%
+   CLOSED: [2018-10-05 Fri 20:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-05 Fri 20:40]
+   CLOCK: [2018-10-05 Fri 20:23]--[2018-10-05 Fri 20:40] =>  0:17
+   :END:
 * lesson 20nine
 ** DONE Review Nine 99.0% very good
    CLOSED: [2016-07-26 Tue 18:29]
