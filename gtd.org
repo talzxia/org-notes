@@ -10341,11 +10341,12 @@ read two books about a hundred pages
    - State "DONE"       from "WAITING"    [2018-09-04 Tue 17:10]
    - State "DONE"       from "STARTED"    [2017-06-13 二 11:15]
    :END:
-*** TODO [#A]<2018-10-16 Tue 15:40-17:00 +1w>                       :meeting:
+*** TODO [#A]<2018-10-23 Tue 15:40-17:00 +1w>                       :meeting:
     :PROPERTIES:
-    :LAST_REPEAT: [2018-10-09 Tue 16:16]
+    :LAST_REPEAT: [2018-10-16 Tue 02:50]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "STARTED"    [2018-10-16 Tue 02:50]
     - State "DONE"       from "STARTED"    [2018-10-09 Tue 16:16]
     CLOCK: [2018-10-09 Tue 15:29]--[2018-10-09 Tue 16:16] =>  0:47
     - State "DONE"       from "STARTED"    [2018-10-02 Tue 15:50]
