@@ -2846,6 +2846,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2018-10-17 Wed 18:11]
    CLOCK: [2018-10-17 Wed 17:52]--[2018-10-17 Wed 18:11] =>  0:19
    :END:
+** DONE Review<2018-10-18 Thu 05:47>99.7%
+   CLOSED: [2018-10-18 Thu 06:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-18 Thu 06:05]
+   CLOCK: [2018-10-18 Thu 05:47]--[2018-10-18 Thu 06:05] =>  0:18
+   :END:
 * lesson 48fifteen
 ** DONE Review 97.3%
    CLOSED: [2016-08-22 一 21:09]
@@ -3062,6 +3068,18 @@ listen to happy music
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-11 三 05:11]
    CLOCK: [2018-04-11 三 04:54]--[2018-04-11 三 05:11] =>  0:17
+   :END:
+** DONE Review<2018-10-18 Thu 06:06>98.7%
+   CLOSED: [2018-10-18 Thu 06:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-18 Thu 06:23]
+   CLOCK: [2018-10-18 Thu 06:05]--[2018-10-18 Thu 06:23] =>  0:18
+   :END:
+** DONE Review<2018-10-18 Thu 20:26>99.5%
+   CLOSED: [2018-10-18 Thu 20:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-18 Thu 20:42]
+   CLOCK: [2018-10-18 Thu 20:25]--[2018-10-18 Thu 20:42] =>  0:17
    :END:
 * lesson 42sixteen
 ** DONE Review 97.2%
@@ -3349,6 +3367,12 @@ listen to happy music
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-12 四 05:10]
    CLOCK: [2018-04-12 四 04:54]--[2018-04-12 四 05:10] =>  0:16
+   :END:
+** DONE Review<2018-10-18 Thu 20:43>98.4%
+   CLOSED: [2018-10-18 Thu 20:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-18 Thu 20:57]
+   CLOCK: [2018-10-18 Thu 20:42]--[2018-10-18 Thu 20:57] =>  0:15
    :END:
 * lesson 45seventeen
 ** DONE Review seventeen 97.6%
