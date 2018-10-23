@@ -3602,6 +3602,12 @@ listen to happy music
    - State "DONE"       from "STARTED"    [2018-10-22 Mon 06:44]
    CLOCK: [2018-10-22 Mon 06:27]--[2018-10-22 Mon 06:44] =>  0:17
    :END:
+** DONE Review<2018-10-23 Tue 05:10>99.8%
+   CLOSED: [2018-10-23 Tue 05:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-23 Tue 05:27]
+   CLOCK: [2018-10-23 Tue 05:10]--[2018-10-23 Tue 05:27] =>  0:17
+   :END:
 * lesson 4eighteen
 ** DONE Review 97.2%
    CLOSED: [2016-08-25 四 03:44]
@@ -3804,6 +3810,12 @@ listen to happy music
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-12 四 21:03]
    CLOCK: [2018-04-12 四 20:44]--[2018-04-12 四 21:03] =>  0:19
+   :END:
+** DONE Review<2018-10-23 Tue 05:27>99.5%
+   CLOSED: [2018-10-23 Tue 05:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-23 Tue 05:47]
+   CLOCK: [2018-10-23 Tue 05:27]--[2018-10-23 Tue 05:47] =>  0:20
    :END:
 * lesson 3nineteen
 ** DONE Review 96.7%
@@ -4038,6 +4050,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-13 五 05:51]
    CLOCK: [2018-04-13 五 05:34]--[2018-04-13 五 05:51] =>  0:17
+   :END:
+** DONE Review<2018-10-23 Tue 18:53>98.2%
+   CLOSED: [2018-10-23 Tue 19:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-23 Tue 19:10]
+   CLOCK: [2018-10-23 Tue 18:52]--[2018-10-23 Tue 19:10] =>  0:18
    :END:
 * lesson 16twenty
 ** DONE Review twenty 96.9%
@@ -13859,11 +13877,12 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   SCHEDULED:<2018-10-23 Tue 06:00 +1m>
+   SCHEDULED:<2018-11-23 Fri 06:00 +1m>
    :PROPERTIES:
-   :LAST_REPEAT: [2018-09-23 Sun 14:32]
+   :LAST_REPEAT: [2018-10-23 Tue 07:10]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-23 Tue 07:10]
    - State "DONE"       from "STARTED"    [2018-09-23 Sun 14:32]
    - State "DONE"       from "STARTED"    [2018-08-23 Thu 21:17]
    - State "DONE"       from "STARTED"    [2018-07-23 Mon 16:10]
