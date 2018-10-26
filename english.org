@@ -4069,6 +4069,18 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2018-10-24 Wed 06:51]
    CLOCK: [2018-10-24 Wed 06:34]--[2018-10-24 Wed 06:51] =>  0:17
    :END:
+** DONE Review<2018-10-26 Fri 05:51>99.4%
+   CLOSED: [2018-10-26 Fri 06:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-26 Fri 06:08]
+   CLOCK: [2018-10-26 Fri 05:51]--[2018-10-26 Fri 06:08] =>  0:17
+   :END:
+** DONE Review<2018-10-26 Fri 06:09>99.8%
+   CLOSED: [2018-10-26 Fri 06:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-26 Fri 06:25]
+   CLOCK: [2018-10-26 Fri 06:08]--[2018-10-26 Fri 06:25] =>  0:17
+   :END:
 * lesson 16twenty
 ** DONE Review twenty 96.9%
    CLOSED: [2016-08-10 Wed 15:29]
@@ -4340,6 +4352,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-04-14 六 04:25]
    CLOCK: [2018-04-14 六 04:02]--[2018-04-14 六 04:25] =>  0:23
+   :END:
+** DONE Review<2018-10-26 Fri 17:49>99.4%
+   CLOSED: [2018-10-26 Fri 18:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-26 Fri 18:06]
+   CLOCK: [2018-10-26 Fri 17:49]--[2018-10-26 Fri 18:06] =>  0:17
    :END:
 * lesson 19twenty one
 ** DONE Review twenty one 97.7%
