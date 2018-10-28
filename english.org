@@ -4902,6 +4902,18 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2018-09-12 Wed 05:37]
    CLOCK: [2018-09-12 Wed 05:22]--[2018-09-12 Wed 05:37] =>  0:15
    :END:
+** DONE Review<2018-10-28 Sun 06:50>99%
+   CLOSED: [2018-10-28 Sun 07:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-28 Sun 07:05]
+   CLOCK: [2018-10-28 Sun 06:50]--[2018-10-28 Sun 07:05] =>  0:15
+   :END:
+** DONE Review<2018-10-28 Sun 20:04>99.1%
+   CLOSED: [2018-10-28 Sun 20:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-28 Sun 20:19]
+   CLOCK: [2018-10-28 Sun 20:04]--[2018-10-28 Sun 20:19] =>  0:15
+   :END:
 * lesson 12twenty three
 ** DONE Review twenty three 97.1%
    CLOSED: [2016-08-11 四 15:28]
@@ -5123,6 +5135,12 @@ meet shang hai ruiya 葛锡宝
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-09-14 Fri 07:19]
    CLOCK: [2018-09-14 Fri 07:01]--[2018-09-14 Fri 07:19] =>  0:18
+   :END:
+** DONE Review<2018-10-28 Sun 07:05>99.6%
+   CLOSED: [2018-10-28 Sun 07:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-10-28 Sun 07:23]
+   CLOCK: [2018-10-28 Sun 07:05]--[2018-10-28 Sun 07:23] =>  0:18
    :END:
 * lesson 6twenty four
 ** DONE Review twenty four 96.8%
