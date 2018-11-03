@@ -5727,6 +5727,12 @@ meet shang hai ruiya 葛锡宝
    - State "DONE"       from "STARTED"    [2018-11-01 Thu 08:02]
    CLOCK: [2018-11-01 Thu 07:42]--[2018-11-01 Thu 08:02] =>  0:20
    :END:
+** DONE Review<2018-11-02 Fri 04:46>99.5%
+   CLOSED: [2018-11-02 Fri 05:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-11-02 Fri 05:06]
+   CLOCK: [2018-11-02 Fri 04:45]--[2018-11-02 Fri 05:06] =>  0:21
+   :END:
 * lesson 8twenty six
 ** DONE Review twenty six 95.2%
   CLOSED: [2016-08-12 五 08:55]
@@ -6110,6 +6116,18 @@ Today has review three times.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-09-22 Sat 05:47]
    CLOCK: [2018-09-22 Sat 05:21]--[2018-09-22 Sat 05:47] =>  0:26
+   :END:
+** DONE Review<2018-11-02 Fri 05:07>99.1%
+   CLOSED: [2018-11-02 Fri 05:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-11-02 Fri 05:32]
+   CLOCK: [2018-11-02 Fri 05:06]--[2018-11-02 Fri 05:32] =>  0:26
+   :END:
+** DONE Review<2018-11-03 Sat 06:58>98.8%
+   CLOSED: [2018-11-03 Sat 07:21]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-11-03 Sat 07:21]
+   CLOCK: [2018-11-03 Sat 06:57]--[2018-11-03 Sat 07:21] =>  0:24
    :END:
 * lesson 9twenty seven
 ** DONE Review twenty seven 95.7%
@@ -14310,11 +14328,13 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 * TODO [#b] Words Book one
-  DEADLINE: <2018-11-02 Fri 08:30 +1m> SCHEDULED: <2018-11-02 Fri 08:00 +1m>
+  DEADLINE: <2019-01-02 Wed 08:30 +1m> SCHEDULED: <2019-01-02 Wed 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2018-10-02 Tue 15:55]
+  :LAST_REPEAT: [2018-11-02 Fri 08:10]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2018-11-02 Fri 08:10]
+  - State "DONE"       from "STARTED"    [2018-11-02 Fri 08:10]
   - State "DONE"       from "STARTED"    [2018-10-02 Tue 15:55]
   CLOCK: [2018-10-02 Tue 15:50]--[2018-10-02 Tue 15:55] =>  0:05
   - State "DONE"       from "STARTED"    [2018-09-02 Sun 15:53]
