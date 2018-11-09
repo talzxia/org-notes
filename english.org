@@ -6680,6 +6680,18 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2018-09-27 Thu 05:47]
    CLOCK: [2018-09-27 Thu 05:31]--[2018-09-27 Thu 05:47] =>  0:16
    :END:
+** DONE Review<2018-11-09 Fri 06:10>99%
+   CLOSED: [2018-11-09 Fri 06:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-11-09 Fri 06:26]
+   CLOCK: [2018-11-09 Fri 06:10]--[2018-11-09 Fri 06:26] =>  0:16
+   :END:
+** DONE Review<2018-11-09 Fri 20:30>99.1%
+   CLOSED: [2018-11-09 Fri 20:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-11-09 Fri 20:45]
+   CLOCK: [2018-11-09 Fri 20:29]--[2018-11-09 Fri 20:45] =>  0:16
+   :END:
 * lesson 46twenty nine
 ** DONE Review twenty nine 96.3%
    CLOSED: [2016-08-13 六 16:24]
