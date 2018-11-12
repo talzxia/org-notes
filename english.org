@@ -7578,9 +7578,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-11-11 Sun 07:11]
    CLOCK: [2018-11-11 Sun 06:25]--[2018-11-11 Sun 07:11] =>  0:46
    :END:
-** DONE Review<2018-11-11 Sun 21:00>
-   CLOSED: [2018-11-11 Sun 21:09]
+** DONE Review<2018-11-11 Sun 21:00>98.8%
+   CLOSED: [2018-11-12 Mon 08:41]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-11-12 Mon 08:41]
+   - State "STARTED"    from "DONE"       [2018-11-12 Mon 07:58]
+   CLOCK: [2018-11-12 Mon 07:58]--[2018-11-12 Mon 08:41] =>  0:43
    - State "DONE"       from "STARTED"    [2018-11-11 Sun 21:09]
    CLOCK: [2018-11-11 Sun 21:00]--[2018-11-11 Sun 21:09] =>  0:09
    :END:
