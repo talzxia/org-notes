@@ -7599,6 +7599,16 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-11-13 Tue 19:33]
    CLOCK: [2018-11-13 Tue 18:54]--[2018-11-13 Tue 19:33] =>  0:39
    :END:
+** DONE Review<2018-11-15 Thu 06:30>98.9%
+   CLOSED: [2018-11-15 Thu 07:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-11-15 Thu 07:08]
+   CLOCK: [2018-11-15 Thu 06:30]--[2018-11-15 Thu 07:08] =>  0:38
+   :END:
+** STARTED Review<2018-11-15 Thu 19:34>
+   :LOGBOOK:
+   CLOCK: [2018-11-15 Thu 19:34]--[2018-11-15 Thu 21:17] =>  1:43
+   :END:
 * lesson 2thirty one
 ** DONE 复习 95.0%
    CLOSED: [2016-07-25 Mon 18:10]
