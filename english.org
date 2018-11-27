@@ -7983,6 +7983,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2018-11-23 Fri 05:46]
    CLOCK: [2018-11-23 Fri 05:24]--[2018-11-23 Fri 05:46] =>  0:22
    :END:
+** DONE Review<2018-11-24 Sat 05:51>99.5%
+   CLOSED: [2018-11-24 Sat 06:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-11-24 Sat 06:13]
+   CLOCK: [2018-11-24 Sat 05:51]--[2018-11-24 Sat 06:13] =>  0:22
+   :END:
 * lesson 7thirty two
 ** DONE Review thirty two 95.5%
    CLOSED: [2016-08-02 Tue 18:46]
@@ -8239,6 +8245,24 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-05-20 日 07:13]
    CLOCK: [2018-05-20 日 06:47]--[2018-05-20 日 07:13] =>  0:26
+   :END:
+** DONE Review<2018-11-25 Sun 05:47>99%
+   CLOSED: [2018-11-25 Sun 06:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-11-25 Sun 06:14]
+   CLOCK: [2018-11-25 Sun 05:47]--[2018-11-25 Sun 06:14] =>  0:27
+   :END:
+** DONE Review<2018-11-26 Mon 06:31>99.4%
+   CLOSED: [2018-11-26 Mon 06:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-11-26 Mon 06:54]
+   CLOCK: [2018-11-26 Mon 06:31]--[2018-11-26 Mon 06:54] =>  0:23
+   :END:
+** DONE Review<2018-11-27 Tue 06:31>99.3%
+   CLOSED: [2018-11-27 Tue 06:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2018-11-27 Tue 06:53]
+   CLOCK: [2018-11-27 Tue 06:31]--[2018-11-27 Tue 06:53] =>  0:22
    :END:
 * lesson 10thirty three
 ** DONE Review<2017-10-29 日 06:56>99.1%
