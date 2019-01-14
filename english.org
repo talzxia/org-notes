@@ -9361,6 +9361,12 @@ CLOCK: [2017-10-23 一 05:53]--[2017-10-23 一 06:25] =>  0:32
    - State "DONE"       from "STARTED"    [2019-01-13 Sun 06:01]
    CLOCK: [2019-01-13 Sun 05:36]--[2019-01-13 Sun 06:01] =>  0:25
    :END:
+** DONE Reveiw<2019-01-14 Mon 05:31>99.6%
+   CLOSED: [2019-01-14 Mon 05:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-01-14 Mon 05:55]
+   CLOCK: [2019-01-14 Mon 05:31]--[2019-01-14 Mon 05:55] =>  0:24
+   :END:
 * lesson 14thirty six
 ** DONE Review<2017-11-02 四 05:22>98.1%
    CLOSED: [2017-11-02 四 05:44]
@@ -9603,6 +9609,12 @@ CLOCK: [2017-10-23 一 05:53]--[2017-10-23 一 06:25] =>  0:32
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-06-10 Sun 06:51]
    CLOCK: [2018-06-10 Sun 06:30]--[2018-06-10 Sun 06:51] =>  0:21
+   :END:
+** DONE Reveiw<2019-01-14 Mon 05:57>96.6%
+   CLOSED: [2019-01-14 Mon 06:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-01-14 Mon 06:18]
+   CLOCK: [2019-01-14 Mon 05:56]--[2019-01-14 Mon 06:18] =>  0:22
    :END:
 * lesson 11thirty seven
 ** DONE Review<2017-10-25 三 04:49>98.8%
