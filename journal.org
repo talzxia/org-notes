@@ -244,3 +244,14 @@ She writes serous words.
 *** 2019-01-15 Tuesday
 
 **** 送夫人去高铁站，可能有违章
+*** 2019-01-18 Friday
+
+**** DONE to relax
+     CLOSED: [2019-01-18 Fri 19:24]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-01-18 Fri 19:24]
+     - State "STARTED"    from "DONE"       [2019-01-18 Fri 16:28]
+     CLOCK: [2019-01-18 Fri 16:28]--[2019-01-18 Fri 19:24] =>  2:56
+     - State "DONE"       from "STARTED"    [2019-01-18 Fri 14:05]
+     CLOCK: [2019-01-18 Fri 09:56]--[2019-01-18 Fri 14:05] =>  4:09
+     :END:
