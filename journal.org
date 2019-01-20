@@ -263,3 +263,18 @@ She writes serous words.
      - State "DONE"       from "STARTED"    [2019-01-19 Sat 13:35]
      CLOCK: [2019-01-19 Sat 11:13]--[2019-01-19 Sat 13:35] =>  2:22
      :END:
+*** 2019-01-20 Sunday
+
+**** DONE 送老人出行
+     CLOSED: [2019-01-20 Sun 11:35]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-01-20 Sun 11:35]
+     CLOCK: [2019-01-20 Sun 08:28]--[2019-01-20 Sun 11:35] =>  3:07
+     :END:
+
+**** DONE to relax
+     CLOSED: [2019-01-20 Sun 17:00]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-01-20 Sun 17:00]
+     CLOCK: [2019-01-20 Sun 14:41]--[2019-01-20 Sun 17:00] =>  2:19
+     :END:
