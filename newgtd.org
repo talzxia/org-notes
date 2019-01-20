@@ -2248,11 +2248,13 @@ SCHEDULED: <2019-01-22 Tue 11:40 +1d> DEADLINE: <2019-01-21 Mon 13:40 +1d>
 13:50-14:30检查
 
 ** TODO [#B] dinner
-   DEADLINE: <2019-01-20 Sun 18:40 +1d> SCHEDULED: <2019-01-20 Sun 17:40 +1d>
+   DEADLINE: <2019-01-21 Mon 18:40 +1d> SCHEDULED: <2019-01-21 Mon 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-01-19 Sat 19:54]
+   :LAST_REPEAT: [2019-01-20 Sun 20:40]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-01-20 Sun 20:40]
+   CLOCK: [2019-01-20 Sun 18:33]--[2019-01-20 Sun 20:40] =>  2:07
    - State "DONE"       from "STARTED"    [2019-01-19 Sat 19:54]
    CLOCK: [2019-01-19 Sat 15:57]--[2019-01-19 Sat 19:54] =>  3:57
    - State "DONE"       from "STARTED"    [2019-01-18 Fri 19:25]
@@ -3960,7 +3962,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
    DEADLINE: <2019-01-21 Mon 05:00 +1d> SCHEDULED: <2019-01-20 Sun 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
@@ -3969,6 +3971,7 @@ clean up spending 15 minutes
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2019-01-20 Sun 21:47]
   - State "DONE"       from "STARTED"    [2019-01-20 Sun 04:12]
   CLOCK: [2019-01-19 Sat 21:52]--[2019-01-20 Sun 04:12] =>  6:20
   - State "DONE"       from "STARTED"    [2019-01-19 Sat 04:37]
@@ -7996,11 +7999,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
 ** TODO [#b] Copy (a model of calligraphy)
-   SCHEDULED: <2019-01-21 Mon 09:00 +1d> DEADLINE: <2019-01-21 Mon 08:00 +1d>
+   SCHEDULED: <2019-01-22 Tue 09:00 +1d> DEADLINE: <2019-01-22 Tue 08:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-01-20 Sun 17:37]
+   :LAST_REPEAT: [2019-01-20 Sun 20:58]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-01-20 Sun 20:58]
+   CLOCK: [2019-01-20 Sun 20:41]--[2019-01-20 Sun 20:58] =>  0:17
    - State "DONE"       from "STARTED"    [2019-01-20 Sun 17:37]
    CLOCK: [2019-01-20 Sun 17:04]--[2019-01-20 Sun 17:37] =>  0:33
    CLOCK: [2019-01-20 Sun 11:36]--[2019-01-20 Sun 12:16] =>  0:40
