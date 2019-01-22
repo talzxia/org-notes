@@ -293,8 +293,11 @@ To proceed, enter your password, or type Ctrl-C to abort
    :END:
 
 ** DONE [#B] to relax
-   CLOSED: [2016-08-04 Thu 10:21]
+   CLOSED: [2019-01-22 Tue 20:43]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-01-22 Tue 20:43]
+   - State "STARTED"    from "DONE"       [2019-01-22 Tue 17:52]
+   CLOCK: [2019-01-22 Tue 17:52]--[2019-01-22 Tue 20:43] =>  2:51
    - State "DONE"       from "STARTED"    [2016-08-04 Thu 10:21]
    CLOCK: [2016-08-04 Thu 08:51]--[2016-08-04 Thu 10:21] =>  1:30
    - State "STARTED"    from "DONE"       [2016-08-04 Thu 08:50]
@@ -8002,9 +8005,11 @@ CLOSED: [2017-10-22 日 20:46]
    CLOCK: [2019-01-13 Sun 10:00]--[2019-01-13 Sun 12:29] =>  2:29
    :END:
 
-** STARTED [#B] shapping
+** DONE [#B] to relax
+   CLOSED: [2019-01-22 Tue 13:38]
    :LOGBOOK:
-   CLOCK: [2019-01-21 Mon 09:09]--[2019-01-21 Mon 21:32] => 12:23
+   - State "DONE"       from "STARTED"    [2019-01-22 Tue 13:38]
+   CLOCK: [2019-01-22 Tue 10:25]--[2019-01-22 Tue 13:39] =>  3:14
    :END:
 
 * DONE [#B]看望任淑君老师
