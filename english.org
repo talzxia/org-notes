@@ -11199,6 +11199,12 @@ w<2017-10-19 四 05:46>99%
    - State "DONE"       from "STARTED"    [2019-01-25 Fri 05:41]
    CLOCK: [2019-01-25 Fri 05:19]--[2019-01-25 Fri 05:41] =>  0:22
    :END:
+** DONE Review<2019-01-26 Sat 04:50>99.5%
+   CLOSED: [2019-01-26 Sat 05:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-01-26 Sat 05:13]
+   CLOCK: [2019-01-26 Sat 04:50]--[2019-01-26 Sat 05:13] =>  0:23
+   :END:
 * lesson 27forty one
 ** DONE Review e 95.9% igh 95.9%t 95.9%
    CLOSED: [2016-08-06 六 21:15]
@@ -11554,6 +11560,18 @@ w<2017-10-19 四 05:46>99%
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2019-01-25 Fri 06:04]
    CLOCK: [2019-01-25 Fri 05:42]--[2019-01-25 Fri 06:04] =>  0:22
+   :END:
+** DONE Review<2019-01-26 Sat 05:15>99.3%
+   CLOSED: [2019-01-26 Sat 05:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-01-26 Sat 05:34]
+   CLOCK: [2019-01-26 Sat 05:14]--[2019-01-26 Sat 05:34] =>  0:20
+   :END:
+** DONE Review<2019-01-26 Sat 19:37>98.4%
+   CLOSED: [2019-01-26 Sat 19:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-01-26 Sat 19:57]
+   CLOCK: [2019-01-26 Sat 19:37]--[2019-01-26 Sat 19:57] =>  0:20
    :END:
 * lesson 29forty two
 ** DONE Review <2016-08-27 六 20:55> 95.9%
