@@ -11573,6 +11573,12 @@ w<2017-10-19 四 05:46>99%
    - State "DONE"       from "STARTED"    [2019-01-26 Sat 19:57]
    CLOCK: [2019-01-26 Sat 19:37]--[2019-01-26 Sat 19:57] =>  0:20
    :END:
+** DONE Review<2019-01-27 Sun 03:10>99.6%
+   CLOSED: [2019-01-27 Sun 03:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-01-27 Sun 03:30]
+   CLOCK: [2019-01-27 Sun 03:09]--[2019-01-27 Sun 03:30] =>  0:21
+   :END:
 * lesson 29forty two
 ** DONE Review <2016-08-27 六 20:55> 95.9%
    CLOSED: [2016-08-27 六 21:26]
@@ -11876,6 +11882,18 @@ Arrange student internship
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-08-07 Tue 18:09]
    CLOCK: [2018-08-07 Tue 17:21]--[2018-08-07 Tue 18:09] =>  0:48
+   :END:
+** DONE Review<2019-01-27 Sun 03:31>98.6%
+   CLOSED: [2019-01-27 Sun 03:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-01-27 Sun 03:55]
+   CLOCK: [2019-01-27 Sun 03:31]--[2019-01-27 Sun 03:55] =>  0:24
+   :END:
+** DONE Review<2019-01-27 Sun 06:21>98.9%
+   CLOSED: [2019-01-27 Sun 06:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-01-27 Sun 06:42]
+   CLOCK: [2019-01-27 Sun 06:21]--[2019-01-27 Sun 06:42] =>  0:21
    :END:
 * lesson 28forty three
 ** DONE Review 94.8%
