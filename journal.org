@@ -288,3 +288,11 @@ She writes serous words.
      - State "DONE"       from "STARTED"    [2019-01-24 Thu 18:09]
      CLOCK: [2019-01-24 Thu 15:42]--[2019-01-24 Thu 18:09] =>  2:27
      :END:
+*** 2019-01-29 Tuesday
+
+**** DONE to take deep water
+     CLOSED: [2019-01-29 Tue 15:54]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-01-29 Tue 15:54]
+     CLOCK: [2019-01-29 Tue 15:23]--[2019-01-29 Tue 15:54] =>  0:31
+     :END:
