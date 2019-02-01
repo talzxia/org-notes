@@ -13060,6 +13060,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2019-01-31 Thu 04:42]
    CLOCK: [2019-01-31 Thu 04:26]--[2019-01-31 Thu 04:42] =>  0:16
    :END:
+** DONE Review<2019-02-01 Fri 02:46>99.6%
+   CLOSED: [2019-02-01 Fri 03:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-01 Fri 03:02]
+   CLOCK: [2019-02-01 Fri 02:45]--[2019-02-01 Fri 03:02] =>  0:17
+   :END:
 * lesson 21forty six
 ** DONE Review forty six 96.6%
    CLOSED: [2016-08-11 四 18:46]
@@ -13127,7 +13133,7 @@ Arrange student internship
    CLOSED: [2016-09-16 五 05:31]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-09-16 五 05:31]
-   CLOCK: [2016-09-16 五 04:49]--[2016-09-16
+   CLOCK: [2016-09-16 五 04:49]--[2016-09-16 五 05:31] =>  0:42
 ** DONE Review<2016-10-11 二 20:51>94.1%
    CLOSED: [2016-10-11 二 21:21]
    :LOGBOOK:
@@ -13150,7 +13156,7 @@ Arrange student internship
    CLOSED: [2016-10-18 二 19:39]
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2016-10-18 二 19:39]
-   CLOCK: [2016-10-18 二 19:13]--[2016-10-1
+   CLOCK: [2016-10-18 二 19:13]--[2016-10-18 二 19:39] =>  0:26
 ** DONE Review<2016-10-22 六 14:45>95.7%
    CLOSED: [2016-10-22 六 15:10]
    :LOGBOOK:
@@ -13435,6 +13441,18 @@ Arrange student internship
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-08-21 Tue 06:12]
    CLOCK: [2018-08-21 Tue 05:48]--[2018-08-21 Tue 06:12] =>  0:24
+   :END:
+** DONE Review<2019-02-01 Fri 03:03>98.6%
+   CLOSED: [2019-02-01 Fri 03:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-01 Fri 03:26]
+   CLOCK: [2019-02-01 Fri 03:02]--[2019-02-01 Fri 03:26] =>  0:24
+   :END:
+** DONE Review<2019-02-01 Fri 05:58>99.4%
+   CLOSED: [2019-02-01 Fri 06:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-01 Fri 06:18]
+   CLOCK: [2019-02-01 Fri 05:57]--[2019-02-01 Fri 06:18] =>  0:21
    :END:
 * lesson 22forty seven
 ** DONE Review 92.5%
@@ -13740,6 +13758,24 @@ Arrange student internship
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-08-25 Sat 05:36]
    CLOCK: [2018-08-25 Sat 05:17]--[2018-08-25 Sat 05:36] =>  0:19
+   :END:
+** DONE Review<2019-02-01 Fri 06:21>98.4%
+   CLOSED: [2019-02-01 Fri 06:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-01 Fri 06:39]
+   CLOCK: [2019-02-01 Fri 06:21]--[2019-02-01 Fri 06:39] =>  0:18
+   :END:
+** DONE Review<2019-02-01 Fri 16:25>98.9%
+   CLOSED: [2019-02-01 Fri 16:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-01 Fri 16:42]
+   CLOCK: [2019-02-01 Fri 16:25]--[2019-02-01 Fri 16:42] =>  0:17
+   :END:
+** DONE Review<2019-02-01 Fri 20:55>98.6%
+   CLOSED: [2019-02-01 Fri 21:10]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-01 Fri 21:10]
+   CLOCK: [2019-02-01 Fri 20:55]--[2019-02-01 Fri 21:10] =>  0:15
    :END:
 * lesson 31forty eight
 ** DONE Review<2017-10-28 六 05:16>98.3%
