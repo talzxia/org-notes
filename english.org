@@ -14077,6 +14077,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2019-02-02 Sat 21:42]
    CLOCK: [2019-02-02 Sat 21:23]--[2019-02-02 Sat 21:42] =>  0:19
    :END:
+** DONE Review<2019-02-03 Sun 04:14>99%
+   CLOSED: [2019-02-03 Sun 04:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-03 Sun 04:32]
+   CLOCK: [2019-02-03 Sun 04:14]--[2019-02-03 Sun 04:32] =>  0:18
+   :END:
 * lesson 30forty nine
 ** DONE Review<2017-10-27 五 04:14>98.3%
    CLOSED: [2017-10-27 五 04:34]
@@ -14422,6 +14428,24 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-09-01 Sat 04:56]
    CLOCK: [2018-09-01 Sat 04:35]--[2018-09-01 Sat 04:56] =>  0:21
    :END:
+** DONE Review<2019-02-03 Sun 04:33>98.3%
+   CLOSED: [2019-02-03 Sun 04:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-03 Sun 04:51]
+   CLOCK: [2019-02-03 Sun 04:32]--[2019-02-03 Sun 04:51] =>  0:19
+   :END:
+** DONE Review<2019-02-03 Sun 10:26>97.9%
+   CLOSED: [2019-02-03 Sun 10:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-03 Sun 10:42]
+   CLOCK: [2019-02-03 Sun 10:26]--[2019-02-03 Sun 10:42] =>  0:16
+   :END:
+** DONE Review<2019-02-03 Sun 15:35>99.5%
+   CLOSED: [2019-02-03 Sun 15:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-03 Sun 15:50]
+   CLOCK: [2019-02-03 Sun 15:34]--[2019-02-03 Sun 15:50] =>  0:16
+   :END:
 * Lesson 25fitty
 ** Review<2016-09-11 日 12:11>98.8%
 ** DONE Review <2016-09-11 日 18:39>99.2%
@@ -14726,6 +14750,12 @@ A notebook is finished.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-09-05 Wed 07:48]
    CLOCK: [2018-09-05 Wed 07:23]--[2018-09-05 Wed 07:48] =>  0:25
+   :END:
+** DONE Review
+   CLOSED: [2019-02-03 Sun 21:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-03 Sun 21:28]
+   CLOCK: [2019-02-03 Sun 21:00]--[2019-02-03 Sun 21:28] =>  0:28
    :END:
 * New concept English
 ** TODO [#B] Book One
