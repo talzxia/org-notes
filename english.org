@@ -14083,6 +14083,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2019-02-03 Sun 04:32]
    CLOCK: [2019-02-03 Sun 04:14]--[2019-02-03 Sun 04:32] =>  0:18
    :END:
+** DONE Review<2019-02-04 Mon 05:34>99.6%
+   CLOSED: [2019-02-04 Mon 05:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-04 Mon 05:52]
+   CLOCK: [2019-02-04 Mon 05:34]--[2019-02-04 Mon 05:52] =>  0:18
+   :END:
 * lesson 30forty nine
 ** DONE Review<2017-10-27 五 04:14>98.3%
    CLOSED: [2017-10-27 五 04:34]
@@ -14446,6 +14452,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2019-02-03 Sun 15:50]
    CLOCK: [2019-02-03 Sun 15:34]--[2019-02-03 Sun 15:50] =>  0:16
    :END:
+** DONE Review<2019-02-04 Mon 05:16>99.8%
+   CLOSED: [2019-02-04 Mon 05:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-04 Mon 05:33]
+   CLOCK: [2019-02-04 Mon 05:16]--[2019-02-04 Mon 05:33] =>  0:17
+   :END:
 * Lesson 25fitty
 ** Review<2016-09-11 日 12:11>98.8%
 ** DONE Review <2016-09-11 日 18:39>99.2%
@@ -14756,6 +14768,24 @@ A notebook is finished.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2019-02-03 Sun 21:28]
    CLOCK: [2019-02-03 Sun 21:00]--[2019-02-03 Sun 21:28] =>  0:28
+   :END:
+** DONE Review<2019-02-04 Mon 04:52>99%
+   CLOSED: [2019-02-04 Mon 05:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-04 Mon 05:14]
+   CLOCK: [2019-02-04 Mon 04:52]--[2019-02-04 Mon 05:14] =>  0:22
+   :END:
+** DONE Review<2019-02-04 Mon 15:06>99.2%
+   CLOSED: [2019-02-04 Mon 15:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-04 Mon 15:26]
+   CLOCK: [2019-02-04 Mon 15:06]--[2019-02-04 Mon 15:26] =>  0:20
+   :END:
+** DONE Review<2019-02-04 Mon 20:57>99.4%
+   CLOSED: [2019-02-04 Mon 21:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-04 Mon 21:16]
+   CLOCK: [2019-02-04 Mon 20:57]--[2019-02-04 Mon 21:16] =>  0:19
    :END:
 * New concept English
 ** TODO [#B] Book One
