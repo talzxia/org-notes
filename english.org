@@ -13454,6 +13454,24 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2019-02-01 Fri 06:18]
    CLOCK: [2019-02-01 Fri 05:57]--[2019-02-01 Fri 06:18] =>  0:21
    :END:
+** DONE Review<2019-02-05 Tue 05:48>98.8%
+   CLOSED: [2019-02-05 Tue 06:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-05 Tue 06:08]
+   CLOCK: [2019-02-05 Tue 05:47]--[2019-02-05 Tue 06:08] =>  0:21
+   :END:
+** DONE Review<2019-02-05 Tue 06:06>99.4%
+   CLOSED: [2019-02-05 Tue 06:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-05 Tue 06:29]
+   CLOCK: [2019-02-05 Tue 06:08]--[2019-02-05 Tue 06:29] =>  0:21
+   :END:
+** DONE Review<2019-02-05 Tue 19:07>99.5%
+   CLOSED: [2019-02-05 Tue 19:25]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-05 Tue 19:25]
+   CLOCK: [2019-02-05 Tue 19:06]--[2019-02-05 Tue 19:25] =>  0:19
+   :END:
 * lesson 22forty seven
 ** DONE Review 92.5%
    CLOSED: [2016-08-19 五 20:39]
@@ -14786,6 +14804,12 @@ A notebook is finished.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2019-02-04 Mon 21:16]
    CLOCK: [2019-02-04 Mon 20:57]--[2019-02-04 Mon 21:16] =>  0:19
+   :END:
+** DONE Review<2019-02-05 Tue 05:25>99.5%
+   CLOSED: [2019-02-05 Tue 05:45]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-05 Tue 05:45]
+   CLOCK: [2019-02-05 Tue 05:25]--[2019-02-05 Tue 05:45] =>  0:20
    :END:
 * New concept English
 ** TODO [#B] Book One
