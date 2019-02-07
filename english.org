@@ -14841,6 +14841,30 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2019-02-06 Wed 20:45]
    CLOCK: [2019-02-06 Wed 20:26]--[2019-02-06 Wed 20:45] =>  0:19
    :END:
+** DONE Review<2019-02-07 Thu 05:16>99.1%
+   CLOSED: [2019-02-07 Thu 05:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-07 Thu 05:34]
+   CLOCK: [2019-02-07 Thu 05:16]--[2019-02-07 Thu 05:34] =>  0:18
+   :END:
+** DONE Review<2019-02-07 Thu 05:35>99.7%
+   CLOSED: [2019-02-07 Thu 05:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-07 Thu 05:54]
+   CLOCK: [2019-02-07 Thu 05:35]--[2019-02-07 Thu 05:54] =>  0:19
+   :END:
+** DONE Review<2019-02-07 Thu 05:55>99.4%
+   CLOSED: [2019-02-07 Thu 06:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-07 Thu 06:14]
+   CLOCK: [2019-02-07 Thu 05:54]--[2019-02-07 Thu 06:14] =>  0:20
+   :END:
+** DONE Review<2019-02-07 Thu 21:28>99.9%
+   CLOSED: [2019-02-07 Thu 21:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-07 Thu 21:47]
+   CLOCK: [2019-02-07 Thu 21:28]--[2019-02-07 Thu 21:47] =>  0:19
+   :END:
 * New concept English
 ** TODO [#B] Book One
    SCHEDULED:<2019-02-23 Sat 06:00 +1m>
