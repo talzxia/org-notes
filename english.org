@@ -6412,6 +6412,18 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2018-11-10 Sat 06:32]
    CLOCK: [2018-11-10 Sat 06:11]--[2018-11-10 Sat 06:32] =>  0:21
    :END:
+** DONE Review<2019-02-08 Fri 14:23>98.6%
+   CLOSED: [2019-02-08 Fri 14:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-08 Fri 14:41]
+   CLOCK: [2019-02-08 Fri 14:22]--[2019-02-08 Fri 14:41] =>  0:19
+   :END:
+** DONE Review<2019-02-08 Fri 21:09>99.3%
+   CLOSED: [2019-02-08 Fri 21:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-08 Fri 21:26]
+   CLOCK: [2019-02-08 Fri 21:08]--[2019-02-08 Fri 21:26] =>  0:18
+   :END:
 * lesson 50twenty eight
 ** DONE Review twenty eight 95.3%
    CLOSED: [2016-08-13 Sat 14:39]
@@ -7021,6 +7033,18 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-11-11 Sun 06:24]
    CLOCK: [2018-11-11 Sun 05:53]--[2018-11-11 Sun 06:24] =>  0:31
+   :END:
+** DONE Review<2019-02-08 Fri 04:57>98.7%
+   CLOSED: [2019-02-08 Fri 05:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-08 Fri 05:26]
+   CLOCK: [2019-02-08 Fri 04:56]--[2019-02-08 Fri 05:26] =>  0:30
+   :END:
+** DONE Review<2019-02-08 Fri 05:28>99.6%
+   CLOSED: [2019-02-08 Fri 05:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-08 Fri 05:54]
+   CLOCK: [2019-02-08 Fri 05:27]--[2019-02-08 Fri 05:54] =>  0:27
    :END:
 * lesson 5thirty
 ** DONE Review thirty 93.9%
