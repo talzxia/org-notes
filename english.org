@@ -6450,9 +6450,20 @@ Today has review three times.
    :END:
 ** DONE Review<2019-02-09 Sat 20:33>99.3%
    CLOSED: [2019-02-09 Sat 20:51]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2019-02-09 Sat 20:51]
+   :LOGBOOK:   - State "DONE"       from "STARTED"    [2019-02-09 Sat 20:51]
    CLOCK: [2019-02-09 Sat 20:33]--[2019-02-09 Sat 20:51] =>  0:18
+   :END:
+** DONE Review<2019-02-10 Sun 04:57>99%
+   CLOSED: [2019-02-10 Sun 05:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-10 Sun 05:15]
+   CLOCK: [2019-02-10 Sun 04:57]--[2019-02-10 Sun 05:15] =>  0:18
+   :END:
+** DONE Review<2019-02-10 Sun 11:44>99.7%
+   CLOSED: [2019-02-10 Sun 12:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-10 Sun 12:02]
+   CLOCK: [2019-02-10 Sun 11:43]--[2019-02-10 Sun 12:02] =>  0:19
    :END:
 * lesson 50twenty eight
 ** DONE Review twenty eight 95.3%
@@ -6745,6 +6756,18 @@ Today has review three times.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-11-10 Sat 06:11]
    CLOCK: [2018-11-10 Sat 05:55]--[2018-11-10 Sat 06:11] =>  0:16
+   :END:
+** DONE Review<2019-02-10 Sun 20:52>99.4%
+   CLOSED: [2019-02-10 Sun 21:08]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-10 Sun 21:08]
+   CLOCK: [2019-02-10 Sun 20:52]--[2019-02-10 Sun 21:08] =>  0:16
+   :END:
+** DONE Review<2019-02-10 Sun 21:10>99.4%
+   CLOSED: [2019-02-10 Sun 21:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-10 Sun 21:26]
+   CLOCK: [2019-02-10 Sun 21:10]--[2019-02-10 Sun 21:26] =>  0:16
    :END:
 * lesson 46twenty nine
 ** DONE Review twenty nine 96.3%
@@ -15599,7 +15622,7 @@ Pink's her favourite colour.
 What are you going to do with that vase, Penny?
 I'm going to put it on this table, Sam.
 Don't do that.
-Give it to me.
+fGive it to me.
 What are you going to do with it?
 I'm going to put it here,
 in front of the window.
