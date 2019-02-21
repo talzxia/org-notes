@@ -2918,6 +2918,12 @@ CLOCK: [2017-11-07 二 06:29]--[2017-11-07 二 06:47] =>  0:18
    - State "DONE"       from "STARTED"    [2019-02-20 Wed 20:07]
    CLOCK: [2019-02-20 Wed 19:52]--[2019-02-20 Wed 20:07] =>  0:15
    :END:
+** DONE Review<2019-02-21 Thu 04:17>99.8%
+   CLOSED: [2019-02-21 Thu 04:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-21 Thu 04:32]
+   CLOCK: [2019-02-21 Thu 04:16]--[2019-02-21 Thu 04:32] =>  0:16
+   :END:
 * lesson 48fifteen
 ** DONE Review 97.3%
    CLOSED: [2016-08-22 一 21:09]
@@ -3146,6 +3152,30 @@ listen to happy music
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-10-18 Thu 20:42]
    CLOCK: [2018-10-18 Thu 20:25]--[2018-10-18 Thu 20:42] =>  0:17
+   :END:
+** DONE Review<2019-02-21 Thu 04:33>99.7%
+   CLOSED: [2019-02-21 Thu 04:48]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-21 Thu 04:48]
+   CLOCK: [2019-02-21 Thu 04:32]--[2019-02-21 Thu 04:48] =>  0:16
+   :END:
+** DONE Review<2019-02-21 Thu 04:48>99.7%
+   CLOSED: [2019-02-21 Thu 05:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-21 Thu 05:03]
+   CLOCK: [2019-02-21 Thu 04:48]--[2019-02-21 Thu 05:03] =>  0:15
+   :END:
+** DONE Review<2019-02-21 Thu 18:27>99.5%
+   CLOSED: [2019-02-21 Thu 18:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-21 Thu 18:40]
+   CLOCK: [2019-02-21 Thu 18:26]--[2019-02-21 Thu 18:40] =>  0:14
+   :END:
+** DONE Review<2019-02-21 Thu 18:41>99.8%
+   CLOSED: [2019-02-21 Thu 18:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-21 Thu 18:55]
+   CLOCK: [2019-02-21 Thu 18:41]--[2019-02-21 Thu 18:55] =>  0:14
    :END:
 * lesson 42sixteen
 ** DONE Review 97.2%
@@ -3493,6 +3523,18 @@ listen to happy music
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2019-02-18 Mon 20:44]
    CLOCK: [2019-02-18 Mon 20:32]--[2019-02-18 Mon 20:44] =>  0:12
+   :END:
+** DONE Review<2019-02-21 Thu 18:56>99.4%
+   CLOSED: [2019-02-21 Thu 19:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-21 Thu 19:09]
+   CLOCK: [2019-02-21 Thu 18:56]--[2019-02-21 Thu 19:09] =>  0:13
+   :END:
+** DONE Review<2019-02-21 Thu 21:02>97.4%
+   CLOSED: [2019-02-21 Thu 21:13]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-21 Thu 21:13]
+   CLOCK: [2019-02-21 Thu 21:02]--[2019-02-21 Thu 21:13] =>  0:11
    :END:
 * lesson 45seventeen
 ** DONE Review seventeen 97.6%
