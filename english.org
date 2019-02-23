@@ -3572,7 +3572,12 @@ listen to happy music
    - State "DONE"       from "STARTED"    [2019-02-22 Fri 18:21]
    CLOCK: [2019-02-22 Fri 18:09]--[2019-02-22 Fri 18:21] =>  0:12
    :END:
-
+** DONE Review<2019-02-23 Sat 06:23>99.5%
+   CLOSED: [2019-02-23 Sat 06:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-23 Sat 06:35]
+   CLOCK: [2019-02-23 Sat 06:22]--[2019-02-23 Sat 06:35] =>  0:13
+   :END:
 * lesson 45seventeen
 ** DONE Review seventeen 97.6%
    CLOSED: [2016-08-09 Tue 15:15]
@@ -4011,6 +4016,36 @@ listen to happy music
    CLOCK: [2019-02-18 Mon 16:19]--[2019-02-18 Mon 16:33] =>  0:14
    :END:
 
+** DONE Review<2019-02-23 Sat 06:37>99.5%
+   CLOSED: [2019-02-23 Sat 06:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-23 Sat 06:54]
+   CLOCK: [2019-02-23 Sat 06:37]--[2019-02-23 Sat 06:54] =>  0:17
+   :END:
+** DONE Review<2019-02-23 Sat 10:48>99.6%
+   CLOSED: [2019-02-23 Sat 11:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-23 Sat 11:04]
+   CLOCK: [2019-02-23 Sat 10:47]--[2019-02-23 Sat 11:04] =>  0:17
+   :END:
+** DONE Review<2019-02-23 Sat 16:25>99.2%
+   CLOSED: [2019-02-23 Sat 16:44]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-23 Sat 16:44]
+   CLOCK: [2019-02-23 Sat 16:24]--[2019-02-23 Sat 16:44] =>  0:20
+   :END:
+** DONE Review<2019-02-23 Sat 16:45>99.5%
+   CLOSED: [2019-02-23 Sat 17:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-23 Sat 17:03]
+   CLOCK: [2019-02-23 Sat 16:44]--[2019-02-23 Sat 17:03] =>  0:19
+   :END:
+** DONE Review<2019-02-23 Sat 20:58>99.3%
+   CLOSED: [2019-02-23 Sat 21:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-23 Sat 21:12]
+   CLOCK: [2019-02-23 Sat 20:57]--[2019-02-23 Sat 21:12] =>  0:15
+   :END:
 * lesson 3nineteen
 ** DONE Review 96.7%
    CLOSED: [2016-08-25 Thu 15:20]
@@ -15264,11 +15299,12 @@ A notebook is finished.
    :END:
 * New concept English
 ** TODO [#B] Book One
-   SCHEDULED:<2019-02-23 Sat 06:00 +1m>
+   SCHEDULED:<2019-03-23 Sat 06:00 +1m>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-01-23 Wed 04:31]
+   :LAST_REPEAT: [2019-02-23 Sat 18:10]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-23 Sat 18:10]
    - State "DONE"       from "STARTED"    [2019-01-23 Wed 04:31]
    - State "DONE"       from "STARTED"    [2018-12-23 Sun 18:55]
    - State "DONE"       from "STARTED"    [2018-11-23 Fri 05:47]
