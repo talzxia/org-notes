@@ -3578,6 +3578,18 @@ listen to happy music
    - State "DONE"       from "STARTED"    [2019-02-23 Sat 06:35]
    CLOCK: [2019-02-23 Sat 06:22]--[2019-02-23 Sat 06:35] =>  0:13
    :END:
+** DONE Review<2019-02-24 Sun 06:00>99.3%
+   CLOSED: [2019-02-24 Sun 06:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-24 Sun 06:12]
+   CLOCK: [2019-02-24 Sun 05:59]--[2019-02-24 Sun 06:12] =>  0:13
+   :END:
+** DONE Review<2019-02-24 Sun 12:33>99.6%
+   CLOSED: [2019-02-24 Sun 12:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-24 Sun 12:46]
+   CLOCK: [2019-02-24 Sun 12:33]--[2019-02-24 Sun 12:46] =>  0:13
+   :END:
 * lesson 45seventeen
 ** DONE Review seventeen 97.6%
    CLOSED: [2016-08-09 Tue 15:15]
@@ -4045,6 +4057,12 @@ listen to happy music
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2019-02-23 Sat 21:12]
    CLOCK: [2019-02-23 Sat 20:57]--[2019-02-23 Sat 21:12] =>  0:15
+   :END:
+** DONE Review<2019-02-24 Sun 05:39>99.8%
+   CLOSED: [2019-02-24 Sun 05:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-24 Sun 05:55]
+   CLOCK: [2019-02-24 Sun 05:39]--[2019-02-24 Sun 05:55] =>  0:16
    :END:
 * lesson 3nineteen
 ** DONE Review 96.7%
@@ -4599,6 +4617,18 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-10-27 Sat 19:49]
    CLOCK: [2018-10-27 Sat 19:32]--[2018-10-27 Sat 19:49] =>  0:17
+   :END:
+** DONE Review<2019-02-24 Sun 16:14>99.7%
+   CLOSED: [2019-02-24 Sun 16:29]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-24 Sun 16:29]
+   CLOCK: [2019-02-24 Sun 16:13]--[2019-02-24 Sun 16:29] =>  0:16
+   :END:
+** DONE Review<2019-02-24 Sun 20:22>99.7%
+   CLOSED: [2019-02-24 Sun 20:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-24 Sun 20:36]
+   CLOCK: [2019-02-24 Sun 20:21]--[2019-02-24 Sun 20:36] =>  0:15
    :END:
 * lesson 19twenty one
 ** DONE Review twenty one 97.7%
