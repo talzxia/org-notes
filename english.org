@@ -4630,6 +4630,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2019-02-24 Sun 20:36]
    CLOCK: [2019-02-24 Sun 20:21]--[2019-02-24 Sun 20:36] =>  0:15
    :END:
+** DONE Review<2019-02-25 Mon 04:38>99.8%
+   CLOSED: [2019-02-25 Mon 04:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-25 Mon 04:54]
+   CLOCK: [2019-02-25 Mon 04:38]--[2019-02-25 Mon 04:54] =>  0:16
+   :END:
 * lesson 19twenty one
 ** DONE Review twenty one 97.7%
    CLOSED: [2016-08-10 Wed 15:56]
@@ -4869,6 +4875,24 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-10-27 Sat 20:09]
    CLOCK: [2018-10-27 Sat 19:49]--[2018-10-27 Sat 20:09] =>  0:20
+   :END:
+** DONE Review<2019-02-25 Mon 04:57>99.4%
+   CLOSED: [2019-02-25 Mon 05:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-25 Mon 05:16]
+   CLOCK: [2019-02-25 Mon 04:57]--[2019-02-25 Mon 05:16] =>  0:19
+   :END:
+** DONE Review<2019-02-25 Mon 14:57>99.5%
+   CLOSED: [2019-02-25 Mon 15:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-25 Mon 15:15]
+   CLOCK: [2019-02-25 Mon 14:56]--[2019-02-25 Mon 15:15] =>  0:19
+   :END:
+** DONE Review<2019-02-25 Mon 17:52>99.9%
+   CLOSED: [2019-02-25 Mon 18:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-25 Mon 18:11]
+   CLOCK: [2019-02-25 Mon 17:52]--[2019-02-25 Mon 18:11] =>  0:19
    :END:
 * lesson 13twenty two
 ** DONE Review twenty two 93.6%
@@ -5190,6 +5214,18 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-10-29 Mon 19:07]
    CLOCK: [2018-10-29 Mon 18:53]--[2018-10-29 Mon 19:07] =>  0:14
+   :END:
+** DONE Review<2019-02-25 Mon 18:12>99.5%
+   CLOSED: [2019-02-25 Mon 18:26]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-25 Mon 18:26]
+   CLOCK: [2019-02-25 Mon 18:11]--[2019-02-25 Mon 18:26] =>  0:15
+   :END:
+** DONE Review<2019-02-25 Mon 21:06>99.4%
+   CLOSED: [2019-02-25 Mon 21:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-02-25 Mon 21:19]
+   CLOCK: [2019-02-25 Mon 21:06]--[2019-02-25 Mon 21:19] =>  0:13
    :END:
 * lesson 12twenty three
 ** DONE Review twenty three 97.1%
