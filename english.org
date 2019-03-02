@@ -6160,6 +6160,30 @@ meet shang hai ruiya 葛锡宝
    - State "DONE"       from "STARTED"    [2019-02-17 Sun 04:16]
    CLOCK: [2019-02-17 Sun 03:56]--[2019-02-17 Sun 04:16] =>  0:20
    :END:
+** DONE Review<2019-03-02 Sat 04:27>98.8%
+   CLOSED: [2019-03-02 Sat 04:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-02 Sat 04:46]
+   CLOCK: [2019-03-02 Sat 04:27]--[2019-03-02 Sat 04:46] =>  0:19
+   :END:
+** DONE Review<2019-03-02 Sat 04:47>99.7%
+   CLOSED: [2019-03-02 Sat 05:06]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-02 Sat 05:06]
+   CLOCK: [2019-03-02 Sat 04:47]--[2019-03-02 Sat 05:06] =>  0:19
+   :END:
+** DONE Review<2019-03-02 Sat 06:24>99.6%
+   CLOSED: [2019-03-02 Sat 06:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-02 Sat 06:42]
+   CLOCK: [2019-03-02 Sat 06:23]--[2019-03-02 Sat 06:42] =>  0:19
+   :END:
+** DONE Review<2019-03-02 Sat 09:20>99.8%
+   CLOSED: [2019-03-02 Sat 09:40]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-02 Sat 09:40]
+   CLOCK: [2019-03-02 Sat 09:19]--[2019-03-02 Sat 09:40] =>  0:21
+   :END:
 * lesson 8twenty six
 ** DONE Review twenty six 95.2%
   CLOSED: [2016-08-12 五 08:55]
@@ -6561,6 +6585,24 @@ Today has review three times.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-11-04 Sun 05:21]
    CLOCK: [2018-11-04 Sun 04:56]--[2018-11-04 Sun 05:21] =>  0:25
+   :END:
+** DONE Review<2019-03-02 Sat 15:37>99.0%
+   CLOSED: [2019-03-02 Sat 16:01]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-02 Sat 16:01]
+   CLOCK: [2019-03-02 Sat 15:36]--[2019-03-02 Sat 16:01] =>  0:25
+   :END:
+** DONE Review<2019-03-02 Sat 20:21>99.3%
+   CLOSED: [2019-03-02 Sat 20:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-02 Sat 20:42]
+   CLOCK: [2019-03-02 Sat 20:20]--[2019-03-02 Sat 20:42] =>  0:22
+   :END:
+** DONE Review<2019-03-02 Sat 21:34>98.9%
+   CLOSED: [2019-03-02 Sat 21:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-02 Sat 21:54]
+   CLOCK: [2019-03-02 Sat 21:33]--[2019-03-02 Sat 21:54] =>  0:21
    :END:
 * lesson 9twenty seven
 ** DONE Review twenty seven 95.7%
@@ -15795,11 +15837,13 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 * TODO [#b] Words Book one
-  DEADLINE: <2019-03-02 Sat 08:30 +1m> SCHEDULED: <2019-03-02 Sat 08:00 +1m>
+  DEADLINE: <2019-04-02 Tue 08:30 +1m> SCHEDULED:<2019-04-02 Tue 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-02-02 Sat 06:32]
+  :LAST_REPEAT: [2019-03-02 Sat 10:09]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-03-02 Sat 10:09]
+  CLOCK: [2019-03-02 Sat 09:41]--[2019-03-02 Sat 10:09] =>  0:28
   - State "DONE"       from "STARTED"    [2019-02-02 Sat 06:32]
   - State "DONE"       from "STARTED"    [2019-01-02 Wed 07:47]
   - State "DONE"       from "STARTED"    [2018-11-02 Fri 08:10]
