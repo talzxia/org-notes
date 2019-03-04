@@ -6625,6 +6625,24 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2019-03-03 Sun 17:09]
    CLOCK: [2019-03-03 Sun 17:05]--[2019-03-03 Sun 17:09] =>  0:04
    :END:
+** DONE Review<2019-03-04 Mon 05:18>99.5%
+   CLOSED: [2019-03-04 Mon 05:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-04 Mon 05:38]
+   CLOCK: [2019-03-04 Mon 05:17]--[2019-03-04 Mon 05:38] =>  0:21
+   :END:
+** DONE Review<2019-03-04 Mon 18:33>99.2%
+   CLOSED: [2019-03-04 Mon 18:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-04 Mon 18:52]
+   CLOCK: [2019-03-04 Mon 18:32]--[2019-03-04 Mon 18:52] =>  0:20
+   :END:
+** DONE Review<2019-03-04 Mon 18:52>99%
+   CLOSED: [2019-03-04 Mon 19:11]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-04 Mon 19:11]
+   CLOCK: [2019-03-04 Mon 18:52]--[2019-03-04 Mon 19:11] =>  0:19
+   :END:
 * lesson 9twenty seven
 ** DONE Review twenty seven 95.7%
    CLOSED: [2016-08-12 五 14:38]
@@ -6954,6 +6972,18 @@ Today has review three times.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2019-02-10 Sun 12:02]
    CLOCK: [2019-02-10 Sun 11:43]--[2019-02-10 Sun 12:02] =>  0:19
+   :END:
+** DONE Review<2019-03-04 Mon 05:39>99.6%
+   CLOSED: [2019-03-04 Mon 05:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-04 Mon 05:58]
+   CLOCK: [2019-03-04 Mon 05:39]--[2019-03-04 Mon 05:58] =>  0:19
+   :END:
+** DONE Review<2019-03-04 Mon 21:15>99.3%
+   CLOSED: [2019-03-04 Mon 21:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-04 Mon 21:33]
+   CLOCK: [2019-03-04 Mon 21:14]--[2019-03-04 Mon 21:33] =>  0:19
    :END:
 * lesson 50twenty eight
 ** DONE Review twenty eight 95.3%
