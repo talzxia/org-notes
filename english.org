@@ -7715,6 +7715,24 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2019-03-08 Fri 20:26]
    CLOCK: [2019-03-08 Fri 20:01]--[2019-03-08 Fri 20:26] =>  0:25
    :END:
+** DONE Review<2019-03-09 Sat 03:42>99.3%
+   CLOSED: [2019-03-09 Sat 04:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-09 Sat 04:07]
+   CLOCK: [2019-03-09 Sat 03:41]--[2019-03-09 Sat 04:07] =>  0:26
+   :END:
+** DONE Review<2019-03-09 Sat 15:52>99.3%
+   CLOSED: [2019-03-09 Sat 16:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-09 Sat 16:16]
+   CLOCK: [2019-03-09 Sat 15:52]--[2019-03-09 Sat 16:16] =>  0:24
+   :END:
+** DONE Review<2019-03-09 Sat 21:00>99.4%
+   CLOSED: [2019-03-09 Sat 21:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-09 Sat 21:24]
+   CLOCK: [2019-03-09 Sat 21:00]--[2019-03-09 Sat 21:24] =>  0:24
+   :END:
 * lesson 5thirty
 ** DONE Review thirty 93.9%
    CLOSED: [2016-08-01 Mon 19:27]
@@ -8315,6 +8333,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2018-11-18 Sun 08:52]
    CLOCK: [2018-11-18 Sun 08:17]--[2018-11-18 Sun 08:52] =>  0:35
+   :END:
+** DONE Review<2019-03-09 Sat 16:18>98.8%
+   CLOSED: [2019-03-09 Sat 16:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-09 Sat 16:55]
+   CLOCK: [2019-03-09 Sat 16:17]--[2019-03-09 Sat 16:55] =>  0:38
    :END:
 * lesson 2thirty one
 ** DONE 复习 95.0%
