@@ -1259,13 +1259,14 @@ SCHEDULED: <2019-03-13 Wed 07:00 +1d> DEADLINE: <2019-03-13 Wed 07:40 +1d>
 财经系陈卫华
 
 
-** STARTED [#A]lunch
-SCHEDULED: <2019-03-13 Wed 11:40 +1d> DEADLINE: <2019-03-12 Tue 13:40 +1d>
+** TODO [#A]lunch
+SCHEDULED: <2019-03-14 Thu 11:40 +1d> DEADLINE: <2019-03-13 Wed 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-03-11 Mon 14:31]
+   :LAST_REPEAT: [2019-03-12 Tue 15:22]
    :END:
    :LOGBOOK:
-   CLOCK: [2019-03-12 Tue 11:09]
+   - State "DONE"       from "STARTED"    [2019-03-12 Tue 15:22]
+   CLOCK: [2019-03-12 Tue 11:09]--[2019-03-12 Tue 15:22] =>  4:13
    - State "DONE"       from "STARTED"    [2019-03-11 Mon 14:31]
    CLOCK: [2019-03-11 Mon 11:15]--[2019-03-11 Mon 14:31] =>  3:16
    - State "DONE"       from "STARTED"    [2019-03-10 Sun 15:18]
@@ -2446,12 +2447,13 @@ SCHEDULED: <2019-03-13 Wed 11:40 +1d> DEADLINE: <2019-03-12 Tue 13:40 +1d>
     :END:
 13:50-14:30检查
 
-** TODO [#B] dinner
+** STARTED [#B] dinner
    DEADLINE: <2019-03-12 Tue 18:40 +1d> SCHEDULED: <2019-03-13 Wed 17:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2019-03-11 Mon 19:31]
    :END:
    :LOGBOOK:
+   CLOCK: [2019-03-12 Tue 17:28]
    - State "DONE"       from "STARTED"    [2019-03-11 Mon 19:31]
    CLOCK: [2019-03-11 Mon 16:05]--[2019-03-11 Mon 19:31] =>  3:26
    - State "DONE"       from "STARTED"    [2019-03-10 Sun 20:17]
@@ -8755,11 +8757,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
 * TODO [#a] Copy (a model of calligraphy)
-   SCHEDULED: <2019-03-12 Tue 09:00 +1d> DEADLINE: <2019-03-12 Tue 08:00 +1d>
+   SCHEDULED: <2019-03-13 Wed 09:00 +1d> DEADLINE: <2019-03-13 Wed 08:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-03-11 Mon 14:58]
+   :LAST_REPEAT: [2019-03-12 Tue 17:20]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-12 Tue 17:20]
+   CLOCK: [2019-03-12 Tue 16:30]--[2019-03-12 Tue 17:20] =>  0:50
    - State "DONE"       from "STARTED"    [2019-03-11 Mon 14:58]
    CLOCK: [2019-03-11 Mon 14:31]--[2019-03-11 Mon 14:58] =>  0:27
    - State "DONE"       from "STARTED"    [2019-03-10 Sun 21:20]
