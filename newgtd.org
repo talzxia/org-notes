@@ -2447,13 +2447,14 @@ SCHEDULED: <2019-03-14 Thu 11:40 +1d> DEADLINE: <2019-03-13 Wed 13:40 +1d>
     :END:
 13:50-14:30检查
 
-** STARTED [#B] dinner
-   DEADLINE: <2019-03-12 Tue 18:40 +1d> SCHEDULED: <2019-03-13 Wed 17:40 +1d>
+** TODO [#B] dinner
+   DEADLINE: <2019-03-13 Wed 18:40 +1d> SCHEDULED: <2019-03-14 Thu 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-03-11 Mon 19:31]
+   :LAST_REPEAT: [2019-03-12 Tue 20:31]
    :END:
    :LOGBOOK:
-   CLOCK: [2019-03-12 Tue 17:28]
+   - State "DONE"       from "STARTED"    [2019-03-12 Tue 20:31]
+   CLOCK: [2019-03-12 Tue 17:28]--[2019-03-12 Tue 20:31] =>  3:03
    - State "DONE"       from "STARTED"    [2019-03-11 Mon 19:31]
    CLOCK: [2019-03-11 Mon 16:05]--[2019-03-11 Mon 19:31] =>  3:26
    - State "DONE"       from "STARTED"    [2019-03-10 Sun 20:17]
@@ -4252,7 +4253,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
    DEADLINE: <2019-03-13 Wed 05:00 +1d> SCHEDULED: <2019-03-12 Tue 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
@@ -4261,6 +4262,7 @@ clean up spending 15 minutes
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2019-03-12 Tue 21:39]
   - State "DONE"       from "STARTED"    [2019-03-12 Tue 02:30]
   CLOCK: [2019-03-11 Mon 21:01]--[2019-03-12 Tue 02:30] =>  5:29
   - State "DONE"       from "STARTED"    [2019-03-11 Mon 02:36]
@@ -8141,9 +8143,11 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
 * TODO [#b] Copy a model of paiting
    SCHEDULED: <2019-03-13 Wed 09:00 .+1d> DEADLINE: <2019-03-13 Wed 08:00 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-03-12 Tue 09:18]
+   :LAST_REPEAT: [2019-03-12 Tue 21:27]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-12 Tue 21:27]
+   CLOCK: [2019-03-12 Tue 20:31]--[2019-03-12 Tue 21:27] =>  0:56
    - State "DONE"       from "STARTED"    [2019-03-12 Tue 09:18]
    CLOCK: [2019-03-12 Tue 08:31]--[2019-03-12 Tue 09:18] =>  0:47
    - State "DONE"       from "STARTED"    [2019-03-11 Mon 05:20]
