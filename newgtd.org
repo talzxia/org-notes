@@ -4253,15 +4253,16 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
-   DEADLINE: <2019-03-13 Wed 05:00 +1d> SCHEDULED: <2019-03-12 Tue 22:00 +1d>
+* TODO [#A] sleep
+   DEADLINE: <2019-03-14 Thu 05:00 +1d> SCHEDULED: <2019-03-13 Wed 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2019-03-12 Tue 02:30]
+  :LAST_REPEAT: [2019-03-13 Wed 05:07]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-03-13 Wed 05:07]
   CLOCK: [2019-03-12 Tue 21:39]
   - State "DONE"       from "STARTED"    [2019-03-12 Tue 02:30]
   CLOCK: [2019-03-11 Mon 21:01]--[2019-03-12 Tue 02:30] =>  5:29
