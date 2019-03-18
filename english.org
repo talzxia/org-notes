@@ -8451,6 +8451,30 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2019-03-17 Sun 19:29]
    CLOCK: [2019-03-17 Sun 18:56]--[2019-03-17 Sun 19:29] =>  0:33
    :END:
+** DONE Review<2019-03-18 Mon 03:27>99%
+   CLOSED: [2019-03-18 Mon 04:02]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-18 Mon 04:02]
+   CLOCK: [2019-03-18 Mon 03:27]--[2019-03-18 Mon 04:02] =>  0:35
+   :END:
+** DONE Review<2019-03-18 Mon 06:15>99.3%
+   CLOSED: [2019-03-18 Mon 06:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-18 Mon 06:46]
+   CLOCK: [2019-03-18 Mon 06:14]--[2019-03-18 Mon 06:46] =>  0:32
+   :END:
+** DONE Review<2019-03-18 Mon 16:48>99.4%
+   CLOSED: [2019-03-18 Mon 17:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-18 Mon 17:23]
+   CLOCK: [2019-03-18 Mon 16:48]--[2019-03-18 Mon 17:23] =>  0:35
+   :END:
+** DONE Review<2019-03-18 Mon 20:53>99.5%
+   CLOSED: [2019-03-18 Mon 21:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-18 Mon 21:28]
+   CLOCK: [2019-03-18 Mon 20:53]--[2019-03-18 Mon 21:28] =>  0:35
+   :END:
 * lesson 2thirty one
 ** DONE 复习 95.0%
    CLOSED: [2016-07-25 Mon 18:10]
@@ -15873,7 +15897,7 @@ A notebook is finished.
    :END:
 
 * DONE [#B]Writing
-  CLOSED: [2019-03-15 Fri 11:23]
+  CLOSED: [2019-03-18 Mon 05:21]
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-12 Mon 20:30]
    :END:
@@ -15881,6 +15905,9 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-03-18 Mon 05:21]
+   - State "STARTED"    from "DONE"       [2019-03-18 Mon 04:56]
+   CLOCK: [2019-03-18 Mon 04:56]--[2019-03-18 Mon 05:21] =>  0:25
    - State "DONE"       from "STARTED"    [2019-03-15 Fri 11:23]
    - State "STARTED"    from "DONE"       [2019-03-15 Fri 10:28]
    CLOCK: [2019-03-15 Fri 10:28]--[2019-03-15 Fri 11:23] =>  0:55
