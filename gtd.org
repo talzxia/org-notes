@@ -8085,9 +8085,11 @@ CLOSED: [2017-10-22 日 20:46]
   
   [2019-03-29 Fri 09:09]
 
-** STARTED [#B] go home
+** DONE [#B] go home
+   CLOSED: [2019-03-30 Sat 15:23]
    :LOGBOOK:
-   CLOCK: [2019-03-30 Sat 07:38]
+   - State "DONE"       from "STARTED"    [2019-03-30 Sat 15:23]
+   CLOCK: [2019-03-30 Sat 07:38]--[2019-03-30 Sat 15:23] =>  7:45
    :END:
   
   [2019-03-30 Sat 07:38]
