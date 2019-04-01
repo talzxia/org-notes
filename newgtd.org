@@ -2522,11 +2522,13 @@ SCHEDULED: <2019-04-03 Wed 11:40 +1d> DEADLINE: <2019-04-02 Tue 13:40 +1d>
 13:50-14:30检查
 
 ** TODO [#B] dinner
-   DEADLINE: <2019-04-01 Mon 18:40 +1d> SCHEDULED: <2019-04-02 Tue 17:40 +1d>
+   DEADLINE: <2019-04-02 Tue 18:40 +1d> SCHEDULED: <2019-04-03 Wed 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-03-31 Sun 20:33]
+   :LAST_REPEAT: [2019-04-01 Mon 20:38]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-04-01 Mon 20:38]
+   CLOCK: [2019-04-01 Mon 17:07]--[2019-04-01 Mon 20:38] =>  3:31
    - State "DONE"       from "STARTED"    [2019-03-31 Sun 20:33]
    CLOCK: [2019-03-31 Sun 19:01]--[2019-03-31 Sun 20:33] =>  1:32
    - State "DONE"       from "STARTED"    [2019-03-31 Sun 03:24]
@@ -9611,13 +9613,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* STARTED [#B] browse news and free learn
-  DEADLINE: <2019-04-01 Mon 08:30 .+1d> SCHEDULED: <2019-04-01 Mon 08:20 .+1d>
+* TODO [#B] browse news and free learn
+  DEADLINE: <2019-04-02 Tue 08:30 .+1d> SCHEDULED: <2019-04-02 Tue 08:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-03-31 Sun 19:01]
+  :LAST_REPEAT: [2019-04-01 Mon 21:40]
   :END:
   :LOGBOOK:
-  CLOCK: [2019-04-01 Mon 16:26]
+  - State "DONE"       from "STARTED"    [2019-04-01 Mon 21:40]
+  CLOCK: [2019-04-01 Mon 16:26]--[2019-04-01 Mon 20:17] =>  3:51
   CLOCK: [2019-04-01 Mon 12:56]--[2019-04-01 Mon 13:04] =>  0:08
   - State "DONE"       from "STARTED"    [2019-03-31 Sun 19:01]
   CLOCK: [2019-03-31 Sun 08:24]--[2019-03-31 Sun 09:55] =>  1:31
@@ -12371,11 +12374,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-23 一 21:31]
   :END:
 * TODO [#A] Physical exercise
-  DEADLINE: <2019-04-01 Mon 16:40 +1d> SCHEDULED: <2019-04-01 Mon 16:00 +1d>
+  DEADLINE: <2019-04-02 Tue 16:40 +1d> SCHEDULED: <2019-04-02 Tue 16:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-03-31 Sun 19:01]
+  :LAST_REPEAT: [2019-04-01 Mon 21:40]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-04-01 Mon 21:40]
   - State "DONE"       from "STARTED"    [2019-03-31 Sun 19:01]
   - State "DONE"       from "STARTED"    [2019-03-31 Sun 03:25]
   - State "DONE"       from "STARTED"    [2019-03-29 Fri 06:49]
