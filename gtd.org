@@ -8095,8 +8095,14 @@ CLOSED: [2017-10-22 日 20:46]
   [2019-03-30 Sat 07:38]
 
 ** DONE [#B] 政协会
-   CLOSED: [2019-04-01 Mon 15:57]
+   CLOSED: [2019-04-02 Tue 16:30]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-04-02 Tue 16:30]
+   - State "STARTED"    from "DONE"       [2019-04-02 Tue 13:38]
+   CLOCK: [2019-04-02 Tue 13:38]--[2019-04-02 Tue 16:30] =>  2:52
+   - State "DONE"       from "STARTED"    [2019-04-02 Tue 10:33]
+   - State "STARTED"    from "DONE"       [2019-04-02 Tue 08:22]
+   CLOCK: [2019-04-02 Tue 08:22]--[2019-04-02 Tue 10:33] =>  2:11
    - State "DONE"       from "STARTED"    [2019-04-01 Mon 15:57]
    - State "STARTED"    from "DONE"       [2019-04-01 Mon 13:44]
    CLOCK: [2019-04-01 Mon 13:44]--[2019-04-01 Mon 15:57] =>  2:13
