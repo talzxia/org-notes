@@ -8094,10 +8094,12 @@ CLOSED: [2017-10-22 日 20:46]
   
   [2019-03-30 Sat 07:38]
 
-** STARTED [#B] 政协会
+** DONE [#B] 政协会
+   CLOSED: [2019-04-03 Wed 19:04]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-04-03 Wed 19:04]
    - State "STARTED"    from "DONE"       [2019-04-03 Wed 12:25]
-   CLOCK: [2019-04-03 Wed 12:25]
+   CLOCK: [2019-04-03 Wed 12:25]--[2019-04-03 Wed 16:30] =>  4:05
    - State "DONE"       from "STARTED"    [2019-04-03 Wed 11:24]
    - State "STARTED"    from "DONE"       [2019-04-03 Wed 09:14]
    CLOCK: [2019-04-03 Wed 09:14]--[2019-04-03 Wed 11:24] =>  2:10
