@@ -10615,6 +10615,18 @@ CLOCK: [2017-10-23 一 05:53]--[2017-10-23 一 06:25] =>  0:32
    - State "DONE"       from "STARTED"    [2019-04-18 Thu 05:41]
    CLOCK: [2019-04-18 Thu 05:18]--[2019-04-18 Thu 05:41] =>  0:23
    :END:
+** DONE Reveiw<2019-04-19 Fri 04:17>99.4%
+   CLOSED: [2019-04-19 Fri 04:41]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-04-19 Fri 04:41]
+   CLOCK: [2019-04-19 Fri 04:16]--[2019-04-19 Fri 04:41] =>  0:25
+   :END:
+** DONE Reveiw<2019-04-19 Fri 14:42>99.6%
+   CLOSED: [2019-04-19 Fri 15:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-04-19 Fri 15:05]
+   CLOCK: [2019-04-19 Fri 14:41]--[2019-04-19 Fri 15:05] =>  0:24
+   :END:
 * lesson 14thirty six
 ** DONE Review<2017-11-02 四 05:22>98.1%
    CLOSED: [2017-11-02 四 05:44]
@@ -16222,7 +16234,7 @@ A notebook is finished.
    :END:
 
 * DONE [#B]Writing
-  CLOSED: [2019-04-16 Tue 18:57]
+  CLOSED: [2019-04-19 Fri 15:32]
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-12 Mon 20:30]
    :END:
@@ -16230,6 +16242,9 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-04-19 Fri 15:32]
+   - State "STARTED"    from "DONE"       [2019-04-19 Fri 15:06]
+   CLOCK: [2019-04-19 Fri 15:06]--[2019-04-19 Fri 15:32] =>  0:26
    - State "DONE"       from "STARTED"    [2019-04-16 Tue 18:57]
    - State "STARTED"    from "DONE"       [2019-04-16 Tue 18:44]
    CLOCK: [2019-04-16 Tue 18:44]--[2019-04-16 Tue 18:57] =>  0:13
@@ -17913,16 +17928,18 @@ Sally was amused, but I was very embarrassed!
 *** Lesson 143 林中散步
 I live in a very old town which is surrounded by beautiful woods.
 It is a famous beauty spot.
-On Sundays, hundreds of people come from the city to see our town and to walk through the woods.
+On Sundays, hundreds of people come from the city to see our town and to walk
+through the woods.
 Visitors have been asked to keep the woods clean and tidy.
 Litter baskets have been placed under the trees,
 but people still throw their rubbish everywhere.
 Last Wednesday, I went for a walk in the woods.
 What I saw made me very sad.
 I counted seven old cars and three old refrigerators.
-The litter baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins.
-Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecruted!
-'
+The litter baskets were empty and the ground was covered with pieces of paper,
+cigarette ends, old tyres, empty bottles and rusty tins.
+Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these
+woods will be prosecuted!'
   CLOSED: [2018-05-14 一 10:38]
   :PROPERTIES:
   :LAST_REPEAT: [2018-05-13 日 21:38]
