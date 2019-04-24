@@ -16258,7 +16258,8 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-05-14 一 20:23]
    :END:
 
-* STARTED [#B]Writing
+* DONE [#B]Writing
+  CLOSED: [2019-04-24 Wed 19:59]
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-12 Mon 20:30]
    :END:
@@ -16266,6 +16267,11 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-04-24 Wed 19:59]
+   - State "STARTED"    from "DONE"       [2019-04-24 Wed 19:32]
+   CLOCK: [2019-04-24 Wed 19:32]--[2019-04-24 Wed 19:59] =>  0:27
+   - State "DONE"       from "STARTED"    [2019-04-24 Wed 15:12]
+   CLOCK: [2019-04-24 Wed 14:36]--[2019-04-24 Wed 15:12] =>  0:36
    CLOCK: [2019-04-23 Tue 04:52]--[2019-04-23 Tue 06:02] =>  1:10
    - State "STARTED"    from "DONE"       [2019-04-20 Sat 17:12]
    CLOCK: [2019-04-20 Sat 17:12]--[2019-04-20 Sat 17:18] =>  0:06
