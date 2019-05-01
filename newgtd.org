@@ -4538,7 +4538,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
    DEADLINE: <2019-05-02 Thu 05:00 +1d> SCHEDULED: <2019-05-01 Wed 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
@@ -4547,6 +4547,7 @@ clean up spending 15 minutes
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2019-05-01 Wed 21:10]
   - State "DONE"       from "STARTED"    [2019-05-01 Wed 04:34]
   CLOCK: [2019-04-30 Tue 21:47]--[2019-05-01 Wed 04:34] =>  6:47
   - State "DONE"       from "STARTED"    [2019-04-30 Tue 04:38]
@@ -10139,13 +10140,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* STARTED [#B] browse news and free learn
-  DEADLINE: <2019-05-01 Wed 06:50 .+1d> SCHEDULED: <2019-05-01 Wed 07:00 .+1d>
+* TODO [#B] browse news and free learn
+  DEADLINE: <2019-05-02 Thu 06:50 .+1d> SCHEDULED: <2019-05-02 Thu 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-04-30 Tue 21:47]
+  :LAST_REPEAT: [2019-05-01 Wed 21:10]
   :END:
   :LOGBOOK:
-  CLOCK: [2019-05-01 Wed 19:34]
+  - State "DONE"       from "STARTED"    [2019-05-01 Wed 21:10]
+  CLOCK: [2019-05-01 Wed 19:34]--[2019-05-01 Wed 21:10] =>  1:36
   CLOCK: [2019-05-01 Wed 11:52]--[2019-05-01 Wed 11:56] =>  0:04
   CLOCK: [2019-05-01 Wed 06:00]--[2019-05-01 Wed 06:06] =>  0:06
   - State "DONE"       from "STARTED"    [2019-04-30 Tue 21:47]
