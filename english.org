@@ -16355,7 +16355,7 @@ A notebook is finished.
    :END:
 
 * DONE [#B]Writing
-  CLOSED: [2019-04-29 Mon 18:45]
+  CLOSED: [2019-05-05 Sun 20:21]
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-12 Mon 20:30]
    :END:
@@ -16363,6 +16363,9 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-05-05 Sun 20:21]
+   - State "STARTED"    from "DONE"       [2019-05-05 Sun 19:42]
+   CLOCK: [2019-05-05 Sun 19:42]--[2019-05-05 Sun 20:21] =>  0:39
    - State "DONE"       from "STARTED"    [2019-04-29 Mon 18:45]
    - State "STARTED"    from "DONE"       [2019-04-29 Mon 18:17]
    CLOCK: [2019-04-29 Mon 18:17]--[2019-04-29 Mon 18:45] =>  0:28
