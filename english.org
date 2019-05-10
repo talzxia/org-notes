@@ -59,75 +59,7 @@
    - State "DONE"       from "STARTED"    [2018-02-05 Mon 19:01]
    CLOCK: [2018-02-05 Mon 18:47]--[2018-02-05 Mon 19:01] =>  0:14
    :END:
-** DONE Review<2018-04-03 二 18:49>99.6%
-   CLOSED: [2018-04-03 二 19:01]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2018-04-03 二 19:01]
-   CLOCK: [2018-04-03 二 18:49]--[2018-04-03 二 19:01] =>  0:12
-   :END:
-** DONE Review<2018-04-04 三 05:46>99.7%
-   CLOSED: [2018-04-04 三 05:59]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2018-04-04 三 05:59]
-   CLOCK: [2018-04-04 三 05:45]--[2018-04-04 三 05:59] =>  0:14
-   :END:
-** DONE Review<2018-10-03 Wed 05:49>99.7%
-   CLOSED: [2018-10-03 Wed 06:01]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2018-10-03 Wed 06:01]
-   CLOCK: [2018-10-03 Wed 05:49]--[2018-10-03 Wed 06:01] =>  0:12
-   :END:
-** DONE Review<2018-10-06 Sat 07:03>99.8%
-   CLOSED: [2018-10-06 Sat 07:16]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2018-10-06 Sat 07:16]
-   CLOCK: [2018-10-06 Sat 07:03]--[2018-10-06 Sat 07:16] =>  0:13
-   :END:
-** DONE Review<2018-10-11 Thu 05:33>100%
-   CLOSED: [2018-10-11 Thu 05:47]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2018-10-11 Thu 05:47]
-   CLOCK: [2018-10-11 Thu 05:33]--[2018-10-11 Thu 05:47] =>  0:14
-   :END:
-* lesson 43two
-** DONE Review<2017-11-06 一 05:42>99.6%
-   CLOSED: [2017-11-06 一 05:54]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2017-11-06 一 05:54]
-   CLOCK: [2017-11-06 一 05:42]--[2017-11-06 一 05:54] =>  0:12
-   :END:
-** DONE Review 98.4%
-   CLOSED: [2016-08-16 二 13:53]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-08-16 二 13:53]
-  CLOCK: [2016-08-16 二 13:40]--[2016-08-16 二 13:53] =>  0:13
-  :END:
-** DONE Review<2016-10-02 日 07:08>99.9%
-   CLOSED: [2016-10-02 日 07:22]
-** DONE Review<2016-10-02 日 09:06>100%                             :LOGBOOK:
-   CLOSED: [2016-10-02 日 09:22]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-10-02 日 09:22]
-  CLOCK: [2016-10-02 日 09:06]--[2016-10-02 日 09:22] =>  0:16
-  CLOCK: [2016-10-02 日 07:08]--[2016-10-02 日 07:22] =>  0:14
-  :END:
-  - State "DONE"       from "STARTED"    [2016-10-02 日 0:06]
-     CLOCK: [2016-10-02 日 09:06]--[2016-10-02 日 09:22] =>  0:16
-
-  :END:
-
-** DONE Review<2016-10-26 三 06:30>99.4%
-   CLOSED: [2016-10-26 三 06:43]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2016-10-26 三 06:43]
-  CLOCK: [2016-10-26 三 06:30]--[2016-10-26 三 06:43] =>  0:13
-  :END:
-** DONE Review<2017-01-15 日 06:33>99.3%k
-
-   CLOSED: [2017-01-15 日 07:00]
-  :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2017-01-15 日 07:00]
-  CLOCK: [2017-01-15 日 06:33]--[2017-01-15 日 07:00] =>  0:27
+** DONE Review<201 [2017-01-15 日 06:33]--[2017-01-15 日 07:00] =>  0:27
   :END:
 ** DONE Review<2017-03-26 Sun 05:38>99.5%
    CLOSED: [2017-03-26 Sun 05:51]
@@ -16636,6 +16568,12 @@ A notebook is finished.
    CLOCK: [2018-01-29 Mon 06:05]--[2018-01-29 Mon 06:24] =>  0:19
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
+** DONE Review<2019-05-10 Fri 05:09>98.9%
+   CLOSED: [2019-05-10 Fri 05:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-05-10 Fri 05:34]
+   CLOCK: [2019-05-10 Fri 05:09]--[2019-05-10 Fri 05:34] =>  0:25
+   :END:
 * TODO [#b] Words Book one
   DEADLINE: <2019-06-02 Sun 08:30 +1m> SCHEDULED:<2019-06-02 Sun 08:00 +1m>
   :PROPERTIES:
@@ -18155,3 +18093,5 @@ woods will be prosecuted!'
    - State "DONE"       from "STARTED"    [2018-04-24 二 15:04]
    CLOCK: [2018-04-24 二 14:34]--[2018-04-24 二 15:04] =>  0:30
    :END:
+* STARTED dkkdkdkkd                                                  :secset:
+dkkdkdkd
