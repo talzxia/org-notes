@@ -11707,6 +11707,31 @@ w<2017-10-19 四 05:46>99%
    - State "DONE"       from "STARTED"    [2019-05-08 Wed 04:23]
    CLOCK: [2019-05-08 Wed 03:58]--[2019-05-08 Wed 04:23] =>  0:25
    :END:
+** DONE [#B] Review<2019-05-10 Fri 05:09>98.9%
+   CLOSED: [2019-05-10 Fri 05:34]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-05-10 Fri 05:34]
+   CLOCK: [2019-05-10 Fri 05:09]--[2019-05-10 Fri 05:34] =>  0:25
+   :END:
+** DONE Review<2011-06-03 五>99.1%
+   CLOSED: [2019-05-11 六 03:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-05-11 六 03:39]
+   CLOCK: [2019-05-11 六 03:11]--[2019-05-11 六 03:39] =>  0:28
+   :END:
+
+** DONE Review<2019-05-11 六 20:56>99.3%
+   CLOSED: [2019-05-11 六 21:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-05-11 六 21:19]
+   CLOCK: [2019-05-11 六 20:56]--[2019-05-11 六 21:19] =>  0:23
+   :END:
+** DONE Review<2019-05-12 日 04:33>99.7%
+   CLOSED: [2019-05-12 日 04:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-05-12 日 04:59]
+   CLOCK: [2019-05-12 日 04:32]--[2019-05-12 日 04:59] =>  0:27
+   :END:
 * lesson 35thirty nine
 ** DONE Review<2017-10-27 五 03:52>99%
    CLOSED: [2017-10-27 五 04:12]
@@ -16567,12 +16592,6 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-01-29 Mon 06:24]
    CLOCK: [2018-01-29 Mon 06:05]--[2018-01-29 Mon 06:24] =>  0:19
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
-   :END:
-** DONE Review<2019-05-10 Fri 05:09>98.9%
-   CLOSED: [2019-05-10 Fri 05:34]
-   :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2019-05-10 Fri 05:34]
-   CLOCK: [2019-05-10 Fri 05:09]--[2019-05-10 Fri 05:34] =>  0:25
    :END:
 * TODO [#b] Words Book one
   DEADLINE: <2019-06-02 Sun 08:30 +1m> SCHEDULED:<2019-06-02 Sun 08:00 +1m>
