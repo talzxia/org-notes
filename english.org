@@ -12121,6 +12121,12 @@ w<2017-10-19 四 05:46>99%
    - State "DONE"       from "STARTED"    [2019-05-13 Mon 05:07]
    CLOCK: [2019-05-13 Mon 04:51]--[2019-05-13 Mon 05:07] =>  0:16
    :END:
+** DONE Review<2019-05-14 Tue 05:03>99.3%
+   CLOSED: [2019-05-14 Tue 05:20]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-05-14 Tue 05:20]
+   CLOCK: [2019-05-14 Tue 05:03]--[2019-05-14 Tue 05:20] =>  0:17
+   :END:
 * lesson 26forty
 ** DONE Review Forty
    CLOSED: [2016-08-06 六 16:31]
@@ -16347,8 +16353,8 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2018-05-14 一 20:23]
    :END:
 
-* DONE [#B]Writing
-  CLOSED: [2019-05-12 Sun 21:33]
+* DONE [#B]Wrting
+  CLOSED: [2019-05-14 Tue 20:54]
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-12 Mon 20:30]
    :END:
@@ -16356,6 +16362,9 @@ A notebook is finished.
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-05-14 Tue 20:54]
+   - State "STARTED"    from "DONE"       [2019-05-14 Tue 20:25]
+   CLOCK: [2019-05-14 Tue 20:25]--[2019-05-14 Tue 20:54] =>  0:29
    - State "DONE"       from "STARTED"    [2019-05-12 Sun 21:33]
    - State "STARTED"    from "DONE"       [2019-05-12 Sun 20:55]
    CLOCK: [2019-05-12 Sun 20:55]--[2019-05-12 Sun 21:33] =>  0:38
