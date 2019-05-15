@@ -12127,6 +12127,18 @@ w<2017-10-19 四 05:46>99%
    - State "DONE"       from "STARTED"    [2019-05-14 Tue 05:20]
    CLOCK: [2019-05-14 Tue 05:03]--[2019-05-14 Tue 05:20] =>  0:17
    :END:
+** DONE Review<2019-05-15 Wed 04:37>99.5%
+   CLOSED: [2019-05-15 Wed 04:52]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-05-15 Wed 04:52]
+   CLOCK: [2019-05-15 Wed 04:37]--[2019-05-15 Wed 04:52] =>  0:15
+   :END:
+** DONE Review<2019-05-15 Wed 04:53>99.8%
+   CLOSED: [2019-05-15 Wed 05:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-05-15 Wed 05:09]
+   CLOCK: [2019-05-15 Wed 04:53]--[2019-05-15 Wed 05:09] =>  0:16
+   :END:
 * lesson 26forty
 ** DONE Review Forty
    CLOSED: [2016-08-06 六 16:31]
