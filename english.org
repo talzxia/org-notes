@@ -13102,6 +13102,12 @@ w<2017-10-19 四 05:46>99%
    - State "DONE"       from "STARTED"    [2019-05-29 Wed 04:20]
    CLOCK: [2019-05-29 Wed 04:00]--[2019-05-29 Wed 04:20] =>  0:20
    :END:
+** DONE Review<2019-05-29 Wed 21:18>99.4%
+   CLOSED: [2019-05-29 Wed 21:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-05-29 Wed 21:36]
+   CLOCK: [2019-05-29 Wed 21:17]--[2019-05-29 Wed 21:36] =>  0:19
+   :END:
 * lesson 29forty two
 ** DONE Review <2016-08-27 六 20:55> 95.9%
    CLOSED: [2016-08-27 六 21:26]
@@ -16531,7 +16537,7 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    :END:
 
 * DONE [#B]Wrting
-  CLOSED: [2019-05-17 Fri 21:42]
+  CLOSED: [2019-05-29 Wed 21:16]
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-12 Mon 20:30]
    :END:
@@ -16539,6 +16545,9 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-05-29 Wed 21:16]
+   - State "STARTED"    from "DONE"       [2019-05-29 Wed 21:15]
+   CLOCK: [2019-05-29 Wed 20:15]--[2019-05-29 Wed 21:16] =>  1:01
    - State "DONE"       from "STARTED"    [2019-05-17 Fri 21:42]
    - State "STARTED"    from "DONE"       [2019-05-17 Fri 21:17]
    CLOCK: [2019-05-17 Fri 21:17]--[2019-05-17 Fri 21:42] =>  0:25
