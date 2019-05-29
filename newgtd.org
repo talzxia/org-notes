@@ -1415,11 +1415,13 @@ SCHEDULED: <2019-05-30 Thu 07:00 +1d> DEADLINE: <2019-05-30 Thu 07:40 +1d>
 
 
 ** TODO [#A]lunch
-SCHEDULED: <2019-05-29 Wed 11:40 +1d> DEADLINE: <2019-05-29 Wed 13:40 +1d>
+SCHEDULED: <2019-05-30 Thu 11:40 +1d> DEADLINE: <2019-05-30 Thu 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-05-28 Tue 14:29]
+   :LAST_REPEAT: [2019-05-29 Wed 14:33]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-05-29 Wed 14:33]
+   CLOCK: [2019-05-29 Wed 11:27]--[2019-05-29 Wed 14:33] =>  3:06
    - State "DONE"       from "STARTED"    [2019-05-28 Tue 14:29]
    CLOCK: [2019-05-28 Tue 11:37]--[2019-05-28 Tue 14:29] =>  2:52
    - State "DONE"       from "STARTED"    [2019-05-27 Mon 14:08]
@@ -10625,6 +10627,7 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :LAST_REPEAT: [2019-05-28 Tue 20:53]
   :END:
   :LOGBOOK:
+  CLOCK: [2019-05-29 Wed 14:34]
   CLOCK: [2019-05-29 Wed 08:26]--[2019-05-29 Wed 09:12] =>  0:46
   CLOCK: [2019-05-29 Wed 05:21]--[2019-05-29 Wed 05:48] =>  0:27
   - State "DONE"       from "STARTED"    [2019-05-28 Tue 20:53]
