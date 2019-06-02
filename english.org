@@ -13490,6 +13490,18 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2019-06-01 Sat 21:22]
    CLOCK: [2019-06-01 Sat 21:02]--[2019-06-01 Sat 21:22] =>  0:20
    :END:
+** DONE Review<2019-06-02 Sun 05:21>99.7%
+   CLOSED: [2019-06-02 Sun 05:42]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-02 Sun 05:42]
+   CLOCK: [2019-06-02 Sun 05:21]--[2019-06-02 Sun 05:42] =>  0:21
+   :END:
+** DONE Review<2019-06-02 Sun 21:21>98.5%
+   CLOSED: [2019-06-02 Sun 21:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-02 Sun 21:39]
+   CLOCK: [2019-06-02 Sun 21:21]--[2019-06-02 Sun 21:39] =>  0:18
+   :END:
 * lesson 28forty three
 ** DONE Review 94.8%
    CLOSED: [2016-08-23 二 5:44]
@@ -16573,7 +16585,7 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    :END:
 
 * DONE [#B]Wrting
-  CLOSED: [2019-06-01 Sat 18:45]
+  CLOSED: [2019-06-02 Sun 16:36]
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-12 Mon 20:30]
    :END:
@@ -16581,6 +16593,12 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-02 Sun 16:36]
+   - State "STARTED"    from "DONE"       [2019-06-02 Sun 16:03]
+   CLOCK: [2019-06-02 Sun 16:03]--[2019-06-02 Sun 16:36] =>  0:33
+   - State "DONE"       from "STARTED"    [2019-06-02 Sun 11:51]
+   - State "STARTED"    from "DONE"       [2019-06-02 Sun 11:19]
+   CLOCK: [2019-06-02 Sun 11:19]--[2019-06-02 Sun 11:51] =>  0:32
    - State "DONE"       from "STARTED"    [2019-06-01 Sat 18:45]
    - State "STARTED"    from "DONE"       [2019-06-01 Sat 18:20]
    CLOCK: [2019-06-01 Sat 18:20]--[2019-06-01 Sat 18:45] =>  0:25
@@ -16852,11 +16870,12 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 * TODO [#b] Words Book one
-  DEADLINE: <2019-06-02 Sun 08:30 +1m> SCHEDULED:<2019-06-02 Sun 08:00 +1m>
+  DEADLINE: <2019-07-02 Tue 08:30 +1m> SCHEDULED:<2019-07-02 Tue 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-05-02 Thu 21:04]
+  :LAST_REPEAT: [2019-06-02 Sun 09:12]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-02 Sun 09:12]
   - State "DONE"       from "STARTED"    [2019-05-02 Thu 21:04]
   - State "DONE"       from "STARTED"    [2019-04-02 Tue 08:14]
   - State "DONE"       from "STARTED"    [2019-03-02 Sat 10:09]
@@ -18370,8 +18389,3 @@ woods will be prosecuted!'
    - State "DONE"       from "STARTED"    [2018-04-24 二 15:04]
    CLOCK: [2018-04-24 二 14:34]--[2018-04-24 二 15:04] =>  0:30
    :END:
-* STARTED dkkdkdkkd                                                  :secset:
-  :LOGBOOK:
-  CLOCK: [2019-05-23 Thu 21:31]--[2019-05-23 Thu 21:36] =>  0:05
-  :END:
-dkkdkdkd
