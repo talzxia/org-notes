@@ -13502,6 +13502,18 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2019-06-02 Sun 21:39]
    CLOCK: [2019-06-02 Sun 21:21]--[2019-06-02 Sun 21:39] =>  0:18
    :END:
+** DONE Review<2019-06-03 Mon 03:25>99.7%
+   CLOSED: [2019-06-03 Mon 03:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-03 Mon 03:43]
+   CLOCK: [2019-06-03 Mon 03:24]--[2019-06-03 Mon 03:43] =>  0:19
+   :END:
+** DONE Review<2019-06-03 Mon 19:40>99.8%
+   CLOSED: [2019-06-03 Mon 19:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-03 Mon 19:59]
+   CLOCK: [2019-06-03 Mon 19:39]--[2019-06-03 Mon 19:59] =>  0:20
+   :END:
 * lesson 28forty three
 ** DONE Review 94.8%
    CLOSED: [2016-08-23 二 5:44]
@@ -16585,7 +16597,7 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    :END:
 
 * DONE [#B]Wrting
-  CLOSED: [2019-06-02 Sun 16:36]
+  CLOSED: [2019-06-03 Mon 18:44]
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-12 Mon 20:30]
    :END:
@@ -16593,6 +16605,9 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-03 Mon 18:44]
+   - State "STARTED"    from "DONE"       [2019-06-03 Mon 18:43]
+   CLOCK: [2019-06-03 Mon 18:09]--[2019-06-03 Mon 18:44] =>  0:35
    - State "DONE"       from "STARTED"    [2019-06-02 Sun 16:36]
    - State "STARTED"    from "DONE"       [2019-06-02 Sun 16:03]
    CLOCK: [2019-06-02 Sun 16:03]--[2019-06-02 Sun 16:36] =>  0:33
