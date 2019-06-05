@@ -1,0 +1,34 @@
+** My project
+   :PROPERTIES:
+   :COLUMNS:  %20ITEM %9Approved(Approved?){X} %Owner %11Status %10Time_Spent{:}
+   :Owner_ALL:    Tammy Mark Karl Lisa Don
+   :Status_ALL:   "In progress" "Not started yet" "Finished" ""
+   :Approved_ALL: "[ ]" "[X]"
+   :END:
+ 
+*** Item 1
+    :PROPERTIES:
+    :Owner:    Tammy
+    :Time_spent:   1:45
+    :Status:   Finished
+    :END:
+ 
+*** Item 2
+    :PROPERTIES:
+    :Owner:    Tammy
+    :Status:   In progress
+    :Time_spent:   0:15
+    :END:
+ 
+*** Item 3
+    :PROPERTIES:
+    :Owner:    Lisa
+    :Status:   Not started yet
+    :Approved: [X]
+    :END:
+
+--------------------- 
+作者：weixin_34199405 
+来源：CSDN 
+原文：https://blog.csdn.net/weixin_34199405/article/details/86813887 
+版权声明：本文为博主原创文章，转载请附上博文链接！

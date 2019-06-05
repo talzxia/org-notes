@@ -1,0 +1,62 @@
+*粗体*	粗体
+/斜体/	
++删除线+	
+_下划线_
+#+TITLE: Emacs 最好的编辑器，没有之一
+#+AUTHOR: GuoPei
+#+EMAIL: xxx@xxx
+#+KEYWORDS:emacs ，org-mode
+
+* The largest heading
+** The second largest heading
+******* the mallest heading
+
+
+字体标注：
+*Bold*    
+/Italic/    
++Strikethrough+    
+*/Bold and italic/*    
+
+引用：
+#+BEGIN_QUOTE
+可以赢，但没必要！
+#+END_QUOTE
+
+代码块：
+#+BEGIN_SRC python
+  def printa():
+    print 'a'
+#+END_SRC
+
+
+链接：
+[[https://www.baidu.com][百度]]
+
+图片：
+[[http://osriq34d5.bkt.clouddn.com/20181008174515.png]]
+
+有序列表：
+1. 条目1；
+2. 条目2；
+3. 条目3；
+
+无序列表：
++ 香蕉
++ 苹果
++ 草莓
+
+分割线：
+-----
+
+表格：
+| 第一列     | 第二列 | 第三列 |
+| Google | Yahoo | [https://www.baidu.com][百度]] |
+
+task lists:
+- [ ] 把冰箱门打开；
+- [ ] 把大象装进去；
+- [ ] 把冰箱门关上。
+  
+换行：
+\\
