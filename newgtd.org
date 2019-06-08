@@ -1,10 +1,12 @@
 * TODO eating
 ** TODO [#B]breakfast
-SCHEDULED: <2019-06-08 Sat 07:00 +1d> DEADLINE: <2019-06-08 Sat 07:40 +1d>
+SCHEDULED: <2019-06-09 Sun 07:00 +1d> DEADLINE: <2019-06-09 Sun 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-06-07 Fri 08:18]
+   :LAST_REPEAT: [2019-06-08 Sat 08:16]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-08 Sat 08:16]
+   CLOCK: [2019-06-08 Sat 06:40]--[2019-06-08 Sat 08:16] =>  1:36
    - State "DONE"       from "STARTED"    [2019-06-07 Fri 08:18]
    CLOCK: [2019-06-07 Fri 07:07]--[2019-06-07 Fri 08:18] =>  1:11
    - State "DONE"       from "STARTED"    [2019-06-06 Thu 08:46]
@@ -1433,11 +1435,12 @@ SCHEDULED: <2019-06-08 Sat 07:00 +1d> DEADLINE: <2019-06-08 Sat 07:40 +1d>
 
 
 ** TODO [#A]lunch
-SCHEDULED: <2019-06-08 Sat 11:40 +1d> DEADLINE: <2019-06-08 Sat 13:40 +1d>
+SCHEDULED: <2019-06-09 Sun 11:40 +1d> DEADLINE: <2019-06-09 Sun 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-06-07 Fri 20:00]
+   :LAST_REPEAT: [2019-06-08 Sat 14:02]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-08 Sat 14:02]
    - State "DONE"       from "STARTED"    [2019-06-07 Fri 20:00]
    CLOCK: [2019-06-07 Fri 16:07]--[2019-06-07 Fri 20:00] =>  3:53
    - State "DONE"       from "STARTED"    [2019-06-06 Thu 14:10]
@@ -4747,16 +4750,17 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
-   DEADLINE: <2019-06-08 Sat 05:00 +1d> SCHEDULED: <2019-06-07 Fri 22:00 +1d>
+* TODO [#A] sleep
+   DEADLINE: <2019-06-09 Sun 05:00 +1d> SCHEDULED: <2019-06-08 Sat 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-07 Fri 04:26]
+  :LAST_REPEAT: [2019-06-08 Sat 02:38]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2019-06-07 Fri 21:49]
+  - State "DONE"       from "STARTED"    [2019-06-08 Sat 02:38]
+  CLOCK: [2019-06-07 Fri 21:49]--[2019-06-08 Sat 02:38] =>  4:49
   - State "DONE"       from "STARTED"    [2019-06-07 Fri 04:26]
   CLOCK: [2019-06-06 Thu 22:25]--[2019-06-07 Fri 04:26] =>  6:01
   - State "DONE"       from "STARTED"    [2019-06-06 Thu 05:03]
@@ -6745,11 +6749,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 * TODO clean office
-  DEADLINE: [2019-05-22 Wed 07:50 +1d] SCHEDULED: <2019-06-08 Sat 08:20 +1d>
+  DEADLINE: [2019-05-22 Wed 07:50 +1d] SCHEDULED: <2019-06-09 Sun 08:20 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-07 Fri 08:27]
+  :LAST_REPEAT: [2019-06-08 Sat 17:47]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-08 Sat 17:47]
   - State "DONE"       from "STARTED"    [2019-06-07 Fri 08:27]
   CLOCK: [2019-06-07 Fri 08:19]--[2019-06-07 Fri 08:27] =>  0:08
   - State "DONE"       from "STARTED"    [2019-06-06 Thu 08:52]
@@ -7654,11 +7659,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New English
-  SCHEDULED: <2019-06-08 Sat 06:30 +1d> DEADLINE: <2019-06-10 Mon 06:10 +1d>
+  SCHEDULED: <2019-06-09 Sun 06:30 +1d> DEADLINE: <2019-06-11 Tue 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-07 Fri 05:58]
+  :LAST_REPEAT: [2019-06-08 Sat 06:40]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-08 Sat 06:40]
+  CLOCK: [2019-06-08 Sat 06:25]--[2019-06-08 Sat 06:40] =>  0:15
   - State "DONE"       from "STARTED"    [2019-06-07 Fri 05:58]
   CLOCK: [2019-06-07 Fri 04:55]--[2019-06-07 Fri 05:58] =>  1:03
   - State "DONE"       from "STARTED"    [2019-06-06 Thu 05:44]
@@ -8108,11 +8115,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 
 * TODO [#B] handwriting
-  SCHEDULED: <2019-06-08 Sat 06:30 .+1d> DEADLINE: <2019-06-08 Sat 07:00 .+1d>
+  SCHEDULED: <2019-06-09 Sun 06:30 .+1d> DEADLINE: <2019-06-09 Sun 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-07 Fri 06:58]
+  :LAST_REPEAT: [2019-06-08 Sat 06:25]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-08 Sat 06:25]
+  CLOCK: [2019-06-08 Sat 04:41]--[2019-06-08 Sat 06:25] =>  1:44
   - State "DONE"       from "STARTED"    [2019-06-07 Fri 06:58]
   CLOCK: [2019-06-07 Fri 06:12]--[2019-06-07 Fri 06:58] =>  0:46
   - State "DONE"       from "STARTED"    [2019-06-06 Thu 06:55]
@@ -9291,12 +9300,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-23 一 06:52]
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
-* TODO [#b] Copy a model of paiting
+* STARTED [#b] Copy a model of paiting
    SCHEDULED: <2019-06-08 Sat 09:00 .+1d> DEADLINE: <2019-06-08 Sat 08:30 .+1d>
    :PROPERTIES:
    :LAST_REPEAT: [2019-06-07 Fri 09:23]
    :END:
    :LOGBOOK:
+   CLOCK: [2019-06-08 Sat 18:05]
    - State "DONE"       from "STARTED"    [2019-06-07 Fri 09:23]
    CLOCK: [2019-06-07 Fri 08:27]--[2019-06-07 Fri 09:23] =>  0:56
    - State "DONE"       from "STARTED"    [2019-06-06 Thu 08:59]
@@ -10785,12 +10795,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* TODO [#B] browse news and free learn
+* STARTED [#B] browse news and free learn
   DEADLINE: <2019-06-08 Sat 06:50 .+1d> SCHEDULED: <2019-06-08 Sat 07:00 .+1d>
   :PROPERTIES:
   :LAST_REPEAT: [2019-06-07 Fri 04:24]
   :END:
   :LOGBOOK:
+  CLOCK: [2019-06-08 Sat 03:28]--[2019-06-08 Sat 04:41] =>  1:13
   - State "DONE"       from "STARTED"    [2019-06-07 Fri 04:24]
   - State "DONE"       from "STARTED"    [2019-06-05 Wed 21:56]
   CLOCK: [2019-06-05 Wed 05:39]--[2019-06-05 Wed 05:51] =>  0:12
@@ -12625,11 +12636,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 高龙寅、王院长来检查8：30至10：30两个小时。
 * TODO [#B] check teaching
-  DEADLINE: <2019-06-08 Sat 10:00 +1d> SCHEDULED: <2019-06-08 Sat 09:30 +1d>
+  DEADLINE: <2019-06-09 Sun 10:00 +1d> SCHEDULED: <2019-06-09 Sun 09:30 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-07 Fri 09:23]
+  :LAST_REPEAT: [2019-06-08 Sat 17:48]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-08 Sat 17:48]
   - State "DONE"       from "STARTED"    [2019-06-07 Fri 09:23]
   - State "DONE"       from "STARTED"    [2019-06-06 Thu 10:32]
   CLOCK: [2019-06-06 Thu 09:20]--[2019-06-06 Thu 10:32] =>  1:12
@@ -14550,8 +14562,11 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2018-01-23 二 11:36]
   CLOCK: [2018-01-23 二 08:18]--[2018-01-23 二 11:36] =>  3:18
   :END:
-* STARTED [#b] to relax
+* DONE [#b] to relax
+  CLOSED: [2019-06-08 Sat 14:02]
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-08 Sat 14:02]
+  CLOCK: [2019-06-08 Sat 09:32]--[2019-06-08 Sat 14:02] =>  4:30
   - State "STARTED"    from "DONE"       [2019-06-07 Fri 09:24]
   CLOCK: [2019-06-07 Fri 09:24]--[2019-06-07 Fri 16:07] =>  6:43
   - State "DONE"       from "STARTED"    [2019-05-19 Sun 18:14]
