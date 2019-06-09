@@ -1,17 +1,16 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.6)  6 MAY 2019 19:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.3)  9 JUN 2019 21:08
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**new.tex
-(./new.tex
+**/Users/mac/org-notes/new.tex
+(/Users/mac/org-notes/new.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/ctexart.cls
 (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2019-05-03 L3 programming layer (loader) 
+Package: expl3 2019-05-28 L3 programming layer (loader) 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2019-05-03 L3 programming layer (code)
+Package: expl3 2019-05-28 L3 programming layer (code)
 \c_max_int=\count80
 \l_tmpa_int=\count81
 \l_tmpb_int=\count82
@@ -55,62 +54,65 @@ Package: expl3 2019-05-03 L3 programming layer (code)
 \c__fp_Bigg_leading_shift_int=\count101
 \c__fp_Bigg_middle_shift_int=\count102
 \c__fp_Bigg_trailing_shift_int=\count103
-\g__fp_array_int=\count104
-\l__fp_array_loop_int=\count105
-\l__sort_length_int=\count106
-\l__sort_min_int=\count107
-\l__sort_top_int=\count108
-\l__sort_max_int=\count109
-\l__sort_true_max_int=\count110
-\l__sort_block_int=\count111
-\l__sort_begin_int=\count112
-\l__sort_end_int=\count113
-\l__sort_A_int=\count114
-\l__sort_B_int=\count115
-\l__sort_C_int=\count116
-\l__tl_analysis_normal_int=\count117
-\l__tl_analysis_index_int=\count118
-\l__tl_analysis_nesting_int=\count119
-\l__tl_analysis_type_int=\count120
-\l__regex_internal_a_int=\count121
-\l__regex_internal_b_int=\count122
-\l__regex_internal_c_int=\count123
-\l__regex_balance_int=\count124
-\l__regex_group_level_int=\count125
-\l__regex_mode_int=\count126
-\c__regex_cs_in_class_mode_int=\count127
-\c__regex_cs_mode_int=\count128
-\l__regex_catcodes_int=\count129
-\l__regex_default_catcodes_int=\count130
-\c__regex_catcode_L_int=\count131
-\c__regex_catcode_O_int=\count132
-\c__regex_catcode_A_int=\count133
-\c__regex_all_catcodes_int=\count134
-\l__regex_show_lines_int=\count135
-\l__regex_min_state_int=\count136
-\l__regex_max_state_int=\count137
-\l__regex_left_state_int=\count138
-\l__regex_right_state_int=\count139
-\l__regex_capturing_group_int=\count140
-\l__regex_min_pos_int=\count141
-\l__regex_max_pos_int=\count142
-\l__regex_curr_pos_int=\count143
-\l__regex_start_pos_int=\count144
-\l__regex_success_pos_int=\count145
-\l__regex_curr_char_int=\count146
-\l__regex_curr_catcode_int=\count147
-\l__regex_last_char_int=\count148
-\l__regex_case_changed_char_int=\count149
-\l__regex_curr_state_int=\count150
-\l__regex_step_int=\count151
-\l__regex_min_active_int=\count152
-\l__regex_max_active_int=\count153
-\l__regex_replacement_csnames_int=\count154
-\l__regex_match_count_int=\count155
-\l__regex_min_submatch_int=\count156
-\l__regex_submatch_int=\count157
-\l__regex_zeroth_submatch_int=\count158
-\g__regex_trace_regex_int=\count159
+\c__kernel_randint_max_int=\count104
+\g__fp_array_int=\count105
+\l__fp_array_loop_int=\count106
+\l__sort_length_int=\count107
+\l__sort_min_int=\count108
+\l__sort_top_int=\count109
+\l__sort_max_int=\count110
+\l__sort_true_max_int=\count111
+\l__sort_block_int=\count112
+\l__sort_begin_int=\count113
+\l__sort_end_int=\count114
+\l__sort_A_int=\count115
+\l__sort_B_int=\count116
+\l__sort_C_int=\count117
+\l__tl_analysis_normal_int=\count118
+\l__tl_analysis_index_int=\count119
+\l__tl_analysis_nesting_int=\count120
+\l__tl_analysis_type_int=\count121
+\l__regex_internal_a_int=\count122
+\l__regex_internal_b_int=\count123
+\l__regex_internal_c_int=\count124
+\l__regex_balance_int=\count125
+\l__regex_group_level_int=\count126
+\l__regex_mode_int=\count127
+\c__regex_cs_in_class_mode_int=\count128
+\c__regex_cs_mode_int=\count129
+\l__regex_catcodes_int=\count130
+\l__regex_default_catcodes_int=\count131
+\c__regex_catcode_D_int=\count132
+\c__regex_catcode_S_int=\count133
+\c__regex_catcode_L_int=\count134
+\c__regex_catcode_O_int=\count135
+\c__regex_catcode_A_int=\count136
+\c__regex_all_catcodes_int=\count137
+\l__regex_show_lines_int=\count138
+\l__regex_min_state_int=\count139
+\l__regex_max_state_int=\count140
+\l__regex_left_state_int=\count141
+\l__regex_right_state_int=\count142
+\l__regex_capturing_group_int=\count143
+\l__regex_min_pos_int=\count144
+\l__regex_max_pos_int=\count145
+\l__regex_curr_pos_int=\count146
+\l__regex_start_pos_int=\count147
+\l__regex_success_pos_int=\count148
+\l__regex_curr_char_int=\count149
+\l__regex_curr_catcode_int=\count150
+\l__regex_last_char_int=\count151
+\l__regex_case_changed_char_int=\count152
+\l__regex_curr_state_int=\count153
+\l__regex_step_int=\count154
+\l__regex_min_active_int=\count155
+\l__regex_max_active_int=\count156
+\l__regex_replacement_csnames_int=\count157
+\l__regex_match_count_int=\count158
+\l__regex_min_submatch_int=\count159
+\l__regex_submatch_int=\count160
+\l__regex_zeroth_submatch_int=\count161
+\g__regex_trace_regex_int=\count162
 \c_empty_box=\box27
 \l_tmpa_box=\box28
 \l_tmpb_box=\box29
@@ -155,355 +157,328 @@ Package: expl3 2019-05-03 L3 programming layer (code)
 \l__coffin_display_x_dim=\dimen132
 \l__coffin_display_y_dim=\dimen133
 \g__file_internal_ior=\read1
-\l__seq_internal_a_int=\count160
-\l__seq_internal_b_int=\count161
-\c__deprecation_minus_one=\count162
+\l__seq_internal_a_int=\count163
+\l__seq_internal_b_int=\count164
+\c__deprecation_minus_one=\count165
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
-File: l3xdvipdfmx.def 2019-04-06 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count163
-\l__driver_pdf_tmp_box=\box45
-\g__driver_pdf_object_int=\count164
-\g__driver_pdf_annotation_int=\count165
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_internal_box=\box45
+\l__driver_color_stack_int=\count166
 ))
-Document Class: ctexart 2019/04/07 v2.4.15 Chinese adapter for class article (C
+Document Class: ctexart 2019/05/29 v2.4.16 Chinese adapter for class article (C
 TEX)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2019-05-03 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count166
-\g__xparse_grabber_int=\count167
-\l__xparse_m_args_int=\count168
-\l__xparse_v_nesting_int=\count169
+Package: xparse 2019-05-28 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count167
+\g__xparse_grabber_int=\count168
+\l__xparse_m_args_int=\count169
+\l__xparse_v_nesting_int=\count170
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2019-05-03 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2019-05-28 LaTeX2e option processing using LaTeX3 keys
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/ctexhook.sty
-Package: ctexhook 2019/04/07 v2.4.15 Document and package hooks (CTEX)
+Package: ctexhook 2019/05/29 v2.4.16 Document and package hooks (CTEX)
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/ctexpatch.sty
-Package: ctexpatch 2019/04/07 v2.4.15 Patching commands (CTEX)
+Package: ctexpatch 2019/05/29 v2.4.16 Patching commands (CTEX)
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
-))
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+)))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\l__ctex_tmp_int=\count170
+\l__ctex_tmp_int=\count171
 \l__ctex_tmp_box=\box46
 \l__ctex_tmp_dim=\dimen134
-\g__ctex_section_depth_int=\count171
-\g__ctex_font_size_int=\count172
+\g__ctex_section_depth_int=\count172
+\g__ctex_font_size_int=\count173
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
-File: ctexopts.cfg 2019/04/07 v2.4.15 Option configuration file (CTEX)
+File: ctexopts.cfg 2019/05/29 v2.4.16 Option configuration file (CTEX)
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
-\c@part=\count173
-\c@section=\count174
-\c@subsection=\count175
-\c@subsubsection=\count176
-\c@paragraph=\count177
-\c@subparagraph=\count178
-\c@figure=\count179
-\c@table=\count180
+\c@part=\count174
+\c@section=\count175
+\c@subsection=\count176
+\c@subsubsection=\count177
+\c@paragraph=\count178
+\c@subparagraph=\count179
+\c@figure=\count180
+\c@table=\count181
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen135
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
-File: ctex-engine-xetex.def 2019/04/07 v2.4.15 XeLaTeX adapter (CTEX)
-(/usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
-Package: xeCJK 2019/04/07 v3.7.2 Typesetting CJK scripts with XeLaTeX
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.de
+f
+File: ctex-engine-pdftex.def 2019/05/29 v2.4.16 (pdf)LaTeX adapter (CTEX)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2015/04/18 4.8.4
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
-y
-Package: xtemplate 2019-05-03 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen136
-\l__xtemplate_tmp_int=\count181
-\l__xtemplate_tmp_muskip=\muskip16
-\l__xtemplate_tmp_skip=\skip49
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
 )
-\l__xeCJK_tmp_int=\count182
-\l__xeCJK_tmp_box=\box47
-\l__xeCJK_tmp_dim=\dimen137
-\l__xeCJK_tmp_skip=\skip50
-\g__xeCJK_space_factor_int=\count183
-\l__xeCJK_begin_int=\count184
-\l__xeCJK_end_int=\count185
-\c__xeCJK_CJK_class_int=\XeTeXcharclass1
-\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
-\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
-\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
-\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
-\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
-\c__xeCJK_CM_class_int=\XeTeXcharclass7
-\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
-\l__xeCJK_last_skip=\skip51
-\g__xeCJK_node_int=\count186
-\c__xeCJK_CJK_node_dim=\dimen138
-\c__xeCJK_CJK-space_node_dim=\dimen139
-\c__xeCJK_default_node_dim=\dimen140
-\c__xeCJK_default-space_node_dim=\dimen141
-\c__xeCJK_CJK-widow_node_dim=\dimen142
-\c__xeCJK_normalspace_node_dim=\dimen143
-\l__xeCJK_ccglue_skip=\skip52
-\l__xeCJK_ecglue_skip=\skip53
-\l__xeCJK_punct_kern_skip=\skip54
-\l__xeCJK_last_penalty_int=\count187
-\l__xeCJK_last_bound_dim=\dimen144
-\l__xeCJK_last_kern_dim=\dimen145
-\l__xeCJK_widow_penalty_int=\count188
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box47
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count182
+\CJKpunct@cntb=\count183
+\CJKpunct@cntc=\count184
+\CJKpunct@cntd=\count185
+\CJKpunct@cnte=\count186
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
 
-Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
-(xtemplate)             argument(s) on line 2352.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2015/04/18 3.8.0
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cjk/texinput/standard.bdg
+File: standard.bdg 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2019/05/29 v2.4.16 Space info for CJKpunct (CTEX)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+Package: CJKfntef 2015/04/18 4.8.4
 
-\l__xeCJK_fixed_punct_width_dim=\dimen146
-\l__xeCJK_mixed_punct_width_dim=\dimen147
-\l__xeCJK_middle_punct_width_dim=\dimen148
-\l__xeCJK_fixed_margin_width_dim=\dimen149
-\l__xeCJK_mixed_margin_width_dim=\dimen150
-\l__xeCJK_middle_margin_width_dim=\dimen151
-\l__xeCJK_bound_punct_width_dim=\dimen152
-\l__xeCJK_bound_margin_width_dim=\dimen153
-\l__xeCJK_margin_minimum_dim=\dimen154
-\l__xeCJK_kerning_total_width_dim=\dimen155
-\l__xeCJK_same_align_margin_dim=\dimen156
-\l__xeCJK_different_align_margin_dim=\dimen157
-\l__xeCJK_kerning_margin_width_dim=\dimen158
-\l__xeCJK_kerning_margin_minimum_dim=\dimen159
-\l__xeCJK_bound_dim=\dimen160
-\l__xeCJK_reverse_bound_dim=\dimen161
-\l__xeCJK_minimum_bound_dim=\dimen162
-\l__xeCJK_kerning_margin_dim=\dimen163
-\l__xeCJK_original_margin_dim=\dimen164
-\g__xeCJK_family_int=\count189
-\l__xeCJK_fam_int=\count190
-\g__xeCJK_fam_allocation_int=\count191
-\l__xeCJK_verb_case_int=\count192
-\l__xeCJK_verb_exspace_skip=\skip55
- (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
-Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTe
-X
-\l__fontspec_script_int=\count193
-\l__fontspec_language_int=\count194
-\l__fontspec_strnum_int=\count195
-\l__fontspec_tmp_int=\count196
-\l__fontspec_tmpa_int=\count197
-\l__fontspec_tmpb_int=\count198
-\l__fontspec_tmpc_int=\count199
-\l__fontspec_em_int=\count266
-\l__fontspec_emdef_int=\count267
-\l__fontspec_strong_int=\count268
-\l__fontspec_strongdef_int=\count269
-\l__fontspec_tmpa_dim=\dimen165
-\l__fontspec_tmpb_dim=\dimen166
-\l__fontspec_tmpc_dim=\dimen167
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/tuenc.def
-File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
-))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 4051.
-LaTeX Info: Redefining \slshape on input line 4056.
-LaTeX Info: Redefining \scshape on input line 4061.
-LaTeX Info: Redefining \upshape on input line 4066.
-LaTeX Info: Redefining \em on input line 4096.
-LaTeX Info: Redefining \emph on input line 4121.
-))
-(/usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
-File: xeCJK.cfg 2019/04/07 v3.7.2 Configuration file for xeCJK package
-))
-(/usr/local/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
-Package: xeCJKfntef 2019/04/07 v3.7.2 xeCJK font effect
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+Package: CJKulem 2015/04/18 4.8.4
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box48
 \UL@hyphenbox=\box49
-\UL@skip=\skip56
+\UL@skip=\skip49
 \UL@hook=\toks14
-\UL@height=\dimen168
-\UL@pe=\count270
-\UL@pixel=\dimen169
+\UL@height=\dimen136
+\UL@pe=\count187
+\UL@pixel=\dimen137
 \ULC@box=\box50
 Package: ulem 2012/05/18
-\ULdepth=\dimen170
+\ULdepth=\dimen138
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
-Package: CJKfntef 2015/04/18 4.8.4
-\CJK@fntefSkip=\skip57
-\CJK@nest=\count271
-\CJK@fntefDimen=\dimen171
+\UL@lastkern=\dimen139
+\CJK@skip=\skip50
+)
+\CJK@fntefSkip=\skip51
+\CJK@nest=\count188
+\CJK@fntefDimen=\dimen140
 \CJK@underdotBox=\box51
 \CJK@ULbox=\box52
-\CJK@underanyskip=\dimen172
+\CJK@underanyskip=\dimen141
 )
-\l__xeCJK_space_skip=\skip58
-\c__xeCJK_ulem-begin_node_dim=\dimen173
-\c__xeCJK_null_box=\box53
-\l__xeCJK_fntef_box=\box54
-\l__xeCJK_under_symbol_box=\box55
-\c__xeCJK_filll_skip=\skip59
+\ccwd=\dimen142
+\l__ctex_ccglue_skip=\skip52
 )
-\ccwd=\dimen174
-\l__ctex_ccglue_skip=\skip60
-)
-\l__ctex_ziju_dim=\dimen175
+\l__ctex_ziju_dim=\dimen143
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/zhnumber/zhnumber.sty
 Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
-\l__zhnum_scale_int=\count272
+\l__zhnum_scale_int=\count189
+\l__zhnum_byte_min_int=\count190
+\l__zhnum_byte_max_int=\count191
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
-File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+(/usr/local/texlive/2019/texmf-dist/tex/latex/zhnumber/zhnumber-gbk.cfg
+File: zhnumber-gbk.cfg 2019/04/07 v2.7 Chinese numerals with GBK encoding
 ))
-\l__ctex_heading_skip=\skip61
+\l__ctex_heading_skip=\skip53
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-a
 rticle.def
-File: ctex-scheme-chinese-article.def 2019/04/07 v2.4.15 Chinese scheme for art
+File: ctex-scheme-chinese-article.def 2019/05/29 v2.4.16 Chinese scheme for art
 icle (CTEX)
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
-File: ctex-name-utf8.cfg 2019/04/07 v2.4.15 Caption with encoding UTF8 (CTEX)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/config/ctex-name-gbk.cfg
+File: ctex-name-gbk.cfg 2019/05/29 v2.4.16 Caption with encoding GBK (CTEX)
 ))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac.def
-File: ctex-fontset-mac.def 2019/04/07 v2.4.15 Mac OS X fonts definition (CTEX)
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-macnew.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.
 def
-File: ctex-fontset-macnew.def 2019/04/07 v2.4.15 Mac OS X fonts definition for 
-El Capitan or later version (CTEX)
+File: ctex-fontset-fandol.def 2019/05/29 v2.4.16 Fandol fonts definition (CTEX)
 
 
-Package fontspec Warning: Font "Songti SC Light" does not contain requested
-(fontspec)                Script "CJK".
+
+! Critical Package ctex Error: CTeX fontset `fandol' is unavailable in current
+(ctex)                         mode.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.113   }
+         
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.113   }
+         
+
+Reading the current file 'ctex-fontset-fandol' will stop.
 
 
-Package fontspec Info: Font family 'SongtiSC(0)' created for font 'Songti SC'
-(fontspec)             with options [Script={CJK},UprightFont={*
-(fontspec)             Light},BoldItalicFont={Kaiti SC Bold},BoldFont={*
-(fontspec)             Bold},ItalicFont={Kaiti SC}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Songti SC
-(fontspec)             Light/OT"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"Songti SC Bold/OT"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Kaiti SC/OT"
-(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
-(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"Kaiti SC
-(fontspec)             Bold/OT"
-(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
-
-))) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/config/ctex.cfg
-File: ctex.cfg 2019/04/07 v2.4.15 Configuration file (CTEX)
-)
-(./new.aux)
-\openout1 = `new.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
- ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 4.
-
-Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
-(fontspec)             this).
-
-\symlegacymaths=\mathgroup4
-LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 4.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 4.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 4.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 4.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 4.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 4.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 4.
-LaTeX Font Info:    Redeclaring math accent \check on input line 4.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 4.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 4.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 4.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 4.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 4.
-LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 4.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 4.
-LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 4.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 4.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 4.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 4.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 4.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 4.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 4.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 4.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 4.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 4.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 4.
- [1
-
-] (./new.aux) ) 
+ 
 Here is how much of TeX's memory you used:
- 15767 strings out of 492916
- 373346 string characters out of 6133346
- 453147 words of memory out of 5000000
- 19767 multiletter control sequences out of 15000+600000
- 532524 words of font info for 35 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 60i,4n,73p,343b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on new.pdf (1 page).
+ 13324 strings out of 492609
+ 263774 string characters out of 6129049
+ 309829 words of memory out of 5000000
+ 17189 multiletter control sequences out of 15000+600000
+ 533043 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,0n,63p,492b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
