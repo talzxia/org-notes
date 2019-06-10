@@ -2797,14 +2797,15 @@ SCHEDULED: <2019-06-11 Tue 11:40 +1d> DEADLINE: <2019-06-11 Tue 13:40 +1d>
     :END:
 13:50-14:30检查
 
-** STARTED [#B] dinner
-   DEADLINE: <2019-06-10 Mon 18:40 +1d> SCHEDULED: <2019-06-10 Mon 17:40 +1d>
+** TODO [#B] dinner
+   DEADLINE: <2019-06-11 Tue 18:40 +1d> SCHEDULED: <2019-06-11 Tue 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-06-09 Sun 19:14]
+   :LAST_REPEAT: [2019-06-10 Mon 18:19]
    :STYLE:    habit
    :END:
    :LOGBOOK:
-   CLOCK: [2019-06-10 Mon 17:26]
+   - State "DONE"       from "STARTED"    [2019-06-10 Mon 18:19]
+   CLOCK: [2019-06-10 Mon 17:26]--[2019-06-10 Mon 18:19] =>  0:53
    - State "DONE"       from "STARTED"    [2019-06-09 Sun 19:14]
    CLOCK: [2019-06-09 Sun 18:51]--[2019-06-09 Sun 19:14] =>  0:23
    - State "DONE"       from "STARTED"    [2019-06-08 Sat 20:02]
