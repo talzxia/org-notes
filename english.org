@@ -14383,6 +14383,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2019-06-10 Mon 05:19]
    CLOCK: [2019-06-10 Mon 05:01]--[2019-06-10 Mon 05:19] =>  0:18
    :END:
+** DONE Review<2019-06-10 Mon 18:42>98.8%
+   CLOSED: [2019-06-10 Mon 18:59]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-10 Mon 18:59]
+   CLOCK: [2019-06-10 Mon 18:42]--[2019-06-10 Mon 18:59] =>  0:17
+   :END:
 * lesson 23forty five
 ** DONE Review<2017-06-01 Thu 19:07>98.3%
    CLOSED: [2017-06-01 Thu 19:25]
