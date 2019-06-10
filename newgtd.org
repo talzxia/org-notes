@@ -4764,7 +4764,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
    DEADLINE: <2019-06-11 Tue 05:00 +1d> SCHEDULED: <2019-06-10 Mon 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
@@ -4773,6 +4773,7 @@ clean up spending 15 minutes
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2019-06-10 Mon 21:36]
   - State "DONE"       from "STARTED"    [2019-06-10 Mon 05:00]
   CLOCK: [2019-06-09 Sat 21:40]--[2019-06-10 Mon 05:00] =>  7:20
   - State "DONE"       from "STARTED"    [2019-06-09 Sun 05:01]
@@ -10836,12 +10837,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* STARTED [#B] browse news and free learn
-  DEADLINE: <2019-06-10 Mon 06:50 .+1d> SCHEDULED: <2019-06-10 Mon 07:00 .+1d>
+* TODO [#B] browse news and free learn
+  DEADLINE: <2019-06-11 Tue 06:50 .+1d> SCHEDULED: <2019-06-11 Tue 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-09 Sun 21:10]
+  :LAST_REPEAT: [2019-06-10 Mon 21:35]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-10 Mon 21:35]
+  CLOCK: [2019-06-10 Mon 21:07]--[2019-06-10 Mon 21:35] =>  0:28
   CLOCK: [2019-06-10 Mon 14:29]--[2019-06-10 Mon 14:53] =>  0:24
   CLOCK: [2019-06-10 Mon 08:55]--[2019-06-10 Mon 11:08] =>  2:13
   CLOCK: [2019-06-10 Mon 05:59]--[2019-06-10 Mon 06:11] =>  0:12
@@ -13984,11 +13987,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-23 一 21:31]
   :END:
 * TODO [#A] Physical exercise
-  DEADLINE: <2019-06-10 Mon 16:40 +1d> SCHEDULED: <2019-06-10 Mon 16:31 +1d>
+  DEADLINE: <2019-06-11 Tue 16:40 +1d> SCHEDULED: <2019-06-11 Tue 16:31 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-09 Sun 19:11]
+  :LAST_REPEAT: [2019-06-10 Mon 21:07]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-10 Mon 21:07]
   - State "DONE"       from "STARTED"    [2019-06-09 Sun 19:11]
   CLOCK: [2019-06-09 Sun 16:33]--[2019-06-09 Sun 18:51] =>  2:18
   - State "DONE"       from "STARTED"    [2019-06-08 Sat 21:15]
