@@ -1,6 +1,10 @@
-\documentclass[11pt]{ctexart}
-
-
+\documentclass{article}
+\usepackage[colorlinks]{hyperref}
 \begin{document}
-Hello,中国 hello中l 国hello 国helll hello中l hello中国 World!
+\section{A section}
+Content with a hyperlink to some later \hyperlink{linkB}{\hypertarget{linkA}{content}}.
+
+\clearpage
+\section{Another section}
+Content with a hyperlink to some earlier \hypertarget{linkB}{\hyperlink{linkA}{content}}.  
 \end{document}

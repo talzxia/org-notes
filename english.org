@@ -14401,6 +14401,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2019-06-11 Tue 20:13]
    CLOCK: [2019-06-11 Tue 19:56]--[2019-06-11 Tue 20:13] =>  0:17
    :END:
+** DONE Review<2019-06-12 Wed 05:20>99.8%
+   CLOSED: [2019-06-12 Wed 05:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-12 Wed 05:38]
+   CLOCK: [2019-06-12 Wed 05:20]--[2019-06-12 Wed 05:38] =>  0:18
+   :END:
 * lesson 23forty five
 ** DONE Review<2017-06-01 Thu 19:07>98.3%
    CLOSED: [2017-06-01 Thu 19:25]
@@ -14745,6 +14751,12 @@ Arrange student internship
    - State "STARTED"    from "DONE"       [2019-05-07 Tue 15:22]
    - State "DONE"       from "STARTED"    [2019-02-01 Fri 03:02]
    CLOCK: [2019-02-01 Fri 02:45]--[2019-02-01 Fri 03:02] =>  0:17
+   :END:
+** DONE Review<2019-06-12 Wed 14:48>98.5%
+   CLOSED: [2019-06-12 Wed 15:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-12 Wed 15:04]
+   CLOCK: [2019-06-12 Wed 14:48]--[2019-06-12 Wed 15:04] =>  0:16
    :END:
 * lesson 21forty six
 ** DONE Review forty six 96.6%
