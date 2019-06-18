@@ -1,3 +1,4 @@
+-*-org-*-
 * DONE Lession 47one
    CLOSED: [2017-10-22 日 20:24]99.8%
    :LOGBOOK:
@@ -15248,6 +15249,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2019-06-18 Tue 10:50]
    CLOCK: [2019-06-18 Tue 10:28]--[2019-06-18 Tue 10:50] =>  0:22
    :END:
+** DONE Review<2019-06-18 Tue 19:59>98.7%
+   CLOSED: [2019-06-18 Tue 20:18]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-18 Tue 20:18]
+   CLOCK: [2019-06-18 Tue 19:59]--[2019-06-18 Tue 20:18] =>  0:19
+   :END:
 * lesson 22forty seven
 ** DONE Review 92.5%
    CLOSED: [2016-08-19 五 20:39]
@@ -16759,8 +16766,7 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    - State "DONE"       from "STARTED"    [2018-05-14 一 20:23]
    :END:
 
-* DONE [#B]Wrting
-  CLOSED: [2019-06-15 Sat 10:01]
+* STARTED [#B]Wrting
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-12 Mon 20:30]
    :END:
@@ -16768,6 +16774,7 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "STARTED"    from "DONE"       [2019-06-18 Tue 15:18]
    - State "DONE"       from "STARTED"    [2019-06-15 Sat 10:01]
    - State "STARTED"    from "DONE"       [2019-06-15 Sat 09:34]
    CLOCK: [2019-06-15 Sat 09:34]--[2019-06-15 Sat 10:01] =>  0:27
