@@ -4821,16 +4821,17 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
-   DEADLINE: <2019-06-21 Fri 05:00 +1d> SCHEDULED: <2019-06-20 Thu 22:00 +1d>
+* TODO [#A] sleep
+   DEADLINE: <2019-06-22 Sat 05:00 +1d> SCHEDULED: <2019-06-21 Fri 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-20 Thu 04:53]
+  :LAST_REPEAT: [2019-06-21 Fri 05:15]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2019-06-20 Thu 21:49]
+  - State "DONE"       from "STARTED"    [2019-06-21 Fri 05:15]
+  CLOCK: [2019-06-20 Thu 21:49]--[2019-06-21 Fri 05:15] =>  7:26
   - State "DONE"       from "STARTED"    [2019-06-20 Thu 04:53]
   CLOCK: [2019-06-19 Wed 21:37]--[2019-06-20 Thu 04:53] =>  7:16
   - State "DONE"       from "STARTED"    [2019-06-19 Wed 05:19]
@@ -7773,11 +7774,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New English
-  SCHEDULED: <2019-06-21 Fri 06:30 +1d> DEADLINE: <2019-06-23 Sun 06:10 +1d>
+  SCHEDULED: <2019-06-22 Sat 06:30 +1d> DEADLINE: <2019-06-24 Mon 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-20 Thu 05:25]
+  :LAST_REPEAT: [2019-06-21 Fri 05:54]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-21 Fri 05:54]
+  CLOCK: [2019-06-21 Fri 05:35]--[2019-06-21 Fri 05:54] =>  0:19
   - State "DONE"       from "STARTED"    [2019-06-20 Thu 05:25]
   CLOCK: [2019-06-20 Thu 05:15]--[2019-06-20 Thu 05:25] =>  0:10
   - State "DONE"       from "STARTED"    [2019-06-19 Wed 06:05]
@@ -8252,12 +8255,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2018-01-01 一 05:20]--[2018-01-01 一 05:27] =>  0:07
   :END:
 
-* TODO [#B] handwriting
+* STARTED [#B] handwriting
   SCHEDULED: <2019-06-21 Fri 06:30 .+1d> DEADLINE: <2019-06-21 Fri 07:00 .+1d>
   :PROPERTIES:
   :LAST_REPEAT: [2019-06-20 Thu 06:21]
   :END:
   :LOGBOOK:
+  CLOCK: [2019-06-21 Fri 05:54]
   - State "DONE"       from "STARTED"    [2019-06-20 Thu 06:21]
   CLOCK: [2019-06-20 Thu 05:25]--[2019-06-20 Thu 06:21] =>  0:56
   - State "DONE"       from "STARTED"    [2019-06-19 Wed 07:07]
