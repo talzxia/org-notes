@@ -606,4 +606,27 @@ Tt means I can have tea, instead.
 *** 2019-06-18 Tuesday
 
 **** 又去虎山公园一游。心情极差。
+*** 2019-06-25 Tuesday
 
+**** 文件摘抄
+[[https://blog.csdn.net/yo746862873/article/details/52586339org-mode: 最好的文档编辑利器，没有之一]]
+org-mode: 最好的文档编辑利器，没有之一
+
+尽管按照org-mode 官方 的说法，Org 是一个基于快速高效的文本方式来实现做笔记、管理待办事项（TODO list）以及做项目计划的模式（Org is a mode for keeping notes, maintaining TODO lists, and doing project planning with a fast and effective plain-text system ），但 Org-mode 首先是最好的文档编辑利器，没有之一。
+
+我之前用过很多年M$ Word, 也尝试过OpenOffice/LibreOffice Writer,以及iWorks Pager，但都不理想，写文档是没有痛快淋漓的感觉。直到后来发现了Omni Outliner , 才终于找到了写作的乐趣。 但是了解了org-mode之后，发现原来一切都是浮云。只有Org-mode才是终极的解决之道。 使用org-mode写文档的时候，你只需要关注内容本身，而不需要写上几个字，选中它们按Ctl-B，或者停下来用鼠标去点击“标题1”，更甚觉得那个标题格式不顺眼，开始去调整样式，而停下写作的思路。
+
+BTW，Omni Outliner似乎也是从Org-mode找到的灵感，有图为证：
+
+
+
+其功能与Org-mode 几乎一样，而且这货居然支持emacs快捷键！
+
+尽管Omni Outliner以GUI的方式实现了org-mode的功能，但是并不是很理想：它的内容是“所见即所得”的，很多时候你难以更改其样式，而且只能在Mac OS下使用。 而Org-mode使用文本方式，具有如下优势：
+
+格式通用，系统无关，软件无关
+体积小，速度快
+“所想即所得”,比“所见即所得”更人性化
+可以说，正是由于有了 Org-Mode， Emacs 处理文本的能力才得到了大幅度的提高，使得Emacs能够被非程序员接受。 如果说LaTex是排版的终极，那么Org-mode就是编辑的终极。Emacs 22 以后的版本已经集成了 org-mode，打开 .org 扩展的文件会自动进入 org 模式。此外，Vim下面也有了对应的Org-mode。
+
+本文介绍最基本的编辑、格式化文本以及导出功能，后续再讨论高级玩法。
