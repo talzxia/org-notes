@@ -1,10 +1,14 @@
 * TODO eating
 ** TODO [#B]breakfast
-SCHEDULED: <2019-06-27 Thu 07:00 +1d> DEADLINE: <2019-06-27 Thu 07:40 +1d>
+SCHEDULED: <2019-06-29 Sat 07:00 +1d> DEADLINE: <2019-06-29 Sat 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-06-26 Wed 08:02]
+   :LAST_REPEAT: [2019-06-28 Fri 07:46]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-28 Fri 07:46]
+   CLOCK: [2019-06-28 Fri 07:06]--[2019-06-28 Fri 07:46] =>  0:40
+   - State "DONE"       from "STARTED"    [2019-06-27 Thu 08:07]
+   CLOCK: [2019-06-27 Thu 07:06]--[2019-06-27 Thu 08:07] =>  1:01
    - State "DONE"       from "STARTED"    [2019-06-26 Wed 08:02]
    CLOCK: [2019-06-26 Wed 07:15]--[2019-06-26 Wed 08:02] =>  0:47
    - State "DONE"       from "STARTED"    [2019-06-25 Tue 07:51]
@@ -1471,11 +1475,15 @@ SCHEDULED: <2019-06-27 Thu 07:00 +1d> DEADLINE: <2019-06-27 Thu 07:40 +1d>
 
 
 ** TODO [#A]lunch
-SCHEDULED: <2019-06-27 Thu 11:40 +1d> DEADLINE: <2019-06-27 Thu 13:40 +1d>
+SCHEDULED: <2019-06-29 Sat 11:40 +1d> DEADLINE: <2019-06-29 Sat 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-06-26 Wed 18:05]
+   :LAST_REPEAT: [2019-06-28 Fri 13:56]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-28 Fri 13:56]
+   CLOCK: [2019-06-28 Fri 11:48]--[2019-06-28 Fri 13:56] =>  2:08
+   - State "DONE"       from "STARTED"    [2019-06-27 Thu 14:39]
+   CLOCK: [2019-06-27 Thu 11:31]--[2019-06-27 Thu 14:39] =>  3:08
    - State "DONE"       from "STARTED"    [2019-06-26 Wed 18:05]
    CLOCK: [2019-06-26 Wed 11:49]--[2019-06-26 Wed 14:05] =>  2:16
    - State "DONE"       from "STARTED"    [2019-06-25 Tue 14:26]
@@ -2861,12 +2869,16 @@ SCHEDULED: <2019-06-27 Thu 11:40 +1d> DEADLINE: <2019-06-27 Thu 13:40 +1d>
 13:50-14:30检查
 
 ** TODO [#B] dinner
-   DEADLINE: <2019-06-27 Thu 18:40 +1d> SCHEDULED: <2019-06-27 Thu 17:40 +1d>
+   DEADLINE: <2019-06-29 Sat 18:40 +1d> SCHEDULED: <2019-06-29 Sat 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-06-26 Wed 19:52]
+   :LAST_REPEAT: [2019-06-28 Fri 18:08]
    :STYLE:    habit
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-28 Fri 18:08]
+   CLOCK: [2019-06-28 Fri 16:36]--[2019-06-28 Fri 18:08] =>  1:32
+   - State "DONE"       from "STARTED"    [2019-06-28 Fri 05:00]
+   CLOCK: [2019-06-27 Thu 17:18]--[2019-06-27 Thu 21:40] =>  4:22
    - State "DONE"       from "STARTED"    [2019-06-26 Wed 19:52]
    CLOCK: [2019-06-26 Wed 17:00]--[2019-06-26 Wed 18:02] =>  1:02
    - State "DONE"       from "STARTED"    [2019-06-25 Tue 21:38]
@@ -4856,15 +4868,19 @@ clean up spending 15 minutes
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
 * STARTED [#A] sleep
-   DEADLINE: <2019-06-27 Thu 05:00 +1d> SCHEDULED: <2019-06-26 Wed 22:00 +1d>
+   DEADLINE: <2019-06-29 Sat 05:00 +1d> SCHEDULED: <2019-06-28 Fri 22:00 +1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-26 Wed 05:49]
+  :LAST_REPEAT: [2019-06-28 Fri 05:03]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2019-06-26 Wed 21:51]
+  CLOCK: [2019-06-28 Fri 21:51]
+  - State "DONE"       from "STARTED"    [2019-06-28 Fri 05:03]
+  CLOCK: [2019-06-27 Thu 22:01]--[2019-06-28 Fri 05:03] =>  7:02
+  - State "DONE"       from "STARTED"    [2019-06-27 Thu 04:48]
+  CLOCK: [2019-06-26 Wed 21:51]--[2019-06-27 Thu 04:48] =>  6:57
   - State "DONE"       from "STARTED"    [2019-06-26 Wed 05:49]
   CLOCK: [2019-06-25 Tue 21:38]--[2019-06-26 Wed 05:49] =>  8:11
   - State "DONE"       from "STARTED"    [2019-06-25 Tue 05:20]
@@ -6891,11 +6907,15 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 * TODO to clean up the office
-  DEADLINE: [2019-05-22 Wed 07:50 +1d] SCHEDULED: <2019-06-27 Thu 08:20 +1d>
+  DEADLINE: [2019-05-22 Wed 07:50 +1d] SCHEDULED: <2019-06-29 Sat 08:20 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-26 Wed 08:05]
+  :LAST_REPEAT: [2019-06-28 Fri 07:51]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-28 Fri 07:51]
+  CLOCK: [2019-06-28 Fri 07:47]--[2019-06-28 Fri 07:51] =>  0:04
+  - State "DONE"       from "STARTED"    [2019-06-27 Thu 08:11]
+  CLOCK: [2019-06-27 Thu 08:07]--[2019-06-27 Thu 08:11] =>  0:04
   - State "DONE"       from "STARTED"    [2019-06-26 Wed 08:05]
   CLOCK: [2019-06-26 Wed 08:02]--[2019-06-26 Wed 08:05] =>  0:03
   - State "DONE"       from "STARTED"    [2019-06-25 Tue 07:57]
@@ -7829,11 +7849,15 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New English
-  SCHEDULED: <2019-06-27 Thu 06:30 +1d> DEADLINE: <2019-06-29 Sat 06:10 +1d>
+  SCHEDULED: <2019-06-29 Sat 06:30 +1d> DEADLINE: <2019-07-01 Mon 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-26 Wed 06:13]
+  :LAST_REPEAT: [2019-06-28 Fri 05:33]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-28 Fri 05:33]
+  CLOCK: [2019-06-28 Fri 05:21]--[2019-06-28 Fri 05:33] =>  0:12
+  - State "DONE"       from "STARTED"    [2019-06-27 Thu 05:20]
+  CLOCK: [2019-06-27 Thu 05:10]--[2019-06-27 Thu 05:20] =>  0:10
   - State "DONE"       from "STARTED"    [2019-06-26 Wed 06:13]
   CLOCK: [2019-06-26 Wed 06:08]--[2019-06-26 Wed 06:13] =>  0:05
   - State "DONE"       from "STARTED"    [2019-06-25 Tue 05:55]
@@ -8321,11 +8345,16 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 
 * TODO [#B] handwriting
-  SCHEDULED: <2019-06-27 Thu 06:30 .+1d> DEADLINE: <2019-06-27 Thu 07:00 .+1d>
+  SCHEDULED: <2019-06-29 Sat 06:30 .+1d> DEADLINE: <2019-06-29 Sat 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-26 Wed 07:15]
+  :LAST_REPEAT: [2019-06-28 Fri 06:49]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-28 Fri 06:49]
+  CLOCK: [2019-06-28 Fri 05:43]--[2019-06-28 Fri 06:49] =>  1:06
+  - State "DONE"       from "STARTED"    [2019-06-27 Thu 06:40]
+  CLOCK: [2019-06-27 Thu 05:44]--[2019-06-27 Thu 06:40] =>  0:56
+  CLOCK: [2019-06-27 Thu 05:20]--[2019-06-27 Thu 05:21] =>  0:01
   - State "DONE"       from "STARTED"    [2019-06-26 Wed 07:15]
   CLOCK: [2019-06-26 Wed 06:14]--[2019-06-26 Wed 07:15] =>  1:01
   - State "DONE"       from "STARTED"    [2019-06-25 Tue 06:53]
@@ -9543,11 +9572,16 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 * TODO [#b] Copy a model of paiting
-   SCHEDULED: <2019-06-27 Thu 09:00 .+1d> DEADLINE: <2019-06-27 Thu 08:30 .+1d>
+   SCHEDULED: <2019-06-29 Sat 09:00 .+1d> DEADLINE: <2019-06-29 Sat 08:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-06-26 Wed 10:06]
+   :LAST_REPEAT: [2019-06-28 Fri 14:36]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-28 Fri 14:36]
+   CLOCK: [2019-06-28 Fri 13:56]--[2019-06-28 Fri 14:36] =>  0:40
+   CLOCK: [2019-06-28 Fri 10:52]--[2019-06-28 Fri 11:48] =>  0:56
+   - State "DONE"       from "STARTED"    [2019-06-27 Thu 09:37]
+   CLOCK: [2019-06-27 Thu 08:53]--[2019-06-27 Thu 09:37] =>  0:44
    - State "DONE"       from "STARTED"    [2019-06-26 Wed 10:06]
    CLOCK: [2019-06-26 Wed 08:22]--[2019-06-26 Wed 10:06] =>  1:44
    - State "DONE"       from "STARTED"    [2019-06-25 Tue 10:10]
@@ -10380,11 +10414,15 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
 * TODO [#a] Copy (a model of calligraphy)
-   SCHEDULED: <2019-06-27 Thu 15:00 +1d> DEADLINE: <2019-06-27 Thu 16:30 +1d>
+   SCHEDULED: <2019-06-29 Sat 15:00 +1d> DEADLINE: <2019-06-29 Sat 16:30 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-06-26 Wed 19:49]
+   :LAST_REPEAT: [2019-06-28 Fri 16:36]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-06-28 Fri 16:36]
+   CLOCK: [2019-06-28 Fri 14:39]--[2019-06-28 Fri 16:36] =>  1:57
+   - State "DONE"       from "STARTED"    [2019-06-27 Thu 16:03]
+   CLOCK: [2019-06-27 Thu 15:31]--[2019-06-27 Thu 16:03] =>  0:32
    - State "DONE"       from "STARTED"    [2019-06-26 Wed 19:49]
    CLOCK: [2019-06-26 Wed 19:13]--[2019-06-26 Wed 19:49] =>  0:36
    - State "DONE"       from "STARTED"    [2019-06-25 Tue 16:04]
@@ -11110,11 +11148,21 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
 
 
 * TODO [#B] browse news and free learn
-  DEADLINE: <2019-06-27 Thu 21:00 .+1d> SCHEDULED: <2019-06-27 Thu 21:20 .+1d>
+  DEADLINE: <2019-06-29 Sat 21:00 .+1d> SCHEDULED: <2019-06-29 Sat 21:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-26 Wed 21:51]
+  :LAST_REPEAT: [2019-06-28 Fri 20:53]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-28 Fri 20:53]
+  CLOCK: [2019-06-28 Fri 18:08]--[2019-06-28 Fri 20:53] =>  2:45
+  CLOCK: [2019-06-28 Fri 06:50]--[2019-06-28 Fri 07:06] =>  0:16
+  CLOCK: [2019-06-28 Fri 05:34]--[2019-06-28 Fri 05:43] =>  0:09
+  - State "DONE"       from "STARTED"    [2019-06-28 Fri 05:01]
+  CLOCK: [2019-06-27 Thu 16:03]--[2019-06-27 Thu 17:18] =>  1:15
+  CLOCK: [2019-06-27 Thu 14:39]--[2019-06-27 Thu 15:31] =>  0:52
+  CLOCK: [2019-06-27 Thu 08:11]--[2019-06-27 Thu 08:53] =>  0:42
+  CLOCK: [2019-06-27 Thu 06:40]--[2019-06-27 Thu 07:06] =>  0:26
+  CLOCK: [2019-06-27 Thu 05:21]--[2019-06-27 Thu 05:44] =>  0:23
   - State "DONE"       from "STARTED"    [2019-06-26 Wed 21:51]
   CLOCK: [2019-06-26 Wed 18:31]--[2019-06-26 Wed 19:13] =>  0:42
   CLOCK: [2019-06-26 Wed 08:05]--[2019-06-26 Wed 08:22] =>  0:17
@@ -13008,11 +13056,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 高龙寅、王院长来检查8：30至10：30两个小时。
 * TODO [#B] check teaching
-  DEADLINE: <2019-06-27 Thu 10:00 +1d> SCHEDULED: <2019-06-27 Thu 09:30 +1d>
+  DEADLINE: <2019-06-29 Sat 10:00 +1d> SCHEDULED: <2019-06-29 Sat 09:30 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-26 Wed 17:59]
+  :LAST_REPEAT: [2019-06-28 Fri 14:36]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-28 Fri 14:36]
+  - State "DONE"       from "STARTED"    [2019-06-27 Thu 11:31]
+  CLOCK: [2019-06-27 Thu 10:29]--[2019-06-27 Thu 11:31] =>  1:02
   - State "DONE"       from "STARTED"    [2019-06-26 Wed 17:59]
   CLOCK: [2019-06-26 Wed 10:06]--[2019-06-26 Wed 11:49] =>  1:43
   - State "DONE"       from "STARTED"    [2019-06-25 Tue 11:28]
@@ -14014,11 +14065,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-24 二 14:09]
   :END:
 * TODO [#B] training
-  DEADLINE: <2019-06-27 Thu 20:00 +1w> SCHEDULED: <2019-06-27 Thu 19:00 +1w>
+  DEADLINE: <2019-07-04 Thu 20:00 +1w> SCHEDULED: <2019-07-04 Thu 19:00 +1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-20 Thu 19:26]
+  :LAST_REPEAT: [2019-06-27 Thu 14:39]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-27 Thu 14:39]
   - State "DONE"       from "STARTED"    [2019-06-20 Thu 19:26]
   - State "DONE"       from "STARTED"    [2019-06-09 Sun 20:12]
   CLOCK: [2019-06-09 Sun 20:04]--[2019-06-09 Sun 20:12] =>  0:08
@@ -14339,11 +14391,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-23 一 21:31]
   :END:
 * TODO [#A] Physical exercise
-  DEADLINE: <2019-06-27 Thu 16:40 +1d> SCHEDULED: <2019-06-27 Thu 16:31 +1d>
+  DEADLINE: <2019-06-29 Sat 16:40 +1d> SCHEDULED: <2019-06-29 Sat 16:31 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-06-26 Wed 19:49]
+  :LAST_REPEAT: [2019-06-28 Fri 20:53]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-06-28 Fri 20:53]
+  - State "DONE"       from "STARTED"    [2019-06-28 Fri 05:01]
   - State "DONE"       from "STARTED"    [2019-06-26 Wed 19:49]
   CLOCK: [2019-06-26 Wed 18:06]--[2019-06-26 Wed 18:31] =>  0:25
   - State "DONE"       from "STARTED"    [2019-06-25 Tue 21:38]
