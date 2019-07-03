@@ -15684,6 +15684,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2019-07-02 Tue 03:12]
    CLOCK: [2019-07-02 Tue 02:55]--[2019-07-02 Tue 03:12] =>  0:17
    :END:
+** DONE Review<2019-07-03 Wed 05:22>99.8%
+   CLOSED: [2019-07-03 Wed 05:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-07-03 Wed 05:38]
+   CLOCK: [2019-07-03 Wed 05:21]--[2019-07-03 Wed 05:38] =>  0:17
+   :END:
 * lesson 31forty eight
 ** DONE Review<2017-10-28 六 05:16>98.3%
    CLOSED: [2017-10-28 六 05:38]
@@ -15995,6 +16001,12 @@ A notebook is finished.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2019-07-02 Tue 03:33]
    CLOCK: [2019-07-02 Tue 03:15]--[2019-07-02 Tue 03:33] =>  0:18
+   :END:
+** DONE Review<2019-07-03 Wed 05:39>99.4%
+   CLOSED: [2019-07-03 Wed 05:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-07-03 Wed 05:56]
+   CLOCK: [2019-07-03 Wed 05:38]--[2019-07-03 Wed 05:56] =>  0:18
    :END:
 * lesson 30forty nine
 ** DONE Review<2017-10-27 五 04:14>98.3%
