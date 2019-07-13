@@ -928,4 +928,12 @@ english也可以直接输入hello，good morning！
      - State "DONE"       from "STARTED"    [2019-07-12 Fri 10:55]
      CLOCK: [2019-07-12 Fri 08:52]--[2019-07-12 Fri 10:55] =>  2:03
      :END:
+*** 2019-07-13 Saturday
+
+**** DONE 到文化市场一览
+     CLOSED: [2019-07-13 Sat 11:10]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-07-13 Sat 11:10]
+     CLOCK: [2019-07-13 Sat 09:53]--[2019-07-13 Sat 11:10] =>  1:17
+     :END:
 
