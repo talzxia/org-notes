@@ -16851,6 +16851,18 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2019-07-20 Sat 05:39]
    CLOCK: [2019-07-20 Sat 05:19]--[2019-07-20 Sat 05:39] =>  0:20
    :END:
+** DONE Review<2019-07-22 Mon 06:02>99.7%
+   CLOSED: [2019-07-22 Mon 06:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-07-22 Mon 06:22]
+   CLOCK: [2019-07-22 Mon 06:02]--[2019-07-22 Mon 06:22] =>  0:20
+   :END:
+** DONE Review<2019-07-22 Mon 18:40>99.7%
+   CLOSED: [2019-07-22 Mon 18:58]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-07-22 Mon 18:58]
+   CLOCK: [2019-07-22 Mon 18:39]--[2019-07-22 Mon 18:58] =>  0:19
+   :END:
 * Lesson
 ** Lesson 41
 a pen a pencil chalk a notebook a board an assignment
@@ -16994,8 +17006,8 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    - State "DONE"       from "STARTED"    [2018-05-14 一 20:23]
    :END:
 
-* DONE [#B]Wrting
-  CLOSED: [2019-06-26 Wed 20:47]
+* DONE [#B]Wting
+  CLOSED: [2019-07-22 Mon 20:15]
    :PROPERTIES:
    :LAST_REPEAT: [2018-02-12 Mon 20:30]
    :END:
@@ -17003,6 +17015,9 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    :LAST_REPEAT: [2018-02-07 三 06:32]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-07-22 Mon 20:15]
+   - State "STARTED"    from "DONE"       [2019-07-22 Mon 19:30]
+   CLOCK: [2019-07-22 Mon 19:30]--[2019-07-22 Mon 20:15] =>  0:45
    - State "DONE"       from "STARTED"    [2019-06-26 Wed 20:47]
    - State "STARTED"    from "DONE"       [2019-06-26 Wed 20:30]
    CLOCK: [2019-06-26 Wed 20:30]--[2019-06-26 Wed 20:47] =>  0:17
