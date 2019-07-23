@@ -16863,6 +16863,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2019-07-22 Mon 18:58]
    CLOCK: [2019-07-22 Mon 18:39]--[2019-07-22 Mon 18:58] =>  0:19
    :END:
+** DONE Review<2019-07-23 Tue 05:39>99.5%
+   CLOSED: [2019-07-23 Tue 05:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-07-23 Tue 05:56]
+   CLOCK: [2019-07-23 Tue 05:38]--[2019-07-23 Tue 05:56] =>  0:18
+   :END:
 * Lesson
 ** Lesson 41
 a pen a pencil chalk a notebook a board an assignment
@@ -16915,11 +16921,12 @@ Where does the teacher write the assignment? The teacher writes the assignment o
 
 * New concept English
 ** TODO [#B] Book One
-   SCHEDULED:<2019-07-23 Tue 06:00 +1m>
+   SCHEDULED:<2019-08-23 Fri 06:00 +1m>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-06-23 Sun 16:09]
+   :LAST_REPEAT: [2019-07-23 Tue 05:57]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-07-23 Tue 05:57]
    - State "DONE"       from "STARTED"    [2019-06-23 Sun 16:09]
    - State "DONE"       from "STARTED"    [2019-05-23 Thu 05:41]
    - State "DONE"       from "STARTED"    [2019-04-23 Tue 06:02]
