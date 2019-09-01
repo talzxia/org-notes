@@ -16971,6 +16971,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2019-08-31 Sat 06:45]
    CLOCK: [2019-08-31 Sat 06:25]--[2019-08-31 Sat 06:45] =>  0:20
    :END:
+** DONE Review<2019-09-01 Sun 03:50>99.8%
+   CLOSED: [2019-09-01 Sun 04:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-09-01 Sun 04:09]
+   CLOCK: [2019-09-01 Sun 03:50]--[2019-09-01 Sun 04:09] =>  0:19
+   :END:
 * Lesson
 ** Lesson 41
 a pen a pencil chalk a notebook a board an assignment
