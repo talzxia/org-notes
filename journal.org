@@ -964,4 +964,12 @@ english也可以直接输入hello，good morning！
 *** 2019-09-03 Tuesday
 
 **** 今天签定中介合同。
+*** 2019-09-05 Thursday
+
+**** DONE 入学专业教育
+     CLOSED: [2019-09-05 Thu 09:45]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-09-05 Thu 09:45]
+     CLOCK: [2019-09-05 Thu 08:11]--[2019-09-05 Thu 09:45] =>  1:34
+     :END:
 
