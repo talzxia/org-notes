@@ -972,4 +972,12 @@ english也可以直接输入hello，good morning！
      - State "DONE"       from "STARTED"    [2019-09-05 Thu 09:45]
      CLOCK: [2019-09-05 Thu 08:11]--[2019-09-05 Thu 09:45] =>  1:34
      :END:
+*** 2019-09-10 Tuesday
+
+**** DONE 到济南办事
+     CLOSED: [2019-09-10 Tue 17:09]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-09-10 Tue 17:09]
+     CLOCK: [2019-09-10 Tue 08:24]--[2019-09-10 Tue 17:09] =>  8:45
+     :END:
 
