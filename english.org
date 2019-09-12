@@ -16474,6 +16474,18 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2019-09-10 Tue 05:42]
    CLOCK: [2019-09-10 Tue 05:25]--[2019-09-10 Tue 05:42] =>  0:17
    :END:
+** DONE Review<2019-09-11 Wed 05:18>99.6%
+   CLOSED: [2019-09-11 Wed 05:33]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-09-11 Wed 05:33]
+   CLOCK: [2019-09-11 Wed 05:17]--[2019-09-11 Wed 05:33] =>  0:16
+   :END:
+** DONE Review<2019-09-12 Thu 05:21>99.6%
+   CLOSED: [2019-09-12 Thu 05:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-09-12 Thu 05:36]
+   CLOCK: [2019-09-12 Thu 05:21]--[2019-09-12 Thu 05:36] =>  0:15
+   :END:
 * Lesson 25fitty
 ** Review<2016-09-11 日 12:11>98.8%
 ** DONE Review <2016-09-11 日 18:39>99.2%
