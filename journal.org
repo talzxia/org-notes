@@ -980,4 +980,12 @@ english也可以直接输入hello，good morning！
      - State "DONE"       from "STARTED"    [2019-09-10 Tue 17:09]
      CLOCK: [2019-09-10 Tue 08:24]--[2019-09-10 Tue 17:09] =>  8:45
      :END:
+*** 2019-09-13 Friday
+
+**** DONE go to jinan
+     CLOSED: [2019-09-13 Fri 12:13]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-09-13 Fri 12:13]
+     CLOCK: [2019-09-13 Fri 07:22]--[2019-09-13 Fri 12:13] =>  0:01
+     :END:
 
