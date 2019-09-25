@@ -996,4 +996,12 @@ english也可以直接输入hello，good morning！
      - State "DONE"       from "STARTED"    [2019-09-23 Mon 10:52]
      CLOCK: [2019-09-23 Mon 08:00]--[2019-09-23 Mon 10:52] =>  0:04
      :END:
+*** 2019-09-25 Wednesday
+
+**** DONE to jinan
+     CLOSED: [2019-09-25 Wed 17:06]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-09-25 Wed 17:06]
+     CLOCK: [2019-09-25 Wed 06:05]--[2019-09-25 Wed 16:06] =>  0:21
+     :END:
 
