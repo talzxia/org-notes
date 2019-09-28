@@ -1012,4 +1012,12 @@ english也可以直接输入hello，good morning！
      - State "DONE"       from "STARTED"    [2019-09-26 Thu 09:40]
      CLOCK: [2019-09-26 Thu 07:44]--[2019-09-26 Thu 09:40] =>  1:56
      :END:
+*** 2019-09-28 Saturday
+
+**** DONE to meet president Wang
+     CLOSED: [2019-09-28 Sat 10:37]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-09-28 Sat 10:37]
+     CLOCK: [2019-09-28 Sat 08:15]--[2019-09-28 Sat 10:37] =>  0:02
+     :END:
 
