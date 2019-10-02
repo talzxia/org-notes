@@ -16074,6 +16074,12 @@ A notebook is finished.
    - State "DONE"       from "STARTED"    [2019-10-01 Tue 05:32]
    CLOCK: [2019-10-01 Tue 05:15]--[2019-10-01 Tue 05:32] =>  0:17
    :END:
+** DONE Revew<2019-10-02 Wed 06:20>98.6%
+   CLOSED: [2019-10-02 Wed 06:36]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-10-02 Wed 06:36]
+   CLOCK: [2019-10-02 Wed 06:20]--[2019-10-02 Wed 06:36] =>  0:16
+   :END:
 * lesson 30forty nine
 ** DONE Review<2017-10-27 五 04:14>98.3%
    CLOSED: [2017-10-27 五 04:34]
@@ -17615,11 +17621,12 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 * TODO [#b] Words Book one
-  DEADLINE: <2019-10-02 Wed 08:30 +1m> SCHEDULED:<2019-10-02 Wed 08:00 +1m>
+  DEADLINE: <2019-11-02 Sat 08:30 +1m> SCHEDULED:<2019-11-02 Sat 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-09-02 Mon 07:14]
+  :LAST_REPEAT: [2019-10-02 Wed 07:19]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-10-02 Wed 07:19]
   - State "DONE"       from "STARTED"    [2019-09-02 Mon 07:14]
   - State "DONE"       from "STARTED"    [2019-08-02 Fri 06:43]
   - State "DONE"       from "STARTED"    [2019-07-02 Tue 06:01]
