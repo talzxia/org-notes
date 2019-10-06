@@ -1029,4 +1029,12 @@ english也可以直接输入hello，good morning！
      - State "DONE"       from "STARTED"    [2019-10-04 Fri 13:27]
      CLOCK: [2019-10-04 Fri 09:16]--[2019-10-04 Fri 12:27] =>  0:51
      :END:
+*** 2019-10-06 Sunday
+
+**** DONE to make purchases
+     CLOSED: [2019-10-06 Sun 12:20]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-10-06 Sun 12:20]
+     CLOCK: [2019-10-06 Sun 09:19]--[2019-10-06 Sun 12:20] =>  0:01
+     :END:
 
