@@ -1045,4 +1045,12 @@ english也可以直接输入hello，good morning！
      - State "DONE"       from "STARTED"    [2019-10-13 Sun 18:39]
      CLOCK: [2019-10-13 Sun 16:00]--[2019-10-13 Sun 17:30] =>  0:04
      :END:
+*** 2019-10-15 Tuesday
+
+**** DONE talk
+     CLOSED: [2019-10-15 Tue 10:27]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-10-15 Tue 10:27]
+     CLOCK: [2019-10-15 Tue 10:00]--[2019-10-15 Tue 10:27] =>  0:27
+     :END:
 
