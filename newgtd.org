@@ -1,10 +1,12 @@
 * TODO eating
 ** TODO [#B]breakfast
-SCHEDULED: <2019-10-23 Wed 07:00 +1d> DEADLINE: <2019-10-23 Wed 07:40 +1d>
+SCHEDULED: <2019-10-24 Thu 07:00 +1d> DEADLINE: <2019-10-24 Thu 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-10-22 Tue 07:55]
+   :LAST_REPEAT: [2019-10-23 Wed 07:54]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-10-23 Wed 07:54]
+   CLOCK: [2019-10-23 Wed 07:03]--[2019-10-23 Wed 07:54] =>  0:51
    - State "DONE"       from "STARTED"    [2019-10-22 Tue 07:55]
    CLOCK: [2019-10-22 Tue 07:17]--[2019-10-22 Tue 07:55] =>  0:38
    - State "DONE"       from "STARTED"    [2019-10-21 Mon 07:54]
@@ -1702,6 +1704,7 @@ SCHEDULED: <2019-10-23 Wed 11:40 +1d> DEADLINE: <2019-10-24 Thu 13:40 +1d>
    :LAST_REPEAT: [2019-10-22 Tue 13:31]
    :END:
    :LOGBOOK:
+   CLOCK: [2019-10-23 Wed 12:10]--[2019-10-23 Wed 22:03] =>  9:53
    CLOCK: [2019-10-22 Tue 13:49]--[2019-10-22 Tue 13:50] =>  0:01
    - State "DONE"       from "STARTED"    [2019-10-22 Tue 13:31]
    CLOCK: [2019-10-22 Tue 11:58]--[2019-10-22 Tue 13:31] =>  1:33
@@ -5472,15 +5475,17 @@ clean up spending 15 minutes
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
 * STARTED [#A] sleep
-   DEADLINE: <2019-10-22 Tue 22:00 +1d> SCHEDULED: <2019-10-23 Wed 05:00 .+1d>
+   DEADLINE: <2019-10-23 Wed 22:00 +1d> SCHEDULED: <2019-10-24 Thu 05:00 .+1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2019-10-22 Tue 05:32]
+  :LAST_REPEAT: [2019-10-23 Wed 07:53]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2019-10-22 Tue 20:22]
+  CLOCK: [2019-10-23 Wed 22:03]
+  - State "DONE"       from "STARTED"    [2019-10-23 Wed 07:53]
+  CLOCK: [2019-10-22 Tue 20:22]--[2019-10-23 Wed 07:53] => 11:31
   - State "DONE"       from "STARTED"    [2019-10-22 Tue 05:32]
   CLOCK: [2019-10-21 Mon 21:37]--[2019-10-22 Tue 05:32] =>  7:55
   - State "DONE"       from "STARTED"    [2019-10-21 Mon 05:32]
