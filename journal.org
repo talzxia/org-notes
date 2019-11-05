@@ -1070,4 +1070,12 @@ english也可以直接输入hello，good morning！
      - State "DONE"       from "STARTED"    [2019-11-04 Mon 09:55]
      CLOCK: [2019-11-04 Mon 08:44]--[2019-11-04 Mon 09:55] =>  1:11
      :END:
+*** 2019-11-05 Tuesday
+
+**** DONE take water
+     CLOSED: [2019-11-05 Tue 10:17]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-11-05 Tue 10:17]
+     CLOCK: [2019-11-05 Tue 09:19]--[2019-11-05 Tue 10:17] =>  0:58
+     :END:
 
