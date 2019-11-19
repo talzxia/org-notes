@@ -1086,4 +1086,12 @@ english也可以直接输入hello，good morning！
      - State "DONE"       from "STARTED"    [2019-11-09 Sat 15:01]
      CLOCK: [2019-11-09 Sat 09:44]--[2019-11-09 Sat 11:41] =>  5:17
      :END:
+*** 2019-11-19 Tuesday
+
+**** DONE 今日体检
+     CLOSED: [2019-11-19 Tue 14:00]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-11-19 Tue 14:00]
+     CLOCK: [2019-11-19 Tue 06:43]--[2019-11-19 Tue 14:00] =>  7:17
+     :END:
 
