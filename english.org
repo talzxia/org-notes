@@ -17875,11 +17875,12 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 * TODO [#b] Words Book one
-  DEADLINE: <2019-12-02 Mon 08:30 +1m> SCHEDULED:<2019-12-02 Mon 08:00 +1m>
+  DEADLINE: <2020-01-02 Thu 08:30 +1m> SCHEDULED:<2020-01-02 Thu 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2019-11-03 Sun 13:30]
+  :LAST_REPEAT: [2019-12-02 Mon 07:53]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2019-12-02 Mon 07:53]
   - State "DONE"       from "STARTED"    [2019-11-03 Sun 13:30]
   - State "DONE"       from "STARTED"    [2019-10-02 Wed 07:19]
   - State "DONE"       from "STARTED"    [2019-09-02 Mon 07:14]
