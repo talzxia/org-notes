@@ -1094,4 +1094,13 @@ english也可以直接输入hello，good morning！
      - State "DONE"       from "STARTED"    [2019-11-19 Tue 14:00]
      CLOCK: [2019-11-19 Tue 06:43]--[2019-11-19 Tue 14:00] =>  7:17
      :END:
+** 2019-12 December
+*** 2019-12-05 Thursday
+
+**** DONE 党校学习
+     CLOSED: [2019-12-05 Thu 20:47]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2019-12-05 Thu 20:47]
+     CLOCK: [2019-12-05 Thu 06:52]--[2019-12-05 Thu 18:47] =>  1:25
+     :END:
 
