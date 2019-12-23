@@ -15531,9 +15531,18 @@ Arrange student internship
    :END:
 ** DONE Revie<2019-12-20 Fri 03:56>w99.4%
    CLOSED: [2019-12-20 Fri 04:15]
+   :PROPERTIES:
+   :ID:       36A51380-C7F0-40A3-A69F-61C4636037BF
+   :END:
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2019-12-20 Fri 04:15]
    CLOCK: [2019-12-20 Fri 03:56]--[2019-12-20 Fri 04:15] =>  0:19
+   :END:
+** DONE Review<2019-12-23 Mon 05:20>99.6% 
+   CLOSED: [2019-12-23 Mon 05:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-12-23 Mon 05:38]
+   CLOCK: [2019-12-23 Mon 05:20]--[2019-12-23 Mon 05:38] =>  0:18
    :END:
 * lesson 22forty seven
 ** DONE Review 92.5%
@@ -17504,11 +17513,12 @@ Where does the teacher write the assignment? The teacher writes the assignment o
 
 * New concept English
 ** TODO [#B] Book One
-   SCHEDULED:<2019-12-23 Mon 06:00 +1m>
+   SCHEDULED:<2020-01-23 Thu 06:00 +1m>
    :PROPERTIES:
-   :LAST_REPEAT: [2019-11-23 Sat 07:04]
+   :LAST_REPEAT: [2019-12-23 Mon 05:38]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2019-12-23 Mon 05:38]
    - State "DONE"       from "STARTED"    [2019-11-23 Sat 07:04]
    - State "DONE"       from "STARTED"    [2019-10-23 Wed 07:53]
    - State "DONE"       from "STARTED"    [2019-09-23 Mon 06:03]
