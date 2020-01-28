@@ -1,5 +1,0 @@
-\documentclass{article}
-\usepackage{synttree}
-\begin{document}
-\synttree[+[*[a] [b]][-[c] [d][e][f]][/[3[3]]]]
-\end{document}
