@@ -1125,4 +1125,13 @@ english 也可以直接输入 hello，good morning！
      - State "DONE"       from "STARTED"    [2020-01-29 Wed 12:38]
      CLOCK: [2020-01-29 Wed 10:02]--[2020-01-29 Wed 11:38] =>  0:56
      :END:
+** 2020-02 February
+*** 2020-02-05 Wednesday
+
+**** DONE today<2020-02-05 Wed 17:47> 
+     CLOSED: [2020-02-05 Wed 17:49]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2020-02-05 Wed 17:49]
+     CLOCK: [2020-02-05 Wed 17:47]--[2020-02-05 Wed 17:49] =>  0:02
+     :END:
 
