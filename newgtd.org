@@ -6000,16 +6000,17 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
-   DEADLINE: <2020-02-06 Thu 22:00 +1d> SCHEDULED: <2020-02-07 Fri 05:00 .+1d>
+* TODO [#A] sleep
+   DEADLINE: <2020-02-07 Fri 22:00 +1d> SCHEDULED: <2020-02-08 Sat 05:00 .+1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2020-02-06 Thu 05:17]
+  :LAST_REPEAT: [2020-02-07 Fri 04:38]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
-  CLOCK: [2020-02-06 Thu 20:14]
+  - State "DONE"       from "STARTED"    [2020-02-07 Fri 04:38]
+  CLOCK: [2020-02-06 Thu 20:14]--[2020-02-07 Fri 04:38] =>  8:24
   - State "DONE"       from "STARTED"    [2020-02-06 Thu 05:17]
   CLOCK: [2020-02-05 Wed 21:14]--[2020-02-06 Thu 05:17] =>  8:03
   - State "DONE"       from "STARTED"    [2020-02-05 Wed 04:52]
@@ -9490,11 +9491,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New Englis  
-  SCHEDULED: <2020-02-07 Fri 06:30 +1d> DEADLINE: <2020-02-07 Fri 06:10 +1d>
+  SCHEDULED: <2020-02-08 Sat 06:30 +1d> DEADLINE: <2020-02-08 Sat 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-02-06 Thu 05:36]
+  :LAST_REPEAT: [2020-02-07 Fri 04:57]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-02-07 Fri 04:57]
+  CLOCK: [2020-02-07 Fri 04:54]--[2020-02-07 Fri 04:57] =>  0:03
   - State "DONE"       from "STARTED"    [2020-02-06 Thu 05:36]
   CLOCK: [2020-02-06 Thu 05:33]--[2020-02-06 Thu 05:36] =>  0:03
   - State "DONE"       from "STARTED"    [2020-02-05 Wed 05:10]
@@ -10311,13 +10314,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2018-01-01 一 05:20]--[2018-01-01 一 05:27] =>  0:07
   :END:
 
-* TODO [#B] handwriting
+* STARTED [#B] handwriting
   SCHEDULED: <2020-02-07 Fri 06:30 .+1d> DEADLINE: <2020-02-07 Fri 07:00 .+1d>
   :PROPERTIES:
   :LAST_REPEAT: [2020-02-06 Thu 07:02]
   :ID:       D43AD498-462A-4AC4-B9DB-8474C66510BD
   :END:
   :LOGBOOK:
+  CLOCK: [2020-02-07 Fri 04:57]
   - State "DONE"       from "STARTED"    [2020-02-06 Thu 07:02]
   CLOCK: [2020-02-06 Thu 06:31]--[2020-02-06 Thu 07:02] =>  0:31
   - State "DONE"       from "STARTED"    [2020-02-05 Wed 06:21]
