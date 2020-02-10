@@ -1134,4 +1134,15 @@ english 也可以直接输入 hello，good morning！
      - State "DONE"       from "STARTED"    [2020-02-05 Wed 17:49]
      CLOCK: [2020-02-05 Wed 17:47]--[2020-02-05 Wed 17:49] =>  0:02
      :END:
+*** 2020-02-10 Monday
+
+**** DONE 送孩子回济南 
+     CLOSED: [2020-02-10 Mon 10:52]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2020-02-10 Mon 10:52]
+     CLOCK: [2020-02-10 Mon 06:40]--[2020-02-10 Mon 10:32] =>  3:52
+     :END:
+去查一次体温
+返查三次体温
+顺利。
 
