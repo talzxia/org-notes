@@ -14023,6 +14023,12 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2020-03-01 Sun 06:52]
    CLOCK: [2020-03-01 Sun 06:30]--[2020-03-01 Sun 06:52] =>  0:22
    :END:
+** DONE Review<2020-03-02 Mon 05:45>99.7% 
+   CLOSED: [2020-03-02 Mon 06:07]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-03-02 Mon 06:07]
+   CLOCK: [2020-03-02 Mon 05:45]--[2020-03-02 Mon 06:07] =>  0:22
+   :END:
 * lesson 24forty four
 ** DONE Review 94%
    CLOSED: [2016-08-23 二 04:36]
@@ -18247,11 +18253,12 @@ Where does the teacher write the assignment? The teacher writes the assignment o
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 * TODO [#b] Words Book one
-  DEADLINE: <2020-03-02 Mon 08:30 +1m> SCHEDULED:<2020-03-02 Mon 08:00 +1m>
+  DEADLINE: <2020-04-02 Thu 08:30 +1m> SCHEDULED:<2020-04-02 Thu 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-02-02 Sun 05:37]
+  :LAST_REPEAT: [2020-03-02 Mon 11:13]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-03-02 Mon 11:13]
   - State "DONE"       from "STARTED"    [2020-02-02 Sun 05:37]
   - State "DONE"       from "STARTED"    [2020-01-02 Thu 06:18]
   - State "DONE"       from "STARTED"    [2019-12-02 Mon 07:53]
