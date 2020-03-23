@@ -13601,6 +13601,18 @@ Arrange student internship
    - State "DONE"       from "STARTED"    [2020-03-22 Sun 18:12]
    CLOCK: [2020-03-22 Sun 17:49]--[2020-03-22 Sun 18:12] =>  0:23
    :END:
+** DONE Review<2020-03-23 Mon 04:53>99.3% 
+   CLOSED: [2020-03-23 Mon 05:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-03-23 Mon 05:12]
+   CLOCK: [2020-03-23 Mon 04:52]--[2020-03-23 Mon 05:12] =>  0:20
+   :END:
+** DONE Review<2020-03-23 Mon 17:31>100% full correct No misktakes. 
+   CLOSED: [2020-03-23 Mon 17:53]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-03-23 Mon 17:53]
+   CLOCK: [2020-03-23 Mon 17:31]--[2020-03-23 Mon 17:53] =>  0:22
+   :END:
 * lesson 28forty three
 ** DONE Review 94.8%
    CLOSED: [2016-08-23 二 5:44]
@@ -18011,11 +18023,12 @@ Where does the teacher write the assignment? The teacher writes the assignment o
 
 * New concept English
 ** TODO [#B] Book One
-   SCHEDULED:<2020-03-23 Mon 06:00 +1m>
+   SCHEDULED:<2020-04-23 Thu 06:00 +1m>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-02-23 Sun 05:46]
+   :LAST_REPEAT: [2020-03-23 Mon 05:20]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-03-23 Mon 05:20]
    - State "DONE"       from "STARTED"    [2020-02-23 Sun 05:46]
    - State "DONE"       from "STARTED"    [2020-01-23 Thu 05:33]
    - State "DONE"       from "STARTED"    [2019-12-23 Mon 05:38]
@@ -18545,11 +18558,13 @@ Where does the teacher write the assignment? The teacher writes the assignment o
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New English  
-  SCHEDULED: <2020-03-23 Mon 05:50 +1d> DEADLINE: <2020-03-23 Mon 06:10 +1d>
+  SCHEDULED: <2020-03-24 Tue 05:50 +1d> DEADLINE: <2020-03-24 Tue 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-03-22 Sun 04:57]
+  :LAST_REPEAT: [2020-03-23 Mon 05:20]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-03-23 Mon 05:20]
+  CLOCK: [2020-03-23 Mon 05:13]--[2020-03-23 Mon 05:20] =>  0:07
   - State "DONE"       from "STARTED"    [2020-03-22 Sun 04:57]
   CLOCK: [2020-03-22 Sun 04:48]--[2020-03-22 Sun 04:57] =>  0:09
   - State "DONE"       from "STARTED"    [2020-03-21 Sat 15:00]
