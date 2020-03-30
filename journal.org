@@ -1185,4 +1185,19 @@ english 也可以直接输入 hello，good morning！
      - State "DONE"       from "STARTED"    [2020-03-26 Thu 18:47]
      CLOCK: [2020-03-26 Thu 06:29]--[2020-03-26 Thu 15:37] =>  2:08
      :END:
+*** 2020-03-30 Monday
+
+**** DONE 安装家具
+     CLOSED: [2020-03-30 Mon 14:38]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2020-03-30 Mon 14:38]
+     CLOCK: [2020-03-28 Sat 07:36]--[2020-03-28 Sat 20:08] =>  7:02
+     :END:
+
+**** DONE 安装家电 
+     CLOSED: [2020-03-30 Mon 14:42]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2020-03-30 Mon 14:42]
+     CLOCK: [2020-03-29 Sun 08:00]--[2020-03-30 Mon 20:42] => 24:02
+     :END:
 
