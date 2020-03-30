@@ -18588,11 +18588,12 @@ Where does the teacher write the assignment? The teacher writes the assignment o
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New English  
-  SCHEDULED: <2020-03-30 Mon 05:50 +1d> DEADLINE: <2020-03-30 Mon 06:10 +1d>
+  SCHEDULED: <2020-03-31 Tue 05:50 +1d> DEADLINE: <2020-03-31 Tue 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-03-30 Mon 14:40]
+  :LAST_REPEAT: [2020-03-30 Mon 21:59]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-03-30 Mon 21:59]
   - State "DONE"       from "STARTED"    [2020-03-30 Mon 14:40]
   - State "DONE"       from "STARTED"    [2020-03-30 Mon 14:34]
   - State "DONE"       from "STARTED"    [2020-03-27 Fri 04:35]
