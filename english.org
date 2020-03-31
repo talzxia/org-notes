@@ -13105,6 +13105,18 @@ w<2017-10-19 四 05:46>99%
    - State "DONE"       from "STARTED"    [2019-05-30 Thu 05:40]
    CLOCK: [2019-05-30 Thu 05:21]--[2019-05-30 Thu 05:40] =>  0:19
    :END:
+** DONE Review<2020-03-31 Tue 05:20>99.8% 
+   CLOSED: [2020-03-31 Tue 05:39]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-03-31 Tue 05:39]
+   CLOCK: [2020-03-31 Tue 05:20]--[2020-03-31 Tue 05:39] =>  0:19
+   :END:
+** DONE Review<2020-03-31 Tue 19:36>99.8% 
+   CLOSED: [2020-03-31 Tue 19:55]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-03-31 Tue 19:55]
+   CLOCK: [2020-03-31 Tue 19:36]--[2020-03-31 Tue 19:55] =>  0:19
+   :END:
 * lesson 29forty two
 ** DONE Review <2016-08-27 六 20:55> 95.9%
    CLOSED: [2016-08-27 六 21:26]
@@ -18588,11 +18600,13 @@ Where does the teacher write the assignment? The teacher writes the assignment o
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New English  
-  SCHEDULED: <2020-03-31 Tue 05:50 +1d> DEADLINE: <2020-03-31 Tue 06:10 +1d>
+  SCHEDULED: <2020-04-01 Wed 05:50 +1d> DEADLINE: <2020-04-01 Wed 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-03-30 Mon 21:59]
+  :LAST_REPEAT: [2020-03-31 Tue 06:02]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-03-31 Tue 06:02]
+  CLOCK: [2020-03-31 Tue 05:39]--[2020-03-31 Tue 06:02] =>  0:23
   - State "DONE"       from "STARTED"    [2020-03-30 Mon 21:59]
   - State "DONE"       from "STARTED"    [2020-03-30 Mon 14:40]
   - State "DONE"       from "STARTED"    [2020-03-30 Mon 14:34]
