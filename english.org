@@ -13135,6 +13135,18 @@ w<2017-10-19 四 05:46>99%
    - State "DONE"       from "STARTED"    [2020-04-01 Wed 21:00]
    CLOCK: [2020-04-01 Wed 20:41]--[2020-04-01 Wed 21:00] =>  0:19
    :END:
+** DONE Review<2020-04-02 Thu 04:36>99.7% 
+   CLOSED: [2020-04-02 Thu 04:54]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-04-02 Thu 04:54]
+   CLOCK: [2020-04-02 Thu 04:36]--[2020-04-02 Thu 04:54] =>  0:18
+   :END:
+** DONE Review<2020-04-02 Thu 11:56>99.8% 
+   CLOSED: [2020-04-02 Thu 12:15]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-04-02 Thu 12:15]
+   CLOCK: [2020-04-02 Thu 11:55]--[2020-04-02 Thu 12:15] =>  0:20
+   :END:
 * lesson 29forty two
 ** DONE Review <2016-08-27 六 20:55> 95.9%
    CLOSED: [2016-08-27 六 21:26]
@@ -18545,11 +18557,12 @@ but his wife did!
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 * TODO [#b] Words Book one
-  DEADLINE: <2020-04-02 Thu 08:30 +1m> SCHEDULED:<2020-04-02 Thu 08:00 +1m>
+  DEADLINE: <2020-05-02 Sat 08:30 +1m> SCHEDULED:<2020-05-02 Sat 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-03-02 Mon 11:13]
+  :LAST_REPEAT: [2020-04-02 Thu 04:55]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-04-02 Thu 04:55]
   - State "DONE"       from "STARTED"    [2020-03-02 Mon 11:13]
   - State "DONE"       from "STARTED"    [2020-02-02 Sun 05:37]
   - State "DONE"       from "STARTED"    [2020-01-02 Thu 06:18]
@@ -18663,11 +18676,13 @@ but his wife did!
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New English  
-  SCHEDULED: <2020-04-02 Thu 05:50 +1d> DEADLINE: <2020-04-02 Thu 06:10 +1d>
+  SCHEDULED: <2020-04-03 Fri 05:50 +1d> DEADLINE: <2020-04-03 Fri 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-04-01 Wed 04:45]
+  :LAST_REPEAT: [2020-04-02 Thu 05:04]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-04-02 Thu 05:04]
+  CLOCK: [2020-04-02 Thu 04:55]--[2020-04-02 Thu 05:04] =>  0:09
   - State "DONE"       from "STARTED"    [2020-04-01 Wed 04:45]
   CLOCK: [2020-04-01 Wed 04:08]--[2020-04-01 Wed 04:45] =>  0:37
   - State "DONE"       from "STARTED"    [2020-03-31 Tue 06:02]
