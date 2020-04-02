@@ -13147,6 +13147,12 @@ w<2017-10-19 四 05:46>99%
    - State "DONE"       from "STARTED"    [2020-04-02 Thu 12:15]
    CLOCK: [2020-04-02 Thu 11:55]--[2020-04-02 Thu 12:15] =>  0:20
    :END:
+** DONE Review<2020-04-02 Thu 15:09>99.8% 
+   CLOSED: [2020-04-02 Thu 15:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-04-02 Thu 15:27]
+   CLOCK: [2020-04-02 Thu 15:09]--[2020-04-02 Thu 15:27] =>  0:18
+   :END:
 * lesson 29forty two
 ** DONE Review <2016-08-27 六 20:55> 95.9%
    CLOSED: [2016-08-27 六 21:26]
@@ -18078,6 +18084,7 @@ The pupils can't draw a horse, this is a complex assignment.
 The professor is dictating and, the students are  writing on the borard with chalk.
 The pupils are drawing a house. This is a simple assignment.
 The pupil counts how many apples are lying on the table.
+The teacher is counting how many pupils are sitting in the classroom.
 
 To learn at a university is complex.
 To drive a car is complex.
