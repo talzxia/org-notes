@@ -12659,6 +12659,25 @@ w<2017-10-19 四 05:46>99%
    - State "DONE"       from "STARTED"    [2019-05-22 Wed 21:17]
    CLOCK: [2019-05-22 Wed 20:56]--[2019-05-22 Wed 21:17] =>  0:21
    :END:
+** DONE Review<2020-04-05 Sun 03:35>98.1% 
+   CLOSED: [2020-04-05 Sun 04:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-04-05 Sun 04:04]
+   CLOCK: [2020-04-05 Sun 03:34]--[2020-04-05 Sun 04:04] =>  0:30
+   :END:
+** DONE Review<2020-04-05 Sun 15:59>99.5% 
+   CLOSED: [2020-04-05 Sun 16:22]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-04-05 Sun 16:22]
+   CLOCK: [2020-04-05 Sun 15:58]--[2020-04-05 Sun 16:22] =>  0:24
+   :END:
+
+** DONE Review<2020-04-05 Sun 19:51>99.4% 
+   CLOSED: [2020-04-05 Sun 20:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-04-05 Sun 20:12]
+   CLOCK: [2020-04-05 Sun 19:51]--[2020-04-05 Sun 20:12] =>  0:21
+   :END:
 * lesson 27forty one
 ** DONE Review e 95.9% igh 95.9%t 95.9%
    CLOSED: [2016-08-06 六 21:15]
@@ -18707,11 +18726,13 @@ but his wife did!
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New English  
-  SCHEDULED: <2020-04-05 Sun 05:50 +1d> DEADLINE: <2020-04-05 Sun 06:10 +1d>
+  SCHEDULED: <2020-04-06 Mon 05:50 +1d> DEADLINE: <2020-04-06 Mon 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-04-04 Sat 04:32]
+  :LAST_REPEAT: [2020-04-05 Sun 04:12]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-04-05 Sun 04:12]
+  CLOCK: [2020-04-05 Sun 04:05]--[2020-04-05 Sun 04:12] =>  0:07
   - State "DONE"       from "STARTED"    [2020-04-04 Sat 04:32]
   CLOCK: [2020-04-04 Sat 04:20]--[2020-04-04 Sat 04:32] =>  0:12
   - State "DONE"       from "STARTED"    [2020-04-03 Fri 05:38]
@@ -19642,4 +19663,76 @@ but his wife did!
   - State "DONE"       from "STARTED"    [2018-01-01 一 05:27]
   CLOCK: [2018-01-01 一 05:20]--[2018-01-01 一 05:27] =>  0:07
   :END:
+
+* Words
+** move into
+*** When will the new people move into this house?
+** move in 
+*** I think that they'll move in the day after tomorrow.
+** teacher
+*** Who dictates, and who writes? A teacher dictates, and pupils write.
+*** The teacher is explaining a complex assignment on the board.
+*** The teacher is counting how many pupils are sitting in the classroom.
+*** The teacher is dictating, and the students are writing on the board with chalk.
+*** The teacher asks, and the pupil answers from his seat.
+*** The teacher checks the assignment and gives a grade.
+** professor
+*** The professor is giving the students an interesting lecture.
+** classroom
+*** The teacher is counting how many pupils are sitting in the classroom. 
+** learn
+*** The pupil learns at school.
+*** The student learns at a university.
+*** The pupils go to school in order to learn.
+*** The students go to the university in order to learn.
+*** The pupils learn in a class.
+*** The students learn in an auditorium.
+*** To learn at school is simple.
+*** To learn at a university is complex.
+
+** study
+*** Who studies in school, and who studies at a university? Pupils study in school, and students study at a university.
+*** 
+** class
+*** The pupils learn in a class.
+*** After every class there's a recess.
+** lecture
+*** After every lecture there's a break.
+*** The professor is giving the stuents an interesting lecture.
+*** In lecture students listen and write in notebooks with pens.
+** recess
+*** After every class there's a recess.
+*** During recess pupils relax, play and eat.
+** break
+*** After every lecture there's a break.
+** simple
+*** To read a book is simple.
+*** To learn at school is simple.
+*** To play with toys is simple.
+*** The pupils are drawing a house. This is a simple assignment.
+** complex
+*** To play on stage is complex.
+*** To learn at a university is complex.
+*** To drive a car is complex.
+*** The teacher is explainging a complex assignment in class.
+*** The pupils can't draw a horse. This is a complex assignment.
+** day
+*** today
+**** Will you see Ian today, Jenny?
+**** 
+
+*** yesterday
+**** 
+*** tomorrow 
+**** When? Tomorrow morning.
+**** No. Tomorrow afternoon.
+**** He's going to move tomorrow.
+
+*** the day after tomorrow
+**** I think that they'll move in the day after tomorrow.
+
+*** the day before yesterday
+** see
+*** Will you see Ian today, Jenny?
+*** My wife must see it first.
 
