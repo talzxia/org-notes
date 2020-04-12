@@ -1233,4 +1233,12 @@ english 也可以直接输入 hello，good morning！
      - State "DONE"       from "STARTED"    [2020-04-07 Tue 11:27]
      CLOCK: [2020-04-07 Tue 06:05]--[2020-04-07 Tue 11:27] =>  0:02
      :END:
+*** 2020-04-12 Sunday
+
+**** DONE to relax in nature 
+     CLOSED: [2020-04-12 Sun 16:57]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2020-04-12 Sun 16:57]
+     CLOCK: [2020-04-12 Sun 15:17]--[2020-04-12 Sun 16:57] =>  1:40
+     :END:
 
