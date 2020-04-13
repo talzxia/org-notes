@@ -844,8 +844,6 @@ USDT。现在乃至将来，法币依然是最主要、最安全的支付手段�
 参考文章：http://doc.norang.ca/org-mode.html#Refiling
 
 ** [[http://www.fidding.me/article/16][在emacs使用magit管理git版本控制]]
-** [[emacs下的git工具 magit 简介][emacs下的git工具 magit 简介]]
-** [[https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137583770360579bc4b458f044ce7afed3df579123eca000][搭建Git服务器]]
 ** [[http://blog.csdn.net/gcc_sky/article/details/14047687][让你的代码有个归宿：Git学习及Emacs之magit]]
 
 转载：请注明http://blog.csdn.net/gcc_sky
@@ -1013,7 +1011,7 @@ DEL             magit-show-item-or-scroll-down
             ------Mitchell Wand
              《美国科学家》杂志
 1984 年出版，成型于麻省理工学院（MIT）多年使用的教材。1996 年修订第 2 版。在过去的二十多年里，对于计算机科学的教育计划产生了深刻的影响。
-源代码及教辅资料：[[www-mitpress.mit.edu/sicp/]]
+源代码及教辅资料：
 
 计算机科学专业入门教材之一，从理论上讲解计算机程序的创建、执行知研究。主要内容包
 括：构造过程抽象，构造数据抽象，模块化、对象和状态，元语言抽象，寄存器机器里的计
@@ -16747,5 +16745,3 @@ ABCDI 时代：A就是 AI，B 就是区块链，C是云计算，D是大数据，
 
 代表组：信息代表组
 2018 年 3 月 10 日
-* emacs 下的 git 工具 magit 简介
-* www-mitpress.mit.edu/sicp/
