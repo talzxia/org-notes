@@ -2034,11 +2034,13 @@ SCHEDULED: <2020-04-15 Wed 07:00 +1d> DEADLINE: <2020-04-15 Wed 07:40 +1d>
 
 
 ** TODO [#C] lunch
-SCHEDULED: <2020-04-14 Tue 11:40 +1d> DEADLINE: <2020-04-14 Tue 13:40 +1d>
+SCHEDULED: <2020-04-15 Wed 11:40 +1d> DEADLINE: <2020-04-15 Wed 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-04-13 Mon 14:30]
+   :LAST_REPEAT: [2020-04-14 Tue 15:11]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-04-14 Tue 15:11]
+   CLOCK: [2020-04-14 Tue 10:55]--[2020-04-14 Tue 15:11] =>  4:16
    - State "DONE"       from "STARTED"    [2020-04-13 Mon 14:30]
    CLOCK: [2020-04-13 Mon 11:44]--[2020-04-13 Mon 14:30] =>  2:46
    - State "DONE"       from "STARTED"    [2020-04-12 Sun 14:09]
@@ -3947,13 +3949,14 @@ SCHEDULED: <2020-04-14 Tue 11:40 +1d> DEADLINE: <2020-04-14 Tue 13:40 +1d>
     :END:
 13:50-14:30 检查
 
-** TODO [#B] dinner
+** STARTED [#B] dinner
    DEADLINE: <2020-04-14 Tue 18:40 +1d> SCHEDULED: <2020-04-14 Tue 17:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-04-13 Mon 19:06]
    :STYLE:    habit
    :END:
    :LOGBOOK:
+   CLOCK: [2020-04-14 Tue 16:30]
    - State "DONE"       from "STARTED"    [2020-04-13 Mon 19:06]
    CLOCK: [2020-04-13 Mon 16:40]--[2020-04-13 Mon 19:06] =>  2:26
    - State "DONE"       from "STARTED"    [2020-04-12 Sun 20:23]
@@ -11707,7 +11710,6 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2020-04-14 Tue 10:10]
-   CLOCK: [2020-04-14 Tue 08:54]
    CLOCK: [2020-04-14 Tue 08:35]--[2020-04-14 Tud 10:11] =>  1:36
    - State "DONE"       from "STARTED"    [2020-04-13 Mon 11:23]
    CLOCK: [2020-04-13 Mon 10:05]--[2020-04-13 Mon 11:24] =>  1:19
@@ -14157,12 +14159,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* TODO [#B] browse news and free learn
+* STARTED [#B] browse news and free learn
   DEADLINE: <2020-04-14 Tue 21:00 .+1d> SCHEDULED: <2020-04-14 Tue 21:20 .+1d>
   :PROPERTIES:
   :LAST_REPEAT: [2020-04-13 Mon 21:51]
   :END:
   :LOGBOOK:
+  CLOCK: [2020-04-14 Tue 10:28]--[2020-04-14 Tue 10:55] =>  0:27
   - State "DONE"       from "STARTED"    [2020-04-13 Mon 21:51]
   CLOCK: [2020-04-13 Mon 05:04]--[2020-04-13 Mon 05:10] =>  0:06
   - State "DONE"       from "STARTED"    [2020-04-12 Sun 21:29]
