@@ -1,18 +1,14 @@
 //
-//  main.c
-//  dogs
+// main.c
+//hello
 //
-//  Created by mac on 2020/4/15.
-//  Copyright © 2020 mac. All rights reserved.
+// Created by Mac on 2020/04/15
 //
-
-#include <stdio.h>
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    int dogs;
-    printf("How many dogs do you have?\n");
-    scanf("%d",&dogs);
-    printf("So you have %d dog(s)!\n",dogs);
+//Copyright @ 2020 Mac All rights reserved.
+//
+#include<stdio.h>
+int main(int orgc,const char *argvp[])
+{
+    printf("Hello, world!\n");
     return 0;
 }
