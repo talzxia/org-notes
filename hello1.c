@@ -9,5 +9,5 @@
 int main(int argc,const char *argv[])
 {
     printf("Hello, world!\n");
-    return ;
+    return 0;
 }

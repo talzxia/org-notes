@@ -17,6 +17,11 @@ set-background-color black
 set-foreground-color grey80
 ** dictionary
 不能使用
+** 解决了文件不 tracked 的问题
+文件状态：Untraceked
+变为 tracked 
+用 github desktop
+command ?
 * handwriting
 ** 
 * C programming

@@ -2035,13 +2035,14 @@ SCHEDULED: <2020-04-16 Thu 07:00 +1d> DEADLINE: <2020-04-16 Thu 07:40 +1d>
 财经系陈卫华
 
 
-** STARTED [#C] lunch
-SCHEDULED: <2020-04-15 Wed 11:40 +1d> DEADLINE: <2020-04-15 Wed 13:40 +1d>
+** TODO [#C] lunch
+SCHEDULED: <2020-04-16 Thu 11:40 +1d> DEADLINE: <2020-04-16 Thu 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-04-14 Tue 15:11]
+   :LAST_REPEAT: [2020-04-15 Wed 15:29]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-04-15 Wed 11:34]
+   - State "DONE"       from "STARTED"    [2020-04-15 Wed 15:29]
+   CLOCK: [2020-04-15 Wed 11:34]--[2020-04-15 Wed 15:29] =>  3:55
    - State "DONE"       from "STARTED"    [2020-04-14 Tue 15:11]
    CLOCK: [2020-04-14 Tue 10:55]--[2020-04-14 Tue 15:11] =>  4:16
    - State "DONE"       from "STARTED"    [2020-04-13 Mon 14:30]
