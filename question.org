@@ -1,0 +1,40 @@
+* english learn
+** 语法
+How many dogs do you have?
+wrong:
+How many dogs are you have?
+I was there in April.
+Error: I was there in the spring.
+It was spring.(It was in spring.)
+[2020-04-14 Tue]
+* emacs 
+** clls wrong
+install llvm 解决部分
+** ycmd
+apt-get 如何安装
+** 因 emacs background 困绕
+set-background-color black
+set-foreground-color grey80
+** dictionary
+不能使用
+* handwriting
+** 
+* C programming
+** 今天安装了 gdp
+brew install gdp
+是什么东西，待探索。
+** 学会的命令
+*** gcc 编译
+Gcc -o 输出的文件名 被编译的文件
+simple: gcc -o hello.exe hello.c
+
+** 易犯的错
+*** 名尾漏";"
+printf("hello, world!\n");
+return 0;
+*** 取变量格式 &dogs
+两次错误
+少了“&”
+*** include 
+*** 变量名错
+declared

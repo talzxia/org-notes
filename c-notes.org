@@ -1,0 +1,60 @@
+* C 语言程序的组成
+** 头文件
+#include<stdio.h>
+** 主函数
+int main()//可接受参数
+int main(void)//不接受参数输入
+** 程序体
+{
+  语句 1；
+  函数 1；
+  语句 n;
+  函数 n;
+
+  return 0;
+
+}
+** 因为函数型语言，因此可接受参数及返回值。
+程序体中皆有 return 值；句
+当不返回值时：return 0;
+** 字符串用双引号
+如："Hello, world!\n"
+"How many dogs do you have?\n"
+"%d",&dogs
+"So you have %d dog(s)!\n"
+** 特殊符号
+%d 十进制整数
+&dogs 接受输入并存入 dogs
+** 易犯的错误
+*** 语句尾少 ；号
+*** 输入变量少 &
+*scanf("%d",&dogs);*
+*** 关键字打错
+如：#include<stdio.h>
+误打：#include<stdin.h>
+此为打字习惯，因经常打 in 
+而极少打 io
+** 示例
+*** hello.c
+#+BEGIN_SRC C
+/* This is a hello program */
+#include<stdio.h>
+int main(void)
+{
+printf("Hello, world!\n");
+return 0;
+}
+#+END_SRC
+*** dogs.c
+#+BEGIN_SRC C
+/* This is the my second program */
+#include<stdio.h>
+int main(void)
+{
+  int dogs;
+  printf("How many dogs do you have?\n");
+  scanf("%d",&dogs);
+  printf("So you have %d dog(s)!\n",dogs);
+  return 0;
+}
+#+END_SRC 
