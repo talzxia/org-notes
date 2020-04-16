@@ -22,6 +22,11 @@ set-foreground-color grey80
 变为 tracked 
 用 github desktop
 command ?
+** <2020-04-16 Thu> 今天安装了 mac emacs-plus
+但 tern company-tern 问题未解决，子龙山人排除了
+用 brew install npm
+但用 npm install -g tern 报错
+
 * handwriting
 ** 
 * C programming
