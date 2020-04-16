@@ -2038,11 +2038,13 @@ SCHEDULED: <2020-04-17 Fri 07:00 +1d> DEADLINE: <2020-04-17 Fri 07:40 +1d>
 
 
 ** TODO [#C] lunch
-SCHEDULED: <2020-04-16 Thu 11:40 +1d> DEADLINE: <2020-04-16 Thu 13:40 +1d>
+SCHEDULED: <2020-04-17 Fri 11:40 +1d> DEADLINE: <2020-04-17 Fri 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-04-15 Wed 15:29]
+   :LAST_REPEAT: [2020-04-16 Thu 14:54]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-04-16 Thu 14:54]
+   CLOCK: [2020-04-16 Thu 10:55]--[2020-04-16 Thu 14:54] =>  3:59
    - State "DONE"       from "STARTED"    [2020-04-15 Wed 15:29]
    CLOCK: [2020-04-15 Wed 11:34]--[2020-04-15 Wed 15:29] =>  3:55
    - State "DONE"       from "STARTED"    [2020-04-14 Tue 15:11]
@@ -8969,11 +8971,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 * TODO to clen up the office
-  DEADLINE: [2019-12-30 Mon 07:50 +4d] SCHEDULED: <2020-04-16 Thu 08:20 +4d>
+  DEADLINE: [2019-12-30 Mon 07:50 +4d] SCHEDULED: <2020-04-20 Mon 08:20 +4d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-04-12 Sun 04:50]
+  :LAST_REPEAT: [2020-04-16 Thu 10:23]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-04-16 Thu 10:23]
   - State "DONE"       from "STARTED"    [2020-04-12 Sun 04:50]
   - State "DONE"       from "STARTED"    [2020-04-08 Wed 03:02]
   - State "DONE"       from "STARTED"    [2020-04-04 Sat 04:32]
@@ -11721,11 +11724,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2020-04-16 Thu 09:00 .+1d> DEADLINE: <2020-04-16 Thu 08:30 .+1d>
+   SCHEDULED: <2020-04-17 Fri 09:00 .+1d> DEADLINE: <2020-04-17 Fri 08:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-04-15 Wed 11:34]
+   :LAST_REPEAT: [2020-04-16 Thu 10:30]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-04-16 Thu 10:30]
+   CLOCK: [2020-04-16 Thu 10:23]--[2020-04-16 Thu 10:30] =>  0:07
    - State "DONE"       from "STARTED"    [2020-04-15 Wed 11:34]
    CLOCK: [2020-04-15 Wed 11:13]--[2020-04-15 Wed 11:34] =>  0:21
    - State "DONE"       from "STARTED"    [2020-04-14 Tue 10:10]
@@ -14189,6 +14194,7 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :LAST_REPEAT: [2020-04-15 Wed 21:25]
   :END:
   :LOGBOOK:
+  CLOCK: [2020-04-16 Thu 10:30]--[2020-04-16 Thu 10:55] =>  0:25
   CLOCK: [2020-04-16 Thu 06:08]--[2020-04-16 Thu 07:10] =>  1:02
   CLOCK: [2020-04-16 Thu 05:26]--[2020-04-16 Thu 05:39] =>  0:13
   - State "DONE"       from "STARTED"    [2020-04-15 Wed 21:25]

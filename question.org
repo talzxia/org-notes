@@ -32,7 +32,7 @@ brew install gdp
 *** gcc 编译
 Gcc -o 输出的文件名 被编译的文件
 simple: gcc -o hello.exe hello.c
-
+- 因不同文件，修改其一，而编译另一；结果同，浪费时间。
 ** 易犯的错
 *** 名尾漏";"
 printf("hello, world!\n");
