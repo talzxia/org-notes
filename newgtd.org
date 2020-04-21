@@ -13074,12 +13074,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    - State "DONE"       from "STARTED"    [2018-01-31 Wed 08:46]
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
-** TODO Copy (a model of calligraphy)
+** STARTED Copy (a model of calligraphy)
    SCHEDULED: <2020-04-21 Tue 15:00 +1d> DEADLINE: <2020-04-21 Tue 16:30 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-04-21 Tue 08:45]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-04-21 Tue 20:35]
    - State "DONE"       from "STARTED"    [2020-04-21 Tue 08:45]
    - State "DONE"       from "STARTED"    [2020-04-19 Sun 21:07]
    CLOCK: [2020-04-19 Sun 19:48]--[2020-04-19 Sun 20:40] =>  0:52
