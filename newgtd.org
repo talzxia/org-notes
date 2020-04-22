@@ -1,11 +1,12 @@
 * TODO eating
-** STARTED [#C]breakfast
-SCHEDULED: <2020-04-22 Wed 07:00 +1d> DEADLINE: <2020-04-22 Wed 07:40 +1d>
+** TODO [#C]breakfast
+SCHEDULED: <2020-04-23 Thu 07:00 +1d> DEADLINE: <2020-04-23 Thu 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-04-21 Tue 10:42]
+   :LAST_REPEAT: [2020-04-22 Wed 08:45]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-04-22 Wed 07:08]
+   - State "DONE"       from "STARTED"    [2020-04-22 Wed 08:45]
+   CLOCK: [2020-04-22 Wed 07:08]--[2020-04-22 Wed 08:46] =>  1:38
    - State "DONE"       from "STARTED"    [2020-04-21 Tue 10:42]
    CLOCK: [2020-04-21 Tue 07:41]--[2020-04-21 Tue 08:42] =>  1:01
    - State "DONE"       from "STARTED"    [2020-04-21 Tue 08:44]
@@ -2048,12 +2049,13 @@ SCHEDULED: <2020-04-22 Wed 07:00 +1d> DEADLINE: <2020-04-22 Wed 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#C] lunch
+** STARTED [#C] lunch
 SCHEDULED: <2020-04-22 Wed 11:40 +1d> DEADLINE: <2020-04-22 Wed 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-04-21 Tue 14:14]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-04-22 Wed 12:00]
    - State "DONE"       from "STARTED"    [2020-04-21 Tue 14:14]
    CLOCK: [2020-04-21 Tue 11:16]--[2020-04-21 Tue 14:14] =>  2:58
    - State "DONE"       from "STARTED"    [2020-04-21 Tue 08:45]
@@ -11780,11 +11782,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2020-04-22 Wed 11:00 .+1d> DEADLINE: <2020-04-22 Wed 11:30 .+1d>
+   SCHEDULED: <2020-04-23 Thu 11:00 .+1d> DEADLINE: <2020-04-23 Thu 11:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-04-21 Tue 08:45]
+   :LAST_REPEAT: [2020-04-22 Wed 11:49]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-04-22 Wed 11:49]
+   CLOCK: [2020-04-22 Wed 11:34]--[2020-04-22 Wed 11:49] =>  0:15
    - State "DONE"       from "STARTED"    [2020-04-21 Tue 08:45]
    - State "DONE"       from "STARTED"    [2020-04-19 Sun 15:58]
    CLOCK: [2020-04-19 Sun 15:42]--[2020-04-19 Sun 15:58] =>  0:16
