@@ -1032,3 +1032,76 @@ Yes, I said 12 feet!
 
 该程序涉及的范围有限，但它是把章寻转换成英寸程序的核心部分。还需要把其他值通过交
 互的方式赋给 feet，其方法将在后面章节中介绍。
+
+** 2.6 多个函数 
+
+目前为止，介绍的几个程序只使用了 printf()函数。程序清单 2.3 演示了除 main()以外，如
+何把自己的函数加入程序中。
+
+程序清单 2.3 two_func.c 程序
+#+BEGIN_SRC C
+//two_func.c --一个文件中包含两个函数
+#include<stdio.h>
+void butler(void);//ANSI/ISO C函数原型
+int main(void)
+{
+printf("I will summon the butler function.\n");
+butler();
+printf("Yes. Bring me some tea and writeable DVDs.\n");
+return 0;
+}
+void butler(void)//函数定义开始
+{
+printf("You rang, sir?\n");
+}
+#+END_SRC
+
+该程序输出如下：
+
+I will summon the butler function.
+
+You rang, sir?
+
+Yes. Bring me some tea and writeable DVDs.
+
+butler()函数在程序中出现了 3 次。第 1 次是函数原型（prototype），告知编译器在程序中
+要使用该函数；第二次以函数调用（function call）的形式出现在 main()中；最后一次出
+现在函数定义（function definition）中，函数定义既是函数本身的源代码。下面逐一分
+析。
+
+C90 标准新增了函数原型，旧式的编译器可能无法识别（稍后将介绍），如果使用这种编译
+器应该怎么做）。函数原型是一种声明形式，告知编译器正在使用某函数，因此函数原型也
+被称为函数声明（function declaration）。函数原型还指明了函数的属性。例如，
+butler()函数原型中的第 1 个 void 表明，butler()函数没有返回值（通常，被调函数会向主
+调函数返回一个值），但是 butler()函数没有）。第 2 个 void(butler(void)中的 void)的意
+思是 butler()函数不带参数。因此，当编译器运行至此，会检查 butler()是否使用得当。注
+意，void 在这里的意思是“空的”，而不是“无效”。
+
+早期的 C 语言支持一种更简单的函数声明，只需指定返回类型，不用描述参数：
+
+void butler();
+
+早期的 C 代码中的函数声明就类似上面这样，还是现在的函数原型。
+
+C90、C99 和 C11 标准都承认旧版本的形式，但是也表明了会逐渐淘汰这种过时的写法。如果
+使用以前写的 C 代码，就需要把旧式声明转换成函数原型。后面章节会继续介绍函数原型的
+相关内容。
+
+接下来继续分析程序。在 main()中调用 butler()很简单，写出函数名和圆括号即可。当
+butler()执行完毕后，程序会继续执行 main()中的下一条语句。
+
+程序的最后部分是 butler()函数的定义，其形式和 main()相同，都包含函数头和用花括号括
+起来的函数体。函数头重述了函数原型的信息：butler()不带任何参数，且没有返回值。如
+果使用老式的编译器，请去掉圆括号中的 void。
+
+注意，何时执行 butler()函数取决于它在 main()中被调用的位置，而不是 butler()定义在文
+件中的位置。例如，把 butler()函数的定义放在 main()定义之前，不会改变程序的执行顺序，
+butler()函数仍然在两次 printf()调用之间被调用。记住，无论 main()在程序文件处于什么
+位置，所有的 C 程序都从 main()开始执行。但是，C的惯例是把 main()放在开头，因为它提供
+了程序的基本框架。
+
+C 标准建议，要为程序中用到的所有函数提供函数原型。标准 include 文件（包含文件）为标
+准库函数提供可函数原型。例如，在 C 标准中，stdio.h 文件包含了 printf()的函数原型。第
+6 章最后一个示例演示了如何使用带返回值的函数，第 9 章交详细全面地介绍函数。
+
+** 2.7 调试程序
