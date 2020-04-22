@@ -128,6 +128,29 @@ It's an old film, but it's very good.
 Pairs is a beautiful city.
 Just like London.
 
+** Test
+Hello, Ken.
+Hi, George.
+Have you just been to the cinema?
+Yes, I have.
+What's on?
+"Pairs in the spring."
+Oh, I've already seen it.
+I saw it on television last year.
+It's an old film, but it's very good.
+Pairs is a beautiful city.
+I've never been there.
+Have you ever been there, Ken?
+Yes, I have. 
+I was there in April.
+Pairs in the spring, eh?
+It was sprint, 
+but the weather was awful.
+It rained all the time.
+Just like London!
+
+err: George georgle
+
 * lesson 87 crash
 /Is/ my car ready yet?
 
@@ -166,6 +189,42 @@ No, they're still working on it.
 Well, they're trying to repair it, sir.
 ** Can
 Can your mechanics repair it?
+** test
+Is my car ready yet?
+I don't know, sir.
+What's the number of your car?
+It is LFZ 312G.
+When did you bring it to us?
+I bought here three days ago.
+Oh, yes. I remember now.
+Have your mechanics finished yet?
+No, They're still working on it.
+Let's go into the garage and have a look at it.
+Isn't that your car?
+Well, it was my car.
+Didn't you have a crash?
+That's right.
+I drove it into a lamp-post.
+Can your mechanics repair it?
+Well, they're trying to repair it, sir.
+But tell you the truth,
+you need a new car.
+
+err:
+Is my car ready yet?
+wront:Is my car already yet.
+
+I don't know, sir.
+wrong: I don't know.
+
+Well, they're trying to repair it, sir.
+wrong: Well, they're trying to repair it, sir.
+服务人员说话客气。加 sir.
+
+Didn't you have a crash.
+wrong:
+Have you have a crash.
+
 * Lesson 89 For Sale
 Good afternoon.
 I believe that this house is for sale.
@@ -217,6 +276,30 @@ I think /that/ this house is for sale.
 /Yes/, of course.
 /but/ it's worth every penny of it.
 
+** Test
+Good afternoon.
+I believe that this house is for sale.
+That's right.
+May I have a look at it, please?
+Yes, of course.
+Come in.
+How long have you lived here?
+I've lived here for twenty years.
+Twenty years!
+That's a long time.
+Yes, I've been here since 1976.
+Then why do you want to sell it?
+Because I've just retired.
+I want to buy a small house in the country.
+How much does this house cost?
+$68500.
+That's a lot of money.
+It's worth every penny of it.
+Well, I like the house, 
+but I can't decide yet.
+My wife must see it first.
+Women alwasy have the last word.
+
 * Lesson 91 Poor Ian
 Has Ian sold his house yet?
 Yes, he has.
@@ -254,3 +337,47 @@ and he has already been to nearly every country in the world.
 Nigel is a very lucky man.
 But his wife isn't very lucky.
 She usually stays at home!
+
+
+|------+-----+-------+---------|
+| name | age | saray | address |
+|------+-----+-------+---------|
+| 夏   |  55 | 10000 | 泰安    |
+|------+-----+-------+---------|
+|      |     |       |         |
+|------+-----+-------+---------|
+|      |     |       |         |
+|------+-----+-------+---------|
+
+** test
+Has Ian sold his house yet?
+Yes, he has.
+He sold it last week.
+Has he moved to his new house yet?
+No, not yet.
+He's still here.
+He's going to move tomorrow.
+When? Tomorrow morning.
+No. Tomorrow afternoon.
+I'll miss him. 
+He has always been a good neighbour.
+He's a very nice person.
+We'll miss him.
+When will the new people move into this house?
+I think that they'll move in the day after tomorrow.
+Will you see Ian, today?
+Yes, I will.
+Please give him my regards.
+Poor Ian!
+He didn't want to leave this house.
+No,he didn't want to leave, 
+but his wife did.
+
+err:
+Will you see Ian today, Jenny?
+wrong
+Will you see Ian, today?
+
+No, he didn't want to leave,
+wrong
+He didn't want to leave.
