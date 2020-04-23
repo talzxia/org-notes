@@ -1310,52 +1310,357 @@ printf()函数用于输出想要表达的内容和变量的值。
 ** 2.11 复习题
 
 复习题的参考答案在附录 A 中。
-1.C 语言的基本模块是什么？（函数）
-2.什么是语法错误？写出一个英语例子和 C 语言例子。
-不遵循 C 语言的规则，把有效的 C 语言符号放在错误的地方。
-Bugs frustrate be can.
-Bugs can be frustrate.
-int a;b;c;
-correct:
-int a,b,c;
-or 
-int a;
-int b;
-int c;
 
-3.什么是主义错误？写出一个英语例子和 C 语言例子。
+*** 1.C 语言的基本模块是什么？（函数）
 
-遵循了 C 语言的规则，但结果不正确，即为语义错误。
-如：A tiger is a strong man.
-求立方：
-//语义错误作业
+***  2.什么是语法错误？写出一个英语例子和 C 语言例子。
+ 不遵循 C 语言的规则，把有效的 C 语言符号放在错误的地方。
+ Bugs frustrate be can.
+ Bugs can be frustrate.
+ int a;b;c;
+ correct:
+ int a,b,c;
+ or 
+ int a;
+ int b;
+ int c;
+
+ 3.什么是主义错误？
+
+*** 写出一个英语例子和 C 语言例子。
+
+ 遵循了 C 语言的规则，但结果不正确，即为语义错误。
+ 如：A tiger is a strong man.
+ 求立方：
+ //语义错误作业
+ #+BEGIN_SRC C
+ #incluse<stdio.h>
+ int main(int argc,const char*argv[])
+ {
+ int n,n2,n3;
+ n=5;
+ n2=n*n;
+ n3=n2*n2;
+ printf("n 为%d,n的平方是：%d,n的立方是：%d\n",n,n2,n3);
+ }
+ #+END_SRC
+
+ 
+*** 4.Indiana Sloth 编写了下面的程序，并征求你的意见。请帮助他评定。
+ #+BEGIN_SRC C
+ include studio.h
+ //correct:
+ #include<stdio.h>
+ int main{void}/*该程序打印一年有多少周/*
+ int main(void)//
+ (
+ {//correct
+ int s
+ int s;//correct
+ s:=56;
+ s=56;//correct
+ print(There are s weeks in a year.);
+ printf("There are %d weeks in a year.\n",s);//correct
+ return 0;
+
+ )
+ }//correct
+
+ #+END_SRC
+ 10 多处错误
+
+*** 5.假设下面 4 例子都是完整程序中的一部分，它们都输出什么结果？
+- a. printf("Baa Baa Black Sheep.");
+printf("Have you any wool?\n");
+
+Baa Baa Black Sheep.Have you any wool?
+
+b.printf("Begone!\nO creature of lard!\n");
+Begone!
+O creature of lard!
+
+C.printf("What?\nNo/nfish?\n");
+What?
+No/nfish?
+
+d. int num;
+num=2;
+printf("%d+%d=%d",num,num,num+num);
+2+2=4
+
+*** 6.在 main、int、function、char、=中，哪些是 C 语言的关键字？
+int,char
+
+*** 7.如何以下面的格式输出变量 words 和 lines 的值（这里，3020 和 350 代表两个变量的值）？
+There were 3020 words and 350 lines.
+
+printf("There are %d words and %d\n",words,lines);
+
+*** 考虑下面的程序：
 #+BEGIN_SRC C
-#incluse<stdio.h>
-int main(int argc,const char*argv[])
+#include<stdio.h>
+int main(void)
 {
-int n,n2,n3;
-n=5;
-n2=n*n;
-n3=n2*n2;
-printf("n 为%d,n的平方是：%d,n的立方是：%d\n",n,n2,n3);
+int a,b;
+a=5;
+b=2;//第7行
+b=a;//第8行
+a=b;//第9行
+printf("%d %d\n",b,a);
+return 0;
 }
 #+END_SRC
 
-4.Indiana Sloth 编写了下面的程序，并征求你的意见。请帮助他评定。
+请问，在执行完第 7、第 8、第 9 行后，程序的状态分别是什么？
+
+执行第 7 行
+a=5
+b=2
+
+执行第 8 行：
+a=5
+b=5
+
+执行第 9 行
+b=5
+a=5
+
+a 与 b 相等皆为 5.
+
+*** 9.考虑下面的程序：
 #+BEGIN_SRC C
-inclue studio.h//correct:include<stdio.h>
-int main{void}/*该程序打印一年有多少周/*
-int main(void)//
-(
+#include<stdio.h>
+int main(void)
 {
-int s
-int s;
-s:=56;
-s=56;
-print(There are s weeks in a year.);
-printf("There are %d weeks in a year.\n",s);
+int x,y;
+x=10;
+y=5;//第7行
+y=x+y;//第8 行
+x=x*y;//第9 行
+printf("%d %d\n",x,y);
 return 0;
+}
+#+END_SRC
 
-)}
+请问，在执行完第 7、8、9 行后，程序的状态分别是什么？
 
+第 7 行
+x=10
+y=5
+
+第 8 行
+x=10
+y=15
+
+第 9 行
+y=15
+x=150
+
+** 2.12 编程练习
+
+纸上得来终觉浅，绝知此事要躬行。读者应该试着编写一两个简单程序，体会一下编写程序
+是否和阅读本章介绍的这样轻松。题目中会给出一些建议，但是应该尽量自己思考这些问题。
+一些编程答案练习的答案可在出版商网站获取。
+
+*** 1.
+编写一个程序，调用一次 printf()函数，把你的姓名打印在一行。再调用一次 printf()函数，
+把你的姓名打印在一行。输出应如下所示（当然要把示例的内容换成你的姓名）
+#+BEGIN_SRC C
+#include<stdio.h>
+int main(int argc,const char*argv[])
+{
+printf("Xia le zhai\n");
+printf("Xia\n");
+printf("le zhai\n");
+printf("Xia le zhai\n");
+return 0;
+}
+#+END_SRC
+
+*** 2
+编写一个程序，打印你的姓名和地址。
+#+BEGIN_SRC C
+#include<stdio.h>
+int main(int argc,const char*argv[])
+{
+printf("My name is: Xia le zhai\n");
+printf("My address :Taian Road 281#\n");
+return 0;
+}
+#+END_SRC
+
+*** 3
+编写一个程序把你的年龄转换成天数，并显示这两个值。这里不用考虑闰年的问题。
+#+BEGIN_SRC C
+#include<stdio.h>
+int main(int argc,const char*argv[])
+{
+int age,days;
+age=55;
+days=age*365;
+printf("Your age is %d,and you have spend %d days!\n",age,days);
+return 0;
+}
+
+#+END_SRC
+
+*** 4
+编写一个程序，生成以下输出：
+For he's a jolly good fellow!
+
+For he's a jolly good fellow!
+
+For he's a jolly good fellow!
+
+Which nobody can deny!
+
+除了 main()函数以外，该程序还要调用两个自定义函数：一个名为 jolly(),用于打印前 3 条
+消息，调用一次打印一条；另一个函数名为 deny(),打印最后一条消息。
+
+#+BEGIN_SRC C
+#include<stdio.h>
+void jolly(void);//声明自定义函数
+void deny(void);
+int main(int argc,const char*argv[])
+{
+jolly();
+jolly();
+jolly();
+deny();
+return 0;
+}
+void jolly(void)//函数定义开始
+{
+printf("For he's a jolly good fellow!\n");
+}
+
+void deny(void)
+{
+printf("Which nobody can deny!\n");
+}
+#+END_SRC
+
+*** 5 
+编写一个程序，生成以下输出：
+
+Brazil, Russia, India, China
+
+India, China,
+
+Brazil, Russia
+
+除了 main()以外，该程序还要调用两个自定义函数：一个名为 br(),调用一次打印一次
+“Brazil, Russia”；另一个名为 ic()，调用一次打印一次“India, China”。其他内容在
+main()函数中完成。
+#+BEGIN_SRC C
+#include<stdio.h>
+void br(void);//声明函数
+void ic(void);
+int main(int argc,const char*argv[])
+{
+br();
+printf(",");
+ic;
+printf("\n");
+ic();
+printf(",\n");
+br();
+printf("\n");
+return 0;
+}
+void br(void)
+{
+printf("Brazil, Russia");
+}
+
+void ic(void)
+{
+printf("India, China");
+}
+#+END_SRC
+
+*** 6
+
+编写一个程序，创建一个整形变量 toes，并将 toes 设置为 10。程序中还要计算 toes 的两倍和
+toes 的平方。该程序应打印 3 个值，并分别描述以示区分。
+#+BEGIN_SRC C
+#include<stdio.h>
+int main(int argc,const char*argv[])
+{
+int toes;
+toes=10;
+printf("Toes is %d, it's double number is:%d, it's squared is %d.\n",toes,2*toes,toes*toes);
+return 0;
+}
+#+END_SRC
+
+*** 7 
+许多研究表明，微笑益处多多。编写一个程序，生成以下格式的输出：
+
+Smile!Smile!Smile!
+Smile!Smile!
+Smile！
+
+该程序要定义一个函数，该函数被调用一次打印一次“Smile!”，根据程序的需要使用该函数。
+
+#+BEGIN_SRC C
+#include<stdio.h>
+void smile(void);
+int main(int argc,const char*argv[])
+{
+smile();
+smile();
+smile();
+printf("\n");
+smile();
+smile();
+printf("\n");
+smile();
+printf("\n");
+return 0;
+}
+void smile(void)
+{
+printf("Smile!");
+}
+#+END_SRC
+
+*** 8 
+
+在 C 语言中，函数可以调用另一个函数。编写一个程序，调用一个名为 one_three()的函数。
+该函数在一行打印单词“one”，再调用第 2 个函数 two()，然后在另一行打印单词“three”。
+two()函数在一行显示单词“two”。main()函数在调用 one_three()函数前要打印短语
+“starting now:”，并在调用完毕后显示短语“done!”。因此，该程序的输出应如下所示：
+
+starting now:
+
+one
+
+two
+
+three
+
+done!
+
+#+BEGIN_SRC C
+#include<stdio.h>
+void one_three(void);//声明函数
+void two(void);
+int main(int argc,const char*argv[])
+{
+printf("starting now:\n");
+one_three();
+printf("done!\n");
+return 0;
+}
+void two(void)
+{
+printf("two\n");
+}
+void one_three(void)
+{
+printf("one\n");
+two();
+printf("three\n");
+}
 #+END_SRC
