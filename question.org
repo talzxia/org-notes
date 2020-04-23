@@ -62,3 +62,14 @@ return 0;
 declared
 ** 每次修改皆提交
 保存，提交，知道哪里改了，错在哪里。<2020-04-15 Wed> 
+** main 格式错误
+漏了 int
+err int main(argc,const char*argv[])
+correct:
+int main(int argc,const char*argv[])
+** 几个新 word
+*** butler 男俑 仆人
+*** summon 呼叫，调用
+*** rang 如唤
+*** writeable 可写的
+*** function 函数
