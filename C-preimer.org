@@ -2429,3 +2429,124 @@ two();
 printf("three\n");
 }
 #+END_SRC
+
+* 第 3 章 数据和 C
+
+本章介绍以下内容：
+
+关键字：int short long unsigned char float double _Bool _Complex _Imaginary
+
+运算符：sizeof()
+
+函数：scanf()
+
+整数类型的浮点型常数，如何声明这些类型的变量
+
+如何使用 printf()和 scanf()函数读写不同类型的值。
+
+程序离不开数据。把数字、字母和文字输入计算机，利用这些数据完成某些任务。如，需要
+计算一份利息或显示一份葡萄洒商的排序列表。本章除了介绍如何读取数据外，还将教会读
+者如何操控数据。
+
+C 语言提供两大系列的多种数据类型。本章详细介绍两大数据类型：整数类型和浮点类型，
+讲解这些数据是什么、如何声明它们、如何以及何时使用它们。除此之外，还将介绍常量和
+变量的区别。读者很快就能看到第 1 个交互式程序。
+
+** 3.1 示例程序
+
+本章仍从一个简单的程序开始。如果发现有不熟悉的内容，别担心，稍后会详细解释。该程
+序的意图比较明了，请着编译并运行程序清单 3.1 中的源代码。为了节省时间，在输入源代
+码时省略注释。
+
+程序清单 3.1platinum.c 程序
+
+#+BEGIN_SRC C
+  // platinum.c -- your weight in platinum 
+  #include<stdio.h>
+int main(int argc,const char*argv[])
+{
+float weight;//你的体重
+float value;//相等重量的白金价值
+printf("Are you worth your weight in platinum?\n");
+printf("Let's check it out.\n");
+printf("Please enter your weight in pounds: ");
+//获取用户的输入
+scanf("%f",&weight);
+//假设白金的价格是每盎司转换为金衡盎司
+value=1700.0*weight*14.5833;
+printf("Your weight in platinum is worth $%.2f.\n",value);
+printf("You are easily worth that! If platinum prices drop,\n");
+printf("eat more to maintain your value.\n");
+return 0;
+}
+#+END_SRC
+
+提示错误与警告
+
+如果输入程序时打错（如漏了一个分号），编译器会报告语法错误消息。然而，即使输入正
+确无误，编译器也可能给出一些警告，如“警告：从 double 类型转换成 float 类型可能会丢失
+数据”。错误消息表明程序中有错，不能进行编译。而警告则表明，尽管编写的代码有效，
+但可能还是程序员想要的。警告并不终止编译。特殊的警告与 C 如何处理 1700.0 这样的值有
+关。本例不必理会这个问题，本章稍后会进一步说明。
+
+输入该程序时，可以把 1700.0 改成贵金属白金当前的市价，但是还要改动 14.5833，该数是 1
+英镑的金衡盎司数（金衡盎司用于衡量贵金属，而英镑常衡盎司用于衡量人的体重）。
+
+注意，“enter your weight”的意思是输入你的体重，然后按下 Enter 或 Return 键（还要键入
+体重后就一直等着）。按下 Enter 键是告知计算机，你已完成输入数据。该唾弃需要你输入
+一个数字（如 155），而不是单词（如，too mush）。如果输入字母而不是数字，会导致程
+序出问题。这个问题要用 if 语句来解决（详见第 7 章），因此请先输入数字。下面是程序的
+输出示例：
+
+Are you worth your weight in platinum?
+
+Let's check it out.
+
+Please enter your weight in pounds: 156
+
+Your weight in platinum is worth $3867491.25.
+
+You are easily worth that! If platinum preces drop,
+
+eat more to maintain your value.
+
+程序调整
+
+即使用第 2 章介绍的方法，在程序中添加下面一行代码：
+
+getchar（）；
+
+程序的输出是否依旧在屏幕上一闪而过？本例需要调用两次 getchar（）函数：
+
+getchar（）；
+getchar（）；
+
+getchar（）函数读取下一个输入字符，因此程序会等待用户输入。在这种情况下，键入 156
+并按下 Enter（或 Return 键）（发送一个换行符），然后 scanf（）读取键入的数字，第 1 个
+getchar（）读取换行符，第 2 个 getchar（）让程序暂停，等待输入。
+
+*** 3.1.1 程序中的新元素
+
+程序清单 3.1 中包含 C 语言的一些新元素。
+
+注意，代码中使用了一种新的变量声明。前面的例子只使用了整数类型的变量（int），但
+是本使用了浮点数类型（float）的变量，以便处理更大范围的数据。float 类型可以储存带
+小数的数字。
+
+程序中演示了常量的几种新写法。现在可以使用带小数点的数了。
+
+为了打印新类型的变量，在 printf（）中使用%f 来处理浮点值。%.2f.中的.2 用于精确控制
+输出，指定输出的浮点数只显示小数点后面两位。
+
+scanf（）函数用于读取键盘的输入。%f 说明 scanf（）要读取用户从键盘输入的浮点数，
+&weight 告诉 scanf（）把输入的值给名为 weight 的变量。scanf（）函数使用&符号表明找到
+weight 变量的地点。下一章将详细讨论&。就目前而言，请按照这样写。
+
+也许本程序最突出的新特点是它的交互性。计算机向用户询问信息，然后用户输入数字。与
+交互式程序相比，交互式程序用起来更有趣。更重要的是，交互式使得程序更加灵活。例如，
+示例程序可以使用任何合理的体重，而不只是 156 磅。不必重写程序，就可以根据不同体重
+进行计算。scanf（）和 printf（）函数用于实现这种交互。scanf（）函数读取用户从键盘
+输入的数据，并把两个函数结合起来，就可以建立人机双向的通信（见图 3.1）
+这让使用计算机更加有趣味。
+
+本章着重解释上述新特性中的前两项：各种数据类型的变量和常量。第 4 章将介绍后 3 项。
