@@ -2057,13 +2057,14 @@ SCHEDULED: <2020-04-27 Mon 07:00 +1d> DEADLINE: <2020-04-27 Mon 07:40 +1d>
 财经系陈卫华
 
 
-** STARTED [#C] lunch
-SCHEDULED: <2020-04-26 Sun 11:40 +1d> DEADLINE: <2020-04-26 Sun 13:40 +1d>
+** TODO [#C] lunch
+SCHEDULED: <2020-04-27 Mon 11:40 +1d> DEADLINE: <2020-04-27 Mon 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-04-25 Sat 15:15]
+   :LAST_REPEAT: [2020-04-26 Sun 14:26]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-04-26 Sun 11:59]
+   - State "DONE"       from "STARTED"    [2020-04-26 Sun 14:26]
+   CLOCK: [2020-04-26 Sun 11:59]--[2020-04-26 Sun 14:26] =>  2:27
    - State "DONE"       from "STARTED"    [2020-04-25 Sat 15:15]
    CLOCK: [2020-04-25 Sat 13:14]--[2020-04-25 Sat 15:15] =>  2:01
    - State "DONE"       from "STARTED"    [2020-04-24 Fri 14:45]
@@ -3995,13 +3996,14 @@ SCHEDULED: <2020-04-26 Sun 11:40 +1d> DEADLINE: <2020-04-26 Sun 13:40 +1d>
     :END:
 13:50-14:30 检查
 
-** TODO [#B] dinner
+** STARTED [#B] dinner
    DEADLINE: <2020-04-26 Sun 18:40 +1d> SCHEDULED: <2020-04-26 Sun 17:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-04-25 Sat 19:29]
    :STYLE:    habit
    :END:
    :LOGBOOK:
+   CLOCK: [2020-04-26 Sun 17:03]
    - State "DONE"       from "STARTED"    [2020-04-25 Sat 19:29]
    CLOCK: [2020-04-25 Sat 17:41]--[2020-04-25 Sat 19:29] =>  1:48
    - State "DONE"       from "STARTED"    [2020-04-24 Fri 18:04]
@@ -11821,11 +11823,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2020-04-26 Sun 11:00 .+1d> DEADLINE: <2020-04-26 Sun 11:30 .+1d>
+   SCHEDULED: <2020-04-27 Mon 11:00 .+1d> DEADLINE: <2020-04-27 Mon 11:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-04-25 Sat 15:48]
+   :LAST_REPEAT: [2020-04-26 Sun 14:56]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-04-26 Sun 14:56]
+   CLOCK: [2020-04-26 Sun 14:26]--[2020-04-26 Sun 14:56] =>  0:30
    - State "DONE"       from "STARTED"    [2020-04-25 Sat 15:48]
    CLOCK: [2020-04-25 Sat 15:29]--[2020-04-25 Sat 15:48] =>  0:19
    - State "DONE"       from "STARTED"    [2020-04-24 Fri 08:59]
