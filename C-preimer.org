@@ -2680,3 +2680,87 @@ int。char 关键字用于指定字母和其他字符（如，#、$、%和*）�
 过去，浮点运算比整数运算慢。不过，现在许多 CPU 都包含浮点处理器，缩小了速度上的差
 距。
 
+#+BEGIN_SRC latex
+
+  \begin{table}[htp] %浮动表格环境
+  \centering %表格居中放置 
+  \caption{这里是表头}
+  \label{tab1} %用于引用
+  \begin{tabular}{|c|c|c|}%表格环境
+  \hline
+  +&.314159&1\\\hline
+  \end{tabular}
+  \end{table}
+
+  \begin{table}[htp] %浮动表格环境
+  \centering %表格居中放置 
+  \caption{图3.3以浮点格式（十进制）储存\pi的值}
+  \label{tab1} %用于引用
+  \begin{tabular}{c|c|c|c|c}%表格环境
+  \toprule[1.4pt] %1.4pt 的上划线
+  &x1&x2&x3&x4\\\hline %\hline表示画一条横线
+  A&3&4&2&1\\\hline
+  B&2&5&4&3\\\hline
+  C&5&4&3&1\\\hline
+  D&3&3&2&4\\
+  \bottomrule[1.4pt]%1.4pt 的下划线
+  \end{tabular}
+  \end{table}
+
+  ,#+ BEGIN RECEIVE ORGTBL xia
+  ,#+ END RECEIVE ORGTBL xia
+
+  ,#+ORGTBL: SEND xia orgtbl-to-orgtbl :splice nil :skip 0
+  
+  name age saray
+  xia   55 8000
+  li    40 7000
+
+#+END_SRC
+
+* 总结与思考
+** 数的类型
+*** 整形
+- 关键字 int
+- 声明格式：int num；int argc，int main（int argc，const char*argv[]）
+- 赋值：num=1；scanf（“%d”，&num）；
+- 显示与输出：printf("%d",num)
+- &:因为是数，所以取地址
+*** 浮点型
+- 关键字 float
+- 声明格式：float weight;
+- 赋值：weight=3.14;scanf("%f",&weight);
+- 显示与输出：printf("%.2f",weight);
+
+#+BEGIN_SRC C
+
+//
+//newhello.c
+//newhello.c
+//
+//Created by Xia on 2020/04/25
+//Copyright @ 2020 Xia All rights reserved.
+//
+#include<stdio.h>
+#include<stdlib.h>
+#define LEN 15 
+int main(int argc,const char*argv[])
+{
+    char name[LEN];
+    printf("Plases enter your name:\n");
+    //scanf("%s",name);
+    fgets(name,LEN,stdin);
+    printf("Hello, world. %s\n",name);
+    //fputs(name,stdout);
+    return 0;
+}
+
+#+END_SRC
+*** 字符型
+- 声明：char name[20];
+- 输入：fgets(name,20,stdin);
+因本身 name 为字符型，即指针地址，不用&，直接用 name。
+- 输出：printf("Hello, world! %s\n",name);
+
+
+
