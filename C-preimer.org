@@ -3,6 +3,53 @@ C primer Plus Sixty Edition
 - 针对 C11 标准进行全面更新
 
  美 |Stephen Prate| 著姜佑 | 译
+* 总结与思考
+** 数的类型
+*** 整形
+- 关键字 int
+- 声明格式：int num；int argc，int main（int argc，const char*argv[]）
+- 赋值：num=1；scanf（“%d”，&num）；
+- 显示与输出：printf("%d",num)
+- &:因为是数，所以取地址
+*** 浮点型
+- 关键字 float
+- 声明格式：float weight;
+- 赋值：weight=3.14;scanf("%f",&weight);
+- 显示与输出：printf("%.2f",weight);
+
+#+BEGIN_SRC C
+
+//
+//newhello.c
+//newhello.c
+//
+//Created by Xia on 2020/04/25
+//Copyright @ 2020 Xia All rights reserved.
+//
+#include<stdio.h>
+#include<stdlib.h>
+#define LEN 15 
+int main(int argc,const char*argv[])
+{
+    char name[LEN];
+    printf("Plases enter your name:\n");
+    //scanf("%s",name);
+    fgets(name,LEN,stdin);
+    printf("Hello, world. %s\n",name);
+    //fputs(name,stdout);
+    return 0;
+}
+
+#+END_SRC
+*** 字符型
+- 声明：char name[20];
+- 输入：fgets(name,20,stdin);
+因本身 name 为字符型，即指针地址，不用&，直接用 name。
+- 输出：printf("Hello, world! %s\n",name);
+
+
+
+
 * 前言
 1984 年 C Primer Plus 第一版问世。各版本累计销售超 55 万册。
 C 语言从早期的非正式的 K&R 标准，发展到 1990 年 ISO/ANSI 标准， 进而发展到 2011 年 ISO/IEC 标准。本书第六版。
@@ -2718,49 +2765,117 @@ int。char 关键字用于指定字母和其他字符（如，#、$、%和*）�
 
 #+END_SRC
 
-* 总结与思考
-** 数的类型
-*** 整形
-- 关键字 int
-- 声明格式：int num；int argc，int main（int argc，const char*argv[]）
-- 赋值：num=1；scanf（“%d”，&num）；
-- 显示与输出：printf("%d",num)
-- &:因为是数，所以取地址
-*** 浮点型
-- 关键字 float
-- 声明格式：float weight;
-- 赋值：weight=3.14;scanf("%f",&weight);
-- 显示与输出：printf("%.2f",weight);
+** 3.4C 语言基本数据类型 
 
+本节将详细介绍 C 语言的基本数据类型，包括如何声明变量、如何表示字面值常量（如，5或
+2.78），以及典型的用法。一些老式的 C 语言编译器无法支持这里提到的所有类型，请查阅
+你使用的编译器文档，了解可以使用哪些类型。
+
+*** 3.4.1 int 类型
+
+C 语言提供了许多整数类型，为什么一种类型不够用？因为 C 语言让程序员针对不同情况选择
+不同的类型。特别是，C语言中的整数类型可表示不同的取值范围和正负值。一般情况使用
+int 类型即可，但是为满足特定任务和机器的要求，还可以选择其他类型。
+
+int 类型是有符号整型，即 int 类型的值必须是整数，可以是正整数、负整数或零。其取值范
+围依计算机系统而异。一般而言，储存一个 int 要占一个机器字长。因此，早期的 16 位 IBM
+PC 兼容机使用 16 位来储存一个 int 值，其取值范围（即 int 值 的取值范围）是-32768~32767。
+目前的个人计算机一般是 32 位，因此用 32 位储存一个 int 值。现在，个人计算机产业正逐步
+向着 64 位处理器发展，自然能储存更大的整数。ISO C 规定 int 的取值范围最小
+为-32768~32767。一般而言，系统用一个特殊位的值表示有符号整数的正负号。第 15 章将介
+绍常用的方法。
+
+**** 1.声明 int 变量
+
+第 2 章中已经用 int 声明过基本整形变量。先写上 int，然后写变量名，最后加上一个分号。
+要声明多个变量，可以单独声明每个变量，也可以在 int 后面列出多个变量名，变量名之间
+用逗号分隔。下面都是有效的声明：
+
+int erns；
+
+int hogs，cows，goats；
+
+可以分别在 4 条声明中声明各变量， 也可以在一条声明中声明 4 个变量。两种方法的效果相
+同，都为 4 个 int 大小的变量赋予名称并分配内存空间。
+
+以上声明创建了变量，但是并没有给它们提供值。变量如何获得值？前面介绍过在程序中获
+取值的两种途径。第 1 种途径是赋值：
+
+cows=112；
+
+第 2 种途径是，通过函数（如，scanf（））获得值。接下来，我们着重介绍第 3 种途径。
+
+**** 初始化变量
+
+初始化（initialize）变量就是为变量赋一个初始值。在 C 语言中，初始化可以直接在声明
+中完成。只需在变量名后面加上赋值运算符（=）和待赋给变量的值即可。如下所示：
+
+int hogs=21；
+
+int cows=32，goats=14；
+
+int dogs，cats=94；//有效，但是这种格式很糟糕
+
+以上示例的最后一行，只初始化了 cats，并未初始化 dogs。这种写法很容易让人误认为 dogs
+也被初始化为 94，所以最好还要把初始化的变量和未初始化的变量放在同一条声明中。
+
+简而言之，声明为变量创建和标记存储空间，并为其指定初始值（如图 3.4 所示）。
+
+int sows;   |     |  |     |
+
+     创建内存空间
+
+int boars=2；|      | 2 |     |
+                   boars
+创建内存空间并为其赋值
+
+图 3.4 定义并初始化变量
+
+**** 3.int 类型常量
+
+上面示例中出现的整数（21、32、14 和 94）都是整形常量或整形字面量。C语言把不含小数
+点和指数的数作为整数。因此，22 和-44 都是整形常量，但是 22.0 和 2.2E1 则不是。C语言把
+大多数整形常量视为 int 类型，但是非常大的整数除外。详见后面“long”常量和 long long 常
+量”小节对 long int 类型的讨论。
+
+**** 打印 int 值
+
+可以使用 printf（）函数打印 int 类型的值。第 2 章介绍过，%d 指明了在一行中打印整数的位
+置。%d 称为转换说明，它指定了 printf（）应使用什么格式来显示一个值。格式化字符串中
+的每个%d 都待打印变量列表中相应的 int 值匹配。这个值可以是 int 类型的变量、int 类型的
+常量与待打印值的数量相同，编译器不会捕获这类型的错误。程序清单 3.2 演示了一个简单
+的程序，程序中初始化了一个变量，并打印该变量的值、一个常量值和一个简单表达式的值。
+另外，程序还演示了如果粗心犯错会导致什么结果。
+
+程序清单 3.2 print1.c 程序
 #+BEGIN_SRC C
-
-//
-//newhello.c
-//newhello.c
-//
-//Created by Xia on 2020/04/25
-//Copyright @ 2020 Xia All rights reserved.
-//
+//PRINT1.C 演示printf（）的一些特性
 #include<stdio.h>
-#include<stdlib.h>
-#define LEN 15 
-int main(int argc,const char*argv[])
+int main(void)
 {
-    char name[LEN];
-    printf("Plases enter your name:\n");
-    //scanf("%s",name);
-    fgets(name,LEN,stdin);
-    printf("Hello, world. %s\n",name);
-    //fputs(name,stdout);
-    return 0;
+int ten=10;
+int two=2;
+printf("Doing it right: ");
+printf("%d minus %d\n",ten,2,ten-two);
+printf("Doing it wrong: ");
+printf("%d minus %d is %d\n",ten);//遗漏2个参数
+return 0;
 }
-
 #+END_SRC
-*** 字符型
-- 声明：char name[20];
-- 输入：fgets(name,20,stdin);
-因本身 name 为字符型，即指针地址，不用&，直接用 name。
-- 输出：printf("Hello, world! %s\n",name);
 
+编译并运行该程序，输出如下：
 
+Doing it right: 10 minus 2 is 8
+ 
+Doing it wrong: 10 minus 16 is 1650287143
 
+在第一行输出中，第 1 个%d 对应 int 类型变量 ten；第 2 个%d 对应 int 类型常量 2；第 3 个%d 对应
+int 类型表达式 ten-two 的值。在第二行输出中，第 1 个%d 对应 ten 的值，但是由于没有给后面
+两个%d 提供任何值，所以打印出的值是内存中的任意值（读者在运行该程序时显示的这两个
+数值会与输出示例中的数值不同），因为内存中储存的数据不同，而且编译器管理内存的位
+置也不同。
+
+你可能会抱怨编译器为何不能捕获这种明显的错误，但实际上问题出在 printf（）不寻常的
+设计。大部分函数都需要指定数目的参数，编译器会检查参数的数目是否正确。但是，
+printf（）函数的参数数目不定，可以有 1 个、2个、3个或更多，编译器也爱莫能助。记住，
+使用 printf（）函数时，要确保转换说明的数量与打印值的数量相等。
