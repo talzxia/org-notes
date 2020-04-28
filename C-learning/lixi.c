@@ -21,13 +21,14 @@ int main(int argc,const char*argv[])
     printf("%s's number is %d, Your weight is %.2f.\n",name,num,weight);
 
     printf("Please enter your number,name and weight:\n");
-    scanf("%d",&num);
-    // scanf("%s",name);
+     scanf("%d",&num);
+     //scanf("%s",name);
 
-    scanf("%f",&weight);
+     scanf("%f",&weight);
 
-    printf("Please enter your name :\n");
-    fgets(name1,20,stdin);
+    printf("Please enter your name :");
+    fgets(name1,19,stdin);
+    printf("%s",name1);
     printf("Mr. %s ,your number is %d, and your weight is %.2f.\n",name1,num,weight);
     return 0;
 }
