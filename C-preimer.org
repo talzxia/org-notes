@@ -2935,5 +2935,6 @@ C 语言提供了 3 个附属关键字修饰基本整数类型：short、long �
 shot int 类型（或者简写为 short）占用的存储空间可能比 int 类型少，常用于较小数值的场
 合以节省空间。与 int 类似，short 是有符号类型。
 
-long int 或 long 占用的存储空间可能比 int 多，适用于较大数值的场合。与int类似，long是
+long int 或 long 占用的存储空间可能比 int 多，适用于较大数值的场合。与 int 类似，long 是
 有符号类型。
+
