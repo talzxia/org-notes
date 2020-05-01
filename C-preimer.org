@@ -2942,3 +2942,74 @@ shot int 类型（或者简写为 short）占用的存储空间可能比 int 类
 long int 或 long 占用的存储空间可能比 int 多，适用于较大数值的场合。与 int 类似，long 是
 有符号类型。
 
+long int 或 long 战胜的存储空间可能比 int 多，适用于较大数值场合。与 int 类似，long 是有
+符号类型。
+
+long long int 或 long long（C99 标准加入）战胜的储存突审可能比 long 多，适用于更大数
+值的场合。该类型至少占 65 位。与 int 类似，long long 是有符号类型。
+
+unsigned int 或 unsigned 只用于非负值的场合。这种类型与有符号类型表示的范围不同。例
+如，16 位 unsigned int 允许的取值范围是 0~65535，而不是-32768～32767 。用于表示正负
+号的位现在用于表示另一个二进制位，所以无符号整形可以表示更大的数。
+
+在 c90 标准中，添加了 unsingedlong int 或 unsignedlong 和 unsigned int 或 unsigned short
+类型。C99 标准双添加了 unsigned long long int 或 unsigned long long。
+
+在任何有符号类型前央添加关键字 signed，可强调使用有符号类型的意图。例如，short、
+short int、signed short、signed short int 都表示同一种类型。
+
+**** 1.声明其他整数类型
+
+其他整数类型的声明方式与 int 类型相同，下面列出了一些例子。还是所有的 C 编译器都能识
+别最后 3 条声明，最后一个例子所有的类型是 C99 标准新增的。
+
+long int estine；
+
+long johns;
+
+short ribs;
+
+unsigned int s_count;
+
+unsigned players;
+
+unsigned long headcount;
+
+unsigned short yearvotes;
+
+long long ago;
+
+**** 2.使用多种整数类型的原因
+
+为什么说 short 类型“可能”比 int 类型战胜的空间少，long 类型”可能”比 int 类型占用的空间
+多？因为 C 语言只规定了 short 占用的存储空间不能多于 int，long 占用的存储空间不能少于
+int。这样规定是为了适应不同的机器。例如，过去的一台运行 Windows 3 的机器上，int 类
+型和 short 类型都占 16 位，long 类型占 32 位。后来，Windows 和苹果系统都使用 16 位储存
+short 类型，32 位储存 int 类型和 long 类型（使用 32 位可以表示的整数数值超过 20 亿）。现在，
+计算机普遍使用 64 位的整数，才引入了 long long 类型。
+
+现在，个人计算机上最常见的设置是，long long 占 64 位，long 占 32 位，short 占 16 位或 32
+位（依计算机的自然字长而定）。原则上，这 4 种类型代表 4 种不同的大小，但是在实际使用
+中，有些类型之间通常有重叠。
+
+C 标准对基本数据类型只规定了允许的最小大小。对于 16 位机，short 和 int 的最小取值范围
+是【-32767，32767】；对于 32 位机，long 的最小取值范围是【-214783647，214783647】.对
+于 unsigned short 和 unsigned int，最小取值范围是【0，65535】；对于 unsigned long，
+最小取值范围是【0，4294967295】。long long 类型是为了支持 64 位的需求，最小取值范
+围是【-1223372036854775807，9223372036854775807】；unsigned long long 的最小取值
+范围是】0，18446744073709551615】。如果要开支票，这个数是一千八百亿亿（兆）六千
+七百四十四成亿零九百五十五万一千六百一十五。但是，谁会去数？
+
+int 类型那么多，应该如何选择？首先，考虑 unsigned 类型。这种类型的数常用于计数，因
+为计数不用负数。而且，unsigned 类型可以表示更大的正数。
+
+如果一个数超出了 int 类型的取值范围，且在 long 类型的取值范围内时，使用 long 类型。然
+而，对于那些 long 占用的空间比 int 大的系统，使用 long 类型会减慢运算速度。因此，如非
+必要，请不要使用 long 类型。另外要注意一点：如果在 long 类型和 int 类型战胜空间相同的
+机器上编写代码，当确实需要 32 位整数时，应使用 long 类型而不是 int 类型，以便把程序移
+植到 16 位机后仍然可以正常工作。类似地，如果确实需要 64 位的整数，应使用 long long 类
+型。
+
+如果在 int 设置为 32 位系统中要使用 16 位的值，应使用 short 类型以节省存储空间。通常，只
+有当程序使用相对于系统可用内存较大的整形数组时，才需要重点考虑节省空间的问题。使
+用 short 类型的另一个原因是，计算机中某些组件使用的硬件寄存器是16位。
