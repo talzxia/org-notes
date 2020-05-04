@@ -3066,3 +3066,42 @@ return 0;
 
 溢出行为是未定义的行为，C标准并未定义有符号类型的溢出规则。以上描述的溢出行为比
 较有代表性，但是也可能会出现其他情况。
+
+**** 4.打印 short、long、long long 和 unsigned 类型
+
+打印 unsigned int 类型的值，使用%u 转换说明：打印 long 类型的值，使用%ld 转换说明。如
+果系统中 int 和 long 的大小相同，使用%d 就行。但是，这样的程序被移植到其他系统（int 和
+long 类型的大小不同）中会无法正常工作。在 x 和 o 前面可以使用 l 前缀，%lx 表示以十六进制
+格式打印 long 类型整数。%lo 表示以八进制格式打印 long 类型整数。注意，虽然 C 允许使用大
+写或小写的常量后缀，但是在转换说明中只能用小写。
+
+C 语言有多种 printf（）格式。对于 short 类型，可以使用 h 前缀。%hd 表示以二进制显示
+short 类型的整数，%ho 表示以八进制显示 short 类型的整数。h和 l 前缀都可以和 u 一起使用，
+用于表示无符号类型。例如，%lu 表示打印 unsigned long 类型的值。程序清单 3.4 演示了一
+些例子。对于支持 long long 类型的系统，%lld 和%llu 分别表示有符号和无符号类型。第 4 章
+将详细介绍转换说明。
+
+#+BEGIN_SRC C
+//程序清单3.4 print2.c程序
+#include<stdio.h>
+int main(int argc,const char*argv[])
+{
+unsigned int un=3000000000;//int 为32位和short为16位的系统
+short end=200;
+long big=65537;
+long long verybig=12345678908642;
+printf("un=%u and not %d\n",un,un);
+printf("end=%hd and %d\n",end,end);
+printf("big=%ld and not %hd\n",big,big);
+printf("verybig=%lld and not %ld\n",verybig,verybig);
+return 0;
+}
+#+END_SRC
+
+在特定的系统中输出如下（输出的结果可能不同）：
+
+un=3000000000 and not -1294967296
+end=200 and 200
+big=65537 and not 1
+verybig=12345678908642 and not 12345678908642
+
