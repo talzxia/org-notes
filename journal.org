@@ -1408,8 +1408,15 @@ on the way had been quarrel, made me have a terrible headache.
 wy wife is a terrible woman.
 *** 2020-05-05 Tuesday
 
-**** STARTED go shopping 
+**** DONE go shopping 
+     CLOSED: [2020-05-05 Tue 14:27]
      :LOGBOOK:
-     CLOCK: [2020-05-05 Tue 10:27]
+     - State "DONE"       from "STARTED"    [2020-05-05 Tue 14:27]
+     CLOCK: [2020-05-05 Tue 10:27]--[2020-05-05 Tue 13:17] =>  4:00
+     :END:
+
+**** STARTED to go to jian
+     :LOGBOOK:
+     CLOCK: [2020-05-05 Tue 16:12]
      :END:
 
