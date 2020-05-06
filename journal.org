@@ -1415,8 +1415,10 @@ wy wife is a terrible woman.
      CLOCK: [2020-05-05 Tue 10:27]--[2020-05-05 Tue 13:17] =>  4:00
      :END:
 
-**** STARTED to go to jian
+**** DONE to go to jian
+     CLOSED: [2020-05-06 Wed 08:03]
      :LOGBOOK:
-     CLOCK: [2020-05-05 Tue 16:12]
+     - State "DONE"       from "STARTED"    [2020-05-06 Wed 08:03]
+     CLOCK: [2020-05-05 Tue 16:12]--[2020-05-06 Wed 08:03] => 15:51
      :END:
 
