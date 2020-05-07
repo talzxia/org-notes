@@ -1430,3 +1430,15 @@ wy wife is a terrible woman.
      CLOCK: [2020-05-07 Thu 07:42]--[2020-05-07 Thu 08:03] =>  0:21
      :END:
 
+**** 表格跨页排版很慢 
+解决办法：把它设为纯文本
+另外层次问题，小节为缩进，排版不好看，本来为段，怎么解决？
+快捷键：
+C-f 下一字符
+C-b 前一字符
+C-p 前一行（previous line）
+C-n 下一行（next line）
+M-f 下一字（句）
+M-b 前一字（句）
+
+People swim in the sea in the south, because in the south the sea is warm.
