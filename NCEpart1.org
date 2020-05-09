@@ -100,6 +100,33 @@ They look very uncomfortables.
 They are very uncomfortables.
 But women always wear uncomfortables shoes!
 
+** Third review
+
+Do you have any shoes like these?
+What size?
+Number five.
+What color?
+Black.
+I'm sorry.
+We don't have any.
+But my sister bought this pair last month.
+Did she buy them here?
+No, she bought them in the U.S.
+We had some shoes like those a month agon,
+but we don't have any now.
+Can you get a pair for me, please?
+I'm afraid that I can't.
+They were in fashion last year and the year before last,
+but they're not in fashion this year.
+These shoes are in fashion now.
+They look very uncomfortable.
+They are very uncomfortable.
+But women always 
+
+#+BEGIN_SRC LISP
+(global-set-key (kbd "<f2>") 'open-init-file)
+#+END_SRC 
+
 * lesson 77 toothache
 Good morning. Mr. Croft.
 Good morning, nurse.
