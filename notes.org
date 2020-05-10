@@ -985,6 +985,9 @@ DEL             magit-show-item-or-scroll-down
 ** 简单粗暴 LATEX
    http://www.latexstudio.net/wp-content/uploads/2017/08/Note-by-LaTeX-cn.pdf
    **
+** 数字符号的输入
+*** 字母上面的上标输入方法
+\hat{a} \\hat{a}
 * lisp
 ** DONE Common lisp
    CLOSED: [2017-12-07 四 10:26]
