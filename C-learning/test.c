@@ -1,8 +1,8 @@
 #include<stdio.h>
-int main(void)
+int main(int argc, char *argv[])
 {
-    int num;
-    num=1;
-    printf("%d",num);
+    double  flnum;
+    flnum=4.0*2.0;
+    printf("flnum is %f\n",flnum);
     return 0;
 }
