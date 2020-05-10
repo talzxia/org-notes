@@ -1,0 +1,107 @@
+#+OPTIONS:toc:nil
+* 字母上面的上标输入方法
+\'a \'a  \=a
+
+$$\Acute{Acute{A}}
+
+\grave{a} \grave{a}
+
+\alpha \\\theat
+\beta \\bate
+\hat{a}
+\theta '\theta'
+\beta \\ beta
+* 小写希腊字母的输入方法
+
+  \alpha \\ alpha \theta \\\theat o \upsilon
+
+  \beta \vartheta \pi \phi
+
+\gama \iota \varpi \varhi
+
+\times\hat{a},
+
+\div
+\lambda
+
+\delta
+
+\bar{a}
+
+10^-20
+
+#+begin_src emacs-lisp :tangle yes
+
+#+end_src
+#+begin_src emacs-lisp :tangle yes
+(+ 2 2)
+(+ 2 (* 3 4))
+(global-linum-mode 1)
+(setq name "xialezhai")
+(message name)
+(defun func()
+(message "Hello,%s" name))
+(func)
+(global-set-key (kbd "<f1>") 'func)
+(defun func()
+(interactive)
+(message "Hello,%s" name))
+
+(defun open-init-file()
+(interactive)
+(find-file "~/.emacs.d/init.el"))
+(global-set-key (kbd "<f2>") 'open-init-file)
+(global-company-mode 1)
+(global-hl-line-mode 1)
+(setq-default abbrev-mode t)
+(define-abbrev-table 'global-abbrev-table '(
+					    ;; Shifu
+					    ("8zl" "信息技术工程系")
+					    ;; Tudi
+					    ("8lxy" "泰山职业技术学院")
+					   ))
+(setq hippie-expand-try-function-list '(try-expand-debbrev
+					try-expand-debbrev-all-buffers
+					try-expand-debbrev-from-kill
+					try-complete-file-name-partially
+					try-complete-file-name
+					try-expand-all-abbrevs
+					try-expand-list
+					try-expand-line
+					try-complete-lisp-symbol-partially
+					try-complete-lisp-symbol))
+(global-set-key (kbd "C-=") 'er/expand-region)
+
+#+end_src
+
+this
+zilongshanren lixinyang
+信息技术工程系
+信息技术工程系
+李长长
+7 吐丝自缚
+泰山职业技术学院
+
+李长
+泰山职业技术学院
+泰山职业技术学院
+thisthis
+this
+this
+review
+Re
+
+this
+this
+Review
+Review
+review
+review
+review
+李一名
+李一名
+信息技术工程系
+信息技术工程系
+go
+go
+global-set-key
