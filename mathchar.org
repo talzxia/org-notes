@@ -1,16 +1,19 @@
+#+STARTUP: latexpreview
 #+OPTIONS:toc:nil
 * 字母上面的上标输入方法
-\'a \'a  \=a
+$\hat{a}$ \acirc  \aacute  \\hat{a} $\check{a}$ \\ check{a} $\tilde{a}$ \\ tilde{a} $\acute{a}$
+\\ acute{a}
+#+BEGIN_SRC latex
+\'{A} \setminus widentilde{a}
+#+END_SRC
+Pro tip: Given a circle \Gamma of diameter d, the length of its
+circumference is \pi{}d.
 
-$$\Acute{Acute{A}}
+$\grave{a}$  \agrave $\dot{a}$  $\ddot{a}$ $\breve{a}$
 
-\grave{a} \grave{a}
+$\bar{a}$ $\vec{a}$  $\widehat{A}$ $\widetilde{A}$
 
-\alpha \\\theat
-\beta \\bate
-\hat{a}
-\theta '\theta'
-\beta \\ beta
+\\ This is a test!
 * 小写希腊字母的输入方法
 
   \alpha \\ alpha \theta \\\theat o \upsilon
@@ -21,7 +24,7 @@ $$\Acute{Acute{A}}
 
 \times\hat{a},
 
-\div
+8\div4=2
 \lambda
 
 \delta
@@ -105,3 +108,83 @@ review
 go
 go
 global-set-key
+
+字符	含义
+\uparrow	↑
+\downarrow	↓
+\Uparrow	⇑
+\Downarrow	⇓
+\updownarrow	↕
+\Updownarrow	⇕
+\rightarrow	→
+\leftarrow	←
+\Rightarrow	⇒
+\Leftarrow	⇐
+\leftrightarrow	↔
+\Leftrightarrow	⇔
+\longrightarrow	⟶
+\longleftarrow	⟵
+\Longrightarrow	⟹
+\Longleftarrow	⟸
+\mapsto	↦
+\longmapsto	⟼
+\hookleftarrow	↩
+\hookrightarrow	↪
+\leftharpoonup	↼
+\rightharpoonup	⇀
+\leftharpoondown	↽
+\rightharpoondown	⇁
+\rightleftharpoons	⇌
+\leadsto	⇝
+\nearrow	↗
+\searrow	↘
+\swarrow	↙
+\nwarrow	↖
+\nleftarrow	↚
+\nrightarrow	↛
+\nLeftarrow	⇍
+\nRightarrow	⇏
+\nleftrightarrow	↮
+\nLeftrightarrow	⇎
+\dashrightarrow	⇢
+\dashleftarrow	⇠
+\leftleftarrows	⇇
+\leftrightarrows	⇆
+\Lleftarrow	⇚
+\twoheadleftarrow	↞
+\leftarrowtail	↢
+\looparrowleft	↫
+\leftrightharpoons	⇋
+\curvearrowleft	↶
+\circlearrowleft	↺
+\Lsh	↰
+\upharpoonleft	↿
+\downharpoonleft	⇃
+\upuparrows	⇈
+\multimap	⊸
+\leftrightsquigarrow	↭
+\rightrightarrows	⇉
+\rightleftarrows	⇄
+\twoheadrightarrow	↠
+\rightarrowtail	↣
+\looparrowright	↬
+\rightleftharpoons	⇌
+\curvearrowright	↷
+\circlearrowright	↻
+\Rsh	↱
+\downdownarrows	⇊
+\upharpoonright	↾
+\downharpoonright	⇂
+\rightsquigarrow	⇝
+而如果想在箭头上面写字的话
+
+X\stackrel{F}{\longrightarrow}Y
+1
+X⟶FY
+X 
+⟶
+F
+​	
+ Y
+Pro tip: Given a circle \Gamma of diameter d, the length of its
+circumference is \pi{}d.
