@@ -1,11 +1,12 @@
 * TODO eating
-** STARTED [#C]breakfast
-SCHEDULED: <2020-05-13 Wed 07:00 +1d> DEADLINE: <2020-05-13 Wed 07:40 +1d>
+** TODO [#C]breakfast
+SCHEDULED: <2020-05-14 Thu 07:00 +1d> DEADLINE: <2020-05-14 Thu 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-12 Tue 08:22]
+   :LAST_REPEAT: [2020-05-13 Wed 08:07]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-05-13 Wed 07:09]
+   - State "DONE"       from "STARTED"    [2020-05-13 Wed 08:07]
+   CLOCK: [2020-05-13 Wed 07:09]--[2020-05-13 Wed 08:07] =>  0:58
    - State "DONE"       from "STARTED"    [2020-05-12 Tue 08:22]
    CLOCK: [2020-05-12 Tue 05:40]--[2020-05-12 Tue 08:00] =>  2:20
    - State "DONE"       from "STARTED"    [2020-05-11 Mon 08:12]
@@ -2090,12 +2091,13 @@ SCHEDULED: <2020-05-13 Wed 07:00 +1d> DEADLINE: <2020-05-13 Wed 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#C] lunch
+** STARTED [#C] lunch
 SCHEDULED: <2020-05-13 Wed 11:40 +1d> DEADLINE: <2020-05-13 Wed 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-05-12 Tue 14:34]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-13 Wed 12:55]
    - State "DONE"       from "STARTED"    [2020-05-12 Tue 14:34]
    CLOCK: [2020-05-12 Tue 11:31]--[2020-05-12 Tue 14:34] =>  3:03
    - State "DONE"       from "STARTED"    [2020-05-11 Mon 13:54]
@@ -10167,12 +10169,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 * TODO [#B] handwriting
 ** TODO To keep Diary
-  SCHEDULED: <2020-05-13 Wed 06:30 .+1d> DEADLINE: <2020-05-13 Wed 07:00 .+1d>
+  SCHEDULED: <2020-05-14 Thu 06:30 .+1d> DEADLINE: <2020-05-14 Thu 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-05-12 Tue 05:40]
+  :LAST_REPEAT: [2020-05-13 Wed 08:59]
   :ID:       D43AD498-462A-4AC4-B9DB-8474C66510BD
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-05-13 Wed 08:59]
+  CLOCK: [2020-05-13 Wed 08:07]--[2020-05-13 Wed 08:59] =>  0:52
   - State "DONE"       from "STARTED"    [2020-05-12 Tue 05:40]
   CLOCK: [2020-05-12 Tue 05:14]--[2020-05-12 Tue 05:40] =>  0:26
   - State "DONE"       from "STARTED"    [2020-05-11 Mon 06:37]

@@ -3720,3 +3720,191 @@ return 0;
 floaterr.c 程序的第 3 个输出示例既是支持该浮点标准的系统显示的结果。支持 C
 标准的编译器还包括含捕获异常问题的工具。详见附录 B.5，参考资料 V。
 
+*** 3.4.7 得数和虚数类型
+
+许多科学和工程计算都要用到得数和虚数。C99 标准支持复数类型和虚数类型，
+但是有所保留。一些独立实现，如嵌入式处理器的实现，就不需要使用复数和虚
+数（VCR 芯片就不需要复数）。一般而言，虚数类型都是可选项。C11 标准把整个
+复数软件包都作为可选项。
+
+简而言之，C语言有 3 种复数类型：float ——Complex、double ——Complex 和 long
+double——Complex。例如 float _Complex 类型的变量应包含两个 float 类型的值，
+分别表示复数的实部和虚部。类似地，C语言的 3 种虚数类型是 float _Imaginary、
+double _Imaginary 和 long double _Imaginary。
+
+如果包含 complex.h 头文件，便可用 complex 代替 _Complex，用 imaginary 代
+替 _Imaginary，还可以用 I 代替-1 的平方根。
+
+为何 C 标准不直接用 complex 作为关键字来代替_Complex，而要添加一个头文件
+（该头文件中把 complex 定义为_Complex）？因为标准委员会考虑到，如果使用
+新的关键字，会导致以该关键字作为标识的现有代码全部失效。例如，之前的
+C99，许多程序员已经使用 struct complex 定义一个结构来表示复数或者心理学
+程序中的心理状况（关键字 struct 用于定义能储存多个值的结构，详见第 14 章）。
+让 complex 成为关键字会导致之前的这些代码出现语法错误。但是，使用 struct
+_Complex 的人很少，特别是标准使用首字母是下划线的标识符作为预留字以后。
+因此，标准委员会选定_Complex 作为关键字，在不用考虑名称冲突的情况下可选
+择使用 complex。
+
+*** 3.4.8 其他类型
+
+现在已经介绍完 C 语言的所有基本数据类型。有些人认为这些类型实在太多了，
+但有些人觉得还不够用。注意，虽然 C 语言没有字符串类型，但也能很好地处理
+字符串。第 4 章将详细介绍相关内容。
+
+C 语言还有一些从基本类型衍生的其他类型。包括数组、指针、结构和联合。尽
+管后面章节中会详细介绍这些类型，但是本章的程序示例中已经用到了指针【指
+针（pointer）指向变量或其他数据对象位置】。例如，在 scanf（）函数中用到
+的前缀&，便创建了一个指针，告诉 scanf（）把数据放在何处。
+
+小结：基本数据类型
+
+关键字：
+
+基本数据类型由 11 个关键字组成：int、long、short、unsigned、char、float、
+double、signed、_Bool、_Complex 和_Imaginary。
+
+有符号整形：
+
+有符号整形可用于表示正整数和负整数。
+
+int ——系统给定的基本整数类型。C语言规定 int 类型不小于 16 位。
+
+short 或 short int ——最大的 short 类型整数小于或等于最大的 int 类型整数。C语
+言规定 short 类型至少占 16 位。
+
+long 或 long int ——该类型可表示的整数大于或等于最大的 int 类型整数。
+C 语言规定 long 类型至少占 32 位。
+
+long long 或 long long int ——该类型可表示的整数大于或等于最大的 long 类型
+整数。Long long 类型至少占 64 位。
+
+一般而言，long 类型占用的内存比 short 类型大，int 类型的宽度要么和 long 类型
+相同，要么和 short 类型相同。例如，旧 DOS 系统的 PC 撮合 16 位的 short 和 int，以
+及 32 位 long；Windows 95 系统提供 16 位的 short 以及 32 位的 int 和 long。
+
+无符号整形：
+
+无符号整形只能用于表示零和正整数，因此无符号整形可表示的正整数比有符号
+整形的大。在整形类型前加上关键字 unsigned 表明该类型是无符号整形：
+unsignedint、unsigned long、unsigned short。单独的 unsigned 相当于
+unsignedint。
+
+字符类型：
+
+可打印出来的符号（如 A、&和+）都是字符。根据定义，char 类型表示一个字符
+要占用 1 字节内存。出于历史原因，1字节通常是 8 位，但是如果要表示基本字符
+集，也可以是 16 位或更大。
+
+char ——字符类型的关键字。有些编译器使用有符号的 char，而有些则使用无符
+号的 char。在需要时，可在 char 前面加上关键字 singed 或 unsigned 来指明具体使
+用哪一种类型。
+
+布尔类型：
+
+布尔值表表 true 和 false。C 语言的 1 表示 true，0 表示 false。
+
+_Bool ——布尔类型的关键字。布尔类型是无符号 int 类型，所占用的空间只要能
+储存 0 或 1 即可。
+
+实浮点类型：
+
+实浮点类型可表示正浮点数和负浮点数。
+
+float ——系统的基本浮点类型，可精确表示至少 6 位有效数字。
+
+double ——储存浮点数的范围（可能）更大，能表示比 float 类型更多的有效数字
+（至少 10 位，通常会更多）和更大的指数。
+
+long long ——侦破浮点数的范围（可能）比 double 更大，能表示比 double 更多的
+有效数字和更大的指数。
+
+复数和虚数浮点数
+
+虚数类型是可选的类型。复数的实部和虚部类型都基于实浮点类型来构成：
+
+float _Complex
+
+double _Complex
+
+long double _Complex
+
+float _Imaginary
+
+double _Imaginary
+
+long long _Imaginary
+
+小结：如何声明简单变量
+
+1.选择需要的类型。
+
+2.使用有效的字符给变量起一个变量名。
+
+3.按以下格式进行声明：
+
+类型说明符号 变量名；（char Fname；int Num；）
+
+类型说明符号由一个或多个关键字组成。下面是一些示例：
+
+int erest；
+
+unsigned short cash；
+
+4.可以同时声明相同类型的多个变量，用逗号分隔各变量名，如下所示：
+
+char ch，init，ans；
+
+5.在声明的同时还可以初始化变量：
+
+float mass=6.0E24；
+
+*** 类型大小
+
+如何知道当前系统的指定类型大小是多少？运行程序清单 3.8，会列出当前系统
+的各类型的大小。
+
+程序清单 3.8typesize.c 程序
+
+#+BEGIN_SRC C
+//typesize.c --打印类型大小
+#include<stdio.h>
+int main(void)
+{
+//C99为类型大小提供%zd转换说明
+printf("Thpe int has a size of %zd bytes.\n",sizeof(int));
+printf("Type char has a size of %zd bytes.\n",sizeof(char));
+printf("Type long has a size of %zd bytes.\n",sizeof(long));
+printf("Type long long has a size of %zd bytes.\n",sizeof(long long));
+printf("Type double has a size of %zd bytes.\n",sizeof(double));
+printf("Type long double has a size of %zd bytes.\n",sizeof(long double));
+return 0;
+}
+#+END_SRC
+
+sizeof 是 C 语言的内置运算符，以字节为单位给出指定类型的大小。C99 和 C11 提
+供%zd 转换说明匹配 sizeof 的返回类型。一些不支持 C99 和 C11 的编译器可用%u 或
+%lu 代替%zd。
+
+该程序的输出如下：
+
+Type int has a size of 4 bytes. 
+
+Type char has a size of 1 bytes.
+
+Type long has a size of 8 bytes. 
+
+Type long long has a size of 8 bytes.
+
+Type double has a size of 8 bytes. 
+
+Type long double has a size of 16 bytes. 
+ 
+该程序列出了 6 种类型的大小，你也可以把程序中的类型更换成感兴趣的其他类
+型。注意，因为 C 语言定义了 char 类型是 1 字节，所以 char 类型的大小一定是 1 字
+节。而在 char 类型为 16 位、double 类型为 64 位的系统中，sizeof 给出的 double 是
+4 字节。在 linits.h 和 float.h 头文件中有类型限制的相关信息（下一章将详细介
+绍这两个头文件）。
+
+顺带一提，注意该程序最后几行 printf（）语句都被分为两行，只要不在引号内
+部或一个单词中间断行，就可以这样写。
+
