@@ -4068,12 +4068,14 @@ SCHEDULED: <2020-05-15 Fri 11:40 +1d> DEADLINE: <2020-05-15 Fri 13:40 +1d>
 13:50-14:30 检查
 
 ** TODO [#B] dinner
-   DEADLINE: <2020-05-14 Thu 18:40 +1d> SCHEDULED: <2020-05-14 Thu 17:40 +1d>
+   DEADLINE: <2020-05-15 Fri 18:40 +1d> SCHEDULED: <2020-05-15 Fri 17:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-13 Wed 17:26]
+   :LAST_REPEAT: [2020-05-14 Thu 18:10]
    :STYLE:    habit
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-05-14 Thu 18:10]
+   CLOCK: [2020-05-14 Thu 16:34]--[2020-05-14 Thu 18:10] =>  1:36
    - State "DONE"       from "STARTED"    [2020-05-13 Wed 17:26]
    CLOCK: [2020-05-13 Wed 16:02]--[2020-05-13 Wed 17:26] =>  1:24
    - State "DONE"       from "STARTED"    [2020-05-12 Tue 17:27]
@@ -6539,7 +6541,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
    DEADLINE: <2020-05-14 Thu 22:00 +1d> SCHEDULED: <2020-05-15 Fri 05:00 .+1d>
   :PROPERTIES:
   :PROPERTIES:
@@ -6548,6 +6550,7 @@ clean up spending 15 minutes
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2020-05-14 Thu 20:45]
   - State "DONE"       from "STARTED"    [2020-05-14 Thu 08:12]
   CLOCK: [2020-05-13 Wed 22:11]--[2020-05-14 Thu 05:02] =>  6:51
   - State "DONE"       from "STARTED"    [2020-05-13 Wed 05:38]
@@ -13343,11 +13346,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
 ** TODO Copy (a  gmodel of calligraphy)
-   SCHEDULED: <2020-05-14 Thu 15:00 +1d> DEADLINE: <2020-05-14 Thu 16:30 +1d>
+   SCHEDULED: <2020-05-15 Fri 15:00 +1d> DEADLINE: <2020-05-15 Fri 16:30 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-14 Thu 08:42]
+   :LAST_REPEAT: [2020-05-14 Thu 19:12]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-05-14 Thu 19:12]
+   CLOCK: [2020-05-14 Thu 18:15]--[2020-05-14 Thu 19:12] =>  0:57
    - State "DONE"       from "STARTED"    [2020-05-14 Thu 08:42]
    - State "DONE"       from "STARTED"    [2020-05-12 Tue 20:55]
    - State "DONE"       from "STARTED"    [2020-05-12 Tue 03:31]
