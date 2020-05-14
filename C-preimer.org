@@ -3908,3 +3908,192 @@ Type long double has a size of 16 bytes.
 顺带一提，注意该程序最后几行 printf（）语句都被分为两行，只要不在引号内
 部或一个单词中间断行，就可以这样写。
 
+*** 3.5 使用数据类型
+
+编写程序时，应注意合理选择所需的变量及其类型。通常，用 int 或 float 类型表示数字，
+char 类型表示字符。在使用变量之前必须先声明，并选择有意义的变量名。初始化变量应使
+用与变量类型匹配的常数类型。例如：
+
+int apples=3; //正确
+
+int oranges=3.0；//不好的形式
+
+与 Pascal 相比，C在检查类型匹配方面不太严格。C编译器甚至允许二次初始化，但在激活了
+较高级别警告时，会给出警告。最好不要养成这样的习惯。
+
+把一个类型的数值初始化给不同类型的变量时，编译器会把值转换成与变量匹配的类型，这
+将导致部分数据丢失。例如，下面的初始化：
+
+int cost=12.99；//用 double 类型的值初始化 int 类型的变量
+
+float pi=3.1415926536;//用 double 类型的值初始化 float 类型的变量
+
+第 1 个声明，cost 的值是 12。C 编译器把浮点数转换成整数时，会直接丢弃（截断）小数部分，
+而不进行四舍五入。第 2 个声明会损失一些精度，因为 C 只保证了 float 类型的前 6 位的精度。
+编译器对这样的初始化可能给出警告。读者在编译程度清单 3.1 时可能就遇到了这样警告。
+
+许多程序员和公司内部都胡系统化的命名约定，在变量名中体现其类型。例如，用 i_ 前缀
+表示 int 类型，us_前缀表示 unsigned short 类型。这样，一眼就能看出来 i_smart 是 int 类型
+的变量，us_versmart 是 unsigned short 类型的变量。
+
+*** 3.6 参数和陷阱
+
+有必要再次提醒读者注意 printf（）函数的用法。读者应该还记得，传递给函数的信息被称
+为参数。例如，printf（“Hello, pal.”）函数调用有一个参数："Hello,pal."。双引号中
+的字符序列（如，"Hello,pal."）被称为字符串（string），第 4 章将详细讲解相关内容。
+现在，关键是要理解无论双引号中包含多少个字符和标点符号，一个字符串就是一个参数。
+
+与此类似，scanf（“%d”，&weight）函数调用有两个参数："%d"和&weight。C 语言用逗号分
+隔函数中的参数。pringf（）和 scanf（）函数与一般函数不同，它们的参数个数是可变的。
+例如，前面的程序救命中调用过带一个、两个，甚至三个参数的 printf（）函数。程序要知
+道函数的参数个数才能正常工作。printf（）和 scanf（）函数用第 1 个参数表明后续 3 多少
+个参数，即第 1 个字符串中转换说明与后面的有数一一对应。例如，下面的语句有两个%d 转
+换说明，说明后面还有两个参数：
+
+printf（"%d cats ate %d cans of tuna\n",cats,cans）;
+
+后面的确还有两个参数：cats 和 cans。
+
+程序员要负责确保转换说明的数量、类型与后面参数的数量、类型相匹配。现在，C语言通
+过函数原型机制检查函数调用时参数的个数和类型是否正确。但是，该机制对 printf（）和
+scanf（）不起作用，因为这两个函数的参数个数可变。如果参数在匹配上有问题，会出现
+什么情况？假设你编写了程序清单 3.9 中和程序。
+
+程序清单 3.9 badcount.c 程序
+
+#+BEGIN_SRC C
+//badcount.c --参数错误的情况
+#include<stdio.h>
+int main(void)
+{
+int n=4;
+int m=5;
+float f=7.0f;
+float g=8.0f;
+printf("%d\n",n,m);//参数太多
+printf("%d %d %d\n",n);//参数太少
+printf("%d %d\n",f,g);//值的类型不匹配
+return 0;
+}
+#+END_SRC
+
+XCode 4.6(OS 10.8)的输出如下：
+
+4
+
+4  1  -706337836
+
+1606414344 1
+
+Microsoft Visual Studio Express 2012(Windows 7)的输出如下：
+
+4
+
+4 0 0 
+
+0 1075576832
+
+Mac (OS10.15)
+
+4
+
+4  0  -630456095
+
+73896  0
+
+编译警告信息：
+
+badcount.c:9:21: warning: data argument not used by format string
+      [-Wformat-extra-args]
+    printf("%d\n",n,m);//参数太多
+           ~~~~~~   ^
+badcount.c:10:18: warning: more '%' conversions than data arguments
+      [-Wformat]
+    printf("%d  %d  %d\n",n);//参数太少
+                ~^
+badcount.c:11:23: warning: format specifies type 'int' but the argument
+      has type 'float' [-Wformat]
+    printf("%d  %d\n",f,g);//值的类型不匹配
+            ~~        ^
+            %f
+badcount.c:11:25: warning: format specifies type 'int' but the argument
+      has type 'float' [-Wformat]
+    printf("%d  %d\n",f,g);//值的类型不匹配
+                ~~      ^
+                %f
+4 warnings generated.
+
+Compilation finished at Thu May 14 10:45:43
+
+注意，用%d 显示 float 类型的值，其值不会被转换成 int 类型。在不同的平台下，缺少参数或
+参数类型不匹配导致的结果不同。
+
+所有编译器都能顺利编译并运行该程序，但其中大部分会给出警告。的确，有些编译器会捕
+获到这类问题，然而 C 标准对此未作要求。因此，计算机在运行时可能不会捕获这类错误。
+如果程序正常运行，很难觉察出来。如果程序没有打印出期望值或打印出意想不到的值，你
+才会检查 printf（）函数中的参数个数和类型是否得当。
+
+*** 3.7 转义序列示例
+
+再来看一个程序示例，该程序使用一些特殊的转义序列。程序清单 3.10 演示了退格（\b）、
+水平制表符（\t）的工作方式。这些概念在计算机使用电传打字机作为输出设备时就有了，
+但是它们不一定能与现代的图形接口兼容。例如，程序清单 3.10 在某些 Macintosh 的实现中
+就无法正常运行。
+
+程序清单 3.10escape.c 程序
+
+#+BEGIN_SRC C
+//escape.c --使用转义序列
+#include<stdio.h>
+int main(void)
+{
+float salary;
+printf("\aEnter your desired monthly salary:");//1
+printf("$________\b\b\b\b\b\b\b");//2
+scanf("%f,&salary");
+printf("\n\t$%.2f a month is $%.2f a year.",salary,salary*12.0);//3
+printf("\rGee!\n");
+return 0;
+}
+#+END_SRC 
+
+**** 3.7.1 程序运行情况
+
+假设在系统中运行的转义序列行为与本章描述的行为一致（实际行为可能不同。例如，
+XCode 4.6 把\a、\b 和\r 显示为颠倒的问号），下面我们来分析这个程序。
+
+第 1 条 printf（）语句（注释中标为 1）发出一声警报（因为使用了\a）,然后打印下面的内
+容：
+
+Enter your desired monthly salary:
+
+因为 printf（）中的字符串末尾没有\n，所以光标停留在冒号后面。
+
+第 2 条 printf（）语句在光标处接着打印，屏幕上显示的内容是：
+
+Enter your desired monthly salary: $________ 
+
+冒号和美元符号之间有一个空格，这是因为第 2 条 printf（）语句中的字符串以一个空格开
+始。7个退格字符使得光标左移 7 个位置，即把光标移至 7 个下划线字符的前面，紧跟在美元
+符号后面。通常，退格不会擦除退回所经过的字符，但胡些实现是擦除的，这和本例不同。
+
+假设键入的数据中 4000.00（并按下 Enter 键），屏幕显示的内容应该是：
+
+Enter your desired monthly salary: $4000.00
+
+键入的字符替换了下划线字符。按下 Enter 键后，光标移至下一行起始处。水平制表符使光
+标移至该行的下一个制表点，一般是第 9 列（但不一定）。然后打印字符串的其他内容。执
+行完该语句后，此时屏幕显示的内容应该是：
+
+Enter your desired monthly salary: $4000.00
+
+$4000.00 a month is $48000.00 a year.
+
+因为这条 printf（）语句中没有使用换行字符，所以光标停留在最后的点号后面。
+
+第 4 条 printf（）语句以\r 开始。这使得光标回到当前行的起始处。然后打印 Gee！，接着\n
+使光标移至下一行的超处。屏幕最后显示的内容应该是：
+
+Enter your desired monthly salary: $4000.00
+
+Gee! $4000.00 a month is $48000.00 a year.
