@@ -4,13 +4,13 @@ Last week Mrs. Mills went to London.
 She does not know London very well, and she lost her way.
 Suddenly, she saw a man near a bus stop.
 'I can ask him the way.' she said to herself.
-'Execuse me,' she said. 'Can you tell me the way to King Street, please?'
+'Excuse me,' she said. 'Can you tell me the way to King Street, please?'
 The man smiled pleasantly.
 He did not understand English!
 He spoke German.
 He was a tourist.
 Then he put his hand into his pocket,
-and took out a phrasebook.
+and took out a phrase-book.
 He opened the book and found a phrase.
 He read the phrase slowly.
 'I am sorry,' he said. 'I do not speak English.'
@@ -19,16 +19,16 @@ He read the phrase slowly.
 Last week Mrs. Mills went to London.
 She does not know London very well, 
 and she lost her way.
-Suddenly(,) she swa a man near a bus stop.
+Suddenly(,) she saw a man near a bus stop.
 'I can ask him the way,' she said to herself.
-'Execuase me,' she said. 'Can you tell me the way to King Street, please?'
+'Excuse me,' she said. 'Can you tell me the way to King Street, please?'
 (The man smiled pleasantly.)
 The man did not understand.(He did not understand English!)
 He spoke German.
 He was a tourist.
-He simped pleasantly.(\times)
+He smiled pleasantly.(\times)
 Then he put his hand into his pocket,
-and took out a phrasebook.
+and took out a phrase-book.
 He opened the book and found a phrase.
 He read the phrase (very\times) slowly.
 'I am sorry,' he said. 'I do not speak English.'
@@ -45,12 +45,12 @@ The man did not understand English!
 He spoke German.
 He was a tourist.
 Then he put his hand into his pocket.
-and took out a phrasebook.
+and took out a phrase-book.
 He opened the book and found a phrase.
 He read the phrase slowly.
 'I am sorry,' he said. 'I don't speak English!'
 
-** thired
+** third
 
 Last week, Mrs. Mills went to London.
 She does not know London very well,
@@ -63,7 +63,7 @@ He did not understand.
 He spoke German.
 He was a tourist.
 Then he put his hand into his pocket, 
-and took out a phrasebook.
+and took out a phrase-book.
 He opened the book and found a phrase.
 He read the phrase slowly.
 'I am sorry,' he said. 'I don't speak English!'
@@ -81,7 +81,7 @@ He did not understand English!
 He spoke German.
 He was a tourist.
 Then he put his hand into his pocket,
-and took out a phrasebook.
+and took out a phrase-book.
 He opened the book and found a phrase.
 He read the phrase slowly.
 'I am sorry,' he said. 'I do not speak English!'
@@ -98,7 +98,7 @@ He did not understand English!
 He spoke German.
 He was a tourist.
 Then he put his hand into his pocket, 
-and took out a phrasebook.
+and took out a phrase-book.
 He opened the book and found a phrase.
 He read the phrase slowly.
 'I am sorry,' he said. 'I do not speak English!' 
@@ -114,12 +114,13 @@ The man smiled pleasantly.
 He did not understand English!
 He spoke German.
 He was a tourist.
-Then he put his hand into his pocket, and took out a phrasebook.
+Then he put his hand into his pocket, and took out a phrase-book.
 He opened the book and found a phrase.
 He read the phrase slowly.
 'I am sorry,' he said. 'I do not speak English!'
 
 * lesson 75 Uncomfortable shoes
+
 Do you have any shoes like these?
 What size?
 Number five.
@@ -186,18 +187,18 @@ wrong:
 But my sister bought a pair last month.
 Did she buy them here?
 Do you get a pair for me, please?
-I'm afraird I can't.
+I'm afraid I can't.
 But they are not in fashion now.
 But they look very uncomfortable.
 But women always wear uncomfortable shoes.
-crrect:
+correct:
 But my sister bought this pair last month.
 Did she buy them here?
 Can you get a pair for me, please?
-I'm afraird that I can't.
+I'm afraid that I can't.
 But they're not in fashion this year.
 They look very uncomfortable.
-But women always wear uncomfortables shoes!
+But women always wear uncomfortable shoes!
 
 ** second test
 Do you have any shoes like these?
@@ -212,14 +213,14 @@ Did she buy them here?
 No, she bought them in the U.S.
 We had some shoes like those a month ago.
 But we don't have any now.
-Can you get a pari for me, please?
+Can you get a pair for me, please?
 I'm afraired that I can't.
 They were in fashion last year and the year before last.
 But they're not in fashion this year.
-These shoes are in fishion now.
-They look very uncomfortables.
-They are very uncomfortables.
-But women always wear uncomfortables shoes!
+These shoes are in fashion now.
+They look very uncomfortable.
+They are very uncomfortable.
+But women always wear uncomfortable shoes!
 
 ** Third review
 
@@ -233,7 +234,7 @@ We don't have any.
 But my sister bought this pair last month.
 Did she buy them here?
 No, she bought them in the U.S.
-We had some shoes like those a month agon,
+We had some shoes like those a month ago,
 but we don't have any now.
 Can you get a pair for me, please?
 I'm afraid that I can't.
@@ -256,7 +257,7 @@ Did she buy them here?
 No, she bought them in the U.S.
 We had some shoes like those last month,
 but we don't have any now.
-'Can you get a pair for me, please?'
+Can you get a pair for me, please?
 I'm afraid that I can't.
 They were in fashion this year and the year before last.
 But they're not in fashion this year.
@@ -265,11 +266,35 @@ They look very uncomfortable.
 They are very uncomfortable.
 But women always wear uncomfortable shoes!
 
+** fifth
+全部为对话，不加‘’了\\
+Do you have any shoes like these?\\
+What size?\\
+Number five.\\
+What color?\\
+Black.\\
+I'm sorry. We don't have any.\\
+But my sister bought this pair last month.\\
+Did she buy them here?\\
+No, she bought them in the U.S.\\
+We had some shoes like those a month ago,\\
+but we don't have any now.\\
+Can you get a pair for me, please?\\
+I'm afraid that I can't.\\
+They were in fashion last year and the year before last.\\
+But they're not in fashion this year.\\
+These shoes are in fashion now.\\
+They look very uncomfortable.\\
+They are very uncomfortable.\\
+But women always wear uncomfortable shoes.\\
 
 #+BEGIN_SRC LISP
 (global-set-key (kbd "<f2>") 'open-init-file)
 #+END_SRC 
-* lesson 77 toothache
+
+
+* lesson 77 tooth-ache
+
 Good morning. Mr. Croft.
 Good morning, nurse.
 I want to see the dentist, please.
@@ -279,7 +304,7 @@ Is it urgent?
 Yes, it is.
 It's very urgent.
 I fell awful.
-I have a terrible toothache.
+I have a terrible tooth-ache.
 Can you come at 10 a.m on Monday, April 24th?
 I must see the dentist now, nurse.
 The dentist is very busy at the moment.
@@ -289,7 +314,7 @@ That's very late
 Can the dentist see me now?
 I'm afraid that he can't. Mr. Croft.
 Can't you wait till this afternoon?
-I can wait, but my toothache can't.
+I can wait, but my tooth-ache can't.
 
 ** write in 
 Good morning, Mr. Croft.
@@ -301,7 +326,7 @@ Is it urgent?
 Yes, it is.
 It is very urgent.
 I fell awful.
-I have a terrible toothache.
+I have a terrible tooth-ache.
 Can you come at 10 a.m. on Monday, April 24th?
 I must see the dentist now, nurse.
 The dentist is very busy at the moment.
@@ -310,7 +335,7 @@ That's very late.
 Can the dentist see me now?
 I'm afraid that he can't. Mr. Croft.
 Can't you wait till this afternoon?
-I can wait, but my toothache can't.
+I can wait, but my tooth-ache can't.
 
 ** Second write in.
 Good morning. Mr. Croft.
@@ -322,7 +347,7 @@ Is it urgent?
 Yes, it is.
 It's very urgent.
 I feel awful.
-I have a terrible toothache.
+I have a terrible tooth-ache.
 Can you come at 10 a.m. on Monday, April, 24th?
 I must see the dentist now, nurse.
 The dentist is very busy at the moment.
@@ -331,7 +356,7 @@ That's very late.
 Can the dentist see me now?
 I'm afraid that he can't. Mr. Croft.
 Can't you wait till this afternoon?
-I can wait, but my toothache can't.
+I can wait, but my tooth-ache can't.
 ** third write in
 Good morning, Mr. Croft.
 Good morning, nurse.
@@ -342,7 +367,7 @@ Is it urgent?
 Yes, it is.
 It's very urgent.
 I feel awful.
-I have a terrible toothache.
+I have a terrible tooth-ache.
 Can you come at 10 a.m. on Monday, April, 24th?
 I must see the dentist now, nurse.
 The dentist is very busy now at the moment.
@@ -351,7 +376,7 @@ That's very late.
 Can the dentist see me now?
 I'm afraid that he can't, Mr. Croft.
 Can't you wait till this afternoon?
-I can wait, but my toothache can't!
+I can wait, but my tooth-ache can't!
 ** appointment
 英[əˈpɔɪntmənt]
 美[əˈpɔɪntmənt]
