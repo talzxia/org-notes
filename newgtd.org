@@ -2095,12 +2095,13 @@ SCHEDULED: <2020-05-16 Sat 07:00 +1d> DEADLINE: <2020-05-16 Sat 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#C] lunch
+** STARTED [#C] lunch
 SCHEDULED: <2020-05-15 Fri 11:40 +1d> DEADLINE: <2020-05-15 Fri 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-05-14 Thu 15:21]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-15 Fri 11:52]
    - State "DONE"       from "STARTED"    [2020-05-14 Thu 15:21]
    CLOCK: [2020-05-14 Thu 12:38]--[2020-05-14 Thu 15:21] =>  2:43
    - State "DONE"       from "STARTED"    [2020-05-13 Wed 15:09]
@@ -12011,11 +12012,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2020-05-15 Fri 11:00 .+1d> DEADLINE: <2020-05-15 Fri 11:30 .+1d>
+   SCHEDULED: <2020-05-16 Sat 11:00 .+1d> DEADLINE: <2020-05-16 Sat 11:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-14 Thu 16:09]
+   :LAST_REPEAT: [2020-05-15 Fri 11:51]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-05-15 Fri 11:51]
+   CLOCK: [2020-05-15 Fri 11:15]--[2020-05-15 Fri 11:51] =>  0:36
    - State "DONE"       from "STARTED"    [2020-05-14 Thu 16:09]
    CLOCK: [2020-05-14 Thu 15:21]--[2020-05-14 Thu 16:09] =>  0:48
    - State "DONE"       from "STARTED"    [2020-05-13 Wed 16:02]
