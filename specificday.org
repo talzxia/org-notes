@@ -1,4 +1,73 @@
 * 纪念日
 #+CATEGORY ANN
-%%(org-anniversary 2017  11 21) test %d 周年纪念
-%%(org-anniversary 2017 11 21) daughter %d back to jinan
+%%(org-anniversary 1964  05 05) %d 本人生日
+%%(org-anniversary 2017 05 16) daughter %d back to jinan
+%%(org-anniversary 2017 05 16 ) %d 无效不习
+* Holidays
+  :PROPERTIES:
+  :CATEGORY: Holiday
+  :END:
+%%(org-calendar-holiday)   ; special function for holiday names
+
+* Birthdays
+  :PROPERTIES:
+  :CATEGORY: Ann
+  :END:
+%%(org-anniversary 1956  5 16) Arthur Dent is %d years old
+%%(org-anniversary 1869 10  2) Mahatma Gandhi would be %d years old
+#+BEGIN_SRC lisp
+;;---------------------------------------------
+;;org-agenda-time-grid
+;;--------------------------------------------
+(setq org-agenda-time-grid (quote ((daily today require-timed)
+                                   (300
+                                    600
+                                    900
+                                    1200
+                                    1500
+                                    1800
+                                    2100
+                                    2400)
+                                   "......"
+                                   "-----------------------------------------------------"
+                                   )))
+
+(setq org-agenda-include-diary t)
+(setq org-agenda-diary-file "~/org-notes/standard_diary") ;;2020-03-02 10:47:06
+(setq diary-file "~/org-notes/standard_diary")
+
+
+;; location
+(setq calendar-longitude 116.9962)
+(setq calendar-latitude 39.91) 
+
+;;Sunrise and Sunset
+;;日出而作, 日落而息
+(defun diary-sunrise ()
+  (let ((dss (diary-sunrise-sunset)))
+    (with-temp-buffer
+      (insert dss)
+      (goto-char (point-min))
+      (while (re-search-forward " ([^)]*)" nil t)
+        (replace-match "" nil nil))
+      (goto-char (point-min))
+      (search-forward ",")
+      (buffer-substring (point-min) (match-beginning 0)))))
+
+(defun diary-sunset ()
+  (let ((dss (diary-sunrise-sunset))
+        start end)
+    (with-temp-buffer
+      (insert dss)
+      (goto-char (point-min))
+      (while (re-search-forward " ([^)]*)" nil t)
+        (replace-match "" nil nil))
+      (goto-char (point-min))
+      (search-forward ", ")
+      (setq start (match-end 0))
+      (search-forward " at")
+      (setq end (match-beginning 0))
+      (goto-char start)
+      (capitalize-word 1)
+      (buffer-substring start end))))
+#+END_SRC
