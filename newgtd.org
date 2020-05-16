@@ -1,11 +1,12 @@
 * TODO eating
-** STARTED [#C]breakfast
-SCHEDULED: <2020-05-16 Sat 07:00 +1d> DEADLINE: <2020-05-16 Sat 07:40 +1d>
+** TODO [#C]breakfast
+SCHEDULED: <2020-05-17 Sun 07:00 +1d> DEADLINE: <2020-05-17 Sun 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-15 Fri 08:07]
+   :LAST_REPEAT: [2020-05-16 Sat 10:47]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-05-16 Sat 07:20]
+   - State "DONE"       from "STARTED"    [2020-05-16 Sat 10:47]
+   CLOCK: [2020-05-16 Sat 07:20]--[2020-05-16 Sat 08:17] =>  0:57
    - State "DONE"       from "STARTED"    [2020-05-15 Fri 08:07]
    CLOCK: [2020-05-15 Fri 06:48]--[2020-05-15 Fri 08:07] =>  1:19
    - State "DONE"       from "STARTED"    [2020-05-14 Thu 08:20]
@@ -2096,12 +2097,13 @@ SCHEDULED: <2020-05-16 Sat 07:00 +1d> DEADLINE: <2020-05-16 Sat 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#C] lunch
+** STARTED [#C] lunch
 SCHEDULED: <2020-05-16 Sat 11:40 +1d> DEADLINE: <2020-05-16 Sat 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-05-15 Fri 14:22]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-16 Sat 12:31]
    - State "DONE"       from "STARTED"    [2020-05-15 Fri 14:22]
    CLOCK: [2020-05-15 Fri 11:52]--[2020-05-15 Fri 14:22] =>  2:30
    - State "DONE"       from "STARTED"    [2020-05-14 Thu 15:21]
@@ -12020,11 +12022,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2020-05-16 Sat 11:00 .+1d> DEADLINE: <2020-05-16 Sat 11:30 .+1d>
+   SCHEDULED: <2020-05-17 Sun 11:00 .+1d> DEADLINE: <2020-05-17 Sun 11:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-15 Fri 11:51]
+   :LAST_REPEAT: [2020-05-16 Sat 12:25]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-05-16 Sat 12:25]
+   CLOCK: [2020-05-16 Sat 11:03]--[2020-05-16 Sat 12:25] =>  1:22
    - State "DONE"       from "STARTED"    [2020-05-15 Fri 11:51]
    CLOCK: [2020-05-15 Fri 11:15]--[2020-05-15 Fri 11:51] =>  0:36
    - State "DONE"       from "STARTED"    [2020-05-14 Thu 16:09]
