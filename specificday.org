@@ -1,7 +1,7 @@
 * 纪念日
 #+CATEGORY ANN
 %%(org-anniversary 1964  05 05) %d 本人生日
-%%(org-anniversary 2017 05 16) daughter %d back to jinan
+%%(org-anniversary 1989 11 24) %d My daughter's birthday 
 %%(org-anniversary 2017 05 16 ) %d 无效不习
 * Holidays
   :PROPERTIES:
@@ -11,9 +11,9 @@
 
 * Birthdays
   :PROPERTIES:
-  :CATEGORY: Ann
+  :CATEGORY: Happy birthday to you!
   :END:
-%%(org-anniversary 1956  5 16) Arthur Dent is %d years old
+%%(org-anniversary 1963  7 8) My wife is  %d years old
 %%(org-anniversary 1869 10  2) Mahatma Gandhi would be %d years old
 #+BEGIN_SRC lisp
 ;;---------------------------------------------
