@@ -2099,13 +2099,14 @@ SCHEDULED: <2020-05-18 Mon 07:00 +1d> DEADLINE: <2020-05-18 Mon 07:40 +1d>
 财经系陈卫华
 
 
-** STARTED [#C] lunch
-SCHEDULED: <2020-05-17 Sun 11:40 +1d> DEADLINE: <2020-05-17 Sun 13:40 +1d>
+** TODO [#C] lunch
+SCHEDULED: <2020-05-18 Mon 11:40 +1d> DEADLINE: <2020-05-18 Mon 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-16 Sat 15:36]
+   :LAST_REPEAT: [2020-05-17 Sun 14:23]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-05-17 Sun 12:24]
+   - State "DONE"       from "STARTED"    [2020-05-17 Sun 14:23]
+   CLOCK: [2020-05-17 Sun 12:24]--[2020-05-17 Sun 14:23] =>  1:59
    - State "DONE"       from "STARTED"    [2020-05-16 Sat 15:36]
    CLOCK: [2020-05-16 Sat 12:31]--[2020-05-16 Sat 15:36] =>  3:05
    - State "DONE"       from "STARTED"    [2020-05-15 Fri 14:22]
@@ -4078,13 +4079,14 @@ SCHEDULED: <2020-05-17 Sun 11:40 +1d> DEADLINE: <2020-05-17 Sun 13:40 +1d>
     :END:
 13:50-14:30 检查
 
-** TODO [#B] dinner
+** STARTED [#B] dinner
    DEADLINE: <2020-05-17 Sun 17:20 +1d> SCHEDULED: <2020-05-17 Sun 18:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-05-16 Sat 19:39]
    :STYLE:    habit
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-17 Sun 17:29]
    - State "DONE"       from "STARTED"    [2020-05-16 Sat 19:39]
    CLOCK: [2020-05-16 Sat 17:54]--[2020-05-16 Sat 19:39] =>  1:45
    - State "DONE"       from "STARTED"    [2020-05-15 Fri 19:55]
