@@ -1,26 +1,30 @@
-#+TITLE: C学习笔记
+#+TITLE:  C学习笔记
 #+AUTHOR: 泰山学人   夏翁
 #+OPTIONS: H:4
 %#+OPTIONS: toc:nil 
 #+BEGIN_SRC latex
 
-\chapter*{前言}
-\fangsong 1984 年 C Primer Plus 第一版问世。各版本累计销售超 55 万册。
+  \chapter*{前言}
+  \fangsong \large 1984 年 C Primer Plus 第一版问世。各版本累计销售超 55 万册。
 
-C 语言从早期的非正式的 K&R 标准，发展到 1990 年 ISO/ANSI 标准， 进而发展到 2011 年 ISO/IEC 标准。本书第六版。
-
-
+  C 语言从早期的非正式的 K&R 标准，发展到 1990 年 ISO/ANSI 标准， 进而发展到 2011 年 ISO/IEC 标准。本书第六版。
 
 
-C primer Plus Sixty Edition
 
-- 经久不衰的 C 语言畅销经典教程
 
-- 针对 C11 标准进行全面更新
+  C primer Plus Sixty Edition
 
- 美 |Stephen Prate| 著姜佑 | 译
-\songti
+  - 经久不衰的 C 语言畅销经典教程
+
+  - 针对 C11 标准进行全面更新
+
+   美 |Stephen Prate| 著姜佑 | 译
+  \songti
+
+ 
 #+END_SRC
+
+
 * 初识 C 语言
 
 - C 的历史和特性
