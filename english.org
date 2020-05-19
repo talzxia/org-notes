@@ -10586,6 +10586,18 @@ CLOCK: [2017-10-23 一 05:53]--[2017-10-23 一 06:25] =>  0:32
    - State "DONE"       from "STARTED"    [2020-05-19 Tue 04:55]
    CLOCK: [2020-05-19 Tue 04:23]--[2020-05-19 Tue 04:55] =>  0:32
    :END:
+** DONE Review<2020-05-19 Tue 11:39>99.4% 
+   CLOSED: [2020-05-19 Tue 12:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-05-19 Tue 12:35]
+   CLOCK: [2020-05-19 Tue 11:39]--[2020-05-19 Tue 12:35] =>  0:56
+   :END:
+** DONE Review<2020-05-19 Tue 18:22>99.3% 
+   CLOSED: [2020-05-19 Tue 18:46]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-05-19 Tue 18:46]
+   CLOCK: [2020-05-19 Tue 18:21]--[2020-05-19 Tue 18:46] =>  0:25
+   :END:
 * lesson 14thirty six
 ** DONE Review<2017-11-02 四 05:22>98.1%
    CLOSED: [2017-11-02 四 05:44]
