@@ -2111,13 +2111,14 @@ SCHEDULED: <2020-05-24 Sun 07:00 +1d> DEADLINE: <2020-05-24 Sun 07:40 +1d>
 财经系陈卫华
 
 
-** STARTED [#C] lunch
-SCHEDULED: <2020-05-23 Sat 11:40 +1d> DEADLINE: <2020-05-23 Sat 13:40 +1d>
+** TODO [#C] lunch
+SCHEDULED: <2020-05-24 Sun 11:40 +1d> DEADLINE: <2020-05-24 Sun 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-22 Fri 14:56]
+   :LAST_REPEAT: [2020-05-23 Sat 13:54]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-05-23 Sat 11:54]
+   - State "DONE"       from "STARTED"    [2020-05-23 Sat 13:54]
+   CLOCK: [2020-05-23 Sat 11:54]--[2020-05-23 Sat 13:54] =>  2:00
    - State "DONE"       from "STARTED"    [2020-05-22 Fri 14:56]
    CLOCK: [2020-05-22 Fri 11:53]--[2020-05-22 Fri 14:56] =>  3:03
    - State "DONE"       from "STARTED"    [2020-05-21 Thu 14:57]
