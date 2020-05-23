@@ -10126,6 +10126,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2019-04-15 Mon 18:50]
    CLOCK: [2019-04-15 Mon 18:29]--[2019-04-15 Mon 18:50] =>  0:21
    :END:
+** DONE Revieiw<2020-05-23 Sat 05:25>97.3% 
+   CLOSED: [2020-05-23 Sat 05:51]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-05-23 Sat 05:51]
+   CLOCK: [2020-05-23 Sat 05:24]--[2020-05-23 Sat 05:51] =>  0:27
+   :END:
 * lesson 18thirty five
 ** DONE Review<2017-10-23 一 05:21>98.6%
 CLOSED: [2017-10-23 一 05:52]
@@ -10645,6 +10651,12 @@ CLOCK: [2017-10-23 一 05:53]--[2017-10-23 一 06:25] =>  0:32
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2020-05-22 Fri 21:09]
    CLOCK: [2020-05-22 Fri 20:44]--[2020-05-22 Fri 21:09] =>  0:25
+   :END:
+** DONE Review<2020-05-23 Sat 05:00>99.8% 
+   CLOSED: [2020-05-23 Sat 05:23]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-05-23 Sat 05:23]
+   CLOCK: [2020-05-23 Sat 04:59]--[2020-05-23 Sat 05:23] =>  0:24
    :END:
 * lesson 14thirty six
 ** DONE Review<2017-11-02 四 05:22>98.1%
@@ -18750,11 +18762,12 @@ Where does the teacher write the assignment? The teacher writes the assignment o
 
 * New concept English
 ** TODO [#B] Book One
-   SCHEDULED:<2020-05-23 Sat 06:00 +1m>
+   SCHEDULED:<2020-06-23 Tue 06:00 +1m>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-04-23 Thu 05:32]
+   :LAST_REPEAT: [2020-05-23 Sat 05:52]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-05-23 Sat 05:52]
    - State "DONE"       from "STARTED"    [2020-04-23 Thu 05:32]
    - State "DONE"       from "STARTED"    [2020-03-23 Mon 05:20]
    - State "DONE"       from "STARTED"    [2020-02-23 Sun 05:46]
@@ -19333,11 +19346,15 @@ but his wife did!
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New English  
-  SCHEDULED: <2020-05-23 Sat 05:50 +1d> DEADLINE: <2020-05-23 Sat 06:10 +1d>
+  SCHEDULED: <2020-05-25 Mon 05:50 +1d> DEADLINE: <2020-05-25 Mon 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-05-22 Fri 04:57]
+  :LAST_REPEAT: [2020-05-23 Sat 09:16]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-05-23 Sat 09:16]
+  CLOCK: [2020-05-23 Sat 08:47]--[2020-05-23 Sat 09:16] =>  0:29
+  - State "DONE"       from "STARTED"    [2020-05-23 Sat 06:38]
+  CLOCK: [2020-05-23 Sat 05:52]--[2020-05-23 Sat 06:38] =>  0:46
   - State "DONE"       from "STARTED"    [2020-05-22 Fri 04:57]
   CLOCK: [2020-05-22 Fri 04:23]--[2020-05-22 Fri 04:57] =>  0:34
   - State "DONE"       from "STARTED"    [2020-05-21 Thu 06:24]
