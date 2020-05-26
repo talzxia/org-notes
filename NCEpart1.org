@@ -63,13 +63,13 @@ How's Jimmy today?
 He's very well, thank you.
 Was he absent from school last week?
 Yes, he was.
-He was absent on Monday, Tuesday, Wednesday and Tursday.
+He was absent on Monday, Tuesday, Wednesday and Thursday.
 How are you all keeping?
 Very well, thank you.
 We're going to spend three days in the country.
-We're goint to stay at my mother's for the weekend.
+We're going to stay at my mother's for the weekend.
 Friday, Saturday and Sunday in the country!
-Are'nt you luck!
+Aren't you luck!
 ** Test
 *** First
 Hello. Were you at the butcher's?
@@ -81,7 +81,7 @@ How's Jimmy today?
 Very well. Thank you.
 Was he absent from school last wee?
 Yes, he was.
-He was absend on Monday, Tuesday, Wednesday and Thursday.
+He was absent on Monday, Tuesday, Wednesday and Thursday.
 How are you all keeping?
 Very well, thank you.
 We're going to spend three days in the country.
@@ -95,14 +95,14 @@ Were you at the butcher's, too?
 No, I wasn't.
 How's Jimmy today?
 He's very well, thank you.
-Was he absend from school last week?
+Was he absent from school last week?
 Yes, he was.
-He was absend on Monday, Tuesday, Wednesday and Thursday.
+He was absent on Monday, Tuesday, Wednesday and Thursday.
 How are you all keeping?
 Very well, thank you.
 We're going to spend three days in the country.
 We're going to stay at my mother's for the weekend,
-Friday, Sataurday and Sunday in the country!
+Friday, Saturday and Sunday in the country!
 Aren't you luck!
 *** Third
 Hello. Were you at the butcher's? 
@@ -112,9 +112,9 @@ No, I wasn't.
 I was at the greengrocer's.
 How's Jimmy today?
 He's very well, thank you.
-Was he absend from school last week?
+Was he absent from school last week?
 Yes, he was.
-He was absend on Monday, Tuesday, Wednesday and Thursday.
+He was absent on Monday, Tuesday, Wednesday and Thursday.
 How are you all keeping? 
 Very well, thank you.
 We're going to spend three days in the country.
@@ -133,7 +133,7 @@ Tuesday
 Wednesday
 Thursday
 Friday
-Staturday
+Saturday
 Sunday
 What day is it today?
 Sunday is a holiday.
@@ -170,14 +170,14 @@ Our friends Julie and Jack were there, too.
 You can see us in the crowd.
 We are standing on the left.
 There were twenty cars in the race.
-There were English cars, French cars, German cars. Italian cars, American carss
+There were English cars, French cars, German cars. Italian cars, American cars
 and Japanese cars.
 It was an exciting finish.
 The winner was Billy Stewart.
 He was in car number fifteen.
 Five other cars were just behind him.
 On the way home, my wife said to me.
-'Do'nt drive so quickly! You're not Billy Stewart!'
+'Don't drive so quickly! You're not Billy Stewart!'
 *** Second
 There is a car race near our town every year.
 In 1995, there was a very big race.
@@ -187,7 +187,7 @@ Our friends Julie and Jack were there, too.
 You can see us in the crowd.
 We are standing on the left.
 There were twenty cars in the race.
-There were English cars, French cars, German cars. Italian cars, Amerian cars
+There were English cars, French cars, German cars. Italian cars, American cars
 and Japanese cars.
 It was an exciting finish.
 The winner was Billy Stewart. 
@@ -204,7 +204,7 @@ Our friends Julie and Jack were there, too.
 You can see us in the crowd.
 We are standing on the left.
 There were twenty cars in the race.
-They were English cars, French cars, German cars. Italian cars, Amerian cars and
+They were English cars, French cars, German cars. Italian cars, American cars and
 Japanese cars.
 It was an exciting finish.
 The winner was Billy Steward.
@@ -215,7 +215,7 @@ On the way home, my wife said to me.
 *** Forth
 There is a car race near our town every year.
 In 1995, there was a very big race.
-There were hundredes of people there.
+There were hundreds of people there.
 My wife and I were at the race.
 Our friends Julie and Jack were there, too.
 You can see us in the crowd.
@@ -925,7 +925,24 @@ Can the dentist see me now?
 I'm afraid that he can't. Mr. Croft.
 Can't you wait till this afternoon?
 I can wait, but my tooth-ache can't.
-** First
+** test
+*** First
+ Good morning, Mr. Croft.
+ Good morning, nurse.
+ I want to see the dentist, please.
+ Do you have an appointment?
+ No, I don't.
+ Is it urgent?
+ Yes, it is.
+ It's very urgent.
+ I feel awful.
+ I have a terrible toothache.
+ Can you come at 10 a.m. on Monday, April 24th?
+ Can the dentist see me now, nurse?
+ I'm afraid that he can't, Mr. Croft.
+ Can't you wait till this afternoon?
+ I can wait, but my toothache can't!
+*** Second
 Good morning, Mr. Croft.
 Good morning, nurse.
 I want to see the dentist, please.
@@ -936,99 +953,105 @@ Yes, it is.
 It's very urgent.
 I feel awful.
 I have a terrible toothache.
-Can you come at 10 a.m. on Monday, April 24th?
-Can the dentist see me now, nurse?
+Can you come at 10 a.m. on Monday, April, 24th?
+I must see the dentist now, nurse.
+The dentist is very busy at the moment.
+Can you come at 2 p.m.?
+That's too late.
+Can the dentist see me now?
 I'm afraid that he can't, Mr. Croft.
-Can't you wait till this afternoon?
+Can't you wait till this afteroon?
 I can wait, but my toothache can't!
-** feel
-feel	英[fiːl]
-美[fiːl]
-v.	觉得; 感到; 体会到; (通过触觉) 注意到，意识到，感觉到; 感觉到(抽象事物);
-n.	触觉; 手感; 触摸; 摸; (场所、情况等给人的) 印象，感受; 气氛;
-[例句]I am feeling very depressed
-我觉得非常沮丧。
-[其他]	第三人称单数：feels 现在分词：feeling 过去式：felt 过去分词：felt
 
-** write in 
-Good morning, Mr. Croft.
-Good morning, nurse.
-I want to see the dentist, please.
-Do you have an appointment?
-No, I don't.
-Is it urgent?
-Yes, it is.
-It is very urgent.
-I fell awful.
-I have a terrible tooth-ache.
-Can you come at 10 a.m. on Monday, April 24th?
-I must see the dentist now, nurse.
-The dentist is very busy at the moment.
-Can you come at 2 p.m.?
-That's very late.
-Can the dentist see me now?
-I'm afraid that he can't. Mr. Croft.
-Can't you wait till this afternoon?
-I can wait, but my tooth-ache can't.
+** words
+*** feel
+ feel	英[fiːl]
+ 美[fiːl]
+ v.	觉得; 感到; 体会到; (通过触觉) 注意到，意识到，感觉到; 感觉到(抽象事物);
+ n.	触觉; 手感; 触摸; 摸; (场所、情况等给人的) 印象，感受; 气氛;
+ [例句]I am feeling very depressed
+ 我觉得非常沮丧。
+ [其他]	第三人称单数：feels 现在分词：feeling 过去式：felt 过去分词：felt
 
-** Second write in.
-Good morning. Mr. Croft.
-Good morning, nurse.
-I want to see the dentist, please.
-Do you have an appointment?
-No. I don't.
-Is it urgent?
-Yes, it is.
-It's very urgent.
-I feel awful.
-I have a terrible tooth-ache.
-Can you come at 10 a.m. on Monday, April, 24th?
-I must see the dentist now, nurse.
-The dentist is very busy at the moment.
-Can you come at 2 p.m.?
-That's very late.
-Can the dentist see me now?
-I'm afraid that he can't. Mr. Croft.
-Can't you wait till this afternoon?
-I can wait, but my tooth-ache can't.
-** third write in
-Good morning, Mr. Croft.
-Good morning, nurse.
-I want to see the dentist, please.
-Do you have an appointment?
-No, I don't.
-Is it urgent?
-Yes, it is.
-It's very urgent.
-I feel awful.
-I have a terrible tooth-ache.
-Can you come at 10 a.m. on Monday, April, 24th?
-I must see the dentist now, nurse.
-The dentist is very busy now at the moment.
-Can you come at 2 p.m.?
-That's very late.
-Can the dentist see me now?
-I'm afraid that he can't, Mr. Croft.
-Can't you wait till this afternoon?
-I can wait, but my tooth-ache can't!
-** appointment
-英[əˈpɔɪntmənt]
-美[əˈpɔɪntmənt]
-n.	约会; 预约; 约定; 任命; 委任; 职务; 职位;
-[例句]His appointment to the Cabinet would please the right-wing.
-他被任命为内阁成员会让右翼党派很高兴。
-[其他]	复数：appointments
-** urgent	英[ˈɜːdʒənt]
-美[ˈɜːrdʒənt]
-adj.	紧急的; 紧迫的; 迫切的; 催促的; 急切的;
-[例句]There is an urgent need for food and water
-现在亟需食物和水。
-** awful	英[ˈɔːfl]
-美[ˈɔːfl]
-adj.	很坏的; 极讨厌的; 非常的; 很多的; 过多的; 骇人听闻的; 可怕的;
-adv.	非常; 极其;
-[例句]We met and I thought he was awful
-我们见了面，我觉得他很讨人厌。
+*** write in 
+ Good morning, Mr. Croft.
+ Good morning, nurse.
+ I want to see the dentist, please.
+ Do you have an appointment?
+ No, I don't.
+ Is it urgent?
+ Yes, it is.
+ It is very urgent.
+ I fell awful.
+ I have a terrible tooth-ache.
+ Can you come at 10 a.m. on Monday, April 24th?
+ I must see the dentist now, nurse.
+ The dentist is very busy at the moment.
+ Can you come at 2 p.m.?
+ That's very late.
+ Can the dentist see me now?
+ I'm afraid that he can't. Mr. Croft.
+ Can't you wait till this afternoon?
+ I can wait, but my tooth-ache can't.
+
+*** Second write in.
+ Good morning. Mr. Croft.
+ Good morning, nurse.
+ I want to see the dentist, please.
+ Do you have an appointment?
+ No. I don't.
+ Is it urgent?
+ Yes, it is.
+ It's very urgent.
+ I feel awful.
+ I have a terrible tooth-ache.
+ Can you come at 10 a.m. on Monday, April, 24th?
+ I must see the dentist now, nurse.
+ The dentist is very busy at the moment.
+ Can you come at 2 p.m.?
+ That's very late.
+ Can the dentist see me now?
+ I'm afraid that he can't. Mr. Croft.
+ Can't you wait till this afternoon?
+ I can wait, but my tooth-ache can't.
+*** third write in
+ Good morning, Mr. Croft.
+ Good morning, nurse.
+ I want to see the dentist, please.
+ Do you have an appointment?
+ No, I don't.
+ Is it urgent?
+ Yes, it is.
+ It's very urgent.
+ I feel awful.
+ I have a terrible tooth-ache.
+ Can you come at 10 a.m. on Monday, April, 24th?
+ I must see the dentist now, nurse.
+ The dentist is very busy now at the moment.
+ Can you come at 2 p.m.?
+ That's very late.
+ Can the dentist see me now?
+ I'm afraid that he can't, Mr. Croft.
+ Can't you wait till this afternoon?
+ I can wait, but my tooth-ache can't!
+*** appointment
+ 英[əˈpɔɪntmənt]
+ 美[əˈpɔɪntmənt]
+ n.	约会; 预约; 约定; 任命; 委任; 职务; 职位;
+ [例句]His appointment to the Cabinet would please the right-wing.
+ 他被任命为内阁成员会让右翼党派很高兴。
+ [其他]	复数：appointments
+*** urgent	英[ˈɜːdʒənt]
+ 美[ˈɜːrdʒənt]
+ adj.	紧急的; 紧迫的; 迫切的; 催促的; 急切的;
+ [例句]There is an urgent need for food and water
+ 现在亟需食物和水。
+*** awful	英[ˈɔːfl]
+ 美[ˈɔːfl]
+ adj.	很坏的; 极讨厌的; 非常的; 很多的; 过多的; 骇人听闻的; 可怕的;
+ adv.	非常; 极其;
+ [例句]We met and I thought he was awful
+ 我们见了面，我觉得他很讨人厌。
 
 * lesson 79 Carol's shopping list
 What are you doing, Carol?
@@ -1217,33 +1240,58 @@ We had roast beef and potatoes.
 Oh!
 What's the matter, Carol?
 Well, you're going to have roast beef and potatoes again tonight.
-** first 
-err:
-Hi, Carol.
-No,thanks. Tom.
-OK, thanks.
-Correct:
-Hi, Carol!
-No, thanks, Tom.
-OK. Thanks.
-** ask where
-Where's Tom?
-** ask what
-What did you have?
-** have eat meal ett.
+** test
+*** first 
+ err:
+ Hi, Carol.
+ No,thanks. Tom.
+ OK, thanks.
+ Correct:
+ Hi, Carol!
+ No, thanks, Tom.
+ OK. Thanks.
+*** Second
+Hi, Carol! Where's Tom?
+He's upstairs.
+He's having a bath.
+Tom! Yes?
+Sam's here.
+I'm nearly ready.
+Hello, Sam.
 Have a cigarette.
-Have a glass whisky then.
+No, thanks, Tom.
+Have a glass of whisky then.
+Ok. Thanks.
+Is dinner ready, Carol?
+It's nearly ready.
 We can have dinner at seven o'clock.
 Sam and I had lunch together today.
+We went to a restaurant.
+What did you have?
 We had roast beef and potatoes.
-Well, you're going to have roast beef and potatoes again tonight.
-** ready
-I'm nearly ready.
-It's nearly ready.
-** 标点
-No,thanks, Tom.
-OK. Thanks.
 Oh!
+What's the matter, Carol?
+Well, you're going to have roast beef and potatoes again tonight!
+
+** words
+*** ask where
+ Where's Tom?
+*** ask what
+ What did you have?
+*** have eat meal ett.
+ Have a cigarette.
+ Have a glass whisky then.
+ We can have dinner at seven o'clock.
+ Sam and I had lunch together today.
+ We had roast beef and potatoes.
+ Well, you're going to have roast beef and potatoes again tonight.
+*** ready
+ I'm nearly ready.
+ It's nearly ready.
+*** 标点
+ No,thanks, Tom.
+ OK. Thanks.
+ Oh!
 * Lesson 83 Holiday
 Hello, Sam. Come in.
 Hi, Sam.
