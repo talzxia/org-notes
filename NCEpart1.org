@@ -4,54 +4,6 @@
 #+OPTIONS: H:3
 #+OPTIONS: toc:2 (目录中只显示二级标题)
 
-#+begin_src emacs-lisp :tangle yes
-(+ 2 2);
-#+end_src
-
-#+RESULTS:
-: 4
-#+caption:  caption of the table
-| column 1 | column 2 |
-|----------+----------|
-|        3 |        3 |
-|----------+----------|
-|        3 |        3 |
-|----------+----------|
-|        5 |        6 |
-|----------+----------|
-|        7 |        8 |
-|----------+----------|
-
-#+TBLNAME: org-babel-tests
-| functionality    | block        | arg |    expected |     results | pass |
-|------------------+--------------+-----+-------------+-------------+------|
-| basic evaluation |              |     |             |             | pass |
-|------------------+--------------+-----+-------------+-------------+------|
-| emacs lisp       | basic-elisp  |   2 |           4 |           4 | pass |
-| shell            | basic-shell  |     |           6 |           6 | pass |
-| ruby             | basic-ruby   |     |   org-babel |   org-babel | pass |
-| python           | basic-python |     | hello world | hello world | pass |
-| R                | basic-R      |     |          13 |          13 | pass |
-#+TBLFM: $5='(if (= (length $3) 1) (org-sbe $2 (n $3)) (org-sbe $2)) :: $6='(if (string= $4 $5) "pass" (format "expected %S but was %S" $4 $5))
-
-
-
-
-
-
-
-
-
-#+ BEGIN RECEIVE ORGTBL tab1
-| Month | Days | Nr sold | per day |
-|-------+------+---------+---------|
-| Jan   |   23 |      55 |     2.4 |
-| Feb   |   21 |      16 |     0.8 |
-| March |   22 |     278 |    12.6 |
-#+ END RECEIVE ORGTBL tab1
-
-#+ORGTBL: SEND tab1 orgtbl-to-orgtbl :splice nil :skip 0
-| | |
 
 * Weekend
 Hello. Were you at the butcher's?
@@ -1633,7 +1585,7 @@ He didn't want to leave this house.
 No, he didn't want to leave,
 but his wife did.
 
-** Lesson 93
+* Lesson 93
 Nigel is our new next-door neighbour.
 He's a pilot.
 He was in the R.A.F.
@@ -1649,50 +1601,62 @@ But his wife isn't very lucky.
 She usually stays at home!
 
 
-|------+-----+-------+---------|
-| name | age | saray | address |
-|------+-----+-------+---------|
-| 夏   |  55 | 10000 | 泰安    |
-|------+-----+-------+---------|
-|      |     |       |         |
-|------+-----+-------+---------|
-|      |     |       |         |
-|------+-----+-------+---------|
-
 ** test
+
+*** First
+ Has Ian sold his house yet?
+ Yes, he has.
+ He sold it last week.
+ Has he moved to his new house yet?
+ No, not yet.
+ He's still here.
+ He's going to move tomorrow.
+ When? Tomorrow morning.
+ No. Tomorrow afternoon.
+ I'll miss him. 
+ He has always been a good neighbour.
+ He's a very nice person.
+ We'll miss him.
+ When will the new people move into this house?
+ I think that they'll move in the day after tomorrow.
+ Will you see Ian, today?
+ Yes, I will.
+ Please give him my regards.
+ Poor Ian!
+ He didn't want to leave this house.
+ No,he didn't want to leave, 
+ but his wife did.
+
+ err:
+ Will you see Ian today, Jenny?
+ wrong
+ Will you see Ian, today?
+
+ No, he didn't want to leave,
+ wrong
+
+ no, he didn't want to
+
+*** Second 
 Has Ian sold his house yet?
 Yes, he has.
-He sold it last week.
 Has he moved to his new house yet?
 No, not yet.
 He's still here.
 He's going to move tomorrow.
 When? Tomorrow morning.
 No. Tomorrow afternoon.
-I'll miss him. 
-He has always been a good neighbour.
-He's a very nice person.
+I'll miss him.
+He has always been a good neighboour.
+He's very nice person.
 We'll miss him.
-When will the new people move into this house?
+When will the people move into this house?
 I think that they'll move in the day after tomorrow.
-Will you see Ian, today?
+Will you see Ian today,Jenny?
 Yes, I will.
 Please give him my regards.
 Poor Ian!
 He didn't want to leave this house.
-No,he didn't want to leave, 
-but his wife did.
-
-err:
-Will you see Ian today, Jenny?
-wrong
-Will you see Ian, today?
-
 No, he didn't want to leave,
-wrong
+but his wife did!
 
-no, he didn't want to
-#+CAPTION: This is the caption for the next table (or link)
-#+LABEL: tbl:basic-data
-   | ... | ... |
-   |-----+-----|

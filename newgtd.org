@@ -1,11 +1,12 @@
 * TODO eating
-** STARTED breakfast
-SCHEDULED: <2020-05-27 Wed 07:00 +1d> DEADLINE: <2020-05-27 Wed 07:40 +1d>
+** TODO breakfast
+SCHEDULED: <2020-05-28 Thu 07:00 +1d> DEADLINE: <2020-05-28 Thu 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-26 Tue 08:03]
+   :LAST_REPEAT: [2020-05-27 Wed 08:04]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-05-27 Wed 06:56]
+   - State "DONE"       from "STARTED"    [2020-05-27 Wed 08:04]
+   CLOCK: [2020-05-27 Wed 06:56]--[2020-05-27 Wed 08:04] =>  1:08
    - State "DONE"       from "STARTED"    [2020-05-26 Tue 08:03]
    CLOCK: [2020-05-26 Tue 06:34]--[2020-05-26 Tue 08:03] =>  1:29
    - State "DONE"       from "STARTED"    [2020-05-25 Mon 08:17]
@@ -2118,12 +2119,13 @@ SCHEDULED: <2020-05-27 Wed 07:00 +1d> DEADLINE: <2020-05-27 Wed 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#C] lunch
+** STARTED [#C] lunch
 SCHEDULED: <2020-05-27 Wed 11:40 +1d> DEADLINE: <2020-05-27 Wed 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-05-26 Tue 13:55]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-05-27 Wed 11:24]
    - State "DONE"       from "STARTED"    [2020-05-26 Tue 13:55]
    CLOCK: [2020-05-26 Tue 11:20]--[2020-05-26 Tue 13:55] =>  2:35
    - State "DONE"       from "STARTED"    [2020-05-25 Mon 14:18]
@@ -12132,11 +12134,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2020-05-27 Wed 11:00 .+1d> DEADLINE: <2020-05-27 Wed 11:30 .+1d>
+   SCHEDULED: <2020-05-28 Thu 11:00 .+1d> DEADLINE: <2020-05-28 Thu 11:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-26 Tue 10:47]
+   :LAST_REPEAT: [2020-05-27 Wed 10:21]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-05-27 Wed 10:21]
+   CLOCK: [2020-05-27 Wed 09:30]--[2020-05-27 Wed 10:21] =>  0:51
    - State "DONE"       from "STARTED"    [2020-05-26 Tue 10:47]
    CLOCK: [2020-05-26 Tue 10:29]--[2020-05-26 Tue 10:47] =>  0:18
    - State "DONE"       from "STARTED"    [2020-05-25 Mon 20:05]
