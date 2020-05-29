@@ -1634,4 +1634,12 @@ People swim in the sea in the south, because in the south the sea is warm.
      - State "DONE"       from "STARTED"    [2020-05-27 Wed 09:29]
      CLOCK: [2020-05-27 Wed 08:05]--[2020-05-27 Wed 09:29] =>  1:24
      :END:
+*** 2020-05-29 Friday
+
+**** DONE 检查学生宿舍卫生 
+     CLOSED: [2020-05-29 Fri 11:24]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2020-05-29 Fri 11:24]
+     CLOCK: [2020-05-29 Fri 10:22]--[2020-05-29 Fri 11:24] =>  1:02
+     :END:
 

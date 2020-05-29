@@ -3998,6 +3998,136 @@ p notation: ox1.01p+6.4250000e
 等于 3 茶勺。编写一个程序，提示用户输入杯数，并以品脱、盎司、汤勺、茶勺为单位显示
 等价容量。思考对于该程序，为何使用浮点类型比整数类型更合适？
 
+* 第 4 章 字符串和格式化输入/输出
+本章介绍以下内容：
+
+函数：strlen（）
+
+关键字：const
+
+字符串
+
+如何创建、存储字符串
+
+如何使用 strlen（）函数获取字符串的长度
+
+用 C 预处理指令#define 和 ANSIC 和 const 修饰符创建符号常量
+
+本章重点介绍输入和输出。与程序交互和使用字符串可以编写个性化的程序，本章将详细介
+绍 C 语言的两个输入/输出函数：printf（）和 scanf（）。学会使用这两个函数，不仅能与
+用户交互，还可根据个人喜好和任务要求格式化输出。最后，简要介绍一个重要的工具-C 预
+处理器指令，并学习如何定义、使用符号常量。
+** 4.1 前导程序
+
+与前两章一样，本章以一个简单的程序开始。程序清单 4.1 与用户进行简单的交互。弯子使
+程序的形式灵活多样，代码中使用了新的注释风格。
+
+程序清单 4.1 talkback.c 程序
+
+#+BEGIN_SRC C
+  //talkback.c--演示与用户交互
+  #include<stdio.h>
+  #include<string.h>  //提供strlen（）函数的原型
+#define DENSITY 62.4  //人体密度（单位：磅/立方英尺）
+int main()
+{
+float weight, volume;
+int size, letters;
+char name[40];  //name是一个可容纳40个字符的数组
+printf("Hi! What's your first name?\n");
+scanf("%s",name);
+printf("%s, what's your weight in pounds?\n",name);
+scanf("%f",&weight);
+size=sizeof name;
+letters=strlen(name);
+volume=weight/DENSITY;
+printf("Well, %s, your volume is %2.2f cubic feet.\n",letters);
+printf("and we have %d bytes to store it.\n",size);
+return 0;
+}
+#+END_SRC
+
+运行 talkback.c 程序，输入结果如下：
+Hi! What's your first name?
+Christine
+Christine, what's your weight in pounds?
+154
+Well, Christine, your volume is 2.47 cubic feet. 
+Also, your first name has 9 letters,
+and we have 40 bytes to store it.
+
+该程序包含以下新特性。
+
+用数组（array）储存字符串（character string）。在该程序中，用户输入的名被储存在
+数组中，该数组占用内存中 40 个连续的字节，每个字节储存一个字符值。
+
+使用%s 转换说明来处理字符串的输入和输出。注意，在 scanf（）中 name 没有&前缀，而
+weight 有（稍后解释，&weight 和 name 都是地址）。
+
+用 C 预处理器把字符常量 DENSITY 定义为 62.4。
+
+用 C 函数 strlen（）获取字符串的长度。
+
+对于 BASIC 的输入/输出而言，C的输入/输出看上去有些复杂。不过，复杂换来的是程序的高
+效和方便控制输入/输出。而且，一旦熟悉用法后，会发现它很简单。
+** 4.2 字符串简介
+
+字符串（character string）是一个或多个字符的序列，如下所示：
+
+“Zing went the strings of my heart!”
+
+双引号还是字符串的一部分。双引号仅告知编译器它括起来的是字符串，正如单引号用于标
+识单个字符一样。
+*** 4.2.1 char 类型数组和 null 字符
+
+C 语言没有专门用于储存字符串的变量类型，字符串都被储存在 char 类型的数组中。数组由
+连续的存储单元组成，字符串中的字符被储存在相邻的存储单元中，每个单元储存一个字符
+（见图 4.1）。
+
+| z | i | n | g |   | w | e | n | t |   | t | h | e |   | s | t | r | i | n | g | s |   | o | f |   | m | y |   | h | e | a | r | t | ! | \0 |
+|---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----|
+
+每个储存单元 1 字节         最后为空字符
+
+图 4.1 数组中的字符串
+
+注意图 4.1 中数组末尾位置的字符\0。这是空字符（null character），C语言用它来标记字
+符串的结束。空字符不是数字 0，它是非打印字符，其 ASCII 码是（或等价于）0。C中的字符
+串一定以空字符结束，这意味着数组的容量必须至少比待存储字符串的字符数多 1。因此，
+程序清单 4.1 中的有 40 个存储单元的字符串，只能储存 39 个字符，剩下一个字留给空字符。
+
+那么，什么是数组？可以把数组看作是一行连续的多个存储单元。用更正式的说法是，数组
+是同类型数据元素的有序序列。程序清单 4.1 通过以下声明创建了一个包含 40 个存储单元
+（或元素）的数组，每个单元储存一个 char 类型的值：
+
+char name [40];
+
+name 后面的方括号表明这是一个数组，方括号中的 40 表明该数组中的元素数量。char 表明每
+个元素的类型（见图 4.2）。
+
+分配 1 个字节
+
+char ch；
+
+char 类型
+↓
+\squre
+ch
+
+分配 5 个字节
+char name[5];
+
+char 类型
+↓⇓⇓⇓⇓
+| | | | | |
+
+name
+
+图 4.2 声明一个变量和声明一个数组
+
+字符串看上去比较复杂！必须先创建一个数组，把字符串中的字符逐个放入数组，还要记得
+在末尾加上一个\0 。还好，计算机可以自己处理这些细节。
+
 
 * 总结与思考
 ** 数的类型
