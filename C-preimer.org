@@ -4212,6 +4212,53 @@ string.h 头文件包含多个与字符串相关的函数原型，包括 strlen�
 printf（）和 scanf（）都隶属标准输入和输出函数，使用 stdio.h 头文件。string.h 头文件
 中包含了 strlen()函数和其他一些与字符串相关的函数（如拷贝字符串的函数和字符串查找
 函数）。
+
+注意，程序清单 4.3 使用了两种方法处理很长的 printf（）语句。第 1 种方法是将 printf（）
+语句分为两行（可以在参数之间断为两行，但是不要在双绰号中的字符中间断开）；第 2 种
+方法是使用两个 printf（）语句打印一行内容，只在第 2 条 printf（）语句中使用换行符
+（\n）。运行该程序，其交互输出如下：
+
+What's your name? Serendipity Chance
+
+Hello, Serendipity. You are an extraordinary beging.
+
+Your name of 11 letters occupies 40 memory cells. 
+
+The phrase of praise has 31 letters and occupies 32 memory cells.\n
+
+sizeof 运算符报告，name 数组有 40 个存储单元。但是，只有前 11 个单元用来存储
+Serendipity，所以 strlen（）得出的结果是 11。name 数组的第 12 个单元储存空字符，
+strlen（）并未将其计入。图 4.4 演示了这个概念。
+
+       表示字符串结束的空字符
+
+5 个字符    ↓      通常是垃圾数据
+       ↓                        ↓
+|T|u|f|f|y|\0| | |         
+
+图 4.4strlen（）函数知道在何处停止
+
+对于 PRAISE，用 strlen（）得出的也是字符串中的字符数（包括空格和标点符号）。然而，
+sizeof 运算符给出的数更大，因为它把字符串末尾不可见的空字符也计算在内。该程序并未
+明确告诉计算机要给字符串预留多少空间，所以它必须计算双引号内的字符数。
+
+第 3 章提到过，C99 和 C11 标准专门为 sizeof 运算符的返回类型添加了%zd 转换说明，这对于
+strlen（）同样适用。对于早期的 C，还要知道 sizeof 和 strlen（）返回的实际类型（通常
+是 unsigned 或 unsigned long）。
+
+另外，还要注意一点：上一章的 sizeof 使用了圆括号，但本例没有。圆括号的使用时机否取
+决于运算对象是类型还是特定量？运算对象是类型时圆括号必不可少，但是对于特定量，可
+有可无。也就是说，对于类型，应写成 sizeof（char）或 sizeof（float）；对于特定量，
+可写成 sizeof name 或 sizeof 6.28。尽管如此，还是建议所有情况下都使用圆括号，如
+sizeof（6.28）。
+
+程序清单 4.3 中使用 strlen（）和 sizeof，完全是为了满足读者的好奇心。在实际应用中，
+strlen（）和 sizeof 是非常重要的编程工具。例如，在各种要处理字符串的程序中，strlen
+（）很有用。详见第 11 章。
+
+下面我们来学习#define 指令。
+
+
 * 总结与思考
 ** 数的类型
 *** 整形
