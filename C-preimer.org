@@ -4084,10 +4084,16 @@ weight 有（稍后解释，&weight 和 name 都是地址）。
 C 语言没有专门用于储存字符串的变量类型，字符串都被储存在 char 类型的数组中。数组由
 连续的存储单元组成，字符串中的字符被储存在相邻的存储单元中，每个单元储存一个字符
 （见图 4.1）。
-
-| z | i | n | g |   | w | e | n | t |   | t | h | e |   | s | t | r | i | n | g | s |   | o | f |   | m | y |   | h | e | a | r | t | ! | \0 |
-|---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+----|
-
+\begin{table}
+  \centering
+  \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline  
+ z&i&n&g&  &w&e&n&t&  &t&h&e  &s&t&r&i&n&g&!&0\\
+\hline 
+  \end{tabular}
+  \caption{图4.2 字符在数组中的存储}
+  \label{tab:c|}
+\end{table}
 每个储存单元 1 字节         最后为空字符
 
 图 4.1 数组中的字符串
@@ -4118,11 +4124,19 @@ ch
 分配 5 个字节
 char name[5];
 
-char 类型
-↓⇓⇓⇓⇓
-| | | | | |
+char 
 
-name
+类型
+↓⇓⇓⇓⇓
+\begin{table}
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+n&a&m&e&\o\\
+\hline
+\end{tabular}
+\end{table}
+
 
 图 4.2 声明一个变量和声明一个数组
 
