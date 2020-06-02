@@ -4,7 +4,6 @@
 #+OPTIONS: H:5
 
 #+OPTIONS: toc:2 
-#+BEGIN_SRC latex
 
   \chapter*{前言}
   \fangsong \large 1984 年 C Primer Plus 第一版问世。各版本累计销售超 55 万册。
@@ -24,7 +23,6 @@
   \songti
 
  
-#+END_SRC
 
 
 * 初识 C 语言
@@ -35,6 +33,30 @@
 - C 标准
 
 C 是一门功能强大、专业化的编程语言。
+
+f(n) = n^{5} + 4n^{2} + 2 |_{n=17}
+
+f(n) =
+  \begin{cases}
+    n/2       & \quad \text{if }\, n \, \text{ is even}\\[3pt]
+    -(n+1)/2  & \quad \text{if }\, n \,\text{ is odd}
+  \end{cases}
+
+
+
+
+\frac{n!}{k!(n-k)!} = \binom{n}{k}
+
+
+\begin{bmatrix}
+1 & 2 & 3\\
+a & b & c
+\end{bmatrix}
+
+\begin{Vmatrix}
+1 & 2 & 3\\\\
+a & b & c
+\end{Vmatrix}
 ** C 语言的起源
 
 1972 年，贝尔实验室的丹尼斯.里厅(Dennis Ritch)和肯.汤普逊(Ken Thompso)在开发
@@ -2432,35 +2454,9 @@ int。char 关键字用于指定字母和其他字符（如，#、$、%和*）�
 过去，浮点运算比整数运算慢。不过，现在许多 CPU 都包含浮点处理器，缩小了速度上的差
 距。
 
-#+BEGIN_SRC latex
 
-  \begin{table}[htp] %浮动表格环境
-  \centering %表格居中放置 
-  \caption{这里是表头}
-  \label{tab1} %用于引用
-  \begin{tabular}{|c|c|c|}%表格环境
-  \hline
-  +&.314159&1\\\hline
-  \end{tabular}
-  \end{table}
+ 
 
-  \begin{table}[htp] %浮动表格环境
-  \centering %表格居中放置 
-  \caption{图3.3以浮点格式（十进制）储存\pi的值}
-  \label{tab1} %用于引用
-  \begin{tabular}{c|c|c|c|c}%表格环境
-  \toprule[1.4pt] %1.4pt 的上划线
-  &x1&x2&x3&x4\\\hline %\hline表示画一条横线
-  A&3&4&2&1\\\hline
-  B&2&5&4&3\\\hline
-  C&5&4&3&1\\\hline
-  D&3&3&2&4\\
-  \bottomrule[1.4pt]%1.4pt 的下划线
-  \end{tabular}
-  \end{table}
-
-
-#+END_SRC
 
 ** C 语言基本数据类型 
 
@@ -4402,37 +4398,108 @@ printf("Maximum it value on this system=%d\n",INT_MAX);
 
 如果系统使用 4 字节的 int，limits.h 头文件会提供符合 4 字节 int 的 INT_MAX 和 INT_MIN。 表
  4.1 列出了 limits.h 中能找到的一些明示常量。
- \begin{table}[center]
-   \left
+
+\begin{table}[ht]
+  \centering
+  \begin{tabular}{l|l}
 \hline
 \hline
+明示常量 & 含义\\
+\hline
+CHAR\_BIT & char 类型的位数\\
+CHAR\_MAX & char 类型的最大值\\
+CHAR\_MIN & char 类型的最小值\\
+SCHAR\_MAX & signed char 类型的最大值\\
+SCHAR\_MIN & signed char 类型的最小值\\
+UCHAR\_MAX & unsigned char 类型的最大值\\
+SHRT\_MAX & short 类型的最大值\\
+SHRT\_MIN & short 类型的最小值\\
+USHRT\_MAX & unsigned short 类型的最大值\\
+INT\_MAX & int 类型的最大值\\
+INT\_MIN & int 类型的最小值\\
+UINT\_MAX & unsigned int 的最大值\\
+LONG\_MAX & long 类型的最大值\\
+LONG\_MIN & long 类型的最小值\\
+ULONG\_MAX & unsigned long 类型的最大值\\
+LLONG\_MAX & long long 类型的最大值\\
+LLONG\_MIN & long long 类型的最小值\\
+ULLONG\_MAX & unsigned long long 类型的最大值\\   
+\hline
+\hline
+  \end{tabular}
+  \caption{表4.1 limits.h中的一些明示常量}
+  \label{tab:c|}
+\end{table}
+类似地，float 头文件中也定义一些明示常量，如 FLT_DIG 和 DBL_DIG，分别表示 float 类型和
+ double 类型的有效数字位数。表 4.2 列出了 float.h 中的一些明示常量（可以使用文体编辑
+ 器打开并查看系统使用的 float.h 头文件）。表不所列都与 float 类型相关。把明示常量名
+ 中的 FLT 分别替换成 DBL 和 LDBL，即可分别表示 double 和 long double 类型对应的明示常量
+ （表中假设系统使用 2 的幂来表示浮点数）。
+ \begin{table}[ht]
+   \centering
    \begin{tabular}{l|l}
-明示常量&含义\\
-\hline
-CHAR_BIT & char 类型的位数\\
-CHAR_MAX & char 类型的最大值\\
-CHAR_MIN & char 类型的最小值\\
-SCHAR_MAX & signed char 类型的最大值\\
-SCHAR_MIN & signed char 类型的最小值\\
-UCHAR_MAX & unsigned char 类型的最大值\\
-SHRT_MAX & short 类型的最大值\\
-SHRT_MIN & short 类型的最小值\\
-USHRT_MAX & unsigned short 类型的最大值\\
-INT_MAX & int 类型的最大值\\
-INT_MIN & int 类型的最小值\\
-UINT_MAX & unsigned int 的最大值\\
-LONG_MAX & long 类型的最大值\\
-LONG_MIN & long 类型的最小值\\
-ULONG_MAX & unsigned long 类型的最大值\\
-LLONG_MAX & long long 类型的最大值\\
-LLONG_MIN & long long 类型的最小值\\
-ULLONG_MAX & unsigned long long 类型的最大值\\   
-\end{tabular}
 \hline
 \hline
-   \caption{表4.1 limits.h中的一些明示常量}
+明示常量 & 含义\\
+\hline
+FLT\_MANT\_DIG & float 类型的尾数位数\\
+FLT\_DIC & float 类型的最少有效数字位数（十进制）\\
+FLT\_MIN\_10\_EXP & 带全部有效数字的float类型的最小负指数（以10为底）\\
+FLT\_MAX\_10\_EXP & float类型的最大正指数（以10为底）\\
+FLT\_MIN & 保留全部精度的float类型最小正数\\
+FLT\_MAX & float类型的最大正数\\
+FLT\_EPSILON & 1.00和比1.00大的最小float类型值之间的差值\\
+\hline
+\hline
+   \end{tabular}
+   \caption{表4.2 float中的一些明示常量}
+   \label{tab:c|}
  \end{table}
- radius[fn:39]
+
+程序清单 4.5 演示了如何使用 float 和 limits.h 中的数据（注意，编译器要完全支持 C99 标准
+才能识别 LLONG\_MIN 标识符）。
+
+程序清单 4.5 defines.c 程序
+#+BEGIN_SRC C
+//defines.c --使用limits.h和float头文件中定义的明示常量
+#include<stdio.h
+#include<limits.h> //整形限制
+#include<float.h> //浮点型限制
+int main(void)
+{
+printf("Some number limits for this system:\n");
+printf("Biggest int:%d\n",INT_MAX);
+printf("Smallest long long:%lld\n",LLONG_MIN);
+printf("One byte=%d bits on this system.\n",CHAR_BIT);
+printf("Largest double:%e\n",DBL_MAX);
+printf("Smallest normal float:%e\n",FLT_MIN);
+printf("float precision=%d digits\n",FLT_DIG);
+printf("float epsilon=%e\n",FLT_EPSILON);
+return 0
+}
+#+END_SRC
+
+该程序的输出示例如下：
+
+Some number limits for this system:
+
+Biggest int:2147483647
+
+Smallest long long:-9223372036854775808
+
+One byte=8 bits on this system.
+
+Largest double:1.797693e+308
+
+Smallest normal float:1.175494e-38
+
+float precision=6 digits
+
+float epsilon=1.192093e-07
+
+C 预处理器是非常有用的工具，要好好利用它。本书的后面章节中会介绍更多相关应用。
+
+radius[fn:39]
 * 总结与思考
 ** 数的类型
 *** 整形
