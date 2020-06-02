@@ -1,7 +1,7 @@
 #+OPTIONS: ^:{}
 #+TITLE:  C学习笔记
 #+AUTHOR: 泰山学人   夏翁
-#+OPTIONS: H:5
+#+OPTIONS: H:4
 
 #+OPTIONS: toc:2 
 
@@ -34,8 +34,9 @@
 
 C 是一门功能强大、专业化的编程语言。
 
-f(n) = n^{5} + 4n^{2} + 2 |_{n=17}
+$f(n) = n^{5} + 4n^{2} + 2 |_{n=17}$
 
+\begin{equation}
 f(n) =
   \begin{cases}
     n/2       & \quad \text{if }\, n \, \text{ is even}\\[3pt]
@@ -43,9 +44,10 @@ f(n) =
   \end{cases}
 
 
+\end{equation}
 
 
-\frac{n!}{k!(n-k)!} = \binom{n}{k}
+$\frac{n!}{k!(n-k)!} = \binom{n}{k}$
 
 
 \begin{bmatrix}
@@ -57,6 +59,15 @@ a & b & c
 1 & 2 & 3\\\\
 a & b & c
 \end{Vmatrix}
+
+\begin{equation} |x| =
+  \begin{cases}
+      -x & \mbox{if } x < 0,\\
+      0 & \mbox{if } x = 0,\\
+      x & \mbox{if } x > 0.
+  \end{cases}
+\end{equation}
+
 ** C 语言的起源
 
 1972 年，贝尔实验室的丹尼斯.里厅(Dennis Ritch)和肯.汤普逊(Ken Thompso)在开发
