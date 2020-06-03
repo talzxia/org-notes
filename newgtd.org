@@ -10,13 +10,14 @@
   CLOCK: [2020-05-28 Thu 10:05]--[2020-05-28 Thu 10:41] =>  0:36
   :END:
 * TODO eating
-** STARTED breakfast
-SCHEDULED: <2020-06-03 Wed 07:00 +1d> DEADLINE: <2020-06-03 Wed 07:40 +1d>
+** TODO breakfast
+SCHEDULED: <2020-06-04 Thu 07:00 +1d> DEADLINE: <2020-06-04 Thu 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-06-02 Tue 07:48]
+   :LAST_REPEAT: [2020-06-03 Wed 07:52]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-06-03 Wed 06:21]
+   - State "DONE"       from "STARTED"    [2020-06-03 Wed 07:52]
+   CLOCK: [2020-06-03 Wed 06:21]--[2020-06-03 Wed 07:52] =>  1:31
    - State "DONE"       from "STARTED"    [2020-06-02 Tue 07:48]
    CLOCK: [2020-06-02 Tue 06:29]--[2020-06-02 Tue 07:48] =>  1:19
    - State "DONE"       from "STARTED"    [2020-06-01 Mon 08:24]
@@ -2143,12 +2144,14 @@ SCHEDULED: <2020-06-03 Wed 07:00 +1d> DEADLINE: <2020-06-03 Wed 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#C] lunch
-SCHEDULED: <2020-06-03 Wed 11:40 +1d> DEADLINE: <2020-06-03 Wed 13:40 +1d>
+** DONE [#C] lunch
+CLOSED: [2020-06-03 Wed 14:10] SCHEDULED: <2020-06-03 Wed 11:40 +1d> DEADLINE: <2020-06-03 Wed 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-06-02 Tue 14:06]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-06-03 Wed 14:10]
+   CLOCK: [2020-06-03 Wed 11:27]--[2020-06-03 Wed 14:06] =>  2:39
    - State "DONE"       from "STARTED"    [2020-06-02 Tue 14:06]
    CLOCK: [2020-06-02 Tue 11:27]--[2020-06-02 Tue 14:06] =>  2:39
    - State "DONE"       from "STARTED"    [2020-06-01 Mon 14:02]
@@ -4155,13 +4158,14 @@ SCHEDULED: <2020-06-03 Wed 11:40 +1d> DEADLINE: <2020-06-03 Wed 13:40 +1d>
     :END:
 13:50-14:30 检查
 
-** TODO [#B] dinner
+** STARTED [#B] dinner
    DEADLINE: <2020-06-03 Wed 17:20 +1d> SCHEDULED: <2020-06-03 Wed 18:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-06-02 Tue 19:15]
    :STYLE:    habit
    :END:
    :LOGBOOK:
+   CLOCK: [2020-06-03 Wed 16:28]
    - State "DONE"       from "STARTED"    [2020-06-02 Tue 19:15]
    CLOCK: [2020-06-02 Tue 18:06]--[2020-06-02 Tue 19:15] =>  1:09
    - State "DONE"       from "STARTED"    [2020-06-01 Mon 18:46]
@@ -18357,11 +18361,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 10:31]--[2017-10-23 一 10:47] =>  0:16
   :END:
 * TODO [#B] give a lecture(周三 12 节)
-  DEADLINE: <2020-06-03 Wed 08:00 +1w> SCHEDULED: <2020-06-03 Wed 09:30 +1w>
+  DEADLINE: <2020-06-10 Wed 08:00 +1w> SCHEDULED: <2020-06-10 Wed 09:30 +1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-05-27 Wed 05:28]
+  :LAST_REPEAT: [2020-06-03 Wed 11:28]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-06-03 Wed 11:28]
   - State "DONE"       from "STARTED"    [2020-05-27 Wed 05:28]
   - State "DONE"       from "STARTED"    [2020-05-20 Wed 05:12]
   - State "DONE"       from "STARTED"    [2020-05-13 Wed 07:08]
@@ -18632,7 +18637,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2020-06-02 Tue 07:49]--[2020-06-02 Tue 09:31] =>  1:42
   :END:
 * TODO [#a] give a lecture(周三 1234 节)
-  DEADLINE: <2020-06-03 Wed 11:30 +7d> SCHEDULED: <2020-06-03 Wed 08:00 +7d>
+  DEADLINE: <2020-06-10 Wed 11:30 +7d> SCHEDULED: <2020-06-10 Wed 08:00 +7d>
+  :PROPERTIES:
+  :LAST_REPEAT: [2020-06-03 Wed 11:28]
+  :END:
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-06-03 Wed 11:28]
+  CLOCK: [2020-06-03 Wed 07:52]--[2020-06-03 Wed 11:30] =>  3:38
+  :END:
 * DONE [#B] review
   CLOSED: [2017-10-24 二 14:09] DEADLINE: <2017-10-24 二 17:30 > SCHEDULED: <2017-10-24 二 13:40 >
   :LOGBOOK:
