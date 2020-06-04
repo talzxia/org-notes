@@ -4623,6 +4623,46 @@ printf(&"You look great in \%s\n" & , & color & );\\
 \end{tabular}
 \end{table}
 
+"The value of pi is \leftarrow 字面字符
+
+%f \leftarrow 转换说明
+
+.\n" \leftarrow 字面字符
+
+图 4.7 剖析格式字符串
+
+警告
+
+格式字符串中的转换说明一定要与后面的每个项相匹配，若忘记这个基本要求会导致严重的
+后果。千万另写成下面这样：
+
+printf("The score was Squids %d, Slugs %d.\n",scorel);
+
+这里，第 2 个%d 没有对应任何项。系统不同，导致的结果也不同。不过，出现这种问题最好
+的状况是得到无意义的值。
+
+如果只打印短语或句子，就不需要使用任何转换说明。如果只打印数据，也不用加入文字。
+程序清单 4.6 中的最后两个 printf（）语句都没问题。
+
+printf("Farewell! thou art too dear for my possessing.\n");
+
+printf("%c%d\n",'$',2*cost);
+
+注意第 2 条语句，待打印列表的第 1 项是一个字符常量，不是变量；第 2 个项是一个乘法表达
+式。这说明 printf（）使用的是值，无论是变量、常量还是表达式的值。
+
+由于 printf（）函数使用%符号来标识转换说明，因此打印%符号就成了个问题。如果单独使
+用一个%符号，编译器会认为漏掉了一个转换字符。解决方法很简单，使用两个%符号就行了：
+
+pc=2*6;
+
+printf("Only %d%% of Sally's gribbles were edible.\n",pc);
+
+下面是输出结果：
+
+Only 12% of Sally's gribbles were edible. 
+
+
 contestants[fn:44]
 farewell[fn:45]
  radius[fn:39]
