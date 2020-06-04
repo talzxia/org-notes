@@ -4557,7 +4557,74 @@ I/O 函数。它们不仅是 C 语言中的 I/O 函数，而且是最多才多�
    \label{tab:c|}
  \end{table}
 *** 4.4.2 使用 printf（）
-程序
+程序清单 4.6 的程序中使用了一些救困扶危说明。
+
+程序清单 4.6 printout.c 程序
+#+BEGIN_SRC C
+/*printout.c --使用转换说明*/
+#include<stdio.h>
+#define PI 3.141593
+int main(void)
+{
+int number=7;
+float pies=12.75;
+int cost=7800;
+printf("The %d contestants ate %fberry pies.\n",number,pies);
+printf("The value of pi is %f.\n",PI);
+printf("Farewell! thou art too dear for my possessing.\n");
+printf("%c%d\n",'$',2*cost);
+return 0;
+}
+  
+
+#+END_SRC
+
+该程序输出如下：
+
+The 7 contestants ate 12.750000 berry pies.\\
+The value of pi is 3.141593.\\
+Farewell! thou art too dear for my possessing.\\
+$15600\\
+这是 printf（）函数的格式：
+
+printf（格式字符串，待打印项 1，待打印项 2，...）；
+
+待打印项 1、待打印项 2 等都是要打印的项。它们可以是变量、甚至是打印之前先要计算的表
+达式。第 3 章提到过，格式字符串应包含每个待打印项对应的转换说明。例如，考虑下面的
+语句：
+
+printf（"The %d contestants ate %f berry pies.\n",number,pies）;
+
+格式字符串是双引号括起来的内容。上面语句的格式字符串包含了两个待打印项 number 和
+piesc 对应的两个转换说明。图 4.6 演示了 printf（）语句的另一个例子。
+
+下面是程序清单 4.6 中的另一行：
+
+printf（"The value of pi is %f.\n",PI）;
+
+该语句中，待打印项列表只有一个项——符号常量 PI。
+
+如图 4.7 所示，格式字符串包含两种形式不同的信息：
+
+实际要打印的字符：
+
+转换说。
+
+|格式字符串             |         待打印项列表|
+
+|\blacktriangledown|                  \blacktriangledown|
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+printf(&"You look great in \%s\n" & , & color & );\\
+\hline
+\end{tabular}
+\end{table}
+
+contestants[fn:44]
+farewell[fn:45]
  radius[fn:39]
 * 总结与思考
 ** 数的类型
@@ -4622,6 +4689,22 @@ int main(int argc,const char*argv[])
 
 
 * Footnotes
+
+[fn:45]farewell	英[ˌfeəˈwel]
+美[ˌferˈwel]
+n.	告别; 辞行;
+int.	再见; 再会;
+[例句]She bade farewell to her son
+她和儿子道了别。
+[其他]	复数：farewells
+ 
+
+[fn:44]contestant	英[kənˈtestənt]
+美[kənˈtestənt]
+n.	比赛者; 竞争者;
+[例句]A contestant that you are matched against.
+与你进行比赛的竞争者。
+[其他]	复数：contestants 
 
 [fn:43]再次提醒读者注意，本书作者认为“明示常量”相当于“符号常量”，经常在书中混用
 这两个术语。--译者注 
