@@ -4173,13 +4173,14 @@ SCHEDULED: <2020-06-06 Sat 11:40 +1d> DEADLINE: <2020-06-06 Sat 13:40 +1d>
     :END:
 13:50-14:30 检查
 
-** TODO [#B] dinner
+** STARTED [#B] dinner
    DEADLINE: <2020-06-05 Fri 17:20 +1d> SCHEDULED: <2020-06-05 Fri 18:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-06-04 Thu 16:39]
    :STYLE:    habit
    :END:
    :LOGBOOK:
+   CLOCK: [2020-06-05 Fri 16:40]
    - State "DONE"       from "STARTED"    [2020-06-04 Thu 16:39]
    CLOCK: [2020-06-04 Thu 16:06]--[2020-06-04 Thu 16:39] =>  0:33
    - State "DONE"       from "STARTED"    [2020-06-03 Wed 19:10]
@@ -13626,11 +13627,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
 ** TODO Copy (a  gmodel of calligraphy)
-   SCHEDULED: <2020-06-05 Fri 15:00 +1d> DEADLINE: <2020-06-05 Fri 16:30 +1d>
+   SCHEDULED: <2020-06-06 Sat 15:00 +1d> DEADLINE: <2020-06-06 Sat 16:30 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-06-04 Thu 15:53]
+   :LAST_REPEAT: [2020-06-05 Fri 16:40]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-06-05 Fri 16:40]
+   CLOCK: [2020-06-05 Fri 16:16]--[2020-06-05 Fri 16:40] =>  0:24
    - State "DONE"       from "STARTED"    [2020-06-04 Thu 15:53]
    CLOCK: [2020-06-04 Thu 15:25]--[2020-06-04 Thu 15:53] =>  0:28
    - State "DONE"       from "STARTED"    [2020-06-03 Wed 21:29]
