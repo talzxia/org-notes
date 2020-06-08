@@ -4866,6 +4866,77 @@ return 0;
 之前、标记之后的数字（本例为 10）是指定的字段宽度。尝试修改 rent 的值，看看编译器如
 何打印不同大小的值。程序清单 4.9 演示了其他组合。
 
+程序清单 4.9flag.c 程序
+#+BEGIN_SRC C
+/*flags.c--演示一些格式标记*/
+#include<stdio.h>
+int main(void)
+{
+printf("%x%X%#x\n",31,31,31);
+printf("**%d**% d**\n",42,42,-42);
+printf("**%5d**%5.3d**%05d**%05.3d**\n",6,6,6,6);
+return 0;
+}
+  
+#+END_SRC
+
+该程序的输出如下：
+
+1f1F0x1f
+
+**42**42**-42**
+
+\**    6**  006**00006**  006**
+
+第 1 行输出中，1f 是十六进制数，等于十进制数 31。第 1 行 printf（）语句中，根据%x 打印出
+1f，%F 打印出 1F，%#x 打印出 ox1f。
+
+第 2 行输出演示了如何在转换说明中用空格在输出的正值前面生成前导空格，负值前面不产
+生前导空格。这样的输出结果比较美观，因为打印出来的正值和负值在相同字段宽度下的有
+效数字位数相同。
+
+第 3 行输出演示了如何在整形格式中使用数度（%5.3d）生成足够的前导 0 以满足最小位数的
+要求（本例是 3）.然而，使用 0 标记会使得编译器用前导 0 充满整个字段宽度。最后，如果 0
+标记和精度一起出现，0标记会被忽略。
+
+下面来看看字符串格式的示例。考虑程序清单 4.10 中的程序。
+
+程序清单 4.10 stringf.c 程序
+#+BEGIN_SRC C
+/* stringf.c--字符串格式*/
+#include<stdio.h>
+#define BLURB "Authentic imitation!"
+ {
+printf("[%2s]\n,",BLURB);
+printf("[%24s]\n",BLURB);
+printf("[%24.5s]\n",BLURB);
+printf("[%-24.5s]\n",BLURB);
+return 0;
+} 
+#+END_SRC
+
+该程序的输出如下：
+
+[Authentic imitation!]\\
+[    Authentic imitation!]\\
+[                   Authe]\\
+[Authe                   ]
+
+注意，虽然第 1 个转换说明是%2s，但是字段被扩大为可容纳字符串中的所有字符。还需注意，
+精度限制了待打印字符的个数。.5 告诉 printf（）只打印 5 个字符。另外，-标记使得文本左
+对齐输出。
+
+2.学以致用
+
+学习完以上几个示例，试试如何用一个语句打印以下格式的内容：
+
+The NAME family just may be $XXXX.XX dollars richer!
+
+这里，NAME 和 XXX.XX 代表程序中的变量（如 name[40]和 cash）的值。可参考以下代码：
+
+printf（“The %s family just many be $%.2f richer!\n”,name,cash）;
+
+
 
 
 contestants[fn:44]
