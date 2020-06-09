@@ -4935,9 +4935,66 @@ The NAME family just may be $XXXX.XX dollars richer!
 这里，NAME 和 XXX.XX 代表程序中的变量（如 name[40]和 cash）的值。可参考以下代码：
 
 printf（“The %s family just many be $%.2f richer!\n”,name,cash）;
+*** 4.4.4 转换说明的意义
 
+下面深入探讨一下转换说明的意义。转换说明把以二进制格式储存在计算机中的值转换成一
+系列字符（字符串）以便于显示。例如，数字 76 在计算机内部的存储格式是二进制数
+01001100。%d 转换说明将其转换成字符 7 和 6，并显示为 76；%x 转换说明把相同的值
+（01001100）转换成十六进制记数法 4c；%c 转换说明把 01001100 转换成字符 L。
 
+转换（conversion）可能会误导读者认为原始值替换成转换后的值。实际上，转换说明是翻
+译说明，%d 的意思是“把给定的值翻译成十进制整数文本并打印出来”。
 
+1.转换不匹配
+
+前面强调过，转换说明应该与待打印的类型相匹配。通常都有多种选择。例如，如果要打印
+一个 int 类型的值，其区别在于它们分别表示一个值的形式不同。类似地，打印 double 类型
+的值时，可使用%f、%e 或%g。
+
+转换说明与待打印值的类型不匹配会看样？上一章中介绍过不匹配导致的一些问题。匹配非
+常重要，一定要牢记于心。程序清单 4.11 演示了一些不匹配的整形转换示例。
+
+程序清单 4.11.intconv.c 程序
+#+BEGIN_SRC C
+/*intconv.c --一些不匹配的整形转换*/
+#include<stdio.h>
+#define PAGES 336
+#define WORDS 65618
+int main(void)
+{
+short num=PAGES;
+short mnum=-PAGES;
+printf("num as short and unsigned short: %hd %hu\n",num,num);
+printf("-num as short and unsigned short: %hd %hu\n",mnum,mnum);
+printf("num as int and char:%d %c\n",num,num);
+printf("words as int, short, and char: %d %hd %c\n",WORDS,WORDS,WORDS);
+return 0;
+}
+  
+#+END_SRC
+
+在我们的系统中，该程序的输出如下：
+
+num as short and unsigned short: 336 336\\
+-num as short and unsigned short: -336 65200\\
+num as int and char:336 P\\
+words as int, short, and char: 656
+
+请看输出的第 1 行，num 变量对应的转换说明%hd 和%hu 输出的结果都是 336。这没问题。然而，
+第 2 行 mnum 变量对应的转换说明%u（无符号）输出的结果却为 65200，并非期望的 336。这是
+由于有符号 short int 类型的值在我们的参考系统中的表示方式所致。首先，short int 的大
+小是 2 字节；其次，系统使用二进制补码来表示有符号整数。这种方法，数字 0~32767 代表它
+们本身，而数字 32767~65535 则表示负数。其中，65535 表示-1，65534 表示-2，以此类推。
+因此，-336 表示为 65200（即，65536-336）.所以被解释成有符号 int 时，65200 代表-336；
+而被解释成无符号 int 时，65200 则代表 65200。一定要谨慎！一个数字可以被解释成两个不
+同的值。尽管并非所有的系统都使用这种方法来表示负整数，但要注意一点：别期望用%u 转
+换说明能把数字和符号分开。
+
+第 3 行演示了如果把一个大于 255 的值转换成字符会发生什么情况。在我们的系统中，short
+int 是 2 字节，char 是 1 字节。当 printf（）使用%c 打印 336 时，它只查看储存 336 的 2 字节中的
+后 1 字节。这种截断（见图 4.8）相当于用一个整数除以 256，只保留其余数。在这种情况下
+余数是 80，对应的 ASCII 值是字符 P。用专业术语来说，该数字解释成“以 256 为模（modulo  256）”
+，即该数字除以 256 后取其余数。
 
 contestants[fn:44]
 farewell[fn:45]
