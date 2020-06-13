@@ -5077,8 +5077,8 @@ long n3, n4;
 ...
 printf("%ld %ld %ld %ld\n", n1, n2, n3, n4);
 
-
-
+#+caption: 图 4.9 传递参数
+[[./图49传递参数.png]]
 
 
 contestants[fn:44]
