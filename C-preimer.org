@@ -5080,6 +5080,116 @@ printf("%ld %ld %ld %ld\n", n1, n2, n3, n4);
 #+caption: 图 4.9 传递参数
 [[./图49传递参数.png]]
 
+2.printf()的返回值
+
+第 2 章提到过，大部分 C 函数都有一个返回值，这是函数计算并返回给主调程序（call
+program）的值。例如，C库包含一个 sqrt（）函数，接受一个数作为参数，并返回该数的平
+方根。可以把返回值赋给变量，也可以用于计算，还可以作为参数传递。总之，可以把返回
+值像其他值一样使用。printf（）函数也有一个返回值，它返回打印字符的个数。如果有输
+出错误，printf（）则返回一个负值（printf（）的旧版本会返回不同的值）。
+
+printf（）的返回值是其打印输出功能的附带用途，通常很少用到，但在检查输出错误时可
+能会用到（如，在写入文件时很常用）。如果一张已满的 CD 或 DVD 拒绝写入时，程序应该采
+取相应的行动，例如终端蜂鸣 30 秒。不过，要实现这种情况必须先了解 if 语句。程序清单
+4.13 演示了如何确定函数的返回值。
+
+程序清单 4.13 prntval.c 程序
+#+BEGIN_SRC C
+/*prntaval.c -- printf()的返回值*/
+#include<stdio.h>
+int main(void)
+{
+int bph2o=212;
+int rv;
+rv=printf("%d F is water's boiling point.\n",bph2o);
+printf("The printf() function printed %d characters.\n",
+rv);
+return 0;
+}
+  
+#+END_SRC
+
+该程序输出如下：
+
+212 F is water's boiling point.
+The printf() function printed 32 characters.
+
+首先，程序用 rv=printf（\dots）;的形式把 printf（）的返回值赋给 rv。因此，该语句执
+行了两项任务；打印信息和给变量赋值。其次，注意计算针对所有字符数，包括空格和不可
+见的换行符（\\n）。
+
+3.打印较长的字符串
+
+有时，printf（）语句太长，在屏幕上不方便阅读。如果空白（空格、制表符、换行符）仅
+用于分隔不同的部分，C编译器会忽略它们。因此，一条语句可以写成多行，只需在不同部
+分之间输入空白即可。例如，程序清单 4.13 中的一条 printf（）语句：
+
+printf("The printf() function printed%d characters.\n",
+
+rv);
+
+该语句在逗号和 rv 之间断行。为了让读者知道该行未完，示例缩进了 rv。C 编译器会忽略多
+余的空白。
+
+但是，不能在双引号括起来的字符串中间断行。如果这样写：
+
+printf("The printf() function printed %d
+
+characters.\n",rv);
+
+C 编译器会报错：字符串常量中有非法字符。在字符串中，可以使用\n 来表示换行字符，但
+是不能通过按下 Enter（或 Return）键产生实际的换行符。
+
+给字符串断行有 3 种方法，如程序清单 4.14 所示。
+
+程序清单 4.14 longstrg.c 程序
+
+#+BEGIN_SRC C
+/* longstrg.c --打印较长的字符串*/
+#include<stdio.h>
+int main(void)
+{
+printf("Here's one way to print a");
+printf("long string.\n");
+printf("Here's another way to print a \
+long string.\n");
+printf("Here's the newest way to printf a "
+"long string.\n"); //ANSI C
+return 0;
+}
+  
+#+END_SRC
+
+该程序的输出如下：
+
+Here's one way to print along string.
+
+Here's another way to print a long string.
+
+Here's the newest way to printf a long string.
+
+方法 1:使用多个 printf（）语句。因为第 1 个字符串没有以\\n 字符结束，所以第 2 个字符串
+紧跟第 1 个字符串末尾输出。
+
+方法 2:用反斜杠（\\）和 Enter（或 Return）键组合来断行。这使得光标移至下一行，而且
+字符串中不会包含换行符。其效果是在下一行继续输出。但是，下一行代码必须和程序清单
+中的代码一样从最左边开始。如果缩进该行，比如缩进 5 个空格，那么这 5 个空格就会成为字
+符串的一部分。
+
+方法 3:ANSI C 引入的字符串连接。在两个双绰号括起来的字符串之间用空白隔开，C编译器
+会把多个字符串看作是一个字符串。因此，以下 3 种形式是等效的：
+
+printf("Hello, young lovers, wherever you are.");
+
+printf("Hello, young"  "lovers" ",wherever you are.");
+
+printf("Hello, young lovers"
+
+", wherever you are.");
+
+上述方法中，要记得在字符串中包含所需的空格。
+如，“young” "lovers"会成为"younglovers",而"young   "  "lovers"才是"young loverss""
+
 
 contestants[fn:44]
 farewell[fn:45]
