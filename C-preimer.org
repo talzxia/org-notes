@@ -5189,6 +5189,53 @@ printf("Hello, young lovers"
 
 上述方法中，要记得在字符串中包含所需的空格。
 如，“young” "lovers"会成为"younglovers",而"young   "  "lovers"才是"young loverss""
+*** 4.4.5 使用 scanf（） 
+
+刚学完输出，接下来我们转至输入——学习 scanf（）函数。C库包含了多个输入函数，scanf
+（）是最通用的一个，因为它可以读取不同格式的数据。当然，从键盘输入的都是文本，因
+为键盘只能生成文本字符：字母、数字和标点符号。如果要输入整数 2014，就要键入字符 2、
+0、1、4。如果要将其储存为数值而不是字符串，程序就必须把字符依次转换成数值，这就
+是 scnaf（）要做的。scanf（）把输入的字符串转换成整数、浮点数、字符或字符串，而
+printf（）正好与它相反，把整数、浮点数、字符和字符串转换成显示在屏幕上的文本。
+
+scanf（）和 printf（）类似，也使用格式字符串和参数列表。scanf（）中的格式字符串表
+明字符输入流的目标数据类型。两个函数主要的区别在参数列表中。printf（）函数使用变
+量、常量和表达式，而 scanf（）函数使用指向变量的指针。这里，读者不必了解如何使用
+指针，只需记住以下两条简单的规则：
+
+如果用 scanf（）读取基本变量类型的值，在变量名前加上一个&；
+
+如果用 scanf（）把字符串读入字符数组中，不要使用&。
+
+程序清单 4.15 中的小程序演示了这两条规则。
+
+程序清单 4.15input.c 程序
+#+BEGIN_SRC c
+  //input.c --何时使用&
+  #include<stdio.h>
+  int main(void)
+  {
+  int age;  //变量
+float assets;  //变量
+char pet[30];  //字符数组，用于储存字符串
+printf("Enter you age,assets, and favorite pet.\n");
+scanf("%d %f",&age,&assets); //这里要使用&
+scanf("%s",pet);  //字符数组不使用&
+printf("%d $%.2f%s\n",age,assets,pet);
+return 0;
+  }
+  
+#+END_SRC
+
+下面是该程序与用户交互的示例：
+
+Enter you age,assets, and favorite pet.
+
+38 
+
+92360.88 llama
+
+38 $92360.88 llama
 
 
 contestants[fn:44]
