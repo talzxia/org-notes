@@ -5229,14 +5229,116 @@ return 0;
 
 下面是该程序与用户交互的示例：
 
-Enter you age,assets, and favorite pet.
+Enter you age,assets, and favorite pet[fn:47].
 
 38 
 
 92360.88 llama
 
-38 $92360.88 llama
+38 $92360.88 llama[fn:48]
 
+scanf()使用空白（换行符、制表符和空格）把输入分成多个字段。在依次把转换说明和字
+段匹配时跳过空白。注意，上面示例的输入项（粗体部分是用户的输入）分成了两行。只要
+在每个输入项之间输入至少一个换行符、空格或制表符即可，可以在一行或多行输入：
+
+Enter your age,assets[fn:46], and favorite pet.
+
+*42*
+
+2121.45
+
+*guppy*
+
+42 $2121.45 guppy[fn:49]
+
+唯一例外的是%c 转换说明。根据%c，scanf（）会读取每个字符，包括空白。我们稍后详述
+这部分。
+
+scanf （）函数所用的转换说明与 printf（）函数几乎相同。主要的区别是，对于 float 类型
+和        d    ouble 类型，printf（）都使用%f、%e、%E、%g 和%G 转换说明。而 scanf（）只把它们用
+于        f    loat 类型，对于 double 类型时要使用 l 修饰符。表 4.6 列出了 C99 标准中常用的转换说明。
+
+\begin{table}[ht]
+  \centering
+ \caption{表4.6 ANSI C中scanf（)的转换说明}\\ 
+
+
+  \begin{tabular}{l|l}
+\hline
+    
+    转换说明&含义\\
+    \hline
+    \%c & 把输入解释成字符\\
+\hline
+    \%d&把输入解数成有符号十进制整数\\
+\hline
+    \%e、\%f、\%g、\%a&把输入解释成浮点数（C99标准新增了\%a）\\
+\hline 
+   \%E、\%F、\%G、\%A&把输入解释成浮点数（C99标准新增了\%A）\\
+\hline   
+ \%i&把输入解释成有符号十进制整数\\
+\hline   
+ \%o&把输入解释成有符号八进制整数\\
+\hline    
+\%p&把输入解释成指针（地址）\\
+\hline    
+\%s&把输入解释成字符串。从第1个非空白字符开始，\\
+            &对下一个空白字符之前的所有字符都是输入\\
+\hline    
+\%u&把输入解释成无符号十进制整数\\
+\hline    
+\%x、\%X&把输入解释成有符号十六进制整数\\
+    \hline
+  \end{tabular}
+   \label{tab:c|}
+\end{table}
+
+可以在表 4.6 所列的转换说明中（百分号和转换符之间）使用修饰符。如果要使用多个修饰
+符，必须按表 4.7 所列的顺序书写。
+
+\begin{table}[ht]
+  \centering
+  \begin{tabular}{l|l}
+    \hline
+    转换说明&含义\\
+    \hline
+    *&抑制赋值（详见后面解释）\\
+&示例：'\%*d'\\
+    \hline
+    数字&最大字段宽度。输入达到最大字段宽度处，或第1次遇到空白字符时停止\\
+            &示例：'\%10s'\\
+    \hline
+    hh&把整数作为signed char 或unsigned char 类型读取\\
+            &示例：“\%hhd”,“\%hhu”\\
+    \hline
+    ii&把整数作为long long 或unsigned long long 类型读取（C99）\\
+            &示例：“\%lld”，“\%llu”\\
+    \hline
+            &“\%hd”和“\%hi”表明把对应的值 储存为short int类型\\
+            &“\%ho”、“\%hx”和“\%hu”表明把对应的值储存为unsigned short int类型\\
+            &“\%ld”和“\%ll”表明把对应的值储存为long类型\\
+    h、l或 &“\%lo”、“\%lx”和“\%lu”表明把对应的值储存为unsigned long类型\\
+            &“\%le”、“\%lf”和“\%lg”表明把对应的值储存为double类型\\
+            &在e、f和g前面使用L而不是l，表明把对应的值被储存为long double类型。\\
+            &如果没有修饰符，d、i、o和x表明对应的值被储存为int类型，f和g表明把对应\\
+            &的值储存为float类型\\
+    \hline
+    i&在整形转换说明后面时，表明使用intmax\_t或uintmax\_t类型（C99）\\
+            &示例：“\%zd”、“\%zo”\\
+    \hline
+    z&在整数转换说明后面时，表明使用sizeof的返回类型（C99）\\
+    \hline
+    t&在整形转换说明后面时，表明使用表示两个指针差值的类型（C99）\\
+            &示例：“\%td”、“\%tx”\\
+    \hline
+  \end{tabular}
+  \caption{表4.7 scanf()转换说明中的修饰符}
+  \label{tab:c|}
+\end{table}
+
+如你所见，使用转换说明比较复杂，而且这些表中还省略了一些特性。省略的主要特性是，
+从高度格式化源中读取选定数据，如穿孔卡或其他数据记录。因为在本书中，scanf（）主
+要作为与程序交互的便利工具，所以我们不在书中讨论更复杂的特性。
 
 contestants[fn:44]
 farewell[fn:45]
@@ -5304,6 +5406,41 @@ int main(int argc,const char*argv[])
 
 
 * Footnotes
+
+[fn:49]guppy	英[ˈɡʌpi]
+美[ˈɡʌpi]
+n.	虹鳉，孔雀鱼(小型淡水观赏鱼);
+[例句]I think he is more of a genetics sponge than an originator of unique guppy genetics knowledge.
+我认为他更像是基因海绵胜过于独特孔雀鱼基因知识的创造者。
+[其他]	复数：guppies
+ 
+
+[fn:48]llama	英[ˈlɑːmə]
+美[ˈlɑːmə]
+n.	美洲驼(产于南美);
+[例句]Is your mama a llama?
+你妈妈是只美洲驼吗？
+[其他]	复数：llam 
+
+[fn:47]pet	英[pet]
+美[pet]
+n.	宠物; 宠儿; 宝贝; 红人; (昵称) 宝贝儿，乖乖;
+v.	抚摸; (爱抚地) 摩挲; 亲吻; 调情; 爱抚;
+adj.	很喜欢的; 钟爱的; 很感兴趣的;
+[例句]It is plainly cruel to keep turtles as pets.
+显然，养海龟作宠物十分残忍。
+[其他]	第三人称单数：pets 复数：pets 现在分词：petting 过去式：petted 过去分词：
+petted
+ 
+
+[fn:46]assets	英[ˈæsets]
+美[ˈæsets]
+n.	有价值的人(或事物); 有用的人(或事物); 资产; 财产;
+[词典]	asset 的复数;
+[例句]Under these laws, he said, Mr. Rice's assets could have been frozen.
+他说根据这些法规，赖斯先生的资产可能已经被冻结了。
+[其他]	原型： asset
+ 
 
 [fn:45]farewell	英[ˌfeəˈwel]
 美[ˌferˈwel]
