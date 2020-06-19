@@ -8490,11 +8490,13 @@ CLOSED: [2017-10-22 日 20:46]
   [2020-04-16 Thu 08:27]
 
 ** TODO [#B]学习强国 
-   DEADLINE: <2020-06-20 Sat 06:00 +1d> SCHEDULED: <2020-06-20 Sat 05:00 +1d>
+   DEADLINE: <2020-06-21 Sun 06:00 +1d> SCHEDULED: <2020-06-21 Sun 05:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-06-19 Fri 06:34]
+   :LAST_REPEAT: [2020-06-20 Sat 06:15]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-06-20 Sat 06:15]
+   CLOCK: [2020-06-20 Sat 05:00]--[2020-06-20 Sat 06:15] =>  1:15
    - State "DONE"       from "STARTED"    [2020-06-19 Fri 06:34]
    CLOCK: [2020-06-19 Fri 05:00]--[2020-06-19 Fri 06:34] =>  1:34
    - State "DONE"       from "STARTED"    [2020-06-18 Thu 06:02]
