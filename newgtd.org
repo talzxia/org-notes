@@ -1,8 +1,9 @@
-* STARTED [#C] Have a rest<2020-06-19 Fri .+1d> 
+* TODO [#C] Have a rest<2020-06-20 Sat .+1d> 
   :PROPERTIES:
-  :LAST_REPEAT: [2020-06-18 Thu 21:18]
+  :LAST_REPEAT: [2020-06-19 Fri 21:18]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-06-19 Fri 21:18]
   - State "DONE"       from "STARTED"    [2020-06-18 Thu 21:18]
   - State "DONE"       from "STARTED"    [2020-06-17 Wed 21:05]
   - State "DONE"       from "STARTED"    [2020-06-16 Tue 20:25]
@@ -6781,7 +6782,7 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
    DEADLINE: <2020-06-19 Fri 22:00 +1d> SCHEDULED: <2020-06-20 Sat 05:00 .+1d>
   :PROPERTIES:
   :PROPERTIES:
@@ -6790,6 +6791,7 @@ clean up spending 15 minutes
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  CLOCK: [2020-06-19 Fri 21:19]
   - State "DONE"       from "STARTED"    [2020-06-19 Fri 04:47]
   CLOCK: [2020-06-18 Thu 21:18]--[2020-06-19 Fri 04:47] =>  7:29
   - State "DONE"       from "STARTED"    [2020-06-18 Thu 03:56]
@@ -15073,12 +15075,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* STARTED [#B] browse news and free learn
-  DEADLINE: <2020-06-19 Fri 21:00 .+1d> SCHEDULED: <2020-06-19 Fri 21:20 .+1d>
+* TODO [#B] browse news and free learn
+  DEADLINE: <2020-06-20 Sat 21:00 .+1d> SCHEDULED: <2020-06-20 Sat 21:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-06-18 Thu 20:55]
+  :LAST_REPEAT: [2020-06-19 Fri 21:18]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-06-19 Fri 21:18]
+  CLOCK: [2020-06-19 Fri 19:56]--[2020-06-19 Fri 21:18] =>  1:22
   CLOCK: [2020-06-19 Fri 06:35]--[2020-06-19 Fri 06:41] =>  0:06
   - State "DONE"       from "STARTED"    [2020-06-18 Thu 20:55]
   CLOCK: [2020-06-18 Thu 16:48]--[2020-06-18 Thu 18:24] =>  1:36
