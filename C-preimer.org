@@ -5429,6 +5429,61 @@ scanf（ ）函数返回成功读取的项数。如果没有读取任何项，�
 EOF（EOF 是 stdio.h 中定义的特殊值），通常用#define 指令把 EOF 定义为-1）。我们将在第 6
 章中讨论文件结尾的相关内容以及如何利用 scanf（ ）的返回值。在读者学会 if 语句和
 while 语句后，便可使用 scanf（ ）的返回值来检测和处理不匹配的输入。
+*** 4.4.6printf()和 scanf（）的*修饰符
+
+printf（）和 scanf（）都可以使用*修饰符来修改转换说明的含义。但是，它们的用法不太
+一样。首先，我们来看 printf（）*修饰符。
+
+如果你不想预告指定字段宽度，希望通过程序来指定，那么可以用*修饰符代替字段宽度。
+但还是要用一个参数告诉函数，字段宽度应该是多少。也就是说，如果转换说明是%*d，那
+么参数列表中应包含*和 d 对应的值。这个技巧也可用于浮点值指定精度和字段宽度。程序清
+单 4.16 演示了相关用法。
+
+程序清单 4.16 varwid.c 程序
+
+#+BEGIN_SRC C
+//varwid.c --使用变宽输出字段
+#include<stdio.h>
+int main(void)
+{
+unsigned width,precision;
+int number=256;
+double weight=242.5;
+printf("Enter a field width:\n");
+scanf("%d",&width);
+printf("The number is :%*d:\n",width,number);
+printf("Now enter a width and a presision:\n");
+scanf("%d%d",&width,&precision);
+printf("Weight=%*.*f\n",width,precision,weight);
+printf("Done!\n");
+return 0;
+}  
+#+END_SRC
+
+变量 width 提供了字段宽度，number 是待打印的数字。因为转换说明中*在 d 的前面，所以在
+printf（）的参数列表中，width 在 number 的前面。同样，width 和 precision 提供打印
+weight 的格式化信息。下面是一个运行示例：
+
+Enter a field width:
+
+6
+
+The number is :256:
+
+Now enter a width and a presision:
+
+*8 3*
+
+Weight=242.500
+
+Done！
+
+这里，用户首先输入 6，因此 6 是程序使用的字段宽度。类似地，接下来用户输入 8 和 3，说明
+字段宽度是 8，小数点后面显示 3 位数字。一般而言，程序应根据 weight 的值来决定这些变量
+的值。
+
+
+
 contestants[fn:44]
 farewell[fn:45]
  radius[fn:39]
