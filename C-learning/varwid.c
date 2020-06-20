@@ -9,7 +9,7 @@ printf("Enter a field width:\n");
 scanf("%d",&width);
 printf("The number is :%*d:\n",width,number);
 printf("Now enter a width and a presision:\n");
-scanf("%d%d",&width,&precision);
+scanf("%d %d",&width,&precision);
 printf("Weight=%*.*f\n",width,precision,weight);
 printf("Done!\n");
 return 0;

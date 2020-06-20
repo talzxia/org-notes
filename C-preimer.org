@@ -5483,7 +5483,34 @@ Done！
 的值。
 
 
+scanf()中的*的用法与此不同。把*放在%和转换字符之间时，会使得 scanf（）跳过相应的
+输出项。程序清单 4.17 就是一个例子。
 
+程序清单 4.17 skip2.c 程序
+
+#+BEGIN_SRC C
+//skiptwo.c --路过输入中的前两个整数
+#include<stdio.h>
+int main(void)
+{
+int n;
+printf("Please enter three integers:\n");
+scanf("%*d %*d %d",&n);
+printf("The last integer was %d\n",n);
+return 0;
+}
+#+END_SRC
+
+程序清单 4.17 中的 scanf（）指示：跳过两个整数，把第 3 个整数拷贝给 n。下面是一个运行
+示例：
+
+Please enter three integers:
+
+*2013* *2014* *2015*
+
+The last integer[fn:50] was 2015
+
+在程序需要读取文件中特定列的内容时这项跳过功能很有用。
 contestants[fn:44]
 farewell[fn:45]
  radius[fn:39]
@@ -5550,6 +5577,14 @@ int main(int argc,const char*argv[])
 
 
 * Footnotes
+
+[fn:50]integer	英[ˈɪntɪdʒə(r)]
+美[ˈɪntɪdʒər]
+n.	整数;
+[例句]A reversible covert communication method based on integer linear transform and sorting was proposed.
+描述了一种基于整数线性变换和排序的无损隐秘传输方法仿真。
+[其他]	复数：integers
+ 
 
 [fn:49]guppy	英[ˈɡʌpi]
 美[ˈɡʌpi]
