@@ -1,4 +1,3 @@
-@@ -1,2252 +0,0 @@
 #+STARTUP: hidestars odd
 #+STARTUP: indent
 
@@ -8,6 +7,8 @@
 #+OPTIONS: toc:2 (目录中只显示二级标题)
 * Unusuall days
 *** text 
+#+BEGIN_VERSE 
+  
 It is eight o'clock.
 The children go to school by car every day, 
 but today, they are going to school on foot.
@@ -24,6 +25,8 @@ It is nine o'clock.
 Mr. Sawyer usually reads his newspaper at night.
 But he's not reading his newspaper tonight.
 At the moment, he's reading an interesting book.
+
+#+END_VERSE
 ** words
 ***** on foot 
 on foot	英[ɒn fʊt]
