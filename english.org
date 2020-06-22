@@ -9339,6 +9339,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2020-06-22 Mon 19:13]
    CLOCK: [2020-06-22 Mon 18:52]--[2020-06-22 Mon 19:13] =>  0:21
    :END:
+** DONE Review<2020-06-23 Tue 02:47>99.9% 
+   CLOSED: [2020-06-23 Tue 03:12]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-06-23 Tue 03:12]
+   CLOCK: [2020-06-23 Tue 02:47]--[2020-06-23 Tue 03:12] =>  0:25
+   :END:
 * lesson 10thirty three
 ** DONE Review<2017-10-29 日 06:56>99.1%
    CLOSED: [2017-10-29 日 07:14]
@@ -19080,11 +19086,12 @@ Where does the teacher write the assignment? The teacher writes the assignment o
 
 * New concept English
 ** TODO [#B] Book One
-   SCHEDULED:<2020-06-23 Tue 06:00 +1m>
+   SCHEDULED:<2020-07-23 Thu 06:00 +1m>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-05-23 Sat 05:52]
+   :LAST_REPEAT: [2020-06-23 Tue 04:12]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-06-23 Tue 04:12]
    - State "DONE"       from "STARTED"    [2020-05-23 Sat 05:52]
    - State "DONE"       from "STARTED"    [2020-04-23 Thu 05:32]
    - State "DONE"       from "STARTED"    [2020-03-23 Mon 05:20]
@@ -19665,11 +19672,13 @@ but his wife did!
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New English  
-  SCHEDULED: <2020-06-23 Tue 05:50 +1d> DEADLINE: <2020-06-23 Tue 06:10 +1d>
+  SCHEDULED: <2020-06-24 Wed 05:50 +1d> DEADLINE: <2020-06-24 Wed 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-06-22 Mon 05:31]
+  :LAST_REPEAT: [2020-06-23 Tue 04:01]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-06-23 Tue 04:01]
+  CLOCK: [2020-06-23 Tue 03:15]--[2020-06-23 Tue 04:01] =>  0:46
   - State "DONE"       from "STARTED"    [2020-06-22 Mon 05:31]
   CLOCK: [2020-06-22 Mon 04:47]--[2020-06-22 Mon 05:31] =>  0:44
   - State "DONE"       from "STARTED"    [2020-06-21 Sun 05:19]
