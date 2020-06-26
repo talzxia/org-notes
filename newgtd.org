@@ -2218,13 +2218,14 @@ SCHEDULED: <2020-06-27 Sat 07:00 +1d> DEADLINE: <2020-06-27 Sat 07:40 +1d>
 财经系陈卫华
 
 
-** STARTED [#C] lunch
-SCHEDULED: <2020-06-26 Fri 11:40 +1d> DEADLINE: <2020-06-26 Fri 13:40 +1d>
+** TODO [#C] lunch
+SCHEDULED: <2020-06-27 Sat 11:40 +1d> DEADLINE: <2020-06-27 Sat 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-06-25 Thu 13:22]
+   :LAST_REPEAT: [2020-06-26 Fri 14:10]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-06-26 Fri 11:54]
+   - State "DONE"       from "STARTED"    [2020-06-26 Fri 14:10]
+   CLOCK: [2020-06-26 Fri 11:54]--[2020-06-26 Fri 14:10] =>  2:16
    - State "DONE"       from "STARTED"    [2020-06-25 Thu 13:22]
    CLOCK: [2020-06-25 Thu 12:27]--[2020-06-25 Thu 13:22] =>  0:55
    - State "DONE"       from "STARTED"    [2020-06-24 Wed 14:54]
@@ -15183,6 +15184,7 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :LAST_REPEAT: [2020-06-25 Thu 21:14]
   :END:
   :LOGBOOK:
+  CLOCK: [2020-06-26 Fri 14:10]--[2020-06-26 Fri 14:18] =>  0:08
   CLOCK: [2020-06-26 Fri 06:02]--[2020-06-26 Fri 06:27] =>  0:25
   - State "DONE"       from "STARTED"    [2020-06-25 Thu 21:14]
   CLOCK: [2020-06-25 Thu 13:23]--[2020-06-25 Thu 15:16] =>  1:53
@@ -20206,9 +20208,9 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-24 二 19:26]--[2017-10-24 二 19:27] =>  0:01
   - State "DONE"       from "STARTED"    [2017-10-23 一 21:31]
   :END:
-* TODO [#A] meeting  DEADLINE: <2020-06-30 Tue 17:00 +1w> SCHEDULED: <2020-06-30 Tue 15:50 +1w>
+* TODO [#A] meeting  DEADLINE: <2020-07-07 Tue 17:00 +1w> SCHEDULED: <2020-07-07 Tue 15:50 +1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-06-23 Tue 10:22]
+  :LAST_REPEAT: [2020-06-26 Fri 16:26]
   :END:
   :PROPERTIES:
   :LAST_REPEAT: [2018-08-10 Fri 10:26]
@@ -20219,6 +20221,8 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-08-09 Thu 05:18]--[2018-08-09 Thu 05:49] =>  0:31
    :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-06-26 Fri 16:26]
+  CLOCK: [2020-06-26 Fri 14:18]--[2020-06-26 Fri 16:26] =>  2:08
   - State "DONE"       from "STARTED"    [2020-06-23 Tue 10:22]
   CLOCK: [2020-06-23 Tue 09:37]--[2020-06-23 Tue 10:22] =>  0:45
   - State "DONE"       from "STARTED"    [2020-06-12 Fri 15:01]

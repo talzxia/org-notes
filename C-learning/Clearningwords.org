@@ -1,0 +1,101 @@
+*  初识 C 语言
+
+
+*  C 语言概述
+
+* 数据和 C
+
+* 字符串和格式化输入/输出
+** 第一节
+*** talkback.c
+#+BEGIN_SRC C
+//talkback.c
+#include<stdio.h>
+#include<string.h>
+#define DENSITY 62.8
+int main(void)
+{
+float weight,valume;
+int size,letters;
+char name[40];
+printf("Hi!What's your first name?\n");
+scanf("%s",name);
+printf("%s, well, enter your weight in pounds\n");
+scanf("%f",&weight);
+size=sizeof name;
+letters=strlen(name);
+valume=weight/DENSITY;
+printf("Well, %s, your valume is %2.2f of cubic feet\n",name,valume);
+printf("also, your first name has %d letters\n",letters);
+printf("and we have %d bytes to store it.\n",size);
+return 0;
+}
+  
+#+END_SRC
+**** 运行结果 
+
+ Hi! What's your first name?
+
+ lezhai
+
+ lezhai, what's your weight in pounds?
+
+ 80
+
+ Well, lezhai, your volume is 1.28 cubic feet.
+
+ Also, your first name has 6 letters,
+
+ and we have 40 bytes to store it.
+**** 单词
+
+density[fn:1]
+
+talkback[fn:2]
+
+volume[fn:3]
+
+weight[fn:4]
+
+cubic feet[fn:5]
+
+1 千克=2.2046226 磅
+* Footnotes
+
+[fn:5] cubic feet
+英[ˈkjuːbɪk fiːt]
+美[ˈkjuːbɪk fiːt]
+网络	立方英尺; 立方尺; 立方呎; 高柜立方英寸;
+[例句]The volume of this container is 1000 cubic feet.
+该容器的容积是一千立方英尺。
+
+[fn:4] weight	英[weɪt]
+美[weɪt]
+n.	重量; 分量; 重; 重物;
+v.	在…上加重量; 使负重; (用重物) 固定; 使加权;
+[例句]What is your height and weight?
+你的身高和体重是多少？
+[其他]	第三人称单数：weights 复数：weights 现在分词：weighting 过去式：weighted
+
+[fn:3] volume	英[ˈvɒljuːm]
+美[ˈvɑːljuːm]
+n.	体积; 容积; 容量; 量; 额; 音量; 响度;
+[例句]Senior officials will be discussing how the volume of sales might be reduced.
+高层领导将要讨论销售量如何削减。
+[其他]	复数：volumes
+
+
+[fn:2] talkback	英[ˈtɔːkbæk]
+美[ˈtɔːkbæk]
+n.	(录音或播音室的) 内部联络系统，内部对讲系统;
+[例句]Talkback: what questions did you ask in your last job interview?
+反馈：你在上一次求职面试中问了什么问题？
+
+
+[fn:1] density	英[ˈdensəti]
+美[ˈdensəti]
+n.	密集; 稠密; 密度; 浓度; 密度(固体、液体或气体单位体积的质量); 密度(磁盘存储数据的可用空间);
+[例句]The region has a very high population density.
+该地区的人口密度很高。
+[其他]	复数：densities
+
