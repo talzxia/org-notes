@@ -8927,10 +8927,15 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    CLOCK: [2020-06-28 Sun 05:39]--[2020-06-28 Sun 08:40] =>  3:01
    :END:
 ** DONE Review<2020-06-29 Mon 05:04>99.0% 
-   CLOSED: [2020-06-29 Mon 05:28]
+   CLOSED: [2020-06-29 Mon 21:58]
    :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2020-06-29 Mon 21:58]
    - State "DONE"       from "STARTED"    [2020-06-29 Mon 05:28]
    CLOCK: [2020-06-29 Mon 05:03]--[2020-06-29 Mon 05:28] =>  0:25
+   :END:
+** TODO Review<2020-06-30 Tue 20:32> 
+   :LOGBOOK:
+   CLOCK: [2020-06-29 Mon 20:31]--[2020-06-29 Mon 21:59] =>  1:28
    :END:
 * lesson 7thirty two
 ** DONE Review thirty two 95.5%
