@@ -181,6 +181,19 @@
  spacemacs: evil mode 
    [2020-06-26 Fri 07:08]
 
+*** TODO [#C]https://www.bbsmax.com/A/gAJGVPwnzZ/ 
+ 不论报任何错误 都是网络源有问题，安装 spacemacs 报错的解决方式
+(setq-default
+   configuration-layer--elpa-archives
+   '(("melpa-cn" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+     ("gnu-cn" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
+     ("org-cn" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/org/")))
+清华大学的源 很快很稳定
+注意：如果你已经报错，那么 需要删除 .emacs.d/elpa 下的所有文件 重新下载即可
+emacs --insecure 
+   [[file:~/org-notes/C-learning/talkback.c][file:~/org-notes/C-learning/talkback.c]] 
+   [2020-07-02 Thu 18:09]
+
 * 区块链
 ** [[http://www.sohu.com/a/228894640_182338][别炒作区块链了，它其实是一个算法复杂一般人很费解的数据库]]
 别在炒作区块链了，不要被所谓的区块链神秘概念所迷惑。区块链其实就是一个由全体联网
