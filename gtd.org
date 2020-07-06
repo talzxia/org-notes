@@ -8336,11 +8336,15 @@ CLOSED: [2017-10-22 日 20:46]
   [2019-07-29 Mon 11:58]
 
 ** TODO [#C] C primer plus 
-   DEADLINE: <2020-07-04 Sat 10:00 +1d> SCHEDULED: <2020-07-04 Sat 09:00 +1d>
+   DEADLINE: <2020-07-07 Tue 10:00 +1d> SCHEDULED: <2020-07-07 Tue 09:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-07-03 Fri 11:02]
+   :LAST_REPEAT: [2020-07-06 Mon 11:33]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-07-06 Mon 11:33]
+   CLOCK: [2020-07-06 Mon 10:19]--[2020-07-06 Mon 11:33] =>  1:14
+   - State "DONE"       from "STARTED"    [2020-07-05 Sun 21:10]
+   - State "DONE"       from "STARTED"    [2020-07-04 Sat 17:58]
    - State "DONE"       from "STARTED"    [2020-07-03 Fri 11:02]
    CLOCK: [2020-07-03 Fri 09:46]--[2020-07-03 Fri 11:02] =>  1:16
    - State "DONE"       from "STARTED"    [2020-07-02 Thu 13:41]
@@ -8513,12 +8517,15 @@ CLOSED: [2017-10-22 日 20:46]
   
   [2020-04-16 Thu 08:27]
 
-** TODO [#B]学习强国 
-   DEADLINE: <2020-07-04 Sat 06:00 +1d> SCHEDULED: <2020-07-04 Sat 05:00 +1d>
+** DONE [#C]学习强国 
+   DEADLINE: <2020-07-05 Sun 06:00> SCHEDULED: <2020-07-05 Sun 05:00>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-07-03 Fri 07:11]
+   :LAST_REPEAT: [2020-07-05 Sun 05:07]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-07-05 Sun 05:07]
+   - State "DONE"       from "STARTED"    [2020-07-04 Sat 17:57]
+   CLOCK: [2020-07-04 Sat 07:51]--[2020-07-04 Sat 07:53] =>  0:02
    - State "DONE"       from "STARTED"    [2020-07-03 Fri 07:11]
    CLOCK: [2020-07-03 Fri 05:27]--[2020-07-03 Fri 07:11] =>  1:44
    - State "DONE"       from "STARTED"    [2020-07-02 Thu 07:16]
