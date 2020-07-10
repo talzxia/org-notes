@@ -8416,6 +8416,18 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2019-03-25 Mon 05:07]
    CLOCK: [2019-03-25 Mon 04:32]--[2019-03-25 Mon 05:07] =>  0:35
    :END:
+** DONE Review<2020-07-10 Fri 04:57>97.1% 
+   CLOSED: [2020-07-10 Fri 05:57]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-07-10 Fri 05:57]
+   CLOCK: [2020-07-10 Fri 04:57]--[2020-07-10 Fri 05:57] =>  1:00
+   :END:
+** DONE Review<2020-07-11 Sat 03:58>99.6% 
+   CLOSED: [2020-07-11 Sat 06:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-07-11 Sat 06:04]
+   CLOCK: [2020-07-11 Sat 03:57]--[2020-07-11 Sat 06:04] =>  2:07
+   :END:
 * lesson 2thirty one
 ** DONE 复习 95.0%
    CLOSED: [2016-07-25 Mon 18:10]
@@ -9022,6 +9034,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2020-07-09 Thu 05:30]
    CLOCK: [2020-07-09 Thu 05:05]--[2020-07-09 Thu 05:30] =>  0:25
+   :END:
+** DONE Review<2020-07-10 Fri 04:33>99.9% 
+   CLOSED: [2020-07-10 Fri 04:56]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-07-10 Fri 04:56]
+   CLOCK: [2020-07-10 Fri 04:33]--[2020-07-10 Fri 04:56] =>  0:23
    :END:
 * lesson 7thirty two
 ** DONE Review thirty two 95.5%
@@ -19806,11 +19824,15 @@ but his wife did!
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New English  
-  SCHEDULED: <2020-07-10 Fri 05:50 +1d> DEADLINE: <2020-07-10 Fri 06:10 +1d>
+  SCHEDULED: <2020-07-12 Sun 05:50 +1d> DEADLINE: <2020-07-12 Sun 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-07-09 Thu 06:00]
+  :LAST_REPEAT: [2020-07-11 Sat 06:12]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-07-11 Sat 06:12]
+  CLOCK: [2020-07-11 Sat 06:05]--[2020-07-11 Sat 06:12] =>  0:07
+  - State "DONE"       from "STARTED"    [2020-07-10 Fri 06:04]
+  CLOCK: [2020-07-10 Fri 05:57]--[2020-07-10 Fri 06:04] =>  0:07
   - State "DONE"       from "STARTED"    [2020-07-09 Thu 06:00]
   CLOCK: [2020-07-09 Thu 05:30]--[2020-07-09 Thu 06:00] =>  0:30
   - State "DONE"       from "STARTED"    [2020-07-08 Wed 04:45]
