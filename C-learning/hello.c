@@ -7,8 +7,9 @@
 //Copyright @ 2020 Mac All rights reserved.
 //
 #include<stdio.h>
+#include<time.h>
 int main(int orgc,const char *argvp[])
 {
-    printf("Hello, world!\n");
+    printf("Hello, world! Today is %d\n",time());
     return 0;
 }
