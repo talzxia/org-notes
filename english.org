@@ -8501,6 +8501,12 @@ j** DONE Review<2018-01-25 Thu 19:51>99.3%
    - State "DONE"       from "STARTED"    [2020-07-18 Sat 19:46]
    CLOCK: [2020-07-18 Sat 19:11]--[2020-07-18 Sat 19:46] =>  0:35
    :END:
+** DONE Review<2020-07-19 Sun 04:00>99.4% 
+   CLOSED: [2020-07-19 Sun 04:35]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-07-19 Sun 04:35]
+   CLOCK: [2020-07-19 Sun 04:00]--[2020-07-19 Sun 04:35] =>  0:35
+   :END:
 * lesson 2thirty one
 ** DONE 复习 95.0%
    CLOSED: [2016-07-25 Mon 18:10]
@@ -19897,11 +19903,13 @@ but his wife did!
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New English  
-  SCHEDULED: <2020-07-19 Sun 05:50 +1d> DEADLINE: <2020-07-19 Sun 06:10 +1d>
+  SCHEDULED: <2020-07-20 Mon 05:50 +1d> DEADLINE: <2020-07-20 Mon 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-07-18 Sat 05:58]
+  :LAST_REPEAT: [2020-07-19 Sun 05:04]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-07-19 Sun 05:04]
+  CLOCK: [2020-07-19 Sun 04:36]--[2020-07-19 Sun 05:04] =>  0:28
   - State "DONE"       from "STARTED"    [2020-07-18 Sat 05:58]
   CLOCK: [2020-07-18 Sat 05:02]--[2020-07-18 Sat 05:58] =>  0:56
   - State "DONE"       from "STARTED"    [2020-07-17 Fri 05:35]
