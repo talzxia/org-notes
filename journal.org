@@ -1888,4 +1888,14 @@ Good!
      - State "DONE"       from "STARTED"    [2020-07-17 Fri 10:06]
      CLOCK: [2020-07-17 Fri 08:48]--[2020-07-17 Fri 10:06] =>  1:18
      :END:
+*** 2020-07-19 Sunday
 
+**** DONE install fedora software 
+     CLOSED: [2020-07-19 Sun 09:21]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2020-07-19 Sun 09:21]
+     CLOCK: [2020-07-19 Sun 08:02]--[2020-07-19 Sun 09:21] =>  1:19
+     :END:
+
+texlive
+sudo yum install texlive

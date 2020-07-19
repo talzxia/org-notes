@@ -1,8 +1,9 @@
-* TODO [#C] Have a rest<2020-07-19 Sun .+1d> 
+* STARTED [#C] Have a rest<2020-07-19 Sun .+1d> 
   :PROPERTIES:
   :LAST_REPEAT: [2020-07-18 Sat 21:38]
   :END:
   :LOGBOOK:
+  CLOCK: [2020-07-19 Sun 09:21]
   - State "DONE"       from "STARTED"    [2020-07-18 Sat 21:38]
   CLOCK: [2020-07-18 Sat 20:02]--[2020-07-18 Sat 21:38] =>  1:36
   - State "DONE"       from "STARTED"    [2020-07-17 Fri 21:38]
@@ -61,13 +62,14 @@
   CLOCK: [2020-05-28 Thu 10:05]--[2020-05-28 Thu 10:41] =>  0:36
   :END:
 * TODO eating
-** STARTED breakfast
-SCHEDULED: <2020-07-19 Sun 07:00 +1d> DEADLINE: <2020-07-19 Sun 07:40 +1d>
+** TODO breakfast
+SCHEDULED: <2020-07-20 Mon 07:00 +1d> DEADLINE: <2020-07-20 Mon 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-07-18 Sat 08:19]
+   :LAST_REPEAT: [2020-07-19 Sun 08:02]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-07-19 Sun 06:26]
+   - State "DONE"       from "STARTED"    [2020-07-19 Sun 08:02]
+   CLOCK: [2020-07-19 Sun 06:26]--[2020-07-19 Sun 08:02] =>  1:36
    - State "DONE"       from "STARTED"    [2020-07-18 Sat 08:19]
    CLOCK: [2020-07-18 Sat 06:44]--[2020-07-18 Sat 08:19] =>  1:35
    - State "DONE"       from "STARTED"    [2020-07-17 Fri 08:22]
