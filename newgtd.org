@@ -1,8 +1,9 @@
-* STARTED [#C] Have a rest<2020-07-19 Sun .+1d> 
+* TODO [#C] Have a rest<2020-07-20 Mon .+1d> 
   :PROPERTIES:
-  :LAST_REPEAT: [2020-07-18 Sat 21:38]
+  :LAST_REPEAT: [2020-07-19 Sun 21:58]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-07-19 Sun 21:58]
   - State "DONE"       from "STARTED"    [2020-07-18 Sat 21:38]
   CLOCK: [2020-07-18 Sat 20:02]--[2020-07-18 Sat 21:38] =>  1:36
   - State "DONE"       from "STARTED"    [2020-07-17 Fri 21:38]
@@ -61,12 +62,13 @@
   CLOCK: [2020-05-28 Thu 10:05]--[2020-05-28 Thu 10:41] =>  0:36
   :END:
 * TODO eating
-** TODO breakfast
+** STARTED breakfast
 SCHEDULED: <2020-07-20 Mon 07:00 +1d> DEADLINE: <2020-07-20 Mon 07:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-07-19 Sun 08:02]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-07-20 Mon 07:14]
    - State "DONE"       from "STARTED"    [2020-07-19 Sun 08:02]
    CLOCK: [2020-07-19 Sun 06:26]--[2020-07-19 Sun 08:02] =>  1:36
    - State "DONE"       from "STARTED"    [2020-07-18 Sat 08:19]
@@ -2287,13 +2289,13 @@ SCHEDULED: <2020-07-20 Mon 07:00 +1d> DEADLINE: <2020-07-20 Mon 07:40 +1d>
 财经系陈卫华
 
 
-** STARTED [#C] lunch
-SCHEDULED: <2020-07-19 Sun 11:40 +1d> DEADLINE: <2020-07-19 Sun 13:40 +1d>
+** TODO [#C] lunch
+SCHEDULED: <2020-07-20 Mon 11:40 +1d> DEADLINE: <2020-07-20 Mon 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-07-18 Sat 15:10]
+   :LAST_REPEAT: [2020-07-19 Sun 13:41]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-07-19 日 12:04]
+   - State "DONE"       from "STARTED"    [2020-07-19 Sun 13:41]
    - State "DONE"       from "STARTED"    [2020-07-18 Sat 15:10]
    CLOCK: [2020-07-18 Sat 14:13]--[2020-07-18 Sat 15:10] =>  0:57
    - State "DONE"       from "STARTED"    [2020-07-17 Fri 14:08]
@@ -4394,12 +4396,14 @@ SCHEDULED: <2020-07-19 Sun 11:40 +1d> DEADLINE: <2020-07-19 Sun 13:40 +1d>
 13:50-14:30 检查
 
 ** TODO [#B] dinner
-   DEADLINE: <2020-07-19 Sun 17:20 +1d> SCHEDULED: <2020-07-19 Sun 18:40 +1d>
+   DEADLINE: <2020-07-20 Mon 17:20 +1d> SCHEDULED: <2020-07-20 Mon 18:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-07-18 Sat 19:11]
+   :LAST_REPEAT: [2020-07-19 Sun 20:33]
    :STYLE:    habit
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-07-19 Sun 20:33]
+   CLOCK: [2020-07-19 Sun 19:55]--[2020-07-19 Sun 20:33] =>  0:38
    - State "DONE"       from "STARTED"    [2020-07-18 Sat 19:11]
    CLOCK: [2020-07-18 Sat 16:16]--[2020-07-18 Sat 19:11] =>  2:55
    - State "DONE"       from "STARTED"    [2020-07-17 Fri 20:21]
@@ -6981,14 +6985,16 @@ clean up spending 15 minutes
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
 * TODO [#A] sleep
-  DEADLINE: <2020-07-19 Sun 22:00 +1d>SCHEDULED: <2020-07-20 Mon 05:00 .+1d>
+  DEADLINE: <2020-07-20 Mon 22:00 +1d>SCHEDULED: <2020-07-21 Tue 05:00 .+1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2020-07-19 Sun 04:00]
+  :LAST_REPEAT: [2020-07-20 Mon 05:10]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-07-20 Mon 05:10]
+  CLOCK: [2020-07-19 Sun 21:58]--[2020-07-20 Mon 05:10] =>  7:12
   - State "DONE"       from "STARTED"    [2020-07-19 Sun 04:00]
   CLOCK: [2020-07-18 Sat 21:38]--[2020-07-19 Sun 04:00] =>  6:22
   - State "DONE"       from "STARTED"    [2020-07-18 Sat 04:16]
@@ -10778,12 +10784,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 * TODO [#B] handwriting
 ** TODO To keep Diary
-  SCHEDULED: <2020-07-20 Mon 06:30 .+1d> DEADLINE: <2020-07-20 Mon 07:00 .+1d>
+  SCHEDULED: <2020-07-21 Tue 06:30 .+1d> DEADLINE: <2020-07-21 Tue 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-07-19 Sun 05:31]
+  :LAST_REPEAT: [2020-07-20 Mon 06:44]
   :ID:       D43AD498-462A-4AC4-B9DB-8474C66510BD
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-07-20 Mon 06:44]
+  CLOCK: [2020-07-20 Mon 06:17]--[2020-07-20 Mon 06:44] =>  0:27
   - State "DONE"       from "STARTED"    [2020-07-19 Sun 05:31]
   CLOCK: [2020-07-19 Sun 05:04]--[2020-07-19 Sun 05:31] =>  0:27
   - State "DONE"       from "STARTED"    [2020-07-18 Sat 06:24]
@@ -12731,11 +12739,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2020-07-19 Sun 11:00 .+1d> DEADLINE: <2020-07-19 Sun 11:30 .+1d>
+   SCHEDULED: <2020-07-20 Mon 11:00 .+1d> DEADLINE: <2020-07-20 Mon 11:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-07-18 Sat 19:11]
+   :LAST_REPEAT: [2020-07-19 Sun 19:55]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-07-19 Sun 19:55]
    - State "DONE"       from "STARTED"    [2020-07-18 Sat 19:11]
    - State "DONE"       from "STARTED"    [2020-07-17 Fri 06:54]
    CLOCK: [2020-07-17 Fri 06:18]--[2020-07-17 Fri 06:54] =>  0:36
@@ -14177,11 +14186,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
 ** TODO Copy (a  gmodel of calligraphy)
-   SCHEDULED: <2020-07-19 Sun 15:00 +1d> DEADLINE: <2020-07-19 Sun 16:30 +1d>
+   SCHEDULED: <2020-07-20 Mon 15:00 +1d> DEADLINE: <2020-07-20 Mon 16:30 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-07-18 Sat 20:02]
+   :LAST_REPEAT: [2020-07-19 Sun 19:55]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-07-19 Sun 19:55]
    - State "DONE"       from "STARTED"    [2020-07-18 Sat 20:02]
    CLOCK: [2020-07-18 Sat 19:54]--[2020-07-18 Sat 20:02] =>  0:08
    - State "DONE"       from "STARTED"    [2020-07-17 Fri 16:29]
@@ -15486,11 +15496,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
 
 
 * STARTED [#B] browse news and free learn
-  DEADLINE: <2020-07-19 Sun 21:00 .+1d> SCHEDULED: <2020-07-19 Sun 21:20 .+1d>
+  DEADLINE: <2020-07-20 Mon 21:00 .+1d> SCHEDULED: <2020-07-20 Mon 21:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-07-18 Sat 21:37]
+  :LAST_REPEAT: [2020-07-19 Sun 21:58]
   :END:
   :LOGBOOK:
+  CLOCK: [2020-07-20 Mon 06:53]--[2020-07-20 Mon 07:14] =>  0:21
+  - State "DONE"       from "STARTED"    [2020-07-19 Sun 21:58]
+  CLOCK: [2020-07-19 Sun 20:34]--[2020-07-19 Sun 21:58] =>  1:24
   CLOCK: [2020-07-19 Sun 05:32]--[2020-07-19 Sun 06:26] =>  0:54
   - State "DONE"       from "STARTED"    [2020-07-18 Sat 21:37]
   CLOCK: [2020-07-18 Sat 04:57]--[2020-07-18 Sat 05:02] =>  0:05
@@ -19766,11 +19779,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-23 一 21:31]
   :END:
 * TODO [#C] Physical exercise
-  DEADLINE: <2020-07-19 Sun 16:40 +1d> SCHEDULED: <2020-07-19 Sun 16:00 +1d>
+  DEADLINE: <2020-07-20 Mon 16:40 +1d> SCHEDULED: <2020-07-20 Mon 16:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-07-18 Sat 14:09]
+  :LAST_REPEAT: [2020-07-19 Sun 19:55]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-07-19 Sun 19:55]
   - State "DONE"       from "STARTED"    [2020-07-18 Sat 14:09]
   CLOCK: [2020-07-18 Sat 08:19]--[2020-07-18 Sat 14:09] =>  5:50
   - State "DONE"       from "STARTED"    [2020-07-17 Fri 20:16]
