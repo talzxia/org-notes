@@ -1909,8 +1909,10 @@ sudo yum install texlive
      :END:
 *** 2020-07-23 Thursday
 
-**** STARTED learning git 
+**** DONE learning git 
+     CLOSED: [2020-07-23 Thu 11:59]
      :LOGBOOK:
-     CLOCK: [2020-07-23 Thu 10:52]
+     - State "DONE"       from "STARTED"    [2020-07-23 Thu 11:59]
+     CLOCK: [2020-07-23 Thu 10:52]--[2020-07-23 Thu 11:59] =>  1:07
      :END:
 
