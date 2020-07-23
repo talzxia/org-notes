@@ -1916,3 +1916,12 @@ sudo yum install texlive
      CLOCK: [2020-07-23 Thu 10:52]--[2020-07-23 Thu 11:59] =>  1:07
      :END:
 
+**** DONE fedora install rust 
+     CLOSED: [2020-07-23 Thu 20:58]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2020-07-23 Thu 20:58]
+     CLOCK: [2020-07-23 Thu 18:23]--[2020-07-23 Thu 20:58] =>  2:35
+     :END:
+
+**** 今天 tex 好了，但不能自动查看 pdf 文件 
+
