@@ -1,0 +1,85 @@
+
+#+begin_src emacs-lisp :tangle yes
+(+ 2 2);
+#+end_src
+
+#+RESULTS:
+: 4
+
+#+TBLNAME: org-babel-tests
+| functionality    | block        | arg |    expected |     results | pass |
+|------------------+--------------+-----+-------------+-------------+------|
+| basic evaluation |              |     |             |             | pass |
+|------------------+--------------+-----+-------------+-------------+------|
+| emacs lisp       | basic-elisp  |   2 |           4 |           4 | pass |
+| shell            | basic-shell  |     |           6 |           6 | pass |
+| ruby             | basic-ruby   |     |   org-babel |   org-babel | pass |
+| python           | basic-python |     | hello world | hello world | pass |
+| R                | basic-R      |     |          13 |          13 | pass |
+#+TBLFM: $5='(if (= (length $3) 1) (org-sbe $2 (n $3)) (org-sbe $2)) :: $6='(if (string= $4 $5) "pass" (format "expected %S but was %S" $4 $5))
+
+
+#+ BEGIN RECEIVE ORGTBL tab1
+| Month | Days | Nr sold | per day |
+|-------+------+---------+---------|
+| Jan   |   23 |      55 |     2.4 |
+| Feb   |   21 |      16 |     0.8 |
+| March |   22 |     278 |    12.6 |
+#+ END RECEIVE ORGTBL tab1
+
+#+ORGTBL: SEND tab1 orgtbl-to-orgtbl :splice nil :skip 0
+| | |
+
+
+#+caption:  caption of the table
+| column 1 | column 2 |
+|----------+----------|
+|        3 |        3 |
+|----------+----------|
+|        3 |        3 |
+|----------+----------|
+|        5 |        6 |
+|----------+----------|
+|        7 |        8 |
+|----------+----------|
+
+
+|------+-----+-------+---------|
+| name | age | saray | address |
+|------+-----+-------+---------|
+| 夏   |  55 | 10000 | 泰安    |
+|------+-----+-------+---------|
+|      |     |       |         |
+|------+-----+-------+---------|
+|      |     |       |         |
+|------+-----+-------+---------|
+
+
+#+CAPTION: This is the caption for the next table (or link)
+ #+LABEL: tbl:basic-data
+    | ... | ... |
+    |-----+-----|
+ \begin{table}[htp] %浮动表格环境
+  \centering %表格居中放置 
+  \caption{这里是表头}
+  \label{tab1} %用于引用
+  \begin{tabular}{|c|c|c|}%表格环境
+  \hline
+  +&.314159&1\\\hline
+  \end{tabular}
+  \end{table}
+
+  \begin{table}[htp] %浮动表格环境
+  \centering %表格居中放置 
+  \caption{图3.3以浮点格式（十进制）储存\pi的值}
+  \label{tab1} %用于引用
+  \begin{tabular}{c|c|c|c|c}%表格环境
+  \toprule[1.4pt] %1.4pt 的上划线
+  &x1&x2&x3&x4\\\hline %\hline表示画一条横线
+  A&3&4&2&1\\\hline
+  B&2&5&4&3\\\hline
+  C&5&4&3&1\\\hline
+  D&3&3&2&4\\
+  \bottomrule[1.4pt]%1.4pt 的下划线
+  \end{tabular}
+  \end{table}

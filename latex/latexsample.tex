@@ -1,0 +1,95 @@
+\documentclass[a4paper,12pt]{article}%添加draft可以显示不合适的box大小
+% \usepackage{xeCJK}   
+\usepackage[UTF8,fontset=none]{ctex} %使用ctex宏包,utf8,没有指定字体,来使用xecjk指定正文字体
+\usepackage{graphicx} %插入图片使用
+\usepackage{xcolor}   
+\usepackage{fancyhdr} %页眉与页脚自定义
+\usepackage{lastpage} %得到最后一页的页号
+\usepackage{calc}    %计算parbox时使用
+\usepackage[a4paper]{geometry}%设置页边距
+
+\setmainfont{Times New Roman}%英文字体
+\setCJKmainfont{仿宋} %中文字体
+\setCJKsansfont{黑体}
+
+\def\companylogo{\includegraphics[width=2.5cm]{cover.jpg}} %公司logo图像宏定义
+\fancypagestyle{companypagestyle}{  %公司页眉页脚样式定义
+  \fancyhf{}   %清除样式
+  \fancyhead[R]{ %页眉右侧
+    \color{blue}  %设置颜色为蓝色
+    \parbox[b]{\dimexpr\linewidth-2.5cm\relax} %设置段落框宽度为总宽度-2.5cm
+    {       \begin{flushright}  %右对齐
+        \sffamily \bfseries  \Large{信息技术工程系} %加粗 大字体
+        \\[5pt] \footnotesize{Department of information technology engineering}  
+      \end{flushright}
+    }
+  }
+  \fancyhead[L] %页眉右侧
+  {
+    \parbox[b]{2.5cm} %宽度为2.5cm
+    {
+      \begin{center}  %logo图像中间对齐
+        \companylogo
+      \end{center}
+    }
+  }
+  \fancyfoot[C] %页脚中部
+  {   \color{blue}  
+    \parbox[b]{\linewidth}
+    {
+      \begin{center}
+        \sffamily \bfseries   \thepage /\pageref{LastPage}
+      \end{center}
+    }
+  }
+  
+  \setlength{\headheight}{54pt} %设定页眉高度为54pt
+  % \renewcommand{\headrulewidth}{0pt} %%没有headrule
+  \renewcommand{\headrule} 
+  {   
+    \color{blue} \hrule
+  }
+  \renewcommand{\footrule}
+ {   
+    \color{blue}  \hrule
+  }
+}
+
+\pagestyle{companypagestyle} %使用公司页眉页脚模板
+% \usepackage{lipsum}  %范例文本
+
+\begin{document} 
+
+\begin{center}
+  {\large \bfseries   2020年工作计划}
+\end{center}
+
+\large{  { 信息工程系2014年科研服务工作总结\\}}
+依据学院发展的总体部署以及2015年工作目标，以课题研究为基础，突出科研为各生产厂的服务功能，在技术中心组织和各单位的配合下，2014年科研工作在项目申报立项、过程管理、成果转化等方面积极开展工作，现总结如下。\\
+一、加强各类科研项目申报立项工作\\
+\\2014年技术中心重点突出科研为各生产厂的服务功能，积极引导各生产厂参与科研项目，今年共组织申报集团科研项目12项，1月22日，组织召开了2014年科研项目立项专家评审会，评审专家针对立项背景、国内外技术水平、主要研究内容、关键技术、创新点、工艺路线、目标进度以及经费预算等方面等方面进行评审，提出了10项立项建议。\\
+二、加强对科研项目的过程规范管理\\
+今年加大了对集团课题研究、结题的指导与监督力度。加强了对所有在研课题进行跟踪服务，了解研究情况，督促研究进度，提供服务咨询。\\
+4月19日，组织召开2014年度立项的科研项目结题验收及阶段检查专家评审会，分别从项目的研究进展、取得的阶段性成果、对公司经营的支撑作用、存在的问题、科研经费使用情况、下阶段研究计划等方面进行了检查，经过评审，3个项目通过结题验收、准予结题；
+10月10、11日，组织召开2014年立项的科研项目阶段检查专家评审会。经过专家评审，11个科研项目中有10项有效地开展了工作，并取得了较好的研究成果，检查结果评价为“良好”，1项由于受到设备改造进度的影响，没有达到项目责任书的要求。\\
+三、加强科研项目成果转化\\
+2014年，技术中心积极推动做好科研成果的转化运用工作。截止目前，科研项目共实现增效510万元，发表论文5篇，\\
+四、加大科研投入和对科研人员的奖励力度\\
+2014年加大了科研投入，鼓励各单位积极申报集团科研项目，参与科研和新产品开发工作，对取得重大技术突破或降本增效显著的项目按照《科研项目管理办法》给予适当奖励。2013年，科研项目总投资98万，比2013年增加41.69万元，其中：资金本36.2万元，制造费61.8万元。比2013年增加3.78万元，极大地鼓舞了科研人员的工作热情。
+五、加强集团内外交流，营造良好的科研环境\\
+公司，为我公司的科研工作开展创造了一个良好的外部环境。\\
+
+
+\null
+\vfill  %将之后的内容置于该页底部
+\begin{minipage}{0.94\textwidth}  
+  \begin{flushright}   %右对齐
+    {\Large 撰稿人:\underline{王 五\hspace{3cm}}} \\[10pt]
+    {\Large 审核人:\underline{李 四\hspace{3cm}}} \\[0.5cm]
+    {\large \color{blue} 信息技术工程系（签章）} \\[0.5cm]
+    {\large \today}
+    
+  \end{flushright}
+\end{minipage}
+% \newpage
+\end{document}

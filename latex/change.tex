@@ -1,0 +1,12 @@
+\documentclass{article}
+\usepackage[final]{changes}
+\definechangesauthor[name={Per cusse}, color=orange]{per}
+\setremarkmarkup{(#2)}
+\begin{document}
+This is \added[id=per,remark={we need this}]{new} text.
+This is \added[remark={has to be in it}]{new} text.
+This is \deleted[id=per,remark=obsolete]{unnecessary}text.
+This is \replaced{nice}{bad} text.
+\listofchanges
+\end{document}
+
