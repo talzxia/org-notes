@@ -67,13 +67,14 @@
   CLOCK: [2020-05-28 Thu 10:05]--[2020-05-28 Thu 10:41] =>  0:36
   :END:
 * TODO eating
-** STARTED breakfast
-SCHEDULED: <2020-07-24 Fri 07:00 +1d> DEADLINE: <2020-07-24 Fri 07:40 +1d>
+** TODO breakfast
+SCHEDULED: <2020-07-25 Sat 07:00 +1d> DEADLINE: <2020-07-25 Sat 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-07-23 Thu 10:39]
+   :LAST_REPEAT: [2020-07-24 Fri 08:40]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-07-24 Fri 07:11]
+   - State "DONE"       from "STARTED"    [2020-07-24 Fri 08:40]
+   CLOCK: [2020-07-24 Fri 07:11]--[2020-07-24 Fri 08:40] =>  1:29
    - State "DONE"       from "STARTED"    [2020-07-23 Thu 10:39]
    CLOCK: [2020-07-23 Thu 06:51]--[2020-07-23 Thu 07:39] =>  0:48
    - State "DONE"       from "STARTED"    [2020-07-22 Wed 10:15]
@@ -2302,12 +2303,13 @@ SCHEDULED: <2020-07-24 Fri 07:00 +1d> DEADLINE: <2020-07-24 Fri 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#C] lunch
+** STARTED [#C] lunch
 SCHEDULED: <2020-07-24 Fri 11:40 +1d> DEADLINE: <2020-07-24 Fri 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-07-23 Thu 14:43]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-07-24 Fri 12:02]
    - State "DONE"       from "STARTED"    [2020-07-23 Thu 14:43]
    CLOCK: [2020-07-23 Thu 12:17]--[2020-07-23 Thu 14:43] =>  2:26
    - State "DONE"       from "STARTED"    [2020-07-22 Wed 18:46]
@@ -9797,11 +9799,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 * TODO to clen up the offic
-  DEADLINE: [2020-06-04 Thu 07:50 +4d] SCHEDULED: <2020-07-26 Sun 08:20 +4d>
+  DEADLINE: [2020-06-04 Thu 07:50 +4d] SCHEDULED: <2020-07-30 Thu 08:20 +4d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-07-22 Wed 18:28]
+  :LAST_REPEAT: [2020-07-24 Fri 08:51]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-07-24 Fri 08:51]
+  CLOCK: [2020-07-24 Fri 08:40]--[2020-07-24 Fri 08:51] =>  0:11
   - State "DONE"       from "STARTED"    [2020-07-22 Wed 18:28]
   - State "DONE"       from "STARTED"    [2020-07-18 Sat 16:15]
   - State "DONE"       from "STARTED"    [2020-07-14 Tue 11:06]
@@ -19843,11 +19847,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-23 一 21:31]
   :END:
 * TODO [#C] Physical exercise
-  DEADLINE: <2020-07-24 Fri 16:40 +1d> SCHEDULED: <2020-07-24 Fri 16:00 +1d>
+  DEADLINE: <2020-07-25 Sat 16:40 +1d> SCHEDULED: <2020-07-25 Sat 16:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-07-23 Thu 10:51]
+  :LAST_REPEAT: [2020-07-24 Fri 12:02]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-07-24 Fri 12:02]
+  CLOCK: [2020-07-24 Fri 09:42]--[2020-07-24 Fri 12:02] =>  2:20
   - State "DONE"       from "STARTED"    [2020-07-23 Thu 10:51]
   CLOCK: [2020-07-23 Thu 07:39]--[2020-07-23 Thu 10:51] =>  3:12
   - State "DONE"       from "STARTED"    [2020-07-22 Wed 18:47]
@@ -25147,8 +25153,11 @@ BCD
 
 ThisKKKK
 * DONE [#c] Experience Fedora
-  CLOSED: [2020-07-24 Fri 07:11]
+  CLOSED: [2020-07-24 Fri 09:42]
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-07-24 Fri 09:42]
+  - State "STARTED"    from "DONE"       [2020-07-24 Fri 08:51]
+  CLOCK: [2020-07-24 Fri 08:51]--[2020-07-24 Fri 09:42] =>  0:51
   - State "DONE"       from "STARTED"    [2020-07-24 Fri 07:11]
   CLOCK: [2020-07-24 Fri 06:09]--[2020-07-24 Fri 07:11] =>  1:02
   CLOCK: [2020-07-22 Wed 05:56]--[2020-07-22 Wed 07:18] =>  1:22
