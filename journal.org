@@ -1932,4 +1932,12 @@ sudo yum install texlive
      - State "DONE"       from "STARTED"    [2020-07-28 二 16:39]
      CLOCK: [2020-07-28 二 08:34]--[2020-07-28 二 13:49] =>  0:05
      :END:
+*** 2020-07-29 Wednesday
+
+**** DONE return to home 
+     CLOSED: [2020-07-29 Wed 16:38]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2020-07-29 Wed 16:38]
+     CLOCK: [2020-07-29 Wed 08:36]--[2020-07-29 Wed 12:28] =>  0:02
+     :END:
 
