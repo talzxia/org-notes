@@ -1,4 +1,4 @@
-//hellotest.c
+// hellotest.c
 #include<stdio.h>
 int main(void)
 {
