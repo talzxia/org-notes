@@ -1978,3 +1978,21 @@ It is beside a park.
 The park is on the right.
 Some children are coming out of the building.
 Some of them are going into the park.
+*** 2020-07-31 Friday
+
+**** DONE China bank 
+     CLOSED: [2020-07-31 Fri 20:15]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2020-07-31 Fri 20:15]
+     CLOCK: [2020-07-31 Fri 08:03]--[2020-07-31 Fri 10:45] =>  1:32
+     :END:
+
+**** DONE go to jinan  
+     CLOSED: [2020-07-31 Fri 20:23]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2020-07-31 Fri 20:23]
+     - State "STARTED"    from "DONE"       [2020-07-31 Fri 20:20]
+     CLOCK: [2020-07-31 Fri 10:40]--[2020-07-31 Fri 18:23] =>  0:03
+     - State "DONE"       from "STARTED"    [2020-07-31 Fri 20:19]
+     :END:
+
