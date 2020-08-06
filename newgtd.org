@@ -83,13 +83,14 @@
   CLOCK: [2020-05-28 Thu 10:05]--[2020-05-28 Thu 10:41] =>  0:36
   :END:
 * TODO eating
-** STARTED breakfast
-SCHEDULED: <2020-08-06 Thu 07:00 +1d> DEADLINE: <2020-08-06 Thu 07:40 +1d>
+** TODO breakfast
+SCHEDULED: <2020-08-07 Fri 07:00 +1d> DEADLINE: <2020-08-07 Fri 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-05 Wed 11:26]
+   :LAST_REPEAT: [2020-08-06 Thu 08:35]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-08-06 Thu 07:17]
+   - State "DONE"       from "STARTED"    [2020-08-06 Thu 08:35]
+   CLOCK: [2020-08-06 Thu 07:17]--[2020-08-06 Thu 08:35] =>  1:18
    - State "DONE"       from "STARTED"    [2020-08-05 Wed 11:26]
    CLOCK: [2020-08-05 Wed 07:31]--[2020-08-05 Wed 08:06] =>  0:35
    - State "DONE"       from "STARTED"    [2020-08-04 Tue 09:36]
@@ -2344,12 +2345,13 @@ SCHEDULED: <2020-08-06 Thu 07:00 +1d> DEADLINE: <2020-08-06 Thu 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#C] lunch
+** STARTED [#C] lunch
 SCHEDULED: <2020-08-06 Thu 11:40 +1d> DEADLINE: <2020-08-06 Thu 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-08-05 Wed 14:25]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-08-06 Thu 11:03]
    - State "DONE"       from "STARTED"    [2020-08-05 Wed 14:25]
    CLOCK: [2020-08-05 Wed 12:57]--[2020-08-05 Wed 14:25] =>  1:28
    - State "DONE"       from "STARTED"    [2020-08-04 Tue 14:12]
@@ -12923,11 +12925,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2020-08-06 Thu 11:00 .+1d> DEADLINE: <2020-08-06 Thu 11:30 .+1d>
+   SCHEDULED: <2020-08-07 Fri 11:00 .+1d> DEADLINE: <2020-08-07 Fri 11:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-05 Wed 20:35]
+   :LAST_REPEAT: [2020-08-06 Thu 11:02]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-08-06 Thu 11:02]
+   CLOCK: [2020-08-06 Thu 09:57]--[2020-08-06 Thu 11:02] =>  1:05
    - State "DONE"       from "STARTED"    [2020-08-05 Wed 20:35]
    CLOCK: [2020-08-05 Wed 20:14]--[2020-08-05 Wed 20:21] =>  0:07
    - State "DONE"       from "STARTED"    [2020-08-04 Tue 11:36]
