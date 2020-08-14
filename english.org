@@ -7290,6 +7290,18 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2020-08-14 Fri 20:09]
    CLOCK: [2020-08-14 Fri 19:54]--[2020-08-14 Fri 20:09] =>  0:15
    :END:
+** DONE Review<2020-08-15 Sat 03:56>99.7% 
+   CLOSED: [2020-08-15 Sat 04:10]jjj xwdrrrqj xwdrrqjj xwdrrrqj xwdr
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-08-15 Sat 04:10]
+   CLOCK: [2020-08-15 Sat 03:55]--[2020-08-15 Sat 04:10] =>  0:15
+   :END:
+** DONE Review<2020-08-15 Sat 04:13>100% 
+   CLOSED: [2020-08-15 Sat 04:27]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-08-15 Sat 04:27]
+   CLOCK: [2020-08-15 Sat 04:12]--[2020-08-15 Sat 04:27] =>  0:15
+   :END:
 * lesson 46twenty nine
 ** DONE Review twenty nine 96.3%
    CLOSED: [2016-08-13 六 16:24]
@@ -20165,11 +20177,15 @@ but his wife did!
   CLOCK: [2018-01-01 一 05:13]--[2018-01-01 一 05:20] =>  0:07
   :END:
 * TODO New English  
-  SCHEDULED: <2020-08-15 Sat 05:50 +1d> DEADLINE: <2020-08-15 Sat 06:10 +1d>
+  SCHEDULED: <2020-08-16 Sun 05:50 +1d> DEADLINE: <2020-08-16 Sun 06:10 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-08-14 Fri 05:49]
+  :LAST_REPEAT: [2020-08-15 Sat 05:57]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-08-15 Sat 05:57]
+  CLOCK: [2020-08-15 Sat 05:33]--[2020-08-15 Sat 05:57] =>  0:24
+  - State "DONE"       from "STARTED"    [2020-08-15 Sat 04:54]
+  CLOCK: [2020-08-15 Sat 04:27]--[2020-08-15 Sat 04:54] =>  0:27
   - State "DONE"       from "STARTED"    [2020-08-14 Fri 05:49]
   CLOCK: [2020-08-14 Fri 05:21]--[2020-08-14 Fri 05:49] =>  0:28
   - State "DONE"       from "STARTED"    [2020-08-13 Thu 04:33]
