@@ -6330,6 +6330,79 @@ unsigned long 的别名。这样，在使用 size_t 类型时，编译器会根�
 
 C99 做了进一步调整，新增了%zd 转换说明用于 printf（）显示 size_t 类型的值。如果系统不
 支持%zd，可使用%u 或%lu 代替%zd。
+*** 5.3.2 求模运算符：%
+
+求模运算符（modulus operator）用于整数运算。求模运算符给出其左侧整数除以右侧的余
+数（remainder）。例如，13%5（读作“13 求模 5”）得 3，因为 13 比 5 的两倍多 3，即 13 除以 5 的
+余数是 3。求模运算符只能用于整数，不能用于浮点数。
+乍一看会认为求模运算符像是数学家使用的深奥符号，但是实际不它非常有用。求模运算符
+用于控制程序流。例如，假设你正在设计一个账单预算程序，每 3 个月要加进一笔额外费用。
+这种情况可以在程序中对月份求模 3（即，mouth%3），并检查结果不否为 0，如果为 0，但加
+进额外的费用。等学到第 7 章的 if 语句后，读者会更明白。
+
+程序清单 5.9 演示了%运算符的另一种用途。同时，该程序也演示了 while 循环的另一种用法。
+
+程序清单 5.9 main_sec.c 程序
+#+BEGIN_SRC  C
+  //main_sec.c --把秒数转换成分和秒
+  #include<stdio.h>
+  #define SEC_PER_MIN 60 //1分钟60秒
+  int main(int argc, char *argv[])
+  {
+      int sec,min,left;
+      printf("Covert seconds to minutes and seconds!\n");
+      printf("Enter the number of seconds (<=0 to quit):\n");
+      scanf("%d",&sec);  //读取秒数
+      while(sec>0)
+      {
+          min=sec/SEC_PER_MIN;  //截断分钟娄
+          left=sec%SEC_PER_MIN; //剩下的秒数
+          printf("%d seconds is %d minutes, %d seconds.\n",sec,min,left);
+          printf("Enter next value (<=0 to quit):\n");
+          scanf("%d",&sec);
+      }
+      printf("Done!\n");
+    
+      return 0;
+  }
+
+#+END_SRC
+
+该程序的输出如下：
+
+Covert seconds to minutes and seconds!
+Enter the number of seconds (<=0 to quit):
+70
+70 seconds is 1 minutes, 10 seconds.
+Enter next value (<=0 to quit):
+120
+120 seconds is 2 minutes, 0 seconds.
+Enter next value (<=0 to quit):
+0
+Done!
+
+程序清单 5.2 使用一个计数器来控制 while 循环。当计数器超出给定的大小时，循环终止。而
+程序清单 5.9 则通过 scanf（）为变量 sec 获取一个新值。只要该值为正，循环就继续。当用
+户输入一个 0 或负值时，循环退出。这两种情况设计的要点是，每次循环都会修改被测试的
+变量值。
+
+负数求模如何进行？C99 规定“趋零截断”之前，该问题的处理方法很多。但自从有了这条规
+则之后，如果第 1 个运算对象是负数，那么求模的结果为负数;如果第 1 个运算对象是正数，
+那么求模的结果也是正数：
+
+11/5 得 2，11%5 得 19.0
+
+11/-5 得-2，11%-2 得 1
+
+-11/-5 得 2，-11%-5 得-1
+
+-11/5 得-2， -11%5 得-1 
+
+如果当前系统不支持 C99 标准，会显示不同的结果。实际上，标准规定：无论何种情况，只
+要 a 和 b 都是整数值，便可通过 a-（a/b）*b 来计算 a%b。例如，可以这样计算-11%5:
+
+-11-（-11/5）*5=-11-（-2）*5=-11-（-10）=-1
+
 * 总结与思考
 ** 数的类型
 *** 整形
