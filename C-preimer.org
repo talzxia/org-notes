@@ -6473,6 +6473,129 @@ printf("%10.1f %20.2f inches\n",shoe,foot);
 递增后的值小于 18.5，则执行花括号内的语句一次。然后，shoe 的值再递增 1，重复刚才的
 步骤，直到 shoe 的值不小于 18.5 为止。注意，我们把 shoe 的初始值从 3.0 改为 2.0，因为在对
 foot 第 1 次求值之前，shoe 已经递增了 1（见图 5.4）
+
+其次，这样做有什么好处？它使得程序更加简洁。更重要的是，它把控制循环的两个过程集
+中在一个地方。该循环的主要过程是判断是否继续循环（本例中，要检查鞋子的尺码是否小
+于 18.5），次要过程是改变待温度的元素(本例中是递增的尺码)。
+
+如果忘记改变鞋子的尺码，shoe 的值一直小于 18.5，循环不会停止。计算机将陷入无限循环
+（infinite loop）中，生成无数相同的行。最后，只能强行关闭这个程序。把循环测试和
+更新循环放在一处，就不会忘记更新循环。
+
+但是，把两个操作合并在一个表达式中，降低了代码的可读性，让代码难以理解。而且，还
+容易产生计数错误。
+
+递增运算符的另一个优点是，通常它生成的机器语言代码效率更高，因为它和实际的机器语
+言指令很相似。尽管如此，随着商家推出的 C 编译器越来越智能，这一优势可能会消失。一
+个智能的编译器可以把 x=x+1 当作++x 对待。
+
+最后，递增运算符还有一个在某些场合特别有用的特性。我们通过程序清单 5.11 来说明。
+
+程序清单 5.11 post_pre.c 程序
+#+BEGIN_SRC  C
+  //post_pre.c --前缀和后缀
+  #include<stdio.h>
+  int main(int argc, char *argv[])
+  {
+      int a=1,b=1;
+      int a_post,pre_b;
+      a_post=a++;//后缀递增
+      pre_b=++b; //前缀递增
+      printf("a a_post b pre_b \n");
+      printf("%1d %5d %5d\n",a, a_post,b,pre_b);
+      return 0;
+  }
+
+#+END_SRC
+
+如果你的编译器没问题，那么程序的输出应该是：
+
+a    a_post  b    pre_b
+
+2    1        2     2
+
+a 和 b 都递增了 1，值皆为 2，但是，a_post 是 a 递增之前的值，而 pre_b 是 b 递增之后的值。这
+就是++的前缀形式的后缀形式的区别（见图 5.5）
+
+a_post=a++;   //后缀：使用 a 的值后，递增 a 
+
+pre_b=++b;    //前缀：使用 b 的值前，递增 b.22.32
+
+单独使用递增运算符时（如，ego++；），使用哪种形式都没关系。但是，当运算符和运算
+对象是更复杂表达式的一部分时（如上面的示例），使用前缀或后缀的效果不同。例如，我
+们曾建议用下面的代码：
+
+while(++shoe<18.5)
+
+该测试条件相当于提供了一个鞋子尺码到 18 的表。如果使用 shoe++而不是++shoes，尺码表
+会增至 19。因为 shoe 会在与 18.5 进行比较之后才递增，而不是先递增再比较。
+
+当然，使用下面这种形式也没错：
+
+shoe=shoe+1;
+
+只不过，有人会怀疑你是否是真正的 C 程序员。
+
+在学习本书的过程中，应多留意使用递增运算符的例子。自己思考是否能互换使用前缀和后
+缀形式，或者当前环境是否只能使用某种形式。
+
+如果使用前缀形式和后缀形式会对代码产生不同的影响，那么最为明智的是还要那样使用它
+们。例如，不要使用下面的语句：
+
+b=++i;//如果使用 i++，会得到不同的结果
+
+应该使用下列语句：
+
+++i；//第 1 行
+
+b=i；//如果第 1 行使用的是 i++，并不会影响 b 的值
+
+尽管如此，有时小心翼翼地使用会更有意思。所以，本书会根据实际情况，采用不同的写法。
+*** 5.3.4 递减运算符：--
+
+每种形式的递增运算符都有一个递减运算符（decrement operator）与之对应，用--代替++
+即可：
+
+--count；//前缀形式的递减运算符
+
+count--；//后缀形式的递减运算符
+
+程序清单 5.12 演示了计算机可以是位出色的填词家。
+
+程序清单 5.12bottles.c 程序
+#+BEGIN_SRC  C
+  #include<stdio.h>
+  #define MAX 100
+  int main(int argc, char *argv[])
+  {
+      int count=MAX+1;
+      while(--count >0)
+      {
+          printf("%d bottles of spring water on the wall, %d bottles of spring water!\n",count,count);
+          printf("Take one down and pass it around,\n");
+          printf("%d bottles of spring water!\n\n",count-1);
+      }
+      return 0;
+  }
+
+
+#+END_SRC
+
+该程序的输出如下（篇幅有限，省略了大部分输出）：
+
+2 bottles of spring water on the wall, 2 bottles of spring water!
+Take one down and pass it around,
+1 bottles of spring water!
+
+1 bottles of spring water on the wall, 1 bottles of spring water!
+Take one down and pass it around,
+0 bottles of spring water!
+
+显然，这位填词家在复数表达上有点问题。在学完第 7 章中的条件运算符后，可以解决这个
+问题。
+
+顺带一提，>运算符表示“大于”，<运算符表示“小于”，它们都是关系运算符（relational
+operator）。我们将在第 6 章中详细介绍关系运算符。
 * 总结与思考
 ** 数的类型
 *** 整形
