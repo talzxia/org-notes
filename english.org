@@ -7320,9 +7320,12 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2020-08-17 Mon 16:21]
    CLOCK: [2020-08-17 Mon 16:07]--[2020-08-17 Mon 16:21] =>  0:14
    :END:
-** DONE Review<2020-08-17 Mon 16:22> 
-   CLOSED: [2020-08-17 Mon 16:24]
+** DONE Review<2020-08-17 Mon 16:22>99.9% 
+   CLOSED: [2020-08-17 Mon 21:03]
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-08-17 Mon 21:03]
+   - State "STARTED"    from "DONE"       [2020-08-17 Mon 20:50]
+   CLOCK: [2020-08-17 Mon 20:50]--[2020-08-17 Mon 21:03] =>  0:13
    - State "DONE"       from "STARTED"    [2020-08-17 Mon 16:24]
    CLOCK: [2020-08-17 Mon 16:22]--[2020-08-17 Mon 16:24] =>  0:02
    :END:
