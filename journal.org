@@ -2300,4 +2300,12 @@ The pictures are on the wall.
      - State "DONE"       from "STARTED"    [2020-08-15 Sat 16:06]
      CLOCK: [2020-08-15 Sat 08:20]--[2020-08-15 Sat 12:16] =>  0:06
      :END:
+*** 2020-08-17 Monday
+
+**** DONE 创城会 
+     CLOSED: [2020-08-17 Mon 15:40]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2020-08-17 Mon 15:40]
+     CLOCK: [2020-08-17 Mon 14:17]--[2020-08-17 Mon 15:40] =>  0:02
+     :END:
 
