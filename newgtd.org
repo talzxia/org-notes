@@ -1,8 +1,9 @@
-* TODO [#C] Have a rest<2020-08-19 Wed .+1d> 
+* TODO [#C] Have a rest<2020-08-21 Fri .+1d> 
   :PROPERTIES:
-  :LAST_REPEAT: [2020-08-18 Tue 19:25]
+  :LAST_REPEAT: [2020-08-20 Thu 05:47]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:47]
   - State "DONE"       from "STARTED"    [2020-08-18 Tue 19:25]
   - State "DONE"       from "STARTED"    [2020-08-17 Mon 05:03]
   - State "DONE"       from "STARTED"    [2020-08-15 Sat 16:43]
@@ -97,13 +98,14 @@
   CLOCK: [2020-05-28 Thu 10:05]--[2020-05-28 Thu 10:41] =>  0:36
   :END:
 * TODO eating
-** STARTED breakfast
-SCHEDULED: <2020-08-19 Wed 07:00 +1d> DEADLINE: <2020-08-19 Wed 07:40 +1d>
+** TODO breakfast
+SCHEDULED: <2020-08-21 Fri 07:00 +1d> DEADLINE: <2020-08-21 Fri 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-18 Tue 08:20]
+   :LAST_REPEAT: [2020-08-20 Thu 05:45]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-08-19 Wed 07:16]
+   - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:45]
+   - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:44]
    - State "DONE"       from "STARTED"    [2020-08-18 Tue 08:20]
    CLOCK: [2020-08-18 Tue 06:58]--[2020-08-18 Tue 08:20] =>  1:22
    - State "DONE"       from "STARTED"    [2020-08-17 Mon 08:14]
@@ -2385,11 +2387,12 @@ SCHEDULED: <2020-08-19 Wed 07:00 +1d> DEADLINE: <2020-08-19 Wed 07:40 +1d>
 
 
 ** TODO [#C] lunch
-SCHEDULED: <2020-08-19 Wed 11:40 +1d> DEADLINE: <2020-08-19 Wed 13:40 +1d>
+SCHEDULED: <2020-08-20 Thu 11:40 +1d> DEADLINE: <2020-08-20 Thu 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-18 Tue 15:52]
+   :LAST_REPEAT: [2020-08-20 Thu 05:47]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:47]
    - State "DONE"       from "STARTED"    [2020-08-18 Tue 15:52]
    CLOCK: [2020-08-18 Tue 10:45]--[2020-08-18 Tue 15:52] =>  5:07
    - State "DONE"       from "STARTED"    [2020-08-17 Mon 15:37]
@@ -4550,12 +4553,13 @@ SCHEDULED: <2020-08-19 Wed 11:40 +1d> DEADLINE: <2020-08-19 Wed 13:40 +1d>
 13:50-14:30 检查
 
 ** TODO [#C] dinner
-   DEADLINE: <2020-08-19 Wed 17:20 +1d> SCHEDULED: <2020-08-19 Wed 18:40 +1d>
+   DEADLINE: <2020-08-20 Thu 17:20 +1d> SCHEDULED: <2020-08-20 Thu 18:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-18 Tue 17:19]
+   :LAST_REPEAT: [2020-08-20 Thu 05:47]
    :STYLE:    habit
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:47]
    - State "DONE"       from "STARTED"    [2020-08-18 Tue 17:19]
    CLOCK: [2020-08-18 Tue 16:40]--[2020-08-18 Tue 17:19] =>  0:39
    - State "DONE"       from "STARTED"    [2020-08-17 Mon 18:51]
@@ -7187,14 +7191,16 @@ clean up spending 15 minutes
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
 * TODO [#A] sleep
-  DEADLINE: <2020-08-19 Wed 22:00 +1d>SCHEDULED: <2020-08-20 Thu 05:00 .+1d>
+  DEADLINE: <2020-08-20 Thu 22:00 +1d>SCHEDULED: <2020-08-21 Fri 05:00 .+1d>
   :PROPERTIES:
   :PROPERTIES:
-  :LAST_REPEAT: [2020-08-19 Wed 04:31]
+  :LAST_REPEAT: [2020-08-20 Thu 05:50]
   :END:
   :LAST_REPEAT: [2017-12-29 五 04:16]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:50]
+  CLOCK: [2020-08-19 Wed 21:47]--[2020-08-20 Thu 05:50] =>  8:03
   - State "DONE"       from "STARTED"    [2020-08-19 Wed 04:31]
   CLOCK: [2020-08-18 Tue 21:03]--[2020-08-19 Wed 04:31] =>  7:28
   - State "DONE"       from "STARTED"    [2020-08-18 Tue 03:14]
@@ -10023,11 +10029,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 * TODO to clen up the offic
-  DEADLINE: [2020-06-04 Thu 07:50 +4d] SCHEDULED: <2020-08-19 Wed 08:20 +4d>
+  DEADLINE: [2020-06-04 Thu 07:50 +4d] SCHEDULED: <2020-08-23 Sun 08:20 +4d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-08-15 Sat 16:12]
+  :LAST_REPEAT: [2020-08-20 Thu 05:46]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:46]
   - State "DONE"       from "STARTED"    [2020-08-15 Sat 16:12]
   - State "DONE"       from "STARTED"    [2020-08-09 Sun 14:29]
   - State "DONE"       from "STARTED"    [2020-08-07 Fri 08:40]
@@ -13069,11 +13076,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2020-08-19 Wed 11:00 .+1d> DEADLINE: <2020-08-19 Wed 11:30 .+1d>
+   SCHEDULED: <2020-08-21 Fri 11:00 .+1d> DEADLINE: <2020-08-21 Fri 11:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-18 Tue 16:11]
+   :LAST_REPEAT: [2020-08-20 Thu 05:45]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:45]
    - State "DONE"       from "STARTED"    [2020-08-18 Tue 16:11]
    CLOCK: [2020-08-18 Tue 15:52]--[2020-08-18 Tue 16:11] =>  0:19
    - State "DONE"       from "STARTED"    [2020-08-17 Mon 09:08]
@@ -14569,11 +14577,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
 ** TODO Copy (a  gmodel of calligraphy)
-   SCHEDULED: <2020-08-19 Wed 15:00 +1d> DEADLINE: <2020-08-19 Wed 16:30 +1d>
+   SCHEDULED: <2020-08-20 Thu 15:00 +1d> DEADLINE: <2020-08-20 Thu 16:30 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-18 Tue 19:25]
+   :LAST_REPEAT: [2020-08-20 Thu 05:45]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:45]
    - State "DONE"       from "STARTED"    [2020-08-18 Tue 19:25]
    CLOCK: [2020-08-18 Tue 19:12]--[2020-08-18 Tue 19:25] =>  0:13
    - State "DONE"       from "STARTED"    [2020-08-17 Mon 19:03]
@@ -15925,12 +15934,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    :END:
 
 
-* STARTED [#B] browse news and free learn
-  DEADLINE: <2020-08-19 Wed 21:00 .+1d> SCHEDULED: <2020-08-19 Wed 21:20 .+1d>
+* TODO [#B] browse news and free learn
+  DEADLINE: <2020-08-21 Fri 21:00 .+1d> SCHEDULED: <2020-08-21 Fri 21:20 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-08-18 Tue 19:25]
+  :LAST_REPEAT: [2020-08-20 Thu 05:45]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:45]
   CLOCK: [2020-08-19 Wed 05:40]--[2020-08-19 Wed 06:02] =>  0:22
   - State "DONE"       from "STARTED"    [2020-08-18 Tue 19:25]
   CLOCK: [2020-08-18 Tue 17:20]--[2020-08-18 Tue 19:12] =>  1:52
@@ -20279,11 +20289,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-23 一 21:31]
   :END:
 * TODO [#C] Physical exercise
-  DEADLINE: <2020-08-19 Wed 16:40 +1d> SCHEDULED: <2020-08-20 Thu 16:00 +1d>
+  DEADLINE: <2020-08-20 Thu 16:40 +1d> SCHEDULED: <2020-08-21 Fri 16:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-08-18 Tue 19:25]
+  :LAST_REPEAT: [2020-08-20 Thu 05:47]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:47]
   - State "DONE"       from "STARTED"    [2020-08-18 Tue 19:25]
   - State "DONE"       from "STARTED"    [2020-08-17 Mon 05:02]
   - State "DONE"       from "STARTED"    [2020-08-15 Sat 16:44]
@@ -21671,8 +21682,7 @@ take my daugher to jinan
   - State "DONE"       from "STARTED"    [2018-04-14 六 20:51]
   CLOCK: [2018-04-14 六 08:09]--[2018-04-14 六 15:22] =>  7:13
   :END:
-* DONE [#A] Test learn
-  CLOSED: [2018-08-03 Fri 10:48]
+* WAITING [#A] Test learn
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2018-08-03 Fri 10:48]
   - State "STARTED"    from "DONE"       [2018-08-03 Fri 10:30]
@@ -25622,11 +25632,13 @@ BCD
 
 
 ThisKKKK
-* TODO [#c] Experience Fedora<2020-08-19 Wed +1d> 
+* TODO [#c] Experience Fedora<2020-08-21 Fri +1d> 
   :PROPERTIES:
-  :LAST_REPEAT: [2020-08-18 Tue 19:26]
+  :LAST_REPEAT: [2020-08-20 Thu 05:47]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:47]
+  - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:46]
   - State "DONE"       from "STARTED"    [2020-08-18 Tue 19:26]
   - State "DONE"       from "STARTED"    [2020-08-17 Mon 05:03]
   CLOCK: [2020-08-16 Sun 10:08]--[2020-08-16 Sun 10:50] =>  0:42
