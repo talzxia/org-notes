@@ -98,12 +98,13 @@
   CLOCK: [2020-05-28 Thu 10:05]--[2020-05-28 Thu 10:41] =>  0:36
   :END:
 * TODO eating
-** TODO breakfast
-SCHEDULED: <2020-08-21 Fri 07:00 +1d> DEADLINE: <2020-08-21 Fri 07:40 +1d>
+** STARTED breakfast
+SCHEDULED: <2020-08-20 Thu 07:00 +1d> DEADLINE: <2020-08-20 Thu 07:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-08-20 Thu 05:45]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-08-20 Thu 06:56]
    - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:45]
    - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:44]
    - State "DONE"       from "STARTED"    [2020-08-18 Tue 08:20]
