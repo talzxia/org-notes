@@ -7224,13 +7224,14 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
   :PROPERTIES:
   :LAST_REPEAT: [2020-08-24 Mon 16:42]
   :END:
   DEADLINE: <2020-08-24 Mon 22:00 +1d>SCHEDULED: <2020-08-25 Tue 05:00 .+1d>
   :LAST_REPEAT: [2020-08-21 Fri 04:02]
   :LOGBOOK:
+  CLOCK: [2020-08-24 Mon 21:29]
   - State "DONE"       from "STARTED"    [2020-08-24 Mon 16:42]
   - State "DONE"       from "STARTED"    [2020-08-24 Mon 15:43]
   - State "DONE"       from "STARTED"    [2020-08-24 Mon 15:41]
