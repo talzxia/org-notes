@@ -6560,6 +6560,12 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2019-03-05 Tue 05:27]
    CLOCK: [2019-03-05 Tue 05:05]--[2019-03-05 Tue 05:27] =>  0:22
    :END:
+** DONE Review<2020-08-25 Tue 05:11>98.2% 
+   CLOSED: [2020-08-25 Tue 05:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-08-25 Tue 05:38]
+   CLOCK: [2020-08-25 Tue 05:11]--[2020-08-25 Tue 05:38] =>  0:27
+   :END:
 * lesson 9twenty seven
 ** DONE Review twenty seven 95.7%
    CLOSED: [2016-08-12 五 14:38]
@@ -6967,6 +6973,12 @@ Today has review three times.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2020-08-24 Mon 21:09]
    CLOCK: [2020-08-24 Mon 20:50]--[2020-08-24 Mon 21:09] =>  0:19
+   :END:
+** DONE Review<2020-08-25 Tue 04:49>99.9% 
+   CLOSED: [2020-08-25 Tue 05:09]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-08-25 Tue 05:09]
+   CLOCK: [2020-08-25 Tue 04:48]--[2020-08-25 Tue 05:09] =>  0:21
    :END:
 * lesson 50twenty eight
 ** DONE Review twenty eight 95.3%
@@ -20285,12 +20297,11 @@ but his wife did!
   :END:
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2020-08-24 Mon 16:43]
+  CLOCK: [2020-08-25 Tue 05:38]--[2020-08-25 Tue 06:01] =>  0:23
   - State "DONE"       from "STARTED"    [2020-08-24 Mon 15:54]
   CLOCK: [2020-08-24 Mon 15:44]--[2020-08-24 Mon 15:54] =>  0:10
   - State "DONE"       from "STARTED"    [2020-08-24 Mon 15:42]
   - State "DONE"       from "STARTED"    [2020-08-24 Mon 15:41]
-  :LOGBOOK:
->>>>>>> acb74cc579a4a656cf90f4d37ee6c97bb5193217
   - State "DONE"       from "STARTED"    [2020-08-21 Fri 05:06]
   CLOCK: [2020-08-21 Fri 04:48]--[2020-08-21 Fri 05:06] =>  0:18
   - State "DONE"       from "STARTED"    [2020-08-20 Thu 06:45]
