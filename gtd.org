@@ -8335,6 +8335,7 @@ CLOSED: [2017-10-22 日 20:46]
   
   [2019-07-29 Mon 11:58]
 
+<<<<<<< HEAD
 ** TODO [#C] C primer plus 
    DEADLINE: <2020-08-25 Tue 10:00 +1d> SCHEDULED: <2020-08-25 Tue 09:00 +1d>
    :PROPERTIES:
@@ -8346,6 +8347,14 @@ CLOSED: [2017-10-22 日 20:46]
    - State "DONE"       from "STARTED"    [2020-08-24 Mon 15:43]
    - State "DONE"       from "STARTED"    [2020-08-24 Mon 15:43]
    - State "DONE"       from "STARTED"    [2020-08-22 Sat 06:47]
+=======
+** STARTED [#C] C primer plus 
+   DEADLINE: <2020-08-21 Fri 10:00 +1d> SCHEDULED: <2020-08-21 Fri 09:00 +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2020-08-20 Thu 19:46]
+   :END:
+   :LOGBOOK:
+>>>>>>> acb74cc579a4a656cf90f4d37ee6c97bb5193217
    CLOCK: [2020-08-21 Fri 06:00]--[2020-08-21 Fri 06:24] =>  0:24
    - State "DONE"       from "STARTED"    [2020-08-20 Thu 19:46]
    - State "DONE"       from "STARTED"    [2020-08-20 Thu 19:40]
