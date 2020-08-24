@@ -98,14 +98,13 @@
   CLOCK: [2020-05-28 Thu 10:05]--[2020-05-28 Thu 10:41] =>  0:36
   :END:
 * TODO eating
-** TODO breakfast
-SCHEDULED: <2020-08-22 Sat 07:00 +1d> DEADLINE: <2020-08-22 Sat 07:40 +1d>
+** STARTED breakfast
+SCHEDULED: <2020-08-21 Fri 07:00 +1d> DEADLINE: <2020-08-21 Fri 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-21 Fri 08:53]
+   :LAST_REPEAT: [2020-08-20 Thu 15:18]
    :END:
    :LOGBOOK:
-   - State "DONE"       from "STARTED"    [2020-08-21 Fri 08:53]
-   CLOCK: [2020-08-21 Fri 06:24]--[2020-08-21 Fri 08:53] =>  2:29
+   CLOCK: [2020-08-21 Fri 06:24]
    - State "DONE"       from "STARTED"    [2020-08-20 Thu 15:18]
    CLOCK: [2020-08-20 Thu 06:56]--[2020-08-20 Thu 15:18] =>  8:22
    - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:45]
@@ -2390,13 +2389,12 @@ SCHEDULED: <2020-08-22 Sat 07:00 +1d> DEADLINE: <2020-08-22 Sat 07:40 +1d>
 财经系陈卫华
 
 
-** STARTED [#C]  lunch
+** TODO [#C] lunch
 SCHEDULED: <2020-08-21 Fri 11:40 +1d> DEADLINE: <2020-08-21 Fri 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-08-20 Thu 19:45]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-08-21 Fri 11:44]
    - State "DONE"       from "STARTED"    [2020-08-20 Thu 19:45]
    CLOCK: [2020-08-20 Thu 14:00]--[2020-08-20 Thu 15:05] =>  1:05
    - State "DONE"       from "STARTED"    [2020-08-20 Thu 05:47]
