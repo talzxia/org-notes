@@ -6933,6 +6933,38 @@ years=years+1;
 
 
 }
+** 5.5 类型转换
+
+通常，在语句和表达式中应使用类型相同的变量和常量。但是，如果使用混合类型，C不会
+像 Pascal 那样停在那里死掉，而是采用一套规则进行自动类型转换。虽然这很便利，但是有
+一定的危险性，尤其是在无意间混合使用类型的情况下（许多 UNIX 系统都使用 lint 程序检查
+类型“冲突”，如果选择更高错误级别，许多非 UNIX C 编译器也可能报告类型问题）。最好先
+了解一些基本的类型转换规则。
+
+1.当类型转换出现在表达式时，无论是 unsigned 还是 signed 的 char 和 short 都会被自动转换
+成 int，如有必要会被转换成 unsigned int（如果 short 与 int 的大小相同，
+unsignedshort 就比 int 大。这种情况下，unsigned short 会被转换成 unsignedint）。在 K&R
+那时的 C 中，float 会被自动转换成 double（目前的 C 不是这样）。由于都是从较小类型转换
+为较大类型，所以这些转换被称为升级（promotion）。
+
+2.涉及两种类型的运算，两个值会被分别转换成两种类型的更高级别。
+
+3.类型的级别从高至低依次是 long double、double、float、unsignedlong long、long
+long、unsigned long、long、unsigned int、int。例外的情况是，当 long 和 int 的大小相
+同时，unsigned int 比 long 的级别高。之所以 short 和 char 类型没有列出，是因为它们已经
+被升级到 int 或 unsinged int。
+
+4.在赋值表达式语句中，计算的最终结果会被转换成被赋值变量的类型。这个过程可能导致
+类型升级或降级（demotion）。所谓降级，是掼把一种类型转换成更低级别的类型。
+
+5.当作为函数参数传递时，char 和 short 被转换成 int，float 被转换成 double。第 9 章将介绍，
+函数原型会覆盖自动升级。
+
+类型升级通常都不会有什么问题，但是类型降级会导致真正的麻烦。原因很简单：较低类型
+可能放不下整个数字。例如，一个 8 位的 char 类型变量储存整数 101 没问题，但是存不
+下 22334.
+
+
 * 总结与思考
 ** 数的类型
 *** 整形
