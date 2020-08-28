@@ -2339,4 +2339,12 @@ The pictures are on the wall.
      - State "DONE"       from "STARTED"    [2020-08-26 Wed 18:38]
      CLOCK: [2020-08-26 Wed 10:35]--[2020-08-26 Wed 18:08] =>  0:03
      :END:
+*** 2020-08-28 Friday
+
+**** DONE 交换收条，送交钥匙 
+     CLOSED: [2020-08-28 Fri 10:52]
+     :LOGBOOK:
+     - State "DONE"       from "STARTED"    [2020-08-28 Fri 10:52]
+     CLOCK: [2020-08-28 Fri 08:14]--[2020-08-28 Fri 10:22] =>  0:08
+     :END:
 

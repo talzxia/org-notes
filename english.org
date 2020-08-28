@@ -6596,6 +6596,12 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2020-08-28 Fri 04:19]
    CLOCK: [2020-08-28 Fri 03:54]--[2020-08-28 Fri 04:19] =>  0:25
    :END:
+** DONE Review<2020-08-28 Fri 20:44>99.1% 
+   CLOSED: [2020-08-28 Fri 21:05]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-08-28 Fri 21:05]
+   CLOCK: [2020-08-28 Fri 20:44]--[2020-08-28 Fri 21:05] =>  0:21
+   :END:
 * lesson 9twenty seven
 ** DONE Review twenty seven 95.7%
    CLOSED: [2016-08-12 五 14:38]
