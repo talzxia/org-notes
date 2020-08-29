@@ -107,12 +107,13 @@
   :END:
 * TODO eating
 <<<<<<< HEAD
-** TODO breakfast
+** STARTED breakfast
 SCHEDULED: <2020-08-30 Sun 07:00 +1d> DEADLINE: <2020-08-30 Sun 07:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-08-29 Sat 07:59]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-08-30 Sun 06:33]
    - State "DONE"       from "STARTED"    [2020-08-29 Sat 07:59]
    CLOCK: [2020-08-29 Sat 06:53]--[2020-08-29 Sat 07:59] =>  1:06
    - State "DONE"       from "STARTED"    [2020-08-28 Fri 10:43]
@@ -4600,10 +4601,10 @@ SCHEDULED: <2020-08-30 Sun 11:40 +1d> DEADLINE: <2020-08-30 Sun 13:40 +1d>
 13:50-14:30 检查
 
 ** TODO [#C] dinner
-   :PROPERTIES:
-   :LAST_REPEAT: [2020-08-29 Sat 21:08]
-   :END:
    DEADLINE: <2020-08-30 Sun 17:20 +1d> SCHEDULED: <2020-08-30 Sun 18:40 +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2020-08-30 Sun 21:08]
+   :END:
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2020-08-29 Sat 21:08]
    CLOCK: [2020-08-29 Sat 17:34]--[2020-08-29 Sat 21:08] =>  3:34
@@ -7249,14 +7250,15 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
+* TODO [#A] sleep
   :PROPERTIES:
-  :LAST_REPEAT: [2020-08-29 Sat 05:14]
+  :LAST_REPEAT: [2020-08-30 Sun 05:06]
   :END:
-  DEADLINE: <2020-08-29 Sat 22:00 +1d>SCHEDULED: <2020-08-30 Sun 05:00 .+1d>
+  DEADLINE: <2020-08-30 Sun 22:00 +1d>SCHEDULED: <2020-08-31 Mon 05:00 .+1d>
   :LAST_REPEAT: [2020-08-21 Fri 04:02]
   :LOGBOOK:
-  CLOCK: [2020-08-29 Sat 21:09]
+  - State "DONE"       from "STARTED"    [2020-08-30 Sun 05:06]
+  CLOCK: [2020-08-29 Sat 21:09]--[2020-08-30 Sun 05:06] =>  7:57
   - State "DONE"       from "STARTED"    [2020-08-29 Sat 05:14]
   CLOCK: [2020-08-28 Fri 21:45]--[2020-08-29 Sat 05:14] =>  7:29
   - State "DONE"       from "STARTED"    [2020-08-28 Fri 03:54]
@@ -11140,12 +11142,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 * TODO [#B] handwriting
 ** TODO To keep Diary
-  SCHEDULED: <2020-08-30 Sun 06:30 .+1d> DEADLINE: <2020-08-30 Sun 07:00 .+1d>
+  SCHEDULED: <2020-08-31 Mon 06:30 .+1d> DEADLINE: <2020-08-31 Mon 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-08-29 Sat 06:53]
+  :LAST_REPEAT: [2020-08-30 Sun 06:33]
   :ID:       D43AD498-462A-4AC4-B9DB-8474C66510BD
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-08-30 Sun 06:33]
+  CLOCK: [2020-08-30 Sun 06:09]--[2020-08-30 Sun 06:33] =>  0:24
   - State "DONE"       from "STARTED"    [2020-08-29 Sat 06:53]
   CLOCK: [2020-08-29 Sat 06:32]--[2020-08-29 Sat 06:53] =>  0:21
   - State "DONE"       from "STARTED"    [2020-08-28 Fri 05:48]
