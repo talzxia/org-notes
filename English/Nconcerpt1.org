@@ -86,6 +86,14 @@ Is this your handbag?
 Pardon?
 Is this your handbag?
 Yes, it is.
+Thank you very 
+*** Second
+Excuse me.
+Yes?
+Is this your handbag?
+Pardon?
+Is this your handbag?
+Yes, it is.
 Thank you very much.
 * Sorry sir
 ** Text
@@ -172,6 +180,19 @@ Number five.
 Here's your umbrella and your coat.
 This is not my umbrella.
 Sorry sir.
+Is this your umbrella?
+No, it isn't.
+Is this it?
+Yes, it is.
+Thank you very much.
+*** Second
+My coat and my umbrella please.
+Here's my ticket.
+Thank you, sir.
+Number five.
+Here's your umbrella and your coat.
+This is  not my umbrella.
+Sorry, sir.
 Is this your umbrella?
 No, it isn't.
 Is this it?
@@ -345,6 +366,27 @@ He's Chinese.
 Nice to meet you.
 And this is Xiaohui.
 She's Chinese, too.
+Nice to meet you.
+*** Third
+Good morning.
+Good morning, Mr. Blake.
+This is Miss Sophie Dupont.
+Sophie is a new student.
+She is French.
+Sophie, this is Hans.
+He's German.
+Nice to meet you.
+And this is Naoko.
+She's Japanese.
+Nice to meet you.
+And this is Chang-woo.
+He's Korean.
+Nice to meet you.
+And this is Luming.
+He's Chinese.
+Nice to meet you.
+And this is Xiaohui?
+She's Chinses too.
 Nice to meet you.
 * Are you a teacher?
 ** Text
@@ -4569,7 +4611,8 @@ What's the matter?
 I can't type this letter.
 I can't read it!
 The boss's handwriting is terrible!
-* At the Butchers
+* At the Butche
+* rs
 ** Text
 Do you want any meat today, Mrs. Bir?
 Yes, please.

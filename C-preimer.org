@@ -7087,7 +7087,102 @@ foo
 
 （类型名） 强制类型转换运算符将其右侧的值转换成圆括号中指定的类型，如（float）9
 把整数 9 转换成浮点数 9.0
+** 5.6 带参数的函数 
 
+现在，相信读者已经熟悉了带参数的函数。要掌握函数，还要学习如何编写自己的函数（在
+此之前，读者可能要复习一下程序清单 2.3 中的 butler（）函数，该函数不带任何参数）。
+程序清单 5.15 中有一个 pound（）函数，打印指定数量的#号（该符号也叫做编号符号或#号）。
+该程序还演示了类型转换的应用。
+
+程序清单 5.15pound.c 程序
+#+BEGIN_SRC C
+   //pound.c --定义一个带一个参数的函数
+  #include<stdion.h>
+  void pound(int n);  //ANSI函数原型声明
+  int main(void)
+  {
+      int times=5;
+      char ch="!";  //ASCII码是33
+      float f=6.0f;
+      pound(times);  //int类型的参数
+      pound(ch);  //和pound（（int）ch}；相同
+      pound(f);  //和 pound((int)f);相同
+      return 0;
+  }
+  void pound(int n)  //ANSI风格函数头
+  {  //表明该函数接受一个int类型的参数
+      while(n-->0)
+          printf("#");
+      printf("\n");
+    
+  }
+#+END_SRC
+
+运行该程序后，输出如下：
+Compilation started at Sun Aug 30 08:25:16
+
+./a.out
+#####
+#################################
+######
+
+Compilation finished at Sun Aug 30 08:25:17
+
+首先，看程序的函数头：
+
+void pound(int n)
+
+如果函数不接受任何参数，函数头的圆括号中应该写上关键字 void。由于该函数接受一个
+int 类型的参数，所以圆括号中包含一个 int 类型变量 n 的声明。参数名应遵循 C 语言的命名规
+则。
+
+声明参数就创建了被称为形式参数（aformal argument 或 formal parameter， 简称形参）
+的变量。该例中，形式参数是 int 类型的变量 n。像 pound（10）这样的函数调用会把 10 赋给 n。
+在该程序中，调用 pound（times）就是把 times 的值（5）赋给 n。我们称函数调用传递的值
+这实际参数（actual argument 或 actual parameter），简称实参。所以，函数调用
+pound（10）把实际参数 10 传递给函数，然后该函数把 10 赋给形式参数（变量 n）。也就是说，
+main（）中的变量 times 的值被拷贝给 pound（）中的新变量 n。
+
+注意 实参和形参
+
+在英文中，argument 和 parameter 经常可以互换使用，但是 C99 标准规定了：对于 actual
+argument 或 actual parameter 使用术语 argument(译为实参)；对于 formal argument 或
+formal parameter 使用术语 parameter(译为形参)。为遵循这一规定，我们可以说形参是变
+量，实参是函数调用提供的值，实参被赋给相应的形参。因此，在程序清单 5.15 中，times
+是 pound（）的实参，n是 pound（）的形参。类似地，在函数调用 pound（times+4）中，表
+达式 times+4 的值是该函数的实参。
+
+变量名是函数私有的，即在函数中定义的函数名不会和别处的相同名称发生冲突。如果在
+pound（）中用 times 代替 n，那么这个 times 与 main（）中的 times 不同。也就是说，程序中
+出现了两个同名的变量，但是程序可以区分它们。
+
+现在，我们来学习函数调用。第 1 个函数调用是 pound（times），times 的值 5 被赋给 n。因此，
+printf（）函数打印了 5 个#号和 1 个换行符。第 2 个函数调用是 pound（ch）。这里，ch 是
+char 类型， 被初始化为！字符，在 ASCII 中 ch 的数值是 33。但是 pound（）函数的参数类型
+是 int，与 char 不匹配。程序开头的函数原型在这里发挥了作用。原型（prototype）即是函
+数的声明，描述了函数的返回值和参数。pound（）函数的原型说明了两点：
+
+该函数有一个 int 类型的参数。
+
+该例中，函数原型告诉编译器 pound（）需要一个 int 类型的参数。相应地，当编译器执行到
+pound（ch）表达式时，会把参数 ch 自动转换成 int 类型。在我们的系统中，该参数从 1 字节
+的 33 变成 4 字节的 33，所以现在 33 的类型满足函数的要求。与此类似，最后一次调用是 pound
+（f），使得 float 类型的变量被转换成合适的类型。
+
+在 ANSI C 之前，C使用的是函数声明，而不是函数原型。函数声明只指明了函数名和返回类
+型，没有指明参数类型。为了向下兼容，c现在仍然允许这样的形式：
+
+void pound();  //ANSI C 之前的函数声明
+
+如果用这条函数声明代替 pound.c 程序中的函数原型会怎样？第 1 次函数调用，pound（times）
+没问题，因为 times 是 int 类型。第 2 次函数调用，pound（ch）也没问题，因为即使缺少函数
+原型，C也会把 char 和 short 类型自动升级为 int 类型。第 3 次函数调用，pound（f）会失败，
+因为微少函数原型，float 会被自动升级为 double，这没什么用。虽然程序仍然能运行，但
+是输出的内容不正确。在函数调用中显式使用强制类型转换，可以修复这个问题：
+
+pound（（int）f）；  //把 f 强制类型转换为正确的类型
+
+注意，如果 f 的值太大，超过了 int 类型表示的范围，这样做也不行。
 
 * 总结与思考
 ** 数的类型
