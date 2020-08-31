@@ -7186,7 +7186,99 @@ void pound();  //ANSI C 之前的函数声明
 pound（（int）f）；  //把 f 强制类型转换为正确的类型
 
 注意，如果 f 的值太大，超过了 int 类型表示的范围，这样做也不行。
+** 5.7 示例程序
 
+程序清单 5.16 演示了本章介绍的几个概念，这个程序对某些人很有用。程序看起来很长，但
+是所有的计算都在程序的后面几行中。我们尽量使用大量的注释，让程序看上去清晰明了。
+请通读该程序，稍后我们会分析几处要点。
+
+程序清单 5.16 running.c 程序
+
+#+BEGIN_SRC  C
+  //running.c -- A useful program for runners
+  #include<stdio.h>
+  const int S_PER_M=60;  //1分钟的秒数
+  const int S_PER_H=3600;  //1小时的分钟数
+  const double M_Per_K=0.62137;  //1公里的英里数
+  int main(void)
+  {
+      double distk,distm;  //跑过的距离（分别以公里和英里为单位）
+      double rate;  //平均速度（以英里/小时为单位）
+      int min,sec;  //跑步用时（以分钟和秒为单位）
+      int time;  //跑步用时（以秒为单位）
+      double mtime;  //跑1英里需要的时间，以秒为单位
+      int mmin, msec;  //跑1英里需要的时间，以分钟和秒为单位
+      printf("This program converts your time for a metric race\n");
+      printf("to a time for running a mile and to your average\n");
+      printf("speed in miles per hour.\n");
+      printf("Please enter, in kilometers, the distance run.\n");
+      scanf("%lf",&distk);  //%lf表示读取一个double类型的值
+      printf("Next enter the time in minutes and secondfs.\n");
+      printf("Begin by entering the minutes.\n");
+      scanf("%d",&min);
+      printf("Now enter the seconds.\n");
+      scanf("%d",&sec);
+      time=S_PER_M*min+sec;  //把时间转换成秒
+      distm=M_Per_K*distk;  //把公里转换成英里
+      rate=distm/time*S_PER_H;  //英里/秒*秒/小时=英里/小时
+      mtime=(double)time/distm;  //时间/距离=跑1英里所用的时间
+      mmin=(int)mtime/S_PER_M;  //求出分钟数
+      msec=(int)mtime%S_PER_M;  //求出剩余的少数
+      printf("You ran %1.2f km (%1.2f miles) in %d min, %dsec.\n",distk,distm,min,sec);
+      printf("That pace corresponds to running a mile in %d min, ",mmin);
+      printf("%d sec.\nYour average speed was %1.2f mph.\n",msec,rate);
+      return 0;
+    
+  }
+#+END_SRC
+
+程序清单 5.16 使用了 min_sec 程序（程序清单 5.9）中的方法把时间转换成分钟和秒，除此之
+外还使用了类型转换。为什么要进行类型转换？因为程序在秒转换成分钟的部分需要整形参
+数，但是在公里转换成英里的部分需要浮点运算。我们使用强制类型转换运算进行了显式转
+换。
+
+实际上，我们曾经利用自动类型转换编写这个程序，即使用 int 类型的 mtime 来强制时间计算
+转换成整数形式。但是，在测试的 11 个系统中，这个版本的程序在 1 个系统上无法运行，这
+是由于编译器（版本比较老）没有遵循 C 规则。而使用强制类型转换就没有问题。对读者而
+言，强制类型转换强调了转换类型的意图，对编译器而言也量如此。
+
+下面是程序清单 5.16 的输出示例：
+
+This program converts your time for a metric race
+
+to a time for running a mile and to your average
+
+speed in miles per hour.
+
+Please enter, in kilometers, the distance run.
+
+10.0
+
+Next enter the time in minutes and secondfs.
+
+Begin by entering the minutes.
+
+36
+
+Now enter the seconds.
+
+23
+
+You ran 10.00 km (6.21 miles) in 36 min, 23sec.
+
+That pace corresponds to running a mile in 5 min, 51 sec.
+
+Your average speed was 10.25 mph.
+** 5.8 关键概念
+
+C 通过运算符提供多种操作。每个运算符的特性包括运算对象的数量、优先级和结合律。当
+两个运算符共享一个运算对象时，优先级和结合律决定了先进行哪项运算。每个 C 表达式都
+有一个值。如果不了解运算符的优先级和结合律，写出的表达式可能不合法或者表达式的值
+与预期不符。这会影响你成为一名优秀的程序员。
+
+虽然 C 允许编写混合数值类型的表达式，但是算术运算要求运算对象都是相同的类型。因此，
+C 会进行自动类型转换。尽管如此，不要养成依赖自动转换的习惯，应该显式选择合适的类
+型或使用强制类型转换。这样，就不用担心出现不必要的自动类型转换。
 * 总结与思考
 ** 数的类型
 *** 整形
