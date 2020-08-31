@@ -1,9 +1,10 @@
 <<<<<<< HEAD
-* STARTED [#C] Have a rest<2020-08-31 Mon .+1d> 
+* TODO [#C] Have a rest<2020-09-01 Tue .+1d> 
   :PROPERTIES:
-  :LAST_REPEAT: [2020-08-31 Mon 06:00]
+  :LAST_REPEAT: [2020-08-31 Mon 20:57]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-08-31 Mon 20:57]
   CLOCK: [2020-08-31 Mon 09:23]--[2020-08-31 Mon 10:03] =>  0:40
   - State "DONE"       from "STARTED"    [2020-08-31 Mon 06:00]
   - State "DONE"       from "STARTED"    [2020-08-29 Sat 21:09]
@@ -4609,11 +4610,13 @@ SCHEDULED: <2020-09-01 Tue 11:40 +1d> DEADLINE: <2020-09-01 Tue 13:40 +1d>
 13:50-14:30 检查
 
 ** TODO [#C] dinner
-   DEADLINE: <2020-08-31 Mon 17:20 +1d> SCHEDULED: <2020-08-31 Mon 18:40 +1d>
+   DEADLINE: <2020-09-01 Tue 17:20 +1d> SCHEDULED: <2020-09-01 Tue 18:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-30 Sun 18:35]
+   :LAST_REPEAT: [2020-08-31 Mon 19:12]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-08-31 Mon 19:12]
+   CLOCK: [2020-08-31 Mon 15:44]--[2020-08-31 Mon 19:12] =>  3:28
    - State "DONE"       from "STARTED"    [2020-08-30 Sun 18:35]
    - State "DONE"       from "STARTED"    [2020-08-29 Sat 21:08]
    CLOCK: [2020-08-29 Sat 17:34]--[2020-08-29 Sat 21:08] =>  3:34
@@ -7259,12 +7262,13 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
   DEADLINE: <2020-08-31 Mon 22:00 +1d>SCHEDULED: <2020-09-01 Tue 05:00 .+1d>
   :PROPERTIES:
   :LAST_REPEAT: [2020-08-31 Mon 06:01]
   :END:
   :LOGBOOK:
+  CLOCK: [2020-08-31 Mon 21:31]
   - State "DONE"       from "STARTED"    [2020-08-31 Mon 06:01]
   CLOCK: [2020-08-30 Sun 22:20]--[2020-08-31 Mon 06:01] =>  7:41
   - State "DONE"       from "STARTED"    [2020-08-30 Sun 05:06]
@@ -20457,11 +20461,12 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-23 一 21:31]
   :END:
 * TODO [#C] Physical exercise
-  DEADLINE: <2020-08-31 Mon 16:40 +1d> SCHEDULED: <2020-09-02 Wed 16:00 +1d>
+  DEADLINE: <2020-09-01 Tue 16:40 +1d> SCHEDULED: <2020-09-03 Thu 16:00 +1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-08-30 Sun 18:35]
+  :LAST_REPEAT: [2020-08-31 Mon 20:22]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-08-31 Mon 20:22]
   - State "DONE"       from "STARTED"    [2020-08-30 Sun 18:35]
   CLOCK: [2020-08-30 Sun 15:55]--[2020-08-30 Sun 18:35] =>  2:40
   - State "DONE"       from "STARTED"    [2020-08-29 Sat 21:08]
@@ -25830,11 +25835,13 @@ BCD
 
 ThisKKKK
 <<<<<<< HEAD
-* TODO [#c] Experience Fedora<2020-08-31 Mon +1d> 
+* TODO [#c] Experience Fedora<2020-09-01 Tue +1d> 
   :PROPERTIES:
-  :LAST_REPEAT: [2020-08-31 Mon 06:00]
+  :LAST_REPEAT: [2020-08-31 Mon 20:57]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-08-31 Mon 20:57]
+  CLOCK: [2020-08-31 Mon 20:27]--[2020-08-31 Mon 20:57] =>  0:30
   - State "DONE"       from "STARTED"    [2020-08-31 Mon 06:00]
   - State "DONE"       from "STARTED"    [2020-08-29 Sat 21:09]
   - State "DONE"       from "STARTED"    [2020-08-28 Fri 21:45]
