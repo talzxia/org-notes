@@ -2426,13 +2426,14 @@ SCHEDULED: <2020-09-02 Wed 07:00 +1d> DEADLINE: <2020-09-02 Wed 07:40 +1d>
 财经系陈卫华
 
 
-** STARTED [#C] lunch
-SCHEDULED: <2020-09-01 Tue 11:40 +1d> DEADLINE: <2020-09-01 Tue 13:40 +1d>
+** TODO [#C] lunch
+SCHEDULED: <2020-09-02 Wed 11:40 +1d> DEADLINE: <2020-09-02 Wed 13:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-31 Mon 14:45]
+   :LAST_REPEAT: [2020-09-01 Tue 14:07]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-09-01 Tue 11:40]
+   - State "DONE"       from "STARTED"    [2020-09-01 Tue 14:07]
+   CLOCK: [2020-09-01 Tue 11:40]--[2020-09-01 Tue 14:07] =>  2:27
    - State "DONE"       from "STARTED"    [2020-08-31 Mon 14:45]
    CLOCK: [2020-08-31 Mon 11:35]--[2020-08-31 Mon 14:45] =>  3:10
    - State "DONE"       from "STARTED"    [2020-08-30 Sun 14:21]
@@ -14719,11 +14720,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
    CLOCK: [2018-01-31 Wed 08:21]--[2018-01-31 Wed 08:46] =>  0:25
    :END:
 ** TODO Copy (a  gmodel of calligraphy)
-   SCHEDULED: <2020-09-01 Tue 15:00 +1d> DEADLINE: <2020-09-01 Tue 16:30 +1d>
+   SCHEDULED: <2020-09-02 Wed 15:00 +1d> DEADLINE: <2020-09-02 Wed 16:30 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-31 Mon 15:38]
+   :LAST_REPEAT: [2020-09-01 Tue 14:51]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-09-01 Tue 14:51]
+   CLOCK: [2020-09-01 Tue 14:07]--[2020-09-01 Tue 14:51] =>  0:44
    - State "DONE"       from "STARTED"    [2020-08-31 Mon 15:38]
    CLOCK: [2020-08-31 Mon 14:46]--[2020-08-31 Mon 15:38] =>  0:52
    - State "DONE"       from "STARTED"    [2020-08-30 Sun 14:54]
@@ -16098,6 +16101,7 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :LAST_REPEAT: [2020-08-31 Mon 05:59]
   :END:
   :LOGBOOK:
+  CLOCK: [2020-09-01 Tue 14:52]
   CLOCK: [2020-09-01 Tue 05:34]--[2020-09-01 Tue 05:35] =>  0:01
   - State "DONE"       from "STARTED"    [2020-08-31 Mon 05:59]
   CLOCK: [2020-08-30 Sun 18:35]--[2020-08-30 Sun 19:59] =>  1:24
