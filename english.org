@@ -6644,6 +6644,12 @@ Today has review three times.
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2020-09-01 Tue 17:48]
    :END:
+** DONE Review<2020-09-02 Wed 05:42>99.0% 
+   CLOSED: [2020-09-02 Wed 06:04]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-09-02 Wed 06:04]
+   CLOCK: [2020-09-02 Wed 05:42]--[2020-09-02 Wed 06:04] =>  0:22
+   :END:
 * lesson 9twenty seven
 ** DONE Review twenty seven 95.7%
    CLOSED: [2016-08-12 五 14:38]
@@ -20243,11 +20249,12 @@ but his wife did!
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 * TODO [#b] Words Book one
-  DEADLINE: <2020-09-02 Wed 08:30 +1m> SCHEDULED:<2020-09-02 Wed 08:00 +1m>
+  DEADLINE: <2020-10-02 Fri 08:30 +1m> SCHEDULED:<2020-10-02 Fri 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-08-02 Sun 07:23]
+  :LAST_REPEAT: [2020-09-02 Wed 07:06]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-09-02 Wed 07:06]
   - State "DONE"       from "STARTED"    [2020-08-02 Sun 07:23]
   - State "DONE"       from "STARTED"    [2020-07-02 Thu 06:18]
   - State "DONE"       from "STARTED"    [2020-06-02 Tue 05:30]
@@ -20367,10 +20374,12 @@ but his wife did!
   :END:
 * TODO New English  
   :PROPERTIES:
-  :LAST_REPEAT: [2020-09-01 Tue 05:33]
+  :LAST_REPEAT: [2020-09-02 Wed 06:44]
   :END:
-  SCHEDULED: <2020-09-02 Wed 05:50 +1d> DEADLINE: <2020-09-02 Wed 06:10 +1d>
+  SCHEDULED: <2020-09-03 Thu 05:50 +1d> DEADLINE: <2020-09-03 Thu 06:10 +1d>
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-09-02 Wed 06:44]
+  CLOCK: [2020-09-02 Wed 06:04]--[2020-09-02 Wed 06:44] =>  0:40
   - State "DONE"       from "STARTED"    [2020-09-01 Tue 05:33]
   CLOCK: [2020-09-01 Tue 04:42]--[2020-09-01 Tue 05:33] =>  0:51
   - State "DONE"       from "STARTED"    [2020-08-31 Mon 07:01]
