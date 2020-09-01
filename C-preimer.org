@@ -7279,6 +7279,141 @@ C 通过运算符提供多种操作。每个运算符的特性包括运算对象
 虽然 C 允许编写混合数值类型的表达式，但是算术运算要求运算对象都是相同的类型。因此，
 C 会进行自动类型转换。尽管如此，不要养成依赖自动转换的习惯，应该显式选择合适的类
 型或使用强制类型转换。这样，就不用担心出现不必要的自动类型转换。
+** 5.9 本章小结
+
+C 语言有许多运算符，如本章讨论的赋值运算符和算术运算符。一般而言，运算符需要一个
+或多个运算对象才能完成运算生成一个值。只需要一个运算对象的运算符（如负号和 sizeof
+称为一元运算符，需要两个运算对象的运算符（如加法运算符和乘法运算符）称为二元运算
+符。
+
+表达式由运算符和运算对象组成。在 C 语言中，每个表达式都有一个值，包括赋值表达式和
+比较表达式。运算符优先级规则决定了表达式中各项的求值顺序。当两个运算符共享一个运
+算对象时，先进行优先级高的运算。如果运算符的优先级相同，由结合律（从左往右或从右
+往左）决定求值顺序。
+
+大部分语句都以分号结尾。最常用的语句是表达式语句。用花括号括起来的一条或多条语句
+构成了复合语句（或称为块）。while 语句是一种抚今迭代语句，只要测试条件为真，就重
+复执行循环体中的语句。
+
+在 C 语言中，许多类型转换都是自动进行的。当 char 和 short 类型出现在表达式里或作为函数
+的参数（函数原型除外）时，都会被升级为 int 类型；float 类型在函数参数中时，会被升级
+为 double 类型。在 K&R C（不是 ANSI C）下，表达式中的 float 也会被升级为 double 类型。当
+把一种类型的值赋给另一种类型的变量时，值将被转换成与变量的类型相同。当把较大类型
+转换成较小的类型时（如，long 转换成 short，或 double 转换成 float），可能会丢失数据。
+根据本章介绍的规则，在混合类型的运算中，较小类型会被转换成较大类型。
+
+定义带一个参数的函数时，便在函数定义中声明了一个变量，或称为形式参数。然后，在函
+数调用中传入的值会被赋给这个变量。这样，在函数中就可以使用该值了。
+** 5.10 复习题
+
+复习题的参考答案在附录 A 中。
+
+1.假设所有变量的类型都是 int，下列各项变量的值是多少：
+
+a. x=(2+3)*6;   (30)
+
+b. x=(12+6)/2*3;  (27)
+
+C. y=x=(2+3)/4;  (1)
+
+d. y=3+2*(x=7/2);  (9)
+
+2.假设所有变量的类型都是 int，下列各项变量的值是多少：
+
+a. x=(int)3.8+3.3;  (6)
+
+b. x=(2+3)*10.5;  (50)
+
+c. x=3/5*22.0;  (0 )
+
+d. x=22.0*3/5  (13)
+
+3.对下列各表达式求值
+
+a. 30.0/4.0*5.0  (37.5)
+
+b. 30.0/(4.0*5.0)  (1)
+
+c. 30/4*5;  (35)
+
+d. 30*5/4;  (37)
+
+e. 30/4.0*5; (37.5)
+
+f. 30/4*5.0  (37.5)
+
+4.请找出下面的程序中的错误
+//少了库函数#include<stdio.h>
+int main(void)
+{
+int i=1,//;
+float n;
+printf("Watch out! here come a bunch of fractions!\n");
+while(i<30)//{}公执行一次，i不变
+n=1/i;
+printf" %f",n);
+printf("That's all, folks!\n");
+return;//return 0;
+}
+
+5. 这是程序清单 5.9 的另一个版本。从一表面上看，该程序只使用了一条 scanf（）语句，
+   比程序清单 5.9 简单。请找出不如原版之处。
+
+#+BEGIN_SRC  C
+  #include<stdio.h>
+  #define S_TO_M 60
+  int main(void)
+  { 
+      int sec,min,left;
+      printf("This program converts secondds to minutes and ");
+      printf("seconds.\n");
+      printf("Juse enter the number of seconds.\n");
+      printf("Enter 0 to end the program.\n");
+      while(sec>0){
+          scanf("%d",&sec);
+          min=sec/S_TO_M;
+          left=sec%S_TO_M;
+          printf("%d sec is %d min, %d sec. \n",sec,min,left);
+          printf("Next input?\n");
+      }
+      printf("Bye!\n");
+      return 0;
+  }
+#+END_SRC
+
+6.下面的程序将打印出什么内容？
+#+BEGIN_SRC  C
+  #include<stdio.h>
+  #define FORMAT "%s! C is cool!\n"
+  int main(void)
+  {
+      int num=10;
+      printf(FORMAT,FORMAT);
+      printf("%d\n",++num);
+      printf("%d\n",num++);
+      printf("%d\n",num--);
+      printf("%d\n",num);
+      return 0;
+  }
+#+END_SRC
+
+7.下面的程序将打印出什么内容？
+#+BEGIN_SRC  C
+  #include<stdio.h>
+  int main(void)
+  {
+      char c1,c2;
+      int diff;
+      float num;
+      c1='S';
+      c2='O';
+      diff=c1-c2;
+      num=diff;
+      printf("%c%c%c:%d %3.2f\n",c1,c2,c1,diff,numb);
+      return 0;
+  }
+#+END_SRC
+
 * 总结与思考
 ** 数的类型
 *** 整形
