@@ -6662,6 +6662,12 @@ Today has review three times.
    - State "DONE"       from "STARTED"    [2020-09-04 Fri 06:01]
    CLOCK: [2020-09-04 Fri 05:42]--[2020-09-04 Fri 06:01] =>  0:19
    :END:
+** DONE Review<2020-09-05 Sat 05:27>99.8% 
+   CLOSED: [2020-09-05 Sat 05:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-09-05 Sat 05:50]
+   CLOCK: [2020-09-05 Sat 05:27]--[2020-09-05 Sat 05:50] =>  0:23
+   :END:
 * lesson 9twenty seven
 ** DONE Review twenty seven 95.7%
    CLOSED: [2016-08-12 五 14:38]
@@ -20386,10 +20392,12 @@ but his wife did!
   :END:
 * TODO New English  
   :PROPERTIES:
-  :LAST_REPEAT: [2020-09-04 Fri 06:21]
+  :LAST_REPEAT: [2020-09-05 Sat 06:51]
   :END:
-  SCHEDULED: <2020-09-05 Sat 05:50 +1d> DEADLINE: <2020-09-05 Sat 06:10 +1d>
+  SCHEDULED: <2020-09-06 Sun 05:50 +1d> DEADLINE: <2020-09-06 Sun 06:10 +1d>
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-09-05 Sat 06:51]
+  CLOCK: [2020-09-05 Sat 05:50]--[2020-09-05 Sat 06:51] =>  1:01
   - State "DONE"       from "STARTED"    [2020-09-04 Fri 06:21]
   CLOCK: [2020-09-04 Fri 06:02]--[2020-09-04 Fri 06:21] =>  0:19
   - State "DONE"       from "STARTED"    [2020-09-03 Thu 05:17]
