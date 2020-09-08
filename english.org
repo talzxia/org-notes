@@ -6095,6 +6095,24 @@ meet shang hai ruiya 葛锡宝
    - State "DONE"       from "STARTED"    [2019-03-02 Sat 09:40]
    CLOCK: [2019-03-02 Sat 09:19]--[2019-03-02 Sat 09:40] =>  0:21
    :END:
+** DONE Review<2020-09-08 Tue 16:10>97.8% 
+   CLOSED: [2020-09-08 Tue 16:32]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-09-08 Tue 16:32]
+   CLOCK: [2020-09-08 Tue 16:09]--[2020-09-08 Tue 16:32] =>  0:23
+   :END:
+** DONE Review<2020-09-09 Wed 04:39>99.4% 
+   CLOSED: [2020-09-09 Wed 05:00]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-09-09 Wed 05:00]
+   CLOCK: [2020-09-09 Wed 04:39]--[2020-09-09 Wed 05:00] =>  0:21
+   :END:
+** DONE Review<2020-09-09 Wed 05:01>98.1% 
+   CLOSED: [2020-09-09 Wed 05:50]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-09-09 Wed 05:50]
+   CLOCK: [2020-09-09 Wed 05:00]--[2020-09-09 Wed 05:50] =>  0:50
+   :END:
 * lesson 8twenty six
 ** DONE Review twenty six 95.2%
   CLOSED: [2016-08-12 五 08:55]
@@ -20410,10 +20428,14 @@ but his wife did!
   :END:
 * TODO New English  
   :PROPERTIES:
-  :LAST_REPEAT: [2020-09-07 Mon 05:13]
+  :LAST_REPEAT: [2020-09-09 Wed 06:16]
   :END:
-  SCHEDULED: <2020-09-08 Tue 05:50 +1d> DEADLINE: <2020-09-08 Tue 06:10 +1d>
+  SCHEDULED: <2020-09-10 Thu 05:50 +1d> DEADLINE: <2020-09-10 Thu 06:10 +1d>
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-09-09 Wed 06:16]
+  CLOCK: [2020-09-09 Wed 05:51]--[2020-09-09 Wed 06:16] =>  0:25
+  - State "DONE"       from "STARTED"    [2020-09-08 Tue 16:44]
+  CLOCK: [2020-09-08 Tue 16:32]--[2020-09-08 Tue 16:44] =>  0:12
   - State "DONE"       from "STARTED"    [2020-09-07 Mon 05:13]
   CLOCK: [2020-09-07 Mon 04:32]--[2020-09-07 Mon 05:13] =>  0:41
   - State "DONE"       from "STARTED"    [2020-09-06 Sun 07:03]
