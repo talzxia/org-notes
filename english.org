@@ -20428,10 +20428,12 @@ but his wife did!
   :END:
 * TODO New English  
   :PROPERTIES:
-  :LAST_REPEAT: [2020-09-09 Wed 06:16]
+  :LAST_REPEAT: [2020-09-10 Thu 14:44]
   :END:
-  SCHEDULED: <2020-09-10 Thu 05:50 +1d> DEADLINE: <2020-09-10 Thu 06:10 +1d>
+  SCHEDULED: <2020-09-11 Fri 05:50 +1d> DEADLINE: <2020-09-11 Fri 06:10 +1d>
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-09-10 Thu 14:44]
+  CLOCK: [2020-09-10 Thu 14:33]--[2020-09-10 Thu 14:44] =>  0:11
   - State "DONE"       from "STARTED"    [2020-09-09 Wed 06:16]
   CLOCK: [2020-09-09 Wed 05:51]--[2020-09-09 Wed 06:16] =>  0:25
   - State "DONE"       from "STARTED"    [2020-09-08 Tue 16:44]
