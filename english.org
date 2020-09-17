@@ -6133,6 +6133,24 @@ meet shang hai ruiya 葛锡宝
    - State "DONE"       from "STARTED"    [2020-09-13 Sun 06:42]
    CLOCK: [2020-09-13 Sun 06:23]--[2020-09-13 Sun 06:42] =>  0:19
    :END:
+** DONE Reivew<2020-09-16 Wed 02:09>99.6% 
+   CLOSED: [2020-09-16 Wed 02:28]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-09-16 Wed 02:28]
+   CLOCK: [2020-09-16 Wed 02:09]--[2020-09-16 Wed 02:28] =>  0:19
+   :END:
+** DONE Review<2020-09-17 Thu 05:25>99.7% 
+   CLOSED: [2020-09-17 Thu 05:43]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-09-17 Thu 05:43]
+   CLOCK: [2020-09-17 Thu 05:25]--[2020-09-17 Thu 05:43] =>  0:18
+   :END:
+** DONE Review<2020-09-18 Fri 05:00>99.8% 
+   CLOSED: [2020-09-18 Fri 05:19]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-09-18 Fri 05:19]
+   CLOCK: [2020-09-18 Fri 04:59]--[2020-09-18 Fri 05:19] =>  0:20
+   :END:
 * lesson 8twenty six
 ** DONE Review twenty six 95.2%
   CLOSED: [2016-08-12 五 08:55]
@@ -20448,10 +20466,18 @@ but his wife did!
   :END:
 * TODO New English  
   :PROPERTIES:
-  :LAST_REPEAT: [2020-09-14 Mon 16:32]
+  :LAST_REPEAT: [2020-09-18 Fri 05:45]
   :END:
-  SCHEDULED: <2020-09-15 Tue 05:50 +1d> DEADLINE: <2020-09-15 Tue 06:10 +1d>
+  SCHEDULED: <2020-09-19 Sat 05:50 +1d> DEADLINE: <2020-09-19 Sat 06:10 +1d>
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-09-18 Fri 05:45]
+  CLOCK: [2020-09-18 Fri 05:19]--[2020-09-18 Fri 05:45] =>  0:26
+  - State "DONE"       from "STARTED"    [2020-09-17 Thu 06:37]
+  CLOCK: [2020-09-17 Thu 05:44]--[2020-09-17 Thu 06:37] =>  0:53
+  - State "DONE"       from "STARTED"    [2020-09-16 Wed 03:04]
+  CLOCK: [2020-09-16 Wed 02:29]--[2020-09-16 Wed 03:04] =>  0:35
+  - State "DONE"       from "STARTED"    [2020-09-15 Tue 17:12]
+  CLOCK: [2020-09-15 Tue 16:59]--[2020-09-15 Tue 17:12] =>  0:13
   - State "DONE"       from "STARTED"    [2020-09-14 Mon 16:32]
   CLOCK: [2020-09-14 Mon 16:29]--[2020-09-14 Mon 16:32] =>  0:03
   - State "DONE"       from "STARTED"    [2020-09-13 Sun 07:03]
