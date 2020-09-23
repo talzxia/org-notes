@@ -7931,6 +7931,87 @@ while(scanf("%d",&num)==1)
 应该让这个分号独占一行，不要直接把空放在测试表达式同行。这样做一方面让读者更容易
 看到空语句，一方面也提醒自己和读者空语句是有意而为之。处理这种情况更好的方法是使
 用下一章介绍的 continue 语句。
+** 6.3 用关系运算符和表达式比较大小
+
+while 循环经常依赖测试表达式作比较，这样的表达式被称为关系表达式
+（relationalexpression），出现在关系表达式中间的运算符叫做关系运算符（relational
+operator）。前面的示例中已经用过一些关系运算符，表 6.1 列出了 C 语言的所有的关系运算
+符。该表也涵盖了所有的数值关系（数字之间的关系再复杂也没有人与人之间的关系复杂）。
+表 6.1 关系运算符
+运算符｜含义
+
+关系运算符常用于构造 while 语句和其他 C 语句（稍后讨论）中用到的关系表达式。这些语句
+都会检查关系表达式为真还是为假。下面有 3 个互不相关的 while 语句，其中都包含关系表达
+式。
+
+while(number<6)
+
+{
+
+printf("Your number is too small.\n");
+
+scanf("%d",&number);
+
+}
+
+while(ch!='$')
+
+{
+
+count++;
+
+scanf("%c",&ch);
+
+}
+
+while(scanf("%f",&num)==1)
+
+sun=sum+num;
+
+注意，第 2 个 while 语句的关系表达式还可用于比较字符。比较时使用的是机器字符码（假定
+为 ASCII）。但是，不能用关系运算符比较字符串。第 11 章将介绍如何比较字符串。
+
+虽然关系运算符也可以用来比较浮点数，但是要注意：比较浮点数时，尽量只使用《和》。
+因为浮点数的舍入误差会导致在逻辑上应该相等的两数却不相等。例如，3乘以 1/3 的积是
+1.0。如果用把 1/3 表示成小数点后面的 6 位数字，乘积则是.999999，不等于 1 。使用 fabs（）
+函数返回一个浮点值的绝对值（即，没有代数符号的值）。例如，可以用类似的程序清单
+6.5 的方法来判断一个数是否接近预期结果。
+
+程序清单 6.5 cmpflt.c 程序
+
+#+BEGIN_SRC  C
+  //cmpflt.c --浮点数比较
+  #include<math.h>
+  #include<stdio.h>
+  int main(void)
+  {
+      const double ANSWER=3.14159;
+      double response;
+      printf("What is the value of pi?\n");
+      scanf("%lf",&reponse);
+      while(fabs(response-ANSWER)>0.0001)
+      {
+          printf("Try again!\n");
+          scanf("%lf",&response);
+      }
+printf("Close enough!\n");
+      return 0;
+  }
+#+END_SRC
+
+循环会一直提示用户继续输入，除非用户输入的值与正确值之间相差 0.0001：
+
+What is the value of pi?
+
+3.14 
+
+Try again!
+
+3.1416
+
+Close enough!
+
+
 * 总结与思考
 ** 数的类型
 *** 整形
@@ -7943,7 +8024,7 @@ while(scanf("%d",&num)==1)
 *** 浮点型
 
 - 关键字 float
-- 声明格式：float weight;
+- 声明格式：float weight
 - 赋值：weight=3.14;scanf("%f",&weight);
 - 显示与输出：printf("%.2f",weight);
 
