@@ -8010,8 +8010,96 @@ Try again!
 3.1416
 
 Close enough!
+*** 6.3.1 什么是真
+
+这是一个古老的问题，但是对 C 而言还不算难。在 C 中，表达式一定有一个值，关系表达式也
+不例外。程序清单 6.6 中的程序用于打印两个关系表达式的值，一个为真，一个为假。
+
+程序清单 6.6 t_and_f.c 程序
+#+BEGIN_SRC C
+  //t_and_f.c --C中的真和假的值
+  #include<stdio.h>
+  int main(void)
+  {
+      int true_val,false_val;
+      true_val=(10>2);  //关系为真的值
+      false_val=(10==2);  //关系为假的值
+      printf("true=%d; false=%d \n",true_val,false_val);
+      return 0;
+  }
+
+#+END_SRC
+
+程序清单 6.6 把两个关系表达式的值分别赋给两个变量，即把表达式为真的值赋给 true_val，
+表达式为假的值赋给 false_val。运行该程序后输出如下：
+
+true=1;false=0
+
+原来如此！对 C 而言，表达式为真的值是 1，表达式为假的值是 0 。一些 C 程序使用下面的循
+环结构，由于 1 为真，所以循环会一直进行。
+
+while(1)
+
+{
+
+...
+
+}
+*** 6.3.2 其他真值
+
+既然 1 或 0 可以作为 while 语句的测试表达式，是否还可以使用其他数字？如果可以，会发生
+什么？我们用程序清单 6.7 来做个实验。
+
+程序清单 6.7 truth.c 程序
+#+BEGIN_SRC C
+  //truth.c --如此值为真
+  #include<stdio.h>
+  int main(void)
+  {
+      int n=3;
+      while(n)
+          printf("%2d is true\n",n--);
+      printf("%2d is false\n",n);
+      n=-3;
+      while(n)
+          printf("%2d is true\n",n++);
+      printf("%2d is false\n",n);
+      return 0;
+  }
+#+END_SRC
+
+该程序的输出如下：
+
+ 3 is true
 
 
+ 2 is true
+
+ 1 is true
+
+ 0 is false
+
+-3 is true
+
+-2 is true
+
+-1 is true
+
+ 0 is false
+
+执行第 1 个循环时，n分别是 3、2、1，当 n 等于 0 时，第 1 个循环结束。与此类似，执行第 2 个
+循环时，n分别是-3、-2、和-1，当 n 等于 0 时，第 2 个循环结束。一般而言，所有的非零值都
+视为真，只有 0 被视为假。在 c 中，真的概念还真宽！
+
+也可以说，只要测试条件的值为非零，就会执行 while 循环。这是从数值方面而不是从真/假
+方面来看测试条件。要牢记：关系表达式为真，求值得 1；关系表达式为假，求值得 0 。因
+此，这些表达式实际上相当于数值。
+
+许多 C 程序员都会很好地利用测试条件的这一特性。例如，用 while（goats）替换
+while（goats！=0），因为表达式 goats！=0 和 goats 都只有在 goats 的值为 0 时才为 0 或假。
+第 1 种形式（while（goats！=0））对初学者而言可能比较清楚，但是第 2 种形式
+（while（goats））才是 C 程序员最常用的。要想成为一名 C 程序员，应该多熟悉
+while（goats）这种形式。
 * 总结与思考
 ** 数的类型
 *** 整形
