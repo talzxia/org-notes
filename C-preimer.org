@@ -8100,6 +8100,43 @@ while（goats！=0），因为表达式 goats！=0 和 goats 都只有在 goats 
 第 1 种形式（while（goats！=0））对初学者而言可能比较清楚，但是第 2 种形式
 （while（goats））才是 C 程序员最常用的。要想成为一名 C 程序员，应该多熟悉
 while（goats）这种形式。
+*** 6.3.3 真值的问题
+
+C 对真值的概念约束太少会带来一些麻烦。例如，我们稍微修改一下程序清单 6.1，修改后的
+程序清单 6.8 所示。
+
+程序清单 6.8trouble.c 程序
+
+#+BEGIN_SRC C
+  //trouble.c --误用=会导致无限循环
+  #include<stdion.h>
+  int main(void)
+  {
+      long num;
+      long sum=0L;
+      int status;
+      printf("Please enter an integer to be summed ");
+      printf("(q to quit): ");
+      status=scanf("%ld",&num);
+      while(status=1)
+      {
+          sum=sum+num;
+          printf("Please enter next integer (q to quit): ");
+          status=scanf("%ld",&num);
+      }
+      printf("Those integers sum to %ld.\n",sum);
+      return 0;
+  }
+#+END_SRC
+
+(...屏幕上会一直显示最后的提示内容，除非强行关闭程序。也许你根本不想运行这个示例。)
+
+这个麻烦的程序示例改动了 while 循环的测试条件，把 status==1 替换成 status=1 。后者是
+一个赋值表达式语句，所以 status 的值为 1。而且，整个赋值表达式的值就是赋值运算符左
+仙的值，所以 status=1 的值也是 1 。这里，while（status=1）实际上相当于 while（1），
+也就是说，循环不会退出。虽然用户输入 q，status 被设置为 0，但是循环的测试条件把
+status 双重置为 1，进入了下一次迭代。
+
 * 总结与思考
 ** 数的类型
 *** 整形
