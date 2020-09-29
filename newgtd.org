@@ -117,12 +117,13 @@
   :END:
 * TODO eating
 <<<<<<< HEAD
-** TODO breakfast
+** STARTED breakfast
 SCHEDULED: <2020-09-30 Wed 07:00 +1d> DEADLINE: <2020-09-30 Wed 07:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-09-29 Tue 08:08]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-09-30 Wed 06:33]
    - State "DONE"       from "STARTED"    [2020-09-29 Tue 08:08]
    CLOCK: [2020-09-29 Tue 07:13]--[2020-09-29 Tue 08:08] =>  0:55
    - State "DONE"       from "STARTED"    [2020-09-28 Mon 08:31]
@@ -7432,11 +7433,13 @@ clean up spending 15 minutes
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
 * TODO [#A] sleep
-  DEADLINE: <2020-09-29 Tue 22:00 +1d>SCHEDULED: <2020-09-30 Wed 05:00 .+1d>
+  DEADLINE: <2020-09-30 Wed 22:00 +1d>SCHEDULED: <2020-10-01 Thu 05:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-09-29 Tue 05:23]
+  :LAST_REPEAT: [2020-09-30 Wed 04:47]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-09-30 Wed 04:47]
+  CLOCK: [2020-09-29 Tue 19:32]--[2020-09-30 Wed 04:47] =>  9:15
   - State "DONE"       from "STARTED"    [2020-09-29 Tue 05:23]
   CLOCK: [2020-09-28 Mon 19:39]--[2020-09-29 Tue 05:23] =>  9:44
   - State "DONE"       from "STARTED"    [2020-09-28 Mon 05:57]
@@ -11392,12 +11395,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 * TODO [#B] handwriting
 ** TODO To keep Diary
-  SCHEDULED: <2020-09-30 Wed 06:30 .+1d> DEADLINE: <2020-09-30 Wed 07:00 .+1d>
+  SCHEDULED: <2020-10-01 Thu 06:30 .+1d> DEADLINE: <2020-10-01 Thu 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-09-29 Tue 06:27]
+  :LAST_REPEAT: [2020-09-30 Wed 06:28]
   :ID:       D43AD498-462A-4AC4-B9DB-8474C66510BD
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-09-30 Wed 06:28]
+  CLOCK: [2020-09-30 Wed 06:09]--[2020-09-30 Wed 06:28] =>  0:19
   - State "DONE"       from "STARTED"    [2020-09-29 Tue 06:27]
   CLOCK: [2020-09-29 Tue 06:04]--[2020-09-29 Tue 06:27] =>  0:23
   - State "DONE"       from "STARTED"    [2020-09-28 Mon 19:07]
@@ -26264,12 +26269,13 @@ BCD
 
 ThisKKKK
 <<<<<<< HEAD
-* STARTED [#c] Experience Fedora<2020-09-29 Tue +1d> 
+* TODO [#c] Experience Fedora<2020-09-30 Wed +1d> 
   :PROPERTIES:
-  :LAST_REPEAT: [2020-09-28 Mon 19:39]
+  :LAST_REPEAT: [2020-09-29 Tue 19:32]
   :END:
   :LOGBOOK:
-  CLOCK: [2020-09-29 Tue 19:12]
+  - State "DONE"       from "STARTED"    [2020-09-29 Tue 19:32]
+  CLOCK: [2020-09-29 Tue 19:12]--[2020-09-29 Tue 19:32] =>  0:20
   - State "DONE"       from "STARTED"    [2020-09-28 Mon 19:39]
   CLOCK: [2020-09-28 Mon 19:17]--[2020-09-28 Mon 19:39] =>  0:22
   - State "DONE"       from "STARTED"    [2020-09-27 Sun 22:04]
