@@ -117,13 +117,14 @@
   :END:
 * TODO eating
 <<<<<<< HEAD
-** STARTED breakfast
-SCHEDULED: <2020-10-06 Tue 07:00 +1d> DEADLINE: <2020-10-06 Tue 07:40 +1d>
+** TODO breakfast
+SCHEDULED: <2020-10-07 Wed 07:00 +1d> DEADLINE: <2020-10-07 Wed 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-10-05 Mon 10:35]
+   :LAST_REPEAT: [2020-10-06 Tue 08:54]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-10-06 Tue 07:57]
+   - State "DONE"       from "STARTED"    [2020-10-06 Tue 08:54]
+   CLOCK: [2020-10-06 Tue 07:57]--[2020-10-06 Tue 08:54] =>  0:57
    - State "DONE"       from "STARTED"    [2020-10-05 Mon 10:35]
    CLOCK: [2020-10-05 Mon 07:41]--[2020-10-05 Mon 10:35] =>  2:54
    - State "DONE"       from "STARTED"    [2020-10-04 Sun 11:12]
@@ -2500,12 +2501,13 @@ SCHEDULED: <2020-10-06 Tue 07:00 +1d> DEADLINE: <2020-10-06 Tue 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#C] unch
+** STARTED [#C] unch
 SCHEDULED: <2020-10-06 Tue 11:40 +1d> DEADLINE: <2020-10-06 Tue 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-10-05 Mon 14:37]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-10-06 Tue 11:08]
    - State "DONE"       from "STARTED"    [2020-10-05 Mon 14:37]
    CLOCK: [2020-10-05 Mon 12:14]--[2020-10-05 Mon 14:37] =>  2:23
    - State "DONE"       from "STARTED"    [2020-10-04 Sun 16:55]
@@ -13541,11 +13543,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2020-10-06 Tue 11:00 .+1d> DEADLINE: <2020-10-06 Tue 11:30 .+1d>
+   SCHEDULED: <2020-10-07 Wed 11:00 .+1d> DEADLINE: <2020-10-07 Wed 11:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-10-05 Mon 07:41]
+   :LAST_REPEAT: [2020-10-06 Tue 10:31]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-06 Tue 10:31]
+   CLOCK: [2020-10-06 Tue 10:10]--[2020-10-06 Tue 10:31] =>  0:21
    - State "DONE"       from "STARTED"    [2020-10-05 Mon 07:41]
    CLOCK: [2020-10-05 Mon 07:06]--[2020-10-05 Mon 07:41] =>  0:35
    - State "DONE"       from "STARTED"    [2020-10-04 Sun 07:10]
