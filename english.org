@@ -5456,6 +5456,18 @@ meet shang hai ruiya 葛锡宝
    - State "DONE"       from "STARTED"    [2020-10-07 Wed 05:10]
    CLOCK: [2020-10-07 Wed 04:33]--[2020-10-07 Wed 05:10] =>  0:37
    :END:
+** DONE Review<2020-10-08 Thu 08:55>99.5 
+   CLOSED: [2020-10-08 Thu 09:14]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-08 Thu 09:14]
+   CLOCK: [2020-10-08 Thu 08:54]--[2020-10-08 Thu 09:14] =>  0:20
+   :END:
+** DONE Review<2020-10-08 Thu 09:15>99.0% 
+   CLOSED: [2020-10-08 Thu 09:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-08 Thu 09:30]
+   CLOCK: [2020-10-08 Thu 09:14]--[2020-10-08 Thu 09:30] =>  0:16
+   :END:
 * lesson 6twenty four
 ** DONE Review twenty four 96.8%
    CLOSED: [2016-08-11 四 15:53]
@@ -20557,10 +20569,11 @@ but his wife did!
   :END:
 * TODO New English  
   :PROPERTIES:
-  :LAST_REPEAT: [2020-10-07 Wed 05:47]
+  :LAST_REPEAT: [2020-10-08 Thu 09:50]
   :END:
-  SCHEDULED: <2020-10-08 Thu 05:50 +1d> DEADLINE: <2020-10-08 Thu 06:10 +1d>
+  SCHEDULED: <2020-10-09 Fri 05:50 +1d> DEADLINE: <2020-10-09 Fri 06:10 +1d>
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-10-08 Thu 09:50]
   - State "DONE"       from "STARTED"    [2020-10-07 Wed 05:47]
   CLOCK: [2020-10-07 Wed 05:10]--[2020-10-07 Wed 05:47] =>  0:37
   - State "DONE"       from "STARTED"    [2020-10-06 Tue 05:52]
