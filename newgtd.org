@@ -117,12 +117,13 @@
   :END:
 * TODO eating
 <<<<<<< HEAD
-** TODO breakfast
+** STARTED breakfast
 SCHEDULED: <2020-10-09 Fri 07:00 +1d> DEADLINE: <2020-10-09 Fri 07:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-10-08 Thu 09:31]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-10-09 Fri 07:27]
    - State "DONE"       from "STARTED"    [2020-10-08 Thu 09:31]
    CLOCK: [2020-10-08 Thu 08:30]--[2020-10-08 Thu 09:01] =>  0:31
    - State "DONE"       from "STARTED"    [2020-10-07 Wed 10:47]
@@ -7481,13 +7482,14 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
-  DEADLINE: <2020-10-08 Thu 22:00 +1d>SCHEDULED: <2020-10-09 Fri 05:00 .+1d>
+* TODO [#A] sleep
+  DEADLINE: <2020-10-09 Fri 22:00 +1d>SCHEDULED: <2020-10-10 Sat 05:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-10-08 Thu 08:53]
+  :LAST_REPEAT: [2020-10-09 Fri 06:49]
   :END:
   :LOGBOOK:
-  CLOCK: [2020-10-08 Thu 21:56]
+  - State "DONE"       from "STARTED"    [2020-10-09 Fri 06:49]
+  CLOCK: [2020-10-08 Thu 21:56]--[2020-10-09 Fri 06:49] =>  8:53
   - State "DONE"       from "STARTED"    [2020-10-08 Thu 08:53]
   CLOCK: [2020-10-07 Wed 21:52]--[2020-10-08 Thu 03:53] =>  6:01
   - State "DONE"       from "STARTED"    [2020-10-07 Wed 04:16]
