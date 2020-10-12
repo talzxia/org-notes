@@ -117,13 +117,14 @@
   :END:
 * TODO eating
 <<<<<<< HEAD
-** STARTED breakfast
-SCHEDULED: <2020-10-12 Mon 07:00 +1d> DEADLINE: <2020-10-12 Mon 07:40 +1d>
+** TODO breakfast
+SCHEDULED: <2020-10-13 Tue 07:00 +1d> DEADLINE: <2020-10-13 Tue 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-10-11 Sun 10:15]
+   :LAST_REPEAT: [2020-10-12 Mon 09:15]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-10-12 Mon 06:53]
+   - State "DONE"       from "STARTED"    [2020-10-12 Mon 09:15]
+   CLOCK: [2020-10-12 Mon 06:53]--[2020-10-12 Mon 08:05] =>  1:12
    - State "DONE"       from "STARTED"    [2020-10-11 Sun 10:15]
    CLOCK: [2020-10-11 Sun 07:33]--[2020-10-11 Sun 10:15] =>  2:42
    - State "DONE"       from "STARTED"    [2020-10-10 Sat 08:38]
@@ -2512,12 +2513,13 @@ SCHEDULED: <2020-10-12 Mon 07:00 +1d> DEADLINE: <2020-10-12 Mon 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#C] lunch
+** STARTED [#C] lunch
 SCHEDULED: <2020-10-12 Mon 11:40 +1d> DEADLINE: <2020-10-12 Mon 13:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-10-11 Sun 15:09]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-10-12 Mon 11:45]
    - State "DONE"       from "STARTED"    [2020-10-11 Sun 15:09]
    CLOCK: [2020-10-11 Sun 10:43]--[2020-10-11 Sun 15:09] =>  4:26
    - State "DONE"       from "STARTED"    [2020-10-10 Sat 13:39]
@@ -13600,11 +13602,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2020-10-12 Mon 11:00 .+1d> DEADLINE: <2020-10-12 Mon 11:30 .+1d>
+   SCHEDULED: <2020-10-13 Tue 11:00 .+1d> DEADLINE: <2020-10-13 Tue 11:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-10-11 Sun 19:39]
+   :LAST_REPEAT: [2020-10-12 Mon 11:45]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-12 Mon 11:45]
+   CLOCK: [2020-10-12 Mon 11:22]--[2020-10-12 Mon 11:45] =>  0:23
    - State "DONE"       from "STARTED"    [2020-10-11 Sun 19:39]
    CLOCK: [2020-10-11 Sun 18:47]--[2020-10-11 Sun 19:39] =>  0:52
    - State "DONE"       from "STARTED"    [2020-10-10 Sat 19:08]
