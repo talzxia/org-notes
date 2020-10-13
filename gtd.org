@@ -8336,11 +8336,12 @@ CLOSED: [2017-10-22 日 20:46]
 
 <<<<<<< HEAD
 ** TODO [#C] primer plus 
-   DEADLINE: <2020-10-13 Tue 10:00 +1d> SCHEDULED: <2020-10-13 Tue 09:00 +1d>
+   DEADLINE: <2020-10-14 Wed 10:00 +1d> SCHEDULED: <2020-10-14 Wed 09:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-10-12 Mon 10:14]
+   :LAST_REPEAT: [2020-10-13 Tue 19:37]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-13 Tue 19:37]
    - State "DONE"       from "STARTED"    [2020-10-12 Mon 10:14]
    CLOCK: [2020-10-12 Mon 09:19]--[2020-10-12 Mon 10:14] =>  0:55
    - State "DONE"       from "STARTED"    [2020-10-11 Sun 10:43]
