@@ -5186,6 +5186,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2020-10-14 Wed 05:22]
    CLOCK: [2020-10-14 Wed 05:08]--[2020-10-14 Wed 05:22] =>  0:14
    :END:
+** DONE Review<2020-10-15 Thu 04:02>99.3% 
+   CLOSED: [2020-10-15 Thu 04:16]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-15 Thu 04:16]
+   CLOCK: [2020-10-15 Thu 04:02]--[2020-10-15 Thu 04:16] =>  0:14
+   :END:
 * lesson 12twenty three
 ** DONE Review twenty three 97.1%
    CLOSED: [2016-08-11 四 15:28]
@@ -20642,10 +20648,12 @@ but his wife did!
   :END:
 * TODO New English  
   :PROPERTIES:
-  :LAST_REPEAT: [2020-10-14 Wed 06:11]
+  :LAST_REPEAT: [2020-10-15 Thu 05:18]
   :END:
-  SCHEDULED: <2020-10-15 Thu 05:50 +1d> DEADLINE: <2020-10-15 Thu 06:10 +1d>
+  SCHEDULED: <2020-10-16 Fri 05:50 +1d> DEADLINE: <2020-10-16 Fri 06:10 +1d>
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-10-15 Thu 05:18]
+  CLOCK: [2020-10-15 Thu 04:22]--[2020-10-15 Thu 05:18] =>  0:56
   - State "DONE"       from "STARTED"    [2020-10-14 Wed 06:11]
   CLOCK: [2020-10-14 Wed 05:22]--[2020-10-14 Wed 06:11] =>  0:49
   - State "DONE"       from "STARTED"    [2020-10-13 Tue 04:29]
