@@ -8336,11 +8336,12 @@ CLOSED: [2017-10-22 日 20:46]
 
 <<<<<<< HEAD
 ** TODO [#C] primer plus 
-   DEADLINE: <2020-10-17 Sat 10:00 +1d> SCHEDULED: <2020-10-17 Sat 09:00 +1d>
+   DEADLINE: <2020-10-18 Sun 10:00 +1d> SCHEDULED: <2020-10-18 Sun 09:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-10-16 Fri 08:58]
+   :LAST_REPEAT: [2020-10-18 Sun 08:46]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-18 Sun 08:46]
    - State "DONE"       from "STARTED"    [2020-10-16 Fri 08:58]
    CLOCK: [2020-10-16 Fri 08:00]--[2020-10-16 Fri 08:58] =>  0:58
    - State "DONE"       from "STARTED"    [2020-10-15 Thu 21:47]
@@ -8794,9 +8795,11 @@ CLOSED: [2017-10-22 日 20:46]
   
   [2020-10-12 Mon 09:16]
 
-** STARTED [#B]go to jinan 
+** DONE [#B]go to jinan 
+   CLOSED: [2020-10-18 Sun 08:48]
    :LOGBOOK:
-   CLOCK: [2020-10-17 Sat 09:27]
+   - State "DONE"       from "STARTED"    [2020-10-18 Sun 08:48]
+   CLOCK: [2020-10-17 Sat 09:27]--[2020-10-17 Sat 10:47] =>  1:20
    :END:
   
   [2020-10-17 Sat 09:27]
