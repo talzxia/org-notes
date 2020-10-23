@@ -5234,6 +5234,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2020-10-22 Thu 06:26]
    CLOCK: [2020-10-22 Thu 06:12]--[2020-10-22 Thu 06:26] =>  0:14
    :END:
+** DONE Review<2020-10-23 Fri 07:34>99.6% 
+   CLOSED: [2020-10-23 Fri 07:47]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-23 Fri 07:47]
+   CLOCK: [2020-10-23 Fri 07:34]--[2020-10-23 Fri 07:47] =>  0:13
+   :END:
 * lesson 12twenty three
 ** DONE Review twenty three 97.1%
    CLOSED: [2016-08-11 四 15:28]
@@ -20086,15 +20092,16 @@ Where does the teacher write the assignment? The teacher writes the assignment o
 
 * New concept English
 ** TODO [#B] Book One
-   SCHEDULED:<2020-10-23 Fri 06:00 +1m>
+   SCHEDULED:<2020-11-23 Mon 06:00 +1m>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-08-24 Mon 16:42]
+   :LAST_REPEAT: [2020-10-23 Fri 07:48]
    :END:
    :PROPERTIES:
 <<<<<<< HEAD
    :LAST_REPEAT: [2020-08-24 Mon 15:41]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-23 Fri 07:48]
    - State "DONE"       from "STARTED"    [2020-08-24 Mon 16:42]
    - State "DONE"       from "STARTED"    [2020-08-24 Mon 16:42]
    - State "DONE"       from "STARTED"    [2020-08-24 Mon 15:41]
@@ -20690,10 +20697,14 @@ but his wife did!
   :END:
 * TODO New English  
   :PROPERTIES:
-  :LAST_REPEAT: [2020-10-22 Thu 07:20]
+  :LAST_REPEAT: [2020-10-24 Sat 06:07]
   :END:
-  SCHEDULED: <2020-10-23 Fri 05:50 +1d> DEADLINE: <2020-10-23 Fri 06:10 +1d>
+  SCHEDULED: <2020-10-25 Sun 05:50 +1d> DEADLINE: <2020-10-25 Sun 06:10 +1d>
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-10-24 Sat 06:07]
+  CLOCK: [2020-10-24 Sat 05:59]--[2020-10-24 Sat 06:07] =>  0:08
+  - State "DONE"       from "STARTED"    [2020-10-23 Fri 07:52]
+  CLOCK: [2020-10-23 Fri 07:48]--[2020-10-23 Fri 07:52] =>  0:04
   - State "DONE"       from "STARTED"    [2020-10-22 Thu 07:20]
   CLOCK: [2020-10-22 Thu 06:27]--[2020-10-22 Thu 07:20] =>  0:53
   - State "DONE"       from "STARTED"    [2020-10-21 Wed 05:55]
