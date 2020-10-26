@@ -8336,11 +8336,12 @@ CLOSED: [2017-10-22 日 20:46]
 
 <<<<<<< HEAD
 ** TODO [#C] primer plus 
-   DEADLINE: <2020-10-26 Mon 10:00 +1d> SCHEDULED: <2020-10-26 Mon 09:00 +1d>
+   DEADLINE: <2020-10-27 Tue 10:00 +1d> SCHEDULED: <2020-10-27 Tue 09:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-10-25 Sun 15:50]
+   :LAST_REPEAT: [2020-10-26 Mon 17:24]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-26 Mon 17:24]
    - State "DONE"       from "STARTED"    [2020-10-25 Sun 15:50]
    - State "DONE"       from "STARTED"    [2020-10-23 Fri 21:02]
    - State "DONE"       from "STARTED"    [2020-10-23 Fri 16:06]
@@ -8811,6 +8812,24 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
   
   [2020-10-17 Sat 09:27]
+
+** DONE [#B] 回鱼台 
+   CLOSED: [2020-10-26 Mon 15:03]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-26 Mon 15:03]
+   CLOCK: [2020-10-26 Mon 06:40]--[2020-10-26 Mon 13:13] =>  0:03
+   :END:
+  
+  [2020-10-26 Mon 15:00]
+
+** DONE [#B] 计算机网络基础备课 
+   CLOSED: [2020-10-26 Mon 17:24]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-26 Mon 17:24]
+   CLOCK: [2020-10-26 Mon 16:22]--[2020-10-26 Mon 17:24] =>  1:02
+   :END:
+  
+  [2020-10-26 Mon 16:21]
 
 * DONE [#B]看望任淑君老师
 <<<<<<< Updated upstream
