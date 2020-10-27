@@ -4805,6 +4805,12 @@ CLOCK: [2016-07-07 Thu 04:17]--[2016-07-07 Thu 04:42] =>  0:25
    - State "DONE"       from "STARTED"    [2019-02-25 Mon 18:11]
    CLOCK: [2019-02-25 Mon 17:52]--[2019-02-25 Mon 18:11] =>  0:19
    :END:
+** DONE Review<2020-10-27 Tue 20:17>98.4% 
+   CLOSED: [2020-10-27 Tue 20:38]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-27 Tue 20:38]
+   CLOCK: [2020-10-27 Tue 20:17]--[2020-10-27 Tue 20:38] =>  0:21
+   :END:
 * lesson 13twenty two
 ** DONE Review twenty two 93.6%
    CLOSED: [2016-08-11 四 04:13]

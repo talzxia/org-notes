@@ -4838,13 +4838,14 @@ SCHEDULED: <2020-10-28 Wed 11:40 +1d> DEADLINE: <2020-10-28 Wed 13:40 +1d>
     :END:
 13:50-14:30 检查
 
-** STARTED [#C] dinner
-   DEADLINE: <2020-10-27 Tue 17:20 +1d> SCHEDULED: <2020-10-27 Tue 18:40 +1d>
+** TODO [#C] dinner
+   DEADLINE: <2020-10-28 Wed 17:20 +1d> SCHEDULED: <2020-10-28 Wed 18:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-10-27 Tue 05:20]
+   :LAST_REPEAT: [2020-10-27 Tue 18:35]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-10-27 Tue 17:51]
+   - State "DONE"       from "STARTED"    [2020-10-27 Tue 18:35]
+   CLOCK: [2020-10-27 Tue 17:51]--[2020-10-27 Tue 18:35] =>  0:44
    - State "DONE"       from "STARTED"    [2020-10-27 Tue 05:20]
    CLOCK: [2020-10-26 Mon 17:54]--[2020-10-26 Mon 21:20] =>  3:26
    - State "DONE"       from "STARTED"    [2020-10-25 Sun 21:30]
@@ -7584,12 +7585,13 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* TODO [#A] sleep
+* STARTED [#A] sleep
   DEADLINE: <2020-10-27 Tue 22:00 +1d>SCHEDULED: <2020-10-28 Wed 05:00 .+1d>
   :PROPERTIES:
   :LAST_REPEAT: [2020-10-27 Tue 05:23]
   :END:
   :LOGBOOK:
+  CLOCK: [2020-10-27 Tue 20:56]
   - State "DONE"       from "STARTED"    [2020-10-27 Tue 05:23]
   CLOCK: [2020-10-26 Mon 21:51]--[2020-10-27 Tue 05:23] =>  7:32
   - State "DONE"       from "STARTED"    [2020-10-26 Mon 14:59]
@@ -20873,12 +20875,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-23 一 16:52]
   CLOCK: [2017-10-23 一 13:40]--[2017-10-23 一 16:52] =>  3:12
   :END:
-* TODO [#A] 计算机网络基础 give a lecture(周二 晚实训 节)
-  DEADLINE: <2020-10-27 Tue 19:00 .+w> SCHEDULED: <2020-10-27 Tue 21:00 .+w>
+* DONE [#A] 计算机网络基础 give a lecture(周二 晚实训 节)
+  CLOSED: [2020-10-27 Tue 20:16] DEADLINE: <2020-10-27 Tue 19:00 .+w> SCHEDULED: <2020-10-27 Tue 21:00 .+w>
   :PROPERTIES:
   :LAST_REPEAT: [2020-10-13 Tue 04:29]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-10-27 Tue 20:16]
+  CLOCK: [2020-10-27 Tue 19:00]--[2020-10-27 Tue 20:36] =>  1:36
   - State "DONE"       from "STARTED"    [2020-10-13 Tue 04:29]
   - State "DONE"       from "STARTED"    [2020-08-25 Tue 05:38]
   - State "DONE"       from "STARTED"    [2020-07-07 Tue 04:36]
@@ -26699,11 +26703,12 @@ BCD
 
 ThisKKKK
 <<<<<<< HEAD
-* STARTED [#c] Experience Fedora<2020-10-27 Tue +1d> 
+* TODO [#c] Experience Fedora<2020-10-28 Wed +1d> 
   :PROPERTIES:
-  :LAST_REPEAT: [2020-10-27 Tue 05:21]
+  :LAST_REPEAT: [2020-10-27 Tue 20:16]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-10-27 Tue 20:16]
   CLOCK: [2020-10-27 Tue 11:24]--[2020-10-27 Tue 12:19] =>  0:55
   - State "DONE"       from "STARTED"    [2020-10-27 Tue 05:21]
   - State "DONE"       from "STARTED"    [2020-10-25 Sun 21:30]
