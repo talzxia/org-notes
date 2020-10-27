@@ -8446,6 +8446,88 @@ for(num=1;num<=6;num++)
 for(num=1;num*num*num<=216;num++)
 
 如果与控制循环次数相比，你更关心限制立方的大小，就可以使用这样的测试条件。
+
+可以让递增的量几何增长，而不是算术增长。也就是说，每次都乘上而不是加上一个固定量：
+
+#+BEGIN_SRC  C
+  //for_geo.c
+  #include<stdio.h>
+  int main(void)
+  {
+      double debt;
+      for(debt=100.0;debt<150.0;debt=debt*1.1)
+          printf("Your debt is now $%.2f.\n",debt);
+      return 0;
+  }
+
+#+END_SRC
+
+该程序中，每次循环都把 debt 乘以 1.1，即 debt 的值每次都增加 10%，其输出如下：
+
+Your debt is now $100.00.
+Your debt is now $110.00.
+Your debt is now $121.00.
+Your debt is now $133.10.
+Your debt is now $146.41.
+
+第 3 个表达式可以使用任意合法的表达式。无论是什么表达式，每次迭代都会更新该表达式
+的值。
+
+#+BEGIN_SRC  C
+  //for_wild.c
+  #include<stdio.h>
+  int main(void)
+  {
+      int x;
+      int y=55;
+      for(x=1;y<=75;y=(++x*5)+50)
+          printf("%10d %10d\n",x,y);
+      return 0;
+  }
+#+END_SRC
+
+该循环打印 x 的值和表达式++x*5+50 的值，程序的输出如下：
+
+         1         55
+         2         60
+         3         65
+         4         70
+         5         75
+
+注意，测试涉及 y，而不是 x。for 循环中的 3 个表达式可以是不同的变量（注意，虽然该例可
+以正常运行，但是编程风格不太好。如果不在更新部分加入代数计算，程序会更加清楚）。
+
+可以省略一个或多个表达式（但是不能省略分号），只要在循环中包含能结束循环的语句即
+可。
+
+#+BEGIN_SRC C
+  //for_none.c
+  #include<stdio.h>
+  int main(viod)
+  {
+      int ans,n;
+      ans=2;
+      for(n=3;ans<=25;)
+          ans=ans*n;
+      printf("n=%d;ans=%d.\n",n,ans);
+      return 0;
+  }
+#+END_SRC
+
+程序输出如下：
+
+n=3;ans=54.
+
+该循环保持 n 的值为 3 。变量 ans 开始的值为 2，然后递增到 6 和 18，最终是 54（18 比 25 小，所
+以 for 循环进入下一次迭代，18 乘以 3 得 54）.顺带一提，省略第 2 个表达式被视为真，所以下
+面的循环会一直运行：
+
+for（；；）
+
+printf("I want some action\n");
+
+第 1 个表达式不一定是给变量赋初值，也也以使用 printf（）。记住，在执行循环的其他部
+分之前，只对第 1 个表达式求值一次或执行一次。
 * 总结与思考
 ** 数的类型
 *** 整形
