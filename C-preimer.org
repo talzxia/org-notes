@@ -8528,6 +8528,70 @@ printf("I want some action\n");
 
 第 1 个表达式不一定是给变量赋初值，也也以使用 printf（）。记住，在执行循环的其他部
 分之前，只对第 1 个表达式求值一次或执行一次。
+#+BEGIN_SRC C
+  //for_show.c
+  #include<stdio.h>
+  int main(void)
+  {
+      int num=0;
+      for(printf("Keep entering numbers!\n");num!=6;)
+          scanf("%d",&num);
+      printf("That's the one I want!\n");
+      return 0;
+  }
+#+END_SRC
+
+该程序打印第 1 行的句子一次，在用户输入 6 之前不断接受数字：
+
+Keep entering numbers!
+
+3
+
+5
+
+8 
+
+6 
+
+That's the one I want!
+
+循环体中的行为可以改变循环头中的表达式。例如，假设创建了下面的循环：
+
+for(n=1;n<10000;n=n+delta)
+
+如果程序经过几次迭代后发现 delta 太小或太大，循环中的 if 语句（详见第 7 章）可以改变
+delta 的大小。在交互式程序中，用户可以在循环运行时才改变 delta 的值。这样做也有危险
+的一面，例如，把 delta 设置为 0 就没用了。
+
+总而言之，可以自己决定如何使用 for 循环头中的表达式，这使得在执行固定次数的循环外，
+还可以做更多的事情。接下来，我们将简单讨论一些运算符，使 for 循环更加有用。
+
+小结：for 语句
+
+关键字：for
+
+一般注释：
+
+for 语句使用 3 个表达式控制循环过程，分别用分号隔开。initialize 表达式在执行 for 语句
+之前只执行一次；然后对 test 表达式求值，如果表达式为真（或非零），执行循环一次；接
+着对 update 表达式求值，并再次检查 test 表达式。for 语句是一种入口条件循环，即在执行
+循环前就决定了是否执行循环。因此，for 循环可能一次都不执行。statement 部分可以是一
+条简单语句或复合语句。
+
+形式：
+
+for(initialize;test;update)
+
+statement
+
+在 test 为假或 0 之前，重复执行 statement 部分。
+
+示例：
+
+for(n=0;n<10;n++)
+
+printf("%d%d\n",2*n+1);
+
 * 总结与思考
 ** 数的类型
 *** 整形
