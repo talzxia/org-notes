@@ -117,12 +117,13 @@
   :END:
 * TODO eating
 <<<<<<< HEAD
-** TODO breakfast
+** STARTED breakfast
 SCHEDULED: <2020-10-30 Fri 07:00 +1d> DEADLINE: <2020-10-30 Fri 07:40 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-10-29 Thu 09:15]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-10-30 Fri 07:18]
    - State "DONE"       from "STARTED"    [2020-10-29 Thu 09:15]
    CLOCK: [2020-10-29 Thu 06:41]--[2020-10-29 Thu 07:35] =>  0:54
    - State "DONE"       from "STARTED"    [2020-10-28 Wed 07:55]
@@ -7597,13 +7598,14 @@ clean up spending 15 minutes
    - State "DONE"       from "STARTED"    [2017-03-31 五 18:53]
    CLOCK: [2017-03-31 五 16:27]--[2017-03-31 五 18:53] =>  2:26
    :END:
-* STARTED [#A] sleep
-  DEADLINE: <2020-10-29 Thu 22:00 +1d>SCHEDULED: <2020-10-30 Fri 05:00 .+1d>
+* TODO [#A] sleep
+  DEADLINE: <2020-10-30 Fri 22:00 +1d>SCHEDULED: <2020-10-31 Sat 05:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-10-29 Thu 07:56]
+  :LAST_REPEAT: [2020-10-30 Fri 05:27]
   :END:
   :LOGBOOK:
-  CLOCK: [2020-10-29 Thu 21:50]
+  - State "DONE"       from "STARTED"    [2020-10-30 Fri 05:27]
+  CLOCK: [2020-10-29 Thu 21:50]--[2020-10-30 Fri 05:27] =>  7:37
   - State "DONE"       from "STARTED"    [2020-10-29 Thu 07:56]
   - State "DONE"       from "STARTED"    [2020-10-28 Wed 04:11]
   CLOCK: [2020-10-28 Wed 22:06]--[2020-10-29 Thu 06:21] =>  8:15
@@ -11627,12 +11629,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 * TODO [#B] handwriting
 ** TODO To keep Diary
-  SCHEDULED: <2020-10-30 Fri 06:30 .+1d> DEADLINE: <2020-10-30 Fri 07:00 .+1d>
+  SCHEDULED: <2020-10-31 Sat 06:30 .+1d> DEADLINE: <2020-10-31 Sat 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-10-29 Thu 09:11]
+  :LAST_REPEAT: [2020-10-30 Fri 07:18]
   :ID:       D43AD498-462A-4AC4-B9DB-8474C66510BD
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-10-30 Fri 07:18]
+  CLOCK: [2020-10-30 Fri 06:58]--[2020-10-30 Fri 07:18] =>  0:20
   - State "DONE"       from "STARTED"    [2020-10-29 Thu 09:11]
   CLOCK: [2020-10-29 Thu 08:46]--[2020-10-29 Thu 09:11] =>  0:25
   - State "DONE"       from "STARTED"    [2020-10-28 Wed 06:37]
