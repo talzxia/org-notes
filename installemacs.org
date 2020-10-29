@@ -1,0 +1,36 @@
+* emacs 下 org-mode 导出 pdf 时 pdflatex 无法找到的问题解决方案
+** 配置环境变量
+
+ 在 ~/.bash.profile 下添加如下内容
+
+ export MANPATH=MANPATH:/usr/local/texlive/2018/texmf−dist/doc/manexportINFOPATH=
+ {INFOPATH}:/usr/local/texlive/2018/texmf-dist/doc/info 
+ export PATH=${PATH}:/usr/local/texlive/2018/bin/x86_64-linux/
+
+ 保存后， 执行命令
+
+ source ~/.bash_profile
+
+** 配置 emacs 的环境变量
+   因为在 Linux 下，emacs 不会加载 zsh 中的环境变量，因此需要需要设置“PATH”变量，才能通过“C-c C-e l p”键生成并导出 latex 的 pdf 文件，否则会提示错误，无法找到 pdflatex 文件 
+ 在“.emacs”文件下，或自己的配置文件下添加如下内容
+
+*** spaceemacs
+ init.epl
+ space + f + e +d
+
+ (setenv "PATH"
+         (concat
+          "/usr/local/texlive/2018/bin/x86_64-linux" ":"
+          (getenv  "PATH")
+          )
+     )
+ (let (
+         (mypaths
+          '(
+            "/usr/local/texlive/2018/bin/x86_64-linux"
+            ))
+         )
+     (setq exec-path (append exec-path mypaths) )
+     )
+    
