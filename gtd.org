@@ -8829,12 +8829,14 @@ CLOSED: [2017-10-22 日 20:46]
   [2020-10-26 Mon 15:00]
 
 ** TODO [#B] 计算机网络基础备课 
-   DEADLINE: <2020-10-30 Fri 08:00 .+1d> SCHEDULED: <2020-10-30 Fri 09:00 .+1d>
+   DEADLINE: <2020-11-01 Sun 08:00 .+1d> SCHEDULED: <2020-10-31 Sat 09:00 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-10-29 Thu 09:36]
+   :LAST_REPEAT: [2020-10-30 Fri 10:27]
    :END:
 
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-30 Fri 10:27]
+   CLOCK: [2020-10-30 Fri 10:00]--[2020-10-30 Fri 10:27] =>  0:27
    - State "DONE"       from "STARTED"    [2020-10-29 Thu 09:36]
    CLOCK: [2020-10-29 Thu 09:16]--[2020-10-29 Thu 09:36] =>  0:20
    - State "DONE"       from "STARTED"    [2020-10-28 Wed 11:30]
@@ -8846,6 +8848,15 @@ CLOSED: [2017-10-22 日 20:46]
    :END:
   
   [2020-10-26 Mon 16:21]
+
+** DONE [#B] 看学生胳膊刮伤 
+   CLOSED: [2020-10-30 Fri 10:30]
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-10-30 Fri 10:30]
+   CLOCK: [2020-10-30 Fri 08:29]--[2020-10-30 Fri 10:00] =>  0:01
+   :END:
+  
+  [2020-10-30 Fri 10:28]
 
 * DONE [#B]看望任淑君老师
 <<<<<<< Updated upstream
