@@ -8336,11 +8336,12 @@ CLOSED: [2017-10-22 日 20:46]
 
 <<<<<<< HEAD
 ** TODO [#C] primer plus 
-   DEADLINE: <2020-11-01 Sun 10:00 +1d> SCHEDULED: <2020-11-01 Sun 09:00 +1d>
+   DEADLINE: <2020-11-02 Mon 10:00 +1d> SCHEDULED: <2020-11-02 Mon 09:00 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-10-31 Sat 21:25]
+   :LAST_REPEAT: [2020-11-01 Sun 21:34]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-11-01 Sun 21:34]
    - State "DONE"       from "STARTED"    [2020-10-31 Sat 21:25]
    - State "DONE"       from "STARTED"    [2020-10-30 Fri 14:39]
    CLOCK: [2020-10-30 Fri 14:31]--[2020-10-30 Fri 14:39] =>  0:08
@@ -8832,12 +8833,13 @@ CLOSED: [2017-10-22 日 20:46]
   [2020-10-26 Mon 15:00]
 
 ** TODO [#B] 计算机网络基础备课 
-   DEADLINE: <2020-11-01 Sun 08:00 .+1d> SCHEDULED: <2020-11-01 Sun 09:00 .+1d>
+   DEADLINE: <2020-11-02 Mon 08:00 .+1d> SCHEDULED: <2020-11-02 Mon 09:00 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-10-31 Sat 12:22]
+   :LAST_REPEAT: [2020-11-01 Sun 21:34]
    :END:
 
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-11-01 Sun 21:34]
    - State "DONE"       from "STARTED"    [2020-10-31 Sat 12:22]
    CLOCK: [2020-10-31 Sat 10:53]--[2020-10-31 Sat 12:22] =>  1:29
    - State "DONE"       from "STARTED"    [2020-10-30 Fri 10:27]
