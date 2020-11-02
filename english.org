@@ -20625,11 +20625,12 @@ but his wife did!
    - State "DONE"       from "STARTED"    [2018-01-28 Sun 16:13]
    :END:
 * TODO [#b] Words Book one
-  DEADLINE: <2020-11-02 Mon 08:30 +1m> SCHEDULED:<2020-11-02 Mon 08:00 +1m>
+  DEADLINE: <2020-12-02 Wed 08:30 +1m> SCHEDULED:<2020-12-02 Wed 08:00 +1m>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-10-02 Fri 20:53]
+  :LAST_REPEAT: [2020-11-02 Mon 08:28]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-11-02 Mon 08:28]
   - State "DONE"       from "STARTED"    [2020-10-02 Fri 20:53]
   - State "DONE"       from "STARTED"    [2020-09-02 Wed 07:06]
   - State "DONE"       from "STARTED"    [2020-08-02 Sun 07:23]

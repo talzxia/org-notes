@@ -8833,12 +8833,14 @@ CLOSED: [2017-10-22 日 20:46]
   [2020-10-26 Mon 15:00]
 
 ** TODO [#B] 计算机网络基础备课 
-   DEADLINE: <2020-11-02 Mon 08:00 .+1d> SCHEDULED: <2020-11-02 Mon 09:00 .+1d>
+   DEADLINE: <2020-11-03 Tue 08:00 .+1d> SCHEDULED: <2020-11-03 Tue 09:00 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-11-01 Sun 21:34]
+   :LAST_REPEAT: [2020-11-02 Mon 09:03]
    :END:
 
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-11-02 Mon 09:03]
+   CLOCK: [2020-11-02 Mon 08:28]--[2020-11-02 Mon 09:03] =>  0:35
    - State "DONE"       from "STARTED"    [2020-11-01 Sun 21:34]
    - State "DONE"       from "STARTED"    [2020-10-31 Sat 12:22]
    CLOCK: [2020-10-31 Sat 10:53]--[2020-10-31 Sat 12:22] =>  1:29
