@@ -117,13 +117,14 @@
   :END:
 * TODO eating
 <<<<<<< HEAD
-** STARTED breakfast
-SCHEDULED: <2020-11-04 Wed 07:00 +1d> DEADLINE: <2020-11-04 Wed 07:40 +1d>
+** TODO breakfast
+SCHEDULED: <2020-11-05 Thu 07:00 +1d> DEADLINE: <2020-11-05 Thu 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-11-03 Tue 08:00]
+   :LAST_REPEAT: [2020-11-04 Wed 08:08]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-11-04 Wed 07:16]
+   - State "DONE"       from "STARTED"    [2020-11-04 Wed 08:08]
+   CLOCK: [2020-11-04 Wed 07:16]--[2020-11-04 Wed 08:08] =>  0:52
    - State "DONE"       from "STARTED"    [2020-11-03 Tue 08:00]
    CLOCK: [2020-11-03 Tue 07:18]--[2020-11-03 Tue 08:00] =>  0:42
    - State "DONE"       from "STARTED"    [2020-11-02 Mon 08:07]
@@ -2558,12 +2559,13 @@ SCHEDULED: <2020-11-04 Wed 07:00 +1d> DEADLINE: <2020-11-04 Wed 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#C] lunch
+** STARTED [#C] lunch
 SCHEDULED: <2020-11-04 Wed 11:40 +1d> DEADLINE: <2020-11-04 Wed 13:30 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-11-03 Tue 14:26]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-11-04 Wed 11:37]
    - State "DONE"       from "STARTED"    [2020-11-03 Tue 14:26]
    CLOCK: [2020-11-03 Tue 12:22]--[2020-11-03 Tue 14:26] =>  2:04
    - State "DONE"       from "STARTED"    [2020-11-02 Mon 14:59]
@@ -13826,11 +13828,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
 ** TODO [#b] Copy a model of paiting
-   SCHEDULED: <2020-11-04 Wed 11:00 .+1d> DEADLINE: <2020-11-04 Wed 11:30 .+1d>
+   SCHEDULED: <2020-11-05 Thu 11:00 .+1d> DEADLINE: <2020-11-05 Thu 11:30 .+1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-11-03 Tue 09:45]
+   :LAST_REPEAT: [2020-11-04 Wed 11:37]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2020-11-04 Wed 11:37]
+   CLOCK: [2020-11-04 Wed 11:18]--[2020-11-04 Wed 11:37] =>  0:19
    - State "DONE"       from "STARTED"    [2020-11-03 Tue 09:45]
    CLOCK: [2020-11-03 Tue 09:24]--[2020-11-03 Tue 09:45] =>  0:21
    - State "DONE"       from "STARTED"    [2020-11-02 Mon 11:12]
@@ -19743,11 +19747,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 高龙寅、王院长来检查 8：30 至 10：30 两个小时。
 * TODO [#B] check teaching
-  DEADLINE: <2020-11-04 Wed 10:00 .+1d> SCHEDULED: <2020-11-04 Wed 09:30 .+1d>
+  DEADLINE: <2020-11-05 Thu 10:00 .+1d> SCHEDULED: <2020-11-05 Thu 09:30 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-11-03 Tue 12:22]
+  :LAST_REPEAT: [2020-11-04 Wed 11:37]
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-11-04 Wed 11:37]
+  - State "DONE"       from "STARTED"    [2020-11-04 Wed 11:18]
   - State "DONE"       from "STARTED"    [2020-11-03 Tue 12:22]
   CLOCK: [2020-11-03 Tue 09:45]--[2020-11-03 Tue 12:22] =>  2:37
   - State "DONE"       from "STARTED"    [2020-11-02 Mon 11:12]
