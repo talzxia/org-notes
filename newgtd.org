@@ -117,13 +117,14 @@
   :END:
 * TODO eating
 <<<<<<< HEAD
-** STARTED breakfast
-SCHEDULED: <2020-11-05 Thu 07:00 +1d> DEADLINE: <2020-11-05 Thu 07:40 +1d>
+** TODO breakfast
+SCHEDULED: <2020-11-06 Fri 07:00 +1d> DEADLINE: <2020-11-06 Fri 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-11-04 Wed 08:08]
+   :LAST_REPEAT: [2020-11-05 Thu 08:21]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-11-05 Thu 07:44]
+   - State "DONE"       from "STARTED"    [2020-11-05 Thu 08:21]
+   CLOCK: [2020-11-05 Thu 07:44]--[2020-11-05 Thu 08:21] =>  0:37
    - State "DONE"       from "STARTED"    [2020-11-04 Wed 08:08]
    CLOCK: [2020-11-04 Wed 07:16]--[2020-11-04 Wed 08:08] =>  0:52
    - State "DONE"       from "STARTED"    [2020-11-03 Tue 08:00]
@@ -11678,12 +11679,14 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   :END:
 * TODO [#B] handwriting
 ** TODO To keep Diary
-  SCHEDULED: <2020-11-05 Thu 06:30 .+1d> DEADLINE: <2020-11-05 Thu 07:00 .+1d>
+  SCHEDULED: <2020-11-06 Fri 06:30 .+1d> DEADLINE: <2020-11-06 Fri 07:00 .+1d>
   :PROPERTIES:
-  :LAST_REPEAT: [2020-11-04 Wed 07:16]
+  :LAST_REPEAT: [2020-11-05 Thu 11:34]
   :ID:       D43AD498-462A-4AC4-B9DB-8474C66510BD
   :END:
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2020-11-05 Thu 11:34]
+  CLOCK: [2020-11-05 Thu 09:43]--[2020-11-05 Thu 11:34] =>  1:51
   - State "DONE"       from "STARTED"    [2020-11-04 Wed 07:16]
   CLOCK: [2020-11-04 Wed 06:53]--[2020-11-04 Wed 07:16] =>  0:23
   - State "DONE"       from "STARTED"    [2020-11-03 Tue 07:18]
