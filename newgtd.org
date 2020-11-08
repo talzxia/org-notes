@@ -117,13 +117,14 @@
   :END:
 * TODO eating
 <<<<<<< HEAD
-** STARTED breakfast
-SCHEDULED: <2020-11-08 Sun 07:00 +1d> DEADLINE: <2020-11-08 Sun 07:40 +1d>
+** TODO breakfast
+SCHEDULED: <2020-11-09 Mon 07:00 +1d> DEADLINE: <2020-11-09 Mon 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-11-07 Sat 11:57]
+   :LAST_REPEAT: [2020-11-08 Sun 10:52]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-11-08 Sun 07:14]
+   - State "DONE"       from "STARTED"    [2020-11-08 Sun 10:52]
+   CLOCK: [2020-11-08 Sun 07:14]--[2020-11-08 Sun 08:32] =>  1:18
    - State "DONE"       from "STARTED"    [2020-11-07 Sat 11:57]
    CLOCK: [2020-11-07 Sat 08:13]--[2020-11-07 Sat 08:37] =>  0:24
    - State "DONE"       from "STARTED"    [2020-11-06 Fri 08:24]
@@ -2566,12 +2567,13 @@ SCHEDULED: <2020-11-08 Sun 07:00 +1d> DEADLINE: <2020-11-08 Sun 07:40 +1d>
 财经系陈卫华
 
 
-** TODO [#C] lunch
+** STARTED [#C] lunch
 SCHEDULED: <2020-11-08 Sun 11:40 +1d> DEADLINE: <2020-11-08 Sun 13:30 +1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-11-07 Sat 16:04]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-11-08 Sun 12:04]
    - State "DONE"       from "STARTED"    [2020-11-07 Sat 16:04]
    CLOCK: [2020-11-07 Sat 13:24]--[2020-11-07 Sat 16:04] =>  2:40
    - State "DONE"       from "STARTED"    [2020-11-07 Sat 11:46]
