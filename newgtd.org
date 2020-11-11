@@ -117,13 +117,14 @@
   :END:
 * TODO eating
 <<<<<<< HEAD
-** STARTED breakfast
-SCHEDULED: <2020-11-11 Wed 07:00 +1d> DEADLINE: <2020-11-11 Wed 07:40 +1d>
+** TODO breakfast
+SCHEDULED: <2020-11-12 Thu 07:00 +1d> DEADLINE: <2020-11-12 Thu 07:40 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2020-11-10 Tue 08:45]
+   :LAST_REPEAT: [2020-11-11 Wed 07:58]
    :END:
    :LOGBOOK:
-   CLOCK: [2020-11-11 Wed 07:20]
+   - State "DONE"       from "STARTED"    [2020-11-11 Wed 07:58]
+   CLOCK: [2020-11-11 Wed 07:20]--[2020-11-11 Wed 07:58] =>  0:38
    - State "DONE"       from "STARTED"    [2020-11-10 Tue 08:45]
    CLOCK: [2020-11-10 Tue 07:14]--[2020-11-10 Tue 08:45] =>  1:31
    - State "DONE"       from "STARTED"    [2020-11-09 Mon 09:03]
