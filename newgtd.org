@@ -13895,12 +13895,13 @@ CLOCK: [2017-12-12 Tue 21:41]--[2017-12-13 三 05:37]  =>  7:56
   - State "DONE"       from "STARTED"    [2017-10-23 一 06:52]
   CLOCK: [2017-10-23 一 06:25]--[2017-10-23 一 06:52] =>  0:27
   :END:
-** TODO [#b] Copy a model of paiting
+** STARTED [#b] Copy a model of paiting
    SCHEDULED: <2020-11-11 Wed 11:00 .+1d> DEADLINE: <2020-11-11 Wed 11:30 .+1d>
    :PROPERTIES:
    :LAST_REPEAT: [2020-11-10 Tue 05:57]
    :END:
    :LOGBOOK:
+   CLOCK: [2020-11-11 Wed 08:19]
    - State "DONE"       from "STARTED"    [2020-11-10 Tue 05:57]
    - State "DONE"       from "STARTED"    [2020-11-08 Sun 20:32]
    - State "DONE"       from "STARTED"    [2020-11-07 Sat 17:59]
